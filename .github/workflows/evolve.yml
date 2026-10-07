@@ -1,0 +1,36 @@
+name: evolve
+
+# 每天早晨（北京 07:10）发布昨日日报 issue（邮件通知 + 口味投票载体），
+# 然后学习所有未处理的投票评论，更新 data/prefs.json 提交回仓库。
+on:
+  schedule:
+    - cron: "10 23 * * *" # UTC 23:10 = 北京时间 07:10
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  daily-and-learn:
+    name: 日报发布与口味学习
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 发布昨日日报 issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/daily_issue.py
+
+      - name: 学习口味投票
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/learn.py

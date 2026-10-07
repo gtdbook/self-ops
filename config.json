@@ -5,6 +5,15 @@
   "digest": {
     "top_n_per_source": 15
   },
+  "evolve": {
+    "resonance_min_jaccard": 0.4,
+    "resonance_top_n": 8,
+    "rising_min_gain": 20,
+    "rising_top_n": 10,
+    "boost_factor": 40,
+    "vote_positive": ["like", "赞", "👍"],
+    "vote_negative": ["dislike", "踩", "👎"]
+  },
   "sources": {
     "hackernews": {
       "enabled": true,

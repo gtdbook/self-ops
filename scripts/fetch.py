@@ -255,6 +255,15 @@ FETCHERS = {
 # ---------------------------------------------------------------- 合并落盘
 
 
+def _score_of(it):
+    """可计分条目（HN 分数 / GitHub star）返回当前值，否则 None。"""
+    if "score" in it:
+        return it.get("score", 0)
+    if "stars" in it:
+        return it.get("stars", 0)
+    return None
+
+
 def merge_and_save(day, key, new_items, error=None):
     path = RAW_DIR / day / f"{key}.json"
     old = {}
@@ -264,20 +273,27 @@ def merge_and_save(day, key, new_items, error=None):
         except Exception:
             old = {}
     by_id = {it["id"]: it for it in old.get("items", [])}
+    stamp = now_tz().isoformat()
     for it in new_items:
+        old_it = by_id.get(it["id"])
+        cur = _score_of(it)
+        if cur is not None:
+            hist = list(old_it.get("history", [])) if old_it else []
+            hist.append({"t": stamp, "score": cur})
+            it["history"] = hist[-24:]  # 每小时一次即约 24 小时轨迹
         by_id[it["id"]] = it  # 新数据覆盖同 id 旧数据（分数/排名会更新）
     merged = list(by_id.values())
     # 保持新抓到的在前
     merged.sort(key=lambda x: x["id"], reverse=False)
     record = {
         "source": key,
-        "updated_at": now_tz().isoformat(),
+        "updated_at": stamp,
         "count": len(merged),
         "items": merged[:MAX_ITEMS_PER_DAY],
     }
     errors = old.get("errors", [])
     if error:
-        errors = (errors + [{"at": record["updated_at"], "error": error}])[-20:]
+        errors = (errors + [{"at": stamp, "error": error}])[-20:]
     if errors:
         record["errors"] = errors
     atomic_write_json(path, record)

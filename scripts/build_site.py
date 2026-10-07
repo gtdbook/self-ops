@@ -4,10 +4,13 @@ import html
 import json
 import os
 import sys
+from datetime import datetime, timezone
+from email.utils import format_datetime
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 sys.path.insert(0, os.path.dirname(__file__))
-from common import DIGEST_DIR, SITE_DIR, atomic_write_text, load_config, now_tz  # noqa: E402
+from common import DIGEST_DIR, SITE_DIR, SITE_URL, atomic_write_text, load_config, now_tz  # noqa: E402
 
 CSS = """
 :root{--bg:#f6f7f9;--card:#ffffff;--text:#1a1d21;--muted:#6b7280;--accent:#0969da;
@@ -52,6 +55,7 @@ PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
+<link rel="alternate" type="application/rss+xml" title="self-ops RSS" href="feed.xml">
 <style>{css}</style>
 </head>
 <body>
@@ -64,6 +68,7 @@ PAGE = """<!DOCTYPE html>
 <footer>
   数据来源：Hacker News API · GitHub Search · 各官方博客 RSS（版权归原作者所有）<br>
   由 <a href="https://github.com/gtdbook/self-ops">gtdbook/self-ops</a> 流水线自动生成 ·
+  <a href="feed.xml">RSS 订阅</a> ·
   更新于 {updated}
 </footer>
 </div>
@@ -114,6 +119,42 @@ def load_days(max_days):
         except Exception:
             continue
     return days
+
+
+def build_feed(latest, max_items=80):
+    """从最新日报生成 RSS 2.0，让情报站自身成为可订阅源。"""
+    try:
+        pub = format_datetime(
+            datetime.fromisoformat(latest["generated_at"]).astimezone(timezone.utc)
+        )
+    except Exception:
+        pub = format_datetime(datetime.now(timezone.utc))
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        "<rss version=\"2.0\"><channel>",
+        "<title>self-ops 情报站</title>",
+        f"<link>{SITE_URL}</link>",
+        "<description>自动抓取的每日技术情报：Hacker News / GitHub 新星 / Product Hunt / 博客 RSS</description>",
+        "<language>zh-CN</language>",
+    ]
+    count = 0
+    for sec in latest["sources"].values():
+        for it in sec["items"]:
+            if count >= max_items:
+                break
+            desc = " · ".join(
+                x for x in (sec["title"], it.get("meta", ""), it.get("summary", "")) if x
+            )
+            parts.append(
+                f"<item><title>{escape(it['title'])}</title>"
+                f"<link>{escape(it['url'])}</link>"
+                f"<description>{escape(desc)}</description>"
+                f"<pubDate>{pub}</pubDate>"
+                f"<guid>{escape(it['url'])}</guid></item>"
+            )
+            count += 1
+    parts.append("</channel></rss>")
+    return "\n".join(parts)
 
 
 def build():
@@ -175,8 +216,7 @@ def build():
         )
         atomic_write_text(SITE_DIR / "day" / f"{d['date']}.html", page)
 
-    atomic_write_text(
-        SITE_DIR / "404.html",
+    atomic_write_text(SITE_DIR / "404.html",
         PAGE.format(
             title="404 · self-ops",
             css=CSS,
@@ -184,7 +224,8 @@ def build():
             updated=updated,
         ),
     )
-    print(f"站点构建完成：{len(days)} 天日报，输出到 _site/")
+    atomic_write_text(SITE_DIR / "feed.xml", build_feed(days[0]))
+    print(f"站点构建完成：{len(days)} 天日报 + feed.xml，输出到 _site/")
 
 
 if __name__ == "__main__":

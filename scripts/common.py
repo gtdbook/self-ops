@@ -17,6 +17,7 @@ DATA_DIR = REPO_ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
 DIGEST_DIR = DATA_DIR / "digest"
 SITE_DIR = REPO_ROOT / "_site"
+SITE_URL = "https://gtdbook.github.io/self-ops/"
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) self-ops/1.0 (+https://github.com/gtdbook/self-ops)"
 
@@ -203,6 +204,24 @@ def append_panel_comment(token, repo, body):
 
 
 # ---------------------------------------------------------------- 展示格式
+
+
+_STOPWORDS = {
+    "the", "a", "an", "and", "or", "for", "with", "new", "how", "why", "what",
+    "your", "you", "its", "is", "are", "to", "of", "in", "on", "from", "at",
+    "by", "as", "this", "that", "it", "be", "not", "but", "can", "will", "now",
+    "announces", "announced", "launches", "launched", "unveils", "unveiled",
+    "vs", "using", "into", "about", "after", "before", "over", "more", "most",
+    "best", "top", "all", "get", "gets", "set", "sets", "day", "days", "week",
+    "year", "first", "one", "two", "her", "his", "their", "they", "them",
+    "was", "were", "has", "have", "had", "than", "then", "when", "who", "what",
+}
+
+
+def tokenize_title(s):
+    """标题分词（小写、去停用词、去纯数字），用于共振聚类与口味学习。"""
+    words = re.findall(r"[a-z0-9]{3,}", (s or "").lower())
+    return [w for w in words if w not in _STOPWORDS and not w.isdigit()]
 
 
 def format_meta(source_key, item):
