@@ -1,0 +1,2707 @@
+{
+ "source": "blog_rss",
+ "updated_at": "2026-10-07T17:57:16.448984+08:00",
+ "count": 2284,
+ "items": [
+  {
+   "id": "rss-0011e7d2e2f3e9c5",
+   "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
+   "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 27 Jun 2025 21:09:27 GMT",
+   "published_iso": "2025-06-27T21:09:27+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-005a369e59853676",
+   "title": "Evaluating AI’s ability to perform scientific research tasks",
+   "url": "https://openai.com/index/frontierscience",
+   "feed_name": "OpenAI",
+   "published": "Tue, 16 Dec 2025 09:00:00 GMT",
+   "published_iso": "2025-12-16T09:00:00+00:00",
+   "summary": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research."
+  },
+  {
+   "id": "rss-00958e572b24c960",
+   "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
+   "url": "https://huggingface.co/blog/lematerial",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 10 Dec 2024 00:00:00 GMT",
+   "published_iso": "2024-12-10T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-00d47c7482b5edd3",
+   "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+   "url": "https://huggingface.co/blog/how-to-train",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 14 Feb 2020 00:00:00 GMT",
+   "published_iso": "2020-02-14T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-00e585333d603065",
+   "title": "Understanding the capabilities, limitations, and societal impact of large language models",
+   "url": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models",
+   "feed_name": "OpenAI",
+   "published": "Thu, 04 Feb 2021 08:00:00 GMT",
+   "published_iso": "2021-02-04T08:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-00ed4ffeaf49bcf7",
+   "title": "OpenAI announces nonprofit commission advisors",
+   "url": "https://openai.com/index/nonprofit-commission-advisors",
+   "feed_name": "OpenAI",
+   "published": "Tue, 15 Apr 2025 13:00:00 GMT",
+   "published_iso": "2025-04-15T13:00:00+00:00",
+   "summary": "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts."
+  },
+  {
+   "id": "rss-0116832adda7180d",
+   "title": "1 million business customers putting AI to work",
+   "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+   "feed_name": "OpenAI",
+   "published": "Wed, 05 Nov 2025 05:00:00 GMT",
+   "published_iso": "2025-11-05T05:00:00+00:00",
+   "summary": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work."
+  },
+  {
+   "id": "rss-012955823636554b",
+   "title": "Hugging Face Text Generation Inference available for AWS Inferentia2",
+   "url": "https://huggingface.co/blog/text-generation-inference-on-inferentia2",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 01 Feb 2024 00:00:00 GMT",
+   "published_iso": "2024-02-01T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-016378578c1d36c2",
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "feed_name": "Hugging Face",
+   "published": "Sat, 03 Oct 2026 22:56:48 GMT",
+   "published_iso": "2026-10-03T22:56:48+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0192a09d7c871fca",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "feed_name": "OpenAI",
+   "published": "Fri, 25 Sep 2026 19:00:00 GMT",
+   "published_iso": "2026-09-25T19:00:00+00:00",
+   "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+   "id": "rss-01c87a6f50fe8605",
+   "title": "Uncovering repurposed medicines to fight liver fibrosis",
+   "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+   "feed_name": "Google DeepMind",
+   "published": "Sat, 16 May 2026 07:40:27 +0000",
+   "published_iso": "2026-05-16T07:40:27+00:00",
+   "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
+  },
+  {
+   "id": "rss-01d0ed630f34b6f6",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "feed_name": "OpenAI",
+   "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+   "published_iso": "2026-09-23T12:00:00+00:00",
+   "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+  },
+  {
+   "id": "rss-022f43ef8cd11943",
+   "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
+   "url": "https://huggingface.co/blog/hf-cli",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 25 Jul 2025 00:00:00 GMT",
+   "published_iso": "2025-07-25T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0235c23c484ad0b5",
+   "title": "One Year Since the “DeepSeek Moment”",
+   "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 20 Jan 2026 15:02:10 GMT",
+   "published_iso": "2026-01-20T15:02:10+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-028400306a7e237e",
+   "title": "How to deploy and fine-tune DeepSeek models on AWS",
+   "url": "https://huggingface.co/blog/deepseek-r1-aws",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 30 Jan 2025 00:00:00 GMT",
+   "published_iso": "2025-01-30T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-02a684446e86789f",
+   "title": "AI for everyone in every language",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "feed_name": "Google AI Blog",
+   "published": "Tue, 15 Sep 2026 16:00:00 +0000",
+   "published_iso": "2026-09-15T16:00:00+00:00",
+   "summary": "Animation of several words in different languages slowly zooming past"
+  },
+  {
+   "id": "rss-02cac2f811741176",
+   "title": "1 Billion Classifications",
+   "url": "https://huggingface.co/blog/billion-classifications",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 13 Feb 2025 00:00:00 GMT",
+   "published_iso": "2025-02-13T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-030f9965b8638044",
+   "title": "Deploy Hugging Face models easily with Amazon SageMaker",
+   "url": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 08 Jul 2021 00:00:00 GMT",
+   "published_iso": "2021-07-08T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-031421652db5e34f",
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "feed_name": "OpenAI",
+   "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+   "published_iso": "2026-09-10T00:00:00+00:00",
+   "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+  },
+  {
+   "id": "rss-031fe56c38cfff55",
+   "title": "Predicting model behavior before release by simulating deployment",
+   "url": "https://openai.com/index/deployment-simulation",
+   "feed_name": "OpenAI",
+   "published": "Tue, 16 Jun 2026 00:00:00 GMT",
+   "published_iso": "2026-06-16T00:00:00+00:00",
+   "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+  },
+  {
+   "id": "rss-03222db2eaa13d1a",
+   "title": "The PR you would have opened yourself",
+   "url": "https://huggingface.co/blog/transformers-to-mlx",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-03b963c6513f164f",
+   "title": "Introducing Prodigy-HF: a direct integration with Hugging Face",
+   "url": "https://huggingface.co/blog/prodigy-hf",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 07 Nov 2023 00:00:00 GMT",
+   "published_iso": "2023-11-07T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-03ca9f5d14ce7f82",
+   "title": "From model to agent: Equipping the Responses API with a computer environment",
+   "url": "https://openai.com/index/equip-responses-api-computer-environment",
+   "feed_name": "OpenAI",
+   "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+   "published_iso": "2026-03-11T11:00:00+00:00",
+   "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
+  },
+  {
+   "id": "rss-03e080d31c7139a3",
+   "title": "Efficient Request Queueing – Optimizing LLM Performance",
+   "url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 02 Apr 2025 13:33:53 GMT",
+   "published_iso": "2025-04-02T13:33:53+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-03f3c0f73735e0d0",
+   "title": "mmBERT: ModernBERT goes Multilingual",
+   "url": "https://huggingface.co/blog/mmbert",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 09 Sep 2025 00:00:00 GMT",
+   "published_iso": "2025-09-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-04073ce5ba3309e0",
+   "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+   "url": "https://huggingface.co/blog/smolvla",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 03 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-03T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0417997d923f07f6",
+   "title": "OpenAI frontier models and Codex are now available on AWS",
+   "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+   "feed_name": "OpenAI",
+   "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+   "published_iso": "2026-06-01T10:00:00+00:00",
+   "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can ge"
+  },
+  {
+   "id": "rss-042d9c6e5003d7c2",
+   "title": "Deploying the AI Comic Factory using the Inference API",
+   "url": "https://huggingface.co/blog/ai-comic-factory",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 02 Oct 2023 00:00:00 GMT",
+   "published_iso": "2023-10-02T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0453af9ffcc0d040",
+   "title": "GPT-5.5 Bio Bug Bounty",
+   "url": "https://openai.com/index/bio-bug-bounty",
+   "feed_name": "OpenAI",
+   "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+   "published_iso": "2026-07-09T10:00:00+00:00",
+   "summary": "Details about the OpenAI Bio Bounty program"
+  },
+  {
+   "id": "rss-046838869b448dd1",
+   "title": "A joint statement from OpenAI and Microsoft",
+   "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+   "feed_name": "OpenAI",
+   "published": "Thu, 11 Sep 2025 14:00:00 GMT",
+   "published_iso": "2025-09-11T14:00:00+00:00",
+   "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation."
+  },
+  {
+   "id": "rss-0472b134688239c1",
+   "title": "OpenAI Expands Leadership with Fidji Simo",
+   "url": "https://openai.com/index/leadership-expansion-with-fidji-simo",
+   "feed_name": "OpenAI",
+   "published": "Wed, 07 May 2025 21:00:00 GMT",
+   "published_iso": "2025-05-07T21:00:00+00:00",
+   "summary": "Read the message Sam shared with the company earlier today."
+  },
+  {
+   "id": "rss-049330f1d777ccd3",
+   "title": "Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?",
+   "url": "https://huggingface.co/blog/leaderboard-contextual",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 05 Mar 2024 00:00:00 GMT",
+   "published_iso": "2024-03-05T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-049c45eec377004f",
+   "title": "Awakening Sleeping Beauties at The Met",
+   "url": "https://openai.com/index/the-met-museum",
+   "feed_name": "OpenAI",
+   "published": "Wed, 14 Aug 2024 10:00:00 GMT",
+   "published_iso": "2024-08-14T10:00:00+00:00",
+   "summary": "AI can enrich lives through beauty and creativity, and its artistic potential shines in \"Sleeping Beauties: Reawakening Fashion,\" a collaborative exhibit from The Met's Costume Institute."
+  },
+  {
+   "id": "rss-04d566aca3e30b99",
+   "title": "Introducing 4o Image Generation",
+   "url": "https://openai.com/index/introducing-4o-image-generation",
+   "feed_name": "OpenAI",
+   "published": "Tue, 25 Mar 2025 11:05:00 GMT",
+   "published_iso": "2025-03-25T11:05:00+00:00",
+   "summary": "This 2025 launch introduced native image generation in GPT‑4o, including stronger text rendering and instruction following. Explore ChatGPT Images 2.5."
+  },
+  {
+   "id": "rss-04d6a1d695c66b58",
+   "title": "Disrupting malicious uses of AI: October 2025",
+   "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+   "feed_name": "OpenAI",
+   "published": "Tue, 07 Oct 2025 03:00:00 GMT",
+   "published_iso": "2025-10-07T03:00:00+00:00",
+   "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms."
+  },
+  {
+   "id": "rss-04dbcdd1e1d91c0f",
+   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+   "url": "https://openai.com/index/hsp-gruppe",
+   "feed_name": "OpenAI",
+   "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+   "published_iso": "2026-08-07T09:00:00+00:00",
+   "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+  },
+  {
+   "id": "rss-0508bf2060562e49",
+   "title": "OpenAI partners with Condé Nast",
+   "url": "https://openai.com/index/conde-nast",
+   "feed_name": "OpenAI",
+   "published": "Tue, 20 Aug 2024 11:00:00 GMT",
+   "published_iso": "2024-08-20T11:00:00+00:00",
+   "summary": "Condé Nast"
+  },
+  {
+   "id": "rss-053e6a232aec39f0",
+   "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
+   "url": "https://openai.com/index/child-safety-adopting-sbd-principles",
+   "feed_name": "OpenAI",
+   "published": "Tue, 23 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-23T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0556765184fece5f",
+   "title": "How Cursor uses GPT-5",
+   "url": "https://openai.com/index/gpt-5-cursor",
+   "feed_name": "OpenAI",
+   "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+   "published_iso": "2025-08-07T00:00:00+00:00",
+   "summary": "Learn how Cursor uses GPT-5."
+  },
+  {
+   "id": "rss-056a449dbce2f23f",
+   "title": "SmolVLM2: Bringing Video Understanding to Every Device",
+   "url": "https://huggingface.co/blog/smolvlm2",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 20 Feb 2025 00:00:00 GMT",
+   "published_iso": "2025-02-20T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-056aa0a51f0138af",
+   "title": "Deceptive Employment Scheme: IT worker activity",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers",
+   "feed_name": "OpenAI",
+   "published": "Sun, 01 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-01T00:00:00+00:00",
+   "summary": "OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to develop materials for potentially fraudulent remote-job applications."
+  },
+  {
+   "id": "rss-0582363bf91ecf5b",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "feed_name": "OpenAI",
+   "published": "Thu, 01 Oct 2026 16:00:00 GMT",
+   "published_iso": "2026-10-01T16:00:00+00:00",
+   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+  },
+  {
+   "id": "rss-05b83b227a68859c",
+   "title": "Creating images with ChatGPT",
+   "url": "https://openai.com/academy/image-generation",
+   "feed_name": "OpenAI",
+   "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-10T00:00:00+00:00",
+   "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes."
+  },
+  {
+   "id": "rss-05ccdc19191c4bae",
+   "title": "Liftoff! How to get started with your first ML project 🚀",
+   "url": "https://huggingface.co/blog/your-first-ml-project",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 29 Jun 2022 00:00:00 GMT",
+   "published_iso": "2022-06-29T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-05d191085feb7797",
+   "title": "AI Speech Recognition in Unity",
+   "url": "https://huggingface.co/blog/unity-asr",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 02 Jun 2023 00:00:00 GMT",
+   "published_iso": "2023-06-02T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-05d3c5cd4cae571d",
+   "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+   "url": "https://openai.com/index/gpt-5-5-instant",
+   "feed_name": "OpenAI",
+   "published": "Tue, 05 May 2026 10:00:00 GMT",
+   "published_iso": "2026-05-05T10:00:00+00:00",
+   "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+  },
+  {
+   "id": "rss-0663faec43616c69",
+   "title": "AI safety needs social scientists",
+   "url": "https://openai.com/index/ai-safety-needs-social-scientists",
+   "feed_name": "OpenAI",
+   "published": "Tue, 19 Feb 2019 08:00:00 GMT",
+   "published_iso": "2019-02-19T08:00:00+00:00",
+   "summary": "We’ve written a paper arguing that long-term AI safety research needs social scientists to ensure AI alignment algorithms succeed when actual humans are involved. Properly aligning advanced AI systems with human values r"
+  },
+  {
+   "id": "rss-0665ff58e4347de7",
+   "title": "Enhancing news in ChatGPT with The Atlantic",
+   "url": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic",
+   "feed_name": "OpenAI",
+   "published": "Wed, 29 May 2024 07:30:00 GMT",
+   "published_iso": "2024-05-29T07:30:00+00:00",
+   "summary": "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable within OpenAI’s produc"
+  },
+  {
+   "id": "rss-06d25d939cc3fd59",
+   "title": "Exploring the Daily Papers Page on Hugging Face",
+   "url": "https://huggingface.co/blog/daily-papers",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 23 Sep 2024 00:00:00 GMT",
+   "published_iso": "2024-09-23T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-06dd07515da549bb",
+   "title": "Frontier Model Forum",
+   "url": "https://openai.com/index/frontier-model-forum",
+   "feed_name": "OpenAI",
+   "published": "Wed, 26 Jul 2023 07:00:00 GMT",
+   "published_iso": "2023-07-26T07:00:00+00:00",
+   "summary": "We’re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating information sharing among"
+  },
+  {
+   "id": "rss-07086e73bc037c65",
+   "title": "OpenAI to acquire Neptune",
+   "url": "https://openai.com/index/openai-to-acquire-neptune",
+   "feed_name": "OpenAI",
+   "published": "Wed, 03 Dec 2025 10:00:00 GMT",
+   "published_iso": "2025-12-03T10:00:00+00:00",
+   "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training."
+  },
+  {
+   "id": "rss-070bbfebf0ebbaf3",
+   "title": "Improved Techniques for Training Consistency Models",
+   "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+   "feed_name": "OpenAI",
+   "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+   "published_iso": "2024-06-20T00:00:00+00:00",
+   "summary": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training."
+  },
+  {
+   "id": "rss-0720f18be7adc31c",
+   "title": "Superalignment Fast Grants",
+   "url": "https://openai.com/index/superalignment-fast-grants",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+   "published_iso": "2023-12-14T08:00:00+00:00",
+   "summary": "We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more."
+  },
+  {
+   "id": "rss-0723f553c0b85844",
+   "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+   "url": "https://openai.com/index/ntt-data",
+   "feed_name": "OpenAI",
+   "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+   "published_iso": "2026-07-22T00:00:00+00:00",
+   "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+  },
+  {
+   "id": "rss-072fb0bb669fbed9",
+   "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-edge",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 15 May 2025 13:13:45 GMT",
+   "published_iso": "2025-05-15T13:13:45+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-073aba8a42e35e1d",
+   "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
+   "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 06 Oct 2026 16:53:17 +0000",
+   "published_iso": "2026-10-06T16:53:17+00:00",
+   "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory."
+  },
+  {
+   "id": "rss-073c516c5f18fd57",
+   "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2",
+   "url": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 06 Feb 2023 00:00:00 GMT",
+   "published_iso": "2023-02-06T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-074e0c198686efe8",
+   "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
+   "url": "https://huggingface.co/blog/leaderboard-livecodebench",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 16 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-076611c99092231b",
+   "title": "Inside Mirakl's agentic commerce vision",
+   "url": "https://openai.com/index/mirakl",
+   "feed_name": "OpenAI",
+   "published": "Mon, 01 Dec 2025 22:00:00 GMT",
+   "published_iso": "2025-12-01T22:00:00+00:00",
+   "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus."
+  },
+  {
+   "id": "rss-076893d780647b71",
+   "title": "Surging developer productivity with custom GPTs",
+   "url": "https://openai.com/index/paf",
+   "feed_name": "OpenAI",
+   "published": "Tue, 18 Jun 2024 08:45:00 GMT",
+   "published_iso": "2024-06-18T08:45:00+00:00",
+   "summary": "Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy ("
+  },
+  {
+   "id": "rss-076a4d9049f3b7bb",
+   "title": "How AI training scales",
+   "url": "https://openai.com/index/how-ai-training-scales",
+   "feed_name": "OpenAI",
+   "published": "Fri, 14 Dec 2018 08:00:00 GMT",
+   "published_iso": "2018-12-14T08:00:00+00:00",
+   "summary": "We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have noisier gradients, increas"
+  },
+  {
+   "id": "rss-076e167a4cea3fb4",
+   "title": "Sycophancy in GPT-4o: what happened and what we’re doing about it",
+   "url": "https://openai.com/index/sycophancy-in-gpt-4o",
+   "feed_name": "OpenAI",
+   "published": "Tue, 29 Apr 2025 18:00:00 GMT",
+   "published_iso": "2025-04-29T18:00:00+00:00",
+   "summary": "We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often described as sycophantic."
+  },
+  {
+   "id": "rss-076e1c59813985b4",
+   "title": "Getting started with ChatGPT",
+   "url": "https://openai.com/academy/getting-started",
+   "feed_name": "OpenAI",
+   "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+   "published_iso": "2026-07-10T00:00:00+00:00",
+   "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+  },
+  {
+   "id": "rss-07728342ff5bd77d",
+   "title": "OpenAI Scholars 2018: Final projects",
+   "url": "https://openai.com/index/openai-scholars-2018-final-projects",
+   "feed_name": "OpenAI",
+   "published": "Mon, 10 Sep 2018 07:00:00 GMT",
+   "published_iso": "2018-09-10T07:00:00+00:00",
+   "summary": "Our first cohort of OpenAI Scholars has now completed the program."
+  },
+  {
+   "id": "rss-0777651a191e7d6e",
+   "title": "Faster assisted generation support for Intel Gaudi",
+   "url": "https://huggingface.co/blog/assisted-generation-support-gaudi",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 04 Jun 2024 00:00:00 GMT",
+   "published_iso": "2024-06-04T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0782024bcee17f14",
+   "title": "Helping ChatGPT better recognize context in sensitive conversations",
+   "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-14T00:00:00+00:00",
+   "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
+  },
+  {
+   "id": "rss-07a59789a1f95f86",
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "feed_name": "OpenAI",
+   "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "published_iso": "2026-07-21T07:00:00+00:00",
+   "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+  },
+  {
+   "id": "rss-07a9214c693b875b",
+   "title": "Security incident disclosure — July 2026",
+   "url": "https://huggingface.co/blog/security-incident-july-2026",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+   "published_iso": "2026-07-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-07a9efb9a15596c5",
+   "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+   "url": "https://openai.com/index/v7",
+   "feed_name": "OpenAI",
+   "published": "Mon, 21 Sep 2026 00:00:00 GMT",
+   "published_iso": "2026-09-21T00:00:00+00:00",
+   "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+  },
+  {
+   "id": "rss-080dec4a052bdc97",
+   "title": "Navigating the challenges and opportunities of synthetic voices",
+   "url": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices",
+   "feed_name": "OpenAI",
+   "published": "Fri, 29 Mar 2024 00:00:00 GMT",
+   "published_iso": "2024-03-29T00:00:00+00:00",
+   "summary": "We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices."
+  },
+  {
+   "id": "rss-083b5505811e9c85",
+   "title": "Cohere on Hugging Face Inference Providers 🔥",
+   "url": "https://huggingface.co/blog/inference-providers-cohere",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 16 Apr 2025 00:00:00 GMT",
+   "published_iso": "2025-04-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-084226a0764b46e5",
+   "title": "Showcase Your Projects in Spaces using Gradio",
+   "url": "https://huggingface.co/blog/gradio-spaces",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 05 Oct 2021 00:00:00 GMT",
+   "published_iso": "2021-10-05T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-08a827e7278a179b",
+   "title": "New in llama.cpp: Model Management",
+   "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 11 Dec 2025 15:47:44 GMT",
+   "published_iso": "2025-12-11T15:47:44+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-08b04d9652ca2843",
+   "title": "Automating 90% of finance and legal work with agents",
+   "url": "https://openai.com/index/hebbia",
+   "feed_name": "OpenAI",
+   "published": "Tue, 25 Mar 2025 10:00:00 GMT",
+   "published_iso": "2025-03-25T10:00:00+00:00",
+   "summary": "Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI"
+  },
+  {
+   "id": "rss-08d1765f6f1a3c2d",
+   "title": "Introducing the Realtime API",
+   "url": "https://openai.com/index/introducing-the-realtime-api",
+   "feed_name": "OpenAI",
+   "published": "Tue, 01 Oct 2024 10:05:00 GMT",
+   "published_iso": "2024-10-01T10:05:00+00:00",
+   "summary": "Developers can now build fast speech-to-speech experiences into their applications"
+  },
+  {
+   "id": "rss-08d94691e993196e",
+   "title": "An Alien Mind",
+   "url": "https://openai.com/index/an-alien-mind",
+   "feed_name": "OpenAI",
+   "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+   "published_iso": "2026-09-06T09:00:00+00:00",
+   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+  },
+  {
+   "id": "rss-0928cd498af74e0a",
+   "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
+   "url": "https://huggingface.co/blog/agents-js",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 24 Jul 2023 00:00:00 GMT",
+   "published_iso": "2023-07-24T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-094b6d8bc0c0e955",
+   "title": "Introducing parental controls",
+   "url": "https://openai.com/index/introducing-parental-controls",
+   "feed_name": "OpenAI",
+   "published": "Mon, 29 Sep 2025 03:00:00 GMT",
+   "published_iso": "2025-09-29T03:00:00+00:00",
+   "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes."
+  },
+  {
+   "id": "rss-095436dbe2ea3c26",
+   "title": "Supercharged Searching on the 🤗 Hub",
+   "url": "https://huggingface.co/blog/searching-the-hub",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 25 Jan 2022 00:00:00 GMT",
+   "published_iso": "2022-01-25T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0970685988e40ee9",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "feed_name": "Google DeepMind",
+   "published": "Thu, 24 Sep 2026 16:20:39 +0000",
+   "published_iso": "2026-09-24T16:20:39+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-09a84312cc4b2e23",
+   "title": "Running Codex safely at OpenAI",
+   "url": "https://openai.com/index/running-codex-safely",
+   "feed_name": "OpenAI",
+   "published": "Fri, 08 May 2026 12:30:00 GMT",
+   "published_iso": "2026-05-08T12:30:00+00:00",
+   "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
+  },
+  {
+   "id": "rss-09ab76a1217327fb",
+   "title": "Work with Codex from anywhere",
+   "url": "https://openai.com/index/work-with-codex-from-anywhere",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 May 2026 13:00:00 GMT",
+   "published_iso": "2026-05-14T13:00:00+00:00",
+   "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
+  },
+  {
+   "id": "rss-09b9be56a3b039e7",
+   "title": "Introducing The World's Largest Open Multilingual Language Model: BLOOM",
+   "url": "https://huggingface.co/blog/bloom",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 12 Jul 2022 00:00:00 GMT",
+   "published_iso": "2022-07-12T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-09bc072b841478c8",
+   "title": "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
+   "url": "https://huggingface.co/blog/huggy-lingo",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 02 Aug 2023 00:00:00 GMT",
+   "published_iso": "2023-08-02T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-09eb7ecc11ee66fb",
+   "title": "Addendum to o3 and o4-mini system card: Codex",
+   "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum",
+   "feed_name": "OpenAI",
+   "published": "Fri, 16 May 2025 08:00:00 GMT",
+   "published_iso": "2025-05-16T08:00:00+00:00",
+   "summary": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of env"
+  },
+  {
+   "id": "rss-09f9dc1b5215ea73",
+   "title": "Replit expands access to software creation with GPT-5.6 Luna",
+   "url": "https://openai.com/index/replit",
+   "feed_name": "OpenAI",
+   "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "published_iso": "2026-08-19T07:00:00+00:00",
+   "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+  },
+  {
+   "id": "rss-0a15d7f499997212",
+   "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+   "url": "https://huggingface.co/blog/textgen-pipe-gaudi",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 29 Feb 2024 00:00:00 GMT",
+   "published_iso": "2024-02-29T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0a1b4fcbd1a36e91",
+   "title": "Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial",
+   "url": "https://huggingface.co/blog/open-r1/mini-r1-contdown-game",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 31 Jan 2025 10:29:40 GMT",
+   "published_iso": "2025-01-31T10:29:40+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0a8ba04174fed503",
+   "title": "“Cyber Special Operations”: China-linked influence planning",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+   "feed_name": "OpenAI",
+   "published": "Sun, 01 Feb 2026 00:00:00 GMT",
+   "published_iso": "2026-02-01T00:00:00+00:00",
+   "summary": "OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations."
+  },
+  {
+   "id": "rss-0af0c5c7221882c0",
+   "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+   "url": "https://openai.com/index/wasmer",
+   "feed_name": "OpenAI",
+   "published": "Wed, 03 Jun 2026 12:00:00 GMT",
+   "published_iso": "2026-06-03T12:00:00+00:00",
+   "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+  },
+  {
+   "id": "rss-0b0ac743b8c9440f",
+   "title": "Accelerating Hugging Face Transformers with AWS Inferentia2",
+   "url": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 17 Apr 2023 00:00:00 GMT",
+   "published_iso": "2023-04-17T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0b10fc6a1297cca8",
+   "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+   "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 16 May 2023 00:00:00 GMT",
+   "published_iso": "2023-05-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0b114fe032efff2c",
+   "title": "Seizing the AI opportunity",
+   "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+   "feed_name": "OpenAI",
+   "published": "Mon, 27 Oct 2025 12:00:00 GMT",
+   "published_iso": "2025-10-27T12:00:00+00:00",
+   "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. l"
+  },
+  {
+   "id": "rss-0b1e50b280e82369",
+   "title": "Extending single-minus amplitudes to gravitons",
+   "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+   "feed_name": "OpenAI",
+   "published": "Wed, 04 Mar 2026 10:00:00 GMT",
+   "published_iso": "2026-03-04T10:00:00+00:00",
+   "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
+  },
+  {
+   "id": "rss-0b4d41f3f0256100",
+   "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+   "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+   "feed_name": "OpenAI",
+   "published": "Mon, 27 Oct 2025 10:00:00 GMT",
+   "published_iso": "2025-10-27T10:00:00+00:00",
+   "summary": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how "
+  },
+  {
+   "id": "rss-0b5ae95497280fa8",
+   "title": "Powering product discovery in ChatGPT",
+   "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+   "feed_name": "OpenAI",
+   "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+   "published_iso": "2026-03-24T09:00:00+00:00",
+   "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+  },
+  {
+   "id": "rss-0b7c36fc64a3f971",
+   "title": "How Amgen uses GPT-5",
+   "url": "https://openai.com/index/gpt-5-amgen",
+   "feed_name": "OpenAI",
+   "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+   "published_iso": "2025-08-07T00:00:00+00:00",
+   "summary": "Learn how Amgen uses GPT-5."
+  },
+  {
+   "id": "rss-0b7e7105cfbbde7f",
+   "title": "API Partnership with Stack Overflow",
+   "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+   "feed_name": "OpenAI",
+   "published": "Mon, 06 May 2024 00:00:00 GMT",
+   "published_iso": "2024-05-06T00:00:00+00:00",
+   "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica"
+  },
+  {
+   "id": "rss-0b871ff6f16df086",
+   "title": "Gradio is joining Hugging Face!",
+   "url": "https://huggingface.co/blog/gradio-joins-hf",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 21 Dec 2021 00:00:00 GMT",
+   "published_iso": "2021-12-21T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0bb3122cc1a79b66",
+   "title": "Mixture of Experts Explained",
+   "url": "https://huggingface.co/blog/moe",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 11 Dec 2023 00:00:00 GMT",
+   "published_iso": "2023-12-11T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0bd76ec38b1168d2",
+   "title": "Gradio-Lite: Serverless Gradio Running Entirely in Your Browser",
+   "url": "https://huggingface.co/blog/gradio-lite",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 19 Oct 2023 00:00:00 GMT",
+   "published_iso": "2023-10-19T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0bee586ed31a2a43",
+   "title": "Requests for Research 2.0",
+   "url": "https://openai.com/index/requests-for-research-2",
+   "feed_name": "OpenAI",
+   "published": "Wed, 31 Jan 2018 08:00:00 GMT",
+   "published_iso": "2018-01-31T08:00:00+00:00",
+   "summary": "We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI."
+  },
+  {
+   "id": "rss-0c1f630398bc8caa",
+   "title": "Bringing the magic of AI to Mattel’s iconic brands",
+   "url": "https://openai.com/index/mattels-iconic-brands",
+   "feed_name": "OpenAI",
+   "published": "Thu, 12 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-12T00:00:00+00:00",
+   "summary": "OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage."
+  },
+  {
+   "id": "rss-0c2850c01e445441",
+   "title": "Fast-tracking genetic leads to reverse cellular aging",
+   "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+   "feed_name": "Google DeepMind",
+   "published": "Mon, 18 May 2026 18:21:39 +0000",
+   "published_iso": "2026-05-18T18:21:39+00:00",
+   "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
+  },
+  {
+   "id": "rss-0c3e0d48ab203820",
+   "title": "Team++",
+   "url": "https://openai.com/index/team-plus-plus",
+   "feed_name": "OpenAI",
+   "published": "Thu, 31 Mar 2016 07:00:00 GMT",
+   "published_iso": "2016-03-31T07:00:00+00:00",
+   "summary": "We’ve had some fantastic people join over the past few months (and we’re still hiring). Welcome, everyone!"
+  },
+  {
+   "id": "rss-0c40a000ff645391",
+   "title": "Early experiments in accelerating science with GPT-5",
+   "url": "https://openai.com/index/accelerating-science-gpt-5",
+   "feed_name": "OpenAI",
+   "published": "Thu, 20 Nov 2025 00:00:00 GMT",
+   "published_iso": "2025-11-20T00:00:00+00:00",
+   "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new"
+  },
+  {
+   "id": "rss-0c6bed52fbbd2fe1",
+   "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+   "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+   "feed_name": "Google DeepMind",
+   "published": "Sat, 16 May 2026 03:14:17 +0000",
+   "published_iso": "2026-05-16T03:14:17+00:00",
+   "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa."
+  },
+  {
+   "id": "rss-0c935bd587bb1fa5",
+   "title": "State of open video generation models in Diffusers",
+   "url": "https://huggingface.co/blog/video_gen",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 27 Jan 2025 00:00:00 GMT",
+   "published_iso": "2025-01-27T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0ca36c17d5db916d",
+   "title": "Equipping workers with insights about compensation",
+   "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+   "feed_name": "OpenAI",
+   "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+   "published_iso": "2026-03-17T00:00:00+00:00",
+   "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
+  },
+  {
+   "id": "rss-0cad0768a5303792",
+   "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+   "url": "https://huggingface.co/blog/scaling-secrets-management",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 31 Mar 2025 00:00:00 GMT",
+   "published_iso": "2025-03-31T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0cc86ee75feef23a",
+   "title": "Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action",
+   "url": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 09 Aug 2023 00:00:00 GMT",
+   "published_iso": "2023-08-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0d663c2bd36b64e1",
+   "title": "Introducing ChatGPT Images 2.0",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+   "feed_name": "OpenAI",
+   "published": "Tue, 21 Apr 2026 12:00:00 GMT",
+   "published_iso": "2026-04-21T12:00:00+00:00",
+   "summary": "This 2026 launch introduced ChatGPT Images 2.0, with improved text rendering, multilingual support, and visual reasoning. See what’s new in Images 2.5."
+  },
+  {
+   "id": "rss-0d668aeed3e3efac",
+   "title": "Learning from human preferences",
+   "url": "https://openai.com/index/learning-from-human-preferences",
+   "feed_name": "OpenAI",
+   "published": "Tue, 13 Jun 2017 07:00:00 GMT",
+   "published_iso": "2017-06-13T07:00:00+00:00",
+   "summary": "One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even"
+  },
+  {
+   "id": "rss-0d6bbdb6306ab77d",
+   "title": "Evolving OpenAI’s structure",
+   "url": "https://openai.com/index/evolving-our-structure",
+   "feed_name": "OpenAI",
+   "published": "Mon, 05 May 2025 11:00:00 GMT",
+   "published_iso": "2025-05-05T11:00:00+00:00",
+   "summary": "An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact and long-term align"
+  },
+  {
+   "id": "rss-0d6ce4fe5b843e66",
+   "title": "Learning dexterity",
+   "url": "https://openai.com/index/learning-dexterity",
+   "feed_name": "OpenAI",
+   "published": "Mon, 30 Jul 2018 07:00:00 GMT",
+   "published_iso": "2018-07-30T07:00:00+00:00",
+   "summary": "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity."
+  },
+  {
+   "id": "rss-0de34aa3c363d95d",
+   "title": "Unsupervised sentiment neuron",
+   "url": "https://openai.com/index/unsupervised-sentiment-neuron",
+   "feed_name": "OpenAI",
+   "published": "Thu, 06 Apr 2017 07:00:00 GMT",
+   "published_iso": "2017-04-06T07:00:00+00:00",
+   "summary": "We’ve developed an unsupervised system which learns an excellent representation of sentiment, despite being trained only to predict the next character in the text of Amazon reviews."
+  },
+  {
+   "id": "rss-0deb0a8e0e9fd0f8",
+   "title": "Consilium: When Multiple LLMs Collaborate",
+   "url": "https://huggingface.co/blog/consilium-multi-llm",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 17 Jul 2025 00:00:00 GMT",
+   "published_iso": "2025-07-17T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0e205c2e28457e43",
+   "title": "Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality",
+   "url": "https://huggingface.co/blog/ethics-soc-6",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 24 Jun 2024 00:00:00 GMT",
+   "published_iso": "2024-06-24T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0e5221facdf1b566",
+   "title": "Prompt Caching in the API",
+   "url": "https://openai.com/index/api-prompt-caching",
+   "feed_name": "OpenAI",
+   "published": "Tue, 01 Oct 2024 10:03:00 GMT",
+   "published_iso": "2024-10-01T10:03:00+00:00",
+   "summary": "Offering automatic discounts on inputs that the model has recently seen"
+  },
+  {
+   "id": "rss-0e62ef66e299382d",
+   "title": "Deprecation of Git Authentication using password",
+   "url": "https://huggingface.co/blog/password-git-deprecation",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 25 Aug 2023 00:00:00 GMT",
+   "published_iso": "2023-08-25T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0e68a337b664336d",
+   "title": "Faster physics in Python",
+   "url": "https://openai.com/index/faster-physics-in-python",
+   "feed_name": "OpenAI",
+   "published": "Wed, 28 Jun 2017 07:00:00 GMT",
+   "published_iso": "2017-06-28T07:00:00+00:00",
+   "summary": "We’re open-sourcing a high-performance Python library for robotic simulation using the MuJoCo engine, developed over our past year of robotics research."
+  },
+  {
+   "id": "rss-0e7384afc6c05c22",
+   "title": "Lessons learned on language model safety and misuse",
+   "url": "https://openai.com/index/language-model-safety-and-misuse",
+   "feed_name": "OpenAI",
+   "published": "Thu, 03 Mar 2022 08:00:00 GMT",
+   "published_iso": "2022-03-03T08:00:00+00:00",
+   "summary": "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed models."
+  },
+  {
+   "id": "rss-0e7e4c75896024a2",
+   "title": "Cyber Operation: Russian-speaking malware tooling",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling",
+   "feed_name": "OpenAI",
+   "published": "Wed, 01 Oct 2025 00:00:00 GMT",
+   "published_iso": "2025-10-01T00:00:00+00:00",
+   "summary": "OpenAI banned accounts likely linked to Russian-speaking criminal groups, using AI to build malware loaders, evasion layers, credential-theft scripts, and C2 infrastructure."
+  },
+  {
+   "id": "rss-0e877327bcc0850c",
+   "title": "Introducing gpt-oss",
+   "url": "https://openai.com/index/introducing-gpt-oss",
+   "feed_name": "OpenAI",
+   "published": "Tue, 05 Aug 2025 00:00:00 GMT",
+   "published_iso": "2025-08-05T00:00:00+00:00",
+   "summary": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperfo"
+  },
+  {
+   "id": "rss-0e932173a8d0023e",
+   "title": "Moving AI governance forward",
+   "url": "https://openai.com/index/moving-ai-governance-forward",
+   "feed_name": "OpenAI",
+   "published": "Fri, 21 Jul 2023 07:00:00 GMT",
+   "published_iso": "2023-07-21T07:00:00+00:00",
+   "summary": "OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments."
+  },
+  {
+   "id": "rss-0ebef0cfe2252551",
+   "title": "Strengthening our safety ecosystem with external testing",
+   "url": "https://openai.com/index/strengthening-safety-with-external-testing",
+   "feed_name": "OpenAI",
+   "published": "Wed, 19 Nov 2025 12:00:00 GMT",
+   "published_iso": "2025-11-19T12:00:00+00:00",
+   "summary": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks."
+  },
+  {
+   "id": "rss-0ec77f23708f719c",
+   "title": "OpenAI’s response to the Department of Energy on AI infrastructure",
+   "url": "https://openai.com/global-affairs/response-to-department-of-energy",
+   "feed_name": "OpenAI",
+   "published": "Wed, 07 May 2025 18:30:00 GMT",
+   "published_iso": "2025-05-07T18:30:00+00:00",
+   "summary": "Why infrastructure is destiny and how the US can seize it."
+  },
+  {
+   "id": "rss-0ec8e2b4094220b8",
+   "title": "Analyzing data with ChatGPT",
+   "url": "https://openai.com/academy/data-analysis",
+   "feed_name": "OpenAI",
+   "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-10T00:00:00+00:00",
+   "summary": "Learn how to explore datasets, generate insights, create visualizations, and turn findings into actionable decisions with ChatGPT."
+  },
+  {
+   "id": "rss-0ee69ec84e3309ca",
+   "title": "OpenAI named Emerging Leader in Generative AI",
+   "url": "https://openai.com/index/gartner-2025-emerging-leader",
+   "feed_name": "OpenAI",
+   "published": "Mon, 17 Nov 2025 10:00:00 GMT",
+   "published_iso": "2025-11-17T10:00:00+00:00",
+   "summary": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT."
+  },
+  {
+   "id": "rss-0f13ff903f580a29",
+   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+   "url": "https://huggingface.co/blog/eee-community-evals",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+   "published_iso": "2026-06-30T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0f146bbd840c1766",
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 01 Sep 2026 00:00:00 GMT",
+   "published_iso": "2026-09-01T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-0f2e09074d935af0",
+   "title": "SearchGPT is a prototype of new AI search features",
+   "url": "https://openai.com/index/searchgpt-prototype",
+   "feed_name": "OpenAI",
+   "published": "Thu, 25 Jul 2024 00:00:00 GMT",
+   "published_iso": "2024-07-25T00:00:00+00:00",
+   "summary": "We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources."
+  },
+  {
+   "id": "rss-0f569fe0629d3872",
+   "title": "Using GPT-4 for content moderation",
+   "url": "https://openai.com/index/using-gpt-4-for-content-moderation",
+   "feed_name": "OpenAI",
+   "published": "Tue, 15 Aug 2023 07:00:00 GMT",
+   "published_iso": "2023-08-15T07:00:00+00:00",
+   "summary": "We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human moderators."
+  },
+  {
+   "id": "rss-0f6dd0287b20beba",
+   "title": "OpenAI Baselines: ACKTR & A2C",
+   "url": "https://openai.com/index/openai-baselines-acktr-a2c",
+   "feed_name": "OpenAI",
+   "published": "Fri, 18 Aug 2017 07:00:00 GMT",
+   "published_iso": "2017-08-18T07:00:00+00:00",
+   "summary": "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more"
+  },
+  {
+   "id": "rss-0f9835b177f9b6da",
+   "title": "Gradient Labs gives every bank customer an AI account manager",
+   "url": "https://openai.com/index/gradient-labs",
+   "feed_name": "OpenAI",
+   "published": "Wed, 01 Apr 2026 02:00:00 GMT",
+   "published_iso": "2026-04-01T02:00:00+00:00",
+   "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
+  },
+  {
+   "id": "rss-0fcd44c99a14a163",
+   "title": "DALL·E 2: Extending creativity",
+   "url": "https://openai.com/index/dall-e-2-extending-creativity",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 Jul 2022 07:00:00 GMT",
+   "published_iso": "2022-07-14T07:00:00+00:00",
+   "summary": "As part of our DALL·E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL·E into their creative workflows. The artists in our early access group have helped us discover new use"
+  },
+  {
+   "id": "rss-0ff3757b65a7b106",
+   "title": "Why Codex Security Doesn’t Include a SAST Report",
+   "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+   "feed_name": "OpenAI",
+   "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+   "published_iso": "2026-03-16T00:00:00+00:00",
+   "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives."
+  },
+  {
+   "id": "rss-0ffadacbc91a1077",
+   "title": "Introducing data residency in Asia",
+   "url": "https://openai.com/index/introducing-data-residency-in-asia",
+   "feed_name": "OpenAI",
+   "published": "Wed, 07 May 2025 18:00:00 GMT",
+   "published_iso": "2025-05-07T18:00:00+00:00",
+   "summary": "Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide."
+  },
+  {
+   "id": "rss-0ffb07295649c1af",
+   "title": "Understanding the source of what we see and hear online",
+   "url": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
+   "feed_name": "OpenAI",
+   "published": "Tue, 07 May 2024 00:00:00 GMT",
+   "published_iso": "2024-05-07T00:00:00+00:00",
+   "summary": "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote industry standards."
+  },
+  {
+   "id": "rss-0fff293ee7f58e74",
+   "title": "Delivering high-performance customer support",
+   "url": "https://openai.com/index/decagon",
+   "feed_name": "OpenAI",
+   "published": "Tue, 29 Oct 2024 10:00:00 GMT",
+   "published_iso": "2024-10-29T10:00:00+00:00",
+   "summary": "Decagon and OpenAI deliver high-performance, fully automated customer support at scale"
+  },
+  {
+   "id": "rss-100446a7f6245f7c",
+   "title": "Better language models and their implications",
+   "url": "https://openai.com/index/better-language-models",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 Feb 2019 08:00:00 GMT",
+   "published_iso": "2019-02-14T08:00:00+00:00",
+   "summary": "We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehens"
+  },
+  {
+   "id": "rss-100e890294240151",
+   "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+   "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-27T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-10269f0e6c858207",
+   "title": "Building the Hugging Face MCP Server",
+   "url": "https://huggingface.co/blog/building-hf-mcp",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 10 Jul 2025 00:00:00 GMT",
+   "published_iso": "2025-07-10T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-105353ef8227caa8",
+   "title": "Announcing the OpenAI Learning Accelerator",
+   "url": "https://openai.com/global-affairs/learning-accelerator",
+   "feed_name": "OpenAI",
+   "published": "Mon, 25 Aug 2025 06:00:00 GMT",
+   "published_iso": "2025-08-25T06:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1057a9025d070405",
+   "title": "DALL·E: Creating images from text",
+   "url": "https://openai.com/index/dall-e",
+   "feed_name": "OpenAI",
+   "published": "Tue, 05 Jan 2021 08:00:00 GMT",
+   "published_iso": "2021-01-05T08:00:00+00:00",
+   "summary": "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language."
+  },
+  {
+   "id": "rss-10666aebf14a4743",
+   "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+   "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+   "feed_name": "OpenAI",
+   "published": "Tue, 21 Jul 2026 00:00:00 GMT",
+   "published_iso": "2026-07-21T00:00:00+00:00",
+   "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+  },
+  {
+   "id": "rss-1072bd8e1606f48c",
+   "title": "Object Detection Leaderboard",
+   "url": "https://huggingface.co/blog/object-detection-leaderboard",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 18 Sep 2023 00:00:00 GMT",
+   "published_iso": "2023-09-18T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1094510ec02ec6d2",
+   "title": "You could have designed state of the art positional encoding",
+   "url": "https://huggingface.co/blog/designing-positional-encoding",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 25 Nov 2024 00:00:00 GMT",
+   "published_iso": "2024-11-25T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1099d58931a9b1ef",
+   "title": "Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B",
+   "url": "https://huggingface.co/blog/duckdb-nsql-7b",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 04 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-04T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-10a73f0831bfbed7",
+   "title": "ChatGPT is now a partner for your most ambitious work",
+   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "feed_name": "OpenAI",
+   "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+   "published_iso": "2026-07-09T10:00:00+00:00",
+   "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+  },
+  {
+   "id": "rss-10ae42692a927d2e",
+   "title": "EliseAI improves housing and healthcare efficiency with AI",
+   "url": "https://openai.com/index/eliseai-minna-song",
+   "feed_name": "OpenAI",
+   "published": "Tue, 18 Mar 2025 10:00:00 GMT",
+   "published_iso": "2025-03-18T10:00:00+00:00",
+   "summary": "A conversation with Minna Song, CEO & Co-founder of EliseAI."
+  },
+  {
+   "id": "rss-10b26bb72af42e40",
+   "title": "AI is becoming a first hire for small businesses",
+   "url": "https://openai.com/index/ai-first-hire-small-business",
+   "feed_name": "OpenAI",
+   "published": "Mon, 25 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-25T00:00:00+00:00",
+   "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI."
+  },
+  {
+   "id": "rss-10c90d7cc7819d97",
+   "title": "A free version of ChatGPT built for teachers",
+   "url": "https://openai.com/index/chatgpt-for-teachers",
+   "feed_name": "OpenAI",
+   "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+   "published_iso": "2025-11-19T00:00:00+00:00",
+   "summary": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027."
+  },
+  {
+   "id": "rss-10d47a1d120f3881",
+   "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+   "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+   "feed_name": "Google DeepMind",
+   "published": "Thu, 12 Feb 2026 16:15:09 +0000",
+   "published_iso": "2026-02-12T16:15:09+00:00",
+   "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+  },
+  {
+   "id": "rss-10e206b36474a519",
+   "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+   "url": "https://huggingface.co/blog/huggingface-hub-v1",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 27 Oct 2025 00:00:00 GMT",
+   "published_iso": "2025-10-27T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-10e69babef237bbc",
+   "title": "Introducing the Child Safety Blueprint",
+   "url": "https://openai.com/index/introducing-child-safety-blueprint",
+   "feed_name": "OpenAI",
+   "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+   "published_iso": "2026-04-08T05:00:00+00:00",
+   "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
+  },
+  {
+   "id": "rss-1110b810dc4dcfba",
+   "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 12 Aug 2026 16:14:36 GMT",
+   "published_iso": "2026-08-12T16:14:36+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1116fa5b92d23410",
+   "title": "How OpenAI delivers low-latency voice AI at scale",
+   "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+   "feed_name": "OpenAI",
+   "published": "Mon, 04 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-04T00:00:00+00:00",
+   "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
+  },
+  {
+   "id": "rss-1118bd5abc31ff39",
+   "title": "Making AI work for everyone, everywhere: our approach to localization",
+   "url": "https://openai.com/index/our-approach-to-localization",
+   "feed_name": "OpenAI",
+   "published": "Fri, 06 Feb 2026 10:00:00 GMT",
+   "published_iso": "2026-02-06T10:00:00+00:00",
+   "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety."
+  },
+  {
+   "id": "rss-11636271aa8ef8e2",
+   "title": "Arvind KC appointed Chief People Officer",
+   "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+   "feed_name": "OpenAI",
+   "published": "Tue, 24 Feb 2026 13:40:00 GMT",
+   "published_iso": "2026-02-24T13:40:00+00:00",
+   "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
+  },
+  {
+   "id": "rss-118cb8ef5426d14c",
+   "title": "Harness engineering: leveraging Codex in an agent-first world",
+   "url": "https://openai.com/index/harness-engineering",
+   "feed_name": "OpenAI",
+   "published": "Wed, 11 Feb 2026 09:00:00 GMT",
+   "published_iso": "2026-02-11T09:00:00+00:00",
+   "summary": "By Ryan Lopopolo, Member of the Technical Staff"
+  },
+  {
+   "id": "rss-11be4a16a2f5d546",
+   "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+   "url": "https://openai.com/index/gpts-are-gpts",
+   "feed_name": "OpenAI",
+   "published": "Fri, 17 Mar 2023 07:00:00 GMT",
+   "published_iso": "2023-03-17T07:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-11c2367d72764d1b",
+   "title": "Introducing GPT-5.4",
+   "url": "https://openai.com/index/introducing-gpt-5-4",
+   "feed_name": "OpenAI",
+   "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+   "published_iso": "2026-03-05T10:00:00+00:00",
+   "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
+  },
+  {
+   "id": "rss-11d5ccf1d8259be2",
+   "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+   "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+   "published_iso": "2026-07-01T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-11e756df6b84c878",
+   "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 06 May 2026 19:06:55 GMT",
+   "published_iso": "2026-05-06T19:06:55+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1204bd549a14175d",
+   "title": "Pacing model development in an era of cyber-critical capabilities",
+   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+   "feed_name": "OpenAI",
+   "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+   "published_iso": "2026-08-18T11:00:00+00:00",
+   "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+  },
+  {
+   "id": "rss-12060dce30fd7f6c",
+   "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+   "url": "https://huggingface.co/blog/togethercomputer/together-ft",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 10 Sep 2025 17:04:36 GMT",
+   "published_iso": "2025-09-10T17:04:36+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-122a759bb3b911ce",
+   "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
+   "url": "https://huggingface.co/blog/image-preferences",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 09 Dec 2024 00:00:00 GMT",
+   "published_iso": "2024-12-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1257506a3d09b863",
+   "title": "Plan online, learn offline: Efficient learning and exploration via model-based control",
+   "url": "https://openai.com/index/plan-online-learn-offline",
+   "feed_name": "OpenAI",
+   "published": "Mon, 05 Nov 2018 08:00:00 GMT",
+   "published_iso": "2018-11-05T08:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1278561c2128f73a",
+   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+   "feed_name": "TechCrunch AI",
+   "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+   "published_iso": "2026-10-05T18:29:00+00:00",
+   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+  },
+  {
+   "id": "rss-1280c07f89c630bf",
+   "title": "The state of enterprise AI",
+   "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+   "feed_name": "OpenAI",
+   "published": "Mon, 08 Dec 2025 04:00:00 GMT",
+   "published_iso": "2025-12-08T04:00:00+00:00",
+   "summary": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025."
+  },
+  {
+   "id": "rss-12a088ba1548ab1d",
+   "title": "OpenAI and Guardian Media Group launch content partnership",
+   "url": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership",
+   "feed_name": "OpenAI",
+   "published": "Fri, 14 Feb 2025 07:00:00 GMT",
+   "published_iso": "2025-02-14T07:00:00+00:00",
+   "summary": "OpenAI and Guardian Media Group announce content partnership to bring Guardian news content to ChatGPT."
+  },
+  {
+   "id": "rss-12a564b530749c7d",
+   "title": "TGI Multi-LoRA: Deploy Once, Serve 30 Models",
+   "url": "https://huggingface.co/blog/multi-lora-serving",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 18 Jul 2024 00:00:00 GMT",
+   "published_iso": "2024-07-18T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-12c7ddc95393b3a4",
+   "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+   "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 06 Oct 2026 16:15:50 +0000",
+   "published_iso": "2026-10-06T16:15:50+00:00",
+   "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet."
+  },
+  {
+   "id": "rss-13557b75794fecc1",
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "feed_name": "TechCrunch AI",
+   "published": "Mon, 05 Oct 2026 19:33:53 +0000",
+   "published_iso": "2026-10-05T19:33:53+00:00",
+   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec"
+  },
+  {
+   "id": "rss-13691a2ce123a89e",
+   "title": "Horizon 1000: Advancing AI for primary healthcare",
+   "url": "https://openai.com/index/horizon-1000",
+   "feed_name": "OpenAI",
+   "published": "Tue, 20 Jan 2026 21:00:00 GMT",
+   "published_iso": "2026-01-20T21:00:00+00:00",
+   "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028."
+  },
+  {
+   "id": "rss-13755a0c64302336",
+   "title": "Introducing Edu for Countries",
+   "url": "https://openai.com/index/edu-for-countries",
+   "feed_name": "OpenAI",
+   "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+   "published_iso": "2026-01-21T01:00:00+00:00",
+   "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces."
+  },
+  {
+   "id": "rss-137c5833ddb8f26b",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+   "published_iso": "2026-09-22T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-138f009536b52365",
+   "title": "Implicit generation and generalization methods for energy-based models",
+   "url": "https://openai.com/index/energy-based-models",
+   "feed_name": "OpenAI",
+   "published": "Thu, 21 Mar 2019 07:00:00 GMT",
+   "published_iso": "2019-03-21T07:00:00+00:00",
+   "summary": "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continu"
+  },
+  {
+   "id": "rss-13ac407473739b3c",
+   "title": "Director of Machine Learning Insights [Part 3: Finance Edition]",
+   "url": "https://huggingface.co/blog/ml-director-insights-3",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 14 Jun 2022 00:00:00 GMT",
+   "published_iso": "2022-06-14T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1400cbc54bfc4731",
+   "title": "Accelerating life sciences research",
+   "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+   "feed_name": "OpenAI",
+   "published": "Fri, 22 Aug 2025 08:30:00 GMT",
+   "published_iso": "2025-08-22T08:30:00+00:00",
+   "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research."
+  },
+  {
+   "id": "rss-1427b65d35f3f286",
+   "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+   "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+   "feed_name": "Google DeepMind",
+   "published": "Tue, 09 Dec 2025 11:29:03 +0000",
+   "published_iso": "2025-12-09T11:29:03+00:00",
+   "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite."
+  },
+  {
+   "id": "rss-143a56c3831ed960",
+   "title": "From assistance to execution: How enterprises put AI to work",
+   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+   "feed_name": "OpenAI",
+   "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+   "published_iso": "2026-08-12T06:00:00+00:00",
+   "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+  },
+  {
+   "id": "rss-1454bb9a3c5ed9ca",
+   "title": "Hugging Face partners with Wiz Research to Improve AI Security",
+   "url": "https://huggingface.co/blog/hugging-face-wiz-security-blog",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 04 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-04T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1474750a17840eaf",
+   "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
+   "url": "https://huggingface.co/blog/sempre-health-eap-case-study",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 19 May 2022 00:00:00 GMT",
+   "published_iso": "2022-05-19T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1477c89fc230ebc2",
+   "title": "Accelerating AI adoption in Europe",
+   "url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
+   "feed_name": "OpenAI",
+   "published": "Mon, 06 Oct 2025 00:00:00 GMT",
+   "published_iso": "2025-10-06T00:00:00+00:00",
+   "summary": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators."
+  },
+  {
+   "id": "rss-1490a62d075061cd",
+   "title": "Confidence-Building Measures for Artificial Intelligence: Workshop proceedings",
+   "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+   "feed_name": "OpenAI",
+   "published": "Tue, 01 Aug 2023 07:00:00 GMT",
+   "published_iso": "2023-08-01T07:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1491900d5d42e325",
+   "title": "DALL·E: Introducing outpainting",
+   "url": "https://openai.com/index/dall-e-introducing-outpainting",
+   "feed_name": "OpenAI",
+   "published": "Wed, 31 Aug 2022 07:00:00 GMT",
+   "published_iso": "2022-08-31T07:00:00+00:00",
+   "summary": "Extend creativity and tell a bigger story with DALL·E images of any size."
+  },
+  {
+   "id": "rss-14d5e443bb375cd2",
+   "title": "Introducing ChatGPT and Whisper APIs",
+   "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+   "feed_name": "OpenAI",
+   "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-24T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-14f0330ce5a9203d",
+   "title": "Finance workflows with ChatGPT Work",
+   "url": "https://openai.com/academy/how-finance-teams-use-codex",
+   "feed_name": "OpenAI",
+   "published": "Tue, 12 May 2026 15:00:00 GMT",
+   "published_iso": "2026-05-12T15:00:00+00:00",
+   "summary": "Learn practical ChatGPT Work workflows for reporting, variance analysis, forecasts, monthly reviews, and decision-ready finance deliverables."
+  },
+  {
+   "id": "rss-150ec9931947419c",
+   "title": "Illustrating Reinforcement Learning from Human Feedback (RLHF)",
+   "url": "https://huggingface.co/blog/rlhf",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 09 Dec 2022 00:00:00 GMT",
+   "published_iso": "2022-12-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1524b7a996a73376",
+   "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+   "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+   "feed_name": "OpenAI",
+   "published": "Fri, 12 Sep 2025 12:00:00 GMT",
+   "published_iso": "2025-09-12T12:00:00+00:00",
+   "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security."
+  },
+  {
+   "id": "rss-15528f27133a4e55",
+   "title": "OpenAI o3 and o4-mini System Card",
+   "url": "https://openai.com/index/o3-o4-mini-system-card",
+   "feed_name": "OpenAI",
+   "published": "Wed, 16 Apr 2025 10:00:00 GMT",
+   "published_iso": "2025-04-16T10:00:00+00:00",
+   "summary": "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory."
+  },
+  {
+   "id": "rss-1568f222ff7a1cd3",
+   "title": "Building more helpful ChatGPT experiences for everyone",
+   "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+   "feed_name": "OpenAI",
+   "published": "Tue, 02 Sep 2025 04:00:00 GMT",
+   "published_iso": "2025-09-02T04:00:00+00:00",
+   "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT."
+  },
+  {
+   "id": "rss-159ed2438ba175b0",
+   "title": "The next hurdle for AI agents: getting websites to let them in",
+   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+   "feed_name": "TechCrunch AI",
+   "published": "Tue, 06 Oct 2026 19:56:50 +0000",
+   "published_iso": "2026-10-06T19:56:50+00:00",
+   "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+  },
+  {
+   "id": "rss-159ff2963782c951",
+   "title": "Groq on Hugging Face Inference Providers 🔥",
+   "url": "https://huggingface.co/blog/inference-providers-groq",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 16 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-16T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-15c794d1d0e26b57",
+   "title": "VQ-Diffusion",
+   "url": "https://huggingface.co/blog/vq-diffusion",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 30 Nov 2022 00:00:00 GMT",
+   "published_iso": "2022-11-30T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-15d2a96bac2bfe86",
+   "title": "Introducing Trusted Contact in ChatGPT",
+   "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+   "feed_name": "OpenAI",
+   "published": "Thu, 07 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-07T00:00:00+00:00",
+   "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
+  },
+  {
+   "id": "rss-15deeae3d860516a",
+   "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+   "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+   "feed_name": "Google DeepMind",
+   "published": "Tue, 12 May 2026 14:40:07 +0000",
+   "published_iso": "2026-05-12T14:40:07+00:00",
+   "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs."
+  },
+  {
+   "id": "rss-15ea451729b25046",
+   "title": "What Parameter Golf taught us about AI-assisted research",
+   "url": "https://openai.com/index/what-parameter-golf-taught-us",
+   "feed_name": "OpenAI",
+   "published": "Tue, 12 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-12T00:00:00+00:00",
+   "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
+  },
+  {
+   "id": "rss-15f2d2c0c73ae906",
+   "title": "OpenAI leadership team update",
+   "url": "https://openai.com/index/leadership-team-update",
+   "feed_name": "OpenAI",
+   "published": "Thu, 05 May 2022 07:00:00 GMT",
+   "published_iso": "2022-05-05T07:00:00+00:00",
+   "summary": "We’re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones."
+  },
+  {
+   "id": "rss-161f77b8cd2329df",
+   "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+   "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+   "feed_name": "Google DeepMind",
+   "published": "Thu, 26 Mar 2026 15:23:35 +0000",
+   "published_iso": "2026-03-26T15:23:35+00:00",
+   "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
+  },
+  {
+   "id": "rss-16251d7b149eacdc",
+   "title": "Testing ads in ChatGPT",
+   "url": "https://openai.com/index/testing-ads-in-chatgpt",
+   "feed_name": "OpenAI",
+   "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+   "published_iso": "2026-08-11T10:00:00+00:00",
+   "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+  },
+  {
+   "id": "rss-162982590eb14efe",
+   "title": "Vision Language Models (Better, faster, stronger)",
+   "url": "https://huggingface.co/blog/vlms-2025",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 12 May 2025 00:00:00 GMT",
+   "published_iso": "2025-05-12T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-162e5c65c114b35a",
+   "title": "On first-order meta-learning algorithms",
+   "url": "https://openai.com/index/on-first-order-meta-learning-algorithms",
+   "feed_name": "OpenAI",
+   "published": "Thu, 08 Mar 2018 08:00:00 GMT",
+   "published_iso": "2018-03-08T08:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-164784101a7e85b0",
+   "title": "Governance of superintelligence",
+   "url": "https://openai.com/index/governance-of-superintelligence",
+   "feed_name": "OpenAI",
+   "published": "Mon, 22 May 2023 07:00:00 GMT",
+   "published_iso": "2023-05-22T07:00:00+00:00",
+   "summary": "Now is a good time to start thinking about the governance of superintelligence—future AI systems dramatically more capable than even AGI."
+  },
+  {
+   "id": "rss-1648b1c1b9bb88d2",
+   "title": "A New Framework for Evaluating Voice Agents (EVA)",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 24 Mar 2026 02:01:52 GMT",
+   "published_iso": "2026-03-24T02:01:52+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-164cac98f738199d",
+   "title": "The power of continuous learning",
+   "url": "https://openai.com/index/the-power-of-continuous-learning",
+   "feed_name": "OpenAI",
+   "published": "Fri, 23 Dec 2022 08:00:00 GMT",
+   "published_iso": "2022-12-23T08:00:00+00:00",
+   "summary": "Lilian Weng works on Applied AI Research at OpenAI."
+  },
+  {
+   "id": "rss-167dd7d35082fe2a",
+   "title": "Hello GPT-4o",
+   "url": "https://openai.com/index/hello-gpt-4o",
+   "feed_name": "OpenAI",
+   "published": "Mon, 13 May 2024 10:05:00 GMT",
+   "published_iso": "2024-05-13T10:05:00+00:00",
+   "summary": "We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time."
+  },
+  {
+   "id": "rss-16b18f777d81879e",
+   "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+   "url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 22 Apr 2025 18:33:09 GMT",
+   "published_iso": "2025-04-22T18:33:09+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-16b2204aa6dadea9",
+   "title": "Preserving languages for the future",
+   "url": "https://openai.com/index/government-of-iceland",
+   "feed_name": "OpenAI",
+   "published": "Tue, 14 Mar 2023 07:00:00 GMT",
+   "published_iso": "2023-03-14T07:00:00+00:00",
+   "summary": "How Iceland is using GPT-4 to preserve its language."
+  },
+  {
+   "id": "rss-16b629a3fac6418f",
+   "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 04 Jun 2026 18:57:45 GMT",
+   "published_iso": "2026-06-04T18:57:45+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-16b97f83b1baefc7",
+   "title": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+   "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 28 Mar 2025 00:00:00 GMT",
+   "published_iso": "2025-03-28T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-16cae229126a91f4",
+   "title": "Instacart and OpenAI partner on AI shopping experiences",
+   "url": "https://openai.com/index/instacart-partnership",
+   "feed_name": "OpenAI",
+   "published": "Mon, 08 Dec 2025 06:00:00 GMT",
+   "published_iso": "2025-12-08T06:00:00+00:00",
+   "summary": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
+  },
+  {
+   "id": "rss-16f35398a9d452fb",
+   "title": "Welcome Gemma 2 - Google’s new open LLM",
+   "url": "https://huggingface.co/blog/gemma2",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 27 Jun 2024 00:00:00 GMT",
+   "published_iso": "2024-06-27T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-17045c091cb6e6fc",
+   "title": "How Scania accelerates work with AI across its global workforce",
+   "url": "https://openai.com/index/scania",
+   "feed_name": "OpenAI",
+   "published": "Wed, 19 Nov 2025 00:00:00 GMT",
+   "published_iso": "2025-11-19T00:00:00+00:00",
+   "summary": "Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation."
+  },
+  {
+   "id": "rss-170aa0fac09f04a3",
+   "title": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB",
+   "url": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 14 Dec 2022 00:00:00 GMT",
+   "published_iso": "2022-12-14T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1744cfd7923fb4be",
+   "title": "Practices for Governing Agentic AI Systems",
+   "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+   "feed_name": "OpenAI",
+   "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+   "published_iso": "2023-12-14T08:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-176d418dd6aac70f",
+   "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
+   "url": "https://huggingface.co/blog/infini-attention",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 14 Aug 2024 00:00:00 GMT",
+   "published_iso": "2024-08-14T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-178c1d5ae37766db",
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "url": "https://openai.com/index/hp-frontier-partnership",
+   "feed_name": "OpenAI",
+   "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+   "published_iso": "2026-06-28T17:00:00+00:00",
+   "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+  },
+  {
+   "id": "rss-17f2648ca24de4f0",
+   "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+   "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 27 Jan 2026 10:26:42 GMT",
+   "published_iso": "2026-01-27T10:26:42+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-18104e4bb305c285",
+   "title": "Financial services",
+   "url": "https://openai.com/academy/financial-services",
+   "feed_name": "OpenAI",
+   "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-10T00:00:00+00:00",
+   "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely."
+  },
+  {
+   "id": "rss-182491f5bb0fb50c",
+   "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+   "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+   "feed_name": "Google DeepMind",
+   "published": "Sat, 16 May 2026 09:13:34 +0000",
+   "published_iso": "2026-05-16T09:13:34+00:00",
+   "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
+  },
+  {
+   "id": "rss-1862986a9b3d4bad",
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+   "feed_name": "Google AI Blog",
+   "published": "Wed, 23 Sep 2026 18:00:00 +0000",
+   "published_iso": "2026-09-23T18:00:00+00:00",
+   "summary": "Google Beam promotional animation"
+  },
+  {
+   "id": "rss-186bba66e91659bf",
+   "title": "The Reformer - Pushing the limits of language modeling",
+   "url": "https://huggingface.co/blog/reformer",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 03 Jul 2020 00:00:00 GMT",
+   "published_iso": "2020-07-03T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-18ab2ec4f8de9bf2",
+   "title": "Separating signal from noise in coding evaluations",
+   "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+   "feed_name": "OpenAI",
+   "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+   "published_iso": "2026-07-08T13:00:00+00:00",
+   "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+  },
+  {
+   "id": "rss-18b705ae511a0929",
+   "title": "Emergent tool use from multi-agent interaction",
+   "url": "https://openai.com/index/emergent-tool-use",
+   "feed_name": "OpenAI",
+   "published": "Tue, 17 Sep 2019 07:00:00 GMT",
+   "published_iso": "2019-09-17T07:00:00+00:00",
+   "summary": "We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct s"
+  },
+  {
+   "id": "rss-18d001694b7bcc7b",
+   "title": "Our response to the UK’s copyright consultation",
+   "url": "https://openai.com/global-affairs/response-to-uk-copyright-consultation",
+   "feed_name": "OpenAI",
+   "published": "Wed, 02 Apr 2025 07:00:00 GMT",
+   "published_iso": "2025-04-02T07:00:00+00:00",
+   "summary": "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe."
+  },
+  {
+   "id": "rss-18d32b9eadd0ee11",
+   "title": "Learning to summarize with human feedback",
+   "url": "https://openai.com/index/learning-to-summarize-with-human-feedback",
+   "feed_name": "OpenAI",
+   "published": "Fri, 04 Sep 2020 07:00:00 GMT",
+   "published_iso": "2020-09-04T07:00:00+00:00",
+   "summary": "We’ve applied reinforcement learning from human feedback to train language models that are better at summarization."
+  },
+  {
+   "id": "rss-18d486d98d8e15ab",
+   "title": "Introducing the Teen Safety Blueprint",
+   "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+   "feed_name": "OpenAI",
+   "published": "Thu, 06 Nov 2025 00:00:00 GMT",
+   "published_iso": "2025-11-06T00:00:00+00:00",
+   "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
+  },
+  {
+   "id": "rss-193d94b55d3985f6",
+   "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+   "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 16 Apr 2025 10:10:58 GMT",
+   "published_iso": "2025-04-16T10:10:58+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1946513f4c41c98e",
+   "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+   "url": "https://huggingface.co/blog/keras-chatbot-arena",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 05 Dec 2024 00:00:00 GMT",
+   "published_iso": "2024-12-05T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1948945ee9802053",
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "url": "https://openai.com/index/gpt-5-immunology-mystery",
+   "feed_name": "OpenAI",
+   "published": "Tue, 23 Jun 2026 17:00:00 GMT",
+   "published_iso": "2026-06-23T17:00:00+00:00",
+   "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+  },
+  {
+   "id": "rss-194b4d70d9537e2b",
+   "title": "Proximal Policy Optimization",
+   "url": "https://openai.com/index/openai-baselines-ppo",
+   "feed_name": "OpenAI",
+   "published": "Thu, 20 Jul 2017 07:00:00 GMT",
+   "published_iso": "2017-07-20T07:00:00+00:00",
+   "summary": "We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune. PP"
+  },
+  {
+   "id": "rss-197fbb5a6964c41e",
+   "title": "Total noob’s intro to Hugging Face Transformers",
+   "url": "https://huggingface.co/blog/noob_intro_transformers",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 22 Mar 2024 00:00:00 GMT",
+   "published_iso": "2024-03-22T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-19983350be0000b4",
+   "title": "Team update",
+   "url": "https://openai.com/index/team-update-january",
+   "feed_name": "OpenAI",
+   "published": "Mon, 30 Jan 2017 08:00:00 GMT",
+   "published_iso": "2017-01-30T08:00:00+00:00",
+   "summary": "The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots."
+  },
+  {
+   "id": "rss-199f8ec4d7872e06",
+   "title": "Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method",
+   "url": "https://huggingface.co/blog/nystromformer",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 02 Aug 2022 00:00:00 GMT",
+   "published_iso": "2022-08-02T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-19d1bfd8b691b57f",
+   "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+   "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+   "feed_name": "Google DeepMind",
+   "published": "Fri, 03 Jul 2026 14:25:43 +0000",
+   "published_iso": "2026-07-03T14:25:43+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-19f09f7e0793bd06",
+   "title": "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard",
+   "url": "https://huggingface.co/blog/leaderboard-emissions-analysis",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 09 Jan 2025 00:00:00 GMT",
+   "published_iso": "2025-01-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1a2348ecd0ef55c9",
+   "title": "OpenAI en France",
+   "url": "https://openai.com/index/openai-en-france",
+   "feed_name": "OpenAI",
+   "published": "Fri, 15 Nov 2024 00:00:00 GMT",
+   "published_iso": "2024-11-15T00:00:00+00:00",
+   "summary": "Our first office in continental Europe"
+  },
+  {
+   "id": "rss-1a4bc4ca02801ab5",
+   "title": "Introducing OpenAI Frontier",
+   "url": "https://openai.com/index/introducing-openai-frontier",
+   "feed_name": "OpenAI",
+   "published": "Thu, 05 Feb 2026 06:00:00 GMT",
+   "published_iso": "2026-02-05T06:00:00+00:00",
+   "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
+  },
+  {
+   "id": "rss-1a654943dc71d850",
+   "title": "Introducing new capabilities to GPT-Rosalind",
+   "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+   "feed_name": "OpenAI",
+   "published": "Wed, 03 Jun 2026 13:15:00 GMT",
+   "published_iso": "2026-06-03T13:15:00+00:00",
+   "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+  },
+  {
+   "id": "rss-1a860fd2bd637bf5",
+   "title": "Democratizing AI Safety with RiskRubric.ai",
+   "url": "https://huggingface.co/blog/riskrubric",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 18 Sep 2025 00:00:00 GMT",
+   "published_iso": "2025-09-18T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1a950b5e5c442c95",
+   "title": "Introducing ChatGPT Team",
+   "url": "https://openai.com/index/introducing-chatgpt-team",
+   "feed_name": "OpenAI",
+   "published": "Wed, 10 Jan 2024 08:00:00 GMT",
+   "published_iso": "2024-01-10T08:00:00+00:00",
+   "summary": "We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work."
+  },
+  {
+   "id": "rss-1aa9a9cd5ab7c058",
+   "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+   "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 21 Jul 2025 18:01:30 GMT",
+   "published_iso": "2025-07-21T18:01:30+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1add205a7b950a6c",
+   "title": "Expert Council on Well-Being and AI",
+   "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
+   "feed_name": "OpenAI",
+   "published": "Tue, 14 Oct 2025 10:00:00 GMT",
+   "published_iso": "2025-10-14T10:00:00+00:00",
+   "summary": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shapi"
+  },
+  {
+   "id": "rss-1adfb68fe6b485e6",
+   "title": "Measuring AI’s capability to accelerate biological research",
+   "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+   "feed_name": "OpenAI",
+   "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "published_iso": "2025-12-16T08:00:00+00:00",
+   "summary": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks "
+  },
+  {
+   "id": "rss-1ae76467496abf30",
+   "title": "Introducing GPT-4.1 in the API",
+   "url": "https://openai.com/index/gpt-4-1",
+   "feed_name": "OpenAI",
+   "published": "Mon, 14 Apr 2025 10:00:00 GMT",
+   "published_iso": "2025-04-14T10:00:00+00:00",
+   "summary": "Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasing our first nano model."
+  },
+  {
+   "id": "rss-1af67e245b3a80c5",
+   "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+   "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+   "feed_name": "OpenAI",
+   "published": "Mon, 18 May 2026 10:00:00 GMT",
+   "published_iso": "2026-05-18T10:00:00+00:00",
+   "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+  },
+  {
+   "id": "rss-1b1b1aa40d915994",
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "feed_name": "OpenAI",
+   "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+   "published_iso": "2026-06-23T13:00:00+00:00",
+   "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+  },
+  {
+   "id": "rss-1b1c5c5cd15cd3c8",
+   "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+   "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+   "feed_name": "OpenAI",
+   "published": "Thu, 18 Dec 2025 00:00:00 GMT",
+   "published_iso": "2025-12-18T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1b1fea9ecc26d7b0",
+   "title": "Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny",
+   "url": "https://huggingface.co/blog/sd_distillation",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 01 Aug 2023 00:00:00 GMT",
+   "published_iso": "2023-08-01T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1b2334cba21561b8",
+   "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+   "url": "https://openai.com/index/disney-sora-agreement",
+   "feed_name": "OpenAI",
+   "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+   "published_iso": "2025-12-11T00:00:00+00:00",
+   "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includ"
+  },
+  {
+   "id": "rss-1b3a1a6f13f27c0d",
+   "title": "SmolVLM Grows Smaller – Introducing the 256M & 500M Models!",
+   "url": "https://huggingface.co/blog/smolervlm",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 23 Jan 2025 00:00:00 GMT",
+   "published_iso": "2025-01-23T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1b4a121cfec6e61f",
+   "title": "What building an AI-native finance function taught me",
+   "url": "https://openai.com/index/building-an-ai-native-finance-function",
+   "feed_name": "OpenAI",
+   "published": "Mon, 10 Aug 2026 17:00:00 GMT",
+   "published_iso": "2026-08-10T17:00:00+00:00",
+   "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+  },
+  {
+   "id": "rss-1b580ec7cb7b48cc",
+   "title": "OpenAI Scholars 2019: Meet our Scholars",
+   "url": "https://openai.com/index/openai-scholars-2019-meet-our-scholars",
+   "feed_name": "OpenAI",
+   "published": "Wed, 13 Mar 2019 07:00:00 GMT",
+   "published_iso": "2019-03-13T07:00:00+00:00",
+   "summary": "Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation."
+  },
+  {
+   "id": "rss-1b86cd50fb10ce2c",
+   "title": "Featherless AI on Hugging Face Inference Providers 🔥",
+   "url": "https://huggingface.co/blog/inference-providers-featherless",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 12 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-12T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1ba739b09513fe5a",
+   "title": "Our principles",
+   "url": "https://openai.com/index/our-principles",
+   "feed_name": "OpenAI",
+   "published": "Sun, 26 Apr 2026 16:00:00 GMT",
+   "published_iso": "2026-04-26T16:00:00+00:00",
+   "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
+  },
+  {
+   "id": "rss-1baee0e5b280085d",
+   "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+   "url": "https://huggingface.co/blog/Hcompany/holotab",
+   "feed_name": "Hugging Face",
+   "published": "Wed, 15 Apr 2026 09:25:20 GMT",
+   "published_iso": "2026-04-15T09:25:20+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1bce4c3eeade6ff3",
+   "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+   "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+   "feed_name": "Google DeepMind",
+   "published": "Wed, 15 Apr 2026 16:03:19 +0000",
+   "published_iso": "2026-04-15T16:03:19+00:00",
+   "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
+  },
+  {
+   "id": "rss-1be6d5a75d3ab0ec",
+   "title": "Learning to play Minecraft with Video PreTraining",
+   "url": "https://openai.com/index/vpt",
+   "feed_name": "OpenAI",
+   "published": "Thu, 23 Jun 2022 07:00:00 GMT",
+   "published_iso": "2022-06-23T07:00:00+00:00",
+   "summary": "We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our mod"
+  },
+  {
+   "id": "rss-1be7a08560a952c3",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "feed_name": "OpenAI",
+   "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+   "published_iso": "2026-09-16T17:00:00+00:00",
+   "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+  },
+  {
+   "id": "rss-1bf04b6fcc338393",
+   "title": "Cyber threat actors: AI-assisted intrusion research",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-threat-actors",
+   "feed_name": "OpenAI",
+   "published": "Sat, 01 Feb 2025 00:00:00 GMT",
+   "published_iso": "2025-02-01T00:00:00+00:00",
+   "summary": "OpenAI banned accounts potentially associated with publicly reported DPRK-affiliated threat actors using AI to research intrusion tooling, phishing, malware, and cryptocurrency targeting."
+  },
+  {
+   "id": "rss-1c01fce6357e7f65",
+   "title": "Federated Learning using Hugging Face and Flower",
+   "url": "https://huggingface.co/blog/fl-with-flower",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 27 Mar 2023 00:00:00 GMT",
+   "published_iso": "2023-03-27T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1c0de2ab32295e46",
+   "title": "The full stack behind abundant intelligence",
+   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "feed_name": "OpenAI",
+   "published": "Tue, 25 Aug 2026 07:05:00 GMT",
+   "published_iso": "2026-08-25T07:05:00+00:00",
+   "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+  },
+  {
+   "id": "rss-1c1fde8ad384f57b",
+   "title": "Gemma 3n fully available in the open-source ecosystem!",
+   "url": "https://huggingface.co/blog/gemma3n",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 26 Jun 2025 00:00:00 GMT",
+   "published_iso": "2025-06-26T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1c30fdbd8c9dae14",
+   "title": "Personalizing travel at scale with OpenAI",
+   "url": "https://openai.com/index/booking-com",
+   "feed_name": "OpenAI",
+   "published": "Thu, 20 Mar 2025 23:00:00 GMT",
+   "published_iso": "2025-03-20T23:00:00+00:00",
+   "summary": "By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences."
+  },
+  {
+   "id": "rss-1c454c14ad6cf1d3",
+   "title": "The Hugging Face incident and the road ahead",
+   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+   "feed_name": "OpenAI",
+   "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+   "published_iso": "2026-08-26T00:00:00+00:00",
+   "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+  },
+  {
+   "id": "rss-1c68353cb85bb428",
+   "title": "Gotta Learn Fast: A new benchmark for generalization in RL",
+   "url": "https://openai.com/index/gotta-learn-fast",
+   "feed_name": "OpenAI",
+   "published": "Tue, 10 Apr 2018 07:00:00 GMT",
+   "published_iso": "2018-04-10T07:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1c6dacd373e06f28",
+   "title": "Our approach to data and AI",
+   "url": "https://openai.com/index/approach-to-data-and-ai",
+   "feed_name": "OpenAI",
+   "published": "Tue, 07 May 2024 00:00:00 GMT",
+   "published_iso": "2024-05-07T00:00:00+00:00",
+   "summary": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager for creators and conte"
+  },
+  {
+   "id": "rss-1c77cec1ddad5050",
+   "title": "Election information and safeguards in 2026",
+   "url": "https://openai.com/index/election-safeguards-2026",
+   "feed_name": "OpenAI",
+   "published": "Wed, 27 May 2026 00:00:00 GMT",
+   "published_iso": "2026-05-27T00:00:00+00:00",
+   "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring."
+  },
+  {
+   "id": "rss-1cb4adf2904f62e2",
+   "title": "Creating with Sora Safely",
+   "url": "https://openai.com/index/creating-with-sora-safely",
+   "feed_name": "OpenAI",
+   "published": "Mon, 23 Mar 2026 00:00:00 GMT",
+   "published_iso": "2026-03-23T00:00:00+00:00",
+   "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in con"
+  },
+  {
+   "id": "rss-1cce41005fd04988",
+   "title": "Introducing OpenAI o3 and o4-mini",
+   "url": "https://openai.com/index/introducing-o3-and-o4-mini",
+   "feed_name": "OpenAI",
+   "published": "Wed, 16 Apr 2025 10:00:00 GMT",
+   "published_iso": "2025-04-16T10:00:00+00:00",
+   "summary": "Our smartest and most capable models to date with full tool access"
+  },
+  {
+   "id": "rss-1cee2d375ec0efe1",
+   "title": "Rox goes “all in” on OpenAI",
+   "url": "https://openai.com/index/rox",
+   "feed_name": "OpenAI",
+   "published": "Tue, 19 Nov 2024 07:00:00 GMT",
+   "published_iso": "2024-11-19T07:00:00+00:00",
+   "summary": "By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller."
+  },
+  {
+   "id": "rss-1cf1a2c9586d718a",
+   "title": "Learn ChatGPT workflows for sales teams",
+   "url": "https://openai.com/academy/sales",
+   "feed_name": "OpenAI",
+   "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-10T00:00:00+00:00",
+   "summary": "Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution."
+  },
+  {
+   "id": "rss-1d3a64f7b8a6b2e5",
+   "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+   "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 03 Mar 2026 16:50:49 GMT",
+   "published_iso": "2026-03-03T16:50:49+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1d66f35fb06cceea",
+   "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+   "url": "https://huggingface.co/blog/async-rl-training-landscape",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 10 Mar 2026 00:00:00 GMT",
+   "published_iso": "2026-03-10T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1dc472c1198db6b9",
+   "title": "Our commitment to community safety",
+   "url": "https://openai.com/index/our-commitment-to-community-safety",
+   "feed_name": "OpenAI",
+   "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+   "published_iso": "2026-04-28T00:00:00+00:00",
+   "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
+  },
+  {
+   "id": "rss-1dc90d6c45eeb820",
+   "title": "Argentina’s AI opportunity",
+   "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+   "feed_name": "OpenAI",
+   "published": "Tue, 14 Oct 2025 06:00:00 GMT",
+   "published_iso": "2025-10-14T06:00:00+00:00",
+   "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and di"
+  },
+  {
+   "id": "rss-1dd7c478a72620d2",
+   "title": "AI Agents Are Here. What Now?",
+   "url": "https://huggingface.co/blog/ethics-soc-7",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 13 Jan 2025 00:00:00 GMT",
+   "published_iso": "2025-01-13T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1de8660326e5e2b6",
+   "title": "Advancing the next era of national science",
+   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+   "feed_name": "OpenAI",
+   "published": "Wed, 22 Jul 2026 12:00:00 GMT",
+   "published_iso": "2026-07-22T12:00:00+00:00",
+   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+  },
+  {
+   "id": "rss-1e3fe29a87a7af6d",
+   "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
+   "url": "https://huggingface.co/blog/pref-tuning",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 18 Jan 2024 00:00:00 GMT",
+   "published_iso": "2024-01-18T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1ed301b1b45fa72d",
+   "title": "Learning sparse neural networks through L₀ regularization",
+   "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
+   "feed_name": "OpenAI",
+   "published": "Mon, 04 Dec 2017 08:00:00 GMT",
+   "published_iso": "2017-12-04T08:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1ef0e397131d6008",
+   "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+   "url": "https://huggingface.co/blog/ulysses-sp",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 09 Mar 2026 00:00:00 GMT",
+   "published_iso": "2026-03-09T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1f1a5dd0fa4ffc43",
+   "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
+   "url": "https://huggingface.co/blog/snowball-fight",
+   "feed_name": "Hugging Face",
+   "published": "Thu, 02 Dec 2021 00:00:00 GMT",
+   "published_iso": "2021-12-02T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1f2073a64976c05e",
+   "title": "Decoding genetics with OpenAI o1",
+   "url": "https://openai.com/index/o1-genetics",
+   "feed_name": "OpenAI",
+   "published": "Thu, 12 Sep 2024 00:00:00 GMT",
+   "published_iso": "2024-09-12T00:00:00+00:00",
+   "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges."
+  },
+  {
+   "id": "rss-1f22528a2f8fa034",
+   "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
+   "url": "https://huggingface.co/blog/swift-coreml-llm",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 08 Aug 2023 00:00:00 GMT",
+   "published_iso": "2023-08-08T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1f3dabd0b57933b4",
+   "title": "OpenAI Data Partnerships",
+   "url": "https://openai.com/index/data-partnerships",
+   "feed_name": "OpenAI",
+   "published": "Thu, 09 Nov 2023 08:00:00 GMT",
+   "published_iso": "2023-11-09T08:00:00+00:00",
+   "summary": "Working together to create open-source and private datasets for AI training."
+  },
+  {
+   "id": "rss-1f42542c4eba13fa",
+   "title": "FineVideo: behind the scenes",
+   "url": "https://huggingface.co/blog/fine-video",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 23 Sep 2024 00:00:00 GMT",
+   "published_iso": "2024-09-23T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-1f5d786bd553f599",
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "feed_name": "OpenAI",
+   "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+   "published_iso": "2026-07-22T05:30:00+00:00",
+   "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+  },
+  {
+   "id": "rss-1f6aece285f6cd93",
+   "title": "Building agricultural database for farmers",
+   "url": "https://openai.com/index/digital-green",
+   "feed_name": "OpenAI",
+   "published": "Fri, 12 Jan 2024 08:00:00 GMT",
+   "published_iso": "2024-01-12T08:00:00+00:00",
+   "summary": "Digital Green uses OpenAI to increase farmer income."
+  },
+  {
+   "id": "rss-1f8156d371d82b42",
+   "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+   "url": "https://huggingface.co/blog/jat",
+   "feed_name": "Hugging Face",
+   "published": "Mon, 22 Apr 2024 00:00:00 GMT",
+   "published_iso": "2024-04-22T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-200ccf22b4732b19",
+   "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+   "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 21 Apr 2026 10:09:58 GMT",
+   "published_iso": "2026-04-21T10:09:58+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-2034adaf8866f204",
+   "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
+   "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
+   "feed_name": "Hugging Face",
+   "published": "Tue, 24 Oct 2023 00:00:00 GMT",
+   "published_iso": "2023-10-24T00:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-2058a27ec260ca00",
+   "title": "Efficient training of language models to fill in the middle",
+   "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
+   "feed_name": "OpenAI",
+   "published": "Thu, 28 Jul 2022 07:00:00 GMT",
+   "published_iso": "2022-07-28T07:00:00+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-207f6746740ff871",
+   "title": "Competitive self-play",
+   "url": "https://openai.com/index/competitive-self-play",
+   "feed_name": "OpenAI",
+   "published": "Wed, 11 Oct 2017 07:00:00 GMT",
+   "published_iso": "2017-10-11T07:00:00+00:00",
+   "summary": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in min"
+  },
+  {
+   "id": "rss-20a5940b926b5193",
+   "title": "New Credit Facility Enhances Financial Flexibility",
+   "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+   "feed_name": "OpenAI",
+   "published": "Thu, 03 Oct 2024 07:00:00 GMT",
+   "published_iso": "2024-10-03T07:00:00+00:00",
+   "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santande"
+  },
+  {
+   "id": "rss-20bbe0533c963027",
+   "title": "Update on the OpenAI Foundation",
+   "url": "https://openai.com/index/update-on-the-openai-foundation",
+   "feed_name": "OpenAI",
+   "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+   "published_iso": "2026-03-24T09:00:00+00:00",
+   "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+  },
+  {
+   "id": "rss-20d626c31e241a54",
+   "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+   "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+   "feed_name": "OpenAI",
+   "published": "Thu, 02 Oct 2025 00:00:00 GMT",
+   "published_iso": "2025-10-02T00:00:00+00:00",
+   "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide."
+  },
+  {
+   "id": "rss-20e7ffe2a0312e60",
+   "title": "Introducing gpt-realtime and Realtime API updates",
+   "url": "https://openai.com/index/introducing-gpt-realtime",
+   "feed_name": "OpenAI",
+   "published": "Thu, 28 Aug 2025 10:00:00 GMT",
+   "published_iso": "2025-08-28T10:00:00+00:00",
+   "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support."
+  }
+ ]
+}

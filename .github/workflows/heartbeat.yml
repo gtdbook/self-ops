@@ -1,0 +1,30 @@
+name: heartbeat
+
+# 每日晨间自检：流水线 / 数据 / 部署 三项健康检查 + issue 告警闭环
+on:
+  schedule:
+    - cron: "30 22 * * *" # UTC 22:30 = 北京时间 06:30
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+  actions: read
+
+jobs:
+  check:
+    name: 每日自检
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 运行自检
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/heartbeat.py

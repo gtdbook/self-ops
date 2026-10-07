@@ -1,0 +1,39 @@
+{
+  "timezone": "Asia/Shanghai",
+  "retention_days": 60,
+  "site_max_days": 60,
+  "digest": {
+    "top_n_per_source": 15
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": true,
+      "top_stories": 25
+    },
+    "github_search": {
+      "enabled": true,
+      "days_back": 7,
+      "per_page": 20,
+      "query_extra": "stars:>30"
+    },
+    "blog_rss": {
+      "enabled": true,
+      "feeds": [
+        { "name": "OpenAI", "url": "https://openai.com/news/rss.xml" },
+        { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml" },
+        { "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/" },
+        { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml" },
+        { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+        { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index" }
+      ]
+    },
+    "aihot": {
+      "enabled": false,
+      "endpoint": "https://aihot.news/api/v1/items",
+      "mode": "selected",
+      "window": "24h",
+      "limit": 30,
+      "license_note": "AIHOT 条款 (https://aihot.news/terms)：个人非商业使用免费；公开镜像 / 批量公开再分发需书面授权。仅建议私有场景启用。"
+    }
+  }
+}
