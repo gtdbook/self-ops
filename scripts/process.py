@@ -26,6 +26,7 @@ SOURCE_META = {
     "hackernews": {"title": "Hacker News 热榜", "emoji": "💬"},
     "github_search": {"title": "GitHub 新星榜", "emoji": "🚀"},
     "blog_rss": {"title": "博客与技术媒体", "emoji": "📰"},
+    "producthunt": {"title": "Product Hunt 新品", "emoji": "🎯"},
     "aihot": {"title": "AIHOT 精选", "emoji": "🔥"},
 }
 

@@ -7,6 +7,7 @@
 import email.utils
 import json
 import os
+import re
 import sys
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -176,6 +177,45 @@ def fetch_blog_rss(scfg):
     return items
 
 
+def fetch_producthunt(scfg):
+    """Product Hunt 官方 Atom feed；tagline 在 content 首个 <p> 里。保持 feed 顺序（站方策展序）。"""
+    items = []
+    for feed in scfg.get("feeds", [{"url": "https://www.producthunt.com/feed"}]):
+        _, body = http_get(
+            feed["url"],
+            accept="application/atom+xml, application/xml, text/xml, */*",
+            timeout=30,
+        )
+        root = ET.fromstring(body)
+        for e in (el for el in root.iter() if _tag(el.tag) == "entry"):
+            title = link = pub = content = ""
+            for c in e:
+                ct = _tag(c.tag)
+                if ct == "title":
+                    title = (c.text or "").strip()
+                elif ct == "link" and c.get("href"):
+                    link = c.get("href")
+                elif ct == "published":
+                    pub = c.text or ""
+                elif ct == "content":
+                    content = c.text or ""
+            m = re.search(r"<p[^>]*>(.*?)</p>", content, re.S)
+            tagline = strip_html(m.group(1), 200) if m else strip_html(content, 200)
+            dt = _parse_dt(pub)
+            items.append(
+                {
+                    "id": "ph-" + md5_key(link or title),
+                    "title": title,
+                    "url": link,
+                    "tagline": tagline,
+                    "published": pub,
+                    "published_iso": dt.astimezone(timezone.utc).isoformat() if dt else "",
+                    "summary": tagline,
+                }
+            )
+    return items
+
+
 def fetch_aihot(scfg):
     params = {
         "mode": scfg.get("mode", "selected"),
@@ -207,6 +247,7 @@ FETCHERS = {
     "hackernews": fetch_hackernews,
     "github_search": fetch_github_search,
     "blog_rss": fetch_blog_rss,
+    "producthunt": fetch_producthunt,
     "aihot": fetch_aihot,
 }
 

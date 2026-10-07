@@ -215,6 +215,9 @@ def format_meta(source_key, item):
     if source_key == "blog_rss":
         pub = (item.get("published_iso") or "")[:10]
         return item.get("feed_name", "") + (f" · {pub}" if pub else "")
+    if source_key == "producthunt":
+        pub = (item.get("published_iso") or "")[:10]
+        return "Product Hunt" + (f" · {pub}" if pub else "")
     if source_key == "aihot":
         src = item.get("source_name") or "AIHOT"
         pub = (item.get("published_at") or "")[:10]

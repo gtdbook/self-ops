@@ -15,8 +15,8 @@
 │  抓取 fetch.py                  处理 process.py            部署        │
 │  ├─ Hacker News 热榜    ──►  ├─ 按热度/时间排序     ──►  build_site.py │
 │  ├─ GitHub 新星榜(搜索)       ├─ 每板块取 Top N          生成静态站     │
-│  └─ 博客 RSS × 6             ├─ 生成日报 JSON+MD     ──►  GitHub Pages │
-│                              ├─ 更新总索引                (自动部署)    │
+│  ├─ Product Hunt 新品         ├─ 生成日报 JSON+MD     ──►  GitHub Pages │
+│  └─ 博客 RSS × 6              ├─ 更新总索引                (自动部署)    │
 │       同日多次运行按 id       └─ 清理 60 天前过期数据                   │
 │       增量合并去重，数据全部提交回本仓库                                 │
 │                                                                      │
@@ -56,6 +56,7 @@ data/
 |---|---|---|
 | Hacker News | 当前热榜 Top 25 | 官方 Firebase API |
 | GitHub Search | 近 7 天新建且 ⭐>30 的仓库 | 按 star 排序，等价轻量 Trending |
+| Product Hunt | 当前策展新品 + AI 分类 | 官方 Atom feed，展示 tagline 与发布日 |
 | 博客 RSS | OpenAI / DeepMind / Google AI / Hugging Face / TechCrunch AI / Ars Technica | 标题+摘要+链接 |
 
 在 `config.json` 中即可增删源：加 RSS 只需在 `feeds` 里追加一行；
