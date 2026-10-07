@@ -1,52 +1,82 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-07T18:16:17.056535+08:00",
+ "updated_at": "2026-10-07T18:54:52.833021+08:00",
  "count": 20,
  "items": [
   {
    "id": "gh-1399236672",
    "title": "deadinside28/bloodborne_pc",
    "url": "https://github.com/deadinside28/bloodborne_pc",
-   "stars": 1398,
+   "stars": 1409,
    "language": "C++",
    "description": "",
-   "created_at": "2026-10-01T05:50:31Z"
+   "created_at": "2026-10-01T05:50:31Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1409
+    }
+   ]
   },
   {
    "id": "gh-1400018213",
    "title": "storytold/designcraft",
    "url": "https://github.com/storytold/designcraft",
-   "stars": 700,
+   "stars": 709,
    "language": "Rust",
    "description": "",
-   "created_at": "2026-10-01T13:13:14Z"
+   "created_at": "2026-10-01T13:13:14Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 709
+    }
+   ]
   },
   {
    "id": "gh-1400080206",
    "title": "lucasmarkes/hairline",
    "url": "https://github.com/lucasmarkes/hairline",
-   "stars": 915,
+   "stars": 923,
    "language": "TypeScript",
    "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-   "created_at": "2026-10-01T13:52:19Z"
+   "created_at": "2026-10-01T13:52:19Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 923
+    }
+   ]
   },
   {
    "id": "gh-1400136506",
    "title": "storytold/effectcraft",
    "url": "https://github.com/storytold/effectcraft",
-   "stars": 1143,
+   "stars": 1161,
    "language": "Rust",
    "description": "",
-   "created_at": "2026-10-01T14:24:46Z"
+   "created_at": "2026-10-01T14:24:46Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1161
+    }
+   ]
   },
   {
    "id": "gh-1400714777",
    "title": "StayLameBro/backburner",
    "url": "https://github.com/StayLameBro/backburner",
-   "stars": 811,
+   "stars": 812,
    "language": "Python",
    "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-   "created_at": "2026-10-01T20:59:56Z"
+   "created_at": "2026-10-01T20:59:56Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 812
+    }
+   ]
   },
   {
    "id": "gh-1400880490",
@@ -55,34 +85,58 @@
    "stars": 507,
    "language": "Python",
    "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-   "created_at": "2026-10-02T01:03:55Z"
+   "created_at": "2026-10-02T01:03:55Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 507
+    }
+   ]
   },
   {
    "id": "gh-1401457273",
    "title": "sganggs/Stronghold-Protocol",
    "url": "https://github.com/sganggs/Stronghold-Protocol",
-   "stars": 869,
+   "stars": 874,
    "language": "JavaScript",
    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-   "created_at": "2026-10-02T09:38:41Z"
+   "created_at": "2026-10-02T09:38:41Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 874
+    }
+   ]
   },
   {
    "id": "gh-1401476500",
    "title": "QingYunA/answer-me-with-html",
    "url": "https://github.com/QingYunA/answer-me-with-html",
-   "stars": 1878,
+   "stars": 1886,
    "language": "JavaScript",
    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-   "created_at": "2026-10-02T09:57:40Z"
+   "created_at": "2026-10-02T09:57:40Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1886
+    }
+   ]
   },
   {
    "id": "gh-1401506630",
    "title": "mizorewww/x_gift_bot",
    "url": "https://github.com/mizorewww/x_gift_bot",
-   "stars": 780,
+   "stars": 788,
    "language": "Go",
    "description": "X Premium gift CLI and redemption site",
-   "created_at": "2026-10-02T10:29:43Z"
+   "created_at": "2026-10-02T10:29:43Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 788
+    }
+   ]
   },
   {
    "id": "gh-1401821001",
@@ -91,34 +145,58 @@
    "stars": 491,
    "language": "TypeScript",
    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-   "created_at": "2026-10-02T13:50:42Z"
+   "created_at": "2026-10-02T13:50:42Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 491
+    }
+   ]
   },
   {
    "id": "gh-1402193143",
    "title": "facebookincubator/muse-gadget-sdk",
    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-   "stars": 1598,
+   "stars": 1600,
    "language": "C",
    "description": "Open source SDK to build Muse gadgets",
-   "created_at": "2026-10-02T18:21:23Z"
+   "created_at": "2026-10-02T18:21:23Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1600
+    }
+   ]
   },
   {
    "id": "gh-1402525166",
    "title": "DozenTwelve/Papermorph",
    "url": "https://github.com/DozenTwelve/Papermorph",
-   "stars": 482,
+   "stars": 486,
    "language": "HTML",
    "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-   "created_at": "2026-10-03T01:38:22Z"
+   "created_at": "2026-10-03T01:38:22Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 486
+    }
+   ]
   },
   {
    "id": "gh-1403115747",
    "title": "Jakeschincariol/replica-skill",
    "url": "https://github.com/Jakeschincariol/replica-skill",
-   "stars": 754,
+   "stars": 762,
    "language": "Python",
    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-   "created_at": "2026-10-03T12:07:49Z"
+   "created_at": "2026-10-03T12:07:49Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 762
+    }
+   ]
   },
   {
    "id": "gh-1403431984",
@@ -127,16 +205,28 @@
    "stars": 635,
    "language": "HTML",
    "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
-   "created_at": "2026-10-03T16:53:36Z"
+   "created_at": "2026-10-03T16:53:36Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 635
+    }
+   ]
   },
   {
    "id": "gh-1404266247",
    "title": "kargulstudio/sales-crm",
    "url": "https://github.com/kargulstudio/sales-crm",
-   "stars": 1610,
+   "stars": 1612,
    "language": "TypeScript",
    "description": "",
-   "created_at": "2026-10-04T10:55:58Z"
+   "created_at": "2026-10-04T10:55:58Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1612
+    }
+   ]
   },
   {
    "id": "gh-1404743796",
@@ -145,16 +235,28 @@
    "stars": 723,
    "language": "TypeScript",
    "description": "",
-   "created_at": "2026-10-04T18:55:18Z"
+   "created_at": "2026-10-04T18:55:18Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 723
+    }
+   ]
   },
   {
    "id": "gh-1404874984",
    "title": "AgentMemoryRepo/agentmemoryrepo",
    "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-   "stars": 596,
+   "stars": 597,
    "language": "",
    "description": "Spec for Agent Memory Repo",
-   "created_at": "2026-10-04T22:10:48Z"
+   "created_at": "2026-10-04T22:10:48Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 597
+    }
+   ]
   },
   {
    "id": "gh-1405454424",
@@ -163,25 +265,43 @@
    "stars": 652,
    "language": "Rust",
    "description": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-   "created_at": "2026-10-05T08:57:44Z"
+   "created_at": "2026-10-05T08:57:44Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 652
+    }
+   ]
   },
   {
    "id": "gh-1406706284",
    "title": "alchaincyf/huashu-art-motion",
    "url": "https://github.com/alchaincyf/huashu-art-motion",
-   "stars": 1091,
+   "stars": 1125,
    "language": "JavaScript",
    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-   "created_at": "2026-10-06T04:49:37Z"
+   "created_at": "2026-10-06T04:49:37Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 1125
+    }
+   ]
   },
   {
    "id": "gh-1407950271",
    "title": "openai/math",
    "url": "https://github.com/openai/math",
-   "stars": 6300,
+   "stars": 6519,
    "language": "Lean",
    "description": "",
-   "created_at": "2026-10-06T21:47:02Z"
+   "created_at": "2026-10-06T21:47:02Z",
+   "history": [
+    {
+     "t": "2026-10-07T18:54:52.833021+08:00",
+     "score": 6519
+    }
+   ]
   }
  ]
 }

@@ -1,7 +1,22 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T18:16:18.307039+08:00",
+ "generated_at": "2026-10-07T18:54:54.594862+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Mistral Large 4",
+     "url": "https://mistral.ai/news/mistral-large-4/\\",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Mistral Large 4",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -12,105 +27,120 @@
      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
      "meta": "TechCrunch AI · 2026-10-06",
      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
      "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
      "meta": "Ars Technica · 2026-10-06",
      "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
      "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
      "meta": "Ars Technica · 2026-10-06",
      "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
      "meta": "TechCrunch AI · 2026-10-05",
      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
      "meta": "TechCrunch AI · 2026-10-05",
      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "The Agent Said It Was Done. The Database Disagreed.",
      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
      "meta": "Hugging Face · 2026-10-03",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "How Albertsons Companies is reimagining retail from the inside out",
      "url": "https://openai.com/index/albertsons-reimagining-retail",
      "meta": "OpenAI · 2026-10-01",
      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
      "url": "https://openai.com/index/proaction",
      "meta": "OpenAI · 2026-09-25",
      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Introducing Gemini 3.8 Live with Live Avatar",
      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
      "meta": "Google DeepMind · 2026-09-24",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Google Beam expands with new regions, partners, and customers",
      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
      "meta": "Google AI Blog · 2026-09-23",
      "summary": "Google Beam promotional animation",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
      "meta": "OpenAI · 2026-09-23",
      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
      "url": "https://huggingface.co/blog/evaleval-aisi",
      "meta": "Hugging Face · 2026-09-22",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
      "url": "https://openai.com/index/v7",
      "meta": "OpenAI · 2026-09-21",
      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "Our framework for reporting model misalignment",
      "url": "https://openai.com/index/model-misalignment-reporting-framework",
      "meta": "OpenAI · 2026-09-16",
      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     },
     {
      "title": "AI for everyone in every language",
      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
      "meta": "Google AI Blog · 2026-09-15",
      "summary": "Animation of several words in different languages slowly zooming past",
-     "reason": null
+     "reason": null,
+     "origin_source": "blog_rss"
     }
    ]
   },
@@ -122,107 +152,122 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 6300 · Lean",
+     "meta": "⭐ 6519 · Lean",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "QingYunA/answer-me-with-html",
      "url": "https://github.com/QingYunA/answer-me-with-html",
-     "meta": "⭐ 1878 · JavaScript",
+     "meta": "⭐ 1886 · JavaScript",
      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1610 · TypeScript",
+     "meta": "⭐ 1612 · TypeScript",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "facebookincubator/muse-gadget-sdk",
      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-     "meta": "⭐ 1598 · C",
+     "meta": "⭐ 1600 · C",
      "summary": "Open source SDK to build Muse gadgets",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "deadinside28/bloodborne_pc",
      "url": "https://github.com/deadinside28/bloodborne_pc",
-     "meta": "⭐ 1398 · C++",
+     "meta": "⭐ 1409 · C++",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "storytold/effectcraft",
      "url": "https://github.com/storytold/effectcraft",
-     "meta": "⭐ 1143 · Rust",
+     "meta": "⭐ 1161 · Rust",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 1091 · JavaScript",
+     "meta": "⭐ 1125 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "lucasmarkes/hairline",
      "url": "https://github.com/lucasmarkes/hairline",
-     "meta": "⭐ 915 · TypeScript",
+     "meta": "⭐ 923 · TypeScript",
      "summary": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "sganggs/Stronghold-Protocol",
      "url": "https://github.com/sganggs/Stronghold-Protocol",
-     "meta": "⭐ 869 · JavaScript",
+     "meta": "⭐ 874 · JavaScript",
      "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "StayLameBro/backburner",
      "url": "https://github.com/StayLameBro/backburner",
-     "meta": "⭐ 811 · Python",
+     "meta": "⭐ 812 · Python",
      "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "mizorewww/x_gift_bot",
      "url": "https://github.com/mizorewww/x_gift_bot",
-     "meta": "⭐ 780 · Go",
+     "meta": "⭐ 788 · Go",
      "summary": "X Premium gift CLI and redemption site",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "Jakeschincariol/replica-skill",
      "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 754 · Python",
+     "meta": "⭐ 762 · Python",
      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "rauchg/gdp-ts",
      "url": "https://github.com/rauchg/gdp-ts",
      "meta": "⭐ 723 · TypeScript",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "storytold/designcraft",
      "url": "https://github.com/storytold/designcraft",
-     "meta": "⭐ 700 · Rust",
+     "meta": "⭐ 709 · Rust",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     },
     {
      "title": "elstongun/leviathan",
      "url": "https://github.com/elstongun/leviathan",
      "meta": "⭐ 652 · Rust",
      "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
-     "reason": null
+     "reason": null,
+     "origin_source": "github_search"
     }
    ]
   },
@@ -234,107 +279,122 @@
     {
      "title": "Mistral Large 4",
      "url": "https://mistral.ai/news/mistral-large-4/\\",
-     "meta": "⭐ 1820 · 💬 1084",
+     "meta": "⭐ 1834 · 💬 1101",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Sharing AI progress in mathematics",
      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-     "meta": "⭐ 930 · 💬 869",
+     "meta": "⭐ 948 · 💬 889",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-     "meta": "⭐ 331 · 💬 35",
+     "meta": "⭐ 337 · 💬 35",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Decisions API is in public beta",
      "url": "https://developers.openai.com/api/docs/guides/decisions",
-     "meta": "⭐ 300 · 💬 143",
+     "meta": "⭐ 309 · 💬 152",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
      "url": "https://github.com/FeSens/openTPU",
-     "meta": "⭐ 289 · 💬 340",
+     "meta": "⭐ 292 · 💬 342",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
      "url": "https://github.com/boykopovar/AnyPS5",
-     "meta": "⭐ 265 · 💬 222",
+     "meta": "⭐ 277 · 💬 231",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
      "url": "https://news.ycombinator.com/item?id=49982498",
-     "meta": "⭐ 248 · 💬 141",
+     "meta": "⭐ 268 · 💬 149",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "What's Earth's dominant species by mass?",
      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-     "meta": "⭐ 246 · 💬 186",
+     "meta": "⭐ 254 · 💬 192",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-     "meta": "⭐ 201 · 💬 117",
+     "meta": "⭐ 208 · 💬 121",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
      "url": "https://penguin-mail.com/",
-     "meta": "⭐ 183 · 💬 117",
+     "meta": "⭐ 189 · 💬 127",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "Strands Decider 2B: a small, open-source, decision model",
      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-     "meta": "⭐ 178 · 💬 45",
+     "meta": "⭐ 186 · 💬 46",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "State of Devs 2026",
      "url": "https://2026.stateofdevs.com/en-US/",
-     "meta": "⭐ 171 · 💬 87",
+     "meta": "⭐ 178 · 💬 91",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The cost of lies: A Mineserver story",
+     "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+     "meta": "⭐ 118 · 💬 52",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "California closed the Montana license plate loophole",
      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
      "meta": "⭐ 113 · 💬 276",
      "summary": "",
-     "reason": null
-    },
-    {
-     "title": "The cost of lies: A Mineserver story",
-     "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-     "meta": "⭐ 112 · 💬 51",
-     "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     },
     {
      "title": "ESP32-C3 Adblock",
      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-     "meta": "⭐ 99 · 💬 36",
+     "meta": "⭐ 105 · 💬 40",
      "summary": "",
-     "reason": null
+     "reason": null,
+     "origin_source": "hackernews"
     }
    ]
   },
@@ -348,105 +408,120 @@
      "url": "https://www.producthunt.com/products/genpage",
      "meta": "Product Hunt · 2026-09-30",
      "summary": "Build, personalize, and optimize landing pages with AI",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "DevAlly AI Agent",
      "url": "https://www.producthunt.com/products/devally",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "User journeys captured with natural language",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Takweem AI",
      "url": "https://www.producthunt.com/products/takweem-ai",
      "meta": "Product Hunt · 2026-10-02",
      "summary": "The AI calendar that makes room for your most important work",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Banger",
      "url": "https://www.producthunt.com/products/banger-mail",
      "meta": "Product Hunt · 2026-10-02",
      "summary": "Win and keep customers with email automation your AI runs",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Willow Knowledge",
+     "url": "https://www.producthunt.com/products/willow-voice",
+     "meta": "Product Hunt · 2026-10-05",
+     "summary": "Your AI already knows you. Now Willow can too.",
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Vresk",
      "url": "https://www.producthunt.com/products/vresk",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "One AI workspace that picks the best model for each task",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Rill Browser",
      "url": "https://www.producthunt.com/products/rill-3",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "The browser where Claude Code and Codex work beside you",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Pegasus 1.6 by TwelveLabs",
      "url": "https://www.producthunt.com/products/twelvelabs",
      "meta": "Product Hunt · 2026-09-29",
      "summary": "Transforms egocentric video into robot training data",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Kitbar",
      "url": "https://www.producthunt.com/products/kitbar",
      "meta": "Product Hunt · 2026-10-06",
      "summary": "Your dev tools, in one bar.",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Aura by Neural",
      "url": "https://www.producthunt.com/products/aura-by-neural",
      "meta": "Product Hunt · 2026-10-07",
      "summary": "Turn requests into interactive interfaces on your screen",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "NoteWorthy",
      "url": "https://www.producthunt.com/products/noteworthy",
      "meta": "Product Hunt · 2026-09-28",
      "summary": "Notes supercharged with AI, all on-device",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Supademo AI Demo Agent",
      "url": "https://www.producthunt.com/products/supademo",
      "meta": "Product Hunt · 2025-09-04",
      "summary": "Agentic demos like your best salesperson, without the salary",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Cosmic AI Support Agent",
      "url": "https://www.producthunt.com/products/cosmic",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "An AI support agent that stays in sync with your site",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Fuse AI",
      "url": "https://www.producthunt.com/products/fuseai",
      "meta": "Product Hunt · 2026-10-01",
      "summary": "Build a Custom GTM Stack. One SDK. One MCP.",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     },
     {
      "title": "Rool",
      "url": "https://www.producthunt.com/products/rool",
      "meta": "Product Hunt · 2026-09-27",
      "summary": "Your private AI machine. Files, ideas, AI in one workspace.",
-     "reason": null
-    },
-    {
-     "title": "Knuff App",
-     "url": "https://www.producthunt.com/products/knuff-app",
-     "meta": "Product Hunt · 2026-10-06",
-     "summary": "Family check-in app to know your people are okay",
-     "reason": null
+     "reason": null,
+     "origin_source": "producthunt"
     }
    ]
   }
