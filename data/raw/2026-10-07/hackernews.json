@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-07T17:56:52.876355+08:00",
- "count": 25,
+ "updated_at": "2026-10-07T17:58:20.979272+08:00",
+ "count": 26,
  "items": [
   {
    "id": "hn-49950865",
@@ -9,7 +9,7 @@
    "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
    "hn_url": "https://news.ycombinator.com/item?id=49950865",
    "score": 111,
-   "comments": 48,
+   "comments": 49,
    "author": "luu",
    "time_iso": "2026-10-04T05:17:12+00:00"
   },
@@ -34,12 +34,22 @@
    "time_iso": "2026-10-04T17:58:51+00:00"
   },
   {
+   "id": "hn-49969851",
+   "title": "First Steps into Memory Management in Python",
+   "url": "https://tech.daniellbastos.com.br/posts/python-memory-management/",
+   "hn_url": "https://news.ycombinator.com/item?id=49969851",
+   "score": 3,
+   "comments": 0,
+   "author": "shellpipe",
+   "time_iso": "2026-10-05T20:01:22+00:00"
+  },
+  {
    "id": "hn-49977531",
    "title": "What's Earth's dominant species by mass?",
    "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
    "hn_url": "https://news.ycombinator.com/item?id=49977531",
    "score": 245,
-   "comments": 178,
+   "comments": 179,
    "author": "surprisetalk",
    "time_iso": "2026-10-06T12:40:03+00:00"
   },
@@ -48,7 +58,7 @@
    "title": "Mistral Large 4",
    "url": "https://mistral.ai/news/mistral-large-4/\\",
    "hn_url": "https://news.ycombinator.com/item?id=49977979",
-   "score": 1810,
+   "score": 1811,
    "comments": 1079,
    "author": "Philpax",
    "time_iso": "2026-10-06T13:15:49+00:00"
@@ -58,7 +68,7 @@
    "title": "What is Codemode",
    "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
    "hn_url": "https://news.ycombinator.com/item?id=49978333",
-   "score": 82,
+   "score": 83,
    "comments": 38,
    "author": "Tomte",
    "time_iso": "2026-10-06T13:41:03+00:00"
@@ -109,7 +119,7 @@
    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
    "hn_url": "https://news.ycombinator.com/item?id=49981905",
    "score": 200,
-   "comments": 115,
+   "comments": 116,
    "author": "zed_labs_dev",
    "time_iso": "2026-10-06T18:00:34+00:00"
   },
@@ -128,7 +138,7 @@
    "title": "Decisions API is in public beta",
    "url": "https://developers.openai.com/api/docs/guides/decisions",
    "hn_url": "https://news.ycombinator.com/item?id=49984025",
-   "score": 296,
+   "score": 297,
    "comments": 138,
    "author": "chiefstorm",
    "time_iso": "2026-10-06T20:57:25+00:00"
@@ -159,7 +169,7 @@
    "url": "https://github.com/boykopovar/AnyPS5",
    "hn_url": "https://news.ycombinator.com/item?id=49985664",
    "score": 260,
-   "comments": 218,
+   "comments": 219,
    "author": "Fe2O3",
    "time_iso": "2026-10-06T23:28:08+00:00"
   },
@@ -178,7 +188,7 @@
    "title": "Strands Decider 2B: a small, open-source, decision model",
    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
    "hn_url": "https://news.ycombinator.com/item?id=49987076",
-   "score": 175,
+   "score": 176,
    "comments": 45,
    "author": "gmays",
    "time_iso": "2026-10-07T02:02:11+00:00"
@@ -209,7 +219,7 @@
    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
    "hn_url": "https://news.ycombinator.com/item?id=49987858",
    "score": 66,
-   "comments": 33,
+   "comments": 34,
    "author": "sandebert",
    "time_iso": "2026-10-07T03:43:14+00:00"
   },
@@ -238,8 +248,8 @@
    "title": "Reasons to Dislike AI Coding",
    "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
    "hn_url": "https://news.ycombinator.com/item?id=49990204",
-   "score": 17,
-   "comments": 10,
+   "score": 21,
+   "comments": 12,
    "author": "signa11",
    "time_iso": "2026-10-07T09:15:00+00:00"
   },
@@ -248,7 +258,7 @@
    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
    "url": "https://github.com/szabadkai/c64-keyboard-font/",
    "hn_url": "https://news.ycombinator.com/item?id=49990224",
-   "score": 11,
+   "score": 14,
    "comments": 0,
    "author": "sohkamyung",
    "time_iso": "2026-10-07T09:17:55+00:00"
