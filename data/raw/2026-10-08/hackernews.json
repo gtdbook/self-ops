@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-08T01:22:18.521551+08:00",
- "count": 25,
+ "updated_at": "2026-10-08T06:41:28.452613+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-49949680",
@@ -56,14 +56,50 @@
    "title": "Wood Tape (2004)",
    "url": "http://gamesbyemail.com/WoodTape/Default.htm",
    "hn_url": "https://news.ycombinator.com/item?id=49974173",
-   "score": 42,
-   "comments": 7,
+   "score": 135,
+   "comments": 17,
    "author": "NaOH",
    "time_iso": "2026-10-06T04:25:41+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 135
+    }
+   ]
+  },
+  {
+   "id": "hn-49976818",
+   "title": "Brownian Motion",
+   "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+   "hn_url": "https://news.ycombinator.com/item?id=49976818",
+   "score": 13,
+   "comments": 0,
+   "author": "signa11",
+   "time_iso": "2026-10-06T11:11:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-49978315",
+   "title": "If somebody tries to hot-patch an already-hot-patched function",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+   "hn_url": "https://news.ycombinator.com/item?id=49978315",
+   "score": 8,
+   "comments": 0,
+   "author": "ibobev",
+   "time_iso": "2026-10-06T13:39:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 8
     }
    ]
   },
@@ -80,6 +116,38 @@
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-49980626",
+   "title": "How machines learned precision",
+   "url": "https://glinscott.github.io/how-machines-learned-precision/",
+   "hn_url": "https://news.ycombinator.com/item?id=49980626",
+   "score": 72,
+   "comments": 30,
+   "author": "glinscott",
+   "time_iso": "2026-10-06T16:14:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 72
+    }
+   ]
+  },
+  {
+   "id": "hn-49984923",
+   "title": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "hn_url": "https://news.ycombinator.com/item?id=49984923",
+   "score": 1210,
+   "comments": 1377,
+   "author": "OfficialTurkey",
+   "time_iso": "2026-10-06T22:17:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 1210
     }
    ]
   },
@@ -104,14 +172,18 @@
    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
    "url": "https://github.com/szabadkai/c64-keyboard-font/",
    "hn_url": "https://news.ycombinator.com/item?id=49990224",
-   "score": 294,
-   "comments": 52,
+   "score": 366,
+   "comments": 62,
    "author": "sohkamyung",
    "time_iso": "2026-10-07T09:17:55+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 294
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 366
     }
    ]
   },
@@ -120,14 +192,18 @@
    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
    "hn_url": "https://news.ycombinator.com/item?id=49990470",
-   "score": 224,
-   "comments": 36,
+   "score": 278,
+   "comments": 53,
    "author": "sasvari",
    "time_iso": "2026-10-07T09:51:43+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 224
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 278
     }
    ]
   },
@@ -136,14 +212,18 @@
    "title": "Shipping JPEG XL in Chrome",
    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
    "hn_url": "https://news.ycombinator.com/item?id=49991227",
-   "score": 354,
-   "comments": 210,
+   "score": 457,
+   "comments": 293,
    "author": "AshleysBrain",
    "time_iso": "2026-10-07T11:25:02+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 354
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 457
     }
    ]
   },
@@ -180,6 +260,22 @@
    ]
   },
   {
+   "id": "hn-49991823",
+   "title": "Google Playground: Create and play custom games",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "hn_url": "https://news.ycombinator.com/item?id=49991823",
+   "score": 101,
+   "comments": 184,
+   "author": "acossta",
+   "time_iso": "2026-10-07T12:28:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
    "id": "hn-49991986",
    "title": "Show HN: Procinsh – A 3D Linux process inspector",
    "url": "https://github.com/akawashiro/procinsh",
@@ -212,18 +308,38 @@
    ]
   },
   {
+   "id": "hn-49992125",
+   "title": "House with 15m underground tunnels for sale for 300k",
+   "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+   "hn_url": "https://news.ycombinator.com/item?id=49992125",
+   "score": 133,
+   "comments": 146,
+   "author": "librasteve",
+   "time_iso": "2026-10-07T12:57:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 133
+    }
+   ]
+  },
+  {
    "id": "hn-49992257",
-   "title": "Anti-Patterns in Software Blogging",
+   "title": "Anti-patterns in software blogging",
    "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
    "hn_url": "https://news.ycombinator.com/item?id=49992257",
-   "score": 84,
-   "comments": 26,
+   "score": 182,
+   "comments": 102,
    "author": "ilreb",
    "time_iso": "2026-10-07T13:08:26+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 182
     }
    ]
   },
@@ -260,34 +376,58 @@
    ]
   },
   {
+   "id": "hn-49993188",
+   "title": "SynthID Detector",
+   "url": "https://synthid.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=49993188",
+   "score": 78,
+   "comments": 67,
+   "author": "ilreb",
+   "time_iso": "2026-10-07T14:16:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 78
+    }
+   ]
+  },
+  {
    "id": "hn-49993857",
    "title": "Animated ASCII Art for Web Pages",
    "url": "https://ascii.rest/",
    "hn_url": "https://news.ycombinator.com/item?id=49993857",
-   "score": 88,
-   "comments": 20,
+   "score": 249,
+   "comments": 55,
    "author": "turrini",
    "time_iso": "2026-10-07T15:05:37+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 88
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 249
     }
    ]
   },
   {
    "id": "hn-49993914",
-   "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+   "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
    "hn_url": "https://news.ycombinator.com/item?id=49993914",
-   "score": 114,
-   "comments": 39,
+   "score": 436,
+   "comments": 298,
    "author": "DeepLogin",
    "time_iso": "2026-10-07T15:09:59+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 114
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 436
     }
    ]
   },
@@ -344,14 +484,18 @@
    "title": "Navier–Stokes Lost in Translation",
    "url": "https://arxiv.org/abs/2610.08144",
    "hn_url": "https://news.ycombinator.com/item?id=49994145",
-   "score": 117,
-   "comments": 80,
+   "score": 210,
+   "comments": 140,
    "author": "nill0",
    "time_iso": "2026-10-07T15:24:38+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 117
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 210
     }
    ]
   },
@@ -360,14 +504,18 @@
    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
    "url": "https://bigwords.page/",
    "hn_url": "https://news.ycombinator.com/item?id=49994443",
-   "score": 24,
-   "comments": 4,
+   "score": 281,
+   "comments": 95,
    "author": "SpeakingOfBrad",
    "time_iso": "2026-10-07T15:44:21+00:00",
    "history": [
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 281
     }
    ]
   },
@@ -400,6 +548,150 @@
     {
      "t": "2026-10-08T01:22:18.521551+08:00",
      "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-49996259",
+   "title": "Docker Agent",
+   "url": "https://github.com/docker/docker-agent",
+   "hn_url": "https://news.ycombinator.com/item?id=49996259",
+   "score": 144,
+   "comments": 58,
+   "author": "saikatsg",
+   "time_iso": "2026-10-07T17:48:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 144
+    }
+   ]
+  },
+  {
+   "id": "hn-49996425",
+   "title": "GPT‑6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "hn_url": "https://news.ycombinator.com/item?id=49996425",
+   "score": 405,
+   "comments": 209,
+   "author": "joshuawright11",
+   "time_iso": "2026-10-07T18:00:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 405
+    }
+   ]
+  },
+  {
+   "id": "hn-49996437",
+   "title": "Claude Haiku 5.5",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "hn_url": "https://news.ycombinator.com/item?id=49996437",
+   "score": 567,
+   "comments": 272,
+   "author": "sfkgtbor",
+   "time_iso": "2026-10-07T18:01:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 567
+    }
+   ]
+  },
+  {
+   "id": "hn-49997073",
+   "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+   "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+   "hn_url": "https://news.ycombinator.com/item?id=49997073",
+   "score": 67,
+   "comments": 27,
+   "author": "speckx",
+   "time_iso": "2026-10-07T18:43:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-49997161",
+   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "hn_url": "https://news.ycombinator.com/item?id=49997161",
+   "score": 207,
+   "comments": 212,
+   "author": "speckx",
+   "time_iso": "2026-10-07T18:49:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 207
+    }
+   ]
+  },
+  {
+   "id": "hn-49997301",
+   "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+   "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+   "hn_url": "https://news.ycombinator.com/item?id=49997301",
+   "score": 31,
+   "comments": 39,
+   "author": "ChrisArchitect",
+   "time_iso": "2026-10-07T19:01:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-49998006",
+   "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+   "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+   "hn_url": "https://news.ycombinator.com/item?id=49998006",
+   "score": 67,
+   "comments": 11,
+   "author": "gumby",
+   "time_iso": "2026-10-07T19:56:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-49998895",
+   "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+   "hn_url": "https://news.ycombinator.com/item?id=49998895",
+   "score": 140,
+   "comments": 11,
+   "author": "muglug",
+   "time_iso": "2026-10-07T21:16:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 140
+    }
+   ]
+  },
+  {
+   "id": "hn-49999606",
+   "title": "I'm in love with a German film star",
+   "url": "https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/",
+   "hn_url": "https://news.ycombinator.com/item?id=49999606",
+   "score": 4,
+   "comments": 0,
+   "author": "hn_acker",
+   "time_iso": "2026-10-07T22:26:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-08T06:41:28.452613+08:00",
+     "score": 4
     }
    ]
   }

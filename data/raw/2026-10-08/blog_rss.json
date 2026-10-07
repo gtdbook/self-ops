@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-08T01:22:19.935674+08:00",
- "count": 2285,
+ "updated_at": "2026-10-08T06:41:30.313472+08:00",
+ "count": 2290,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -2497,6 +2497,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1d6dcd635bc7906e",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "feed_name": "TechCrunch AI",
+   "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+   "published_iso": "2026-10-07T20:48:45+00:00",
+   "summary": "The developer of Hermes Agent raised a $90 million Series B."
+  },
+  {
    "id": "rss-1dc472c1198db6b9",
    "title": "Our commitment to community safety",
    "url": "https://openai.com/index/our-commitment-to-community-safety",
@@ -2693,15 +2702,6 @@
    "published": "Thu, 02 Oct 2025 00:00:00 GMT",
    "published_iso": "2025-10-02T00:00:00+00:00",
    "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide."
-  },
-  {
-   "id": "rss-20e7ffe2a0312e60",
-   "title": "Introducing gpt-realtime and Realtime API updates",
-   "url": "https://openai.com/index/introducing-gpt-realtime",
-   "feed_name": "OpenAI",
-   "published": "Thu, 28 Aug 2025 10:00:00 GMT",
-   "published_iso": "2025-08-28T10:00:00+00:00",
-   "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support."
   }
  ]
 }

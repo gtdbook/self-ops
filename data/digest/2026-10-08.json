@@ -1,12 +1,99 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T01:22:20.203009+08:00",
+ "generated_at": "2026-10-08T06:41:30.746490+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+     "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+     "meta": "+322 分 / 5.3 小时 · 现 ⭐ 436",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+     "url": "https://bigwords.page/",
+     "meta": "+257 分 / 5.3 小时 · 现 ⭐ 281",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Animated ASCII Art for Web Pages",
+     "url": "https://ascii.rest/",
+     "meta": "+161 分 / 5.3 小时 · 现 ⭐ 249",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Shipping JPEG XL in Chrome",
+     "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+     "meta": "+103 分 / 5.3 小时 · 现 ⭐ 457",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anti-patterns in software blogging",
+     "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+     "meta": "+98 分 / 5.3 小时 · 现 ⭐ 182",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Wood Tape (2004)",
+     "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+     "meta": "+93 分 / 5.3 小时 · 现 ⭐ 135",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Navier–Stokes Lost in Translation",
+     "url": "https://arxiv.org/abs/2610.08144",
+     "meta": "+93 分 / 5.3 小时 · 现 ⭐ 210",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+     "url": "https://github.com/szabadkai/c64-keyboard-font/",
+     "meta": "+72 分 / 5.3 小时 · 现 ⭐ 366",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+     "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+     "meta": "+54 分 / 5.3 小时 · 现 ⭐ 278",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+     "meta": "TechCrunch AI · 2026-10-07",
+     "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "AI/ML is becoming a performance factor in motorsport",
      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
@@ -118,14 +205,6 @@
      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "AI for everyone in every language",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-     "meta": "Google AI Blog · 2026-09-15",
-     "summary": "Animation of several words in different languages slowly zooming past",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +216,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 8443 · Lean",
+     "meta": "⭐ 9270 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +224,7 @@
     {
      "title": "QingYunA/answer-me-with-html",
      "url": "https://github.com/QingYunA/answer-me-with-html",
-     "meta": "⭐ 2003 · JavaScript",
+     "meta": "⭐ 2031 · JavaScript",
      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +232,7 @@
     {
      "title": "facebookincubator/muse-gadget-sdk",
      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-     "meta": "⭐ 1638 · C",
+     "meta": "⭐ 1647 · C",
      "summary": "Open source SDK to build Muse gadgets",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +240,7 @@
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1624 · TypeScript",
+     "meta": "⭐ 1635 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +248,15 @@
     {
      "title": "deadinside28/bloodborne_pc",
      "url": "https://github.com/deadinside28/bloodborne_pc",
-     "meta": "⭐ 1534 · C++",
+     "meta": "⭐ 1614 · C++",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/effectcraft",
+     "url": "https://github.com/storytold/effectcraft",
+     "meta": "⭐ 1605 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -177,31 +264,31 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 1484 · JavaScript",
+     "meta": "⭐ 1571 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "storytold/effectcraft",
-     "url": "https://github.com/storytold/effectcraft",
-     "meta": "⭐ 1414 · Rust",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "lucasmarkes/hairline",
      "url": "https://github.com/lucasmarkes/hairline",
-     "meta": "⭐ 1028 · TypeScript",
+     "meta": "⭐ 1068 · TypeScript",
      "summary": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/designcraft",
+     "url": "https://github.com/storytold/designcraft",
+     "meta": "⭐ 935 · Rust",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "sganggs/Stronghold-Protocol",
      "url": "https://github.com/sganggs/Stronghold-Protocol",
-     "meta": "⭐ 912 · JavaScript",
+     "meta": "⭐ 917 · JavaScript",
      "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
      "reason": null,
      "origin_source": "github_search"
@@ -209,39 +296,31 @@
     {
      "title": "mizorewww/x_gift_bot",
      "url": "https://github.com/mizorewww/x_gift_bot",
-     "meta": "⭐ 881 · Go",
+     "meta": "⭐ 916 · Go",
      "summary": "X Premium gift CLI and redemption site",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "StayLameBro/backburner",
-     "url": "https://github.com/StayLameBro/backburner",
-     "meta": "⭐ 831 · Python",
-     "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "storytold/designcraft",
-     "url": "https://github.com/storytold/designcraft",
-     "meta": "⭐ 819 · Rust",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Jakeschincariol/replica-skill",
      "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 800 · Python",
+     "meta": "⭐ 844 · Python",
      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "StayLameBro/backburner",
+     "url": "https://github.com/StayLameBro/backburner",
+     "meta": "⭐ 843 · Python",
+     "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "rauchg/gdp-ts",
      "url": "https://github.com/rauchg/gdp-ts",
-     "meta": "⭐ 730 · TypeScript",
+     "meta": "⭐ 738 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +328,7 @@
     {
      "title": "elstongun/leviathan",
      "url": "https://github.com/elstongun/leviathan",
-     "meta": "⭐ 657 · Rust",
+     "meta": "⭐ 663 · Rust",
      "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
      "reason": null,
      "origin_source": "github_search"
@@ -262,9 +341,41 @@
    "errors": [],
    "items": [
     {
+     "title": "Sharing AI progress in mathematics",
+     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+     "meta": "⭐ 1210 · 💬 1377",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "meta": "⭐ 567 · 💬 272",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Shipping JPEG XL in Chrome",
      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-     "meta": "⭐ 354 · 💬 210",
+     "meta": "⭐ 457 · 💬 293",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+     "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+     "meta": "⭐ 436 · 💬 298",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT‑6 and Intelligent UI for everyone",
+     "url": "https://openai.com/index/gpt-6-for-everyone/",
+     "meta": "⭐ 405 · 💬 209",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -272,7 +383,15 @@
     {
      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-     "meta": "⭐ 294 · 💬 52",
+     "meta": "⭐ 366 · 💬 62",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+     "url": "https://bigwords.page/",
+     "meta": "⭐ 281 · 💬 95",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,7 +399,39 @@
     {
      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-     "meta": "⭐ 224 · 💬 36",
+     "meta": "⭐ 278 · 💬 53",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Animated ASCII Art for Web Pages",
+     "url": "https://ascii.rest/",
+     "meta": "⭐ 249 · 💬 55",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Navier–Stokes Lost in Translation",
+     "url": "https://arxiv.org/abs/2610.08144",
+     "meta": "⭐ 210 · 💬 140",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+     "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+     "meta": "⭐ 207 · 💬 212",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anti-patterns in software blogging",
+     "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+     "meta": "⭐ 182 · 💬 102",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -294,89 +445,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Navier–Stokes Lost in Translation",
-     "url": "https://arxiv.org/abs/2610.08144",
-     "meta": "⭐ 117 · 💬 80",
+     "title": "Docker Agent",
+     "url": "https://github.com/docker/docker-agent",
+     "meta": "⭐ 144 · 💬 58",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-     "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-     "meta": "⭐ 114 · 💬 39",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
-     "url": "https://artmuseum.artfrompixels.com/",
-     "meta": "⭐ 97 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Animated ASCII Art for Web Pages",
-     "url": "https://ascii.rest/",
-     "meta": "⭐ 88 · 💬 20",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Rust's derive often implies inline",
-     "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-     "meta": "⭐ 85 · 💬 18",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Anti-Patterns in Software Blogging",
-     "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-     "meta": "⭐ 84 · 💬 26",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-     "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-     "meta": "⭐ 64 · 💬 41",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
-     "url": "https://github.com/snuri00/psp-web-recomp",
-     "meta": "⭐ 59 · 💬 35",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "AI-assisted proof of optimal packing for 11 squares",
-     "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-     "meta": "⭐ 53 · 💬 29",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Mallet Head Angle",
-     "url": "http://www.timberframe-tools.com/tools/mallet-head-angle/",
-     "meta": "⭐ 52 · 💬 19",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-     "meta": "⭐ 43 · 💬 12",
+     "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+     "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+     "meta": "⭐ 140 · 💬 11",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -432,7 +511,15 @@
      "title": "Vresk",
      "url": "https://www.producthunt.com/products/vresk",
      "meta": "Product Hunt · 2026-10-05",
-     "summary": "One AI workspace that picks the best model for each task",
+     "summary": "One AI workspace that offers the best open source models",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Rill Browser",
+     "url": "https://www.producthunt.com/products/rill-3",
+     "meta": "Product Hunt · 2026-10-05",
+     "summary": "The browser where Claude Code and Codex work beside you",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -497,14 +584,6 @@
      "url": "https://www.producthunt.com/products/rool",
      "meta": "Product Hunt · 2026-09-27",
      "summary": "Your private AI machine. Files, ideas, AI in one workspace.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Knuff App",
-     "url": "https://www.producthunt.com/products/knuff-app",
-     "meta": "Product Hunt · 2026-10-06",
-     "summary": "Family check-in app to know your people are okay",
      "reason": null,
      "origin_source": "producthunt"
     }
