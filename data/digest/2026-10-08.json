@@ -1,7 +1,22 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T10:29:51.043070+08:00",
+ "generated_at": "2026-10-08T17:58:56.524038+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Claude Haiku 5.5",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Margaret Hamilton has died",
      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-     "meta": "+671 分 / 3.8 小时 · 现 ⭐ 811",
+     "meta": "+1378 分 / 11.3 小时 · 现 ⭐ 1518",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +33,7 @@
     {
      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
      "url": "https://bigwords.page/",
-     "meta": "+352 分 / 9.1 小时 · 现 ⭐ 376",
+     "meta": "+483 分 / 16.6 小时 · 现 ⭐ 507",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -32,9 +47,33 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "meta": "+311 分 / 11.3 小时 · 现 ⭐ 878",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Animated ASCII Art for Web Pages",
      "url": "https://ascii.rest/",
-     "meta": "+211 分 / 9.1 小时 · 现 ⭐ 299",
+     "meta": "+271 分 / 16.6 小时 · 现 ⭐ 359",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT‑6 and Intelligent UI for everyone",
+     "url": "https://openai.com/index/gpt-6-for-everyone/",
+     "meta": "+229 分 / 11.3 小时 · 现 ⭐ 634",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Living off-grid: Hundred Rabbits",
+     "url": "https://100r.ca/site/home.html",
+     "meta": "+204 分 / 7.5 小时 · 现 ⭐ 210",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,7 +81,7 @@
     {
      "title": "Shipping JPEG XL in Chrome",
      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-     "meta": "+140 分 / 9.1 小时 · 现 ⭐ 494",
+     "meta": "+195 分 / 16.6 小时 · 现 ⭐ 549",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -56,33 +95,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Claude Haiku 5.5",
-     "url": "https://www.anthropic.com/claude-haiku-5-5",
-     "meta": "+133 分 / 3.8 小时 · 现 ⭐ 700",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Anti-patterns in software blogging",
      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
      "meta": "+128 分 / 9.1 小时 · 现 ⭐ 212",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Wood Tape (2004)",
-     "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-     "meta": "+121 分 / 9.1 小时 · 现 ⭐ 163",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "GPT‑6 and Intelligent UI for everyone",
-     "url": "https://openai.com/index/gpt-6-for-everyone/",
-     "meta": "+111 分 / 3.8 小时 · 现 ⭐ 516",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +239,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 9798 · Lean",
+     "meta": "⭐ 11048 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +247,7 @@
     {
      "title": "QingYunA/answer-me-with-html",
      "url": "https://github.com/QingYunA/answer-me-with-html",
-     "meta": "⭐ 2086 · JavaScript",
+     "meta": "⭐ 2266 · JavaScript",
      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +255,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 1732 · JavaScript",
+     "meta": "⭐ 2155 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +263,7 @@
     {
      "title": "facebookincubator/muse-gadget-sdk",
      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-     "meta": "⭐ 1668 · C",
+     "meta": "⭐ 1741 · C",
      "summary": "Open source SDK to build Muse gadgets",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +271,7 @@
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1637 · TypeScript",
+     "meta": "⭐ 1647 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -288,8 +303,24 @@
     {
      "title": "mizorewww/x_gift_bot",
      "url": "https://github.com/mizorewww/x_gift_bot",
-     "meta": "⭐ 950 · Go",
+     "meta": "⭐ 1032 · Go",
      "summary": "X Premium gift CLI and redemption site",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "sganggs/Stronghold-Protocol",
+     "url": "https://github.com/sganggs/Stronghold-Protocol",
+     "meta": "⭐ 958 · JavaScript",
+     "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Jakeschincariol/replica-skill",
+     "url": "https://github.com/Jakeschincariol/replica-skill",
+     "meta": "⭐ 947 · Python",
+     "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -302,22 +333,6 @@
      "origin_source": "github_search"
     },
     {
-     "title": "sganggs/Stronghold-Protocol",
-     "url": "https://github.com/sganggs/Stronghold-Protocol",
-     "meta": "⭐ 925 · JavaScript",
-     "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Jakeschincariol/replica-skill",
-     "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 884 · Python",
-     "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "StayLameBro/backburner",
      "url": "https://github.com/StayLameBro/backburner",
      "meta": "⭐ 843 · Python",
@@ -326,18 +341,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "rauchg/gdp-ts",
-     "url": "https://github.com/rauchg/gdp-ts",
-     "meta": "⭐ 740 · TypeScript",
-     "summary": "",
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 768 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "elstongun/leviathan",
-     "url": "https://github.com/elstongun/leviathan",
-     "meta": "⭐ 669 · Rust",
-     "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
+     "title": "rauchg/gdp-ts",
+     "url": "https://github.com/rauchg/gdp-ts",
+     "meta": "⭐ 751 · TypeScript",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -349,17 +364,17 @@
    "errors": [],
    "items": [
     {
-     "title": "Sharing AI progress in mathematics",
-     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-     "meta": "⭐ 1238 · 💬 1409",
+     "title": "Margaret Hamilton has died",
+     "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+     "meta": "⭐ 1518 · 💬 164",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Margaret Hamilton has died",
-     "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-     "meta": "⭐ 811 · 💬 92",
+     "title": "Sharing AI progress in mathematics",
+     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+     "meta": "⭐ 1280 · 💬 1453",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +382,7 @@
     {
      "title": "Claude Haiku 5.5",
      "url": "https://www.anthropic.com/claude-haiku-5-5",
-     "meta": "⭐ 700 · 💬 349",
+     "meta": "⭐ 878 · 💬 423",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +390,7 @@
     {
      "title": "GPT‑6 and Intelligent UI for everyone",
      "url": "https://openai.com/index/gpt-6-for-everyone/",
-     "meta": "⭐ 516 · 💬 268",
+     "meta": "⭐ 634 · 💬 347",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -383,7 +398,15 @@
     {
      "title": "Shipping JPEG XL in Chrome",
      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-     "meta": "⭐ 494 · 💬 319",
+     "meta": "⭐ 549 · 💬 366",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+     "url": "https://bigwords.page/",
+     "meta": "⭐ 507 · 💬 142",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -392,14 +415,6 @@
      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
      "meta": "⭐ 436 · 💬 298",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-     "url": "https://bigwords.page/",
-     "meta": "⭐ 376 · 💬 113",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -415,7 +430,7 @@
     {
      "title": "Animated ASCII Art for Web Pages",
      "url": "https://ascii.rest/",
-     "meta": "⭐ 299 · 💬 58",
+     "meta": "⭐ 359 · 💬 61",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,6 +452,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "“Math 2.0” will need to value mathematical progress more holistically",
+     "url": "https://mathstodon.xyz/@tao/117395269325940185",
+     "meta": "⭐ 278 · 💬 250",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Navier–Stokes Lost in Translation",
      "url": "https://arxiv.org/abs/2610.08144",
      "meta": "⭐ 257 · 💬 159",
@@ -445,25 +468,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Anti-patterns in software blogging",
-     "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-     "meta": "⭐ 212 · 💬 121",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Docker Agent",
      "url": "https://github.com/docker/docker-agent",
-     "meta": "⭐ 185 · 💬 85",
+     "meta": "⭐ 237 · 💬 109",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-     "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-     "meta": "⭐ 178 · 💬 142",
+     "title": "The Mathocalypse",
+     "url": "https://scottaaronson.blog/?p=10169",
+     "meta": "⭐ 235 · 💬 264",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -476,6 +491,14 @@
    "errors": [],
    "items": [
     {
+     "title": "Termaxa",
+     "url": "https://www.producthunt.com/products/termaxa",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "See what an AI agent's command would destroy before it runs",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "GenPage 3.0",
      "url": "https://www.producthunt.com/products/genpage",
      "meta": "Product Hunt · 2026-09-30",
@@ -484,10 +507,34 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "NOVA CLI v1.0",
+     "url": "https://www.producthunt.com/products/nova-18",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "AI developer in your terminal",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Hallmonitor",
+     "url": "https://www.producthunt.com/products/hallmonitor",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "See and answer every coding agent from your notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "DevAlly AI Agent",
      "url": "https://www.producthunt.com/products/devally",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "User journeys captured with natural language",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Semwright",
+     "url": "https://www.producthunt.com/products/semwright",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Give AI agents structured access to real software",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -516,10 +563,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Moonwalkers Dusk",
+     "url": "https://www.producthunt.com/products/moonwalkers-dusk",
+     "meta": "Product Hunt · 2026-10-03",
+     "summary": "Strap-on motorized wheels that let you walk twice as fast",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Vresk",
      "url": "https://www.producthunt.com/products/vresk",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "One AI workspace that offers the best open source models",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "tide",
+     "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "A Jitsi alternative that does a few things really well",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -544,54 +607,6 @@
      "url": "https://www.producthunt.com/products/kitbar",
      "meta": "Product Hunt · 2026-10-06",
      "summary": "Your dev tools, in one bar.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Aura by Neural",
-     "url": "https://www.producthunt.com/products/aura-by-neural",
-     "meta": "Product Hunt · 2026-10-07",
-     "summary": "Turn requests into interactive interfaces on your screen",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "NoteWorthy",
-     "url": "https://www.producthunt.com/products/noteworthy",
-     "meta": "Product Hunt · 2026-09-28",
-     "summary": "Notes supercharged with AI, all on-device",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Supademo AI Demo Agent",
-     "url": "https://www.producthunt.com/products/supademo",
-     "meta": "Product Hunt · 2025-09-04",
-     "summary": "Agentic demos like your best salesperson, without the salary",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Cosmic AI Support Agent",
-     "url": "https://www.producthunt.com/products/cosmic",
-     "meta": "Product Hunt · 2026-10-05",
-     "summary": "An AI support agent that stays in sync with your site",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Fuse AI",
-     "url": "https://www.producthunt.com/products/fuseai",
-     "meta": "Product Hunt · 2026-10-01",
-     "summary": "Build a Custom GTM Stack. One SDK. One MCP.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Rool",
-     "url": "https://www.producthunt.com/products/rool",
-     "meta": "Product Hunt · 2026-09-27",
-     "summary": "Your private AI machine. Files, ideas, AI in one workspace.",
      "reason": null,
      "origin_source": "producthunt"
     }
