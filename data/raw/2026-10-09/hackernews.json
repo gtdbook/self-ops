@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-09T01:18:58.490722+08:00",
- "count": 25,
+ "updated_at": "2026-10-09T06:52:51.996893+08:00",
+ "count": 44,
  "items": [
   {
    "id": "hn-49958194",
@@ -100,6 +100,134 @@
    ]
   },
   {
+   "id": "hn-49984159",
+   "title": "A Terminal Protocol for Program Status (OSC 7501)",
+   "url": "https://mitchellh.com/writing/program-status-osc7501",
+   "hn_url": "https://news.ycombinator.com/item?id=49984159",
+   "score": 69,
+   "comments": 21,
+   "author": "mfiguiere",
+   "time_iso": "2026-10-06T21:08:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-49986740",
+   "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+   "url": "https://huggingface.co/joe-gibbs/terrainsr",
+   "hn_url": "https://news.ycombinator.com/item?id=49986740",
+   "score": 19,
+   "comments": 3,
+   "author": "joegibbs",
+   "time_iso": "2026-10-07T01:24:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-49986882",
+   "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+   "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+   "hn_url": "https://news.ycombinator.com/item?id=49986882",
+   "score": 285,
+   "comments": 36,
+   "author": "soheilpro",
+   "time_iso": "2026-10-07T01:41:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 285
+    }
+   ]
+  },
+  {
+   "id": "hn-49988516",
+   "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+   "url": "https://github.com/ymcrcat/rgpu",
+   "hn_url": "https://news.ycombinator.com/item?id=49988516",
+   "score": 22,
+   "comments": 2,
+   "author": "boxstream",
+   "time_iso": "2026-10-07T05:15:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-49992994",
+   "title": "ETH-68: Ethernet Audio Interface for Linux",
+   "url": "https://naturalsystems.io/eth68",
+   "hn_url": "https://news.ycombinator.com/item?id=49992994",
+   "score": 56,
+   "comments": 40,
+   "author": "chabad360",
+   "time_iso": "2026-10-07T13:58:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 56
+    }
+   ]
+  },
+  {
+   "id": "hn-49994663",
+   "title": "The dawn of the age of the exoskeleton",
+   "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
+   "hn_url": "https://news.ycombinator.com/item?id=49994663",
+   "score": 41,
+   "comments": 21,
+   "author": "speckx",
+   "time_iso": "2026-10-07T15:59:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-49995495",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "hn_url": "https://news.ycombinator.com/item?id=49995495",
+   "score": 282,
+   "comments": 172,
+   "author": "ck2",
+   "time_iso": "2026-10-07T16:56:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 282
+    }
+   ]
+  },
+  {
+   "id": "hn-49996149",
+   "title": "DuckDB Ducklake",
+   "url": "https://github.com/duckdb/ducklake",
+   "hn_url": "https://news.ycombinator.com/item?id=49996149",
+   "score": 96,
+   "comments": 13,
+   "author": "saikatsg",
+   "time_iso": "2026-10-07T17:40:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
    "id": "hn-49996425",
    "title": "GPT‑6 and Intelligent UI for everyone",
    "url": "https://openai.com/index/gpt-6-for-everyone/",
@@ -128,6 +256,22 @@
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 1000
+    }
+   ]
+  },
+  {
+   "id": "hn-49996639",
+   "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+   "url": "https://www.nature.com/articles/s41586-026-10546-z",
+   "hn_url": "https://news.ycombinator.com/item?id=49996639",
+   "score": 59,
+   "comments": 1,
+   "author": "bryanrasmussen",
+   "time_iso": "2026-10-07T18:14:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 59
     }
    ]
   },
@@ -168,14 +312,50 @@
    "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
    "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
    "hn_url": "https://news.ycombinator.com/item?id=49998992",
-   "score": 36,
-   "comments": 11,
+   "score": 92,
+   "comments": 43,
    "author": "Hooke",
    "time_iso": "2026-10-07T21:25:16+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 36
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50000488",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "hn_url": "https://news.ycombinator.com/item?id=50000488",
+   "score": 293,
+   "comments": 253,
+   "author": "jonotime",
+   "time_iso": "2026-10-08T00:14:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 293
+    }
+   ]
+  },
+  {
+   "id": "hn-50000985",
+   "title": "US man given prison sentence for bot-farming music streams",
+   "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+   "hn_url": "https://news.ycombinator.com/item?id=50000985",
+   "score": 76,
+   "comments": 112,
+   "author": "cdrnsf",
+   "time_iso": "2026-10-08T01:33:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 76
     }
    ]
   },
@@ -212,18 +392,54 @@
    ]
   },
   {
+   "id": "hn-50003796",
+   "title": "Yes, and",
+   "url": "https://htmx.org/essays/yes-and/",
+   "hn_url": "https://news.ycombinator.com/item?id=50003796",
+   "score": 83,
+   "comments": 34,
+   "author": "Michelangelo11",
+   "time_iso": "2026-10-08T09:48:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 83
+    }
+   ]
+  },
+  {
+   "id": "hn-50004115",
+   "title": "OLED burn-in test: 30-month update",
+   "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+   "hn_url": "https://news.ycombinator.com/item?id=50004115",
+   "score": 78,
+   "comments": 47,
+   "author": "baal80spam",
+   "time_iso": "2026-10-08T10:34:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 78
+    }
+   ]
+  },
+  {
    "id": "hn-50004790",
    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
    "hn_url": "https://news.ycombinator.com/item?id=50004790",
-   "score": 242,
-   "comments": 130,
+   "score": 332,
+   "comments": 171,
    "author": "stared",
    "time_iso": "2026-10-08T12:00:20+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 242
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 332
     }
    ]
   },
@@ -248,14 +464,18 @@
    "title": "Beauty in DVD Menus",
    "url": "https://vale.rocks/posts/dvd-menus",
    "hn_url": "https://news.ycombinator.com/item?id=50005527",
-   "score": 149,
-   "comments": 100,
+   "score": 235,
+   "comments": 142,
    "author": "speckx",
    "time_iso": "2026-10-08T13:22:01+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 235
     }
    ]
   },
@@ -328,14 +548,18 @@
    "title": "Trump administration is suspending Microsoft from a green card program",
    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
    "hn_url": "https://news.ycombinator.com/item?id=50006832",
-   "score": 333,
-   "comments": 460,
+   "score": 776,
+   "comments": 1350,
    "author": "alephnerd",
    "time_iso": "2026-10-08T15:15:00+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 333
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 776
     }
    ]
   },
@@ -360,14 +584,34 @@
    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
    "url": "https://openrouter.ai/stepfun/step-5-preview",
    "hn_url": "https://news.ycombinator.com/item?id=50007764",
-   "score": 14,
-   "comments": 6,
+   "score": 75,
+   "comments": 23,
    "author": "AnneWodell",
    "time_iso": "2026-10-08T16:20:20+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 75
+    }
+   ]
+  },
+  {
+   "id": "hn-50008047",
+   "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+   "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50008047",
+   "score": 78,
+   "comments": 14,
+   "author": "scottbez1",
+   "time_iso": "2026-10-08T16:37:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 78
     }
    ]
   },
@@ -376,14 +620,18 @@
    "title": "Whistle: Speech to Text in 16.9 MB",
    "url": "https://cactuscompute.com/blog/whistle",
    "hn_url": "https://news.ycombinator.com/item?id=50008427",
-   "score": 14,
-   "comments": 0,
+   "score": 422,
+   "comments": 101,
    "author": "gmays",
    "time_iso": "2026-10-08T16:59:39+00:00",
    "history": [
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 422
     }
    ]
   },
@@ -400,6 +648,86 @@
     {
      "t": "2026-10-09T01:18:58.490722+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50009295",
+   "title": "Theranos.world",
+   "url": "https://www.theranos.world/",
+   "hn_url": "https://news.ycombinator.com/item?id=50009295",
+   "score": 190,
+   "comments": 95,
+   "author": "kbyatnal",
+   "time_iso": "2026-10-08T17:51:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 190
+    }
+   ]
+  },
+  {
+   "id": "hn-50010470",
+   "title": "The value of not getting to the point (2015)",
+   "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+   "hn_url": "https://news.ycombinator.com/item?id=50010470",
+   "score": 86,
+   "comments": 26,
+   "author": "NaOH",
+   "time_iso": "2026-10-08T19:04:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 86
+    }
+   ]
+  },
+  {
+   "id": "hn-50011928",
+   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "hn_url": "https://news.ycombinator.com/item?id=50011928",
+   "score": 83,
+   "comments": 68,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-08T20:42:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 83
+    }
+   ]
+  },
+  {
+   "id": "hn-50011999",
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "hn_url": "https://news.ycombinator.com/item?id=50011999",
+   "score": 35,
+   "comments": 1,
+   "author": "ray__",
+   "time_iso": "2026-10-08T20:46:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50012199",
+   "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+   "url": "https://github.com/thesnarkitecht/rembrandt",
+   "hn_url": "https://news.ycombinator.com/item?id=50012199",
+   "score": 31,
+   "comments": 23,
+   "author": "thesnarkitecht",
+   "time_iso": "2026-10-08T21:00:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-09T06:52:51.996893+08:00",
+     "score": 31
     }
    ]
   }

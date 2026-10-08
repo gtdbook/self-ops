@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T01:19:00.794441+08:00",
+ "generated_at": "2026-10-09T06:52:53.721098+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -17,11 +17,90 @@
     }
    ]
   },
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Trump administration is suspending Microsoft from a green card program",
+     "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+     "meta": "+443 分 / 5.6 小时 · 现 ⭐ 776",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Whistle: Speech to Text in 16.9 MB",
+     "url": "https://cactuscompute.com/blog/whistle",
+     "meta": "+408 分 / 5.6 小时 · 现 ⭐ 422",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+     "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+     "meta": "+90 分 / 5.6 小时 · 现 ⭐ 332",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Beauty in DVD Menus",
+     "url": "https://vale.rocks/posts/dvd-menus",
+     "meta": "+86 分 / 5.6 小时 · 现 ⭐ 235",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+     "url": "https://openrouter.ai/stepfun/step-5-preview",
+     "meta": "+61 分 / 5.6 小时 · 现 ⭐ 75",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+     "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+     "meta": "+56 分 / 5.6 小时 · 现 ⭐ 92",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+     "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+     "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Amazon killed its app store, so Google Play it is.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Natura’s $99 smart ring puts AI agents on your finger",
      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
@@ -35,6 +114,14 @@
      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
      "meta": "Ars Technica · 2026-10-08",
      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "meta": "OpenAI · 2026-10-08",
+     "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -109,38 +196,6 @@
      "summary": "Google Beam promotional animation",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-     "meta": "OpenAI · 2026-09-23",
-     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-     "url": "https://openai.com/index/v7",
-     "meta": "OpenAI · 2026-09-21",
-     "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Our framework for reporting model misalignment",
-     "url": "https://openai.com/index/model-misalignment-reporting-framework",
-     "meta": "OpenAI · 2026-09-16",
-     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -152,7 +207,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 11764 · Lean",
+     "meta": "⭐ 12029 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -160,7 +215,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 2359 · JavaScript",
+     "meta": "⭐ 2410 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -168,7 +223,7 @@
     {
      "title": "QingYunA/answer-me-with-html",
      "url": "https://github.com/QingYunA/answer-me-with-html",
-     "meta": "⭐ 2315 · JavaScript",
+     "meta": "⭐ 2319 · JavaScript",
      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
      "reason": null,
      "origin_source": "github_search"
@@ -176,7 +231,7 @@
     {
      "title": "facebookincubator/muse-gadget-sdk",
      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-     "meta": "⭐ 1771 · C",
+     "meta": "⭐ 1787 · C",
      "summary": "Open source SDK to build Muse gadgets",
      "reason": null,
      "origin_source": "github_search"
@@ -184,7 +239,7 @@
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1651 · TypeScript",
+     "meta": "⭐ 1656 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -192,7 +247,7 @@
     {
      "title": "mizorewww/x_gift_bot",
      "url": "https://github.com/mizorewww/x_gift_bot",
-     "meta": "⭐ 1066 · Go",
+     "meta": "⭐ 1076 · Go",
      "summary": "X Premium gift CLI and redemption site",
      "reason": null,
      "origin_source": "github_search"
@@ -200,15 +255,23 @@
     {
      "title": "Jakeschincariol/replica-skill",
      "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 1017 · Python",
+     "meta": "⭐ 1064 · Python",
      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 1005 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "sganggs/Stronghold-Protocol",
      "url": "https://github.com/sganggs/Stronghold-Protocol",
-     "meta": "⭐ 994 · JavaScript",
+     "meta": "⭐ 1001 · JavaScript",
      "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
      "reason": null,
      "origin_source": "github_search"
@@ -216,7 +279,7 @@
     {
      "title": "alejandrobujan/tendedero",
      "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 931 · Swift",
+     "meta": "⭐ 982 · Swift",
      "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
@@ -224,48 +287,40 @@
     {
      "title": "LoreanXavier/pt-pc",
      "url": "https://github.com/LoreanXavier/pt-pc",
-     "meta": "⭐ 853 · C++",
+     "meta": "⭐ 962 · C++",
      "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "nullmoth/nvidia-macos-driver",
-     "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 837 · Rust",
-     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "rauchg/gdp-ts",
-     "url": "https://github.com/rauchg/gdp-ts",
-     "meta": "⭐ 757 · TypeScript",
-     "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "elstongun/leviathan",
-     "url": "https://github.com/elstongun/leviathan",
-     "meta": "⭐ 688 · Rust",
-     "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 664 · Rust",
+     "meta": "⭐ 778 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "ythx-101/live-panel-skill",
-     "url": "https://github.com/ythx-101/live-panel-skill",
-     "meta": "⭐ 658 · HTML",
-     "summary": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Cla",
+     "title": "rauchg/gdp-ts",
+     "url": "https://github.com/rauchg/gdp-ts",
+     "meta": "⭐ 761 · TypeScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/cadcraft",
+     "url": "https://github.com/storytold/cadcraft",
+     "meta": "⭐ 712 · Rust",
+     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "elstongun/leviathan",
+     "url": "https://github.com/elstongun/leviathan",
+     "meta": "⭐ 694 · Rust",
+     "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -293,6 +348,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Trump administration is suspending Microsoft from a green card program",
+     "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+     "meta": "⭐ 776 · 💬 1350",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "GPT‑6 and Intelligent UI for everyone",
      "url": "https://openai.com/index/gpt-6-for-everyone/",
      "meta": "⭐ 730 · 💬 428",
@@ -304,6 +367,14 @@
      "title": "“Math 2.0” will need to value mathematical progress more holistically",
      "url": "https://mathstodon.xyz/@tao/117395269325940185",
      "meta": "⭐ 538 · 💬 536",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Whistle: Speech to Text in 16.9 MB",
+     "url": "https://cactuscompute.com/blog/whistle",
+     "meta": "⭐ 422 · 💬 101",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -325,9 +396,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Trump administration is suspending Microsoft from a green card program",
-     "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-     "meta": "⭐ 333 · 💬 460",
+     "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+     "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+     "meta": "⭐ 332 · 💬 171",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -336,6 +407,30 @@
      "title": "The 15-year search for a band that charted once and vanished",
      "url": "https://shahidhussain.com/writing/search-for-salvage/",
      "meta": "⭐ 303 · 💬 109",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+     "meta": "⭐ 293 · 💬 253",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+     "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+     "meta": "⭐ 285 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+     "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+     "meta": "⭐ 282 · 💬 172",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -355,46 +450,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
-    },
-    {
-     "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-     "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-     "meta": "⭐ 242 · 💬 130",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The Slow Formation of Durable Software",
-     "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-     "meta": "⭐ 182 · 💬 63",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Beauty in DVD Menus",
-     "url": "https://vale.rocks/posts/dvd-menus",
-     "meta": "⭐ 149 · 💬 100",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenAI withdraws three mathematical results",
-     "url": "https://twitter.com/danintheory/status/2108065033070789090",
-     "meta": "⭐ 132 · 💬 438",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Telnet BBS Guide",
-     "url": "https://www.telnetbbsguide.com/",
-     "meta": "⭐ 75 · 💬 26",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
     }
    ]
   },
@@ -408,6 +463,14 @@
      "url": "https://www.producthunt.com/products/termaxa",
      "meta": "Product Hunt · 2026-10-07",
      "summary": "See what an AI agent's command would destroy before it runs",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "GenPage 3.0",
+     "url": "https://www.producthunt.com/products/genpage",
+     "meta": "Product Hunt · 2026-09-30",
+     "summary": "Build, personalize, and optimize landing pages with AI",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -512,14 +575,6 @@
      "url": "https://www.producthunt.com/products/irisgo-public-beta",
      "meta": "Product Hunt · 2026-10-05",
      "summary": "AI workflow automation: show it once, let it run",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Drunken Penguins",
-     "url": "https://www.producthunt.com/products/drunken-penguins",
-     "meta": "Product Hunt · 2026-09-30",
-     "summary": "Party card games on everyone's phone. No app.",
      "reason": null,
      "origin_source": "producthunt"
     }
