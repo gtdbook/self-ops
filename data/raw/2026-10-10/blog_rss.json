@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-10T01:18:13.422242+08:00",
- "count": 2295,
+ "updated_at": "2026-10-10T06:14:27.427191+08:00",
+ "count": 2325,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -1084,6 +1084,15 @@
    "summary": "Offering automatic discounts on inputs that the model has recently seen"
   },
   {
+   "id": "rss-0e5b099e6fea3a38",
+   "title": "Solving complex problems with OpenAI o1 models",
+   "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+   "feed_name": "OpenAI",
+   "published": "Thu, 17 Oct 2024 00:00:00 GMT",
+   "published_iso": "2024-10-17T00:00:00+00:00",
+   "summary": "In this video, we share how the o1 reasoning models can help in domains like coding, strategy, and research."
+  },
+  {
    "id": "rss-0e62ef66e299382d",
    "title": "Deprecation of Git Authentication using password",
    "url": "https://huggingface.co/blog/password-git-deprecation",
@@ -1651,6 +1660,15 @@
    "summary": ""
   },
   {
+   "id": "rss-145e084f719d4b43",
+   "title": "Vision and voice in ChatGPT",
+   "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+   "feed_name": "OpenAI",
+   "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+   "published_iso": "2025-04-08T00:00:00+00:00",
+   "summary": "See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally."
+  },
+  {
    "id": "rss-1474750a17840eaf",
    "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
    "url": "https://huggingface.co/blog/sempre-health-eap-case-study",
@@ -1865,6 +1883,15 @@
    "published": "Fri, 23 Dec 2022 08:00:00 GMT",
    "published_iso": "2022-12-23T08:00:00+00:00",
    "summary": "Lilian Weng works on Applied AI Research at OpenAI."
+  },
+  {
+   "id": "rss-1651ede4541df3bd",
+   "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+   "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+   "feed_name": "Ars Technica",
+   "published": "Fri, 09 Oct 2026 19:27:27 +0000",
+   "published_iso": "2026-10-09T19:27:27+00:00",
+   "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine."
   },
   {
    "id": "rss-167dd7d35082fe2a",
@@ -2632,6 +2659,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1f54b81715891112",
+   "title": "Fine-tuning GPT-4o webinar",
+   "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+   "feed_name": "OpenAI",
+   "published": "Mon, 26 Aug 2024 00:00:00 GMT",
+   "published_iso": "2024-08-26T00:00:00+00:00",
+   "summary": "Fine-Tuning GPT-4o Webinar"
+  },
+  {
    "id": "rss-1f5d786bd553f599",
    "title": "Introducing OpenAI Presence",
    "url": "https://openai.com/index/introducing-openai-presence",
@@ -2666,42 +2702,6 @@
    "published": "Tue, 21 Apr 2026 10:09:58 GMT",
    "published_iso": "2026-04-21T10:09:58+00:00",
    "summary": ""
-  },
-  {
-   "id": "rss-2034adaf8866f204",
-   "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
-   "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 24 Oct 2023 00:00:00 GMT",
-   "published_iso": "2023-10-24T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-2058a27ec260ca00",
-   "title": "Efficient training of language models to fill in the middle",
-   "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
-   "feed_name": "OpenAI",
-   "published": "Thu, 28 Jul 2022 07:00:00 GMT",
-   "published_iso": "2022-07-28T07:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-207f6746740ff871",
-   "title": "Competitive self-play",
-   "url": "https://openai.com/index/competitive-self-play",
-   "feed_name": "OpenAI",
-   "published": "Wed, 11 Oct 2017 07:00:00 GMT",
-   "published_iso": "2017-10-11T07:00:00+00:00",
-   "summary": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in min"
-  },
-  {
-   "id": "rss-20a5940b926b5193",
-   "title": "New Credit Facility Enhances Financial Flexibility",
-   "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
-   "feed_name": "OpenAI",
-   "published": "Thu, 03 Oct 2024 07:00:00 GMT",
-   "published_iso": "2024-10-03T07:00:00+00:00",
-   "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santande"
   }
  ]
 }

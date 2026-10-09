@@ -1,12 +1,107 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T01:18:13.795542+08:00",
+ "generated_at": "2026-10-10T06:14:27.760121+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Cloudflare acquires Deno",
+     "url": "https://deno.com/blog/cloudflare",
+     "meta": "+307 分 / 4.9 小时 · 现 ⭐ 965",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sorry, I'm in a meeting",
+     "url": "https://iminafleeting.com/",
+     "meta": "+250 分 / 4.9 小时 · 现 ⭐ 682",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Our $445M Series D",
+     "url": "https://oxide.computer/blog/our-445m-series-d",
+     "meta": "+182 分 / 4.9 小时 · 现 ⭐ 536",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "meta": "+102 分 / 4.9 小时 · 现 ⭐ 413",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+     "meta": "+99 分 / 4.9 小时 · 现 ⭐ 292",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Yes, and",
+     "url": "https://htmx.org/essays/yes-and/",
+     "meta": "+74 分 / 4.9 小时 · 现 ⭐ 719",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+     "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+     "meta": "+71 分 / 4.9 小时 · 现 ⭐ 166",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+     "meta": "+69 分 / 4.9 小时 · 现 ⭐ 354",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Keyboard differences between Windows and Macs",
+     "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+     "meta": "+56 分 / 4.9 小时 · 现 ⭐ 314",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A statement on the Tor Project's relationship with Mullvad",
+     "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+     "meta": "+49 分 / 4.9 小时 · 现 ⭐ 86",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+     "meta": "Ars Technica · 2026-10-09",
+     "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
@@ -118,14 +213,6 @@
      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +224,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 12929 · Lean",
+     "meta": "⭐ 13033 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 2822 · JavaScript",
+     "meta": "⭐ 2855 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 2064 · Go",
+     "meta": "⭐ 2120 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
@@ -161,15 +248,23 @@
     {
      "title": "nullmoth/nvidia-macos-driver",
      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 1761 · Rust",
+     "meta": "⭐ 1824 · Rust",
      "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/wordcraft",
+     "url": "https://github.com/storytold/wordcraft",
+     "meta": "⭐ 1762 · Rust",
+     "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1671 · TypeScript",
+     "meta": "⭐ 1675 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -177,23 +272,23 @@
     {
      "title": "zhongerxin/iPhone-use",
      "url": "https://github.com/zhongerxin/iPhone-use",
-     "meta": "⭐ 1574 · Python",
+     "meta": "⭐ 1664 · Python",
      "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "storytold/wordcraft",
-     "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 1384 · Rust",
-     "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+     "title": "LosaLosSantos/aurelio-finance",
+     "url": "https://github.com/LosaLosSantos/aurelio-finance",
+     "meta": "⭐ 1457 · Python",
+     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Jakeschincariol/replica-skill",
      "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 1301 · Python",
+     "meta": "⭐ 1354 · Python",
      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,39 +296,39 @@
     {
      "title": "storytold/cadcraft",
      "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 1183 · Rust",
+     "meta": "⭐ 1316 · Rust",
      "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "alejandrobujan/tendedero",
-     "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 1169 · Swift",
-     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "LoreanXavier/pt-pc",
      "url": "https://github.com/LoreanXavier/pt-pc",
-     "meta": "⭐ 1159 · C++",
+     "meta": "⭐ 1190 · C++",
      "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "LosaLosSantos/aurelio-finance",
-     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-     "meta": "⭐ 1146 · Python",
-     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1178 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/gridcraft",
+     "url": "https://github.com/storytold/gridcraft",
+     "meta": "⭐ 1124 · Rust",
+     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "noahdunnagan/fsearch",
      "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 950 · Rust",
+     "meta": "⭐ 1096 · Rust",
      "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
@@ -241,16 +336,8 @@
     {
      "title": "shadany7824/playgta5",
      "url": "https://github.com/shadany7824/playgta5",
-     "meta": "⭐ 949 · JavaScript",
+     "meta": "⭐ 1003 · JavaScript",
      "summary": "A source code for playgta5.com.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "storytold/gridcraft",
-     "url": "https://github.com/storytold/gridcraft",
-     "meta": "⭐ 925 · Rust",
-     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -265,6 +352,14 @@
      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
      "meta": "⭐ 972 · 💬 882",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Cloudflare acquires Deno",
+     "url": "https://deno.com/blog/cloudflare",
+     "meta": "⭐ 965 · 💬 506",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -294,17 +389,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Deno Is Joining Cloudflare",
-     "url": "https://deno.com/blog/cloudflare",
-     "meta": "⭐ 658 · 💬 348",
+     "title": "Yes, and",
+     "url": "https://htmx.org/essays/yes-and/",
+     "meta": "⭐ 719 · 💬 285",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Yes, and",
-     "url": "https://htmx.org/essays/yes-and/",
-     "meta": "⭐ 645 · 💬 251",
+     "title": "Sorry, I'm in a meeting",
+     "url": "https://iminafleeting.com/",
+     "meta": "⭐ 682 · 💬 216",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Our $445M Series D",
+     "url": "https://oxide.computer/blog/our-445m-series-d",
+     "meta": "⭐ 536 · 💬 232",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -318,9 +421,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "I'm in a Meeting",
-     "url": "https://iminafleeting.com/",
-     "meta": "⭐ 432 · 💬 155",
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "meta": "⭐ 413 · 💬 211",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "⭐ 412 · 💬 88",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -334,25 +445,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Our $445M Series D",
-     "url": "https://oxide.computer/blog/our-445m-series-d",
-     "meta": "⭐ 354 · 💬 138",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-     "meta": "⭐ 311 · 💬 160",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-     "meta": "⭐ 285 · 💬 118",
+     "meta": "⭐ 354 · 💬 152",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -360,7 +455,7 @@
     {
      "title": "Keyboard differences between Windows and Macs",
      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-     "meta": "⭐ 258 · 💬 208",
+     "meta": "⭐ 314 · 💬 255",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -368,15 +463,7 @@
     {
      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-     "meta": "⭐ 193 · 💬 96",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Python 3.15.0",
-     "url": "https://www.python.org/downloads/release/python-3150/",
-     "meta": "⭐ 183 · 💬 38",
+     "meta": "⭐ 292 · 💬 192",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

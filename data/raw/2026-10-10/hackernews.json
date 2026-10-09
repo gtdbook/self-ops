@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-10T01:18:11.323991+08:00",
- "count": 25,
+ "updated_at": "2026-10-10T06:14:25.424751+08:00",
+ "count": 39,
  "items": [
+  {
+   "id": "hn-49983582",
+   "title": "Training Text-to-Image Models Without a VAE",
+   "url": "https://www.linum.ai/field-notes/pyramid-jit",
+   "hn_url": "https://news.ycombinator.com/item?id=49983582",
+   "score": 43,
+   "comments": 14,
+   "author": "schopra909",
+   "time_iso": "2026-10-06T20:24:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 43
+    }
+   ]
+  },
   {
    "id": "hn-49986882",
    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
@@ -52,18 +68,38 @@
    ]
   },
   {
+   "id": "hn-50003545",
+   "title": "Show HN: Proton Drive for Linux",
+   "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50003545",
+   "score": 6,
+   "comments": 1,
+   "author": "khaosdoctor",
+   "time_iso": "2026-10-08T09:10:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
    "id": "hn-50003796",
    "title": "Yes, and",
    "url": "https://htmx.org/essays/yes-and/",
    "hn_url": "https://news.ycombinator.com/item?id=50003796",
-   "score": 645,
-   "comments": 251,
+   "score": 719,
+   "comments": 285,
    "author": "Michelangelo11",
    "time_iso": "2026-10-08T09:48:18+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 645
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 719
     }
    ]
   },
@@ -104,14 +140,18 @@
    "title": "Keyboard differences between Windows and Macs",
    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
    "hn_url": "https://news.ycombinator.com/item?id=50015515",
-   "score": 258,
-   "comments": 208,
+   "score": 314,
+   "comments": 255,
    "author": "sohkamyung",
    "time_iso": "2026-10-09T03:08:05+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 258
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 314
     }
    ]
   },
@@ -120,14 +160,18 @@
    "title": "MXC - a sandboxed code execution system",
    "url": "https://github.com/microsoft/mxc",
    "hn_url": "https://news.ycombinator.com/item?id=50016489",
-   "score": 129,
-   "comments": 63,
+   "score": 168,
+   "comments": 78,
    "author": "nreece",
    "time_iso": "2026-10-09T05:51:29+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 129
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 168
     }
    ]
   },
@@ -149,17 +193,21 @@
   },
   {
    "id": "hn-50018088",
-   "title": "I'm in a Meeting",
+   "title": "Sorry, I'm in a meeting",
    "url": "https://iminafleeting.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50018088",
-   "score": 432,
-   "comments": 155,
+   "score": 682,
+   "comments": 216,
    "author": "splintersio",
    "time_iso": "2026-10-09T09:21:48+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 432
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 682
     }
    ]
   },
@@ -184,14 +232,18 @@
    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
    "hn_url": "https://news.ycombinator.com/item?id=50018350",
-   "score": 193,
-   "comments": 96,
+   "score": 292,
+   "comments": 192,
    "author": "trakkstar",
    "time_iso": "2026-10-09T10:00:26+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 193
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 292
     }
    ]
   },
@@ -200,30 +252,54 @@
    "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
    "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
    "hn_url": "https://news.ycombinator.com/item?id=50018420",
-   "score": 311,
-   "comments": 160,
+   "score": 413,
+   "comments": 211,
    "author": "Anon84",
    "time_iso": "2026-10-09T10:12:11+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 311
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 413
     }
    ]
   },
   {
    "id": "hn-50018817",
-   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
    "hn_url": "https://news.ycombinator.com/item?id=50018817",
-   "score": 285,
-   "comments": 118,
+   "score": 354,
+   "comments": 152,
    "author": "franze",
    "time_iso": "2026-10-09T11:03:48+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 285
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 354
+    }
+   ]
+  },
+  {
+   "id": "hn-50019056",
+   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "hn_url": "https://news.ycombinator.com/item?id=50019056",
+   "score": 75,
+   "comments": 38,
+   "author": "piratebroadcast",
+   "time_iso": "2026-10-09T11:36:20+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 75
     }
    ]
   },
@@ -261,17 +337,21 @@
   },
   {
    "id": "hn-50019911",
-   "title": "Deno Is Joining Cloudflare",
+   "title": "Cloudflare acquires Deno",
    "url": "https://deno.com/blog/cloudflare",
    "hn_url": "https://news.ycombinator.com/item?id=50019911",
-   "score": 658,
-   "comments": 348,
+   "score": 965,
+   "comments": 506,
    "author": "ilreb",
    "time_iso": "2026-10-09T13:03:48+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 658
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 965
     }
    ]
   },
@@ -280,14 +360,34 @@
    "title": "Our $445M Series D",
    "url": "https://oxide.computer/blog/our-445m-series-d",
    "hn_url": "https://news.ycombinator.com/item?id=50020014",
-   "score": 354,
-   "comments": 138,
+   "score": 536,
+   "comments": 232,
    "author": "ahlCVA",
    "time_iso": "2026-10-09T13:12:47+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 354
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 536
+    }
+   ]
+  },
+  {
+   "id": "hn-50020533",
+   "title": "'Wallace and Gromit,' 90% Alone",
+   "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+   "hn_url": "https://news.ycombinator.com/item?id=50020533",
+   "score": 118,
+   "comments": 15,
+   "author": "vinhnx",
+   "time_iso": "2026-10-09T13:49:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 118
     }
    ]
   },
@@ -341,17 +441,21 @@
   },
   {
    "id": "hn-50021540",
-   "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
-   "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+   "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+   "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
    "hn_url": "https://news.ycombinator.com/item?id=50021540",
-   "score": 95,
-   "comments": 37,
+   "score": 166,
+   "comments": 91,
    "author": "ohjeez",
    "time_iso": "2026-10-09T15:05:24+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 95
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 166
     }
    ]
   },
@@ -360,14 +464,34 @@
    "title": "A statement on the Tor Project's relationship with Mullvad",
    "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
    "hn_url": "https://news.ycombinator.com/item?id=50022266",
-   "score": 37,
-   "comments": 34,
+   "score": 86,
+   "comments": 197,
    "author": "runtimewire",
    "time_iso": "2026-10-09T15:49:31+00:00",
    "history": [
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 37
+    },
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 86
+    }
+   ]
+  },
+  {
+   "id": "hn-50022292",
+   "title": "Triple-A Minesweeper",
+   "url": "https://minesweeper.mikelacher.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50022292",
+   "score": 412,
+   "comments": 88,
+   "author": "robin_reala",
+   "time_iso": "2026-10-09T15:51:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 412
     }
    ]
   },
@@ -400,6 +524,150 @@
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 10
+    }
+   ]
+  },
+  {
+   "id": "hn-50023450",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50023450",
+   "score": 202,
+   "comments": 161,
+   "author": "tosh",
+   "time_iso": "2026-10-09T17:02:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 202
+    }
+   ]
+  },
+  {
+   "id": "hn-50024055",
+   "title": "Show HN: The rarest tech books and docs you've probably never read",
+   "url": "https://readrare.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50024055",
+   "score": 27,
+   "comments": 3,
+   "author": "miletus",
+   "time_iso": "2026-10-09T17:39:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50024499",
+   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "url": "https://carrierexplode.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50024499",
+   "score": 143,
+   "comments": 14,
+   "author": "simplyalec",
+   "time_iso": "2026-10-09T18:10:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 143
+    }
+   ]
+  },
+  {
+   "id": "hn-50024571",
+   "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+   "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+   "hn_url": "https://news.ycombinator.com/item?id=50024571",
+   "score": 83,
+   "comments": 28,
+   "author": "rafaelc",
+   "time_iso": "2026-10-09T18:16:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 83
+    }
+   ]
+  },
+  {
+   "id": "hn-50024669",
+   "title": "M7.6 Earthquake in Panama",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+   "hn_url": "https://news.ycombinator.com/item?id=50024669",
+   "score": 107,
+   "comments": 33,
+   "author": "gslin",
+   "time_iso": "2026-10-09T18:22:20+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 107
+    }
+   ]
+  },
+  {
+   "id": "hn-50024913",
+   "title": "Microsoft-Decision-1, our model for fast decision-making",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+   "hn_url": "https://news.ycombinator.com/item?id=50024913",
+   "score": 92,
+   "comments": 33,
+   "author": "lisajaloza",
+   "time_iso": "2026-10-09T18:38:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50024927",
+   "title": "You might want to try being less creative",
+   "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+   "hn_url": "https://news.ycombinator.com/item?id=50024927",
+   "score": 50,
+   "comments": 24,
+   "author": "bryantwolf",
+   "time_iso": "2026-10-09T18:39:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 50
+    }
+   ]
+  },
+  {
+   "id": "hn-50025935",
+   "title": "No Man Is an Island",
+   "url": "https://borretti.me/article/no-man-is-an-island",
+   "hn_url": "https://news.ycombinator.com/item?id=50025935",
+   "score": 189,
+   "comments": 95,
+   "author": "zetalyrae",
+   "time_iso": "2026-10-09T20:04:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 189
+    }
+   ]
+  },
+  {
+   "id": "hn-50026555",
+   "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+   "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+   "hn_url": "https://news.ycombinator.com/item?id=50026555",
+   "score": 179,
+   "comments": 91,
+   "author": "gumby",
+   "time_iso": "2026-10-09T21:06:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T06:14:25.424751+08:00",
+     "score": 179
     }
    ]
   }
