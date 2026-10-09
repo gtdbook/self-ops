@@ -1,0 +1,514 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-10-10T01:18:13.795542+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+     "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+     "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Amazon killed its app store, so Google Play it is.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Natura’s $99 smart ring puts AI agents on your finger",
+     "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+     "meta": "TechCrunch AI · 2026-10-08",
+     "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+     "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "meta": "OpenAI · 2026-10-08",
+     "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+     "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+     "meta": "Ars Technica · 2026-10-07",
+     "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+     "meta": "Hugging Face · 2026-10-07",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The Agent Said It Was Done. The Database Disagreed.",
+     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+     "meta": "Hugging Face · 2026-10-03",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Albertsons Companies is reimagining retail from the inside out",
+     "url": "https://openai.com/index/albertsons-reimagining-retail",
+     "meta": "OpenAI · 2026-10-01",
+     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+     "url": "https://openai.com/index/proaction",
+     "meta": "OpenAI · 2026-09-25",
+     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Introducing Gemini 3.8 Live with Live Avatar",
+     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+     "meta": "Google DeepMind · 2026-09-24",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Google Beam expands with new regions, partners, and customers",
+     "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+     "meta": "Google AI Blog · 2026-09-23",
+     "summary": "Google Beam promotional animation",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+     "meta": "OpenAI · 2026-09-23",
+     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+     "url": "https://huggingface.co/blog/evaleval-aisi",
+     "meta": "Hugging Face · 2026-09-22",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "openai/math",
+     "url": "https://github.com/openai/math",
+     "meta": "⭐ 12929 · Lean",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alchaincyf/huashu-art-motion",
+     "url": "https://github.com/alchaincyf/huashu-art-motion",
+     "meta": "⭐ 2822 · JavaScript",
+     "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mhtsec/ARTEX",
+     "url": "https://github.com/mhtsec/ARTEX",
+     "meta": "⭐ 2064 · Go",
+     "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 1761 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kargulstudio/sales-crm",
+     "url": "https://github.com/kargulstudio/sales-crm",
+     "meta": "⭐ 1671 · TypeScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zhongerxin/iPhone-use",
+     "url": "https://github.com/zhongerxin/iPhone-use",
+     "meta": "⭐ 1574 · Python",
+     "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/wordcraft",
+     "url": "https://github.com/storytold/wordcraft",
+     "meta": "⭐ 1384 · Rust",
+     "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Jakeschincariol/replica-skill",
+     "url": "https://github.com/Jakeschincariol/replica-skill",
+     "meta": "⭐ 1301 · Python",
+     "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/cadcraft",
+     "url": "https://github.com/storytold/cadcraft",
+     "meta": "⭐ 1183 · Rust",
+     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1169 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "LoreanXavier/pt-pc",
+     "url": "https://github.com/LoreanXavier/pt-pc",
+     "meta": "⭐ 1159 · C++",
+     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "LosaLosSantos/aurelio-finance",
+     "url": "https://github.com/LosaLosSantos/aurelio-finance",
+     "meta": "⭐ 1146 · Python",
+     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "noahdunnagan/fsearch",
+     "url": "https://github.com/noahdunnagan/fsearch",
+     "meta": "⭐ 950 · Rust",
+     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "shadany7824/playgta5",
+     "url": "https://github.com/shadany7824/playgta5",
+     "meta": "⭐ 949 · JavaScript",
+     "summary": "A source code for playgta5.com.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/gridcraft",
+     "url": "https://github.com/storytold/gridcraft",
+     "meta": "⭐ 925 · Rust",
+     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+     "meta": "⭐ 972 · 💬 882",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+     "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+     "meta": "⭐ 868 · 💬 528",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Whistle: Speech to Text in 16.9 MB",
+     "url": "https://cactuscompute.com/blog/whistle",
+     "meta": "⭐ 868 · 💬 172",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+     "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+     "meta": "⭐ 828 · 💬 179",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Deno Is Joining Cloudflare",
+     "url": "https://deno.com/blog/cloudflare",
+     "meta": "⭐ 658 · 💬 348",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Yes, and",
+     "url": "https://htmx.org/essays/yes-and/",
+     "meta": "⭐ 645 · 💬 251",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Theranos.world",
+     "url": "https://www.theranos.world/",
+     "meta": "⭐ 518 · 💬 188",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I'm in a Meeting",
+     "url": "https://iminafleeting.com/",
+     "meta": "⭐ 432 · 💬 155",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+     "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+     "meta": "⭐ 371 · 💬 241",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Our $445M Series D",
+     "url": "https://oxide.computer/blog/our-445m-series-d",
+     "meta": "⭐ 354 · 💬 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "meta": "⭐ 311 · 💬 160",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+     "meta": "⭐ 285 · 💬 118",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Keyboard differences between Windows and Macs",
+     "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+     "meta": "⭐ 258 · 💬 208",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+     "meta": "⭐ 193 · 💬 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Python 3.15.0",
+     "url": "https://www.python.org/downloads/release/python-3150/",
+     "meta": "⭐ 183 · 💬 38",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Amazon Alexa Tablets",
+     "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Full Google Play, Alexa+ and a Kindle reading mode",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Comcent",
+     "url": "https://www.producthunt.com/products/comcent",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "AI-ready voice infrastructure on your own SIP trunk",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Ambiguous Workspace",
+     "url": "https://www.producthunt.com/products/ambiguous-workspace",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "18 productivity apps built for AI agents and humans",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Thravik",
+     "url": "https://www.producthunt.com/products/thravik",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "The native Mac browser that remembers",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "NOVA CLI v1.0",
+     "url": "https://www.producthunt.com/products/nova-18",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "AI developer in your terminal",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Hallmonitor",
+     "url": "https://www.producthunt.com/products/hallmonitor",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "See and answer every coding agent from your notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Semwright",
+     "url": "https://www.producthunt.com/products/semwright",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Give AI agents structured access to real software",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Murmur",
+     "url": "https://www.producthunt.com/products/murmur-15",
+     "meta": "Product Hunt · 2026-09-25",
+     "summary": "A private voice-first notepad for your thoughts",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "OpenCharm",
+     "url": "https://www.producthunt.com/products/opencharm",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "Open-source body for the AI agent you already run",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Moonwalkers Dusk",
+     "url": "https://www.producthunt.com/products/moonwalkers-dusk",
+     "meta": "Product Hunt · 2026-10-03",
+     "summary": "Strap-on motorized wheels that let you walk twice as fast",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Vresk",
+     "url": "https://www.producthunt.com/products/vresk",
+     "meta": "Product Hunt · 2026-10-05",
+     "summary": "One AI workspace that offers the best open source models",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "tide",
+     "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "A Jitsi alternative that does a few things really well",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Pegasus 1.6 by TwelveLabs",
+     "url": "https://www.producthunt.com/products/twelvelabs",
+     "meta": "Product Hunt · 2026-09-29",
+     "summary": "Transforms egocentric video into robot training data",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Supademo AI Demo Agent",
+     "url": "https://www.producthunt.com/products/supademo",
+     "meta": "Product Hunt · 2025-09-04",
+     "summary": "Agentic demos like your best salesperson, without the salary",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Melete",
+     "url": "https://www.producthunt.com/products/melete",
+     "meta": "Product Hunt · 2026-09-30",
+     "summary": "An Always On Personal Agent With a Team Workspace",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
