@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T06:52:53.721098+08:00",
+ "generated_at": "2026-10-09T10:46:09.649502+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -23,6 +23,14 @@
    "errors": [],
    "items": [
     {
+     "title": "Whistle: Speech to Text in 16.9 MB",
+     "url": "https://cactuscompute.com/blog/whistle",
+     "meta": "+561 分 / 9.5 小时 · 现 ⭐ 575",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Trump administration is suspending Microsoft from a green card program",
      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
      "meta": "+443 分 / 5.6 小时 · 现 ⭐ 776",
@@ -31,9 +39,57 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Whistle: Speech to Text in 16.9 MB",
-     "url": "https://cactuscompute.com/blog/whistle",
-     "meta": "+408 分 / 5.6 小时 · 现 ⭐ 422",
+     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+     "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+     "meta": "+174 分 / 3.9 小时 · 现 ⭐ 456",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+     "meta": "+162 分 / 3.9 小时 · 现 ⭐ 455",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+     "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+     "meta": "+142 分 / 3.9 小时 · 现 ⭐ 427",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Yes, and",
+     "url": "https://htmx.org/essays/yes-and/",
+     "meta": "+134 分 / 3.9 小时 · 现 ⭐ 217",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Beauty in DVD Menus",
+     "url": "https://vale.rocks/posts/dvd-menus",
+     "meta": "+121 分 / 9.5 小时 · 现 ⭐ 270",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Theranos.world",
+     "url": "https://www.theranos.world/",
+     "meta": "+115 分 / 3.9 小时 · 现 ⭐ 305",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+     "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+     "meta": "+103 分 / 3.9 小时 · 现 ⭐ 186",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,30 +98,6 @@
      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
      "meta": "+90 分 / 5.6 小时 · 现 ⭐ 332",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Beauty in DVD Menus",
-     "url": "https://vale.rocks/posts/dvd-menus",
-     "meta": "+86 分 / 5.6 小时 · 现 ⭐ 235",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-     "url": "https://openrouter.ai/stepfun/step-5-preview",
-     "meta": "+61 分 / 5.6 小时 · 现 ⭐ 75",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-     "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-     "meta": "+56 分 / 5.6 小时 · 现 ⭐ 92",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -78,7 +110,7 @@
    "errors": [],
    "items": [
     {
-     "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
      "meta": "Ars Technica · 2026-10-08",
      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
@@ -207,7 +239,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 12029 · Lean",
+     "meta": "⭐ 12210 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -215,7 +247,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 2410 · JavaScript",
+     "meta": "⭐ 2509 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -239,8 +271,24 @@
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1656 · TypeScript",
+     "meta": "⭐ 1659 · TypeScript",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 1185 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Jakeschincariol/replica-skill",
+     "url": "https://github.com/Jakeschincariol/replica-skill",
+     "meta": "⭐ 1102 · Python",
+     "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -253,18 +301,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Jakeschincariol/replica-skill",
-     "url": "https://github.com/Jakeschincariol/replica-skill",
-     "meta": "⭐ 1064 · Python",
-     "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1034 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "nullmoth/nvidia-macos-driver",
-     "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 1005 · Rust",
-     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+     "title": "LoreanXavier/pt-pc",
+     "url": "https://github.com/LoreanXavier/pt-pc",
+     "meta": "⭐ 1020 · C++",
+     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -277,26 +325,26 @@
      "origin_source": "github_search"
     },
     {
-     "title": "alejandrobujan/tendedero",
-     "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 982 · Swift",
-     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "LoreanXavier/pt-pc",
-     "url": "https://github.com/LoreanXavier/pt-pc",
-     "meta": "⭐ 962 · C++",
-     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
+     "title": "mhtsec/ARTEX",
+     "url": "https://github.com/mhtsec/ARTEX",
+     "meta": "⭐ 897 · Go",
+     "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 778 · Rust",
+     "meta": "⭐ 867 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/cadcraft",
+     "url": "https://github.com/storytold/cadcraft",
+     "meta": "⭐ 812 · Rust",
+     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -305,22 +353,6 @@
      "url": "https://github.com/rauchg/gdp-ts",
      "meta": "⭐ 761 · TypeScript",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "storytold/cadcraft",
-     "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 712 · Rust",
-     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "elstongun/leviathan",
-     "url": "https://github.com/elstongun/leviathan",
-     "meta": "⭐ 694 · Rust",
-     "summary": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-tex",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -364,6 +396,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Whistle: Speech to Text in 16.9 MB",
+     "url": "https://cactuscompute.com/blog/whistle",
+     "meta": "⭐ 575 · 💬 128",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "“Math 2.0” will need to value mathematical progress more holistically",
      "url": "https://mathstodon.xyz/@tao/117395269325940185",
      "meta": "⭐ 538 · 💬 536",
@@ -372,9 +412,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Whistle: Speech to Text in 16.9 MB",
-     "url": "https://cactuscompute.com/blog/whistle",
-     "meta": "⭐ 422 · 💬 101",
+     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+     "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+     "meta": "⭐ 456 · 💬 287",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+     "meta": "⭐ 455 · 💬 388",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+     "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+     "meta": "⭐ 427 · 💬 73",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -404,6 +460,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Theranos.world",
+     "url": "https://www.theranos.world/",
+     "meta": "⭐ 305 · 💬 122",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "The 15-year search for a band that charted once and vanished",
      "url": "https://shahidhussain.com/writing/search-for-salvage/",
      "meta": "⭐ 303 · 💬 109",
@@ -412,41 +476,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-     "meta": "⭐ 293 · 💬 253",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-     "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-     "meta": "⭐ 285 · 💬 36",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-     "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-     "meta": "⭐ 282 · 💬 172",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
      "meta": "⭐ 277 · 💬 94",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "'Jonathan' is the oldest land animal on Earth",
-     "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-     "meta": "⭐ 242 · 💬 135",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

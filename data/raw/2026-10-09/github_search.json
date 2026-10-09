@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-09T06:52:52.828348+08:00",
- "count": 22,
+ "updated_at": "2026-10-09T10:46:08.467783+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1401457273",
@@ -98,7 +98,7 @@
    "id": "gh-1403115747",
    "title": "Jakeschincariol/replica-skill",
    "url": "https://github.com/Jakeschincariol/replica-skill",
-   "stars": 1064,
+   "stars": 1102,
    "language": "Python",
    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
    "created_at": "2026-10-03T12:07:49Z",
@@ -110,6 +110,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 1064
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 1102
     }
    ]
   },
@@ -117,7 +121,7 @@
    "id": "gh-1403307052",
    "title": "jiwoochris/artex-ko",
    "url": "https://github.com/jiwoochris/artex-ko",
-   "stars": 670,
+   "stars": 713,
    "language": "Go",
    "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
    "created_at": "2026-10-03T14:49:48Z",
@@ -129,6 +133,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 670
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 713
     }
    ]
   },
@@ -136,7 +144,7 @@
    "id": "gh-1403431984",
    "title": "ythx-101/live-panel-skill",
    "url": "https://github.com/ythx-101/live-panel-skill",
-   "stars": 658,
+   "stars": 661,
    "language": "HTML",
    "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
    "created_at": "2026-10-03T16:53:36Z",
@@ -148,6 +156,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 658
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 661
     }
    ]
   },
@@ -155,7 +167,7 @@
    "id": "gh-1404266247",
    "title": "kargulstudio/sales-crm",
    "url": "https://github.com/kargulstudio/sales-crm",
-   "stars": 1656,
+   "stars": 1659,
    "language": "TypeScript",
    "description": "",
    "created_at": "2026-10-04T10:55:58Z",
@@ -167,6 +179,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 1656
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 1659
     }
    ]
   },
@@ -186,6 +202,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 761
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 761
     }
    ]
   },
@@ -193,7 +213,7 @@
    "id": "gh-1404874984",
    "title": "AgentMemoryRepo/agentmemoryrepo",
    "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-   "stars": 630,
+   "stars": 650,
    "language": "",
    "description": "Spec for Agent Memory Repo",
    "created_at": "2026-10-04T22:10:48Z",
@@ -201,6 +221,10 @@
     {
      "t": "2026-10-09T01:18:59.484239+08:00",
      "score": 630
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 650
     }
    ]
   },
@@ -208,7 +232,7 @@
    "id": "gh-1405454424",
    "title": "elstongun/leviathan",
    "url": "https://github.com/elstongun/leviathan",
-   "stars": 694,
+   "stars": 695,
    "language": "Rust",
    "description": "**Deep memory for agents over large datasets.** Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
    "created_at": "2026-10-05T08:57:44Z",
@@ -220,6 +244,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 694
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 695
     }
    ]
   },
@@ -227,7 +255,7 @@
    "id": "gh-1406706284",
    "title": "alchaincyf/huashu-art-motion",
    "url": "https://github.com/alchaincyf/huashu-art-motion",
-   "stars": 2410,
+   "stars": 2509,
    "language": "JavaScript",
    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
    "created_at": "2026-10-06T04:49:37Z",
@@ -239,6 +267,25 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 2410
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 2509
+    }
+   ]
+  },
+  {
+   "id": "gh-1407873347",
+   "title": "LosaLosSantos/aurelio-finance",
+   "url": "https://github.com/LosaLosSantos/aurelio-finance",
+   "stars": 700,
+   "language": "Python",
+   "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+   "created_at": "2026-10-06T20:14:19Z",
+   "history": [
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 700
     }
    ]
   },
@@ -246,7 +293,7 @@
    "id": "gh-1407950271",
    "title": "openai/math",
    "url": "https://github.com/openai/math",
-   "stars": 12029,
+   "stars": 12210,
    "language": "Lean",
    "description": "",
    "created_at": "2026-10-06T21:47:02Z",
@@ -258,6 +305,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 12029
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 12210
     }
    ]
   },
@@ -265,7 +316,7 @@
    "id": "gh-1408099862",
    "title": "alejandrobujan/tendedero",
    "url": "https://github.com/alejandrobujan/tendedero",
-   "stars": 982,
+   "stars": 1034,
    "language": "Swift",
    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
    "created_at": "2026-10-07T01:29:54Z",
@@ -277,6 +328,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 982
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 1034
     }
    ]
   },
@@ -284,7 +339,7 @@
    "id": "gh-1408284340",
    "title": "pingdotgg/ts-rust",
    "url": "https://github.com/pingdotgg/ts-rust",
-   "stars": 686,
+   "stars": 706,
    "language": "Rust",
    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
    "created_at": "2026-10-07T05:17:07Z",
@@ -296,6 +351,25 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 686
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 706
+    }
+   ]
+  },
+  {
+   "id": "gh-1408285582",
+   "title": "storytold/gridcraft",
+   "url": "https://github.com/storytold/gridcraft",
+   "stars": 596,
+   "language": "Rust",
+   "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+   "created_at": "2026-10-07T05:18:16Z",
+   "history": [
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 596
     }
    ]
   },
@@ -303,7 +377,7 @@
    "id": "gh-1408289866",
    "title": "storytold/cadcraft",
    "url": "https://github.com/storytold/cadcraft",
-   "stars": 712,
+   "stars": 812,
    "language": "Rust",
    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
    "created_at": "2026-10-07T05:22:31Z",
@@ -311,6 +385,25 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 712
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 812
+    }
+   ]
+  },
+  {
+   "id": "gh-1408371739",
+   "title": "bas3line/ascii",
+   "url": "https://github.com/bas3line/ascii",
+   "stars": 608,
+   "language": "TypeScript",
+   "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+   "created_at": "2026-10-07T06:48:54Z",
+   "history": [
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 608
     }
    ]
   },
@@ -318,7 +411,7 @@
    "id": "gh-1408465463",
    "title": "nullmoth/nvidia-macos-driver",
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-   "stars": 1005,
+   "stars": 1185,
    "language": "Rust",
    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
    "created_at": "2026-10-07T08:13:12Z",
@@ -330,6 +423,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 1005
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 1185
     }
    ]
   },
@@ -337,7 +434,7 @@
    "id": "gh-1408489772",
    "title": "storytold/wordcraft",
    "url": "https://github.com/storytold/wordcraft",
-   "stars": 778,
+   "stars": 867,
    "language": "Rust",
    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
    "created_at": "2026-10-07T08:34:24Z",
@@ -349,6 +446,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 778
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 867
     }
    ]
   },
@@ -356,7 +457,7 @@
    "id": "gh-1408493106",
    "title": "shadany7824/playgta5",
    "url": "https://github.com/shadany7824/playgta5",
-   "stars": 682,
+   "stars": 757,
    "language": "JavaScript",
    "description": "A source code for playgta5.com.",
    "created_at": "2026-10-07T08:37:15Z",
@@ -364,6 +465,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 682
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 757
     }
    ]
   },
@@ -371,7 +476,7 @@
    "id": "gh-1408557215",
    "title": "LoreanXavier/pt-pc",
    "url": "https://github.com/LoreanXavier/pt-pc",
-   "stars": 962,
+   "stars": 1020,
    "language": "C++",
    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
    "created_at": "2026-10-07T09:33:31Z",
@@ -383,6 +488,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 962
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 1020
     }
    ]
   },
@@ -390,7 +499,7 @@
    "id": "gh-1409787646",
    "title": "mhtsec/ARTEX",
    "url": "https://github.com/mhtsec/ARTEX",
-   "stars": 686,
+   "stars": 897,
    "language": "Go",
    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
    "created_at": "2026-10-08T05:33:06Z",
@@ -402,6 +511,10 @@
     {
      "t": "2026-10-09T06:52:52.828348+08:00",
      "score": 686
+    },
+    {
+     "t": "2026-10-09T10:46:08.467783+08:00",
+     "score": 897
     }
    ]
   }
