@@ -1,0 +1,514 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T03:44:27.462036+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+     "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+     "meta": "TechCrunch AI · 2026-10-10",
+     "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+     "meta": "Ars Technica · 2026-10-09",
+     "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "meta": "Ars Technica · 2026-10-08",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Natura’s $99 smart ring puts AI agents on your finger",
+     "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+     "meta": "TechCrunch AI · 2026-10-08",
+     "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "meta": "OpenAI · 2026-10-08",
+     "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+     "meta": "Hugging Face · 2026-10-07",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The Agent Said It Was Done. The Database Disagreed.",
+     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+     "meta": "Hugging Face · 2026-10-03",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Albertsons Companies is reimagining retail from the inside out",
+     "url": "https://openai.com/index/albertsons-reimagining-retail",
+     "meta": "OpenAI · 2026-10-01",
+     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+     "url": "https://openai.com/index/proaction",
+     "meta": "OpenAI · 2026-09-25",
+     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Introducing Gemini 3.8 Live with Live Avatar",
+     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+     "meta": "Google DeepMind · 2026-09-24",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Google Beam expands with new regions, partners, and customers",
+     "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+     "meta": "Google AI Blog · 2026-09-23",
+     "summary": "Google Beam promotional animation",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+     "meta": "OpenAI · 2026-09-23",
+     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+     "url": "https://huggingface.co/blog/evaleval-aisi",
+     "meta": "Hugging Face · 2026-09-22",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+     "url": "https://openai.com/index/v7",
+     "meta": "OpenAI · 2026-09-21",
+     "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our framework for reporting model misalignment",
+     "url": "https://openai.com/index/model-misalignment-reporting-framework",
+     "meta": "OpenAI · 2026-09-16",
+     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "openai/math",
+     "url": "https://github.com/openai/math",
+     "meta": "⭐ 13623 · Lean",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alchaincyf/huashu-art-motion",
+     "url": "https://github.com/alchaincyf/huashu-art-motion",
+     "meta": "⭐ 3191 · JavaScript",
+     "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/wordcraft",
+     "url": "https://github.com/storytold/wordcraft",
+     "meta": "⭐ 2987 · Rust",
+     "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mhtsec/ARTEX",
+     "url": "https://github.com/mhtsec/ARTEX",
+     "meta": "⭐ 2889 · Go",
+     "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zhongerxin/iPhone-use",
+     "url": "https://github.com/zhongerxin/iPhone-use",
+     "meta": "⭐ 2529 · Python",
+     "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 2264 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "LosaLosSantos/aurelio-finance",
+     "url": "https://github.com/LosaLosSantos/aurelio-finance",
+     "meta": "⭐ 2092 · Python",
+     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/cadcraft",
+     "url": "https://github.com/storytold/cadcraft",
+     "meta": "⭐ 1753 · Rust",
+     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/gridcraft",
+     "url": "https://github.com/storytold/gridcraft",
+     "meta": "⭐ 1720 · Rust",
+     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kargulstudio/sales-crm",
+     "url": "https://github.com/kargulstudio/sales-crm",
+     "meta": "⭐ 1686 · TypeScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "noahdunnagan/fsearch",
+     "url": "https://github.com/noahdunnagan/fsearch",
+     "meta": "⭐ 1550 · Rust",
+     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1529 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/deckcraft",
+     "url": "https://github.com/storytold/deckcraft",
+     "meta": "⭐ 1343 · Rust",
+     "summary": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "LoreanXavier/pt-pc",
+     "url": "https://github.com/LoreanXavier/pt-pc",
+     "meta": "⭐ 1310 · C++",
+     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "t4t5/omdrop-owl",
+     "url": "https://github.com/t4t5/omdrop-owl",
+     "meta": "⭐ 1249 · Shell",
+     "summary": "airdrop for non-apple devices",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "⭐ 1295 · 💬 257",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "REA Reverse – Engineer Anything",
+     "url": "https://rea.tools/",
+     "meta": "⭐ 632 · 💬 272",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+     "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+     "meta": "⭐ 358 · 💬 192",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "`123456' password used in Danish CPR data breach",
+     "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+     "meta": "⭐ 348 · 💬 181",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+     "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+     "meta": "⭐ 272 · 💬 62",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Bitwarden Dual License Model",
+     "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+     "meta": "⭐ 270 · 💬 205",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Grieving the Loss of Details",
+     "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+     "meta": "⭐ 218 · 💬 156",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+     "url": "https://github.com/rociiu/talorys",
+     "meta": "⭐ 194 · 💬 101",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple/macOS removed from official Unix registry",
+     "url": "https://www.opengroup.org//openbrand/register/",
+     "meta": "⭐ 181 · 💬 173",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I would like the value of my home to rise, while my property taxes fall",
+     "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+     "meta": "⭐ 149 · 💬 320",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "FDA may allow some toxic chemicals to be added to food without safety review",
+     "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
+     "meta": "⭐ 118 · 💬 59",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+     "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+     "meta": "⭐ 108 · 💬 21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+     "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+     "meta": "⭐ 105 · 💬 34",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Knuth reward check",
+     "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+     "meta": "⭐ 85 · 💬 32",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+     "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+     "meta": "⭐ 82 · 💬 16",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Comcent",
+     "url": "https://www.producthunt.com/products/comcent",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "AI-ready voice infrastructure on your own SIP trunk",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Ambiguous Workspace",
+     "url": "https://www.producthunt.com/products/ambiguous-workspace",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "18 productivity apps built for AI agents and humans",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "NOVA CLI v1.0",
+     "url": "https://www.producthunt.com/products/nova-18",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "AI developer in your terminal",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tuck",
+     "url": "https://www.producthunt.com/products/tuck-6",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "A tidy menu bar for macOS 27",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Hallmonitor",
+     "url": "https://www.producthunt.com/products/hallmonitor",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "See and answer every coding agent from your notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "GitGlow",
+     "url": "https://www.producthunt.com/products/gitglow-2",
+     "meta": "Product Hunt · 2026-10-09",
+     "summary": "Review your code and your agents' changes before you ship",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Semwright",
+     "url": "https://www.producthunt.com/products/semwright",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Give AI agents structured access to real software",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Hypervibe",
+     "url": "https://www.producthunt.com/products/hypervibe-2",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Run your AI coding agents on one infinite board",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Murmur",
+     "url": "https://www.producthunt.com/products/murmur-15",
+     "meta": "Product Hunt · 2026-09-25",
+     "summary": "A private voice-first notepad for your thoughts",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "KernelAI",
+     "url": "https://www.producthunt.com/products/kernelai",
+     "meta": "Product Hunt · 2026-10-09",
+     "summary": "Private, offline AI for iPhone and Android",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "OpenCharm",
+     "url": "https://www.producthunt.com/products/opencharm",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "Open-source body for the AI agent you already run",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Buffer",
+     "url": "https://www.producthunt.com/products/buffer-3",
+     "meta": "Product Hunt · 2026-03-17",
+     "summary": "Search everything you copy, even text inside screenshots",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Moonwalkers Dusk",
+     "url": "https://www.producthunt.com/products/moonwalkers-dusk",
+     "meta": "Product Hunt · 2026-10-03",
+     "summary": "Strap-on motorized wheels that let you walk twice as fast",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Kitbar",
+     "url": "https://www.producthunt.com/products/kitbar",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Your dev tools, in one bar.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Melete",
+     "url": "https://www.producthunt.com/products/melete",
+     "meta": "Product Hunt · 2026-09-30",
+     "summary": "An Always On Personal Agent With a Team Workspace",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
