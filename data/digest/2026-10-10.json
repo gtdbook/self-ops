@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T10:03:52.310162+08:00",
+ "generated_at": "2026-10-10T17:22:56.865240+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,23 @@
     {
      "title": "Cloudflare acquires Deno",
      "url": "https://deno.com/blog/cloudflare",
-     "meta": "+414 分 / 8.8 小时 · 现 ⭐ 1072",
+     "meta": "+563 分 / 16.1 小时 · 现 ⭐ 1221",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "+540 分 / 11.1 小时 · 现 ⭐ 952",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "meta": "+391 分 / 11.1 小时 · 现 ⭐ 570",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,9 +40,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Triple-A Minesweeper",
-     "url": "https://minesweeper.mikelacher.com/",
-     "meta": "+253 分 / 3.8 小时 · 现 ⭐ 665",
+     "title": "REA Reverse – Engineer Anything",
+     "url": "https://rea.tools/",
+     "meta": "+332 分 / 7.3 小时 · 现 ⭐ 403",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,15 +50,23 @@
     {
      "title": "Our $445M Series D",
      "url": "https://oxide.computer/blog/our-445m-series-d",
-     "meta": "+243 分 / 8.8 小时 · 现 ⭐ 597",
+     "meta": "+303 分 / 16.1 小时 · 现 ⭐ 657",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-     "meta": "+242 分 / 3.8 小时 · 现 ⭐ 421",
+     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+     "url": "https://carrierexplode.com/",
+     "meta": "+174 分 / 11.1 小时 · 现 ⭐ 317",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Typesafe AI raises $870M at $7.5B",
+     "url": "https://typesafe.ai/blog/series-ai",
+     "meta": "+166 分 / 11.1 小时 · 现 ⭐ 368",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -59,30 +83,6 @@
      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
      "meta": "+99 分 / 4.9 小时 · 现 ⭐ 292",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-     "meta": "+94 分 / 8.8 小时 · 现 ⭐ 379",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-     "url": "https://carrierexplode.com/",
-     "meta": "+75 分 / 3.8 小时 · 现 ⭐ 218",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Yes, and",
-     "url": "https://htmx.org/essays/yes-and/",
-     "meta": "+74 分 / 4.9 小时 · 现 ⭐ 719",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 13113 · Lean",
+     "meta": "⭐ 13387 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 2897 · JavaScript",
+     "meta": "⭐ 3064 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 2244 · Go",
+     "meta": "⭐ 2640 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
@@ -248,31 +248,31 @@
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 1918 · Rust",
+     "meta": "⭐ 2323 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "nullmoth/nvidia-macos-driver",
-     "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 1890 · Rust",
-     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "zhongerxin/iPhone-use",
      "url": "https://github.com/zhongerxin/iPhone-use",
-     "meta": "⭐ 1837 · Python",
+     "meta": "⭐ 2270 · Python",
      "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 2077 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "kargulstudio/sales-crm",
      "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1677 · TypeScript",
+     "meta": "⭐ 1678 · TypeScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "LosaLosSantos/aurelio-finance",
      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-     "meta": "⭐ 1555 · Python",
+     "meta": "⭐ 1559 · Python",
      "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,8 +288,16 @@
     {
      "title": "storytold/cadcraft",
      "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 1390 · Rust",
+     "meta": "⭐ 1518 · Rust",
      "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/gridcraft",
+     "url": "https://github.com/storytold/gridcraft",
+     "meta": "⭐ 1419 · Rust",
+     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -302,42 +310,34 @@
      "origin_source": "github_search"
     },
     {
-     "title": "storytold/gridcraft",
-     "url": "https://github.com/storytold/gridcraft",
-     "meta": "⭐ 1212 · Rust",
-     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "LoreanXavier/pt-pc",
-     "url": "https://github.com/LoreanXavier/pt-pc",
-     "meta": "⭐ 1210 · C++",
-     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1338 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "noahdunnagan/fsearch",
      "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 1191 · Rust",
+     "meta": "⭐ 1335 · Rust",
      "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "alejandrobujan/tendedero",
-     "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 1187 · Swift",
-     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+     "title": "LoreanXavier/pt-pc",
+     "url": "https://github.com/LoreanXavier/pt-pc",
+     "meta": "⭐ 1248 · C++",
+     "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "shadany7824/playgta5",
-     "url": "https://github.com/shadany7824/playgta5",
-     "meta": "⭐ 1022 · JavaScript",
-     "summary": "A source code for playgta5.com.",
+     "title": "storytold/soundcraft",
+     "url": "https://github.com/storytold/soundcraft",
+     "meta": "⭐ 1105 · Rust",
+     "summary": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,7 +351,7 @@
     {
      "title": "Cloudflare acquires Deno",
      "url": "https://deno.com/blog/cloudflare",
-     "meta": "⭐ 1072 · 💬 559",
+     "meta": "⭐ 1221 · 💬 617",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -360,6 +360,14 @@
      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
      "meta": "⭐ 972 · 💬 882",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "⭐ 952 · 💬 183",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,17 +413,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Triple-A Minesweeper",
-     "url": "https://minesweeper.mikelacher.com/",
-     "meta": "⭐ 665 · 💬 122",
+     "title": "Our $445M Series D",
+     "url": "https://oxide.computer/blog/our-445m-series-d",
+     "meta": "⭐ 657 · 💬 295",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Our $445M Series D",
-     "url": "https://oxide.computer/blog/our-445m-series-d",
-     "meta": "⭐ 597 · 💬 267",
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "meta": "⭐ 570 · 💬 308",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,17 +437,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-     "meta": "⭐ 421 · 💬 230",
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "meta": "⭐ 413 · 💬 211",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-     "meta": "⭐ 413 · 💬 211",
+     "title": "REA Reverse – Engineer Anything",
+     "url": "https://rea.tools/",
+     "meta": "⭐ 403 · 💬 147",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -456,14 +464,6 @@
      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
      "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
      "meta": "⭐ 371 · 💬 241",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Keyboard differences between Windows and Macs",
-     "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-     "meta": "⭐ 314 · 💬 255",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -516,10 +516,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Tuck",
+     "url": "https://www.producthunt.com/products/tuck-6",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "A tidy menu bar for macOS 27",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Hallmonitor",
      "url": "https://www.producthunt.com/products/hallmonitor",
      "meta": "Product Hunt · 2026-10-07",
      "summary": "See and answer every coding agent from your notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "GitGlow",
+     "url": "https://www.producthunt.com/products/gitglow-2",
+     "meta": "Product Hunt · 2026-10-09",
+     "summary": "Review your code and your agents' changes before you ship",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -532,10 +548,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Hypervibe",
+     "url": "https://www.producthunt.com/products/hypervibe-2",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Run your AI coding agents on one infinite board",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Murmur",
      "url": "https://www.producthunt.com/products/murmur-15",
      "meta": "Product Hunt · 2026-09-25",
      "summary": "A private voice-first notepad for your thoughts",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "KernelAI",
+     "url": "https://www.producthunt.com/products/kernelai",
+     "meta": "Product Hunt · 2026-10-09",
+     "summary": "53 open models from 15 labs, running entirely on your phone",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -548,50 +580,18 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Buffer",
+     "url": "https://www.producthunt.com/products/buffer-3",
+     "meta": "Product Hunt · 2026-03-17",
+     "summary": "Search everything you copy, even text inside screenshots",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Moonwalkers Dusk",
      "url": "https://www.producthunt.com/products/moonwalkers-dusk",
      "meta": "Product Hunt · 2026-10-03",
      "summary": "Strap-on motorized wheels that let you walk twice as fast",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Vresk",
-     "url": "https://www.producthunt.com/products/vresk",
-     "meta": "Product Hunt · 2026-10-05",
-     "summary": "One AI workspace that offers the best open source models",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "tide",
-     "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
-     "meta": "Product Hunt · 2026-10-07",
-     "summary": "A Jitsi alternative that does a few things really well",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Pegasus 1.6 by TwelveLabs",
-     "url": "https://www.producthunt.com/products/twelvelabs",
-     "meta": "Product Hunt · 2026-09-29",
-     "summary": "Transforms egocentric video into robot training data",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Supademo AI Demo Agent",
-     "url": "https://www.producthunt.com/products/supademo",
-     "meta": "Product Hunt · 2025-09-04",
-     "summary": "Agentic demos like your best salesperson, without the salary",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Melete",
-     "url": "https://www.producthunt.com/products/melete",
-     "meta": "Product Hunt · 2026-09-30",
-     "summary": "An Always On Personal Agent With a Team Workspace",
      "reason": null,
      "origin_source": "producthunt"
     }

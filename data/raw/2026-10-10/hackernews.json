@@ -1,8 +1,40 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-10T10:03:50.279176+08:00",
- "count": 52,
+ "updated_at": "2026-10-10T17:22:54.826220+08:00",
+ "count": 63,
  "items": [
+  {
+   "id": "hn-49980208",
+   "title": "Communication Between the Compiler, the Build System, and Beyond",
+   "url": "https://shrub.industries/words/problem.html",
+   "hn_url": "https://news.ycombinator.com/item?id=49980208",
+   "score": 14,
+   "comments": 2,
+   "author": "shrub900",
+   "time_iso": "2026-10-06T15:44:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-49981264",
+   "title": "How to head into VR without wearing a headset",
+   "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+   "hn_url": "https://news.ycombinator.com/item?id=49981264",
+   "score": 31,
+   "comments": 11,
+   "author": "Betelbuddy",
+   "time_iso": "2026-10-06T17:07:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 31
+    }
+   ]
+  },
   {
    "id": "hn-49983582",
    "title": "Training Text-to-Image Models Without a VAE",
@@ -24,14 +56,18 @@
    "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
    "url": "https://www.nature.com/articles/s41598-020-73426-0",
    "hn_url": "https://news.ycombinator.com/item?id=49984854",
-   "score": 40,
-   "comments": 22,
+   "score": 83,
+   "comments": 34,
    "author": "bushwart",
    "time_iso": "2026-10-06T22:10:59+00:00",
    "history": [
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 40
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 83
     }
    ]
   },
@@ -64,6 +100,38 @@
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 868
+    }
+   ]
+  },
+  {
+   "id": "hn-49997481",
+   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+   "hn_url": "https://news.ycombinator.com/item?id=49997481",
+   "score": 148,
+   "comments": 34,
+   "author": "ortusdux",
+   "time_iso": "2026-10-07T19:15:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 148
+    }
+   ]
+  },
+  {
+   "id": "hn-49998350",
+   "title": "I tried to move my notes out of Emacs. I failed. Again",
+   "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
+   "hn_url": "https://news.ycombinator.com/item?id=49998350",
+   "score": 17,
+   "comments": 25,
+   "author": "speckx",
+   "time_iso": "2026-10-07T20:27:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 17
     }
    ]
   },
@@ -104,8 +172,8 @@
    "title": "Show HN: Proton Drive for Linux",
    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
    "hn_url": "https://news.ycombinator.com/item?id=50003545",
-   "score": 35,
-   "comments": 13,
+   "score": 78,
+   "comments": 28,
    "author": "khaosdoctor",
    "time_iso": "2026-10-08T09:10:42+00:00",
    "history": [
@@ -116,6 +184,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 35
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 78
     }
    ]
   },
@@ -136,6 +208,22 @@
     {
      "t": "2026-10-10T06:14:25.424751+08:00",
      "score": 719
+    }
+   ]
+  },
+  {
+   "id": "hn-50006734",
+   "title": "Vegetative Electron Microscopy WTF? (2025)",
+   "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50006734",
+   "score": 11,
+   "comments": 0,
+   "author": "adunk",
+   "time_iso": "2026-10-08T15:06:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 11
     }
    ]
   },
@@ -168,6 +256,22 @@
     {
      "t": "2026-10-10T01:18:11.323991+08:00",
      "score": 518
+    }
+   ]
+  },
+  {
+   "id": "hn-50010986",
+   "title": "Cube Type – Isometric Typography Generator",
+   "url": "https://typeincube.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50010986",
+   "score": 9,
+   "comments": 0,
+   "author": "eustoria",
+   "time_iso": "2026-10-08T19:41:19+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 9
     }
    ]
   },
@@ -336,8 +440,8 @@
    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
    "hn_url": "https://news.ycombinator.com/item?id=50019056",
-   "score": 106,
-   "comments": 53,
+   "score": 144,
+   "comments": 75,
    "author": "piratebroadcast",
    "time_iso": "2026-10-09T11:36:20+00:00",
    "history": [
@@ -348,6 +452,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 106
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 144
     }
    ]
   },
@@ -388,8 +496,8 @@
    "title": "Cloudflare acquires Deno",
    "url": "https://deno.com/blog/cloudflare",
    "hn_url": "https://news.ycombinator.com/item?id=50019911",
-   "score": 1072,
-   "comments": 559,
+   "score": 1221,
+   "comments": 617,
    "author": "ilreb",
    "time_iso": "2026-10-09T13:03:48+00:00",
    "history": [
@@ -404,6 +512,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 1072
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 1221
     }
    ]
   },
@@ -412,8 +524,8 @@
    "title": "Our $445M Series D",
    "url": "https://oxide.computer/blog/our-445m-series-d",
    "hn_url": "https://news.ycombinator.com/item?id=50020014",
-   "score": 597,
-   "comments": 267,
+   "score": 657,
+   "comments": 295,
    "author": "ahlCVA",
    "time_iso": "2026-10-09T13:12:47+00:00",
    "history": [
@@ -428,6 +540,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 597
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 657
     }
    ]
   },
@@ -436,8 +552,8 @@
    "title": "'Wallace and Gromit,' 90% Alone",
    "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
    "hn_url": "https://news.ycombinator.com/item?id=50020533",
-   "score": 161,
-   "comments": 21,
+   "score": 208,
+   "comments": 25,
    "author": "vinhnx",
    "time_iso": "2026-10-09T13:49:31+00:00",
    "history": [
@@ -448,6 +564,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 161
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 208
     }
    ]
   },
@@ -504,14 +624,18 @@
    "title": "Can you use autoregressive diffusion to generate market data?",
    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
    "hn_url": "https://news.ycombinator.com/item?id=50021410",
-   "score": 10,
-   "comments": 0,
+   "score": 84,
+   "comments": 25,
    "author": "jsomers",
    "time_iso": "2026-10-09T14:56:13+00:00",
    "history": [
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 84
     }
    ]
   },
@@ -560,8 +684,8 @@
    "title": "Triple-A Minesweeper",
    "url": "https://minesweeper.mikelacher.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50022292",
-   "score": 665,
-   "comments": 122,
+   "score": 952,
+   "comments": 183,
    "author": "robin_reala",
    "time_iso": "2026-10-09T15:51:05+00:00",
    "history": [
@@ -572,6 +696,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 665
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 952
     }
    ]
   },
@@ -612,8 +740,8 @@
    "title": "Typesafe AI raises $870M at $7.5B",
    "url": "https://typesafe.ai/blog/series-ai",
    "hn_url": "https://news.ycombinator.com/item?id=50023450",
-   "score": 276,
-   "comments": 211,
+   "score": 368,
+   "comments": 272,
    "author": "tosh",
    "time_iso": "2026-10-09T17:02:31+00:00",
    "history": [
@@ -624,6 +752,26 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 276
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 368
+    }
+   ]
+  },
+  {
+   "id": "hn-50023995",
+   "title": "Scam American companies are using to manipulate ingredient lists",
+   "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+   "hn_url": "https://news.ycombinator.com/item?id=50023995",
+   "score": 117,
+   "comments": 128,
+   "author": "bilsbie",
+   "time_iso": "2026-10-09T17:35:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 117
     }
    ]
   },
@@ -652,14 +800,18 @@
    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50024090",
-   "score": 37,
-   "comments": 4,
+   "score": 115,
+   "comments": 22,
    "author": "matt_d",
    "time_iso": "2026-10-09T17:42:12+00:00",
    "history": [
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 37
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 115
     }
    ]
   },
@@ -668,8 +820,8 @@
    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
    "url": "https://carrierexplode.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50024499",
-   "score": 218,
-   "comments": 27,
+   "score": 317,
+   "comments": 41,
    "author": "simplyalec",
    "time_iso": "2026-10-09T18:10:55+00:00",
    "history": [
@@ -680,6 +832,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 218
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 317
     }
    ]
   },
@@ -768,8 +924,8 @@
    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
    "hn_url": "https://news.ycombinator.com/item?id=50026555",
-   "score": 421,
-   "comments": 230,
+   "score": 570,
+   "comments": 308,
    "author": "gumby",
    "time_iso": "2026-10-09T21:06:59+00:00",
    "history": [
@@ -780,6 +936,10 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 421
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 570
     }
    ]
   },
@@ -852,14 +1012,18 @@
    "title": "Compiling Rust to readable C with Eurydice",
    "url": "https://lwn.net/Articles/1055211/",
    "hn_url": "https://news.ycombinator.com/item?id=50027853",
-   "score": 18,
-   "comments": 2,
+   "score": 75,
+   "comments": 14,
    "author": "peter_d_sherman",
    "time_iso": "2026-10-09T23:28:36+00:00",
    "history": [
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 75
     }
    ]
   },
@@ -876,6 +1040,22 @@
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50028027",
+   "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+   "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+   "hn_url": "https://news.ycombinator.com/item?id=50028027",
+   "score": 67,
+   "comments": 11,
+   "author": "luu",
+   "time_iso": "2026-10-09T23:53:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 67
     }
    ]
   },
@@ -916,14 +1096,66 @@
    "title": "REA Reverse – Engineer Anything",
    "url": "https://rea.tools/",
    "hn_url": "https://news.ycombinator.com/item?id=50028275",
-   "score": 71,
-   "comments": 11,
+   "score": 403,
+   "comments": 147,
    "author": "modinfo",
    "time_iso": "2026-10-10T00:37:07+00:00",
    "history": [
     {
      "t": "2026-10-10T10:03:50.279176+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 403
+    }
+   ]
+  },
+  {
+   "id": "hn-50029123",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "hn_url": "https://news.ycombinator.com/item?id=50029123",
+   "score": 151,
+   "comments": 66,
+   "author": "g-b-r",
+   "time_iso": "2026-10-10T03:02:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 151
+    }
+   ]
+  },
+  {
+   "id": "hn-50029830",
+   "title": "Food processing influences metabolism and brain activity",
+   "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50029830",
+   "score": 25,
+   "comments": 11,
+   "author": "gmays",
+   "time_iso": "2026-10-10T05:22:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50029982",
+   "title": "Computers Cannot Make Decisions",
+   "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+   "hn_url": "https://news.ycombinator.com/item?id=50029982",
+   "score": 63,
+   "comments": 42,
+   "author": "heavensteeth",
+   "time_iso": "2026-10-10T05:47:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T17:22:54.826220+08:00",
+     "score": 63
     }
    ]
   }
