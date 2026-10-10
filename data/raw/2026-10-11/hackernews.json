@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-11T03:44:25.612484+08:00",
- "count": 25,
+ "updated_at": "2026-10-11T07:12:51.030486+08:00",
+ "count": 33,
  "items": [
   {
    "id": "hn-49980880",
-   "title": "Grieving the Loss of Details",
+   "title": "Grieving the loss of details",
    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
    "hn_url": "https://news.ycombinator.com/item?id=49980880",
-   "score": 218,
-   "comments": 156,
+   "score": 309,
+   "comments": 248,
    "author": "signa11",
    "time_iso": "2026-10-06T16:37:21+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 218
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 309
     }
    ]
   },
@@ -24,14 +28,18 @@
    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
    "url": "https://openscad.org/",
    "hn_url": "https://news.ycombinator.com/item?id=49984349",
-   "score": 42,
-   "comments": 40,
+   "score": 82,
+   "comments": 75,
    "author": "b-man",
    "time_iso": "2026-10-06T21:22:44+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 82
     }
    ]
   },
@@ -56,14 +64,18 @@
    "title": "2D Vehicles",
    "url": "https://patkerr.co.uk/2d-vehicles/",
    "hn_url": "https://news.ycombinator.com/item?id=49991852",
-   "score": 56,
-   "comments": 12,
+   "score": 306,
+   "comments": 72,
    "author": "Michelangelo11",
    "time_iso": "2026-10-07T12:30:40+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 56
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 306
     }
    ]
   },
@@ -80,6 +92,22 @@
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 272
+    }
+   ]
+  },
+  {
+   "id": "hn-49998116",
+   "title": "A nuclear clock synchronized to 229Th",
+   "url": "https://www.nature.com/articles/s41586-026-11122-1",
+   "hn_url": "https://news.ycombinator.com/item?id=49998116",
+   "score": 11,
+   "comments": 2,
+   "author": "sbulaev",
+   "time_iso": "2026-10-07T20:07:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 11
     }
    ]
   },
@@ -104,14 +132,18 @@
    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
    "hn_url": "https://news.ycombinator.com/item?id=50016956",
-   "score": 108,
-   "comments": 21,
+   "score": 145,
+   "comments": 32,
    "author": "smokel",
    "time_iso": "2026-10-09T06:52:49+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 108
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 145
     }
    ]
   },
@@ -120,14 +152,34 @@
    "title": "Nix wrote half of my debugger",
    "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
    "hn_url": "https://news.ycombinator.com/item?id=50017247",
-   "score": 3,
-   "comments": 0,
+   "score": 91,
+   "comments": 7,
    "author": "ingve",
    "time_iso": "2026-10-09T07:29:08+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 91
+    }
+   ]
+  },
+  {
+   "id": "hn-50021899",
+   "title": "Five months treating bugs like patients and coding agents like a medical team",
+   "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+   "hn_url": "https://news.ycombinator.com/item?id=50021899",
+   "score": 16,
+   "comments": 6,
+   "author": "rafiss",
+   "time_iso": "2026-10-09T15:26:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 16
     }
    ]
   },
@@ -152,14 +204,50 @@
    "title": "Rampart: Browser native on-device PII radaction",
    "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
    "hn_url": "https://news.ycombinator.com/item?id=50024242",
-   "score": 49,
-   "comments": 19,
+   "score": 62,
+   "comments": 28,
    "author": "nateb2022",
    "time_iso": "2026-10-09T17:52:07+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50027257",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "url": "https://epoch.ai/publications/innovationeval",
+   "hn_url": "https://news.ycombinator.com/item?id=50027257",
+   "score": 62,
+   "comments": 49,
+   "author": "merksittich",
+   "time_iso": "2026-10-09T22:14:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50028162",
+   "title": "How strong is the strong interaction?",
+   "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+   "hn_url": "https://news.ycombinator.com/item?id=50028162",
+   "score": 41,
+   "comments": 10,
+   "author": "EA-3167",
+   "time_iso": "2026-10-10T00:13:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 41
     }
    ]
   },
@@ -168,14 +256,18 @@
    "title": "REA Reverse – Engineer Anything",
    "url": "https://rea.tools/",
    "hn_url": "https://news.ycombinator.com/item?id=50028275",
-   "score": 632,
-   "comments": 272,
+   "score": 669,
+   "comments": 294,
    "author": "modinfo",
    "time_iso": "2026-10-10T00:37:07+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 632
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 669
     }
    ]
   },
@@ -184,14 +276,34 @@
    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
    "hn_url": "https://news.ycombinator.com/item?id=50029123",
-   "score": 358,
-   "comments": 192,
+   "score": 397,
+   "comments": 243,
    "author": "g-b-r",
    "time_iso": "2026-10-10T03:02:47+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 358
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 397
+    }
+   ]
+  },
+  {
+   "id": "hn-50029487",
+   "title": "The Lightbulb Computer",
+   "url": "https://lightbulbcomputer.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50029487",
+   "score": 151,
+   "comments": 37,
+   "author": "oskarth",
+   "time_iso": "2026-10-10T04:12:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 151
     }
    ]
   },
@@ -216,14 +328,18 @@
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "url": "https://github.com/rociiu/talorys",
    "hn_url": "https://news.ycombinator.com/item?id=50031614",
-   "score": 194,
-   "comments": 101,
+   "score": 228,
+   "comments": 114,
    "author": "rociiu",
    "time_iso": "2026-10-10T10:52:09+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 194
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 228
     }
    ]
   },
@@ -232,14 +348,18 @@
    "title": "Apple/macOS removed from official Unix registry",
    "url": "https://www.opengroup.org//openbrand/register/",
    "hn_url": "https://news.ycombinator.com/item?id=50031653",
-   "score": 181,
-   "comments": 173,
+   "score": 230,
+   "comments": 207,
    "author": "john_alan",
    "time_iso": "2026-10-10T10:57:31+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 181
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 230
     }
    ]
   },
@@ -248,14 +368,18 @@
    "title": "I would like the value of my home to rise, while my property taxes fall",
    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
    "hn_url": "https://news.ycombinator.com/item?id=50032758",
-   "score": 149,
-   "comments": 320,
+   "score": 192,
+   "comments": 461,
    "author": "colinprince",
    "time_iso": "2026-10-10T13:29:03+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 192
     }
    ]
   },
@@ -264,14 +388,18 @@
    "title": "Unikernels were hard. key word: were",
    "url": "https://ghuntley.com/unikernels/",
    "hn_url": "https://news.ycombinator.com/item?id=50033357",
-   "score": 17,
-   "comments": 10,
+   "score": 68,
+   "comments": 30,
    "author": "ghuntley",
    "time_iso": "2026-10-10T14:27:09+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 17
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 68
     }
    ]
   },
@@ -280,14 +408,18 @@
    "title": "Bitwarden Dual License Model",
    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
    "hn_url": "https://news.ycombinator.com/item?id=50033407",
-   "score": 270,
-   "comments": 205,
+   "score": 328,
+   "comments": 240,
    "author": "Cider9986",
    "time_iso": "2026-10-10T14:32:50+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 270
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 328
     }
    ]
   },
@@ -328,14 +460,18 @@
    "title": "Knuth reward check",
    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
    "hn_url": "https://news.ycombinator.com/item?id=50034081",
-   "score": 85,
-   "comments": 32,
+   "score": 125,
+   "comments": 47,
    "author": "Curiositry",
    "time_iso": "2026-10-10T15:47:01+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 125
     }
    ]
   },
@@ -344,14 +480,18 @@
    "title": "Why DuckDB 2.0 is faster",
    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
    "hn_url": "https://news.ycombinator.com/item?id=50035530",
-   "score": 14,
-   "comments": 1,
+   "score": 107,
+   "comments": 34,
    "author": "tosh",
    "time_iso": "2026-10-10T18:08:49+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 107
     }
    ]
   },
@@ -376,14 +516,18 @@
    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "hn_url": "https://news.ycombinator.com/item?id=50035886",
-   "score": 27,
-   "comments": 15,
+   "score": 94,
+   "comments": 59,
    "author": "arkj",
    "time_iso": "2026-10-10T18:48:35+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 94
     }
    ]
   },
@@ -392,14 +536,66 @@
    "title": "Takeshi's Castle",
    "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
    "hn_url": "https://news.ycombinator.com/item?id=50036119",
-   "score": 16,
-   "comments": 5,
+   "score": 84,
+   "comments": 30,
    "author": "tosh",
    "time_iso": "2026-10-10T19:12:55+00:00",
    "history": [
     {
      "t": "2026-10-11T03:44:25.612484+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 84
+    }
+   ]
+  },
+  {
+   "id": "hn-50036864",
+   "title": "A city-building game in which the city would prefer you didn't",
+   "url": "https://housing.over.pizza/",
+   "hn_url": "https://news.ycombinator.com/item?id=50036864",
+   "score": 88,
+   "comments": 34,
+   "author": "JumpCrisscross",
+   "time_iso": "2026-10-10T20:31:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 88
+    }
+   ]
+  },
+  {
+   "id": "hn-50037299",
+   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50037299",
+   "score": 23,
+   "comments": 8,
+   "author": "PicardManeuver",
+   "time_iso": "2026-10-10T21:19:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50037949",
+   "title": "Build your own decision model",
+   "url": "https://nishtahir.com/build-your-own-decision-model/",
+   "hn_url": "https://news.ycombinator.com/item?id=50037949",
+   "score": 3,
+   "comments": 0,
+   "author": "softwaredoug",
+   "time_iso": "2026-10-10T22:50:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T07:12:51.030486+08:00",
+     "score": 3
     }
    ]
   }
