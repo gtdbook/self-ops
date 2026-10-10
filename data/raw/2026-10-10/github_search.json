@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-10T17:22:55.613466+08:00",
- "count": 23,
+ "updated_at": "2026-10-10T23:41:28.786533+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1403115747",
@@ -45,7 +45,7 @@
    "id": "gh-1404266247",
    "title": "kargulstudio/sales-crm",
    "url": "https://github.com/kargulstudio/sales-crm",
-   "stars": 1678,
+   "stars": 1685,
    "language": "TypeScript",
    "description": "",
    "created_at": "2026-10-04T10:55:58Z",
@@ -65,6 +65,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1678
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1685
     }
    ]
   },
@@ -72,7 +76,7 @@
    "id": "gh-1404743796",
    "title": "rauchg/gdp-ts",
    "url": "https://github.com/rauchg/gdp-ts",
-   "stars": 771,
+   "stars": 774,
    "language": "TypeScript",
    "description": "",
    "created_at": "2026-10-04T18:55:18Z",
@@ -92,6 +96,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 771
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 774
     }
    ]
   },
@@ -133,7 +141,7 @@
    "id": "gh-1406706284",
    "title": "alchaincyf/huashu-art-motion",
    "url": "https://github.com/alchaincyf/huashu-art-motion",
-   "stars": 3064,
+   "stars": 3140,
    "language": "JavaScript",
    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
    "created_at": "2026-10-06T04:49:37Z",
@@ -153,6 +161,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 3064
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 3140
     }
    ]
   },
@@ -160,7 +172,7 @@
    "id": "gh-1407504032",
    "title": "zhongerxin/iPhone-use",
    "url": "https://github.com/zhongerxin/iPhone-use",
-   "stars": 2270,
+   "stars": 2473,
    "language": "Python",
    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
    "created_at": "2026-10-06T15:09:33Z",
@@ -180,6 +192,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 2270
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 2473
     }
    ]
   },
@@ -187,7 +203,7 @@
    "id": "gh-1407873347",
    "title": "LosaLosSantos/aurelio-finance",
    "url": "https://github.com/LosaLosSantos/aurelio-finance",
-   "stars": 1559,
+   "stars": 1826,
    "language": "Python",
    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
    "created_at": "2026-10-06T20:14:19Z",
@@ -207,6 +223,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1559
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1826
     }
    ]
   },
@@ -214,7 +234,7 @@
    "id": "gh-1407950271",
    "title": "openai/math",
    "url": "https://github.com/openai/math",
-   "stars": 13387,
+   "stars": 13563,
    "language": "Lean",
    "description": "",
    "created_at": "2026-10-06T21:47:02Z",
@@ -234,6 +254,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 13387
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 13563
     }
    ]
   },
@@ -241,7 +265,7 @@
    "id": "gh-1408099862",
    "title": "alejandrobujan/tendedero",
    "url": "https://github.com/alejandrobujan/tendedero",
-   "stars": 1338,
+   "stars": 1484,
    "language": "Swift",
    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
    "created_at": "2026-10-07T01:29:54Z",
@@ -261,6 +285,25 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1338
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1484
+    }
+   ]
+  },
+  {
+   "id": "gh-1408277479",
+   "title": "HelixDB/helix-foundry",
+   "url": "https://github.com/HelixDB/helix-foundry",
+   "stars": 819,
+   "language": "TypeScript",
+   "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+   "created_at": "2026-10-07T05:10:45Z",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 819
     }
    ]
   },
@@ -268,7 +311,7 @@
    "id": "gh-1408284340",
    "title": "pingdotgg/ts-rust",
    "url": "https://github.com/pingdotgg/ts-rust",
-   "stars": 841,
+   "stars": 913,
    "language": "Rust",
    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
    "created_at": "2026-10-07T05:17:07Z",
@@ -288,6 +331,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 841
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 913
     }
    ]
   },
@@ -295,7 +342,7 @@
    "id": "gh-1408285582",
    "title": "storytold/gridcraft",
    "url": "https://github.com/storytold/gridcraft",
-   "stars": 1419,
+   "stars": 1589,
    "language": "Rust",
    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
    "created_at": "2026-10-07T05:18:16Z",
@@ -315,6 +362,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1419
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1589
     }
    ]
   },
@@ -322,7 +373,7 @@
    "id": "gh-1408289866",
    "title": "storytold/cadcraft",
    "url": "https://github.com/storytold/cadcraft",
-   "stars": 1518,
+   "stars": 1656,
    "language": "Rust",
    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
    "created_at": "2026-10-07T05:22:31Z",
@@ -342,6 +393,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1518
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1656
     }
    ]
   },
@@ -349,7 +404,7 @@
    "id": "gh-1408294296",
    "title": "storytold/deckcraft",
    "url": "https://github.com/storytold/deckcraft",
-   "stars": 1102,
+   "stars": 1254,
    "language": "Rust",
    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
    "created_at": "2026-10-07T05:27:21Z",
@@ -369,6 +424,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1102
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1254
     }
    ]
   },
@@ -376,7 +435,7 @@
    "id": "gh-1408465463",
    "title": "nullmoth/nvidia-macos-driver",
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-   "stars": 2077,
+   "stars": 2214,
    "language": "Rust",
    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
    "created_at": "2026-10-07T08:13:12Z",
@@ -396,6 +455,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 2077
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 2214
     }
    ]
   },
@@ -403,7 +466,7 @@
    "id": "gh-1408486424",
    "title": "storytold/soundcraft",
    "url": "https://github.com/storytold/soundcraft",
-   "stars": 1105,
+   "stars": 1186,
    "language": "Rust",
    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
    "created_at": "2026-10-07T08:31:31Z",
@@ -423,6 +486,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1105
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1186
     }
    ]
   },
@@ -430,7 +497,7 @@
    "id": "gh-1408489772",
    "title": "storytold/wordcraft",
    "url": "https://github.com/storytold/wordcraft",
-   "stars": 2323,
+   "stars": 2748,
    "language": "Rust",
    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
    "created_at": "2026-10-07T08:34:24Z",
@@ -450,6 +517,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 2323
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 2748
     }
    ]
   },
@@ -457,7 +528,7 @@
    "id": "gh-1408493106",
    "title": "shadany7824/playgta5",
    "url": "https://github.com/shadany7824/playgta5",
-   "stars": 1074,
+   "stars": 1141,
    "language": "JavaScript",
    "description": "A source code for playgta5.com.",
    "created_at": "2026-10-07T08:37:15Z",
@@ -477,6 +548,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1074
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1141
     }
    ]
   },
@@ -484,7 +559,7 @@
    "id": "gh-1408557215",
    "title": "LoreanXavier/pt-pc",
    "url": "https://github.com/LoreanXavier/pt-pc",
-   "stars": 1248,
+   "stars": 1283,
    "language": "C++",
    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
    "created_at": "2026-10-07T09:33:31Z",
@@ -504,6 +579,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1248
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1283
     }
    ]
   },
@@ -511,7 +590,7 @@
    "id": "gh-1409787646",
    "title": "mhtsec/ARTEX",
    "url": "https://github.com/mhtsec/ARTEX",
-   "stars": 2640,
+   "stars": 2833,
    "language": "Go",
    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
    "created_at": "2026-10-08T05:33:06Z",
@@ -531,6 +610,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 2640
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 2833
     }
    ]
   },
@@ -538,7 +621,7 @@
    "id": "gh-1409860044",
    "title": "t4t5/omdrop-owl",
    "url": "https://github.com/t4t5/omdrop-owl",
-   "stars": 816,
+   "stars": 1110,
    "language": "Shell",
    "description": "airdrop for non-apple devices",
    "created_at": "2026-10-08T06:38:33Z",
@@ -546,6 +629,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 816
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1110
     }
    ]
   },
@@ -553,7 +640,7 @@
    "id": "gh-1410750399",
    "title": "noahdunnagan/fsearch",
    "url": "https://github.com/noahdunnagan/fsearch",
-   "stars": 1335,
+   "stars": 1455,
    "language": "Rust",
    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
    "created_at": "2026-10-08T17:50:33Z",
@@ -573,6 +660,10 @@
     {
      "t": "2026-10-10T17:22:55.613466+08:00",
      "score": 1335
+    },
+    {
+     "t": "2026-10-10T23:41:28.786533+08:00",
+     "score": 1455
     }
    ]
   }

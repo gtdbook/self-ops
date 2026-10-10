@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-10T17:22:54.826220+08:00",
- "count": 63,
+ "updated_at": "2026-10-10T23:41:27.981314+08:00",
+ "count": 74,
  "items": [
   {
    "id": "hn-49980208",
@@ -24,14 +24,34 @@
    "title": "How to head into VR without wearing a headset",
    "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
    "hn_url": "https://news.ycombinator.com/item?id=49981264",
-   "score": 31,
-   "comments": 11,
+   "score": 55,
+   "comments": 27,
    "author": "Betelbuddy",
    "time_iso": "2026-10-06T17:07:12+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-49981508",
+   "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+   "url": "https://www.datocms.com/blog/handling-less-common-scripts",
+   "hn_url": "https://news.ycombinator.com/item?id=49981508",
+   "score": 33,
+   "comments": 20,
+   "author": "steffoz",
+   "time_iso": "2026-10-06T17:24:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 33
     }
    ]
   },
@@ -88,6 +108,22 @@
    ]
   },
   {
+   "id": "hn-49986919",
+   "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+   "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+   "hn_url": "https://news.ycombinator.com/item?id=49986919",
+   "score": 62,
+   "comments": 16,
+   "author": "geox",
+   "time_iso": "2026-10-07T01:44:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
    "id": "hn-49995495",
    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
@@ -105,17 +141,21 @@
   },
   {
    "id": "hn-49997481",
-   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
    "hn_url": "https://news.ycombinator.com/item?id=49997481",
-   "score": 148,
-   "comments": 34,
+   "score": 231,
+   "comments": 48,
    "author": "ortusdux",
    "time_iso": "2026-10-07T19:15:57+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 148
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 231
     }
    ]
   },
@@ -132,6 +172,22 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-49998801",
+   "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+   "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+   "hn_url": "https://news.ycombinator.com/item?id=49998801",
+   "score": 154,
+   "comments": 115,
+   "author": "tonymet",
+   "time_iso": "2026-10-07T21:06:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 154
     }
    ]
   },
@@ -212,6 +268,22 @@
    ]
   },
   {
+   "id": "hn-50005743",
+   "title": "C for Rust Programmers",
+   "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+   "hn_url": "https://news.ycombinator.com/item?id=50005743",
+   "score": 71,
+   "comments": 57,
+   "author": "xyproto",
+   "time_iso": "2026-10-08T13:44:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 71
+    }
+   ]
+  },
+  {
    "id": "hn-50006734",
    "title": "Vegetative Electron Microscopy WTF? (2025)",
    "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
@@ -264,14 +336,18 @@
    "title": "Cube Type – Isometric Typography Generator",
    "url": "https://typeincube.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50010986",
-   "score": 9,
-   "comments": 0,
+   "score": 42,
+   "comments": 10,
    "author": "eustoria",
    "time_iso": "2026-10-08T19:41:19+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 9
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 42
     }
    ]
   },
@@ -312,6 +388,22 @@
     {
      "t": "2026-10-10T06:14:25.424751+08:00",
      "score": 168
+    }
+   ]
+  },
+  {
+   "id": "hn-50016956",
+   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+   "hn_url": "https://news.ycombinator.com/item?id=50016956",
+   "score": 26,
+   "comments": 1,
+   "author": "smokel",
+   "time_iso": "2026-10-09T06:52:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 26
     }
    ]
   },
@@ -496,8 +588,8 @@
    "title": "Cloudflare acquires Deno",
    "url": "https://deno.com/blog/cloudflare",
    "hn_url": "https://news.ycombinator.com/item?id=50019911",
-   "score": 1221,
-   "comments": 617,
+   "score": 1298,
+   "comments": 667,
    "author": "ilreb",
    "time_iso": "2026-10-09T13:03:48+00:00",
    "history": [
@@ -516,6 +608,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 1221
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 1298
     }
    ]
   },
@@ -624,8 +720,8 @@
    "title": "Can you use autoregressive diffusion to generate market data?",
    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
    "hn_url": "https://news.ycombinator.com/item?id=50021410",
-   "score": 84,
-   "comments": 25,
+   "score": 141,
+   "comments": 41,
    "author": "jsomers",
    "time_iso": "2026-10-09T14:56:13+00:00",
    "history": [
@@ -636,6 +732,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 141
     }
    ]
   },
@@ -684,8 +784,8 @@
    "title": "Triple-A Minesweeper",
    "url": "https://minesweeper.mikelacher.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50022292",
-   "score": 952,
-   "comments": 183,
+   "score": 1176,
+   "comments": 231,
    "author": "robin_reala",
    "time_iso": "2026-10-09T15:51:05+00:00",
    "history": [
@@ -700,6 +800,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 952
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 1176
     }
    ]
   },
@@ -740,8 +844,8 @@
    "title": "Typesafe AI raises $870M at $7.5B",
    "url": "https://typesafe.ai/blog/series-ai",
    "hn_url": "https://news.ycombinator.com/item?id=50023450",
-   "score": 368,
-   "comments": 272,
+   "score": 409,
+   "comments": 326,
    "author": "tosh",
    "time_iso": "2026-10-09T17:02:31+00:00",
    "history": [
@@ -756,6 +860,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 368
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 409
     }
    ]
   },
@@ -764,14 +872,18 @@
    "title": "Scam American companies are using to manipulate ingredient lists",
    "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
    "hn_url": "https://news.ycombinator.com/item?id=50023995",
-   "score": 117,
-   "comments": 128,
+   "score": 175,
+   "comments": 194,
    "author": "bilsbie",
    "time_iso": "2026-10-09T17:35:40+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 117
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 175
     }
    ]
   },
@@ -800,8 +912,8 @@
    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50024090",
-   "score": 115,
-   "comments": 22,
+   "score": 158,
+   "comments": 42,
    "author": "matt_d",
    "time_iso": "2026-10-09T17:42:12+00:00",
    "history": [
@@ -812,6 +924,26 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 115
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 158
+    }
+   ]
+  },
+  {
+   "id": "hn-50024242",
+   "title": "Rampart: Browser native on-device PII radaction",
+   "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+   "hn_url": "https://news.ycombinator.com/item?id=50024242",
+   "score": 14,
+   "comments": 3,
+   "author": "nateb2022",
+   "time_iso": "2026-10-09T17:52:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 14
     }
    ]
   },
@@ -820,8 +952,8 @@
    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
    "url": "https://carrierexplode.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50024499",
-   "score": 317,
-   "comments": 41,
+   "score": 376,
+   "comments": 45,
    "author": "simplyalec",
    "time_iso": "2026-10-09T18:10:55+00:00",
    "history": [
@@ -836,6 +968,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 317
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 376
     }
    ]
   },
@@ -1012,8 +1148,8 @@
    "title": "Compiling Rust to readable C with Eurydice",
    "url": "https://lwn.net/Articles/1055211/",
    "hn_url": "https://news.ycombinator.com/item?id=50027853",
-   "score": 75,
-   "comments": 14,
+   "score": 109,
+   "comments": 33,
    "author": "peter_d_sherman",
    "time_iso": "2026-10-09T23:28:36+00:00",
    "history": [
@@ -1024,6 +1160,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 109
     }
    ]
   },
@@ -1048,14 +1188,18 @@
    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
    "hn_url": "https://news.ycombinator.com/item?id=50028027",
-   "score": 67,
-   "comments": 11,
+   "score": 122,
+   "comments": 29,
    "author": "luu",
    "time_iso": "2026-10-09T23:53:08+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 122
     }
    ]
   },
@@ -1096,8 +1240,8 @@
    "title": "REA Reverse – Engineer Anything",
    "url": "https://rea.tools/",
    "hn_url": "https://news.ycombinator.com/item?id=50028275",
-   "score": 403,
-   "comments": 147,
+   "score": 554,
+   "comments": 243,
    "author": "modinfo",
    "time_iso": "2026-10-10T00:37:07+00:00",
    "history": [
@@ -1108,6 +1252,10 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 403
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 554
     }
    ]
   },
@@ -1116,14 +1264,18 @@
    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
    "hn_url": "https://news.ycombinator.com/item?id=50029123",
-   "score": 151,
-   "comments": 66,
+   "score": 283,
+   "comments": 145,
    "author": "g-b-r",
    "time_iso": "2026-10-10T03:02:47+00:00",
    "history": [
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 151
+    },
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 283
     }
    ]
   },
@@ -1156,6 +1308,86 @@
     {
      "t": "2026-10-10T17:22:54.826220+08:00",
      "score": 63
+    }
+   ]
+  },
+  {
+   "id": "hn-50031269",
+   "title": "`123456' password used in Danish CPR data breach",
+   "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+   "hn_url": "https://news.ycombinator.com/item?id=50031269",
+   "score": 292,
+   "comments": 166,
+   "author": "baal80spam",
+   "time_iso": "2026-10-10T09:51:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 292
+    }
+   ]
+  },
+  {
+   "id": "hn-50031614",
+   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "url": "https://github.com/rociiu/talorys",
+   "hn_url": "https://news.ycombinator.com/item?id=50031614",
+   "score": 111,
+   "comments": 57,
+   "author": "rociiu",
+   "time_iso": "2026-10-10T10:52:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 111
+    }
+   ]
+  },
+  {
+   "id": "hn-50031653",
+   "title": "Apple/macOS silently removed from official Unix registry",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "hn_url": "https://news.ycombinator.com/item?id=50031653",
+   "score": 112,
+   "comments": 118,
+   "author": "john_alan",
+   "time_iso": "2026-10-10T10:57:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 112
+    }
+   ]
+  },
+  {
+   "id": "hn-50033407",
+   "title": "Bitwarden Dual License Model",
+   "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+   "hn_url": "https://news.ycombinator.com/item?id=50033407",
+   "score": 90,
+   "comments": 41,
+   "author": "Cider9986",
+   "time_iso": "2026-10-10T14:32:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "id": "hn-50033517",
+   "title": "My personal AI agent posted my bank details on company Slack",
+   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+   "hn_url": "https://news.ycombinator.com/item?id=50033517",
+   "score": 17,
+   "comments": 14,
+   "author": "bhrlady",
+   "time_iso": "2026-10-10T14:46:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-10T23:41:27.981314+08:00",
+     "score": 17
     }
    ]
   }
