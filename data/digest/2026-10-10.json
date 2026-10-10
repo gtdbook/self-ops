@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T06:14:27.760121+08:00",
+ "generated_at": "2026-10-10T10:03:52.310162+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Cloudflare acquires Deno",
      "url": "https://deno.com/blog/cloudflare",
-     "meta": "+307 分 / 4.9 小时 · 现 ⭐ 965",
+     "meta": "+414 分 / 8.8 小时 · 现 ⭐ 1072",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,15 @@
     {
      "title": "Sorry, I'm in a meeting",
      "url": "https://iminafleeting.com/",
-     "meta": "+250 分 / 4.9 小时 · 现 ⭐ 682",
+     "meta": "+338 分 / 8.8 小时 · 现 ⭐ 770",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "+253 分 / 3.8 小时 · 现 ⭐ 665",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +34,15 @@
     {
      "title": "Our $445M Series D",
      "url": "https://oxide.computer/blog/our-445m-series-d",
-     "meta": "+182 分 / 4.9 小时 · 现 ⭐ 536",
+     "meta": "+243 分 / 8.8 小时 · 现 ⭐ 597",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "meta": "+242 分 / 3.8 小时 · 现 ⭐ 421",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -48,41 +64,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+     "meta": "+94 分 / 8.8 小时 · 现 ⭐ 379",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+     "url": "https://carrierexplode.com/",
+     "meta": "+75 分 / 3.8 小时 · 现 ⭐ 218",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Yes, and",
      "url": "https://htmx.org/essays/yes-and/",
      "meta": "+74 分 / 4.9 小时 · 现 ⭐ 719",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-     "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-     "meta": "+71 分 / 4.9 小时 · 现 ⭐ 166",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-     "meta": "+69 分 / 4.9 小时 · 现 ⭐ 354",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Keyboard differences between Windows and Macs",
-     "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-     "meta": "+56 分 / 4.9 小时 · 现 ⭐ 314",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A statement on the Tor Project's relationship with Mullvad",
-     "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-     "meta": "+49 分 / 4.9 小时 · 现 ⭐ 86",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 13033 · Lean",
+     "meta": "⭐ 13113 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 2855 · JavaScript",
+     "meta": "⭐ 2897 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -240,48 +240,56 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 2120 · Go",
+     "meta": "⭐ 2244 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "nullmoth/nvidia-macos-driver",
-     "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 1824 · Rust",
-     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 1762 · Rust",
+     "meta": "⭐ 1918 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "kargulstudio/sales-crm",
-     "url": "https://github.com/kargulstudio/sales-crm",
-     "meta": "⭐ 1675 · TypeScript",
-     "summary": "",
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "meta": "⭐ 1890 · Rust",
+     "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "zhongerxin/iPhone-use",
      "url": "https://github.com/zhongerxin/iPhone-use",
-     "meta": "⭐ 1664 · Python",
+     "meta": "⭐ 1837 · Python",
      "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kargulstudio/sales-crm",
+     "url": "https://github.com/kargulstudio/sales-crm",
+     "meta": "⭐ 1677 · TypeScript",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "LosaLosSantos/aurelio-finance",
      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-     "meta": "⭐ 1457 · Python",
+     "meta": "⭐ 1555 · Python",
      "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/cadcraft",
+     "url": "https://github.com/storytold/cadcraft",
+     "meta": "⭐ 1390 · Rust",
+     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -294,49 +302,41 @@
      "origin_source": "github_search"
     },
     {
-     "title": "storytold/cadcraft",
-     "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 1316 · Rust",
-     "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+     "title": "storytold/gridcraft",
+     "url": "https://github.com/storytold/gridcraft",
+     "meta": "⭐ 1212 · Rust",
+     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "LoreanXavier/pt-pc",
      "url": "https://github.com/LoreanXavier/pt-pc",
-     "meta": "⭐ 1190 · C++",
+     "meta": "⭐ 1210 · C++",
      "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "alejandrobujan/tendedero",
-     "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 1178 · Swift",
-     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "storytold/gridcraft",
-     "url": "https://github.com/storytold/gridcraft",
-     "meta": "⭐ 1124 · Rust",
-     "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "noahdunnagan/fsearch",
      "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 1096 · Rust",
+     "meta": "⭐ 1191 · Rust",
      "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1187 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "shadany7824/playgta5",
      "url": "https://github.com/shadany7824/playgta5",
-     "meta": "⭐ 1003 · JavaScript",
+     "meta": "⭐ 1022 · JavaScript",
      "summary": "A source code for playgta5.com.",
      "reason": null,
      "origin_source": "github_search"
@@ -349,17 +349,17 @@
    "errors": [],
    "items": [
     {
-     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-     "meta": "⭐ 972 · 💬 882",
+     "title": "Cloudflare acquires Deno",
+     "url": "https://deno.com/blog/cloudflare",
+     "meta": "⭐ 1072 · 💬 559",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Cloudflare acquires Deno",
-     "url": "https://deno.com/blog/cloudflare",
-     "meta": "⭐ 965 · 💬 506",
+     "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+     "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+     "meta": "⭐ 972 · 💬 882",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,6 +389,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Sorry, I'm in a meeting",
+     "url": "https://iminafleeting.com/",
+     "meta": "⭐ 770 · 💬 242",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Yes, and",
      "url": "https://htmx.org/essays/yes-and/",
      "meta": "⭐ 719 · 💬 285",
@@ -397,9 +405,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Sorry, I'm in a meeting",
-     "url": "https://iminafleeting.com/",
-     "meta": "⭐ 682 · 💬 216",
+     "title": "Triple-A Minesweeper",
+     "url": "https://minesweeper.mikelacher.com/",
+     "meta": "⭐ 665 · 💬 122",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +415,7 @@
     {
      "title": "Our $445M Series D",
      "url": "https://oxide.computer/blog/our-445m-series-d",
-     "meta": "⭐ 536 · 💬 232",
+     "meta": "⭐ 597 · 💬 267",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,6 +429,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "meta": "⭐ 421 · 💬 230",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
      "meta": "⭐ 413 · 💬 211",
@@ -429,9 +445,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Triple-A Minesweeper",
-     "url": "https://minesweeper.mikelacher.com/",
-     "meta": "⭐ 412 · 💬 88",
+     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+     "meta": "⭐ 379 · 💬 166",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,25 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-     "meta": "⭐ 354 · 💬 152",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Keyboard differences between Windows and Macs",
      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
      "meta": "⭐ 314 · 💬 255",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-     "meta": "⭐ 292 · 💬 192",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
