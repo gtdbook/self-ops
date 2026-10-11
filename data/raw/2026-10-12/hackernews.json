@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-12T00:32:56.453059+08:00",
- "count": 25,
+ "updated_at": "2026-10-12T04:47:46.186820+08:00",
+ "count": 40,
  "items": [
   {
    "id": "hn-49991852",
@@ -32,6 +32,22 @@
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 95
+    }
+   ]
+  },
+  {
+   "id": "hn-50008566",
+   "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+   "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+   "hn_url": "https://news.ycombinator.com/item?id=50008566",
+   "score": 41,
+   "comments": 22,
+   "author": "peter_d_sherman",
+   "time_iso": "2026-10-08T17:08:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 41
     }
    ]
   },
@@ -116,18 +132,54 @@
    ]
   },
   {
+   "id": "hn-50021989",
+   "title": "I guess I'm using WebP now?",
+   "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+   "hn_url": "https://news.ycombinator.com/item?id=50021989",
+   "score": 31,
+   "comments": 18,
+   "author": "Brajeshwar",
+   "time_iso": "2026-10-09T15:32:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-50028264",
+   "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+   "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+   "hn_url": "https://news.ycombinator.com/item?id=50028264",
+   "score": 43,
+   "comments": 19,
+   "author": "pseudolus",
+   "time_iso": "2026-10-10T00:34:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
    "id": "hn-50028647",
    "title": "The RAM shortage is bringing back DDR4",
    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
    "hn_url": "https://news.ycombinator.com/item?id=50028647",
-   "score": 169,
-   "comments": 152,
+   "score": 243,
+   "comments": 251,
    "author": "1potato",
    "time_iso": "2026-10-10T01:37:08+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 169
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 243
     }
    ]
   },
@@ -164,18 +216,38 @@
    ]
   },
   {
+   "id": "hn-50032253",
+   "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+   "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+   "hn_url": "https://news.ycombinator.com/item?id=50032253",
+   "score": 15,
+   "comments": 0,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-10T12:27:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 15
+    }
+   ]
+  },
+  {
    "id": "hn-50036864",
    "title": "A city-building game in which the city would prefer you didn't",
    "url": "https://housing.over.pizza/",
    "hn_url": "https://news.ycombinator.com/item?id=50036864",
-   "score": 460,
-   "comments": 154,
+   "score": 519,
+   "comments": 171,
    "author": "JumpCrisscross",
    "time_iso": "2026-10-10T20:31:50+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 460
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 519
     }
    ]
   },
@@ -216,14 +288,34 @@
    "title": "LineageOS 24.0",
    "url": "https://lineageos.org/Changelog-32/",
    "hn_url": "https://news.ycombinator.com/item?id=50040276",
-   "score": 282,
-   "comments": 97,
+   "score": 375,
+   "comments": 157,
    "author": "timschumi",
    "time_iso": "2026-10-11T06:18:59+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 282
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 375
+    }
+   ]
+  },
+  {
+   "id": "hn-50040547",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "hn_url": "https://news.ycombinator.com/item?id=50040547",
+   "score": 508,
+   "comments": 609,
+   "author": "defly",
+   "time_iso": "2026-10-11T07:34:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 508
     }
    ]
   },
@@ -264,14 +356,18 @@
    "title": "I paid people to try and follow my README",
    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
    "hn_url": "https://news.ycombinator.com/item?id=50042219",
-   "score": 220,
-   "comments": 113,
+   "score": 338,
+   "comments": 179,
    "author": "edent",
    "time_iso": "2026-10-11T11:47:29+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 220
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 338
     }
    ]
   },
@@ -288,6 +384,10 @@
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 1
     }
    ]
   },
@@ -296,14 +396,18 @@
    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
    "url": "https://betterwispr.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50042333",
-   "score": 46,
-   "comments": 21,
+   "score": 116,
+   "comments": 75,
    "author": "kartik017",
    "time_iso": "2026-10-11T12:01:28+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 116
     }
    ]
   },
@@ -312,14 +416,18 @@
    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
    "url": "https://verdagon.dev/blog/valen-group-borrowing",
    "hn_url": "https://news.ycombinator.com/item?id=50042362",
-   "score": 66,
-   "comments": 26,
+   "score": 117,
+   "comments": 67,
    "author": "verdagon",
    "time_iso": "2026-10-11T12:06:22+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 117
     }
    ]
   },
@@ -328,14 +436,18 @@
    "title": "The tilde in your PATH may not be your HOME",
    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
    "hn_url": "https://news.ycombinator.com/item?id=50042425",
-   "score": 112,
-   "comments": 63,
+   "score": 186,
+   "comments": 117,
    "author": "arusekk",
    "time_iso": "2026-10-11T12:13:13+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 112
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 186
     }
    ]
   },
@@ -344,14 +456,18 @@
    "title": "Terence Tao: Math 2.0 [pdf]",
    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50043026",
-   "score": 118,
-   "comments": 152,
+   "score": 232,
+   "comments": 285,
    "author": "Anon84",
    "time_iso": "2026-10-11T13:16:45+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 118
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 232
     }
    ]
   },
@@ -388,18 +504,182 @@
    ]
   },
   {
+   "id": "hn-50043689",
+   "title": "I'm sorry, but you still have to think",
+   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "hn_url": "https://news.ycombinator.com/item?id=50043689",
+   "score": 248,
+   "comments": 94,
+   "author": "drogus",
+   "time_iso": "2026-10-11T14:29:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 248
+    }
+   ]
+  },
+  {
    "id": "hn-50044272",
    "title": "How I reverse engineered a commercial spatial audio effect",
    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
    "hn_url": "https://news.ycombinator.com/item?id=50044272",
-   "score": 14,
-   "comments": 1,
+   "score": 64,
+   "comments": 23,
    "author": "epestr",
    "time_iso": "2026-10-11T15:21:58+00:00",
    "history": [
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50044989",
+   "title": "Playgrnd – tiny tools for making weird, beautiful things",
+   "url": "https://www.playgrnd.tools/",
+   "hn_url": "https://news.ycombinator.com/item?id=50044989",
+   "score": 32,
+   "comments": 4,
+   "author": "eustoria",
+   "time_iso": "2026-10-11T16:31:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50045273",
+   "title": "apsw: Another Python SQLite Wrapper",
+   "url": "https://github.com/rogerbinns/apsw",
+   "hn_url": "https://news.ycombinator.com/item?id=50045273",
+   "score": 40,
+   "comments": 10,
+   "author": "tosh",
+   "time_iso": "2026-10-11T16:58:22+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50045946",
+   "title": "NYC's \"Click to Cancel\" rule is now in effect",
+   "url": "https://www.nyc.gov/main/click-to-cancel",
+   "hn_url": "https://news.ycombinator.com/item?id=50045946",
+   "score": 201,
+   "comments": 76,
+   "author": "gregsadetsky",
+   "time_iso": "2026-10-11T18:01:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 201
+    }
+   ]
+  },
+  {
+   "id": "hn-50045984",
+   "title": "Total Annihilation, rebuilt for modern computers",
+   "url": "https://nanolathe.gg",
+   "hn_url": "https://news.ycombinator.com/item?id=50045984",
+   "score": 187,
+   "comments": 83,
+   "author": "jttnr",
+   "time_iso": "2026-10-11T18:04:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 187
+    }
+   ]
+  },
+  {
+   "id": "hn-50046241",
+   "title": "Chapter 1 of Ways of Seeing by John Berger",
+   "url": "https://www.ways-of-seeing.com/ch1",
+   "hn_url": "https://news.ycombinator.com/item?id=50046241",
+   "score": 37,
+   "comments": 4,
+   "author": "rafael859",
+   "time_iso": "2026-10-11T18:26:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
+   "id": "hn-50046864",
+   "title": "The Unreasonable Effectiveness of Vex in NixOS",
+   "url": "https://blog.kammel.dev/post/nixos_vex/",
+   "hn_url": "https://news.ycombinator.com/item?id=50046864",
+   "score": 10,
+   "comments": 0,
+   "author": "datosh",
+   "time_iso": "2026-10-11T19:23:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
+   "id": "hn-50047055",
+   "title": "Be The Onion's Hero for Once",
+   "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+   "hn_url": "https://news.ycombinator.com/item?id=50047055",
+   "score": 95,
+   "comments": 3,
+   "author": "mooreds",
+   "time_iso": "2026-10-11T19:43:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 95
+    }
+   ]
+  },
+  {
+   "id": "hn-50047071",
+   "title": "Artificial Insanity",
+   "url": "https://richwhitehouse.com/index.php?postid=78",
+   "hn_url": "https://news.ycombinator.com/item?id=50047071",
+   "score": 14,
+   "comments": 1,
+   "author": "leglock",
+   "time_iso": "2026-10-11T19:44:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-50047091",
+   "title": "Cartographers of North Korea",
+   "url": "https://cartographers-nk.wonyoung.so/",
+   "hn_url": "https://news.ycombinator.com/item?id=50047091",
+   "score": 30,
+   "comments": 1,
+   "author": "edent",
+   "time_iso": "2026-10-11T19:46:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T04:47:46.186820+08:00",
+     "score": 30
     }
    ]
   }
