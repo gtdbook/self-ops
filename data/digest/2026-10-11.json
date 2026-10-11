@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T11:58:06.858511+08:00",
+ "generated_at": "2026-10-11T18:42:47.136236+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "2D Vehicles",
      "url": "https://patkerr.co.uk/2d-vehicles/",
-     "meta": "+333 分 / 8.2 小时 · 现 ⭐ 389",
+     "meta": "+433 分 / 15.0 小时 · 现 ⭐ 489",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,31 @@
     {
      "title": "Build your own decision model",
      "url": "https://nishtahir.com/build-your-own-decision-model/",
-     "meta": "+162 分 / 4.8 小时 · 现 ⭐ 165",
+     "meta": "+313 分 / 11.5 小时 · 现 ⭐ 316",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Lightbulb Computer",
+     "url": "https://lightbulbcomputer.com/",
+     "meta": "+285 分 / 11.5 小时 · 现 ⭐ 436",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A city-building game in which the city would prefer you didn't",
+     "url": "https://housing.over.pizza/",
+     "meta": "+267 分 / 11.5 小时 · 现 ⭐ 355",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nix wrote half of my debugger",
+     "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+     "meta": "+197 分 / 15.0 小时 · 现 ⭐ 200",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -32,14 +56,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Nix wrote half of my debugger",
-     "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-     "meta": "+154 分 / 8.2 小时 · 现 ⭐ 157",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Why DuckDB 2.0 is faster",
      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
      "meta": "+154 分 / 8.2 小时 · 现 ⭐ 168",
@@ -48,17 +64,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Lightbulb Computer",
-     "url": "https://lightbulbcomputer.com/",
-     "meta": "+147 分 / 4.8 小时 · 现 ⭐ 298",
+     "title": "Five months treating bugs like patients and coding agents like a medical team",
+     "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+     "meta": "+122 分 / 11.5 小时 · 现 ⭐ 138",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "A city-building game in which the city would prefer you didn't",
-     "url": "https://housing.over.pizza/",
-     "meta": "+140 分 / 4.8 小时 · 现 ⭐ 228",
+     "title": "Knuth reward check",
+     "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+     "meta": "+110 分 / 15.0 小时 · 现 ⭐ 195",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -67,22 +83,6 @@
      "title": "Unikernels were hard. key word: were",
      "url": "https://ghuntley.com/unikernels/",
      "meta": "+103 分 / 8.2 小时 · 现 ⭐ 120",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Knuth reward check",
-     "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-     "meta": "+83 分 / 8.2 小时 · 现 ⭐ 168",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-     "url": "https://openscad.org/",
-     "meta": "+76 分 / 8.2 小时 · 现 ⭐ 118",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 13728 · Lean",
+     "meta": "⭐ 13856 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 3284 · Rust",
+     "meta": "⭐ 3809 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 3239 · JavaScript",
+     "meta": "⭐ 3311 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 2954 · Go",
+     "meta": "⭐ 3040 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "zhongerxin/iPhone-use",
      "url": "https://github.com/zhongerxin/iPhone-use",
-     "meta": "⭐ 2620 · Python",
+     "meta": "⭐ 2784 · Python",
      "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
      "reason": null,
      "origin_source": "github_search"
@@ -264,23 +264,15 @@
     {
      "title": "nullmoth/nvidia-macos-driver",
      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 2329 · Rust",
+     "meta": "⭐ 2403 · Rust",
      "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "LosaLosSantos/aurelio-finance",
-     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-     "meta": "⭐ 2094 · Python",
-     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "storytold/cadcraft",
      "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 1927 · Rust",
+     "meta": "⭐ 2117 · Rust",
      "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -288,8 +280,40 @@
     {
      "title": "storytold/gridcraft",
      "url": "https://github.com/storytold/gridcraft",
-     "meta": "⭐ 1905 · Rust",
+     "meta": "⭐ 2111 · Rust",
      "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "LosaLosSantos/aurelio-finance",
+     "url": "https://github.com/LosaLosSantos/aurelio-finance",
+     "meta": "⭐ 2100 · Python",
+     "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "t4t5/omdrop-owl",
+     "url": "https://github.com/t4t5/omdrop-owl",
+     "meta": "⭐ 1789 · Shell",
+     "summary": "airdrop for non-apple devices",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "noahdunnagan/fsearch",
+     "url": "https://github.com/noahdunnagan/fsearch",
+     "meta": "⭐ 1748 · Rust",
+     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alejandrobujan/tendedero",
+     "url": "https://github.com/alejandrobujan/tendedero",
+     "meta": "⭐ 1730 · Swift",
+     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -302,33 +326,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "noahdunnagan/fsearch",
-     "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 1652 · Rust",
-     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "alejandrobujan/tendedero",
-     "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 1618 · Swift",
-     "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "t4t5/omdrop-owl",
-     "url": "https://github.com/t4t5/omdrop-owl",
-     "meta": "⭐ 1544 · Shell",
-     "summary": "airdrop for non-apple devices",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "storytold/deckcraft",
      "url": "https://github.com/storytold/deckcraft",
-     "meta": "⭐ 1454 · Rust",
+     "meta": "⭐ 1594 · Rust",
      "summary": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "storytold/soundcraft",
      "url": "https://github.com/storytold/soundcraft",
-     "meta": "⭐ 1358 · Rust",
+     "meta": "⭐ 1476 · Rust",
      "summary": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -365,6 +365,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "2D Vehicles",
+     "url": "https://patkerr.co.uk/2d-vehicles/",
+     "meta": "⭐ 489 · 💬 102",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Lightbulb Computer",
+     "url": "https://lightbulbcomputer.com/",
+     "meta": "⭐ 436 · 💬 66",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
      "meta": "⭐ 397 · 💬 243",
@@ -373,17 +389,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "2D Vehicles",
-     "url": "https://patkerr.co.uk/2d-vehicles/",
-     "meta": "⭐ 389 · 💬 87",
+     "title": "Grieving the loss of details",
+     "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+     "meta": "⭐ 373 · 💬 291",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Grieving the loss of details",
-     "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-     "meta": "⭐ 373 · 💬 291",
+     "title": "A city-building game in which the city would prefer you didn't",
+     "url": "https://housing.over.pizza/",
+     "meta": "⭐ 355 · 💬 120",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,9 +421,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Lightbulb Computer",
-     "url": "https://lightbulbcomputer.com/",
-     "meta": "⭐ 298 · 💬 45",
+     "title": "Build your own decision model",
+     "url": "https://nishtahir.com/build-your-own-decision-model/",
+     "meta": "⭐ 316 · 💬 72",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+     "url": "https://github.com/rociiu/talorys",
+     "meta": "⭐ 296 · 💬 134",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,14 +445,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-     "url": "https://github.com/rociiu/talorys",
-     "meta": "⭐ 264 · 💬 123",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Apple/macOS removed from official Unix registry",
      "url": "https://www.opengroup.org//openbrand/register/",
      "meta": "⭐ 230 · 💬 207",
@@ -437,33 +453,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "A city-building game in which the city would prefer you didn't",
-     "url": "https://housing.over.pizza/",
-     "meta": "⭐ 228 · 💬 83",
+     "title": "3rd Yandex Cloud Data Center Was Hit",
+     "url": "https://status.yandex.cloud/en/incidents/2136",
+     "meta": "⭐ 215 · 💬 284",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "I would like the value of my home to rise, while my property taxes fall",
-     "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-     "meta": "⭐ 192 · 💬 461",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-     "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-     "meta": "⭐ 173 · 💬 39",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Knuth reward check",
-     "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-     "meta": "⭐ 168 · 💬 61",
+     "title": "Nix wrote half of my debugger",
+     "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+     "meta": "⭐ 200 · 💬 47",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -475,6 +475,14 @@
    "emoji": "🎯",
    "errors": [],
    "items": [
+    {
+     "title": "Edgee Mod for Claude Code",
+     "url": "https://www.producthunt.com/products/edgee",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Use any model inside Claude Code, keep your Claude plan",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
     {
      "title": "Comcent",
      "url": "https://www.producthunt.com/products/comcent",
@@ -512,6 +520,14 @@
      "url": "https://www.producthunt.com/products/hallmonitor",
      "meta": "Product Hunt · 2026-10-07",
      "summary": "See and answer every coding agent from your notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Agibot",
+     "url": "https://www.producthunt.com/products/agibot",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "Personal AI agent for your Mac using your own keys",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -556,6 +572,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "EdgeVolume",
+     "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "Control your Mac’s volume from your trackpad edge",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "OpenCharm",
      "url": "https://www.producthunt.com/products/opencharm",
      "meta": "Product Hunt · 2026-10-07",
@@ -568,30 +592,6 @@
      "url": "https://www.producthunt.com/products/buffer-3",
      "meta": "Product Hunt · 2026-03-17",
      "summary": "Search everything you copy, even text inside screenshots",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Moonwalkers Dusk",
-     "url": "https://www.producthunt.com/products/moonwalkers-dusk",
-     "meta": "Product Hunt · 2026-10-03",
-     "summary": "Strap-on motorized wheels that let you walk twice as fast",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Kitbar",
-     "url": "https://www.producthunt.com/products/kitbar",
-     "meta": "Product Hunt · 2026-10-08",
-     "summary": "Your dev tools, in one bar.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Melete",
-     "url": "https://www.producthunt.com/products/melete",
-     "meta": "Product Hunt · 2026-09-30",
-     "summary": "An Always On Personal Agent With a Team Workspace",
      "reason": null,
      "origin_source": "producthunt"
     }

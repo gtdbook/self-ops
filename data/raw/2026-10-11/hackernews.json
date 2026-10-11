@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-11T11:58:04.768547+08:00",
- "count": 44,
+ "updated_at": "2026-10-11T18:42:44.963721+08:00",
+ "count": 54,
  "items": [
   {
    "id": "hn-49980880",
@@ -72,8 +72,8 @@
    "title": "2D Vehicles",
    "url": "https://patkerr.co.uk/2d-vehicles/",
    "hn_url": "https://news.ycombinator.com/item?id=49991852",
-   "score": 389,
-   "comments": 87,
+   "score": 489,
+   "comments": 102,
    "author": "Michelangelo11",
    "time_iso": "2026-10-07T12:30:40+00:00",
    "history": [
@@ -88,6 +88,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 389
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 489
     }
    ]
   },
@@ -128,14 +132,18 @@
    "title": "Retrofitting language models to operate over bytes",
    "url": "https://www.nature.com/articles/s41586-026-11111-4",
    "hn_url": "https://news.ycombinator.com/item?id=50001234",
-   "score": 24,
-   "comments": 0,
+   "score": 70,
+   "comments": 7,
    "author": "theanonymousone",
    "time_iso": "2026-10-08T02:15:16+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 70
     }
    ]
   },
@@ -160,14 +168,34 @@
    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
    "url": "https://github.com/moritzwilksch/diffle",
    "hn_url": "https://news.ycombinator.com/item?id=50006930",
-   "score": 19,
-   "comments": 1,
+   "score": 52,
+   "comments": 7,
    "author": "mwil1000",
    "time_iso": "2026-10-08T15:23:19+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 19
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50009451",
+   "title": "The Marriage That Captures a High Point of American Art",
+   "url": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
+   "hn_url": "https://news.ycombinator.com/item?id=50009451",
+   "score": 7,
+   "comments": 1,
+   "author": "prismatic",
+   "time_iso": "2026-10-08T18:00:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 7
     }
    ]
   },
@@ -176,14 +204,18 @@
    "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
    "url": "https://hangul.ink/blog/hangul-day",
    "hn_url": "https://news.ycombinator.com/item?id=50015833",
-   "score": 17,
-   "comments": 2,
+   "score": 48,
+   "comments": 8,
    "author": "jbaudanza",
    "time_iso": "2026-10-09T03:58:16+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 17
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 48
     }
    ]
   },
@@ -208,8 +240,8 @@
    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
    "hn_url": "https://news.ycombinator.com/item?id=50016956",
-   "score": 173,
-   "comments": 39,
+   "score": 192,
+   "comments": 51,
    "author": "smokel",
    "time_iso": "2026-10-09T06:52:49+00:00",
    "history": [
@@ -224,6 +256,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 173
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 192
     }
    ]
   },
@@ -232,8 +268,8 @@
    "title": "Nix wrote half of my debugger",
    "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
    "hn_url": "https://news.ycombinator.com/item?id=50017247",
-   "score": 157,
-   "comments": 28,
+   "score": 200,
+   "comments": 47,
    "author": "ingve",
    "time_iso": "2026-10-09T07:29:08+00:00",
    "history": [
@@ -248,6 +284,26 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 157
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 200
+    }
+   ]
+  },
+  {
+   "id": "hn-50017548",
+   "title": "How big is a Git commit?",
+   "url": "https://ratfactor.com/cards/git-commit-size",
+   "hn_url": "https://news.ycombinator.com/item?id=50017548",
+   "score": 38,
+   "comments": 17,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-09T08:13:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 38
     }
    ]
   },
@@ -272,8 +328,8 @@
    "title": "Five months treating bugs like patients and coding agents like a medical team",
    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
    "hn_url": "https://news.ycombinator.com/item?id=50021899",
-   "score": 90,
-   "comments": 38,
+   "score": 138,
+   "comments": 56,
    "author": "rafiss",
    "time_iso": "2026-10-09T15:26:33+00:00",
    "history": [
@@ -284,6 +340,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 90
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 138
     }
    ]
   },
@@ -332,14 +392,18 @@
    "title": "Deterministic Simulation Testing in Celld",
    "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
    "hn_url": "https://news.ycombinator.com/item?id=50024805",
-   "score": 3,
-   "comments": 0,
+   "score": 24,
+   "comments": 2,
    "author": "handfuloflight",
    "time_iso": "2026-10-09T18:31:50+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 24
     }
    ]
   },
@@ -396,6 +460,22 @@
    ]
   },
   {
+   "id": "hn-50028647",
+   "title": "Decade-old RAM is making a comeback",
+   "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+   "hn_url": "https://news.ycombinator.com/item?id=50028647",
+   "score": 72,
+   "comments": 64,
+   "author": "1potato",
+   "time_iso": "2026-10-10T01:37:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 72
+    }
+   ]
+  },
+  {
    "id": "hn-50029123",
    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
@@ -420,8 +500,8 @@
    "title": "The Lightbulb Computer",
    "url": "https://lightbulbcomputer.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50029487",
-   "score": 298,
-   "comments": 45,
+   "score": 436,
+   "comments": 66,
    "author": "oskarth",
    "time_iso": "2026-10-10T04:12:26+00:00",
    "history": [
@@ -432,6 +512,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 298
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 436
     }
    ]
   },
@@ -448,6 +532,22 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 122
+    }
+   ]
+  },
+  {
+   "id": "hn-50030558",
+   "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+   "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+   "hn_url": "https://news.ycombinator.com/item?id=50030558",
+   "score": 6,
+   "comments": 0,
+   "author": "sohkamyung",
+   "time_iso": "2026-10-10T07:25:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 6
     }
    ]
   },
@@ -472,8 +572,8 @@
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "url": "https://github.com/rociiu/talorys",
    "hn_url": "https://news.ycombinator.com/item?id=50031614",
-   "score": 264,
-   "comments": 123,
+   "score": 296,
+   "comments": 134,
    "author": "rociiu",
    "time_iso": "2026-10-10T10:52:09+00:00",
    "history": [
@@ -488,6 +588,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 264
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 296
     }
    ]
   },
@@ -612,8 +716,8 @@
    "title": "Knuth reward check",
    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
    "hn_url": "https://news.ycombinator.com/item?id=50034081",
-   "score": 168,
-   "comments": 61,
+   "score": 195,
+   "comments": 71,
    "author": "Curiositry",
    "time_iso": "2026-10-10T15:47:01+00:00",
    "history": [
@@ -628,6 +732,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 168
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 195
     }
    ]
   },
@@ -716,8 +824,8 @@
    "title": "A city-building game in which the city would prefer you didn't",
    "url": "https://housing.over.pizza/",
    "hn_url": "https://news.ycombinator.com/item?id=50036864",
-   "score": 228,
-   "comments": 83,
+   "score": 355,
+   "comments": 120,
    "author": "JumpCrisscross",
    "time_iso": "2026-10-10T20:31:50+00:00",
    "history": [
@@ -728,6 +836,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 228
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 355
     }
    ]
   },
@@ -752,8 +864,8 @@
    "title": "Build your own decision model",
    "url": "https://nishtahir.com/build-your-own-decision-model/",
    "hn_url": "https://news.ycombinator.com/item?id=50037949",
-   "score": 165,
-   "comments": 31,
+   "score": 316,
+   "comments": 72,
    "author": "softwaredoug",
    "time_iso": "2026-10-10T22:50:10+00:00",
    "history": [
@@ -764,6 +876,10 @@
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 165
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 316
     }
    ]
   },
@@ -788,14 +904,18 @@
    "title": "PSPi 6 – Raspberry Pi in a PSP",
    "url": "https://github.com/othermod/PSPi-Version-6",
    "hn_url": "https://news.ycombinator.com/item?id=50038623",
-   "score": 31,
-   "comments": 5,
+   "score": 90,
+   "comments": 7,
    "author": "therepanic",
    "time_iso": "2026-10-11T00:45:49+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 90
     }
    ]
   },
@@ -816,18 +936,118 @@
    ]
   },
   {
+   "id": "hn-50039063",
+   "title": "European Alternatives",
+   "url": "https://buy-european.net/en/alternatives",
+   "hn_url": "https://news.ycombinator.com/item?id=50039063",
+   "score": 71,
+   "comments": 36,
+   "author": "doener",
+   "time_iso": "2026-10-11T01:56:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 71
+    }
+   ]
+  },
+  {
    "id": "hn-50039092",
    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "hn_url": "https://news.ycombinator.com/item?id=50039092",
-   "score": 59,
-   "comments": 41,
+   "score": 100,
+   "comments": 74,
    "author": "davikr",
    "time_iso": "2026-10-11T02:02:38+00:00",
    "history": [
     {
      "t": "2026-10-11T11:58:04.768547+08:00",
      "score": 59
+    },
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 100
+    }
+   ]
+  },
+  {
+   "id": "hn-50040276",
+   "title": "LineageOS 24.0",
+   "url": "https://lineageos.org/Changelog-32/",
+   "hn_url": "https://news.ycombinator.com/item?id=50040276",
+   "score": 114,
+   "comments": 26,
+   "author": "timschumi",
+   "time_iso": "2026-10-11T06:18:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 114
+    }
+   ]
+  },
+  {
+   "id": "hn-50040547",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "hn_url": "https://news.ycombinator.com/item?id=50040547",
+   "score": 215,
+   "comments": 284,
+   "author": "defly",
+   "time_iso": "2026-10-11T07:34:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 215
+    }
+   ]
+  },
+  {
+   "id": "hn-50040625",
+   "title": "I wish you the best in the Offline",
+   "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+   "hn_url": "https://news.ycombinator.com/item?id=50040625",
+   "score": 44,
+   "comments": 22,
+   "author": "birdculture",
+   "time_iso": "2026-10-11T07:53:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 44
+    }
+   ]
+  },
+  {
+   "id": "hn-50041540",
+   "title": "IRCv3",
+   "url": "https://ircv3.net/",
+   "hn_url": "https://news.ycombinator.com/item?id=50041540",
+   "score": 32,
+   "comments": 10,
+   "author": "basilikum",
+   "time_iso": "2026-10-11T10:11:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50041667",
+   "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+   "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+   "hn_url": "https://news.ycombinator.com/item?id=50041667",
+   "score": 3,
+   "comments": 0,
+   "author": "birdculture",
+   "time_iso": "2026-10-11T10:34:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-11T18:42:44.963721+08:00",
+     "score": 3
     }
    ]
   }

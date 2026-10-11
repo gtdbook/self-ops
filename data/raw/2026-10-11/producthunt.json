@@ -1,8 +1,17 @@
 {
  "source": "producthunt",
- "updated_at": "2026-10-11T11:58:06.744664+08:00",
- "count": 88,
+ "updated_at": "2026-10-11T18:42:47.048418+08:00",
+ "count": 114,
  "items": [
+  {
+   "id": "ph-0179535a49fcd8b3",
+   "title": "Edgee Mod for Claude Code",
+   "url": "https://www.producthunt.com/products/edgee",
+   "tagline": "Use any model inside Claude Code, keep your Claude plan",
+   "published": "2026-10-08T01:41:39-07:00",
+   "published_iso": "2026-10-08T08:41:39+00:00",
+   "summary": "Use any model inside Claude Code, keep your Claude plan"
+  },
   {
    "id": "ph-0507d4e293b6708b",
    "title": "Comcent",
@@ -47,6 +56,15 @@
    "published": "2026-10-07T09:49:17-07:00",
    "published_iso": "2026-10-07T16:49:17+00:00",
    "summary": "See and answer every coding agent from your notch"
+  },
+  {
+   "id": "ph-0befb606af5fd6e5",
+   "title": "Agibot",
+   "url": "https://www.producthunt.com/products/agibot",
+   "tagline": "Personal AI agent for your Mac using your own keys",
+   "published": "2026-10-10T06:04:39-07:00",
+   "published_iso": "2026-10-10T13:04:39+00:00",
+   "summary": "Personal AI agent for your Mac using your own keys"
   },
   {
    "id": "ph-0c0339f46bb6b431",
@@ -94,6 +112,15 @@
    "summary": "Private, offline AI for iPhone and Android"
   },
   {
+   "id": "ph-18c784621c96fb5f",
+   "title": "EdgeVolume",
+   "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+   "tagline": "Control your Mac’s volume from your trackpad edge",
+   "published": "2026-10-10T00:58:12-07:00",
+   "published_iso": "2026-10-10T07:58:12+00:00",
+   "summary": "Control your Mac’s volume from your trackpad edge"
+  },
+  {
    "id": "ph-1a8e899534e01a81",
    "title": "OpenCharm",
    "url": "https://www.producthunt.com/products/opencharm",
@@ -119,6 +146,33 @@
    "published": "2026-10-03T03:34:34-07:00",
    "published_iso": "2026-10-03T10:34:34+00:00",
    "summary": "Strap-on motorized wheels that let you walk twice as fast"
+  },
+  {
+   "id": "ph-1e99290e4440211a",
+   "title": "DevTerminal",
+   "url": "https://www.producthunt.com/products/devterminal",
+   "tagline": "A macOS terminal with a Run button that knows your project",
+   "published": "2026-10-08T06:33:51-07:00",
+   "published_iso": "2026-10-08T13:33:51+00:00",
+   "summary": "A macOS terminal with a Run button that knows your project"
+  },
+  {
+   "id": "ph-225794644f35473f",
+   "title": "SimpleSpread",
+   "url": "https://www.producthunt.com/products/simplespread",
+   "tagline": "Native, open source Mac spreadsheet",
+   "published": "2026-10-08T17:21:08-07:00",
+   "published_iso": "2026-10-09T00:21:08+00:00",
+   "summary": "Native, open source Mac spreadsheet"
+  },
+  {
+   "id": "ph-24fa2335c5dbc643",
+   "title": "Halo",
+   "url": "https://www.producthunt.com/products/halo-11",
+   "tagline": "Notifications, dictation and AI agents in your Mac's notch",
+   "published": "2026-10-08T01:48:13-07:00",
+   "published_iso": "2026-10-08T08:48:13+00:00",
+   "summary": "Notifications, dictation and AI agents in your Mac's notch"
   },
   {
    "id": "ph-253c8bb64982df98",
@@ -184,6 +238,15 @@
    "summary": "Build and ship anything live, in-meetings"
   },
   {
+   "id": "ph-409a10ca7f8657bd",
+   "title": "Pickle Sensei",
+   "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
+   "tagline": "AI pickleball coach for solo training, one swing at a time",
+   "published": "2026-10-02T18:00:11-07:00",
+   "published_iso": "2026-10-03T01:00:11+00:00",
+   "summary": "AI pickleball coach for solo training, one swing at a time"
+  },
+  {
    "id": "ph-465abd13471d41bf",
    "title": "AgentSDR",
    "url": "https://www.producthunt.com/products/agentsdr",
@@ -200,6 +263,15 @@
    "published": "2026-09-20T02:51:47-07:00",
    "published_iso": "2026-09-20T09:51:47+00:00",
    "summary": "Listen to your documents. Nothing leaves your phone"
+  },
+  {
+   "id": "ph-49c28e2ea2bdd01a",
+   "title": "Tori",
+   "url": "https://www.producthunt.com/products/tori-japanese-listening-srs",
+   "tagline": "Japanese listening practice built from your own sentences",
+   "published": "2026-10-05T07:55:26-07:00",
+   "published_iso": "2026-10-05T14:55:26+00:00",
+   "summary": "Japanese listening practice built from your own sentences"
   },
   {
    "id": "ph-5016f2f8665cbbeb",
@@ -238,6 +310,15 @@
    "summary": "Google Drive sync for Linux"
   },
   {
+   "id": "ph-5778ee93909f505a",
+   "title": "shippedit.me",
+   "url": "https://www.producthunt.com/products/shippedit-me",
+   "tagline": "Launch Platform with SEO, AEO & Growth Insights",
+   "published": "2026-10-07T18:41:14-07:00",
+   "published_iso": "2026-10-08T01:41:14+00:00",
+   "summary": "Launch Platform with SEO, AEO & Growth Insights"
+  },
+  {
    "id": "ph-5b7f07a7b4440ae4",
    "title": "ReSO AI",
    "url": "https://www.producthunt.com/products/reso",
@@ -247,6 +328,24 @@
    "summary": "Get discovered & recommended when customers ask AI"
   },
   {
+   "id": "ph-5f7dae985361dbe6",
+   "title": "FocusWrite",
+   "url": "https://www.producthunt.com/products/focuswrite",
+   "tagline": "A local-first writing app with focus modes.",
+   "published": "2026-10-10T00:08:24-07:00",
+   "published_iso": "2026-10-10T07:08:24+00:00",
+   "summary": "A local-first writing app with focus modes."
+  },
+  {
+   "id": "ph-62184f9caec376eb",
+   "title": "KarmaBoard",
+   "url": "https://www.producthunt.com/products/karmaboard",
+   "tagline": "A vintage split-flap message board for any TV",
+   "published": "2026-10-08T13:49:49-07:00",
+   "published_iso": "2026-10-08T20:49:49+00:00",
+   "summary": "A vintage split-flap message board for any TV"
+  },
+  {
    "id": "ph-62ad47f57b6691ca",
    "title": "Strac Comply",
    "url": "https://www.producthunt.com/products/strac-comply",
@@ -254,6 +353,15 @@
    "published": "2026-10-07T18:39:46-07:00",
    "published_iso": "2026-10-08T01:39:46+00:00",
    "summary": "Get SOC 2 without the sales call"
+  },
+  {
+   "id": "ph-64459a7f0250eebe",
+   "title": "NotchPit",
+   "url": "https://www.producthunt.com/products/notchpit",
+   "tagline": "Your Mac's notch, rearranged into a control center",
+   "published": "2026-10-10T06:31:03-07:00",
+   "published_iso": "2026-10-10T13:31:03+00:00",
+   "summary": "Your Mac's notch, rearranged into a control center"
   },
   {
    "id": "ph-6743b435fb0aa874",
@@ -281,6 +389,15 @@
    "published": "2026-10-06T10:39:40-07:00",
    "published_iso": "2026-10-06T17:39:40+00:00",
    "summary": "Speech-to-speech model benchmarks on live phone calls"
+  },
+  {
+   "id": "ph-6c539b4964409ec1",
+   "title": "MePersona",
+   "url": "https://www.producthunt.com/products/mepersona",
+   "tagline": "Answer every fan comment in your voice",
+   "published": "2026-09-15T02:25:39-07:00",
+   "published_iso": "2026-09-15T09:25:39+00:00",
+   "summary": "Answer every fan comment in your voice"
   },
   {
    "id": "ph-6df5fdb5e3e71eae",
@@ -317,6 +434,33 @@
    "published": "2026-10-09T12:26:30-07:00",
    "published_iso": "2026-10-09T19:26:30+00:00",
    "summary": "Copy the text your Mac won’t let you select"
+  },
+  {
+   "id": "ph-7b2d4042b845bfe7",
+   "title": "Kooler",
+   "url": "https://www.producthunt.com/products/kooler-2",
+   "tagline": "Find cocktails you can make with what's in your bar",
+   "published": "2026-10-07T18:10:54-07:00",
+   "published_iso": "2026-10-08T01:10:54+00:00",
+   "summary": "Find cocktails you can make with what's in your bar"
+  },
+  {
+   "id": "ph-7de2d2859204aa8f",
+   "title": "Ayven",
+   "url": "https://www.producthunt.com/products/ayven",
+   "tagline": "Carries and drives your team's agenda",
+   "published": "2026-09-09T11:19:36-07:00",
+   "published_iso": "2026-09-09T18:19:36+00:00",
+   "summary": "Carries and drives your team's agenda"
+  },
+  {
+   "id": "ph-7e1a6c02e65de506",
+   "title": "kōdlo",
+   "url": "https://www.producthunt.com/products/kodlo",
+   "tagline": "End-to-end sales workspace with unified context",
+   "published": "2026-10-07T02:46:27-07:00",
+   "published_iso": "2026-10-07T09:46:27+00:00",
+   "summary": "End-to-end sales workspace with unified context"
   },
   {
    "id": "ph-8091f57dd7d5ceab",
@@ -391,6 +535,15 @@
    "summary": "Fast History Search, Export & Bulk Delete"
   },
   {
+   "id": "ph-9435d64f74d19f0e",
+   "title": "FloorGen",
+   "url": "https://www.producthunt.com/products/floorgen",
+   "tagline": "Draw the house, or just ask. Free floor plans with AI",
+   "published": "2026-10-09T11:19:20-07:00",
+   "published_iso": "2026-10-09T18:19:20+00:00",
+   "summary": "Draw the house, or just ask. Free floor plans with AI"
+  },
+  {
    "id": "ph-99732cb6a1b75116",
    "title": "TapNoise",
    "url": "https://www.producthunt.com/products/tapnoise",
@@ -445,6 +598,15 @@
    "summary": "Use open models in your harness"
   },
   {
+   "id": "ph-a32ec275d0e7ac9e",
+   "title": "Unboom",
+   "url": "https://www.producthunt.com/products/unboom",
+   "tagline": "Tames boomy room bass on your Mac without acoustic panels",
+   "published": "2026-10-07T06:07:27-07:00",
+   "published_iso": "2026-10-07T13:07:27+00:00",
+   "summary": "Tames boomy room bass on your Mac without acoustic panels"
+  },
+  {
    "id": "ph-a487d2b937d05887",
    "title": "Voicera",
    "url": "https://www.producthunt.com/products/voicera-3",
@@ -461,6 +623,15 @@
    "published": "2026-10-07T19:10:32-07:00",
    "published_iso": "2026-10-08T02:10:32+00:00",
    "summary": "Every answer 371 AI models gave to the same questions"
+  },
+  {
+   "id": "ph-a568c8fed79df82a",
+   "title": "OpenScreen 2",
+   "url": "https://www.producthunt.com/products/openscreen-2",
+   "tagline": "Record your demo and let your AI agent do the edits",
+   "published": "2026-09-28T01:10:44-07:00",
+   "published_iso": "2026-09-28T08:10:44+00:00",
+   "summary": "Record your demo and let your AI agent do the edits"
   },
   {
    "id": "ph-a9bc4141ff260246",
@@ -544,6 +715,24 @@
    "summary": "Local AI chat, transcription and video tools in one Mac app"
   },
   {
+   "id": "ph-c78a2919e3aa9ab2",
+   "title": "HireKey",
+   "url": "https://www.producthunt.com/products/hirekey",
+   "tagline": "Your recruiter-informed AI copilot for tech job search",
+   "published": "2026-10-02T01:43:03-07:00",
+   "published_iso": "2026-10-02T08:43:03+00:00",
+   "summary": "Your recruiter-informed AI copilot for tech job search"
+  },
+  {
+   "id": "ph-cd3f90121be40bcf",
+   "title": "Automations in Perplexity Computer",
+   "url": "https://www.producthunt.com/products/perplexity-ai",
+   "tagline": "Automations that remember, act, and keep work moving",
+   "published": "2026-09-29T09:52:38-07:00",
+   "published_iso": "2026-09-29T16:52:38+00:00",
+   "summary": "Automations that remember, act, and keep work moving"
+  },
+  {
    "id": "ph-cd5bb4a6408e62ee",
    "title": "De Stash",
    "url": "https://www.producthunt.com/products/de-stash",
@@ -578,6 +767,15 @@
    "published": "2026-10-07T00:50:58-07:00",
    "published_iso": "2026-10-07T07:50:58+00:00",
    "summary": "Translate in your iPhone keyboard. Keep your tone."
+  },
+  {
+   "id": "ph-d5febc4bb4e75a19",
+   "title": "Poke Finder",
+   "url": "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web",
+   "tagline": "Catch Pokémon while you browse and complete your Pokédex.",
+   "published": "2026-10-05T06:10:39-07:00",
+   "published_iso": "2026-10-05T13:10:39+00:00",
+   "summary": "Catch Pokémon while you browse and complete your Pokédex."
   },
   {
    "id": "ph-d6ee5b5508d8792a",
@@ -751,6 +949,15 @@
    "summary": "Your private AI file organizer for Mac"
   },
   {
+   "id": "ph-ee959474a47954f3",
+   "title": "Ghost Core",
+   "url": "https://www.producthunt.com/products/ghost-core",
+   "tagline": "A personal AI computer that runs entirely on-device",
+   "published": "2026-10-05T10:44:06-07:00",
+   "published_iso": "2026-10-05T17:44:06+00:00",
+   "summary": "A personal AI computer that runs entirely on-device"
+  },
+  {
    "id": "ph-f38c854533243645",
    "title": "iwant",
    "url": "https://www.producthunt.com/products/iwant",
@@ -758,6 +965,24 @@
    "published": "2026-10-08T21:20:47-07:00",
    "published_iso": "2026-10-09T04:20:47+00:00",
    "summary": "Find available GPUs and host open models in one command"
+  },
+  {
+   "id": "ph-f8de65f4d73430ac",
+   "title": "Farol",
+   "url": "https://www.producthunt.com/products/farol-3",
+   "tagline": "The macOS terminal that shows which coding agent needs you",
+   "published": "2026-10-10T03:38:06-07:00",
+   "published_iso": "2026-10-10T10:38:06+00:00",
+   "summary": "The macOS terminal that shows which coding agent needs you"
+  },
+  {
+   "id": "ph-f94c11f2e175a5ca",
+   "title": "NewMinecraftServers",
+   "url": "https://www.producthunt.com/products/newminecraftservers",
+   "tagline": "Minecraft server discovery, analytics, & spoof detection.",
+   "published": "2026-10-07T09:29:22-07:00",
+   "published_iso": "2026-10-07T16:29:22+00:00",
+   "summary": "Minecraft server discovery, analytics, & spoof detection."
   },
   {
    "id": "ph-fa9dbe49c645f2ca",
@@ -785,6 +1010,15 @@
    "published": "2026-10-05T11:36:36-07:00",
    "published_iso": "2026-10-05T18:36:36+00:00",
    "summary": "Find top-performing content on Instagram & YouTube"
+  },
+  {
+   "id": "ph-fed2a6dde4e50d49",
+   "title": "Foley",
+   "url": "https://www.producthunt.com/products/foley",
+   "tagline": "A voice to-do list that files, plans and asks first",
+   "published": "2026-10-04T23:48:55-07:00",
+   "published_iso": "2026-10-05T06:48:55+00:00",
+   "summary": "A voice to-do list that files, plans and asks first"
   },
   {
    "id": "ph-fed5db2109332d33",
