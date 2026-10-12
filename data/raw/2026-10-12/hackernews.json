@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-12T08:13:10.060294+08:00",
- "count": 55,
+ "updated_at": "2026-10-12T14:57:39.035673+08:00",
+ "count": 66,
  "items": [
   {
    "id": "hn-49991852",
@@ -136,8 +136,8 @@
    "title": "I guess I'm using WebP now?",
    "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
    "hn_url": "https://news.ycombinator.com/item?id=50021989",
-   "score": 61,
-   "comments": 65,
+   "score": 97,
+   "comments": 103,
    "author": "Brajeshwar",
    "time_iso": "2026-10-09T15:32:04+00:00",
    "history": [
@@ -148,6 +148,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 61
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 97
     }
    ]
   },
@@ -236,6 +240,22 @@
    ]
   },
   {
+   "id": "hn-50032748",
+   "title": "Draw by Pinging IPv6 Addresses",
+   "url": "https://pings.utwente.io/",
+   "hn_url": "https://news.ycombinator.com/item?id=50032748",
+   "score": 3,
+   "comments": 0,
+   "author": "eraclide",
+   "time_iso": "2026-10-10T13:28:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 3
+    }
+   ]
+  },
+  {
    "id": "hn-50033601",
    "title": "Safe SIMD in Rust, even on the inside",
    "url": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
@@ -248,6 +268,38 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50034001",
+   "title": "No portable way to detect string-to-float conversion errors in standard C",
+   "url": "https://sebsite.pw/w/20261009-strtod.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50034001",
+   "score": 29,
+   "comments": 19,
+   "author": "signa11",
+   "time_iso": "2026-10-10T15:39:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50034206",
+   "title": "Calculus with Julia",
+   "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+   "hn_url": "https://news.ycombinator.com/item?id=50034206",
+   "score": 79,
+   "comments": 1,
+   "author": "subset",
+   "time_iso": "2026-10-10T15:59:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 79
     }
    ]
   },
@@ -284,6 +336,22 @@
     {
      "t": "2026-10-12T00:32:56.453059+08:00",
      "score": 418
+    }
+   ]
+  },
+  {
+   "id": "hn-50038088",
+   "title": "Every US Electrical Outlet Explained [video]",
+   "url": "https://www.youtube.com/watch?v=n_1wzYQwnts",
+   "hn_url": "https://news.ycombinator.com/item?id=50038088",
+   "score": 14,
+   "comments": 14,
+   "author": "zdw",
+   "time_iso": "2026-10-10T23:12:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 14
     }
    ]
   },
@@ -336,6 +404,22 @@
    ]
   },
   {
+   "id": "hn-50039608",
+   "title": "Vectorized CLZ and CTZ",
+   "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+   "hn_url": "https://news.ycombinator.com/item?id=50039608",
+   "score": 36,
+   "comments": 5,
+   "author": "zX41ZdbW",
+   "time_iso": "2026-10-11T03:36:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 36
+    }
+   ]
+  },
+  {
    "id": "hn-50040276",
    "title": "LineageOS 24.0",
    "url": "https://lineageos.org/Changelog-32/",
@@ -368,6 +452,22 @@
     {
      "t": "2026-10-12T04:47:46.186820+08:00",
      "score": 508
+    }
+   ]
+  },
+  {
+   "id": "hn-50041252",
+   "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+   "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+   "hn_url": "https://news.ycombinator.com/item?id=50041252",
+   "score": 42,
+   "comments": 7,
+   "author": "Bluestein",
+   "time_iso": "2026-10-11T09:19:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 42
     }
    ]
   },
@@ -644,8 +744,8 @@
    "title": "NYC's \"Click to Cancel\" rule is now in effect",
    "url": "https://www.nyc.gov/main/click-to-cancel",
    "hn_url": "https://news.ycombinator.com/item?id=50045946",
-   "score": 319,
-   "comments": 151,
+   "score": 434,
+   "comments": 209,
    "author": "gregsadetsky",
    "time_iso": "2026-10-11T18:01:16+00:00",
    "history": [
@@ -656,6 +756,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 319
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 434
     }
    ]
   },
@@ -664,8 +768,8 @@
    "title": "Total Annihilation, rebuilt for modern computers",
    "url": "https://nanolathe.gg",
    "hn_url": "https://news.ycombinator.com/item?id=50045984",
-   "score": 324,
-   "comments": 138,
+   "score": 455,
+   "comments": 189,
    "author": "jttnr",
    "time_iso": "2026-10-11T18:04:47+00:00",
    "history": [
@@ -676,16 +780,20 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 324
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 455
     }
    ]
   },
   {
    "id": "hn-50046241",
-   "title": "Chapter 1 of Ways of Seeing by John Berger",
+   "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
    "url": "https://www.ways-of-seeing.com/ch1",
    "hn_url": "https://news.ycombinator.com/item?id=50046241",
-   "score": 63,
-   "comments": 10,
+   "score": 102,
+   "comments": 15,
    "author": "rafael859",
    "time_iso": "2026-10-11T18:26:24+00:00",
    "history": [
@@ -696,6 +804,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 63
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 102
     }
    ]
   },
@@ -720,8 +832,8 @@
    "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
    "url": "https://theonion.com/archivehunt/",
    "hn_url": "https://news.ycombinator.com/item?id=50047055",
-   "score": 227,
-   "comments": 30,
+   "score": 303,
+   "comments": 46,
    "author": "mooreds",
    "time_iso": "2026-10-11T19:43:32+00:00",
    "history": [
@@ -732,6 +844,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 227
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 303
     }
    ]
   },
@@ -753,11 +869,11 @@
   },
   {
    "id": "hn-50047091",
-   "title": "Cartographers of North Korea",
+   "title": "Cartographers of North Korea (2019)",
    "url": "https://cartographers-nk.wonyoung.so/",
    "hn_url": "https://news.ycombinator.com/item?id=50047091",
-   "score": 162,
-   "comments": 28,
+   "score": 232,
+   "comments": 41,
    "author": "edent",
    "time_iso": "2026-10-11T19:46:40+00:00",
    "history": [
@@ -768,6 +884,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 162
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 232
     }
    ]
   },
@@ -776,14 +896,18 @@
    "title": "The gap in shared understanding of LLM capability is widening",
    "url": "https://twitter.com/karpathy/status/2109361546505966046",
    "hn_url": "https://news.ycombinator.com/item?id=50047422",
-   "score": 188,
-   "comments": 297,
+   "score": 404,
+   "comments": 565,
    "author": "albertzeyer",
    "time_iso": "2026-10-11T20:20:52+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 188
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 404
     }
    ]
   },
@@ -805,17 +929,21 @@
   },
   {
    "id": "hn-50048312",
-   "title": "Passkeys are a trap. Do not use them",
+   "title": "Passkeys are a trap",
    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
    "hn_url": "https://news.ycombinator.com/item?id=50048312",
-   "score": 168,
-   "comments": 82,
+   "score": 501,
+   "comments": 276,
    "author": "laurex",
    "time_iso": "2026-10-11T21:59:48+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 168
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 501
     }
    ]
   },
@@ -824,14 +952,18 @@
    "title": "Recursive self-improvement through collective intelligence",
    "url": "https://pub.sakana.ai/mass/",
    "hn_url": "https://news.ycombinator.com/item?id=50048522",
-   "score": 33,
-   "comments": 7,
+   "score": 102,
+   "comments": 53,
    "author": "hardmaru",
    "time_iso": "2026-10-11T22:22:10+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 102
     }
    ]
   },
@@ -840,30 +972,38 @@
    "title": "Google is illegaly cutting forest to build data centers",
    "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
    "hn_url": "https://news.ycombinator.com/item?id=50048638",
-   "score": 53,
-   "comments": 6,
+   "score": 380,
+   "comments": 101,
    "author": "heyimada",
    "time_iso": "2026-10-11T22:33:30+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 380
     }
    ]
   },
   {
    "id": "hn-50048642",
-   "title": "Fingerprints Are the New Cookies",
+   "title": "Fingerprints are the new cookies",
    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
    "hn_url": "https://news.ycombinator.com/item?id=50048642",
-   "score": 28,
-   "comments": 7,
+   "score": 275,
+   "comments": 130,
    "author": "royfish",
    "time_iso": "2026-10-11T22:33:39+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 275
     }
    ]
   },
@@ -888,14 +1028,18 @@
    "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
    "url": "https://github.com/ClickHouse/clickhouse-c",
    "hn_url": "https://news.ycombinator.com/item?id=50049003",
-   "score": 3,
-   "comments": 0,
+   "score": 32,
+   "comments": 1,
    "author": "saisrirampur",
    "time_iso": "2026-10-11T23:08:29+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 32
     }
    ]
   },
@@ -904,7 +1048,7 @@
    "title": "Illustration Beyond Proof",
    "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
    "hn_url": "https://news.ycombinator.com/item?id=50049133",
-   "score": 3,
+   "score": 58,
    "comments": 0,
    "author": "smilelamp",
    "time_iso": "2026-10-11T23:22:36+00:00",
@@ -912,6 +1056,10 @@
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 58
     }
    ]
   },
@@ -952,14 +1100,98 @@
    "title": "Whatever became of holography? (2011)",
    "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
    "hn_url": "https://news.ycombinator.com/item?id=50049411",
-   "score": 10,
-   "comments": 0,
+   "score": 108,
+   "comments": 52,
    "author": "cainxinth",
    "time_iso": "2026-10-11T23:50:34+00:00",
    "history": [
     {
      "t": "2026-10-12T08:13:10.060294+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50049508",
+   "title": "Local Indexing to reduce tool calling and token usage",
+   "url": "https://tedhaley.ca/pensieve/",
+   "hn_url": "https://news.ycombinator.com/item?id=50049508",
+   "score": 62,
+   "comments": 13,
+   "author": "TedHaley",
+   "time_iso": "2026-10-12T00:03:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50049872",
+   "title": "Doory – Open-Source Canva",
+   "url": "https://github.com/shaongitbd/doory",
+   "hn_url": "https://news.ycombinator.com/item?id=50049872",
+   "score": 81,
+   "comments": 18,
+   "author": "acley",
+   "time_iso": "2026-10-12T00:48:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 81
+    }
+   ]
+  },
+  {
+   "id": "hn-50051097",
+   "title": "Crest – an Arc-inspired open-source browser for Mac",
+   "url": "https://crestbrowser.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50051097",
+   "score": 6,
+   "comments": 1,
+   "author": "cobychapple",
+   "time_iso": "2026-10-12T03:37:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50051530",
+   "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+   "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+   "hn_url": "https://news.ycombinator.com/item?id=50051530",
+   "score": 69,
+   "comments": 49,
+   "author": "amosbatto",
+   "time_iso": "2026-10-12T04:54:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50051573",
+   "title": "Type-safe HTML templating in Zig",
+   "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50051573",
+   "score": 50,
+   "comments": 23,
+   "author": "lukaslalinsky",
+   "time_iso": "2026-10-12T05:02:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-12T14:57:39.035673+08:00",
+     "score": 50
     }
    ]
   }
