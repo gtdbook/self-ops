@@ -1,12 +1,44 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T04:47:49.075877+08:00",
+ "generated_at": "2026-10-12T08:13:12.992932+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
    "errors": [],
    "items": [
+    {
+     "title": "Terence Tao: Math 2.0 [pdf]",
+     "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+     "meta": "+183 分 / 7.7 小时 · 现 ⭐ 301",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Total Annihilation, rebuilt for modern computers",
+     "url": "https://nanolathe.gg",
+     "meta": "+137 分 / 3.4 小时 · 现 ⭐ 324",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+     "url": "https://theonion.com/archivehunt/",
+     "meta": "+132 分 / 3.4 小时 · 现 ⭐ 227",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Cartographers of North Korea",
+     "url": "https://cartographers-nk.wonyoung.so/",
+     "meta": "+132 分 / 3.4 小时 · 现 ⭐ 162",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "I paid people to try and follow my README",
      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
@@ -16,9 +48,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Terence Tao: Math 2.0 [pdf]",
-     "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-     "meta": "+114 分 / 4.2 小时 · 现 ⭐ 232",
+     "title": "NYC's \"Click to Cancel\" rule is now in effect",
+     "url": "https://www.nyc.gov/main/click-to-cancel",
+     "meta": "+118 分 / 3.4 小时 · 现 ⭐ 319",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "IRCv3",
+     "url": "https://ircv3.net/",
+     "meta": "+117 分 / 7.7 小时 · 现 ⭐ 339",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -32,49 +72,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "The tilde in your PATH may not be your HOME",
+     "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+     "meta": "+90 分 / 7.7 小时 · 现 ⭐ 202",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "The RAM shortage is bringing back DDR4",
      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
      "meta": "+74 分 / 4.2 小时 · 现 ⭐ 243",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The tilde in your PATH may not be your HOME",
-     "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-     "meta": "+74 分 / 4.2 小时 · 现 ⭐ 186",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-     "url": "https://betterwispr.com/",
-     "meta": "+70 分 / 4.2 小时 · 现 ⭐ 116",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A city-building game in which the city would prefer you didn't",
-     "url": "https://housing.over.pizza/",
-     "meta": "+59 分 / 4.2 小时 · 现 ⭐ 519",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-     "url": "https://verdagon.dev/blog/valen-group-borrowing",
-     "meta": "+51 分 / 4.2 小时 · 现 ⭐ 117",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "How I reverse engineered a commercial spatial audio effect",
-     "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-     "meta": "+50 分 / 4.2 小时 · 现 ⭐ 64",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -216,7 +224,7 @@
     {
      "title": "openai/math",
      "url": "https://github.com/openai/math",
-     "meta": "⭐ 14025 · Lean",
+     "meta": "⭐ 14070 · Lean",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -224,7 +232,7 @@
     {
      "title": "storytold/wordcraft",
      "url": "https://github.com/storytold/wordcraft",
-     "meta": "⭐ 5448 · Rust",
+     "meta": "⭐ 5876 · Rust",
      "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -232,15 +240,23 @@
     {
      "title": "alchaincyf/huashu-art-motion",
      "url": "https://github.com/alchaincyf/huashu-art-motion",
-     "meta": "⭐ 3377 · JavaScript",
+     "meta": "⭐ 3381 · JavaScript",
      "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wheresryan22/anatomy",
+     "url": "https://github.com/wheresryan22/anatomy",
+     "meta": "⭐ 3255 · JavaScript",
+     "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 3128 · Go",
+     "meta": "⭐ 3141 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
@@ -248,23 +264,15 @@
     {
      "title": "zhongerxin/iPhone-use",
      "url": "https://github.com/zhongerxin/iPhone-use",
-     "meta": "⭐ 3001 · Python",
+     "meta": "⭐ 3034 · Python",
      "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "wheresryan22/anatomy",
-     "url": "https://github.com/wheresryan22/anatomy",
-     "meta": "⭐ 2931 · JavaScript",
-     "summary": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "storytold/gridcraft",
      "url": "https://github.com/storytold/gridcraft",
-     "meta": "⭐ 2731 · Rust",
+     "meta": "⭐ 2910 · Rust",
      "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +280,7 @@
     {
      "title": "storytold/cadcraft",
      "url": "https://github.com/storytold/cadcraft",
-     "meta": "⭐ 2542 · Rust",
+     "meta": "⭐ 2647 · Rust",
      "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +288,7 @@
     {
      "title": "nullmoth/nvidia-macos-driver",
      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-     "meta": "⭐ 2518 · Rust",
+     "meta": "⭐ 2529 · Rust",
      "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +296,7 @@
     {
      "title": "LosaLosSantos/aurelio-finance",
      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-     "meta": "⭐ 2168 · Python",
+     "meta": "⭐ 2230 · Python",
      "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +304,7 @@
     {
      "title": "t4t5/omdrop-owl",
      "url": "https://github.com/t4t5/omdrop-owl",
-     "meta": "⭐ 2042 · Shell",
+     "meta": "⭐ 2091 · Shell",
      "summary": "airdrop for non-apple devices",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +312,7 @@
     {
      "title": "storytold/deckcraft",
      "url": "https://github.com/storytold/deckcraft",
-     "meta": "⭐ 1923 · Rust",
+     "meta": "⭐ 2026 · Rust",
      "summary": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +320,7 @@
     {
      "title": "noahdunnagan/fsearch",
      "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 1845 · Rust",
+     "meta": "⭐ 1861 · Rust",
      "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +328,7 @@
     {
      "title": "alejandrobujan/tendedero",
      "url": "https://github.com/alejandrobujan/tendedero",
-     "meta": "⭐ 1799 · Swift",
+     "meta": "⭐ 1807 · Swift",
      "summary": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +336,7 @@
     {
      "title": "storytold/soundcraft",
      "url": "https://github.com/storytold/soundcraft",
-     "meta": "⭐ 1720 · Rust",
+     "meta": "⭐ 1802 · Rust",
      "summary": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -389,6 +397,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "IRCv3",
+     "url": "https://ircv3.net/",
+     "meta": "⭐ 339 · 💬 288",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "I paid people to try and follow my README",
      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
      "meta": "⭐ 338 · 💬 179",
@@ -397,9 +413,33 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Total Annihilation, rebuilt for modern computers",
+     "url": "https://nanolathe.gg",
+     "meta": "⭐ 324 · 💬 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "NYC's \"Click to Cancel\" rule is now in effect",
+     "url": "https://www.nyc.gov/main/click-to-cancel",
+     "meta": "⭐ 319 · 💬 151",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Nitter: Update Oct 10th seeking funding and legal help",
      "url": "https://nitter.net",
      "meta": "⭐ 309 · 💬 144",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Terence Tao: Math 2.0 [pdf]",
+     "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+     "meta": "⭐ 301 · 💬 357",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -424,38 +464,6 @@
      "title": "The RAM shortage is bringing back DDR4",
      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
      "meta": "⭐ 243 · 💬 251",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Terence Tao: Math 2.0 [pdf]",
-     "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-     "meta": "⭐ 232 · 💬 285",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Nix wrote half of my debugger",
-     "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-     "meta": "⭐ 225 · 💬 53",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "IRCv3",
-     "url": "https://ircv3.net/",
-     "meta": "⭐ 222 · 💬 201",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "NYC's \"Click to Cancel\" rule is now in effect",
-     "url": "https://www.nyc.gov/main/click-to-cancel",
-     "meta": "⭐ 201 · 💬 76",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -488,6 +496,14 @@
      "url": "https://www.producthunt.com/products/ambiguous-workspace",
      "meta": "Product Hunt · 2026-10-07",
      "summary": "18 productivity apps built for AI agents and humans",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tuck",
+     "url": "https://www.producthunt.com/products/tuck-6",
+     "meta": "Product Hunt · 2026-10-07",
+     "summary": "A tidy menu bar for macOS 27",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -576,14 +592,6 @@
      "url": "https://www.producthunt.com/products/melete",
      "meta": "Product Hunt · 2026-09-30",
      "summary": "An Always On Personal Agent With a Team Workspace",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Regunow",
-     "url": "https://www.producthunt.com/products/regunow",
-     "meta": "Product Hunt · 2026-10-06",
-     "summary": "Turn regulatory research into actionable compliance audits",
      "reason": null,
      "origin_source": "producthunt"
     }
