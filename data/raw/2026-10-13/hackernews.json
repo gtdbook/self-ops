@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-13T00:36:35.241968+08:00",
- "count": 25,
+ "updated_at": "2026-10-13T07:29:20.987590+08:00",
+ "count": 45,
  "items": [
   {
    "id": "hn-50034206",
@@ -40,14 +40,18 @@
    "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
    "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
    "hn_url": "https://news.ycombinator.com/item?id=50036287",
-   "score": 141,
-   "comments": 45,
+   "score": 208,
+   "comments": 82,
    "author": "gregsadetsky",
    "time_iso": "2026-10-10T19:28:41+00:00",
    "history": [
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 141
+    },
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 208
     }
    ]
   },
@@ -56,14 +60,18 @@
    "title": "Secret of Orange Cats Revealed After 60-Year Search",
    "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
    "hn_url": "https://news.ycombinator.com/item?id=50037711",
-   "score": 139,
-   "comments": 114,
+   "score": 215,
+   "comments": 170,
    "author": "bookofjoe",
    "time_iso": "2026-10-10T22:10:57+00:00",
    "history": [
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 139
+    },
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 215
     }
    ]
   },
@@ -164,6 +172,22 @@
    ]
   },
   {
+   "id": "hn-50049588",
+   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+   "url": "https://github.com/SaarthurR/atticus-mac",
+   "hn_url": "https://news.ycombinator.com/item?id=50049588",
+   "score": 53,
+   "comments": 6,
+   "author": "SaarthRanka",
+   "time_iso": "2026-10-12T00:15:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 53
+    }
+   ]
+  },
+  {
    "id": "hn-50049872",
    "title": "Doory – Open-Source Canva",
    "url": "https://github.com/shaongitbd/doory",
@@ -200,14 +224,18 @@
    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
    "url": "https://github.com/snuri00/ps2-web-recomp",
    "hn_url": "https://news.ycombinator.com/item?id=50052251",
-   "score": 181,
-   "comments": 93,
+   "score": 257,
+   "comments": 139,
    "author": "deadxwarrior",
    "time_iso": "2026-10-12T06:46:53+00:00",
    "history": [
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 181
+    },
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 257
     }
    ]
   },
@@ -260,6 +288,38 @@
    ]
   },
   {
+   "id": "hn-50055220",
+   "title": "Citroen revives the 2CV for an electric age",
+   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "hn_url": "https://news.ycombinator.com/item?id=50055220",
+   "score": 241,
+   "comments": 289,
+   "author": "scrlk",
+   "time_iso": "2026-10-12T12:09:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 241
+    }
+   ]
+  },
+  {
+   "id": "hn-50055304",
+   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "hn_url": "https://news.ycombinator.com/item?id=50055304",
+   "score": 369,
+   "comments": 596,
+   "author": "Zeekaas",
+   "time_iso": "2026-10-12T12:16:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 369
+    }
+   ]
+  },
+  {
    "id": "hn-50055375",
    "title": "Incident with Actions, Pull Requests and Issues",
    "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
@@ -280,14 +340,18 @@
    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
    "url": "https://github.com/h0m3us3r/w1700k-sdr",
    "hn_url": "https://news.ycombinator.com/item?id=50055593",
-   "score": 13,
-   "comments": 0,
+   "score": 236,
+   "comments": 56,
    "author": "djfergus",
    "time_iso": "2026-10-12T12:41:58+00:00",
    "history": [
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 236
     }
    ]
   },
@@ -304,6 +368,22 @@
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50056822",
+   "title": "Solar panels that plug into your wall",
+   "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+   "hn_url": "https://news.ycombinator.com/item?id=50056822",
+   "score": 84,
+   "comments": 75,
+   "author": "speckx",
+   "time_iso": "2026-10-12T14:19:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 84
     }
    ]
   },
@@ -356,6 +436,22 @@
    ]
   },
   {
+   "id": "hn-50057668",
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "url": "https://taylor.town/kk-ai-2026",
+   "hn_url": "https://news.ycombinator.com/item?id=50057668",
+   "score": 112,
+   "comments": 35,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-12T15:16:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 112
+    }
+   ]
+  },
+  {
    "id": "hn-50057956",
    "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
    "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
@@ -373,17 +469,37 @@
   },
   {
    "id": "hn-50058507",
-   "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+   "title": "GLM-Legal",
    "url": "https://z.ai/blog/glm-legal",
    "hn_url": "https://news.ycombinator.com/item?id=50058507",
-   "score": 56,
-   "comments": 20,
+   "score": 388,
+   "comments": 220,
    "author": "ilreb",
    "time_iso": "2026-10-12T16:11:45+00:00",
    "history": [
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 56
+    },
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 388
+    }
+   ]
+  },
+  {
+   "id": "hn-50058528",
+   "title": "A Modern Web App in C",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "hn_url": "https://news.ycombinator.com/item?id=50058528",
+   "score": 346,
+   "comments": 153,
+   "author": "prophittcorey",
+   "time_iso": "2026-10-12T16:13:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 346
     }
    ]
   },
@@ -400,6 +516,230 @@
     {
      "t": "2026-10-13T00:36:35.241968+08:00",
      "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-50059096",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "hn_url": "https://news.ycombinator.com/item?id=50059096",
+   "score": 80,
+   "comments": 57,
+   "author": "vishnukool",
+   "time_iso": "2026-10-12T16:46:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 80
+    }
+   ]
+  },
+  {
+   "id": "hn-50059115",
+   "title": "Muse Wonder",
+   "url": "https://research.meta.ai/blog/muse-wonder",
+   "hn_url": "https://news.ycombinator.com/item?id=50059115",
+   "score": 490,
+   "comments": 263,
+   "author": "meetpateltech",
+   "time_iso": "2026-10-12T16:48:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 490
+    }
+   ]
+  },
+  {
+   "id": "hn-50059204",
+   "title": "Thinking will become a hobby",
+   "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+   "hn_url": "https://news.ycombinator.com/item?id=50059204",
+   "score": 199,
+   "comments": 266,
+   "author": "pranitha_m",
+   "time_iso": "2026-10-12T16:54:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 199
+    }
+   ]
+  },
+  {
+   "id": "hn-50059523",
+   "title": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "hn_url": "https://news.ycombinator.com/item?id=50059523",
+   "score": 291,
+   "comments": 248,
+   "author": "gumby",
+   "time_iso": "2026-10-12T17:14:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 291
+    }
+   ]
+  },
+  {
+   "id": "hn-50060269",
+   "title": "'AI' Is Not a Tool by Rich Hickey",
+   "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+   "hn_url": "https://news.ycombinator.com/item?id=50060269",
+   "score": 162,
+   "comments": 78,
+   "author": "svieira",
+   "time_iso": "2026-10-12T18:00:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 162
+    }
+   ]
+  },
+  {
+   "id": "hn-50060674",
+   "title": "Publishers Killed the Paperback, Then Blamed Readers",
+   "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+   "hn_url": "https://news.ycombinator.com/item?id=50060674",
+   "score": 92,
+   "comments": 65,
+   "author": "PaulHoule",
+   "time_iso": "2026-10-12T18:27:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50060694",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+   "url": "https://github.com/openai/codex/issues/48195",
+   "hn_url": "https://news.ycombinator.com/item?id=50060694",
+   "score": 404,
+   "comments": 218,
+   "author": "whimblepop",
+   "time_iso": "2026-10-12T18:29:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 404
+    }
+   ]
+  },
+  {
+   "id": "hn-50061791",
+   "title": "Making big downloads resumable in Firefox",
+   "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50061791",
+   "score": 49,
+   "comments": 9,
+   "author": "speckx",
+   "time_iso": "2026-10-12T19:36:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50061859",
+   "title": "Writing a Demoscene Intro for the ZX Spectrum",
+   "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+   "hn_url": "https://news.ycombinator.com/item?id=50061859",
+   "score": 60,
+   "comments": 6,
+   "author": "zdw",
+   "time_iso": "2026-10-12T19:40:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50063042",
+   "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+   "url": "https://brickbrag.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50063042",
+   "score": 13,
+   "comments": 7,
+   "author": "neuling",
+   "time_iso": "2026-10-12T21:03:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50063138",
+   "title": "Who Is Vfmaddrnd231pd?",
+   "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+   "hn_url": "https://news.ycombinator.com/item?id=50063138",
+   "score": 66,
+   "comments": 1,
+   "author": "pngmangi",
+   "time_iso": "2026-10-12T21:12:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 66
+    }
+   ]
+  },
+  {
+   "id": "hn-50063417",
+   "title": "Phreak.ing – Internet Phone Switch",
+   "url": "https://phreak.ing/",
+   "hn_url": "https://news.ycombinator.com/item?id=50063417",
+   "score": 35,
+   "comments": 4,
+   "author": "rickcarlino",
+   "time_iso": "2026-10-12T21:39:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50063427",
+   "title": "AI Is a Tool. Using It Well Takes Skill.",
+   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "hn_url": "https://news.ycombinator.com/item?id=50063427",
+   "score": 159,
+   "comments": 144,
+   "author": "layer8",
+   "time_iso": "2026-10-12T21:40:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 159
+    }
+   ]
+  },
+  {
+   "id": "hn-50063831",
+   "title": "Breaking Bad star RJ Mitte dies aged 34",
+   "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+   "hn_url": "https://news.ycombinator.com/item?id=50063831",
+   "score": 54,
+   "comments": 9,
+   "author": "austinallegro",
+   "time_iso": "2026-10-12T22:15:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-13T07:29:20.987590+08:00",
+     "score": 54
     }
    ]
   }

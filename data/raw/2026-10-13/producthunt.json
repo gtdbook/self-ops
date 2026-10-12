@@ -1,7 +1,7 @@
 {
  "source": "producthunt",
- "updated_at": "2026-10-13T00:36:36.737411+08:00",
- "count": 73,
+ "updated_at": "2026-10-13T07:29:22.636812+08:00",
+ "count": 79,
  "items": [
   {
    "id": "ph-007b35dcd7c09012",
@@ -29,6 +29,15 @@
    "published": "2026-10-08T15:03:36-07:00",
    "published_iso": "2026-10-08T22:03:36+00:00",
    "summary": "Your AI sales rep: live prices, quotes & follow-ups 24/7"
+  },
+  {
+   "id": "ph-0766124226ad1d2f",
+   "title": "Ambiguous Workspace",
+   "url": "https://www.producthunt.com/products/ambiguous-workspace",
+   "tagline": "18 productivity apps built for AI agents and humans",
+   "published": "2026-10-06T22:46:52-07:00",
+   "published_iso": "2026-10-07T05:46:52+00:00",
+   "summary": "18 productivity apps built for AI agents and humans"
   },
   {
    "id": "ph-0befb606af5fd6e5",
@@ -148,6 +157,15 @@
    "summary": "Turn everything you read and save into work you can ship"
   },
   {
+   "id": "ph-280a0d4a01cb58c9",
+   "title": "Melete",
+   "url": "https://www.producthunt.com/products/melete",
+   "tagline": "An Always On Personal Agent With a Team Workspace",
+   "published": "2026-09-29T23:38:46-07:00",
+   "published_iso": "2026-09-30T06:38:46+00:00",
+   "summary": "An Always On Personal Agent With a Team Workspace"
+  },
+  {
    "id": "ph-2bbeeb302d6e692a",
    "title": "Regunow",
    "url": "https://www.producthunt.com/products/regunow",
@@ -173,6 +191,15 @@
    "published": "2026-10-06T11:22:22-07:00",
    "published_iso": "2026-10-06T18:22:22+00:00",
    "summary": "Let your baby smash the keyboard and your work stays safe"
+  },
+  {
+   "id": "ph-38f2c792d2240ec0",
+   "title": "Assist",
+   "url": "https://www.producthunt.com/products/assist-5",
+   "tagline": "Invisible assistant, that lives in your MacBook’s notch",
+   "published": "2026-10-08T19:44:37-07:00",
+   "published_iso": "2026-10-09T02:44:37+00:00",
+   "summary": "Invisible assistant, that lives in your MacBook’s notch"
   },
   {
    "id": "ph-3dca422f9200b63c",
@@ -286,10 +313,10 @@
    "id": "ph-5db5c587b916fba5",
    "title": "Understory Notes",
    "url": "https://www.producthunt.com/products/understory-notes",
-   "tagline": "Notes that tell thet ale",
+   "tagline": "Notes that tell the tale",
    "published": "2026-10-08T13:51:38-07:00",
    "published_iso": "2026-10-08T20:51:38+00:00",
-   "summary": "Notes that tell thet ale"
+   "summary": "Notes that tell the tale"
   },
   {
    "id": "ph-5f7dae985361dbe6",
@@ -409,6 +436,15 @@
    "summary": "An open, lightweight multimodal embedding model"
   },
   {
+   "id": "ph-a281c2973af7f954",
+   "title": "Together Link",
+   "url": "https://www.producthunt.com/products/together-ai",
+   "tagline": "Use open models in your harness",
+   "published": "2026-10-05T10:52:00-07:00",
+   "published_iso": "2026-10-05T17:52:00+00:00",
+   "summary": "Use open models in your harness"
+  },
+  {
    "id": "ph-a32ec275d0e7ac9e",
    "title": "Unboom",
    "url": "https://www.producthunt.com/products/unboom",
@@ -475,10 +511,10 @@
    "id": "ph-b3a827fce1e16b25",
    "title": "guilds.run",
    "url": "https://www.producthunt.com/products/guilds-run",
-   "tagline": "The open-source Grok Bot alternative",
+   "tagline": "Create multi-agent workflows that you can trust",
    "published": "2026-10-09T02:50:52-07:00",
    "published_iso": "2026-10-09T09:50:52+00:00",
-   "summary": "The open-source Grok Bot alternative"
+   "summary": "Create multi-agent workflows that you can trust"
   },
   {
    "id": "ph-b3d064e4f48aa75e",
@@ -563,12 +599,21 @@
   },
   {
    "id": "ph-db0e76466dc21fce",
-   "title": "Gboard Kurukuru Version",
+   "title": "Gemini Agent for Google Cloud",
    "url": "https://www.producthunt.com/products/google",
-   "tagline": "Your fingers stay put. The keys come around",
-   "published": "2026-10-10T21:14:18-07:00",
-   "published_iso": "2026-10-11T04:14:18+00:00",
-   "summary": "Your fingers stay put. The keys come around"
+   "tagline": "The work agent that runs on both Gemini and Claude",
+   "published": "2026-10-08T05:31:02-07:00",
+   "published_iso": "2026-10-08T12:31:02+00:00",
+   "summary": "The work agent that runs on both Gemini and Claude"
+  },
+  {
+   "id": "ph-df52f410c22647d1",
+   "title": "Odyssey 3",
+   "url": "https://www.producthunt.com/products/odyssey-3",
+   "tagline": "A world model that simulates physics in real time",
+   "published": "2026-10-08T09:51:49-07:00",
+   "published_iso": "2026-10-08T16:51:49+00:00",
+   "summary": "A world model that simulates physics in real time"
   },
   {
    "id": "ph-e1e2a7a18b10f1e6",
@@ -605,6 +650,15 @@
    "published": "2026-10-05T06:03:57-07:00",
    "published_iso": "2026-10-05T13:03:57+00:00",
    "summary": "Missed calls, handled: callers get a text, you get the gist"
+  },
+  {
+   "id": "ph-ee8f452ecab0343d",
+   "title": "Sorted",
+   "url": "https://www.producthunt.com/products/sorted-6",
+   "tagline": "Your private AI file organizer for Mac",
+   "published": "2026-10-08T15:52:23-07:00",
+   "published_iso": "2026-10-08T22:52:23+00:00",
+   "summary": "Your private AI file organizer for Mac"
   },
   {
    "id": "ph-ee959474a47954f3",
