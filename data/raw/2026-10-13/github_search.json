@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-13T13:27:30.292167+08:00",
- "count": 24,
+ "updated_at": "2026-10-13T21:33:46.299766+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1406706284",
@@ -83,7 +83,7 @@
    "id": "gh-1408099862",
    "title": "alejandrobujan/tendedero",
    "url": "https://github.com/alejandrobujan/tendedero",
-   "stars": 2030,
+   "stars": 2063,
    "language": "Swift",
    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
    "created_at": "2026-10-07T01:29:54Z",
@@ -99,6 +99,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 2030
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2063
     }
    ]
   },
@@ -106,7 +110,7 @@
    "id": "gh-1408277479",
    "title": "HelixDB/helix-foundry",
    "url": "https://github.com/HelixDB/helix-foundry",
-   "stars": 1345,
+   "stars": 1373,
    "language": "TypeScript",
    "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
    "created_at": "2026-10-07T05:10:45Z",
@@ -114,6 +118,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1345
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1373
     }
    ]
   },
@@ -136,7 +144,7 @@
    "id": "gh-1408285582",
    "title": "storytold/gridcraft",
    "url": "https://github.com/storytold/gridcraft",
-   "stars": 3959,
+   "stars": 4203,
    "language": "Rust",
    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
    "created_at": "2026-10-07T05:18:16Z",
@@ -152,6 +160,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 3959
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 4203
     }
    ]
   },
@@ -159,7 +171,7 @@
    "id": "gh-1408289866",
    "title": "storytold/cadcraft",
    "url": "https://github.com/storytold/cadcraft",
-   "stars": 3611,
+   "stars": 3891,
    "language": "Rust",
    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
    "created_at": "2026-10-07T05:22:31Z",
@@ -175,6 +187,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 3611
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 3891
     }
    ]
   },
@@ -182,7 +198,7 @@
    "id": "gh-1408294296",
    "title": "storytold/deckcraft",
    "url": "https://github.com/storytold/deckcraft",
-   "stars": 2662,
+   "stars": 2800,
    "language": "Rust",
    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
    "created_at": "2026-10-07T05:27:21Z",
@@ -198,6 +214,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 2662
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2800
     }
    ]
   },
@@ -205,9 +225,9 @@
    "id": "gh-1408465463",
    "title": "nullmoth/nvidia-macos-driver",
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-   "stars": 2787,
+   "stars": 2856,
    "language": "Rust",
-   "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+   "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
    "created_at": "2026-10-07T08:13:12Z",
    "history": [
     {
@@ -221,6 +241,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 2787
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2856
     }
    ]
   },
@@ -228,7 +252,7 @@
    "id": "gh-1408486424",
    "title": "storytold/soundcraft",
    "url": "https://github.com/storytold/soundcraft",
-   "stars": 2312,
+   "stars": 2419,
    "language": "Rust",
    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
    "created_at": "2026-10-07T08:31:31Z",
@@ -244,6 +268,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 2312
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2419
     }
    ]
   },
@@ -251,7 +279,7 @@
    "id": "gh-1408489772",
    "title": "storytold/wordcraft",
    "url": "https://github.com/storytold/wordcraft",
-   "stars": 9542,
+   "stars": 10278,
    "language": "Rust",
    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
    "created_at": "2026-10-07T08:34:24Z",
@@ -267,6 +295,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 9542
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 10278
     }
    ]
   },
@@ -274,7 +306,7 @@
    "id": "gh-1408493106",
    "title": "shadany7824/playgta5",
    "url": "https://github.com/shadany7824/playgta5",
-   "stars": 1503,
+   "stars": 1540,
    "language": "JavaScript",
    "description": "A source code for playgta5.com.",
    "created_at": "2026-10-07T08:37:15Z",
@@ -290,6 +322,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1503
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1540
     }
    ]
   },
@@ -297,7 +333,7 @@
    "id": "gh-1408557215",
    "title": "LoreanXavier/pt-pc",
    "url": "https://github.com/LoreanXavier/pt-pc",
-   "stars": 1579,
+   "stars": 1616,
    "language": "C++",
    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
    "created_at": "2026-10-07T09:33:31Z",
@@ -313,6 +349,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1579
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1616
     }
    ]
   },
@@ -320,7 +360,7 @@
    "id": "gh-1409013846",
    "title": "Fei2411/DeepSeek-Bot",
    "url": "https://github.com/Fei2411/DeepSeek-Bot",
-   "stars": 1459,
+   "stars": 1594,
    "language": "JavaScript",
    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
    "created_at": "2026-10-07T15:37:36Z",
@@ -328,6 +368,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1459
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1594
     }
    ]
   },
@@ -335,7 +379,7 @@
    "id": "gh-1409246014",
    "title": "bherbruck/solidcraft",
    "url": "https://github.com/bherbruck/solidcraft",
-   "stars": 1168,
+   "stars": 1481,
    "language": "Rust",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "created_at": "2026-10-07T18:57:48Z",
@@ -343,6 +387,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1168
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1481
     }
    ]
   },
@@ -350,7 +398,7 @@
    "id": "gh-1409787646",
    "title": "mhtsec/ARTEX",
    "url": "https://github.com/mhtsec/ARTEX",
-   "stars": 3667,
+   "stars": 3817,
    "language": "Go",
    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
    "created_at": "2026-10-08T05:33:06Z",
@@ -366,6 +414,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 3667
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 3817
     }
    ]
   },
@@ -373,7 +425,7 @@
    "id": "gh-1409860044",
    "title": "t4t5/omdrop-owl",
    "url": "https://github.com/t4t5/omdrop-owl",
-   "stars": 2471,
+   "stars": 2536,
    "language": "Shell",
    "description": "airdrop for non-apple devices",
    "created_at": "2026-10-08T06:38:33Z",
@@ -389,6 +441,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 2471
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2536
     }
    ]
   },
@@ -396,7 +452,7 @@
    "id": "gh-1410124849",
    "title": "wheresryan22/anatomy",
    "url": "https://github.com/wheresryan22/anatomy",
-   "stars": 6663,
+   "stars": 7509,
    "language": "JavaScript",
    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
    "created_at": "2026-10-08T10:12:49Z",
@@ -412,6 +468,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 6663
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 7509
     }
    ]
   },
@@ -419,7 +479,7 @@
    "id": "gh-1410750399",
    "title": "noahdunnagan/fsearch",
    "url": "https://github.com/noahdunnagan/fsearch",
-   "stars": 1988,
+   "stars": 2015,
    "language": "Rust",
    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
    "created_at": "2026-10-08T17:50:33Z",
@@ -435,6 +495,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1988
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2015
     }
    ]
   },
@@ -442,7 +506,7 @@
    "id": "gh-1410929004",
    "title": "ARahim3/DigUp",
    "url": "https://github.com/ARahim3/DigUp",
-   "stars": 1978,
+   "stars": 2127,
    "language": "Swift",
    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
    "created_at": "2026-10-08T20:37:51Z",
@@ -458,6 +522,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1978
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2127
     }
    ]
   },
@@ -465,7 +533,7 @@
    "id": "gh-1412548284",
    "title": "storytold/craft-launcher",
    "url": "https://github.com/storytold/craft-launcher",
-   "stars": 1866,
+   "stars": 2022,
    "language": "Rust",
    "description": "The Craft App Launcher",
    "created_at": "2026-10-09T23:21:59Z",
@@ -481,6 +549,10 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1866
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 2022
     }
    ]
   },
@@ -488,7 +560,7 @@
    "id": "gh-1413898431",
    "title": "liseami/CCBaga",
    "url": "https://github.com/liseami/CCBaga",
-   "stars": 1768,
+   "stars": 1971,
    "language": "Rust",
    "description": "",
    "created_at": "2026-10-11T03:47:06Z",
@@ -504,6 +576,25 @@
     {
      "t": "2026-10-13T13:27:30.292167+08:00",
      "score": 1768
+    },
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1971
+    }
+   ]
+  },
+  {
+   "id": "gh-1414685342",
+   "title": "onehumanbeing/esp32-iphone-agent",
+   "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+   "stars": 1241,
+   "language": "Python",
+   "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+   "created_at": "2026-10-11T19:10:25Z",
+   "history": [
+    {
+     "t": "2026-10-13T21:33:46.299766+08:00",
+     "score": 1241
     }
    ]
   }
