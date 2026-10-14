@@ -1,21 +1,41 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-14T08:08:15.949534+08:00",
- "count": 33,
+ "updated_at": "2026-10-14T13:47:55.230149+08:00",
+ "count": 40,
  "items": [
+  {
+   "id": "hn-50045147",
+   "title": "Sound – Bartosz Ciechanowski (2022)",
+   "url": "https://ciechanow.ski/sound/",
+   "hn_url": "https://news.ycombinator.com/item?id=50045147",
+   "score": 52,
+   "comments": 7,
+   "author": "dverlaeckt80",
+   "time_iso": "2026-10-11T16:46:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 52
+    }
+   ]
+  },
   {
    "id": "hn-50053487",
    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
    "hn_url": "https://news.ycombinator.com/item?id=50053487",
-   "score": 7,
-   "comments": 0,
+   "score": 110,
+   "comments": 10,
    "author": "mdp2021",
    "time_iso": "2026-10-12T09:05:02+00:00",
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 7
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 110
     }
    ]
   },
@@ -24,8 +44,8 @@
    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
    "hn_url": "https://news.ycombinator.com/item?id=50054092",
-   "score": 382,
-   "comments": 301,
+   "score": 576,
+   "comments": 389,
    "author": "thm",
    "time_iso": "2026-10-12T10:09:37+00:00",
    "history": [
@@ -36,6 +56,26 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 382
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 576
+    }
+   ]
+  },
+  {
+   "id": "hn-50057119",
+   "title": "Maybe a better way to track the release history of a Git repo",
+   "url": "https://blog.plover.com/prog/git/history-proposal.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50057119",
+   "score": 23,
+   "comments": 1,
+   "author": "evakhoury",
+   "time_iso": "2026-10-12T14:41:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 23
     }
    ]
   },
@@ -64,8 +104,8 @@
    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
    "hn_url": "https://news.ycombinator.com/item?id=50061659",
-   "score": 131,
-   "comments": 26,
+   "score": 190,
+   "comments": 35,
    "author": "zdw",
    "time_iso": "2026-10-12T19:28:48+00:00",
    "history": [
@@ -76,6 +116,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 131
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 190
     }
    ]
   },
@@ -204,8 +248,8 @@
    "title": "New Apple TV 4K",
    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
    "hn_url": "https://news.ycombinator.com/item?id=50071310",
-   "score": 273,
-   "comments": 523,
+   "score": 320,
+   "comments": 589,
    "author": "corvad",
    "time_iso": "2026-10-13T13:21:35+00:00",
    "history": [
@@ -216,6 +260,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 273
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 320
     }
    ]
   },
@@ -224,8 +272,8 @@
    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
    "hn_url": "https://news.ycombinator.com/item?id=50072286",
-   "score": 170,
-   "comments": 288,
+   "score": 240,
+   "comments": 392,
    "author": "ivell",
    "time_iso": "2026-10-13T14:26:08+00:00",
    "history": [
@@ -236,6 +284,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 170
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 240
     }
    ]
   },
@@ -244,8 +296,8 @@
    "title": "Thunderbird for iOS",
    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
    "hn_url": "https://news.ycombinator.com/item?id=50072913",
-   "score": 317,
-   "comments": 131,
+   "score": 396,
+   "comments": 173,
    "author": "mjorgers",
    "time_iso": "2026-10-13T15:07:37+00:00",
    "history": [
@@ -256,6 +308,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 317
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 396
     }
    ]
   },
@@ -264,8 +320,8 @@
    "title": "The United Kingdom generates less electricity per person than in the 1970s",
    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
    "hn_url": "https://news.ycombinator.com/item?id=50072994",
-   "score": 187,
-   "comments": 260,
+   "score": 261,
+   "comments": 356,
    "author": "karakoram",
    "time_iso": "2026-10-13T15:12:57+00:00",
    "history": [
@@ -276,6 +332,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 187
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 261
     }
    ]
   },
@@ -284,8 +344,8 @@
    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "hn_url": "https://news.ycombinator.com/item?id=50073221",
-   "score": 228,
-   "comments": 143,
+   "score": 306,
+   "comments": 162,
    "author": "sammy0910",
    "time_iso": "2026-10-13T15:25:50+00:00",
    "history": [
@@ -296,6 +356,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 228
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 306
     }
    ]
   },
@@ -320,8 +384,8 @@
    "title": "Redesigning source control at Anthropic",
    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
    "hn_url": "https://news.ycombinator.com/item?id=50073633",
-   "score": 485,
-   "comments": 484,
+   "score": 659,
+   "comments": 631,
    "author": "Philpax",
    "time_iso": "2026-10-13T15:49:56+00:00",
    "history": [
@@ -332,6 +396,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 485
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 659
     }
    ]
   },
@@ -340,8 +408,8 @@
    "title": "Gemini 4 Argon",
    "url": "https://deepmind.google/models/gemini/",
    "hn_url": "https://news.ycombinator.com/item?id=50073879",
-   "score": 926,
-   "comments": 713,
+   "score": 1164,
+   "comments": 833,
    "author": "737max",
    "time_iso": "2026-10-13T16:03:16+00:00",
    "history": [
@@ -352,6 +420,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 926
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 1164
     }
    ]
   },
@@ -373,17 +445,21 @@
   },
   {
    "id": "hn-50074909",
-   "title": "Show HN: How Random Are You?",
+   "title": "Show HN: How random are you?",
    "url": "https://lab.specr.net/rigged-draw/",
    "hn_url": "https://news.ycombinator.com/item?id=50074909",
-   "score": 44,
-   "comments": 21,
+   "score": 119,
+   "comments": 63,
    "author": "vunderba",
    "time_iso": "2026-10-13T16:57:57+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 44
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 119
     }
    ]
   },
@@ -408,14 +484,18 @@
    "title": "Show HN: XY Music Notation",
    "url": "https://music.xy.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50075665",
-   "score": 19,
-   "comments": 17,
+   "score": 65,
+   "comments": 48,
    "author": "jmole",
    "time_iso": "2026-10-13T17:43:05+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 19
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 65
     }
    ]
   },
@@ -456,8 +536,8 @@
    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
    "url": "https://guitoro.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50077020",
-   "score": 216,
-   "comments": 79,
+   "score": 372,
+   "comments": 99,
    "author": "talccc",
    "time_iso": "2026-10-13T19:11:48+00:00",
    "history": [
@@ -468,6 +548,10 @@
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 216
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 372
     }
    ]
   },
@@ -508,14 +592,18 @@
    "title": "OpenAI engineer arrested in bugging of executive conference room",
    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
    "hn_url": "https://news.ycombinator.com/item?id=50078141",
-   "score": 351,
-   "comments": 321,
+   "score": 504,
+   "comments": 432,
    "author": "forthwall",
    "time_iso": "2026-10-13T20:23:55+00:00",
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 351
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 504
     }
    ]
   },
@@ -531,6 +619,10 @@
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 1
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 1
     }
    ]
@@ -556,14 +648,18 @@
    "title": "AlphaNIST",
    "url": "https://alpha-nist.github.io/",
    "hn_url": "https://news.ycombinator.com/item?id=50079464",
-   "score": 25,
-   "comments": 5,
+   "score": 61,
+   "comments": 22,
    "author": "jasonjmcghee",
    "time_iso": "2026-10-13T21:57:29+00:00",
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 25
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 61
     }
    ]
   },
@@ -572,14 +668,34 @@
    "title": "Recreational Programming",
    "url": "https://www.cphiri.dev/presentations/recreational-programming",
    "hn_url": "https://news.ycombinator.com/item?id=50079865",
-   "score": 15,
-   "comments": 3,
+   "score": 121,
+   "comments": 44,
    "author": "jslakro",
    "time_iso": "2026-10-13T22:33:33+00:00",
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50080007",
+   "title": "Grace Hopper Celebration Cancelled",
+   "url": "https://anitab.org/press-release",
+   "hn_url": "https://news.ycombinator.com/item?id=50080007",
+   "score": 90,
+   "comments": 18,
+   "author": "mooreds",
+   "time_iso": "2026-10-13T22:46:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 90
     }
    ]
   },
@@ -588,14 +704,82 @@
    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
    "url": "https://pulseos.finance",
    "hn_url": "https://news.ycombinator.com/item?id=50080275",
-   "score": 12,
-   "comments": 3,
+   "score": 92,
+   "comments": 49,
    "author": "niztk",
    "time_iso": "2026-10-13T23:13:23+00:00",
    "history": [
     {
      "t": "2026-10-14T08:08:15.949534+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50081092",
+   "title": "Do Frameworks Matter Anymore?",
+   "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+   "hn_url": "https://news.ycombinator.com/item?id=50081092",
+   "score": 24,
+   "comments": 10,
+   "author": "fagnerbrack",
+   "time_iso": "2026-10-14T01:01:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50081151",
+   "title": "I built a tool to track what AI leaders say and how their views change on video",
+   "url": "https://blumify.io/people",
+   "hn_url": "https://news.ycombinator.com/item?id=50081151",
+   "score": 64,
+   "comments": 41,
+   "author": "gcsydney",
+   "time_iso": "2026-10-14T01:09:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50081930",
+   "title": "Is 'Attention' the Essence of Intelligence?",
+   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+   "hn_url": "https://news.ycombinator.com/item?id=50081930",
+   "score": 43,
+   "comments": 25,
+   "author": "bcaulfield",
+   "time_iso": "2026-10-14T03:10:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50082470",
+   "title": "Felix Rieseberg Homepage",
+   "url": "https://felixrieseberg.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50082470",
+   "score": 46,
+   "comments": 17,
+   "author": "rglover",
+   "time_iso": "2026-10-14T04:42:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T13:47:55.230149+08:00",
+     "score": 46
     }
    ]
   }

@@ -1,6 +1,6 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-14T08:08:16.697056+08:00",
+ "updated_at": "2026-10-14T13:47:55.842171+08:00",
  "count": 32,
  "items": [
   {
@@ -187,7 +187,7 @@
    "id": "gh-1409787646",
    "title": "mhtsec/ARTEX",
    "url": "https://github.com/mhtsec/ARTEX",
-   "stars": 3871,
+   "stars": 3943,
    "language": "Go",
    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
    "created_at": "2026-10-08T05:33:06Z",
@@ -199,6 +199,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 3871
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 3943
     }
    ]
   },
@@ -206,7 +210,7 @@
    "id": "gh-1409860044",
    "title": "t4t5/omdrop-owl",
    "url": "https://github.com/t4t5/omdrop-owl",
-   "stars": 2584,
+   "stars": 2609,
    "language": "Shell",
    "description": "airdrop for non-apple devices",
    "created_at": "2026-10-08T06:38:33Z",
@@ -218,6 +222,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 2584
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 2609
     }
    ]
   },
@@ -225,7 +233,7 @@
    "id": "gh-1409893258",
    "title": "T-Auto/dsh-ops",
    "url": "https://github.com/T-Auto/dsh-ops",
-   "stars": 857,
+   "stars": 888,
    "language": "JavaScript",
    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
    "created_at": "2026-10-08T07:09:25Z",
@@ -233,6 +241,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 857
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 888
     }
    ]
   },
@@ -240,7 +252,7 @@
    "id": "gh-1410124849",
    "title": "wheresryan22/anatomy",
    "url": "https://github.com/wheresryan22/anatomy",
-   "stars": 8167,
+   "stars": 8591,
    "language": "JavaScript",
    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
    "created_at": "2026-10-08T10:12:49Z",
@@ -252,6 +264,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 8167
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 8591
     }
    ]
   },
@@ -259,7 +275,7 @@
    "id": "gh-1410719150",
    "title": "anthropics/oss-scanner",
    "url": "https://github.com/anthropics/oss-scanner",
-   "stars": 964,
+   "stars": 975,
    "language": "Dockerfile",
    "description": "",
    "created_at": "2026-10-08T17:25:19Z",
@@ -267,6 +283,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 964
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 975
     }
    ]
   },
@@ -274,7 +294,7 @@
    "id": "gh-1410721941",
    "title": "NVIDIA-Omniverse/usd-brep",
    "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-   "stars": 1127,
+   "stars": 1247,
    "language": "C++",
    "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
    "created_at": "2026-10-08T17:27:36Z",
@@ -282,6 +302,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1127
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1247
     }
    ]
   },
@@ -289,7 +313,7 @@
    "id": "gh-1410750399",
    "title": "noahdunnagan/fsearch",
    "url": "https://github.com/noahdunnagan/fsearch",
-   "stars": 2030,
+   "stars": 2036,
    "language": "Rust",
    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
    "created_at": "2026-10-08T17:50:33Z",
@@ -301,6 +325,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 2030
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 2036
     }
    ]
   },
@@ -308,7 +336,7 @@
    "id": "gh-1410787228",
    "title": "wesbos/photo-frame-dashboard",
    "url": "https://github.com/wesbos/photo-frame-dashboard",
-   "stars": 1073,
+   "stars": 1092,
    "language": "Python",
    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
    "created_at": "2026-10-08T18:22:19Z",
@@ -316,6 +344,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1073
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1092
     }
    ]
   },
@@ -323,7 +355,7 @@
    "id": "gh-1410926671",
    "title": "trhhubsd/ARTEXX",
    "url": "https://github.com/trhhubsd/ARTEXX",
-   "stars": 1122,
+   "stars": 1207,
    "language": "Go",
    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
    "created_at": "2026-10-08T20:35:22Z",
@@ -331,6 +363,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1122
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1207
     }
    ]
   },
@@ -338,7 +374,7 @@
    "id": "gh-1410929004",
    "title": "ARahim3/DigUp",
    "url": "https://github.com/ARahim3/DigUp",
-   "stars": 2349,
+   "stars": 2734,
    "language": "Swift",
    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
    "created_at": "2026-10-08T20:37:51Z",
@@ -350,6 +386,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 2349
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 2734
     }
    ]
   },
@@ -357,7 +397,7 @@
    "id": "gh-1412548284",
    "title": "storytold/craft-launcher",
    "url": "https://github.com/storytold/craft-launcher",
-   "stars": 2294,
+   "stars": 2383,
    "language": "Rust",
    "description": "The Craft App Launcher",
    "created_at": "2026-10-09T23:21:59Z",
@@ -369,6 +409,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 2294
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 2383
     }
    ]
   },
@@ -376,7 +420,7 @@
    "id": "gh-1412573009",
    "title": "shaongitbd/doory",
    "url": "https://github.com/shaongitbd/doory",
-   "stars": 1050,
+   "stars": 1080,
    "language": "TypeScript",
    "description": "Open source canva alternative",
    "created_at": "2026-10-10T00:03:25Z",
@@ -384,6 +428,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1050
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1080
     }
    ]
   },
@@ -391,7 +439,7 @@
    "id": "gh-1413021530",
    "title": "rociiu/talorys",
    "url": "https://github.com/rociiu/talorys",
-   "stars": 958,
+   "stars": 968,
    "language": "TypeScript",
    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
    "created_at": "2026-10-10T09:46:56Z",
@@ -399,6 +447,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 958
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 968
     }
    ]
   },
@@ -406,7 +458,7 @@
    "id": "gh-1413187188",
    "title": "marclou/mailcheap",
    "url": "https://github.com/marclou/mailcheap",
-   "stars": 895,
+   "stars": 903,
    "language": "JavaScript",
    "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
    "created_at": "2026-10-10T12:55:36Z",
@@ -414,6 +466,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 895
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 903
     }
    ]
   },
@@ -421,7 +477,7 @@
    "id": "gh-1413549354",
    "title": "opengeos/RustGIS",
    "url": "https://github.com/opengeos/RustGIS",
-   "stars": 790,
+   "stars": 845,
    "language": "Rust",
    "description": "A fast, free and open-source GIS in pure Rust.",
    "created_at": "2026-10-10T18:45:41Z",
@@ -429,6 +485,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 790
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 845
     }
    ]
   },
@@ -436,7 +496,7 @@
    "id": "gh-1413898431",
    "title": "liseami/CCBaga",
    "url": "https://github.com/liseami/CCBaga",
-   "stars": 2048,
+   "stars": 2117,
    "language": "Rust",
    "description": "",
    "created_at": "2026-10-11T03:47:06Z",
@@ -448,6 +508,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 2048
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 2117
     }
    ]
   },
@@ -455,7 +519,7 @@
    "id": "gh-1414685342",
    "title": "onehumanbeing/esp32-iphone-agent",
    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-   "stars": 1508,
+   "stars": 1706,
    "language": "Python",
    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
    "created_at": "2026-10-11T19:10:25Z",
@@ -467,6 +531,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1508
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1706
     }
    ]
   },
@@ -474,7 +542,7 @@
    "id": "gh-1415214046",
    "title": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
-   "stars": 863,
+   "stars": 888,
    "language": "Python",
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
    "created_at": "2026-10-12T07:11:01Z",
@@ -482,6 +550,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 863
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 888
     }
    ]
   },
@@ -489,7 +561,7 @@
    "id": "gh-1415313946",
    "title": "jhaizhou-ops/d2r-mobile",
    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-   "stars": 1121,
+   "stars": 1289,
    "language": "C",
    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game",
    "created_at": "2026-10-12T08:41:19Z",
@@ -497,6 +569,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 1121
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 1289
     }
    ]
   },
@@ -504,7 +580,7 @@
    "id": "gh-1416386910",
    "title": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "stars": 838,
+   "stars": 980,
    "language": "Python",
    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
    "created_at": "2026-10-13T03:09:42Z",
@@ -512,6 +588,10 @@
     {
      "t": "2026-10-14T08:08:16.697056+08:00",
      "score": 838
+    },
+    {
+     "t": "2026-10-14T13:47:55.842171+08:00",
+     "score": 980
     }
    ]
   }
