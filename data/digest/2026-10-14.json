@@ -1,7 +1,22 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T13:47:57.663781+08:00",
+ "generated_at": "2026-10-14T19:10:17.963663+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Gemini 4 Argon",
+     "url": "https://deepmind.google/models/gemini/",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Gemini 4 Argon",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Gemini 4 Argon",
      "url": "https://deepmind.google/models/gemini/",
-     "meta": "+510 分 / 9.7 小时 · 现 ⭐ 1164",
+     "meta": "+678 分 / 15.1 小时 · 现 ⭐ 1332",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +33,7 @@
     {
      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-     "meta": "+436 分 / 9.7 小时 · 现 ⭐ 576",
+     "meta": "+581 分 / 15.1 小时 · 现 ⭐ 721",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +41,7 @@
     {
      "title": "Redesigning source control at Anthropic",
      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-     "meta": "+390 分 / 9.7 小时 · 现 ⭐ 659",
+     "meta": "+521 分 / 15.1 小时 · 现 ⭐ 790",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +49,7 @@
     {
      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
      "url": "https://guitoro.com/",
-     "meta": "+343 分 / 9.7 小时 · 现 ⭐ 372",
+     "meta": "+422 分 / 15.1 小时 · 现 ⭐ 451",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,7 +57,23 @@
     {
      "title": "The United Kingdom generates less electricity per person than in the 1970s",
      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-     "meta": "+164 分 / 9.7 小时 · 现 ⭐ 261",
+     "meta": "+233 分 / 15.1 小时 · 现 ⭐ 330",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Recreational Programming",
+     "url": "https://www.cphiri.dev/presentations/recreational-programming",
+     "meta": "+191 分 / 11.0 小时 · 现 ⭐ 206",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+     "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+     "meta": "+167 分 / 11.0 小时 · 现 ⭐ 174",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -64,25 +95,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "OpenAI engineer arrested in bugging of executive conference room",
-     "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-     "meta": "+153 分 / 5.7 小时 · 现 ⭐ 504",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-     "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-     "meta": "+143 分 / 9.7 小时 · 现 ⭐ 306",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Firefox Enterprise",
-     "url": "https://www.firefox.com/en-US/enterprise/",
-     "meta": "+128 分 / 4.1 小时 · 现 ⭐ 619",
+     "title": "Felix Rieseberg Homepage",
+     "url": "https://felixrieseberg.com/",
+     "meta": "+154 分 / 5.4 小时 · 现 ⭐ 200",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -94,6 +109,14 @@
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "The EU’s next chapter in AI is agentic",
+     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
@@ -205,14 +228,6 @@
      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -232,7 +247,7 @@
     {
      "title": "wheresryan22/anatomy",
      "url": "https://github.com/wheresryan22/anatomy",
-     "meta": "⭐ 8591 · JavaScript",
+     "meta": "⭐ 8981 · JavaScript",
      "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,8 +271,16 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 3943 · Go",
+     "meta": "⭐ 4013 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ARahim3/DigUp",
+     "url": "https://github.com/ARahim3/DigUp",
+     "meta": "⭐ 3121 · Swift",
+     "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -278,17 +301,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "ARahim3/DigUp",
-     "url": "https://github.com/ARahim3/DigUp",
-     "meta": "⭐ 2734 · Swift",
-     "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "t4t5/omdrop-owl",
      "url": "https://github.com/t4t5/omdrop-owl",
-     "meta": "⭐ 2609 · Shell",
+     "meta": "⭐ 2628 · Shell",
      "summary": "airdrop for non-apple devices",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +319,7 @@
     {
      "title": "storytold/craft-launcher",
      "url": "https://github.com/storytold/craft-launcher",
-     "meta": "⭐ 2383 · Rust",
+     "meta": "⭐ 2479 · Rust",
      "summary": "The Craft App Launcher",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +327,7 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2117 · Rust",
+     "meta": "⭐ 2202 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +343,7 @@
     {
      "title": "noahdunnagan/fsearch",
      "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 2036 · Rust",
+     "meta": "⭐ 2039 · Rust",
      "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +351,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 1706 · Python",
+     "meta": "⭐ 1898 · Python",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +366,7 @@
     {
      "title": "Gemini 4 Argon",
      "url": "https://deepmind.google/models/gemini/",
-     "meta": "⭐ 1164 · 💬 833",
+     "meta": "⭐ 1332 · 💬 926",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -359,7 +374,15 @@
     {
      "title": "Redesigning source control at Anthropic",
      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-     "meta": "⭐ 659 · 💬 631",
+     "meta": "⭐ 790 · 💬 816",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+     "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+     "meta": "⭐ 721 · 💬 452",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,17 +412,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-     "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-     "meta": "⭐ 576 · 💬 389",
+     "title": "OpenAI engineer arrested in bugging of executive conference room",
+     "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+     "meta": "⭐ 504 · 💬 432",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "OpenAI engineer arrested in bugging of executive conference room",
-     "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-     "meta": "⭐ 504 · 💬 432",
+     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+     "url": "https://guitoro.com/",
+     "meta": "⭐ 451 · 💬 116",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,9 +444,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-     "url": "https://guitoro.com/",
-     "meta": "⭐ 372 · 💬 99",
+     "title": "The United Kingdom generates less electricity per person than in the 1970s",
+     "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+     "meta": "⭐ 330 · 💬 534",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,9 +468,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The United Kingdom generates less electricity per person than in the 1970s",
-     "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-     "meta": "⭐ 261 · 💬 356",
+     "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+     "url": "https://github.com/android/ndk/issues/2260",
+     "meta": "⭐ 289 · 💬 130",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -456,14 +479,6 @@
      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
      "meta": "⭐ 240 · 💬 392",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-     "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-     "meta": "⭐ 216 · 💬 91",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -500,10 +515,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Apple HomePod mini 2",
+     "url": "https://www.producthunt.com/products/apple-homepod-mini",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "Apple's tiny smart speaker, now built for Siri AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "SalesRep.com",
      "url": "https://www.producthunt.com/products/salesrep-com",
      "meta": "Product Hunt · 2026-10-08",
      "summary": "Your AI sales rep: live prices, quotes & follow-ups 24/7",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "NoteHouse",
+     "url": "https://www.producthunt.com/products/notehouse-2",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "Private lending, without the paperwork headache.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -520,6 +551,14 @@
      "url": "https://www.producthunt.com/products/gitglow-2",
      "meta": "Product Hunt · 2026-10-09",
      "summary": "Review your code and your agents' changes before you ship",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Exodus for Google Cloud Run",
+     "url": "https://www.producthunt.com/products/exodus-by-elim-io",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "Upgrade any app to Cloud Run, with your coding agent",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -556,42 +595,18 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "Halo",
-     "url": "https://www.producthunt.com/products/halo-11",
-     "meta": "Product Hunt · 2026-10-08",
-     "summary": "Notifications, dictation and AI agents in your Mac's notch",
+     "title": "Gemini 4 Argon",
+     "url": "https://www.producthunt.com/products/gemini-4-argon-2",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "Google's frontier model for long, complex agentic work",
      "reason": null,
      "origin_source": "producthunt"
     },
     {
-     "title": "Ancher 2.0",
-     "url": "https://www.producthunt.com/products/ancher-ai",
-     "meta": "Product Hunt · 2026-10-01",
-     "summary": "Turn everything you read and save into work you can ship",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "OpenWhispr for iOS",
-     "url": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
-     "meta": "Product Hunt · 2026-10-06",
-     "summary": "100% open source, free & on device transcription",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "OpenCode 2.0",
-     "url": "https://www.producthunt.com/products/opencode",
-     "meta": "Product Hunt · 2026-10-12",
-     "summary": "The open source AI coding agent",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Bearconnect 2.0",
-     "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
-     "meta": "Product Hunt · 2026-09-29",
-     "summary": "AI-Powered LinkedIn Platform for Content and Outreach",
+     "title": "Make0 Brain",
+     "url": "https://www.producthunt.com/products/make0-brain",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "A memory store that works across all of your AI agents.",
      "reason": null,
      "origin_source": "producthunt"
     }

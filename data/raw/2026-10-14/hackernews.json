@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-14T13:47:55.230149+08:00",
- "count": 40,
+ "updated_at": "2026-10-14T19:10:15.919599+08:00",
+ "count": 56,
  "items": [
   {
    "id": "hn-50045147",
    "title": "Sound – Bartosz Ciechanowski (2022)",
    "url": "https://ciechanow.ski/sound/",
    "hn_url": "https://news.ycombinator.com/item?id=50045147",
-   "score": 52,
-   "comments": 7,
+   "score": 135,
+   "comments": 19,
    "author": "dverlaeckt80",
    "time_iso": "2026-10-11T16:46:43+00:00",
    "history": [
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 52
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 135
     }
    ]
   },
@@ -24,8 +28,8 @@
    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
    "hn_url": "https://news.ycombinator.com/item?id=50053487",
-   "score": 110,
-   "comments": 10,
+   "score": 174,
+   "comments": 22,
    "author": "mdp2021",
    "time_iso": "2026-10-12T09:05:02+00:00",
    "history": [
@@ -36,6 +40,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 110
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 174
     }
    ]
   },
@@ -44,8 +52,8 @@
    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
    "hn_url": "https://news.ycombinator.com/item?id=50054092",
-   "score": 576,
-   "comments": 389,
+   "score": 721,
+   "comments": 452,
    "author": "thm",
    "time_iso": "2026-10-12T10:09:37+00:00",
    "history": [
@@ -60,6 +68,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 576
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 721
     }
    ]
   },
@@ -120,6 +132,38 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 190
+    }
+   ]
+  },
+  {
+   "id": "hn-50061985",
+   "title": "Who Taught the Machines Mathematics?",
+   "url": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
+   "hn_url": "https://news.ycombinator.com/item?id=50061985",
+   "score": 6,
+   "comments": 0,
+   "author": "speckx",
+   "time_iso": "2026-10-12T19:49:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50063104",
+   "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+   "url": "https://kristaps.bsd.lv/kcgi/",
+   "hn_url": "https://news.ycombinator.com/item?id=50063104",
+   "score": 33,
+   "comments": 19,
+   "author": "Bluestein",
+   "time_iso": "2026-10-12T21:09:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 33
     }
    ]
   },
@@ -268,6 +312,22 @@
    ]
   },
   {
+   "id": "hn-50071466",
+   "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+   "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+   "hn_url": "https://news.ycombinator.com/item?id=50071466",
+   "score": 19,
+   "comments": 1,
+   "author": "marcbpaul",
+   "time_iso": "2026-10-13T13:31:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
    "id": "hn-50072286",
    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
@@ -320,8 +380,8 @@
    "title": "The United Kingdom generates less electricity per person than in the 1970s",
    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
    "hn_url": "https://news.ycombinator.com/item?id=50072994",
-   "score": 261,
-   "comments": 356,
+   "score": 330,
+   "comments": 534,
    "author": "karakoram",
    "time_iso": "2026-10-13T15:12:57+00:00",
    "history": [
@@ -336,6 +396,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 261
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 330
     }
    ]
   },
@@ -384,8 +448,8 @@
    "title": "Redesigning source control at Anthropic",
    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
    "hn_url": "https://news.ycombinator.com/item?id=50073633",
-   "score": 659,
-   "comments": 631,
+   "score": 790,
+   "comments": 816,
    "author": "Philpax",
    "time_iso": "2026-10-13T15:49:56+00:00",
    "history": [
@@ -400,6 +464,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 659
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 790
     }
    ]
   },
@@ -408,8 +476,8 @@
    "title": "Gemini 4 Argon",
    "url": "https://deepmind.google/models/gemini/",
    "hn_url": "https://news.ycombinator.com/item?id=50073879",
-   "score": 1164,
-   "comments": 833,
+   "score": 1332,
+   "comments": 926,
    "author": "737max",
    "time_iso": "2026-10-13T16:03:16+00:00",
    "history": [
@@ -424,6 +492,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 1164
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 1332
     }
    ]
   },
@@ -536,8 +608,8 @@
    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
    "url": "https://guitoro.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50077020",
-   "score": 372,
-   "comments": 99,
+   "score": 451,
+   "comments": 116,
    "author": "talccc",
    "time_iso": "2026-10-13T19:11:48+00:00",
    "history": [
@@ -552,6 +624,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 372
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 451
     }
    ]
   },
@@ -668,8 +744,8 @@
    "title": "Recreational Programming",
    "url": "https://www.cphiri.dev/presentations/recreational-programming",
    "hn_url": "https://news.ycombinator.com/item?id=50079865",
-   "score": 121,
-   "comments": 44,
+   "score": 206,
+   "comments": 81,
    "author": "jslakro",
    "time_iso": "2026-10-13T22:33:33+00:00",
    "history": [
@@ -680,6 +756,10 @@
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 121
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 206
     }
    ]
   },
@@ -768,18 +848,230 @@
    ]
   },
   {
+   "id": "hn-50082021",
+   "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+   "url": "https://strafe.chat/",
+   "hn_url": "https://news.ycombinator.com/item?id=50082021",
+   "score": 37,
+   "comments": 19,
+   "author": "brydencalaway",
+   "time_iso": "2026-10-14T03:28:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
    "id": "hn-50082470",
    "title": "Felix Rieseberg Homepage",
    "url": "https://felixrieseberg.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50082470",
-   "score": 46,
-   "comments": 17,
+   "score": 200,
+   "comments": 79,
    "author": "rglover",
    "time_iso": "2026-10-14T04:42:33+00:00",
    "history": [
     {
      "t": "2026-10-14T13:47:55.230149+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 200
+    }
+   ]
+  },
+  {
+   "id": "hn-50083028",
+   "title": "Why is every rationalist blog post way too long?",
+   "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50083028",
+   "score": 26,
+   "comments": 20,
+   "author": "epestr",
+   "time_iso": "2026-10-14T06:02:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50083130",
+   "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+   "url": "https://github.com/android/ndk/issues/2260",
+   "hn_url": "https://news.ycombinator.com/item?id=50083130",
+   "score": 289,
+   "comments": 130,
+   "author": "tharen",
+   "time_iso": "2026-10-14T06:18:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 289
+    }
+   ]
+  },
+  {
+   "id": "hn-50084240",
+   "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+   "url": "https://typeof.net/Iosevka/",
+   "hn_url": "https://news.ycombinator.com/item?id=50084240",
+   "score": 148,
+   "comments": 55,
+   "author": "otobrglez",
+   "time_iso": "2026-10-14T08:27:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 148
+    }
+   ]
+  },
+  {
+   "id": "hn-50084416",
+   "title": "What agents mean for Rust (and vice versa)",
+   "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+   "hn_url": "https://news.ycombinator.com/item?id=50084416",
+   "score": 18,
+   "comments": 14,
+   "author": "mfrw",
+   "time_iso": "2026-10-14T08:49:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50084757",
+   "title": "Amazon pushes up prices across the Internet",
+   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "hn_url": "https://news.ycombinator.com/item?id=50084757",
+   "score": 9,
+   "comments": 2,
+   "author": "sighborg",
+   "time_iso": "2026-10-14T09:28:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50084838",
+   "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+   "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+   "hn_url": "https://news.ycombinator.com/item?id=50084838",
+   "score": 6,
+   "comments": 0,
+   "author": "hacb",
+   "time_iso": "2026-10-14T09:37:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50084969",
+   "title": "Ask HN: What is the current trajectory of a senior engineer?",
+   "url": "https://news.ycombinator.com/item?id=50084969",
+   "hn_url": "https://news.ycombinator.com/item?id=50084969",
+   "score": 16,
+   "comments": 17,
+   "author": "guitarlimeo",
+   "time_iso": "2026-10-14T09:54:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50085259",
+   "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+   "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+   "hn_url": "https://news.ycombinator.com/item?id=50085259",
+   "score": 29,
+   "comments": 20,
+   "author": "lensecat",
+   "time_iso": "2026-10-14T10:21:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50085296",
+   "title": "I let an AI run my startup for a week",
+   "url": "https://daily.tinyprojects.dev/221",
+   "hn_url": "https://news.ycombinator.com/item?id=50085296",
+   "score": 29,
+   "comments": 17,
+   "author": "tinyprojects",
+   "time_iso": "2026-10-14T10:25:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50085302",
+   "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+   "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+   "hn_url": "https://news.ycombinator.com/item?id=50085302",
+   "score": 5,
+   "comments": 0,
+   "author": "EvgeniyZh",
+   "time_iso": "2026-10-14T10:26:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50085306",
+   "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+   "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+   "hn_url": "https://news.ycombinator.com/item?id=50085306",
+   "score": 5,
+   "comments": 0,
+   "author": "mpweiher",
+   "time_iso": "2026-10-14T10:26:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50085332",
+   "title": "Show HN: Building an LLM from Scratch in TypeScript",
+   "url": "https://book.humanexperiences.io/",
+   "hn_url": "https://news.ycombinator.com/item?id=50085332",
+   "score": 8,
+   "comments": 0,
+   "author": "baraa_",
+   "time_iso": "2026-10-14T10:29:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T19:10:15.919599+08:00",
+     "score": 8
     }
    ]
   }

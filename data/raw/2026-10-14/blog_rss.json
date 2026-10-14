@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-14T13:47:57.426659+08:00",
- "count": 2325,
+ "updated_at": "2026-10-14T19:10:17.653737+08:00",
+ "count": 2326,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -2587,6 +2587,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1ea8ff42a7988fd9",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "feed_name": "OpenAI",
+   "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+   "published_iso": "2026-10-14T00:00:00+00:00",
+   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+  },
+  {
    "id": "rss-1ed301b1b45fa72d",
    "title": "Learning sparse neural networks through L₀ regularization",
    "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
@@ -2692,15 +2701,6 @@
    "feed_name": "Hugging Face",
    "published": "Tue, 21 Apr 2026 10:09:58 GMT",
    "published_iso": "2026-04-21T10:09:58+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-2034adaf8866f204",
-   "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
-   "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 24 Oct 2023 00:00:00 GMT",
-   "published_iso": "2023-10-24T00:00:00+00:00",
    "summary": ""
   }
  ]
