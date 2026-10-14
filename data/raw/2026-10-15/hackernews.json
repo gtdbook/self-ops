@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-15T00:31:40.453875+08:00",
- "count": 25,
+ "updated_at": "2026-10-15T04:26:50.606983+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-50043112",
@@ -15,6 +15,22 @@
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50043948",
+   "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+   "url": "https://timurschess.com",
+   "hn_url": "https://news.ycombinator.com/item?id=50043948",
+   "score": 7,
+   "comments": 0,
+   "author": "LarsDu88",
+   "time_iso": "2026-10-11T14:52:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
      "score": 7
     }
    ]
@@ -52,18 +68,38 @@
    ]
   },
   {
+   "id": "hn-50054465",
+   "title": "Phloem: Git history grown like a slime mold",
+   "url": "https://phloem.stemdeck.app/",
+   "hn_url": "https://news.ycombinator.com/item?id=50054465",
+   "score": 41,
+   "comments": 16,
+   "author": "thclpr",
+   "time_iso": "2026-10-12T10:52:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
    "id": "hn-50055632",
    "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
    "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
    "hn_url": "https://news.ycombinator.com/item?id=50055632",
-   "score": 33,
-   "comments": 5,
+   "score": 58,
+   "comments": 12,
    "author": "ripe",
    "time_iso": "2026-10-12T12:44:42+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 58
     }
    ]
   },
@@ -88,14 +124,34 @@
    "title": "The Origin Story of Kid Pix",
    "url": "http://red-green-blue.com/kid-pix-the-early-years",
    "hn_url": "https://news.ycombinator.com/item?id=50064673",
-   "score": 116,
-   "comments": 23,
+   "score": 173,
+   "comments": 38,
    "author": "MBCook",
    "time_iso": "2026-10-12T23:52:29+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 116
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 173
+    }
+   ]
+  },
+  {
+   "id": "hn-50065572",
+   "title": "LittleJS is 2D and 3D now",
+   "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+   "hn_url": "https://news.ycombinator.com/item?id=50065572",
+   "score": 66,
+   "comments": 16,
+   "author": "dmit",
+   "time_iso": "2026-10-13T01:50:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 66
     }
    ]
   },
@@ -149,17 +205,21 @@
   },
   {
    "id": "hn-50084240",
-   "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+   "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
    "url": "https://typeof.net/Iosevka/",
    "hn_url": "https://news.ycombinator.com/item?id=50084240",
-   "score": 491,
-   "comments": 197,
+   "score": 644,
+   "comments": 271,
    "author": "otobrglez",
    "time_iso": "2026-10-14T08:27:59+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 491
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 644
     }
    ]
   },
@@ -168,14 +228,18 @@
    "title": "Amazon pushes up prices across the Internet",
    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
    "hn_url": "https://news.ycombinator.com/item?id=50084757",
-   "score": 440,
-   "comments": 412,
+   "score": 640,
+   "comments": 545,
    "author": "sighborg",
    "time_iso": "2026-10-14T09:28:17+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 440
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 640
     }
    ]
   },
@@ -232,14 +296,18 @@
    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
    "url": "https://github.com/timescale/pg_vectorsearch",
    "hn_url": "https://news.ycombinator.com/item?id=50086165",
-   "score": 122,
-   "comments": 35,
+   "score": 171,
+   "comments": 47,
    "author": "jascha_eng",
    "time_iso": "2026-10-14T11:47:53+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 122
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 171
     }
    ]
   },
@@ -248,14 +316,18 @@
    "title": "Nvidia's first GPU: GeForce 256",
    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
    "hn_url": "https://news.ycombinator.com/item?id=50086363",
-   "score": 12,
-   "comments": 4,
+   "score": 54,
+   "comments": 35,
    "author": "ibobev",
    "time_iso": "2026-10-14T12:05:44+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 54
     }
    ]
   },
@@ -312,14 +384,18 @@
    "title": "Running Windows desktop tests from Linux with disposable VMs",
    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
    "hn_url": "https://news.ycombinator.com/item?id=50088643",
-   "score": 27,
-   "comments": 13,
+   "score": 69,
+   "comments": 26,
    "author": "jadenlemmon",
    "time_iso": "2026-10-14T14:55:19+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 69
     }
    ]
   },
@@ -328,14 +404,18 @@
    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
    "url": "https://github.com/graphicle-ai/graphicle",
    "hn_url": "https://news.ycombinator.com/item?id=50088713",
-   "score": 7,
-   "comments": 1,
+   "score": 35,
+   "comments": 10,
    "author": "KarLexAI",
    "time_iso": "2026-10-14T15:00:41+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 7
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 35
     }
    ]
   },
@@ -357,17 +437,21 @@
   },
   {
    "id": "hn-50089229",
-   "title": "Submarine Cable Resilience",
+   "title": "Submarine cable resilience",
    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
    "hn_url": "https://news.ycombinator.com/item?id=50089229",
-   "score": 8,
-   "comments": 0,
+   "score": 109,
+   "comments": 32,
    "author": "speckx",
    "time_iso": "2026-10-14T15:31:15+00:00",
    "history": [
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 109
     }
    ]
   },
@@ -400,6 +484,214 @@
     {
      "t": "2026-10-15T00:31:40.453875+08:00",
      "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50090246",
+   "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+   "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090246",
+   "score": 419,
+   "comments": 207,
+   "author": "bhrlady",
+   "time_iso": "2026-10-14T16:24:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 419
+    }
+   ]
+  },
+  {
+   "id": "hn-50090349",
+   "title": "Google is silently linking your phone number across all signed-in accounts",
+   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090349",
+   "score": 227,
+   "comments": 51,
+   "author": "Brajeshwar",
+   "time_iso": "2026-10-14T16:28:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 227
+    }
+   ]
+  },
+  {
+   "id": "hn-50090369",
+   "title": "Better HTTP/1 connection reuse in Go 1.27",
+   "url": "https://go.dev/blog/http-connection-reuse",
+   "hn_url": "https://news.ycombinator.com/item?id=50090369",
+   "score": 140,
+   "comments": 25,
+   "author": "allddd",
+   "time_iso": "2026-10-14T16:29:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 140
+    }
+   ]
+  },
+  {
+   "id": "hn-50090932",
+   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+   "url": "https://clova.email/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090932",
+   "score": 41,
+   "comments": 34,
+   "author": "edpin2000",
+   "time_iso": "2026-10-14T17:00:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50091788",
+   "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50091788",
+   "score": 697,
+   "comments": 315,
+   "author": "latexr",
+   "time_iso": "2026-10-14T17:45:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 697
+    }
+   ]
+  },
+  {
+   "id": "hn-50091794",
+   "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+   "url": "https://github.com/bealesh/neckbeard",
+   "hn_url": "https://news.ycombinator.com/item?id=50091794",
+   "score": 42,
+   "comments": 20,
+   "author": "bealesh",
+   "time_iso": "2026-10-14T17:45:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50091875",
+   "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+   "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+   "hn_url": "https://news.ycombinator.com/item?id=50091875",
+   "score": 70,
+   "comments": 27,
+   "author": "speckx",
+   "time_iso": "2026-10-14T17:50:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 70
+    }
+   ]
+  },
+  {
+   "id": "hn-50092470",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "hn_url": "https://news.ycombinator.com/item?id=50092470",
+   "score": 48,
+   "comments": 7,
+   "author": "thedracle",
+   "time_iso": "2026-10-14T18:23:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50092664",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "hn_url": "https://news.ycombinator.com/item?id=50092664",
+   "score": 136,
+   "comments": 107,
+   "author": "smartmic",
+   "time_iso": "2026-10-14T18:32:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 136
+    }
+   ]
+  },
+  {
+   "id": "hn-50092730",
+   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+   "hn_url": "https://news.ycombinator.com/item?id=50092730",
+   "score": 172,
+   "comments": 96,
+   "author": "ilamont",
+   "time_iso": "2026-10-14T18:37:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 172
+    }
+   ]
+  },
+  {
+   "id": "hn-50093180",
+   "title": "Suicide rates highest ever among middle-aged men",
+   "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+   "hn_url": "https://news.ycombinator.com/item?id=50093180",
+   "score": 84,
+   "comments": 48,
+   "author": "ivewonyoung",
+   "time_iso": "2026-10-14T19:03:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 84
+    }
+   ]
+  },
+  {
+   "id": "hn-50093568",
+   "title": "Things to know if you get cancer in 2026",
+   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50093568",
+   "score": 46,
+   "comments": 0,
+   "author": "jjmaxwell4",
+   "time_iso": "2026-10-14T19:26:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50093612",
+   "title": "Fancy Curl Sites",
+   "url": "https://nytpu.com/gemlog/2026-03-18",
+   "hn_url": "https://news.ycombinator.com/item?id=50093612",
+   "score": 10,
+   "comments": 3,
+   "author": "adunk",
+   "time_iso": "2026-10-14T19:29:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T04:26:50.606983+08:00",
+     "score": 10
     }
    ]
   }

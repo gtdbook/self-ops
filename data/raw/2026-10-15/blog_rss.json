@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-15T00:31:42.725466+08:00",
- "count": 2326,
+ "updated_at": "2026-10-15T04:26:52.681498+08:00",
+ "count": 2328,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -1207,7 +1207,7 @@
    "feed_name": "TechCrunch AI",
    "published": "Wed, 14 Oct 2026 14:30:00 +0000",
    "published_iso": "2026-10-14T14:30:00+00:00",
-   "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass."
+   "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
   },
   {
    "id": "rss-0f2e09074d935af0",
@@ -1523,6 +1523,15 @@
    "published": "Wed, 06 May 2026 19:06:55 GMT",
    "published_iso": "2026-05-06T19:06:55+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-11f72270101b7c04",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "feed_name": "OpenAI",
+   "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+   "published_iso": "2026-10-14T12:00:00+00:00",
+   "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
   },
   {
    "id": "rss-1204bd549a14175d",
@@ -2692,15 +2701,6 @@
    "feed_name": "Hugging Face",
    "published": "Tue, 21 Apr 2026 10:09:58 GMT",
    "published_iso": "2026-04-21T10:09:58+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-2034adaf8866f204",
-   "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
-   "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 24 Oct 2023 00:00:00 GMT",
-   "published_iso": "2023-10-24T00:00:00+00:00",
    "summary": ""
   }
  ]

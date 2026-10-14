@@ -1,7 +1,86 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T00:31:43.109551+08:00",
+ "generated_at": "2026-10-15T04:26:53.032395+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Amazon pushes up prices across the Internet",
+     "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+     "meta": "+200 分 / 3.9 小时 · 现 ⭐ 640",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+     "url": "https://typeof.net/Iosevka/",
+     "meta": "+153 分 / 3.9 小时 · 现 ⭐ 644",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Submarine cable resilience",
+     "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+     "meta": "+101 分 / 3.9 小时 · 现 ⭐ 109",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Origin Story of Kid Pix",
+     "url": "http://red-green-blue.com/kid-pix-the-early-years",
+     "meta": "+57 分 / 3.9 小时 · 现 ⭐ 173",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+     "url": "https://github.com/timescale/pg_vectorsearch",
+     "meta": "+49 分 / 3.9 小时 · 现 ⭐ 171",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia's first GPU: GeForce 256",
+     "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+     "meta": "+42 分 / 3.9 小时 · 现 ⭐ 54",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Running Windows desktop tests from Linux with disposable VMs",
+     "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+     "meta": "+42 分 / 3.9 小时 · 现 ⭐ 69",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+     "url": "https://github.com/graphicle-ai/graphicle",
+     "meta": "+28 分 / 3.9 小时 · 现 ⭐ 35",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+     "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+     "meta": "+25 分 / 3.9 小时 · 现 ⭐ 58",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -11,7 +90,15 @@
      "title": "TechCrunch Disrupt 2026: Day 2",
      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
      "meta": "TechCrunch AI · 2026-10-14",
-     "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+     "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -118,14 +205,6 @@
      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +216,7 @@
     {
      "title": "wheresryan22/anatomy",
      "url": "https://github.com/wheresryan22/anatomy",
-     "meta": "⭐ 9531 · JavaScript",
+     "meta": "⭐ 9822 · JavaScript",
      "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +224,7 @@
     {
      "title": "mhtsec/ARTEX",
      "url": "https://github.com/mhtsec/ARTEX",
-     "meta": "⭐ 4051 · Go",
+     "meta": "⭐ 4069 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
      "reason": null,
      "origin_source": "github_search"
@@ -153,15 +232,15 @@
     {
      "title": "ARahim3/DigUp",
      "url": "https://github.com/ARahim3/DigUp",
-     "meta": "⭐ 3400 · Swift",
-     "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+     "meta": "⭐ 3535 · Swift",
+     "summary": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "t4t5/omdrop-owl",
      "url": "https://github.com/t4t5/omdrop-owl",
-     "meta": "⭐ 2651 · Shell",
+     "meta": "⭐ 2664 · Shell",
      "summary": "airdrop for non-apple devices",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +248,7 @@
     {
      "title": "storytold/craft-launcher",
      "url": "https://github.com/storytold/craft-launcher",
-     "meta": "⭐ 2570 · Rust",
+     "meta": "⭐ 2604 · Rust",
      "summary": "The Craft App Launcher",
      "reason": null,
      "origin_source": "github_search"
@@ -177,31 +256,31 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2238 · Rust",
+     "meta": "⭐ 2243 · Rust",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "noahdunnagan/fsearch",
-     "url": "https://github.com/noahdunnagan/fsearch",
-     "meta": "⭐ 2045 · Rust",
-     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2027 · Python",
+     "meta": "⭐ 2059 · Python",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "noahdunnagan/fsearch",
+     "url": "https://github.com/noahdunnagan/fsearch",
+     "meta": "⭐ 2047 · Rust",
+     "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 1935 · C",
+     "meta": "⭐ 2040 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +288,7 @@
     {
      "title": "T-Auto/dsh-ops",
      "url": "https://github.com/T-Auto/dsh-ops",
-     "meta": "⭐ 1426 · JavaScript",
+     "meta": "⭐ 1517 · JavaScript",
      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
      "reason": null,
      "origin_source": "github_search"
@@ -217,31 +296,31 @@
     {
      "title": "NVIDIA-Omniverse/usd-brep",
      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-     "meta": "⭐ 1365 · C++",
+     "meta": "⭐ 1381 · C++",
      "summary": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "trhhubsd/ARTEXX",
-     "url": "https://github.com/trhhubsd/ARTEXX",
-     "meta": "⭐ 1208 · Go",
-     "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 1188 · Python",
+     "meta": "⭐ 1222 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "trhhubsd/ARTEXX",
+     "url": "https://github.com/trhhubsd/ARTEXX",
+     "meta": "⭐ 1205 · Go",
+     "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "shaongitbd/doory",
      "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1163 · TypeScript",
+     "meta": "⭐ 1177 · TypeScript",
      "summary": "Open source canva alternative",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +328,7 @@
     {
      "title": "wesbos/photo-frame-dashboard",
      "url": "https://github.com/wesbos/photo-frame-dashboard",
-     "meta": "⭐ 1127 · Python",
+     "meta": "⭐ 1140 · Python",
      "summary": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
      "reason": null,
      "origin_source": "github_search"
@@ -270,9 +349,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+     "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+     "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+     "meta": "⭐ 697 · 💬 315",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
      "url": "https://typeof.net/Iosevka/",
-     "meta": "⭐ 491 · 💬 197",
+     "meta": "⭐ 644 · 💬 271",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,7 +367,7 @@
     {
      "title": "Amazon pushes up prices across the Internet",
      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-     "meta": "⭐ 440 · 💬 412",
+     "meta": "⭐ 640 · 💬 545",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -289,6 +376,14 @@
      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
      "url": "https://github.com/android/ndk/issues/2260",
      "meta": "⭐ 438 · 💬 211",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+     "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+     "meta": "⭐ 419 · 💬 207",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -310,6 +405,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Google is silently linking your phone number across all signed-in accounts",
+     "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+     "meta": "⭐ 227 · 💬 51",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Passkeys Are Not a Trap",
      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
      "meta": "⭐ 213 · 💬 295",
@@ -318,65 +421,41 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-     "url": "https://github.com/timescale/pg_vectorsearch",
-     "meta": "⭐ 122 · 💬 35",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "The Origin Story of Kid Pix",
      "url": "http://red-green-blue.com/kid-pix-the-early-years",
-     "meta": "⭐ 116 · 💬 23",
+     "meta": "⭐ 173 · 💬 38",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-     "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-     "meta": "⭐ 98 · 💬 78",
+     "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+     "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+     "meta": "⭐ 172 · 💬 96",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "TV4 postpones show after AI agent erases edited material",
-     "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-     "meta": "⭐ 95 · 💬 56",
+     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+     "url": "https://github.com/timescale/pg_vectorsearch",
+     "meta": "⭐ 171 · 💬 47",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Apple Keynote now showing ads in its UI",
-     "url": "https://mastodon.social/@marioguzman/117436264149891011",
-     "meta": "⭐ 88 · 💬 45",
+     "title": "Better HTTP/1 connection reuse in Go 1.27",
+     "url": "https://go.dev/blog/http-connection-reuse",
+     "meta": "⭐ 140 · 💬 25",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-     "url": "https://museumofages.org/w/vinci",
-     "meta": "⭐ 64 · 💬 31",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-     "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-     "meta": "⭐ 62 · 💬 12",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-     "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-     "meta": "⭐ 48 · 💬 4",
+     "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+     "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+     "meta": "⭐ 136 · 💬 107",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
