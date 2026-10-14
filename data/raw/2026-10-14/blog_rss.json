@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-14T04:04:38.273974+08:00",
- "count": 2324,
+ "updated_at": "2026-10-14T08:08:17.848026+08:00",
+ "count": 2325,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -128,6 +128,15 @@
    "published": "Tue, 20 Jan 2026 15:02:10 GMT",
    "published_iso": "2026-01-20T15:02:10+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-025ffa23c0156c26",
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "feed_name": "TechCrunch AI",
+   "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+   "published_iso": "2026-10-13T20:36:44+00:00",
+   "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
   },
   {
    "id": "rss-028400306a7e237e",
@@ -2065,6 +2074,15 @@
    "summary": "We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct s"
   },
   {
+   "id": "rss-18cda7676ca2b1e4",
+   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 13 Oct 2026 18:23:33 +0000",
+   "published_iso": "2026-10-13T18:23:33+00:00",
+   "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
+  },
+  {
    "id": "rss-18d001694b7bcc7b",
    "title": "Our response to the UK’s copyright consultation",
    "url": "https://openai.com/global-affairs/response-to-uk-copyright-consultation",
@@ -2684,24 +2702,6 @@
    "published": "Tue, 24 Oct 2023 00:00:00 GMT",
    "published_iso": "2023-10-24T00:00:00+00:00",
    "summary": ""
-  },
-  {
-   "id": "rss-2058a27ec260ca00",
-   "title": "Efficient training of language models to fill in the middle",
-   "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
-   "feed_name": "OpenAI",
-   "published": "Thu, 28 Jul 2022 07:00:00 GMT",
-   "published_iso": "2022-07-28T07:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-207f6746740ff871",
-   "title": "Competitive self-play",
-   "url": "https://openai.com/index/competitive-self-play",
-   "feed_name": "OpenAI",
-   "published": "Wed, 11 Oct 2017 07:00:00 GMT",
-   "published_iso": "2017-10-11T07:00:00+00:00",
-   "summary": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in min"
   }
  ]
 }

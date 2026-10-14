@@ -1,21 +1,41 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-14T04:04:36.072320+08:00",
- "count": 25,
+ "updated_at": "2026-10-14T08:08:15.949534+08:00",
+ "count": 33,
  "items": [
+  {
+   "id": "hn-50053487",
+   "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+   "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50053487",
+   "score": 7,
+   "comments": 0,
+   "author": "mdp2021",
+   "time_iso": "2026-10-12T09:05:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 7
+    }
+   ]
+  },
   {
    "id": "hn-50054092",
    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
    "hn_url": "https://news.ycombinator.com/item?id=50054092",
-   "score": 140,
-   "comments": 171,
+   "score": 382,
+   "comments": 301,
    "author": "thm",
    "time_iso": "2026-10-12T10:09:37+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 140
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 382
     }
    ]
   },
@@ -24,14 +44,18 @@
    "title": "Hiking the world in search of rare cheeses",
    "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
    "hn_url": "https://news.ycombinator.com/item?id=50059542",
-   "score": 9,
-   "comments": 2,
+   "score": 38,
+   "comments": 12,
    "author": "tosh",
    "time_iso": "2026-10-12T17:15:13+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 9
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 38
     }
    ]
   },
@@ -40,14 +64,18 @@
    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
    "hn_url": "https://news.ycombinator.com/item?id=50061659",
-   "score": 75,
-   "comments": 13,
+   "score": 131,
+   "comments": 26,
    "author": "zdw",
    "time_iso": "2026-10-12T19:28:48+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 131
     }
    ]
   },
@@ -56,14 +84,18 @@
    "title": "11 year old unsoundness bugs found in Rust borrow checker",
    "url": "https://github.com/rust-lang/rust/issues/164250",
    "hn_url": "https://news.ycombinator.com/item?id=50069499",
-   "score": 603,
-   "comments": 340,
+   "score": 657,
+   "comments": 366,
    "author": "formerly_proven",
    "time_iso": "2026-10-13T10:27:00+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 603
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 657
     }
    ]
   },
@@ -72,14 +104,18 @@
    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
    "url": "https://eg2.haku.sh/",
    "hn_url": "https://news.ycombinator.com/item?id=50069971",
-   "score": 348,
-   "comments": 81,
+   "score": 382,
+   "comments": 85,
    "author": "amrrs",
    "time_iso": "2026-10-13T11:27:14+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 348
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 382
     }
    ]
   },
@@ -88,14 +124,18 @@
    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
    "url": "https://github.com/LargeModGames/spotatui",
    "hn_url": "https://news.ycombinator.com/item?id=50070010",
-   "score": 8,
-   "comments": 0,
+   "score": 41,
+   "comments": 7,
    "author": "LargeModGames",
    "time_iso": "2026-10-13T11:32:00+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 41
     }
    ]
   },
@@ -104,14 +144,18 @@
    "title": "Firefox Enterprise",
    "url": "https://www.firefox.com/en-US/enterprise/",
    "hn_url": "https://news.ycombinator.com/item?id=50070302",
-   "score": 491,
-   "comments": 201,
+   "score": 619,
+   "comments": 256,
    "author": "recvonline",
    "time_iso": "2026-10-13T12:00:42+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 491
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 619
     }
    ]
   },
@@ -120,14 +164,18 @@
    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
    "hn_url": "https://news.ycombinator.com/item?id=50070593",
-   "score": 195,
-   "comments": 82,
+   "score": 216,
+   "comments": 91,
    "author": "acossta",
    "time_iso": "2026-10-13T12:26:36+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 195
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 216
     }
    ]
   },
@@ -136,14 +184,18 @@
    "title": "Apple HomeView",
    "url": "https://www.apple.com/apple-homeview/",
    "hn_url": "https://news.ycombinator.com/item?id=50071017",
-   "score": 556,
-   "comments": 684,
+   "score": 638,
+   "comments": 761,
    "author": "etothet",
    "time_iso": "2026-10-13T13:02:12+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 556
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 638
     }
    ]
   },
@@ -152,14 +204,18 @@
    "title": "New Apple TV 4K",
    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
    "hn_url": "https://news.ycombinator.com/item?id=50071310",
-   "score": 215,
-   "comments": 424,
+   "score": 273,
+   "comments": 523,
    "author": "corvad",
    "time_iso": "2026-10-13T13:21:35+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 215
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 273
     }
    ]
   },
@@ -168,14 +224,18 @@
    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
    "hn_url": "https://news.ycombinator.com/item?id=50072286",
-   "score": 85,
-   "comments": 139,
+   "score": 170,
+   "comments": 288,
    "author": "ivell",
    "time_iso": "2026-10-13T14:26:08+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 170
     }
    ]
   },
@@ -184,14 +244,18 @@
    "title": "Thunderbird for iOS",
    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
    "hn_url": "https://news.ycombinator.com/item?id=50072913",
-   "score": 233,
-   "comments": 83,
+   "score": 317,
+   "comments": 131,
    "author": "mjorgers",
    "time_iso": "2026-10-13T15:07:37+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 233
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 317
     }
    ]
   },
@@ -200,14 +264,18 @@
    "title": "The United Kingdom generates less electricity per person than in the 1970s",
    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
    "hn_url": "https://news.ycombinator.com/item?id=50072994",
-   "score": 97,
-   "comments": 88,
+   "score": 187,
+   "comments": 260,
    "author": "karakoram",
    "time_iso": "2026-10-13T15:12:57+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 97
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 187
     }
    ]
   },
@@ -216,14 +284,18 @@
    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "hn_url": "https://news.ycombinator.com/item?id=50073221",
-   "score": 163,
-   "comments": 95,
+   "score": 228,
+   "comments": 143,
    "author": "sammy0910",
    "time_iso": "2026-10-13T15:25:50+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 163
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 228
     }
    ]
   },
@@ -248,14 +320,18 @@
    "title": "Redesigning source control at Anthropic",
    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
    "hn_url": "https://news.ycombinator.com/item?id=50073633",
-   "score": 269,
-   "comments": 229,
+   "score": 485,
+   "comments": 484,
    "author": "Philpax",
    "time_iso": "2026-10-13T15:49:56+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 269
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 485
     }
    ]
   },
@@ -264,14 +340,18 @@
    "title": "Gemini 4 Argon",
    "url": "https://deepmind.google/models/gemini/",
    "hn_url": "https://news.ycombinator.com/item?id=50073879",
-   "score": 654,
-   "comments": 540,
+   "score": 926,
+   "comments": 713,
    "author": "737max",
    "time_iso": "2026-10-13T16:03:16+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 654
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 926
     }
    ]
   },
@@ -376,14 +456,18 @@
    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
    "url": "https://guitoro.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50077020",
-   "score": 29,
-   "comments": 7,
+   "score": 216,
+   "comments": 79,
    "author": "talccc",
    "time_iso": "2026-10-13T19:11:48+00:00",
    "history": [
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 216
     }
    ]
   },
@@ -400,6 +484,118 @@
     {
      "t": "2026-10-14T04:04:36.072320+08:00",
      "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50077619",
+   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+   "url": "https://parsimony.lasu.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50077619",
+   "score": 33,
+   "comments": 2,
+   "author": "lasu",
+   "time_iso": "2026-10-13T19:50:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50078141",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "hn_url": "https://news.ycombinator.com/item?id=50078141",
+   "score": 351,
+   "comments": 321,
+   "author": "forthwall",
+   "time_iso": "2026-10-13T20:23:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 351
+    }
+   ]
+  },
+  {
+   "id": "hn-50078686",
+   "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+   "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+   "hn_url": "https://news.ycombinator.com/item?id=50078686",
+   "score": 1,
+   "comments": 0,
+   "author": "morraa",
+   "time_iso": "2026-10-13T21:01:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50079437",
+   "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+   "url": "https://www.pi.website/blog/api-beta",
+   "hn_url": "https://news.ycombinator.com/item?id=50079437",
+   "score": 15,
+   "comments": 0,
+   "author": "modeless",
+   "time_iso": "2026-10-13T21:55:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 15
+    }
+   ]
+  },
+  {
+   "id": "hn-50079464",
+   "title": "AlphaNIST",
+   "url": "https://alpha-nist.github.io/",
+   "hn_url": "https://news.ycombinator.com/item?id=50079464",
+   "score": 25,
+   "comments": 5,
+   "author": "jasonjmcghee",
+   "time_iso": "2026-10-13T21:57:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50079865",
+   "title": "Recreational Programming",
+   "url": "https://www.cphiri.dev/presentations/recreational-programming",
+   "hn_url": "https://news.ycombinator.com/item?id=50079865",
+   "score": 15,
+   "comments": 3,
+   "author": "jslakro",
+   "time_iso": "2026-10-13T22:33:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 15
+    }
+   ]
+  },
+  {
+   "id": "hn-50080275",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "url": "https://pulseos.finance",
+   "hn_url": "https://news.ycombinator.com/item?id=50080275",
+   "score": 12,
+   "comments": 3,
+   "author": "niztk",
+   "time_iso": "2026-10-13T23:13:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-14T08:08:15.949534+08:00",
+     "score": 12
     }
    ]
   }
