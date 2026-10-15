@@ -1,12 +1,107 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T02:02:17.925779+08:00",
+ "generated_at": "2026-10-16T05:55:22.932754+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Muse Spark Open",
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "meta": "+450 分 / 3.9 小时 · 现 ⭐ 493",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Neural networks are clean",
+     "url": "https://already-clean.goodfire.com/",
+     "meta": "+271 分 / 3.9 小时 · 现 ⭐ 392",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Wayland desktop for Linux with skeuomorphic design",
+     "url": "https://github.com/fyzugx/DEsk",
+     "meta": "+137 分 / 3.9 小时 · 现 ⭐ 438",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+     "meta": "+136 分 / 3.9 小时 · 现 ⭐ 329",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Krea 3 – An image model built for editing at scale",
+     "url": "https://www.krea.ai/krea-3",
+     "meta": "+120 分 / 3.9 小时 · 现 ⭐ 212",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+     "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+     "meta": "+92 分 / 3.9 小时 · 现 ⭐ 235",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Delta’s Biscoff cookies were supposed to be temporary",
+     "url": "https://www.seriouseats.com/biscoff-history-12168161",
+     "meta": "+85 分 / 3.9 小时 · 现 ⭐ 137",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Celebrating 70 Years of Fortran",
+     "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+     "meta": "+85 分 / 3.9 小时 · 现 ⭐ 187",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Unfenced – Land for sale that borders public land",
+     "url": "https://unfenced.land/",
+     "meta": "+53 分 / 3.9 小时 · 现 ⭐ 235",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+     "url": "https://libreboot.org/news/libreboot2610.html",
+     "meta": "+47 分 / 3.9 小时 · 现 ⭐ 234",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+     "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+     "meta": "Ars Technica · 2026-10-15",
+     "summary": "Medical experts explicitly recommend against blanket screenings.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Google’s Universal Cart shopping tool launches in the US",
      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
@@ -118,14 +213,6 @@
      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +224,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3007 · C",
+     "meta": "⭐ 3054 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "storytold/craft-launcher",
      "url": "https://github.com/storytold/craft-launcher",
-     "meta": "⭐ 2819 · Rust",
+     "meta": "⭐ 2850 · Rust",
      "summary": "The Craft App Launcher",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2357 · C",
+     "meta": "⭐ 2401 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2333 · Rust",
+     "meta": "⭐ 2338 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 1928 · Python",
+     "meta": "⭐ 1980 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +264,7 @@
     {
      "title": "storytold/figcraft",
      "url": "https://github.com/storytold/figcraft",
-     "meta": "⭐ 1333 · Rust",
+     "meta": "⭐ 1380 · Rust",
      "summary": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
      "reason": null,
      "origin_source": "github_search"
@@ -185,72 +272,72 @@
     {
      "title": "shaongitbd/doory",
      "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1283 · TypeScript",
+     "meta": "⭐ 1304 · TypeScript",
      "summary": "Open source canva alternative",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "opengeos/RustGIS",
-     "url": "https://github.com/opengeos/RustGIS",
-     "meta": "⭐ 1176 · Rust",
-     "summary": "A fast, free and open-source GIS in pure Rust.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 1146 · JavaScript",
+     "meta": "⭐ 1259 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "opengeos/RustGIS",
+     "url": "https://github.com/opengeos/RustGIS",
+     "meta": "⭐ 1200 · Rust",
+     "summary": "A fast, free and open-source GIS in pure Rust.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "rociiu/talorys",
      "url": "https://github.com/rociiu/talorys",
-     "meta": "⭐ 1104 · TypeScript",
+     "meta": "⭐ 1126 · TypeScript",
      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "zhuyansen/new-term-radar",
-     "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1018 · Python",
-     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "marclou/mailcheap",
-     "url": "https://github.com/marclou/mailcheap",
-     "meta": "⭐ 1007 · JavaScript",
-     "summary": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "deeplethe/solid-glass",
-     "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 955 · TypeScript",
-     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 940 · C#",
+     "meta": "⭐ 1087 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
-     "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-     "meta": "⭐ 880 · Python",
-     "summary": "Introduction to Semiconductor Manufacturing",
+     "title": "marclou/mailcheap",
+     "url": "https://github.com/marclou/mailcheap",
+     "meta": "⭐ 1035 · JavaScript",
+     "summary": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zhuyansen/new-term-radar",
+     "url": "https://github.com/zhuyansen/new-term-radar",
+     "meta": "⭐ 1022 · Python",
+     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "deeplethe/solid-glass",
+     "url": "https://github.com/deeplethe/solid-glass",
+     "meta": "⭐ 961 · TypeScript",
+     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 953 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -278,9 +365,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Muse Spark Open",
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "meta": "⭐ 493 · 💬 288",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Wayland desktop for Linux with skeuomorphic design",
      "url": "https://github.com/fyzugx/DEsk",
-     "meta": "⭐ 301 · 💬 123",
+     "meta": "⭐ 438 · 💬 176",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Neural networks are clean",
+     "url": "https://already-clean.goodfire.com/",
+     "meta": "⭐ 392 · 💬 137",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -288,7 +391,39 @@
     {
      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-     "meta": "⭐ 289 · 💬 141",
+     "meta": "⭐ 331 · 💬 163",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+     "meta": "⭐ 329 · 💬 482",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Unfenced – Land for sale that borders public land",
+     "url": "https://unfenced.land/",
+     "meta": "⭐ 235 · 💬 160",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+     "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+     "meta": "⭐ 235 · 💬 246",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+     "url": "https://libreboot.org/news/libreboot2610.html",
+     "meta": "⭐ 234 · 💬 136",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -302,25 +437,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-     "meta": "⭐ 193 · 💬 34",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-     "url": "https://libreboot.org/news/libreboot2610.html",
-     "meta": "⭐ 187 · 💬 96",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Unfenced – Land for sale that borders public land",
-     "url": "https://unfenced.land/",
-     "meta": "⭐ 182 · 💬 132",
+     "title": "Krea 3 – An image model built for editing at scale",
+     "url": "https://www.krea.ai/krea-3",
+     "meta": "⭐ 212 · 💬 72",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -328,23 +447,15 @@
     {
      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-     "meta": "⭐ 164 · 💬 136",
+     "meta": "⭐ 203 · 💬 173",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
-     "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-     "meta": "⭐ 143 · 💬 173",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Neural Networks Are Already Clean",
-     "url": "https://already-clean.goodfire.com/",
-     "meta": "⭐ 121 · 💬 31",
+     "title": "Jev meets the Trolley Problem",
+     "url": "https://zachlandes.com/trolley-problem/",
+     "meta": "⭐ 197 · 💬 92",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -352,31 +463,7 @@
     {
      "title": "Celebrating 70 Years of Fortran",
      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-     "meta": "⭐ 102 · 💬 48",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
-     "url": "https://www.krea.ai/krea-3",
-     "meta": "⭐ 92 · 💬 47",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-     "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-     "meta": "⭐ 83 · 💬 77",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "An Israeli firm is sending zero-click spyware through online ads",
-     "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-     "meta": "⭐ 61 · 💬 3",
+     "meta": "⭐ 187 · 💬 82",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -401,6 +488,14 @@
      "url": "https://www.producthunt.com/products/nestjs-observe",
      "meta": "Product Hunt · 2026-10-14",
      "summary": "Zero-config observability built for NestJS",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "NoteHouse",
+     "url": "https://www.producthunt.com/products/notehouse-2",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "Private lending, without the paperwork headache.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -497,14 +592,6 @@
      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
      "meta": "Product Hunt · 2026-10-13",
      "summary": "Agent memory with Laya, Jev + Google Gemma",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "PixLate",
-     "url": "https://www.producthunt.com/products/pixlate",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "Translate documents. Preserve artwork and layout.",
      "reason": null,
      "origin_source": "producthunt"
     }
