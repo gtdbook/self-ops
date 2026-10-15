@@ -1,7 +1,7 @@
 {
  "source": "producthunt",
- "updated_at": "2026-10-15T11:10:51.113431+08:00",
- "count": 70,
+ "updated_at": "2026-10-15T16:50:41.596089+08:00",
+ "count": 105,
  "items": [
   {
    "id": "ph-02f659938f008597",
@@ -11,6 +11,15 @@
    "published": "2026-10-13T06:43:16-07:00",
    "published_iso": "2026-10-13T13:43:16+00:00",
    "summary": "Apple's tiny smart speaker, now built for Siri AI"
+  },
+  {
+   "id": "ph-07245b2980a0ca10",
+   "title": "NestJS Observe",
+   "url": "https://www.producthunt.com/products/nestjs-observe",
+   "tagline": "Zero-config observability built for NestJS",
+   "published": "2026-10-14T01:58:30-07:00",
+   "published_iso": "2026-10-14T08:58:30+00:00",
+   "summary": "Zero-config observability built for NestJS"
   },
   {
    "id": "ph-0a33187eb779602a",
@@ -40,6 +49,33 @@
    "summary": "Books and PDFs read aloud by neural voices, on device"
   },
   {
+   "id": "ph-0fc38ce18a6f173f",
+   "title": "Atticus",
+   "url": "https://www.producthunt.com/products/atticus",
+   "tagline": "Hold a key, talk, and your Mac does what you asked",
+   "published": "2026-10-14T14:14:44-07:00",
+   "published_iso": "2026-10-14T21:14:44+00:00",
+   "summary": "Hold a key, talk, and your Mac does what you asked"
+  },
+  {
+   "id": "ph-12e19bb65b1827aa",
+   "title": "CinemaLut",
+   "url": "https://www.producthunt.com/products/cinemalut",
+   "tagline": "Any frame's color, as a LUT for yours.",
+   "published": "2026-10-14T14:20:59-07:00",
+   "published_iso": "2026-10-14T21:20:59+00:00",
+   "summary": "Any frame's color, as a LUT for yours."
+  },
+  {
+   "id": "ph-1b06cc2bee3c2aef",
+   "title": "Dreamscale Labs",
+   "url": "https://www.producthunt.com/products/dreamscale-labs",
+   "tagline": "Run the best robot AI models over the cloud",
+   "published": "2026-10-12T23:27:22-07:00",
+   "published_iso": "2026-10-13T06:27:22+00:00",
+   "summary": "Run the best robot AI models over the cloud"
+  },
+  {
    "id": "ph-1f7396a7628915af",
    "title": "Make0 Brain",
    "url": "https://www.producthunt.com/products/make0-brain",
@@ -47,6 +83,15 @@
    "published": "2026-10-10T04:10:23-07:00",
    "published_iso": "2026-10-10T11:10:23+00:00",
    "summary": "A memory store that works across all of your AI agents."
+  },
+  {
+   "id": "ph-270e8475e9989b1b",
+   "title": "CmdRound",
+   "url": "https://www.producthunt.com/products/cmdround",
+   "tagline": "Assess how engineers build with artificial intelligence",
+   "published": "2026-10-14T03:18:29-07:00",
+   "published_iso": "2026-10-14T10:18:29+00:00",
+   "summary": "Assess how engineers build with artificial intelligence"
   },
   {
    "id": "ph-287906ff67ae8c05",
@@ -139,6 +184,15 @@
    "summary": "Build dashboards visually, embed them anywhere"
   },
   {
+   "id": "ph-3e11feb1257f4fce",
+   "title": "SuperLocalMemory",
+   "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+   "tagline": "Agent memory with Laya, Jev + Google Gemma",
+   "published": "2026-10-13T12:43:21-07:00",
+   "published_iso": "2026-10-13T19:43:21+00:00",
+   "summary": "Agent memory with Laya, Jev + Google Gemma"
+  },
+  {
    "id": "ph-423d583c22dd4736",
    "title": "PixLate",
    "url": "https://www.producthunt.com/products/pixlate",
@@ -146,6 +200,15 @@
    "published": "2026-10-13T21:47:06-07:00",
    "published_iso": "2026-10-14T04:47:06+00:00",
    "summary": "Translate documents. Preserve artwork and layout."
+  },
+  {
+   "id": "ph-44014c01bb17f038",
+   "title": "Backdrop",
+   "url": "https://www.producthunt.com/products/backdrop",
+   "tagline": "Build AI coworkers for any workflow, any industry",
+   "published": "2026-10-12T22:14:44-07:00",
+   "published_iso": "2026-10-13T05:14:44+00:00",
+   "summary": "Build AI coworkers for any workflow, any industry"
   },
   {
    "id": "ph-44420b33ff2c4e97",
@@ -220,6 +283,15 @@
    "summary": "Meta’s most capable models for personal agents"
   },
   {
+   "id": "ph-62df66ac172f4c95",
+   "title": "Kerno 1.0",
+   "url": "https://www.producthunt.com/products/kerno",
+   "tagline": "The AI Runtime Backend QA Engineer",
+   "published": "2026-10-12T06:19:36-07:00",
+   "published_iso": "2026-10-12T13:19:36+00:00",
+   "summary": "The AI Runtime Backend QA Engineer"
+  },
+  {
    "id": "ph-63fe89ceda221ffb",
    "title": "CSuite",
    "url": "https://www.producthunt.com/products/csuite",
@@ -229,6 +301,15 @@
    "summary": "All-in-one suite for AI content creation, fully private."
   },
   {
+   "id": "ph-6464b7e4b0f4247c",
+   "title": "CodeCrab",
+   "url": "https://www.producthunt.com/products/codecrab",
+   "tagline": "AI code reviews with deep analysis & multi-tool integrations",
+   "published": "2026-10-12T19:12:58-07:00",
+   "published_iso": "2026-10-13T02:12:58+00:00",
+   "summary": "AI code reviews with deep analysis & multi-tool integrations"
+  },
+  {
    "id": "ph-67e27b55e5633db6",
    "title": "Toby",
    "url": "https://www.producthunt.com/products/toby-5",
@@ -236,6 +317,15 @@
    "published": "2026-10-12T19:51:31-07:00",
    "published_iso": "2026-10-13T02:51:31+00:00",
    "summary": "Realistic mock interviews with an AI hiring manager"
+  },
+  {
+   "id": "ph-69eba12e2dbfbbfe",
+   "title": "Audio Lip Sync Pro for Blender",
+   "url": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender",
+   "tagline": "Generate high-quality facial animations, direct from audio.",
+   "published": "2026-10-14T22:09:17-07:00",
+   "published_iso": "2026-10-15T05:09:17+00:00",
+   "summary": "Generate high-quality facial animations, direct from audio."
   },
   {
    "id": "ph-6c8628b3cddd59f9",
@@ -256,6 +346,15 @@
    "summary": "Rapid agent swarms for any agentic workflow"
   },
   {
+   "id": "ph-7099649557955d88",
+   "title": "SaidTrace",
+   "url": "https://www.producthunt.com/products/saidtrace",
+   "tagline": "Private voice memos. Your choice of AI.",
+   "published": "2026-10-03T12:44:01-07:00",
+   "published_iso": "2026-10-03T19:44:01+00:00",
+   "summary": "Private voice memos. Your choice of AI."
+  },
+  {
    "id": "ph-72df3315bd6fb7d6",
    "title": "daily.dev for agents",
    "url": "https://www.producthunt.com/products/daily-dev",
@@ -263,6 +362,15 @@
    "published": "2026-10-12T11:30:13-07:00",
    "published_iso": "2026-10-12T18:30:13+00:00",
    "summary": "Where agents discover what's next"
+  },
+  {
+   "id": "ph-73ffd56b2157519b",
+   "title": "Apple HomeView",
+   "url": "https://www.producthunt.com/products/apple",
+   "tagline": "A new way to stay connected, and manage the home",
+   "published": "2026-10-13T07:29:39-07:00",
+   "published_iso": "2026-10-13T14:29:39+00:00",
+   "summary": "A new way to stay connected, and manage the home"
   },
   {
    "id": "ph-7561f9d2093e27d4",
@@ -283,6 +391,24 @@
    "summary": "Record talking-head videos. Claude Code does the edit."
   },
   {
+   "id": "ph-7ee1f2818850d1a4",
+   "title": "Reelbird",
+   "url": "https://www.producthunt.com/products/reelbird",
+   "tagline": "Open Source Loom + Screen Studio alternative for Mac",
+   "published": "2026-10-13T19:29:03-07:00",
+   "published_iso": "2026-10-14T02:29:03+00:00",
+   "summary": "Open Source Loom + Screen Studio alternative for Mac"
+  },
+  {
+   "id": "ph-8240412364b4b48a",
+   "title": "Audimate",
+   "url": "https://www.producthunt.com/products/audimate",
+   "tagline": "AI assistant that works right in the apps you already use",
+   "published": "2026-10-11T23:24:43-07:00",
+   "published_iso": "2026-10-12T06:24:43+00:00",
+   "summary": "AI assistant that works right in the apps you already use"
+  },
+  {
    "id": "ph-8720be1788260b7d",
    "title": "AdAnt 2.0",
    "url": "https://www.producthunt.com/products/adant-ai",
@@ -290,6 +416,15 @@
    "published": "2026-10-13T00:51:30-07:00",
    "published_iso": "2026-10-13T07:51:30+00:00",
    "summary": "Muse for Social Media Marketing"
+  },
+  {
+   "id": "ph-876cdaf57bcf80e9",
+   "title": "Afterparty",
+   "url": "https://www.producthunt.com/products/afterparty",
+   "tagline": "Automated actions for meeting deliverables",
+   "published": "2026-10-05T02:43:13-07:00",
+   "published_iso": "2026-10-05T09:43:13+00:00",
+   "summary": "Automated actions for meeting deliverables"
   },
   {
    "id": "ph-8bd316b273116981",
@@ -319,6 +454,24 @@
    "summary": "Build products at full speed, with both hands on the wheel"
   },
   {
+   "id": "ph-8f60a46a5ec9d395",
+   "title": "Daddy Issues",
+   "url": "https://www.producthunt.com/products/daddy-issues",
+   "tagline": "Think ahead. Fight less. A weekly family briefing for dads.",
+   "published": "2026-10-08T06:59:20-07:00",
+   "published_iso": "2026-10-08T13:59:20+00:00",
+   "summary": "Think ahead. Fight less. A weekly family briefing for dads."
+  },
+  {
+   "id": "ph-91e2cf038875d8d0",
+   "title": "Rushilo",
+   "url": "https://www.producthunt.com/products/rushilo",
+   "tagline": "Edit video by talking to Claude Code or Codex",
+   "published": "2026-10-14T08:35:56-07:00",
+   "published_iso": "2026-10-14T15:35:56+00:00",
+   "summary": "Edit video by talking to Claude Code or Codex"
+  },
+  {
    "id": "ph-922115d690bbaff6",
    "title": "Specreel",
    "url": "https://www.producthunt.com/products/specreel",
@@ -326,6 +479,33 @@
    "published": "2026-10-13T14:44:54-07:00",
    "published_iso": "2026-10-13T21:44:54+00:00",
    "summary": "Product demos that update themselves"
+  },
+  {
+   "id": "ph-9325eeb0504b5ee8",
+   "title": "AI Sandboxes by Buddy",
+   "url": "https://www.producthunt.com/products/buddy",
+   "tagline": "Isolated cloud machines for your AI coding agents",
+   "published": "2026-10-14T05:11:07-07:00",
+   "published_iso": "2026-10-14T12:11:07+00:00",
+   "summary": "Isolated cloud machines for your AI coding agents"
+  },
+  {
+   "id": "ph-9854028f3b4ffb3f",
+   "title": "Brussle",
+   "url": "https://www.producthunt.com/products/brussle-2",
+   "tagline": "Improve Jev's accuracy on your data",
+   "published": "2026-10-14T21:18:27-07:00",
+   "published_iso": "2026-10-15T04:18:27+00:00",
+   "summary": "Improve Jev's accuracy on your data"
+  },
+  {
+   "id": "ph-98b4cd985415caee",
+   "title": "Shrine",
+   "url": "https://www.producthunt.com/products/shrine-2",
+   "tagline": "A home for your agents",
+   "published": "2026-10-12T13:55:44-07:00",
+   "published_iso": "2026-10-12T20:55:44+00:00",
+   "summary": "A home for your agents"
   },
   {
    "id": "ph-99bd2f3dfaad955d",
@@ -391,6 +571,15 @@
    "summary": "Python dependency security scans with optional fix PRs"
   },
   {
+   "id": "ph-ab507808b5231af1",
+   "title": "Ubuntu 26.10 (Stonking Stingray)",
+   "url": "https://www.producthunt.com/products/ubuntu",
+   "tagline": "GNOME 51, Rust coreutils, and a refreshed Linux desktop",
+   "published": "2026-10-14T10:16:14-07:00",
+   "published_iso": "2026-10-14T17:16:14+00:00",
+   "summary": "GNOME 51, Rust coreutils, and a refreshed Linux desktop"
+  },
+  {
    "id": "ph-ab756335b9bcbaf6",
    "title": "Rambox",
    "url": "https://www.producthunt.com/products/rambox",
@@ -436,6 +625,24 @@
    "summary": "Data permissions your AI agent can't talk its way past"
   },
   {
+   "id": "ph-afac972683cde28b",
+   "title": "OpenMuse",
+   "url": "https://www.producthunt.com/products/copilotkit",
+   "tagline": "Opensource, self hostable personal assistant for any harness",
+   "published": "2026-09-23T08:53:14-07:00",
+   "published_iso": "2026-09-23T15:53:14+00:00",
+   "summary": "Opensource, self hostable personal assistant for any harness"
+  },
+  {
+   "id": "ph-b1efb8cd96e84522",
+   "title": "Nostaliga",
+   "url": "https://www.producthunt.com/products/nostaliga",
+   "tagline": "Rediscover the days behind your favorite songs",
+   "published": "2026-10-13T11:40:39-07:00",
+   "published_iso": "2026-10-13T18:40:39+00:00",
+   "summary": "Rediscover the days behind your favorite songs"
+  },
+  {
    "id": "ph-b23915d90d1ecaf8",
    "title": "PostNitro for Agents",
    "url": "https://www.producthunt.com/products/postnitro",
@@ -445,6 +652,33 @@
    "summary": "Let your AI agent design and publish social posts"
   },
   {
+   "id": "ph-b522df959ba1ce2e",
+   "title": "Superdraft",
+   "url": "https://www.producthunt.com/products/superdraft",
+   "tagline": "Automatically identify opportunities to email your customers",
+   "published": "2026-10-14T12:22:19-07:00",
+   "published_iso": "2026-10-14T19:22:19+00:00",
+   "summary": "Automatically identify opportunities to email your customers"
+  },
+  {
+   "id": "ph-bc727c3bfe4e6e22",
+   "title": "GLM-Legal",
+   "url": "https://www.producthunt.com/products/z-ai",
+   "tagline": "Z.ai’s legal AI model for contract review and compliance",
+   "published": "2026-10-12T09:24:12-07:00",
+   "published_iso": "2026-10-12T16:24:12+00:00",
+   "summary": "Z.ai’s legal AI model for contract review and compliance"
+  },
+  {
+   "id": "ph-bcdd27aa66e99f16",
+   "title": "withHuman",
+   "url": "https://www.producthunt.com/products/withhuman",
+   "tagline": "A human approval layer for AI Agents",
+   "published": "2026-10-14T09:01:56-07:00",
+   "published_iso": "2026-10-14T16:01:56+00:00",
+   "summary": "A human approval layer for AI Agents"
+  },
+  {
    "id": "ph-beccda73984e13b3",
    "title": "SquadRoom",
    "url": "https://www.producthunt.com/products/squadroom",
@@ -452,6 +686,15 @@
    "published": "2026-10-07T10:56:39-07:00",
    "published_iso": "2026-10-07T17:56:39+00:00",
    "summary": "AI employees that work 24/7"
+  },
+  {
+   "id": "ph-bf8053f26040dca1",
+   "title": "Chatway MCP",
+   "url": "https://www.producthunt.com/products/chatway",
+   "tagline": "Let ChatGPT & Claude answer customer support tickets via MCP",
+   "published": "2026-10-14T04:30:36-07:00",
+   "published_iso": "2026-10-14T11:30:36+00:00",
+   "summary": "Let ChatGPT & Claude answer customer support tickets via MCP"
   },
   {
    "id": "ph-bf8e7261c138440c",
@@ -499,6 +742,24 @@
    "summary": "The flexible $20/mo QuickBooks alternative for founders"
   },
   {
+   "id": "ph-cc2b105c47fe6f6d",
+   "title": "siliXon",
+   "url": "https://www.producthunt.com/products/silixon",
+   "tagline": "Turn a plain English idea into a circuit board you can order",
+   "published": "2026-10-14T09:06:31-07:00",
+   "published_iso": "2026-10-14T16:06:31+00:00",
+   "summary": "Turn a plain English idea into a circuit board you can order"
+  },
+  {
+   "id": "ph-ce39ca03c11ae721",
+   "title": "Navige",
+   "url": "https://www.producthunt.com/products/navige",
+   "tagline": "Cut AI agent costs and control runaway spending",
+   "published": "2026-10-13T23:29:41-07:00",
+   "published_iso": "2026-10-14T06:29:41+00:00",
+   "summary": "Cut AI agent costs and control runaway spending"
+  },
+  {
    "id": "ph-ce8333f69c2044b0",
    "title": "Kai",
    "url": "https://www.producthunt.com/products/hirekai",
@@ -506,6 +767,15 @@
    "published": "2026-09-23T09:20:03-07:00",
    "published_iso": "2026-09-23T16:20:03+00:00",
    "summary": "Autonomous assistant designed to handle meetings and email"
+  },
+  {
+   "id": "ph-cea9f393ecf17a8e",
+   "title": "Polylane Impact Analysis",
+   "url": "https://www.producthunt.com/products/polylane",
+   "tagline": "Catch risky pull requests before they break production",
+   "published": "2026-10-13T12:04:38-07:00",
+   "published_iso": "2026-10-13T19:04:38+00:00",
+   "summary": "Catch risky pull requests before they break production"
   },
   {
    "id": "ph-d3a89b48572ebe58",
@@ -517,6 +787,24 @@
    "summary": "Sketch systems at the speed you think"
   },
   {
+   "id": "ph-d3a8e0811c681a88",
+   "title": "Actually Asked",
+   "url": "https://www.producthunt.com/products/actually-asked",
+   "tagline": "A self-improving branded AI FAQ page",
+   "published": "2026-10-14T08:36:37-07:00",
+   "published_iso": "2026-10-14T15:36:37+00:00",
+   "summary": "A self-improving branded AI FAQ page"
+  },
+  {
+   "id": "ph-d8fc6478d90bbfa8",
+   "title": "Talanoa",
+   "url": "https://www.producthunt.com/products/talanoa-2",
+   "tagline": "Email that feels like chat.",
+   "published": "2026-10-01T13:35:01-07:00",
+   "published_iso": "2026-10-01T20:35:01+00:00",
+   "summary": "Email that feels like chat."
+  },
+  {
    "id": "ph-da8106a4027c32fd",
    "title": "Epherem",
    "url": "https://www.producthunt.com/products/epherem",
@@ -524,6 +812,15 @@
    "published": "2026-10-11T22:28:21-07:00",
    "published_iso": "2026-10-12T05:28:21+00:00",
    "summary": "Find login and database flaws in your AI-built app"
+  },
+  {
+   "id": "ph-e0365e2ebd864078",
+   "title": "Lleverage",
+   "url": "https://www.producthunt.com/products/lleverage",
+   "tagline": "The autonomous back office for the physical economy",
+   "published": "2026-10-13T08:53:16-07:00",
+   "published_iso": "2026-10-13T15:53:16+00:00",
+   "summary": "The autonomous back office for the physical economy"
   },
   {
    "id": "ph-e14868fee2150ea2",
@@ -569,6 +866,24 @@
    "published": "2026-10-06T02:44:32-07:00",
    "published_iso": "2026-10-06T09:44:32+00:00",
    "summary": "100× your social engagement and leads"
+  },
+  {
+   "id": "ph-edd0f2ce2f8a9298",
+   "title": "Basedash Connector gallery",
+   "url": "https://www.producthunt.com/products/basedash",
+   "tagline": "See what you'll build before you connect a data source",
+   "published": "2026-10-14T14:32:02-07:00",
+   "published_iso": "2026-10-14T21:32:02+00:00",
+   "summary": "See what you'll build before you connect a data source"
+  },
+  {
+   "id": "ph-eeb3f1dc680efcbd",
+   "title": "Fwrd",
+   "url": "https://www.producthunt.com/products/fwrd",
+   "tagline": "Forward iPhone texts to Slack, Discord, or Telegram",
+   "published": "2026-10-08T17:45:21-07:00",
+   "published_iso": "2026-10-09T00:45:21+00:00",
+   "summary": "Forward iPhone texts to Slack, Discord, or Telegram"
   },
   {
    "id": "ph-f15bd52740eba501",
