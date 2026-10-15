@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-15T07:40:15.298251+08:00",
- "count": 2330,
+ "updated_at": "2026-10-15T11:10:50.895353+08:00",
+ "count": 2331,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -2128,6 +2128,15 @@
    "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
   },
   {
+   "id": "rss-1919b268be460d4b",
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "feed_name": "TechCrunch AI",
+   "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+   "published_iso": "2026-10-15T00:00:00+00:00",
+   "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball int"
+  },
+  {
    "id": "rss-193d94b55d3985f6",
    "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
    "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
@@ -2693,15 +2702,6 @@
    "published": "Fri, 12 Jan 2024 08:00:00 GMT",
    "published_iso": "2024-01-12T08:00:00+00:00",
    "summary": "Digital Green uses OpenAI to increase farmer income."
-  },
-  {
-   "id": "rss-1f8156d371d82b42",
-   "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
-   "url": "https://huggingface.co/blog/jat",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 22 Apr 2024 00:00:00 GMT",
-   "published_iso": "2024-04-22T00:00:00+00:00",
-   "summary": ""
   }
  ]
 }
