@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-15T16:50:39.155970+08:00",
- "count": 68,
+ "updated_at": "2026-10-15T21:56:07.167227+08:00",
+ "count": 77,
  "items": [
   {
    "id": "hn-50043112",
@@ -88,8 +88,8 @@
    "title": "Do dentists know what they're doing?",
    "url": "https://mapwriting.substack.com/p/dentists",
    "hn_url": "https://news.ycombinator.com/item?id=50050553",
-   "score": 673,
-   "comments": 483,
+   "score": 818,
+   "comments": 596,
    "author": "doitLP",
    "time_iso": "2026-10-12T02:21:54+00:00",
    "history": [
@@ -104,6 +104,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 673
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 818
     }
    ]
   },
@@ -112,8 +116,8 @@
    "title": "Catch a Bird – I made it for my own sanity",
    "url": "https://catchabird.com",
    "hn_url": "https://news.ycombinator.com/item?id=50053384",
-   "score": 149,
-   "comments": 33,
+   "score": 278,
+   "comments": 82,
    "author": "eduardsik",
    "time_iso": "2026-10-12T08:51:18+00:00",
    "history": [
@@ -124,6 +128,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 278
     }
    ]
   },
@@ -188,18 +196,38 @@
    ]
   },
   {
+   "id": "hn-50058531",
+   "title": "The Haunted Toys R Us",
+   "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+   "hn_url": "https://news.ycombinator.com/item?id=50058531",
+   "score": 18,
+   "comments": 5,
+   "author": "speckx",
+   "time_iso": "2026-10-12T16:13:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
    "id": "hn-50060547",
    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
    "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
    "hn_url": "https://news.ycombinator.com/item?id=50060547",
-   "score": 20,
-   "comments": 6,
+   "score": 67,
+   "comments": 26,
    "author": "maxall4",
    "time_iso": "2026-10-12T18:20:17+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 67
     }
    ]
   },
@@ -208,14 +236,18 @@
    "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
    "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
    "hn_url": "https://news.ycombinator.com/item?id=50060923",
-   "score": 20,
-   "comments": 6,
+   "score": 47,
+   "comments": 27,
    "author": "droidjj",
    "time_iso": "2026-10-12T18:44:42+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 47
     }
    ]
   },
@@ -240,14 +272,18 @@
    "title": "Show HN: Indigene – Native plants for where you stand",
    "url": "https://indigene.app/",
    "hn_url": "https://news.ycombinator.com/item?id=50064470",
-   "score": 13,
-   "comments": 1,
+   "score": 69,
+   "comments": 12,
    "author": "olivierlacan",
    "time_iso": "2026-10-12T23:25:20+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 69
     }
    ]
   },
@@ -268,6 +304,22 @@
     {
      "t": "2026-10-15T04:26:50.606983+08:00",
      "score": 173
+    }
+   ]
+  },
+  {
+   "id": "hn-50065237",
+   "title": "Stopping sand from destroying a hydropower turbine [video]",
+   "url": "https://www.youtube.com/watch?v=kCYrSBexF_4",
+   "hn_url": "https://news.ycombinator.com/item?id=50065237",
+   "score": 20,
+   "comments": 3,
+   "author": "CaliforniaKarl",
+   "time_iso": "2026-10-13T01:02:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 20
     }
    ]
   },
@@ -312,14 +364,18 @@
    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
    "hn_url": "https://news.ycombinator.com/item?id=50070625",
-   "score": 45,
-   "comments": 18,
+   "score": 215,
+   "comments": 106,
    "author": "0xdeafbeef",
    "time_iso": "2026-10-13T12:30:08+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 45
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 215
     }
    ]
   },
@@ -328,14 +384,18 @@
    "title": "It took me nine years to hack my Xbox 360",
    "url": "https://kennedn.com/blog/posts/glitching/",
    "hn_url": "https://news.ycombinator.com/item?id=50070661",
-   "score": 77,
-   "comments": 18,
+   "score": 130,
+   "comments": 33,
    "author": "kennedn",
    "time_iso": "2026-10-13T12:33:18+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 77
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 130
     }
    ]
   },
@@ -396,8 +456,8 @@
    "title": "Donaldson Futuro House in Idyllwild, California, USA",
    "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
    "hn_url": "https://news.ycombinator.com/item?id=50077709",
-   "score": 43,
-   "comments": 14,
+   "score": 64,
+   "comments": 24,
    "author": "rmason",
    "time_iso": "2026-10-13T19:55:41+00:00",
    "history": [
@@ -408,6 +468,26 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 43
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50079701",
+   "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+   "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+   "hn_url": "https://news.ycombinator.com/item?id=50079701",
+   "score": 77,
+   "comments": 30,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-13T22:17:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 77
     }
    ]
   },
@@ -760,8 +840,8 @@
    "title": "Americans' social activity has steeply declined in the past 30 years",
    "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
    "hn_url": "https://news.ycombinator.com/item?id=50089921",
-   "score": 385,
-   "comments": 359,
+   "score": 475,
+   "comments": 437,
    "author": "hubraumhugo",
    "time_iso": "2026-10-14T16:09:00+00:00",
    "history": [
@@ -776,6 +856,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 385
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 475
     }
    ]
   },
@@ -836,8 +920,8 @@
    "title": "Better HTTP/1 connection reuse in Go 1.27",
    "url": "https://go.dev/blog/http-connection-reuse",
    "hn_url": "https://news.ycombinator.com/item?id=50090369",
-   "score": 249,
-   "comments": 36,
+   "score": 278,
+   "comments": 45,
    "author": "allddd",
    "time_iso": "2026-10-14T16:29:33+00:00",
    "history": [
@@ -856,6 +940,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 249
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 278
     }
    ]
   },
@@ -1076,8 +1164,8 @@
    "title": "Things to know when you get cancer",
    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
    "hn_url": "https://news.ycombinator.com/item?id=50093568",
-   "score": 1302,
-   "comments": 321,
+   "score": 1650,
+   "comments": 390,
    "author": "jjmaxwell4",
    "time_iso": "2026-10-14T19:26:30+00:00",
    "history": [
@@ -1096,6 +1184,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 1302
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 1650
     }
    ]
   },
@@ -1164,8 +1256,8 @@
    "title": "OpenCode 2.0",
    "url": "https://anoma.ly/notes/opencode-2-0/",
    "hn_url": "https://news.ycombinator.com/item?id=50094994",
-   "score": 583,
-   "comments": 225,
+   "score": 737,
+   "comments": 312,
    "author": "gmays",
    "time_iso": "2026-10-14T20:48:24+00:00",
    "history": [
@@ -1180,6 +1272,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 583
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 737
     }
    ]
   },
@@ -1212,8 +1308,8 @@
    "title": "Tiny Little Office",
    "url": "https://tinylittleoffice.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50096142",
-   "score": 399,
-   "comments": 60,
+   "score": 539,
+   "comments": 120,
    "author": "donohoe",
    "time_iso": "2026-10-14T22:10:08+00:00",
    "history": [
@@ -1228,6 +1324,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 399
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 539
     }
    ]
   },
@@ -1236,14 +1336,18 @@
    "title": "Show HN: Ito – Build Terminal UIs in Lua",
    "url": "https://uji.sh/ito/",
    "hn_url": "https://news.ycombinator.com/item?id=50096300",
-   "score": 16,
-   "comments": 4,
+   "score": 52,
+   "comments": 9,
    "author": "cat-whisperer",
    "time_iso": "2026-10-14T22:23:53+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 52
     }
    ]
   },
@@ -1252,8 +1356,8 @@
    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
    "hn_url": "https://news.ycombinator.com/item?id=50097369",
-   "score": 200,
-   "comments": 44,
+   "score": 252,
+   "comments": 62,
    "author": "gmays",
    "time_iso": "2026-10-14T23:59:37+00:00",
    "history": [
@@ -1264,6 +1368,10 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 200
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 252
     }
    ]
   },
@@ -1292,14 +1400,18 @@
    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
    "url": "https://github.com/andunieee/flipflop",
    "hn_url": "https://news.ycombinator.com/item?id=50099136",
-   "score": 30,
-   "comments": 10,
+   "score": 68,
+   "comments": 25,
    "author": "andunie",
    "time_iso": "2026-10-15T04:25:28+00:00",
    "history": [
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 30
+    },
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 68
     }
    ]
   },
@@ -1316,6 +1428,102 @@
     {
      "t": "2026-10-15T16:50:39.155970+08:00",
      "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50102247",
+   "title": "Show HN: Unfenced – Land for sale that borders public land",
+   "url": "https://unfenced.land/",
+   "hn_url": "https://news.ycombinator.com/item?id=50102247",
+   "score": 85,
+   "comments": 47,
+   "author": "otherwatersflow",
+   "time_iso": "2026-10-15T11:38:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 85
+    }
+   ]
+  },
+  {
+   "id": "hn-50102423",
+   "title": "Ubuntu 26.10 (Stonking Stingray) released",
+   "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50102423",
+   "score": 43,
+   "comments": 40,
+   "author": "dgavrilov",
+   "time_iso": "2026-10-15T11:59:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50102923",
+   "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+   "url": "https://libreboot.org/news/libreboot2610.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50102923",
+   "score": 65,
+   "comments": 23,
+   "author": "iamnothere",
+   "time_iso": "2026-10-15T12:52:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
+   "id": "hn-50103000",
+   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "hn_url": "https://news.ycombinator.com/item?id=50103000",
+   "score": 127,
+   "comments": 33,
+   "author": "chunkyslink",
+   "time_iso": "2026-10-15T12:58:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 127
+    }
+   ]
+  },
+  {
+   "id": "hn-50103164",
+   "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+   "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+   "hn_url": "https://news.ycombinator.com/item?id=50103164",
+   "score": 8,
+   "comments": 0,
+   "author": "ibobev",
+   "time_iso": "2026-10-15T13:11:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50103263",
+   "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+   "url": "https://github.com/konieczkow/gridsnap",
+   "hn_url": "https://news.ycombinator.com/item?id=50103263",
+   "score": 3,
+   "comments": 0,
+   "author": "zderror",
+   "time_iso": "2026-10-15T13:19:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-15T21:56:07.167227+08:00",
+     "score": 3
     }
    ]
   }

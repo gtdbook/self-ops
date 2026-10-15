@@ -1,7 +1,22 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T16:50:41.703982+08:00",
+ "generated_at": "2026-10-15T21:56:11.494698+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Ubuntu 26.10 (Stonking Stingray) released",
+     "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Ubuntu 26.10 (Stonking Stingray)",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Things to know when you get cancer",
      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-     "meta": "+1256 分 / 12.4 小时 · 现 ⭐ 1302",
+     "meta": "+1604 分 / 17.5 小时 · 现 ⭐ 1650",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +33,7 @@
     {
      "title": "OpenCode 2.0",
      "url": "https://anoma.ly/notes/opencode-2-0/",
-     "meta": "+374 分 / 9.2 小时 · 现 ⭐ 583",
+     "meta": "+528 分 / 14.3 小时 · 现 ⭐ 737",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +41,7 @@
     {
      "title": "Do dentists know what they're doing?",
      "url": "https://mapwriting.substack.com/p/dentists",
-     "meta": "+338 分 / 9.2 小时 · 现 ⭐ 673",
+     "meta": "+483 分 / 14.3 小时 · 现 ⭐ 818",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +49,15 @@
     {
      "title": "Tiny Little Office",
      "url": "https://tinylittleoffice.com/",
-     "meta": "+334 分 / 9.2 小时 · 现 ⭐ 399",
+     "meta": "+474 分 / 14.3 小时 · 现 ⭐ 539",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Americans' social activity has steeply declined in the past 30 years",
+     "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+     "meta": "+324 分 / 14.3 小时 · 现 ⭐ 475",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -56,9 +79,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Americans' social activity has steeply declined in the past 30 years",
-     "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-     "meta": "+234 分 / 9.2 小时 · 现 ⭐ 385",
+     "title": "Catch a Bird – I made it for my own sanity",
+     "url": "https://catchabird.com",
+     "meta": "+251 分 / 10.8 小时 · 现 ⭐ 278",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -75,14 +98,6 @@
      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
      "meta": "+194 分 / 12.4 小时 · 现 ⭐ 891",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-     "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-     "meta": "+182 分 / 6.7 小时 · 现 ⭐ 318",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -246,9 +261,17 @@
      "origin_source": "github_search"
     },
     {
+     "title": "jhaizhou-ops/d2r-mobile",
+     "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+     "meta": "⭐ 2816 · C",
+     "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "storytold/craft-launcher",
      "url": "https://github.com/storytold/craft-launcher",
-     "meta": "⭐ 2732 · Rust",
+     "meta": "⭐ 2788 · Rust",
      "summary": "The Craft App Launcher",
      "reason": null,
      "origin_source": "github_search"
@@ -262,17 +285,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "jhaizhou-ops/d2r-mobile",
-     "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 2607 · C",
-     "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2303 · Rust",
+     "meta": "⭐ 2325 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +295,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2220 · C",
+     "meta": "⭐ 2296 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +311,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 1612 · Python",
+     "meta": "⭐ 1798 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -320,8 +335,16 @@
     {
      "title": "shaongitbd/doory",
      "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1236 · TypeScript",
+     "meta": "⭐ 1265 · TypeScript",
      "summary": "Open source canva alternative",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/figcraft",
+     "url": "https://github.com/storytold/figcraft",
+     "meta": "⭐ 1230 · Rust",
+     "summary": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -330,14 +353,6 @@
      "url": "https://github.com/trhhubsd/ARTEXX",
      "meta": "⭐ 1200 · Go",
      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "wesbos/photo-frame-dashboard",
-     "url": "https://github.com/wesbos/photo-frame-dashboard",
-     "meta": "⭐ 1150 · Python",
-     "summary": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -349,17 +364,17 @@
    "errors": [],
    "items": [
     {
-     "title": "Gemini 4 Argon",
-     "url": "https://deepmind.google/models/gemini/",
-     "meta": "⭐ 1400 · 💬 1002",
+     "title": "Things to know when you get cancer",
+     "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+     "meta": "⭐ 1650 · 💬 390",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Things to know when you get cancer",
-     "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-     "meta": "⭐ 1302 · 💬 321",
+     "title": "Gemini 4 Argon",
+     "url": "https://deepmind.google/models/gemini/",
+     "meta": "⭐ 1400 · 💬 1002",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -373,9 +388,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Do dentists know what they're doing?",
+     "url": "https://mapwriting.substack.com/p/dentists",
+     "meta": "⭐ 818 · 💬 596",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "How Amazon pushes up prices all across the Internet",
      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
      "meta": "⭐ 741 · 💬 600",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenCode 2.0",
+     "url": "https://anoma.ly/notes/opencode-2-0/",
+     "meta": "⭐ 737 · 💬 312",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,17 +420,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Do dentists know what they're doing?",
-     "url": "https://mapwriting.substack.com/p/dentists",
-     "meta": "⭐ 673 · 💬 483",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenCode 2.0",
-     "url": "https://anoma.ly/notes/opencode-2-0/",
-     "meta": "⭐ 583 · 💬 225",
+     "title": "Tiny Little Office",
+     "url": "https://tinylittleoffice.com/",
+     "meta": "⭐ 539 · 💬 120",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -408,6 +431,14 @@
      "title": "Passkeys are not a trap",
      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
      "meta": "⭐ 512 · 💬 675",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Americans' social activity has steeply declined in the past 30 years",
+     "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+     "meta": "⭐ 475 · 💬 437",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -424,22 +455,6 @@
      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
      "meta": "⭐ 419 · 💬 207",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Tiny Little Office",
-     "url": "https://tinylittleoffice.com/",
-     "meta": "⭐ 399 · 💬 60",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Americans' social activity has steeply declined in the past 30 years",
-     "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-     "meta": "⭐ 385 · 💬 359",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
