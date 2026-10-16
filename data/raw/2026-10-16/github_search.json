@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-16T05:55:21.870528+08:00",
- "count": 22,
+ "updated_at": "2026-10-16T08:05:01.063465+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1411867277",
@@ -79,7 +79,7 @@
    "id": "gh-1412573009",
    "title": "shaongitbd/doory",
    "url": "https://github.com/shaongitbd/doory",
-   "stars": 1304,
+   "stars": 1305,
    "language": "TypeScript",
    "description": "Open source canva alternative",
    "created_at": "2026-10-10T00:03:25Z",
@@ -91,6 +91,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1304
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1305
     }
    ]
   },
@@ -98,7 +102,7 @@
    "id": "gh-1413021530",
    "title": "rociiu/talorys",
    "url": "https://github.com/rociiu/talorys",
-   "stars": 1126,
+   "stars": 1140,
    "language": "TypeScript",
    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
    "created_at": "2026-10-10T09:46:56Z",
@@ -110,6 +114,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1126
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1140
     }
    ]
   },
@@ -117,7 +125,7 @@
    "id": "gh-1413187188",
    "title": "marclou/mailcheap",
    "url": "https://github.com/marclou/mailcheap",
-   "stars": 1035,
+   "stars": 1051,
    "language": "JavaScript",
    "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
    "created_at": "2026-10-10T12:55:36Z",
@@ -129,6 +137,25 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1035
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1051
+    }
+   ]
+  },
+  {
+   "id": "gh-1413289247",
+   "title": "fyzugx/DEsk",
+   "url": "https://github.com/fyzugx/DEsk",
+   "stars": 758,
+   "language": "C",
+   "description": "",
+   "created_at": "2026-10-10T14:30:03Z",
+   "history": [
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 758
     }
    ]
   },
@@ -136,7 +163,7 @@
    "id": "gh-1413549354",
    "title": "opengeos/RustGIS",
    "url": "https://github.com/opengeos/RustGIS",
-   "stars": 1200,
+   "stars": 1216,
    "language": "Rust",
    "description": "A fast, free and open-source GIS in pure Rust.",
    "created_at": "2026-10-10T18:45:41Z",
@@ -148,6 +175,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1200
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1216
     }
    ]
   },
@@ -155,7 +186,7 @@
    "id": "gh-1413838499",
    "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
    "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-   "stars": 898,
+   "stars": 910,
    "language": "Python",
    "description": "Introduction to Semiconductor Manufacturing",
    "created_at": "2026-10-11T02:01:01Z",
@@ -167,6 +198,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 898
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 910
     }
    ]
   },
@@ -186,6 +221,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 2338
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 2338
     }
    ]
   },
@@ -193,7 +232,7 @@
    "id": "gh-1414493071",
    "title": "jwuthri-cloud/Tracely-ai",
    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-   "stars": 825,
+   "stars": 824,
    "language": "Python",
    "description": "",
    "created_at": "2026-10-11T15:38:03Z",
@@ -205,6 +244,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 825
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 824
     }
    ]
   },
@@ -212,7 +255,7 @@
    "id": "gh-1414685342",
    "title": "onehumanbeing/esp32-iphone-agent",
    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-   "stars": 2401,
+   "stars": 2428,
    "language": "C",
    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
    "created_at": "2026-10-11T19:10:25Z",
@@ -224,6 +267,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 2401
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 2428
     }
    ]
   },
@@ -231,7 +278,7 @@
    "id": "gh-1414851145",
    "title": "h0m3us3r/w1700k-sdr",
    "url": "https://github.com/h0m3us3r/w1700k-sdr",
-   "stars": 781,
+   "stars": 796,
    "language": "C",
    "description": "",
    "created_at": "2026-10-11T23:21:22Z",
@@ -239,6 +286,10 @@
     {
      "t": "2026-10-16T02:02:16.447133+08:00",
      "score": 781
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 796
     }
    ]
   },
@@ -246,7 +297,7 @@
    "id": "gh-1415214046",
    "title": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
-   "stars": 1022,
+   "stars": 1023,
    "language": "Python",
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
    "created_at": "2026-10-12T07:11:01Z",
@@ -258,6 +309,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1022
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1023
     }
    ]
   },
@@ -265,7 +320,7 @@
    "id": "gh-1415313946",
    "title": "jhaizhou-ops/d2r-mobile",
    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-   "stars": 3054,
+   "stars": 3098,
    "language": "C",
    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game",
    "created_at": "2026-10-12T08:41:19Z",
@@ -277,6 +332,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 3054
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 3098
     }
    ]
   },
@@ -284,7 +343,7 @@
    "id": "gh-1415358670",
    "title": "deeplethe/solid-glass",
    "url": "https://github.com/deeplethe/solid-glass",
-   "stars": 961,
+   "stars": 972,
    "language": "TypeScript",
    "description": "A design system for AI applications. Material, physical, tactile, technical.",
    "created_at": "2026-10-12T09:19:02Z",
@@ -296,6 +355,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 961
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 972
     }
    ]
   },
@@ -303,7 +366,7 @@
    "id": "gh-1416386910",
    "title": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "stars": 1980,
+   "stars": 2010,
    "language": "Python",
    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
    "created_at": "2026-10-13T03:09:42Z",
@@ -315,6 +378,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1980
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 2010
     }
    ]
   },
@@ -322,7 +389,7 @@
    "id": "gh-1416766144",
    "title": "outcrawlai/scout",
    "url": "https://github.com/outcrawlai/scout",
-   "stars": 828,
+   "stars": 829,
    "language": "TypeScript",
    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
    "created_at": "2026-10-13T09:18:55Z",
@@ -334,6 +401,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 828
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 829
     }
    ]
   },
@@ -341,7 +412,7 @@
    "id": "gh-1417411861",
    "title": "CoolkHz/gptibo",
    "url": "https://github.com/CoolkHz/gptibo",
-   "stars": 796,
+   "stars": 795,
    "language": "TypeScript",
    "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
    "created_at": "2026-10-13T15:57:19Z",
@@ -349,6 +420,10 @@
     {
      "t": "2026-10-16T02:02:16.447133+08:00",
      "score": 796
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 795
     }
    ]
   },
@@ -356,7 +431,7 @@
    "id": "gh-1417456983",
    "title": "HeyPuter/everything",
    "url": "https://github.com/HeyPuter/everything",
-   "stars": 1259,
+   "stars": 1298,
    "language": "JavaScript",
    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
    "created_at": "2026-10-13T16:18:22Z",
@@ -368,6 +443,25 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1259
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1298
+    }
+   ]
+  },
+  {
+   "id": "gh-1419078245",
+   "title": "Caho1/open-claude-ui",
+   "url": "https://github.com/Caho1/open-claude-ui",
+   "stars": 713,
+   "language": "TypeScript",
+   "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+   "created_at": "2026-10-14T14:05:05Z",
+   "history": [
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 713
     }
    ]
   },
@@ -375,7 +469,7 @@
    "id": "gh-1419746236",
    "title": "ahwootech/BRUTAL",
    "url": "https://github.com/ahwootech/BRUTAL",
-   "stars": 1087,
+   "stars": 1147,
    "language": "C#",
    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
    "created_at": "2026-10-14T19:33:56Z",
@@ -387,6 +481,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 1087
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1147
     }
    ]
   },
@@ -394,7 +492,7 @@
    "id": "gh-1420063501",
    "title": "chenglou/handwired",
    "url": "https://github.com/chenglou/handwired",
-   "stars": 953,
+   "stars": 1021,
    "language": "TypeScript",
    "description": "Turn your regular JavaScript code into a neural net.",
    "created_at": "2026-10-15T02:15:09Z",
@@ -402,6 +500,10 @@
     {
      "t": "2026-10-16T05:55:21.870528+08:00",
      "score": 953
+    },
+    {
+     "t": "2026-10-16T08:05:01.063465+08:00",
+     "score": 1021
     }
    ]
   }

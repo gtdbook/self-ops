@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-16T05:55:22.680985+08:00",
- "count": 2334,
+ "updated_at": "2026-10-16T08:05:02.095508+08:00",
+ "count": 2335,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -1010,6 +1010,15 @@
    "published": "Wed, 09 Aug 2023 00:00:00 GMT",
    "published_iso": "2023-08-09T00:00:00+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-0d2e925aac0b74b0",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "feed_name": "OpenAI",
+   "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+   "published_iso": "2026-10-15T19:00:00+00:00",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
   },
   {
    "id": "rss-0d663c2bd36b64e1",
@@ -2692,15 +2701,6 @@
    "feed_name": "Hugging Face",
    "published": "Mon, 22 Apr 2024 00:00:00 GMT",
    "published_iso": "2024-04-22T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-200ccf22b4732b19",
-   "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-   "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 21 Apr 2026 10:09:58 GMT",
-   "published_iso": "2026-04-21T10:09:58+00:00",
    "summary": ""
   }
  ]
