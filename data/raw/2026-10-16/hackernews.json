@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-16T13:26:06.441726+08:00",
- "count": 51,
+ "updated_at": "2026-10-16T18:41:25.990181+08:00",
+ "count": 57,
  "items": [
   {
    "id": "hn-50062683",
@@ -24,14 +24,18 @@
    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
    "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
    "hn_url": "https://news.ycombinator.com/item?id=50065859",
-   "score": 51,
-   "comments": 2,
+   "score": 337,
+   "comments": 116,
    "author": "johnnyApplePRNG",
    "time_iso": "2026-10-13T02:32:53+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 51
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 337
     }
    ]
   },
@@ -40,14 +44,18 @@
    "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
    "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
    "hn_url": "https://news.ycombinator.com/item?id=50068203",
-   "score": 99,
-   "comments": 59,
+   "score": 142,
+   "comments": 101,
    "author": "giuliomagnifico",
    "time_iso": "2026-10-13T07:52:54+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 99
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 142
     }
    ]
   },
@@ -112,14 +120,34 @@
    "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
    "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
    "hn_url": "https://news.ycombinator.com/item?id=50072119",
-   "score": 53,
-   "comments": 19,
+   "score": 148,
+   "comments": 101,
    "author": "cvoss",
    "time_iso": "2026-10-13T14:14:20+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 148
+    }
+   ]
+  },
+  {
+   "id": "hn-50072485",
+   "title": "Two-Stack Sliding-Window Aggregation",
+   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50072485",
+   "score": 24,
+   "comments": 1,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-13T14:40:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 24
     }
    ]
   },
@@ -136,6 +164,22 @@
     {
      "t": "2026-10-16T02:02:15.404314+08:00",
      "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50077225",
+   "title": "Yet another way to invoke functions without parentheses",
+   "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+   "hn_url": "https://news.ycombinator.com/item?id=50077225",
+   "score": 21,
+   "comments": 1,
+   "author": "aragonite",
+   "time_iso": "2026-10-13T19:25:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 21
     }
    ]
   },
@@ -184,6 +228,22 @@
    ]
   },
   {
+   "id": "hn-50082113",
+   "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
+   "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
+   "hn_url": "https://news.ycombinator.com/item?id=50082113",
+   "score": 44,
+   "comments": 42,
+   "author": "1659447091",
+   "time_iso": "2026-10-14T03:41:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 44
+    }
+   ]
+  },
+  {
    "id": "hn-50082637",
    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
    "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
@@ -204,8 +264,8 @@
    "title": "Why I Wrote PGP (1991, revised 1999)",
    "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
    "hn_url": "https://news.ycombinator.com/item?id=50084674",
-   "score": 134,
-   "comments": 50,
+   "score": 164,
+   "comments": 58,
    "author": "GaryBluto",
    "time_iso": "2026-10-14T09:17:06+00:00",
    "history": [
@@ -220,6 +280,26 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 134
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 164
+    }
+   ]
+  },
+  {
+   "id": "hn-50084790",
+   "title": "The Economic Complexity of the Western Roman Empire",
+   "url": "https://www.michelecoscia.com/?p=2613",
+   "hn_url": "https://news.ycombinator.com/item?id=50084790",
+   "score": 22,
+   "comments": 5,
+   "author": "mikk14",
+   "time_iso": "2026-10-14T09:32:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 22
     }
    ]
   },
@@ -448,8 +528,8 @@
    "title": "Wayland desktop for Linux with skeuomorphic design",
    "url": "https://github.com/fyzugx/DEsk",
    "hn_url": "https://news.ycombinator.com/item?id=50103338",
-   "score": 558,
-   "comments": 223,
+   "score": 617,
+   "comments": 241,
    "author": "FinalDestiny",
    "time_iso": "2026-10-15T13:23:44+00:00",
    "history": [
@@ -468,6 +548,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 558
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 617
     }
    ]
   },
@@ -552,8 +636,8 @@
    "title": "Celebrating 70 Years of Fortran",
    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
    "hn_url": "https://news.ycombinator.com/item?id=50104726",
-   "score": 250,
-   "comments": 105,
+   "score": 280,
+   "comments": 117,
    "author": "rbanffy",
    "time_iso": "2026-10-15T15:03:17+00:00",
    "history": [
@@ -572,6 +656,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 250
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 280
     }
    ]
   },
@@ -624,8 +712,8 @@
    "title": "Neural networks are clean",
    "url": "https://already-clean.goodfire.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50105647",
-   "score": 588,
-   "comments": 219,
+   "score": 700,
+   "comments": 264,
    "author": "themgt",
    "time_iso": "2026-10-15T16:04:01+00:00",
    "history": [
@@ -644,6 +732,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 588
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 700
     }
    ]
   },
@@ -652,8 +744,8 @@
    "title": "Krea 3 – An image model built for editing at scale",
    "url": "https://www.krea.ai/krea-3",
    "hn_url": "https://news.ycombinator.com/item?id=50105648",
-   "score": 282,
-   "comments": 88,
+   "score": 314,
+   "comments": 100,
    "author": "dvrp",
    "time_iso": "2026-10-15T16:04:05+00:00",
    "history": [
@@ -672,6 +764,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 282
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 314
     }
    ]
   },
@@ -680,8 +776,8 @@
    "title": "BIPM decides to stop adding leap seconds to UTC",
    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
    "hn_url": "https://news.ycombinator.com/item?id=50105777",
-   "score": 125,
-   "comments": 59,
+   "score": 184,
+   "comments": 90,
    "author": "gliffie",
    "time_iso": "2026-10-15T16:11:36+00:00",
    "history": [
@@ -692,6 +788,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 125
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 184
     }
    ]
   },
@@ -700,8 +800,8 @@
    "title": "Jev meets the Trolley Problem",
    "url": "https://zachlandes.com/trolley-problem/",
    "hn_url": "https://news.ycombinator.com/item?id=50106023",
-   "score": 382,
-   "comments": 167,
+   "score": 472,
+   "comments": 201,
    "author": "zlandes86",
    "time_iso": "2026-10-15T16:24:52+00:00",
    "history": [
@@ -716,6 +816,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 382
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 472
     }
    ]
   },
@@ -788,8 +892,8 @@
    "title": "Muse Spark Open",
    "url": "https://research.meta.ai/blog/muse-spark-open",
    "hn_url": "https://news.ycombinator.com/item?id=50107379",
-   "score": 718,
-   "comments": 378,
+   "score": 823,
+   "comments": 415,
    "author": "bigwheels",
    "time_iso": "2026-10-15T17:47:39+00:00",
    "history": [
@@ -808,6 +912,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 718
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 823
     }
    ]
   },
@@ -852,8 +960,8 @@
    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
    "hn_url": "https://news.ycombinator.com/item?id=50108872",
-   "score": 283,
-   "comments": 134,
+   "score": 353,
+   "comments": 159,
    "author": "speckx",
    "time_iso": "2026-10-15T19:21:38+00:00",
    "history": [
@@ -868,6 +976,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 283
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 353
     }
    ]
   },
@@ -876,8 +988,8 @@
    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
    "hn_url": "https://news.ycombinator.com/item?id=50109375",
-   "score": 217,
-   "comments": 155,
+   "score": 302,
+   "comments": 196,
    "author": "johnbehnke",
    "time_iso": "2026-10-15T19:55:49+00:00",
    "history": [
@@ -892,6 +1004,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 217
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 302
     }
    ]
   },
@@ -900,8 +1016,8 @@
    "title": "What I self-host",
    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
    "hn_url": "https://news.ycombinator.com/item?id=50109715",
-   "score": 373,
-   "comments": 234,
+   "score": 500,
+   "comments": 315,
    "author": "BrunoBernardino",
    "time_iso": "2026-10-15T20:23:25+00:00",
    "history": [
@@ -916,6 +1032,10 @@
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 373
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 500
     }
    ]
   },
@@ -937,17 +1057,21 @@
   },
   {
    "id": "hn-50111852",
-   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
    "hn_url": "https://news.ycombinator.com/item?id=50111852",
-   "score": 131,
-   "comments": 55,
+   "score": 310,
+   "comments": 113,
    "author": "0in",
    "time_iso": "2026-10-15T23:37:42+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 131
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 310
     }
    ]
   },
@@ -956,14 +1080,18 @@
    "title": "RPKI now protects 70% of internet routes",
    "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
    "hn_url": "https://news.ycombinator.com/item?id=50112330",
-   "score": 93,
-   "comments": 26,
+   "score": 165,
+   "comments": 55,
    "author": "emot",
    "time_iso": "2026-10-16T00:52:35+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 93
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 165
     }
    ]
   },
@@ -972,14 +1100,18 @@
    "title": "Thank You, Deno",
    "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
    "hn_url": "https://news.ycombinator.com/item?id=50112331",
-   "score": 44,
-   "comments": 3,
+   "score": 91,
+   "comments": 17,
    "author": "jcbhmr",
    "time_iso": "2026-10-16T00:52:40+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 44
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 91
     }
    ]
   },
@@ -988,14 +1120,18 @@
    "title": "Any window from your Mac, on your iPhone and iPad",
    "url": "https://github.com/Saffsanity/sill",
    "hn_url": "https://news.ycombinator.com/item?id=50112739",
-   "score": 97,
-   "comments": 11,
+   "score": 159,
+   "comments": 37,
    "author": "chanana",
    "time_iso": "2026-10-16T01:43:17+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 97
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 159
     }
    ]
   },
@@ -1004,14 +1140,50 @@
    "title": "Comparing Chromium Development at Google and Igalia",
    "url": "https://lwn.net/Articles/1094721/",
    "hn_url": "https://news.ycombinator.com/item?id=50112887",
-   "score": 24,
-   "comments": 1,
+   "score": 49,
+   "comments": 16,
    "author": "signa11",
    "time_iso": "2026-10-16T01:56:37+00:00",
    "history": [
     {
      "t": "2026-10-16T13:26:06.441726+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50114342",
+   "title": "The Folders Programming Language",
+   "url": "https://danieltemkin.com/esolangs/folders",
+   "hn_url": "https://news.ycombinator.com/item?id=50114342",
+   "score": 75,
+   "comments": 11,
+   "author": "gurst",
+   "time_iso": "2026-10-16T05:11:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 75
+    }
+   ]
+  },
+  {
+   "id": "hn-50115144",
+   "title": "The insider trading you're allowed to do",
+   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+   "hn_url": "https://news.ycombinator.com/item?id=50115144",
+   "score": 46,
+   "comments": 29,
+   "author": "rohanm93",
+   "time_iso": "2026-10-16T07:12:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-16T18:41:25.990181+08:00",
+     "score": 46
     }
    ]
   }
