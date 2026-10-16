@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-17T03:17:41.605057+08:00",
- "count": 25,
+ "updated_at": "2026-10-17T06:30:28.384005+08:00",
+ "count": 36,
  "items": [
   {
    "id": "hn-50065859",
@@ -36,6 +36,22 @@
    ]
   },
   {
+   "id": "hn-50076089",
+   "title": "Monte-Carlo Simulations",
+   "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+   "hn_url": "https://news.ycombinator.com/item?id=50076089",
+   "score": 43,
+   "comments": 7,
+   "author": "ibobev",
+   "time_iso": "2026-10-13T18:11:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
    "id": "hn-50077225",
    "title": "Yet another way to invoke functions without parentheses",
    "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
@@ -52,6 +68,38 @@
    ]
   },
   {
+   "id": "hn-50080246",
+   "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+   "url": "https://wonderhop.io/en/",
+   "hn_url": "https://news.ycombinator.com/item?id=50080246",
+   "score": 45,
+   "comments": 51,
+   "author": "mtlduo",
+   "time_iso": "2026-10-13T23:10:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50083673",
+   "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+   "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+   "hn_url": "https://news.ycombinator.com/item?id=50083673",
+   "score": 35,
+   "comments": 1,
+   "author": "giuliomagnifico",
+   "time_iso": "2026-10-14T07:21:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
    "id": "hn-50086838",
    "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
    "url": "https://va3ndf.com/blog/hacker-badges/",
@@ -64,6 +112,22 @@
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 28
+    }
+   ]
+  },
+  {
+   "id": "hn-50090453",
+   "title": "PGO or not PGO this is the dilemma. Step 2",
+   "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090453",
+   "score": 8,
+   "comments": 1,
+   "author": "hnp9j9qtda",
+   "time_iso": "2026-10-14T16:33:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 8
     }
    ]
   },
@@ -88,14 +152,18 @@
    "title": "Tesla Roadster",
    "url": "https://www.tesla.com/roadster",
    "hn_url": "https://news.ycombinator.com/item?id=50112657",
-   "score": 639,
-   "comments": 1040,
+   "score": 1009,
+   "comments": 1810,
    "author": "shekhar101",
    "time_iso": "2026-10-16T01:32:45+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 639
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 1009
     }
    ]
   },
@@ -104,14 +172,18 @@
    "title": "I Love Software Rendering",
    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
    "hn_url": "https://news.ycombinator.com/item?id=50117746",
-   "score": 243,
-   "comments": 165,
+   "score": 272,
+   "comments": 180,
    "author": "speckx",
    "time_iso": "2026-10-16T12:52:08+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 243
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 272
     }
    ]
   },
@@ -136,14 +208,18 @@
    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "hn_url": "https://news.ycombinator.com/item?id=50118320",
-   "score": 202,
-   "comments": 95,
+   "score": 241,
+   "comments": 108,
    "author": "antipaul",
    "time_iso": "2026-10-16T13:43:48+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 202
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 241
     }
    ]
   },
@@ -168,14 +244,18 @@
    "title": "Show HN: Gemini 4 Argon plays StarCraft",
    "url": "https://starskirmish.com/bench/v0-2/",
    "hn_url": "https://news.ycombinator.com/item?id=50118688",
-   "score": 137,
-   "comments": 65,
+   "score": 174,
+   "comments": 77,
    "author": "__cayenne__",
    "time_iso": "2026-10-16T14:18:44+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 137
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 174
     }
    ]
   },
@@ -200,14 +280,34 @@
    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
    "url": "https://calif.io/research/big-fish",
    "hn_url": "https://news.ycombinator.com/item?id=50118977",
-   "score": 130,
-   "comments": 35,
+   "score": 151,
+   "comments": 43,
    "author": "rs_rs_rs_rs_rs",
    "time_iso": "2026-10-16T14:44:02+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 130
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 151
+    }
+   ]
+  },
+  {
+   "id": "hn-50118981",
+   "title": "Waymo in Toronto",
+   "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+   "hn_url": "https://news.ycombinator.com/item?id=50118981",
+   "score": 219,
+   "comments": 327,
+   "author": "ChrisArchitect",
+   "time_iso": "2026-10-16T14:44:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 219
     }
    ]
   },
@@ -248,14 +348,18 @@
    "title": "JPEG XL vs. AVIF for web use-cases",
    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
    "hn_url": "https://news.ycombinator.com/item?id=50120224",
-   "score": 104,
-   "comments": 86,
+   "score": 169,
+   "comments": 133,
    "author": "farlight",
    "time_iso": "2026-10-16T16:12:02+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 104
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 169
     }
    ]
   },
@@ -264,14 +368,18 @@
    "title": "/dev/null: social network for developers",
    "url": "https://dev-null.sh",
    "hn_url": "https://news.ycombinator.com/item?id=50121004",
-   "score": 47,
-   "comments": 63,
+   "score": 101,
+   "comments": 95,
    "author": "mnapoli",
    "time_iso": "2026-10-16T16:57:49+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 47
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 101
     }
    ]
   },
@@ -280,14 +388,18 @@
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "hn_url": "https://news.ycombinator.com/item?id=50121179",
-   "score": 209,
-   "comments": 183,
+   "score": 339,
+   "comments": 297,
    "author": "speckx",
    "time_iso": "2026-10-16T17:08:38+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 209
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 339
     }
    ]
   },
@@ -304,6 +416,10 @@
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 1
     }
    ]
   },
@@ -312,14 +428,18 @@
    "title": "GifCities",
    "url": "https://gifcities.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50121601",
-   "score": 6,
-   "comments": 0,
+   "score": 45,
+   "comments": 4,
    "author": "augury",
    "time_iso": "2026-10-16T17:35:07+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 45
     }
    ]
   },
@@ -328,14 +448,18 @@
    "title": "Designing more efficient quantum circuits with Claude",
    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "hn_url": "https://news.ycombinator.com/item?id=50121939",
-   "score": 29,
-   "comments": 5,
+   "score": 75,
+   "comments": 14,
    "author": "pretext",
    "time_iso": "2026-10-16T18:00:18+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 75
     }
    ]
   },
@@ -344,14 +468,18 @@
    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
    "hn_url": "https://news.ycombinator.com/item?id=50122034",
-   "score": 63,
-   "comments": 32,
+   "score": 126,
+   "comments": 105,
    "author": "7402",
    "time_iso": "2026-10-16T18:06:17+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 63
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 126
     }
    ]
   },
@@ -376,14 +504,34 @@
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "url": "https://github.com/cobanov/PS5LM",
    "hn_url": "https://news.ycombinator.com/item?id=50122431",
-   "score": 32,
-   "comments": 5,
+   "score": 134,
+   "comments": 37,
    "author": "Anon84",
    "time_iso": "2026-10-16T18:32:35+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 134
+    }
+   ]
+  },
+  {
+   "id": "hn-50122736",
+   "title": "C++26: The New Debugging Header",
+   "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+   "hn_url": "https://news.ycombinator.com/item?id=50122736",
+   "score": 40,
+   "comments": 2,
+   "author": "jandeboevrie",
+   "time_iso": "2026-10-16T18:52:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 40
     }
    ]
   },
@@ -392,14 +540,98 @@
    "title": "Claude reveals ECDSA curve origins",
    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "hn_url": "https://news.ycombinator.com/item?id=50122800",
-   "score": 66,
-   "comments": 11,
+   "score": 515,
+   "comments": 213,
    "author": "ahlCVA",
    "time_iso": "2026-10-16T18:55:59+00:00",
    "history": [
     {
      "t": "2026-10-17T03:17:41.605057+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 515
+    }
+   ]
+  },
+  {
+   "id": "hn-50122878",
+   "title": "You could have invented transformers from memory",
+   "url": "https://alexwang.ai/posts/associative-memory/",
+   "hn_url": "https://news.ycombinator.com/item?id=50122878",
+   "score": 61,
+   "comments": 10,
+   "author": "speckx",
+   "time_iso": "2026-10-16T19:01:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50122951",
+   "title": "How the Claude Code team does code review",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50122951",
+   "score": 160,
+   "comments": 157,
+   "author": "pretext",
+   "time_iso": "2026-10-16T19:04:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 160
+    }
+   ]
+  },
+  {
+   "id": "hn-50123356",
+   "title": "The Fatal Flaw of 911",
+   "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+   "hn_url": "https://news.ycombinator.com/item?id=50123356",
+   "score": 40,
+   "comments": 54,
+   "author": "plunge",
+   "time_iso": "2026-10-16T19:33:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50123580",
+   "title": "FLUX 3 Image Klein",
+   "url": "https://bfl.ai/blog/flux-3-image-klein",
+   "hn_url": "https://news.ycombinator.com/item?id=50123580",
+   "score": 69,
+   "comments": 13,
+   "author": "gmays",
+   "time_iso": "2026-10-16T19:47:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50124251",
+   "title": "I never authorized an integration that scans my secrets",
+   "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+   "hn_url": "https://news.ycombinator.com/item?id=50124251",
+   "score": 115,
+   "comments": 66,
+   "author": "trvrprkr",
+   "time_iso": "2026-10-16T20:33:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T06:30:28.384005+08:00",
+     "score": 115
     }
    ]
   }

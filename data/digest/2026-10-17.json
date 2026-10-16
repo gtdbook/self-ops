@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T03:17:43.343501+08:00",
+ "generated_at": "2026-10-17T06:30:29.934318+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -17,11 +17,114 @@
     }
    ]
   },
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Claude reveals ECDSA curve origins",
+     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "meta": "+449 分 / 3.2 小时 · 现 ⭐ 515",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tesla Roadster",
+     "url": "https://www.tesla.com/roadster",
+     "meta": "+370 分 / 3.2 小时 · 现 ⭐ 1009",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+     "meta": "+130 分 / 3.2 小时 · 现 ⭐ 339",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+     "url": "https://github.com/cobanov/PS5LM",
+     "meta": "+102 分 / 3.2 小时 · 现 ⭐ 134",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "JPEG XL vs. AVIF for web use-cases",
+     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+     "meta": "+65 分 / 3.2 小时 · 现 ⭐ 169",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+     "meta": "+63 分 / 3.2 小时 · 现 ⭐ 126",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "/dev/null: social network for developers",
+     "url": "https://dev-null.sh",
+     "meta": "+54 分 / 3.2 小时 · 现 ⭐ 101",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Designing more efficient quantum circuits with Claude",
+     "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+     "meta": "+46 分 / 3.2 小时 · 现 ⭐ 75",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "meta": "+39 分 / 3.2 小时 · 现 ⭐ 241",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GifCities",
+     "url": "https://gifcities.org/",
+     "meta": "+39 分 / 3.2 小时 · 现 ⭐ 45",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Replit is no longer working with Anthropic, CEO says",
+     "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "meta": "TechCrunch AI · 2026-10-16",
+     "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+     "meta": "Ars Technica · 2026-10-16",
+     "summary": "The bug is fixed, but privacy concerns remain.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
@@ -35,6 +138,14 @@
      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
      "meta": "Ars Technica · 2026-10-16",
      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "meta": "OpenAI · 2026-10-16",
+     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -117,30 +228,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Google Beam expands with new regions, partners, and customers",
-     "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-     "meta": "Google AI Blog · 2026-09-23",
-     "summary": "Google Beam promotional animation",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-     "meta": "OpenAI · 2026-09-23",
-     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-     "url": "https://huggingface.co/blog/evaleval-aisi",
-     "meta": "Hugging Face · 2026-09-22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -152,7 +239,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3514 · C",
+     "meta": "⭐ 3526 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -160,7 +247,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2835 · C",
+     "meta": "⭐ 2847 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -168,7 +255,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2482 · Python",
+     "meta": "⭐ 2503 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -176,7 +263,7 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2399 · Rust",
+     "meta": "⭐ 2401 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -184,31 +271,31 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 1669 · JavaScript",
+     "meta": "⭐ 1702 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "chenglou/handwired",
-     "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1495 · TypeScript",
-     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1476 · C#",
+     "meta": "⭐ 1535 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 1528 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "shaongitbd/doory",
      "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1411 · TypeScript",
+     "meta": "⭐ 1421 · TypeScript",
      "summary": "Open source canva alternative",
      "reason": null,
      "origin_source": "github_search"
@@ -216,7 +303,7 @@
     {
      "title": "deeplethe/solid-glass",
      "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 1348 · TypeScript",
+     "meta": "⭐ 1354 · TypeScript",
      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
@@ -224,7 +311,7 @@
     {
      "title": "opengeos/RustGIS",
      "url": "https://github.com/opengeos/RustGIS",
-     "meta": "⭐ 1327 · Rust",
+     "meta": "⭐ 1344 · Rust",
      "summary": "A fast, free and open-source GIS in pure Rust.",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +319,7 @@
     {
      "title": "rociiu/talorys",
      "url": "https://github.com/rociiu/talorys",
-     "meta": "⭐ 1243 · TypeScript",
+     "meta": "⭐ 1254 · TypeScript",
      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +327,7 @@
     {
      "title": "marclou/mailcheap",
      "url": "https://github.com/marclou/mailcheap",
-     "meta": "⭐ 1129 · JavaScript",
+     "meta": "⭐ 1150 · JavaScript",
      "summary": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +335,7 @@
     {
      "title": "zhuyansen/new-term-radar",
      "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1063 · Python",
+     "meta": "⭐ 1064 · Python",
      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +343,7 @@
     {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1045 · Go",
+     "meta": "⭐ 1054 · Go",
      "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +351,7 @@
     {
      "title": "fyzugx/DEsk",
      "url": "https://github.com/fyzugx/DEsk",
-     "meta": "⭐ 1009 · C",
+     "meta": "⭐ 1026 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -277,6 +364,14 @@
    "errors": [],
    "items": [
     {
+     "title": "Tesla Roadster",
+     "url": "https://www.tesla.com/roadster",
+     "meta": "⭐ 1009 · 💬 1810",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
      "meta": "⭐ 767 · 💬 233",
@@ -285,9 +380,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Tesla Roadster",
-     "url": "https://www.tesla.com/roadster",
-     "meta": "⭐ 639 · 💬 1040",
+     "title": "Claude reveals ECDSA curve origins",
+     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "meta": "⭐ 515 · 💬 213",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+     "meta": "⭐ 339 · 💬 297",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -295,7 +398,15 @@
     {
      "title": "I Love Software Rendering",
      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-     "meta": "⭐ 243 · 💬 165",
+     "meta": "⭐ 272 · 💬 180",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "meta": "⭐ 241 · 💬 108",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -309,17 +420,41 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-     "meta": "⭐ 209 · 💬 183",
+     "title": "Waymo in Toronto",
+     "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+     "meta": "⭐ 219 · 💬 327",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-     "meta": "⭐ 202 · 💬 95",
+     "title": "Show HN: Gemini 4 Argon plays StarCraft",
+     "url": "https://starskirmish.com/bench/v0-2/",
+     "meta": "⭐ 174 · 💬 77",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "JPEG XL vs. AVIF for web use-cases",
+     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+     "meta": "⭐ 169 · 💬 133",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How the Claude Code team does code review",
+     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+     "meta": "⭐ 160 · 💬 157",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+     "url": "https://calif.io/research/big-fish",
+     "meta": "⭐ 151 · 💬 43",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -333,65 +468,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Gemini 4 Argon plays StarCraft",
-     "url": "https://starskirmish.com/bench/v0-2/",
-     "meta": "⭐ 137 · 💬 65",
+     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+     "url": "https://github.com/cobanov/PS5LM",
+     "meta": "⭐ 134 · 💬 37",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-     "url": "https://calif.io/research/big-fish",
-     "meta": "⭐ 130 · 💬 35",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "JPEG XL vs. AVIF for web use-cases",
-     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-     "meta": "⭐ 104 · 💬 86",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What on Earth Is Dekton?",
-     "url": "https://www.worksinprogress.news/p/porcelain",
-     "meta": "⭐ 95 · 💬 31",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Inside Polymarket's paid quote-retweet esports program",
-     "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-     "meta": "⭐ 80 · 💬 53",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-     "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-     "meta": "⭐ 75 · 💬 51",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-     "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-     "meta": "⭐ 71 · 💬 34",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Claude reveals ECDSA curve origins",
-     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-     "meta": "⭐ 66 · 💬 11",
+     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+     "meta": "⭐ 126 · 💬 105",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

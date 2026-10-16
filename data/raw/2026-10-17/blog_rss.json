@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-17T03:17:43.132551+08:00",
- "count": 2336,
+ "updated_at": "2026-10-17T06:30:29.693798+08:00",
+ "count": 2337,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -218,6 +218,15 @@
    "published": "Wed, 02 Apr 2025 13:33:53 GMT",
    "published_iso": "2025-04-02T13:33:53+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-03ee529f815a5374",
+   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+   "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "feed_name": "Ars Technica",
+   "published": "Fri, 16 Oct 2026 19:11:50 +0000",
+   "published_iso": "2026-10-16T19:11:50+00:00",
+   "summary": "The bug is fixed, but privacy concerns remain."
   },
   {
    "id": "rss-03f3c0f73735e0d0",
@@ -1255,6 +1264,15 @@
    "summary": "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more"
   },
   {
+   "id": "rss-0f8250f167965b41",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "feed_name": "OpenAI",
+   "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+   "published_iso": "2026-10-16T00:00:00+00:00",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+  },
+  {
    "id": "rss-0f9835b177f9b6da",
    "title": "Gradient Labs gives every bank customer an AI account manager",
    "url": "https://openai.com/index/gradient-labs",
@@ -1604,6 +1622,15 @@
    "published": "Thu, 18 Jul 2024 00:00:00 GMT",
    "published_iso": "2024-07-18T00:00:00+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-13131774e8114bcf",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "feed_name": "TechCrunch AI",
+   "published": "Fri, 16 Oct 2026 21:22:28 +0000",
+   "published_iso": "2026-10-16T21:22:28+00:00",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
   },
   {
    "id": "rss-13691a2ce123a89e",
@@ -2675,33 +2702,6 @@
    "published": "Fri, 12 Jan 2024 08:00:00 GMT",
    "published_iso": "2024-01-12T08:00:00+00:00",
    "summary": "Digital Green uses OpenAI to increase farmer income."
-  },
-  {
-   "id": "rss-1f8156d371d82b42",
-   "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
-   "url": "https://huggingface.co/blog/jat",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 22 Apr 2024 00:00:00 GMT",
-   "published_iso": "2024-04-22T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-200ccf22b4732b19",
-   "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-   "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 21 Apr 2026 10:09:58 GMT",
-   "published_iso": "2026-04-21T10:09:58+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-2034adaf8866f204",
-   "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
-   "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 24 Oct 2023 00:00:00 GMT",
-   "published_iso": "2023-10-24T00:00:00+00:00",
-   "summary": ""
   }
  ]
 }
