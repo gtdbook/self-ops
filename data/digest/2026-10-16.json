@@ -1,7 +1,22 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T18:41:28.129604+08:00",
+ "generated_at": "2026-10-16T23:11:22.914366+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Muse Spark Open",
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Muse Spark Open",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Muse Spark Open",
      "url": "https://research.meta.ai/blog/muse-spark-open",
-     "meta": "+780 分 / 16.7 小时 · 现 ⭐ 823",
+     "meta": "+838 分 / 21.2 小时 · 现 ⭐ 881",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +33,15 @@
     {
      "title": "Neural networks are clean",
      "url": "https://already-clean.goodfire.com/",
-     "meta": "+579 分 / 16.7 小时 · 现 ⭐ 700",
+     "meta": "+642 分 / 21.2 小时 · 现 ⭐ 763",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+     "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+     "meta": "+580 分 / 9.8 小时 · 现 ⭐ 631",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,9 +63,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-     "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-     "meta": "+286 分 / 5.3 小时 · 现 ⭐ 337",
+     "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+     "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+     "meta": "+281 分 / 9.8 小时 · 现 ⭐ 412",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -75,14 +98,6 @@
      "title": "Krea 3 – An image model built for editing at scale",
      "url": "https://www.krea.ai/krea-3",
      "meta": "+222 分 / 16.7 小时 · 现 ⭐ 314",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-     "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-     "meta": "+220 分 / 12.8 小时 · 现 ⭐ 302",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +239,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3420 · C",
+     "meta": "⭐ 3479 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -240,32 +255,56 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2733 · C",
+     "meta": "⭐ 2785 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "liseami/CCBaga",
-     "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2378 · Rust",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2322 · Python",
+     "meta": "⭐ 2425 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "liseami/CCBaga",
+     "url": "https://github.com/liseami/CCBaga",
+     "meta": "⭐ 2389 · Rust",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 1492 · JavaScript",
+     "meta": "⭐ 1591 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 1425 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ahwootech/BRUTAL",
+     "url": "https://github.com/ahwootech/BRUTAL",
+     "meta": "⭐ 1414 · C#",
+     "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "shaongitbd/doory",
+     "url": "https://github.com/shaongitbd/doory",
+     "meta": "⭐ 1388 · TypeScript",
+     "summary": "Open source canva alternative",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -278,49 +317,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "shaongitbd/doory",
-     "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1371 · TypeScript",
-     "summary": "Open source canva alternative",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "ahwootech/BRUTAL",
-     "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1344 · C#",
-     "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "chenglou/handwired",
-     "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1326 · TypeScript",
-     "summary": "Turn your regular JavaScript code into a neural net.",
+     "title": "deeplethe/solid-glass",
+     "url": "https://github.com/deeplethe/solid-glass",
+     "meta": "⭐ 1328 · TypeScript",
+     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "opengeos/RustGIS",
      "url": "https://github.com/opengeos/RustGIS",
-     "meta": "⭐ 1274 · Rust",
+     "meta": "⭐ 1306 · Rust",
      "summary": "A fast, free and open-source GIS in pure Rust.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "deeplethe/solid-glass",
-     "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 1270 · TypeScript",
-     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "rociiu/talorys",
      "url": "https://github.com/rociiu/talorys",
-     "meta": "⭐ 1221 · TypeScript",
+     "meta": "⭐ 1230 · TypeScript",
      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +343,7 @@
     {
      "title": "marclou/mailcheap",
      "url": "https://github.com/marclou/mailcheap",
-     "meta": "⭐ 1092 · JavaScript",
+     "meta": "⭐ 1112 · JavaScript",
      "summary": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +351,7 @@
     {
      "title": "zhuyansen/new-term-radar",
      "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1054 · Python",
+     "meta": "⭐ 1061 · Python",
      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +366,7 @@
     {
      "title": "Muse Spark Open",
      "url": "https://research.meta.ai/blog/muse-spark-open",
-     "meta": "⭐ 823 · 💬 415",
+     "meta": "⭐ 881 · 💬 443",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +382,15 @@
     {
      "title": "Neural networks are clean",
      "url": "https://already-clean.goodfire.com/",
-     "meta": "⭐ 700 · 💬 264",
+     "meta": "⭐ 763 · 💬 297",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+     "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+     "meta": "⭐ 631 · 💬 200",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,6 +436,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+     "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+     "meta": "⭐ 412 · 💬 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "meta": "⭐ 353 · 💬 159",
@@ -429,25 +460,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-     "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-     "meta": "⭐ 337 · 💬 116",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Krea 3 – An image model built for editing at scale",
      "url": "https://www.krea.ai/krea-3",
      "meta": "⭐ 314 · 💬 100",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-     "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-     "meta": "⭐ 310 · 💬 113",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -508,6 +523,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Calenteri",
+     "url": "https://www.producthunt.com/products/calenteri",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "SaaS where a user can can book appointments to other users.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Atticus",
      "url": "https://www.producthunt.com/products/atticus",
      "meta": "Product Hunt · 2026-10-14",
@@ -540,6 +563,22 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Sparrow",
+     "url": "https://www.producthunt.com/products/sparrow-10",
+     "meta": "Product Hunt · 2026-10-15",
+     "summary": "Self-hosted webhook delivery. One binary, just Postgres.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Agent Vault",
+     "url": "https://www.producthunt.com/products/agent-vault-2",
+     "meta": "Product Hunt · 2026-10-14",
+     "summary": "Superpowers for your Agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Make0 Brain",
      "url": "https://www.producthunt.com/products/make0-brain",
      "meta": "Product Hunt · 2026-10-10",
@@ -564,34 +603,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "Mira Tours",
-     "url": "https://www.producthunt.com/products/mira-tours",
-     "meta": "Product Hunt · 2026-10-11",
-     "summary": "AI Walking Tour Guide",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Hintly for Google Meet™",
-     "url": "https://www.producthunt.com/products/hintly-for-google-meet",
-     "meta": "Product Hunt · 2026-10-09",
-     "summary": "Real-time hints for every term you miss on Google Meet",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Table Canon",
-     "url": "https://www.producthunt.com/products/table-canon-ttrpg-campaign-memory",
-     "meta": "Product Hunt · 2026-10-07",
-     "summary": "Automated notes, searchable history, prep ideas for GMs",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "SlashDocs by Razorpay",
-     "url": "https://www.producthunt.com/products/razorpay",
+     "title": "Neophyte",
+     "url": "https://www.producthunt.com/products/neophyte",
      "meta": "Product Hunt · 2026-10-13",
-     "summary": "Self-hosted collaboration layer for agent-written HTML",
+     "summary": "Watch an AI agent sign up and onboard to any product",
      "reason": null,
      "origin_source": "producthunt"
     }
