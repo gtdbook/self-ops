@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T08:05:02.378707+08:00",
+ "generated_at": "2026-10-16T13:26:08.680113+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Muse Spark Open",
      "url": "https://research.meta.ai/blog/muse-spark-open",
-     "meta": "+536 分 / 6.0 小时 · 现 ⭐ 579",
+     "meta": "+675 分 / 11.4 小时 · 现 ⭐ 718",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,15 +18,15 @@
     {
      "title": "Neural networks are clean",
      "url": "https://already-clean.goodfire.com/",
-     "meta": "+346 分 / 6.0 小时 · 现 ⭐ 467",
+     "meta": "+467 分 / 11.4 小时 · 现 ⭐ 588",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-     "meta": "+174 分 / 6.0 小时 · 现 ⭐ 367",
+     "title": "What I self-host",
+     "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+     "meta": "+315 分 / 7.5 小时 · 现 ⭐ 373",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,15 +34,15 @@
     {
      "title": "Wayland desktop for Linux with skeuomorphic design",
      "url": "https://github.com/fyzugx/DEsk",
-     "meta": "+173 分 / 6.0 小时 · 现 ⭐ 474",
+     "meta": "+257 分 / 11.4 小时 · 现 ⭐ 558",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "What I Self-Host",
-     "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-     "meta": "+140 分 / 2.2 小时 · 现 ⭐ 198",
+     "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+     "meta": "+236 分 / 11.4 小时 · 现 ⭐ 429",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,31 +50,15 @@
     {
      "title": "Krea 3 – An image model built for editing at scale",
      "url": "https://www.krea.ai/krea-3",
-     "meta": "+139 分 / 6.0 小时 · 现 ⭐ 231",
+     "meta": "+190 分 / 11.4 小时 · 现 ⭐ 282",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-     "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-     "meta": "+127 分 / 6.0 小时 · 现 ⭐ 270",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Delta’s Biscoff cookies were supposed to be temporary",
-     "url": "https://www.seriouseats.com/biscoff-history-12168161",
-     "meta": "+118 分 / 6.0 小时 · 现 ⭐ 170",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Celebrating 70 Years of Fortran",
-     "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-     "meta": "+102 分 / 6.0 小时 · 现 ⭐ 204",
+     "title": "Jev meets the Trolley Problem",
+     "url": "https://zachlandes.com/trolley-problem/",
+     "meta": "+185 分 / 7.5 小时 · 现 ⭐ 382",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -82,7 +66,23 @@
     {
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-     "meta": "+90 分 / 2.2 小时 · 现 ⭐ 188",
+     "meta": "+185 分 / 7.5 小时 · 现 ⭐ 283",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Delta’s Biscoff cookies were supposed to be temporary",
+     "url": "https://www.seriouseats.com/biscoff-history-12168161",
+     "meta": "+152 分 / 11.4 小时 · 现 ⭐ 204",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Celebrating 70 Years of Fortran",
+     "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+     "meta": "+148 分 / 11.4 小时 · 现 ⭐ 250",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3098 · C",
+     "meta": "⭐ 3281 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2428 · C",
+     "meta": "⭐ 2600 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2338 · Rust",
+     "meta": "⭐ 2353 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -256,8 +256,16 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2010 · Python",
+     "meta": "⭐ 2153 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HeyPuter/everything",
+     "url": "https://github.com/HeyPuter/everything",
+     "meta": "⭐ 1388 · JavaScript",
+     "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -272,47 +280,55 @@
     {
      "title": "shaongitbd/doory",
      "url": "https://github.com/shaongitbd/doory",
-     "meta": "⭐ 1305 · TypeScript",
+     "meta": "⭐ 1344 · TypeScript",
      "summary": "Open source canva alternative",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "HeyPuter/everything",
-     "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 1298 · JavaScript",
-     "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "opengeos/RustGIS",
-     "url": "https://github.com/opengeos/RustGIS",
-     "meta": "⭐ 1216 · Rust",
-     "summary": "A fast, free and open-source GIS in pure Rust.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1147 · C#",
+     "meta": "⭐ 1254 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "opengeos/RustGIS",
+     "url": "https://github.com/opengeos/RustGIS",
+     "meta": "⭐ 1237 · Rust",
+     "summary": "A fast, free and open-source GIS in pure Rust.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 1195 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "rociiu/talorys",
      "url": "https://github.com/rociiu/talorys",
-     "meta": "⭐ 1140 · TypeScript",
+     "meta": "⭐ 1187 · TypeScript",
      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "deeplethe/solid-glass",
+     "url": "https://github.com/deeplethe/solid-glass",
+     "meta": "⭐ 1111 · TypeScript",
+     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "marclou/mailcheap",
      "url": "https://github.com/marclou/mailcheap",
-     "meta": "⭐ 1051 · JavaScript",
+     "meta": "⭐ 1068 · JavaScript",
      "summary": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,24 +336,8 @@
     {
      "title": "zhuyansen/new-term-radar",
      "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1023 · Python",
+     "meta": "⭐ 1033 · Python",
      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "chenglou/handwired",
-     "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1021 · TypeScript",
-     "summary": "Turn your regular JavaScript code into a neural net.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "deeplethe/solid-glass",
-     "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 972 · TypeScript",
-     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -357,6 +357,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Muse Spark Open",
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "meta": "⭐ 718 · 💬 378",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Tiny Little Office",
      "url": "https://tinylittleoffice.com/",
      "meta": "⭐ 619 · 💬 169",
@@ -365,9 +373,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Muse Spark Open",
-     "url": "https://research.meta.ai/blog/muse-spark-open",
-     "meta": "⭐ 579 · 💬 326",
+     "title": "Neural networks are clean",
+     "url": "https://already-clean.goodfire.com/",
+     "meta": "⭐ 588 · 💬 219",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,15 +383,7 @@
     {
      "title": "Wayland desktop for Linux with skeuomorphic design",
      "url": "https://github.com/fyzugx/DEsk",
-     "meta": "⭐ 474 · 💬 193",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Neural networks are clean",
-     "url": "https://already-clean.goodfire.com/",
-     "meta": "⭐ 467 · 💬 180",
+     "meta": "⭐ 558 · 💬 223",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -391,7 +391,23 @@
     {
      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-     "meta": "⭐ 367 · 💬 532",
+     "meta": "⭐ 429 · 💬 585",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jev meets the Trolley Problem",
+     "url": "https://zachlandes.com/trolley-problem/",
+     "meta": "⭐ 382 · 💬 167",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What I self-host",
+     "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+     "meta": "⭐ 373 · 💬 234",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,6 +421,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+     "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+     "meta": "⭐ 283 · 💬 134",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Krea 3 – An image model built for editing at scale",
+     "url": "https://www.krea.ai/krea-3",
+     "meta": "⭐ 282 · 💬 88",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
      "meta": "⭐ 270 · 💬 270",
@@ -413,17 +445,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Jev meets the Trolley Problem",
-     "url": "https://zachlandes.com/trolley-problem/",
-     "meta": "⭐ 264 · 💬 125",
+     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+     "url": "https://libreboot.org/news/libreboot2610.html",
+     "meta": "⭐ 268 · 💬 165",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-     "url": "https://libreboot.org/news/libreboot2610.html",
-     "meta": "⭐ 250 · 💬 145",
+     "title": "Celebrating 70 Years of Fortran",
+     "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+     "meta": "⭐ 250 · 💬 105",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -432,38 +464,6 @@
      "title": "Show HN: Unfenced – Land for sale that borders public land",
      "url": "https://unfenced.land/",
      "meta": "⭐ 248 · 💬 167",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Krea 3 – An image model built for editing at scale",
-     "url": "https://www.krea.ai/krea-3",
-     "meta": "⭐ 231 · 💬 78",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I Know Why the Mathematicians Weep",
-     "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-     "meta": "⭐ 228 · 💬 349",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-     "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-     "meta": "⭐ 224 · 💬 180",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Celebrating 70 Years of Fortran",
-     "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-     "meta": "⭐ 204 · 💬 93",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
