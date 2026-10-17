@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-17T09:02:33.818986+08:00",
- "count": 40,
+ "updated_at": "2026-10-17T14:33:07.314192+08:00",
+ "count": 47,
  "items": [
   {
    "id": "hn-50065859",
@@ -44,8 +44,8 @@
    "title": "Monte-Carlo Simulations",
    "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
    "hn_url": "https://news.ycombinator.com/item?id=50076089",
-   "score": 64,
-   "comments": 13,
+   "score": 93,
+   "comments": 20,
    "author": "ibobev",
    "time_iso": "2026-10-13T18:11:46+00:00",
    "history": [
@@ -56,6 +56,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 64
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 93
     }
    ]
   },
@@ -96,8 +100,8 @@
    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
    "hn_url": "https://news.ycombinator.com/item?id=50083673",
-   "score": 63,
-   "comments": 6,
+   "score": 87,
+   "comments": 11,
    "author": "giuliomagnifico",
    "time_iso": "2026-10-14T07:21:12+00:00",
    "history": [
@@ -108,6 +112,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 63
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 87
     }
    ]
   },
@@ -132,14 +140,50 @@
    "title": "I built the RealWorld app in Lean 4",
    "url": "https://leangineer.com/blog/realworld-in-lean/",
    "hn_url": "https://news.ycombinator.com/item?id=50088748",
-   "score": 4,
-   "comments": 1,
+   "score": 35,
+   "comments": 3,
    "author": "saviorand",
    "time_iso": "2026-10-14T15:03:14+00:00",
    "history": [
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50088767",
+   "title": "0/1 Knapsack Problem in PyTorch",
+   "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+   "hn_url": "https://news.ycombinator.com/item?id=50088767",
+   "score": 5,
+   "comments": 0,
+   "author": "yu3zhou4",
+   "time_iso": "2026-10-14T15:04:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50088937",
+   "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+   "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+   "hn_url": "https://news.ycombinator.com/item?id=50088937",
+   "score": 29,
+   "comments": 18,
+   "author": "danso",
+   "time_iso": "2026-10-14T15:15:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 29
     }
    ]
   },
@@ -164,6 +208,22 @@
    ]
   },
   {
+   "id": "hn-50106747",
+   "title": "Ultramarine 1 Flash",
+   "url": "https://www.paperinstruments.com/ultramarine",
+   "hn_url": "https://news.ycombinator.com/item?id=50106747",
+   "score": 149,
+   "comments": 43,
+   "author": "i_rush_carriers",
+   "time_iso": "2026-10-15T17:06:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 149
+    }
+   ]
+  },
+  {
    "id": "hn-50111752",
    "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
    "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
@@ -184,8 +244,8 @@
    "title": "Tesla Roadster",
    "url": "https://www.tesla.com/roadster",
    "hn_url": "https://news.ycombinator.com/item?id=50112657",
-   "score": 1161,
-   "comments": 2087,
+   "score": 1339,
+   "comments": 2380,
    "author": "shekhar101",
    "time_iso": "2026-10-16T01:32:45+00:00",
    "history": [
@@ -200,6 +260,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 1161
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 1339
     }
    ]
   },
@@ -244,8 +308,8 @@
    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "hn_url": "https://news.ycombinator.com/item?id=50118320",
-   "score": 262,
-   "comments": 118,
+   "score": 298,
+   "comments": 147,
    "author": "antipaul",
    "time_iso": "2026-10-16T13:43:48+00:00",
    "history": [
@@ -260,6 +324,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 262
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 298
     }
    ]
   },
@@ -284,8 +352,8 @@
    "title": "Show HN: Gemini 4 Argon plays StarCraft",
    "url": "https://starskirmish.com/bench/v0-2/",
    "hn_url": "https://news.ycombinator.com/item?id=50118688",
-   "score": 183,
-   "comments": 87,
+   "score": 209,
+   "comments": 92,
    "author": "__cayenne__",
    "time_iso": "2026-10-16T14:18:44+00:00",
    "history": [
@@ -300,6 +368,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 183
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 209
     }
    ]
   },
@@ -324,8 +396,8 @@
    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
    "url": "https://calif.io/research/big-fish",
    "hn_url": "https://news.ycombinator.com/item?id=50118977",
-   "score": 162,
-   "comments": 46,
+   "score": 180,
+   "comments": 52,
    "author": "rs_rs_rs_rs_rs",
    "time_iso": "2026-10-16T14:44:02+00:00",
    "history": [
@@ -340,6 +412,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 162
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 180
     }
    ]
   },
@@ -360,6 +436,22 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 263
+    }
+   ]
+  },
+  {
+   "id": "hn-50119751",
+   "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+   "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+   "hn_url": "https://news.ycombinator.com/item?id=50119751",
+   "score": 33,
+   "comments": 2,
+   "author": "michidk",
+   "time_iso": "2026-10-16T15:38:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 33
     }
    ]
   },
@@ -400,8 +492,8 @@
    "title": "JPEG XL vs. AVIF for web use-cases",
    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
    "hn_url": "https://news.ycombinator.com/item?id=50120224",
-   "score": 194,
-   "comments": 143,
+   "score": 235,
+   "comments": 163,
    "author": "farlight",
    "time_iso": "2026-10-16T16:12:02+00:00",
    "history": [
@@ -416,6 +508,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 194
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 235
     }
    ]
   },
@@ -448,8 +544,8 @@
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "hn_url": "https://news.ycombinator.com/item?id=50121179",
-   "score": 390,
-   "comments": 325,
+   "score": 461,
+   "comments": 400,
    "author": "speckx",
    "time_iso": "2026-10-16T17:08:38+00:00",
    "history": [
@@ -464,6 +560,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 390
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 461
     }
    ]
   },
@@ -512,8 +612,8 @@
    "title": "Designing more efficient quantum circuits with Claude",
    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "hn_url": "https://news.ycombinator.com/item?id=50121939",
-   "score": 93,
-   "comments": 18,
+   "score": 126,
+   "comments": 26,
    "author": "pretext",
    "time_iso": "2026-10-16T18:00:18+00:00",
    "history": [
@@ -528,6 +628,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 93
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 126
     }
    ]
   },
@@ -536,8 +640,8 @@
    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
    "hn_url": "https://news.ycombinator.com/item?id=50122034",
-   "score": 163,
-   "comments": 131,
+   "score": 207,
+   "comments": 163,
    "author": "7402",
    "time_iso": "2026-10-16T18:06:17+00:00",
    "history": [
@@ -552,6 +656,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 163
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 207
     }
    ]
   },
@@ -576,8 +684,8 @@
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "url": "https://github.com/cobanov/PS5LM",
    "hn_url": "https://news.ycombinator.com/item?id=50122431",
-   "score": 183,
-   "comments": 47,
+   "score": 259,
+   "comments": 64,
    "author": "Anon84",
    "time_iso": "2026-10-16T18:32:35+00:00",
    "history": [
@@ -592,6 +700,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 183
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 259
     }
    ]
   },
@@ -600,8 +712,8 @@
    "title": "C++26: The New Debugging Header",
    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
    "hn_url": "https://news.ycombinator.com/item?id=50122736",
-   "score": 63,
-   "comments": 6,
+   "score": 87,
+   "comments": 18,
    "author": "jandeboevrie",
    "time_iso": "2026-10-16T18:52:39+00:00",
    "history": [
@@ -612,6 +724,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 63
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 87
     }
    ]
   },
@@ -620,8 +736,8 @@
    "title": "Claude reveals ECDSA curve origins",
    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "hn_url": "https://news.ycombinator.com/item?id=50122800",
-   "score": 650,
-   "comments": 263,
+   "score": 807,
+   "comments": 306,
    "author": "ahlCVA",
    "time_iso": "2026-10-16T18:55:59+00:00",
    "history": [
@@ -636,6 +752,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 650
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 807
     }
    ]
   },
@@ -644,8 +764,8 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 125,
-   "comments": 36,
+   "score": 235,
+   "comments": 61,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
@@ -656,6 +776,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 125
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 235
     }
    ]
   },
@@ -664,8 +788,8 @@
    "title": "How the Claude Code team does code review",
    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "hn_url": "https://news.ycombinator.com/item?id=50122951",
-   "score": 225,
-   "comments": 207,
+   "score": 308,
+   "comments": 280,
    "author": "pretext",
    "time_iso": "2026-10-16T19:04:47+00:00",
    "history": [
@@ -676,6 +800,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 225
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 308
     }
    ]
   },
@@ -700,8 +828,8 @@
    "title": "FLUX 3 Image Klein",
    "url": "https://bfl.ai/blog/flux-3-image-klein",
    "hn_url": "https://news.ycombinator.com/item?id=50123580",
-   "score": 104,
-   "comments": 26,
+   "score": 148,
+   "comments": 40,
    "author": "gmays",
    "time_iso": "2026-10-16T19:47:13+00:00",
    "history": [
@@ -712,6 +840,10 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 104
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 148
     }
    ]
   },
@@ -780,6 +912,58 @@
     {
      "t": "2026-10-17T09:02:33.818986+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50127274",
+   "title": "Butlerian Jihad",
+   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+   "hn_url": "https://news.ycombinator.com/item?id=50127274",
+   "score": 166,
+   "comments": 93,
+   "author": "wetwater",
+   "time_iso": "2026-10-17T02:21:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 166
+    }
+   ]
+  },
+  {
+   "id": "hn-50127839",
+   "title": "\"In every study that considered the question\"",
+   "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+   "hn_url": "https://news.ycombinator.com/item?id=50127839",
+   "score": 21,
+   "comments": 10,
+   "author": "zdw",
+   "time_iso": "2026-10-17T04:08:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50127979",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50127979",
+   "score": 11,
+   "comments": 0,
+   "author": "albinstman",
+   "time_iso": "2026-10-17T04:36:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-17T14:33:07.314192+08:00",
+     "score": 11
     }
    ]
   }
