@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-18T04:06:17.210543+08:00",
- "count": 41,
+ "updated_at": "2026-10-18T06:52:42.498082+08:00",
+ "count": 45,
  "items": [
   {
    "id": "hn-50082358",
@@ -36,18 +36,38 @@
    ]
   },
   {
+   "id": "hn-50090927",
+   "title": "Types of types: Haskell's Kind system",
+   "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090927",
+   "score": 10,
+   "comments": 3,
+   "author": "Thom2503",
+   "time_iso": "2026-10-14T17:00:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
    "id": "hn-50094887",
    "title": "Vintage Cassettes: 1963-2010",
    "url": "http://vintagecassettes.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50094887",
-   "score": 26,
-   "comments": 2,
+   "score": 41,
+   "comments": 5,
    "author": "austinallegro",
    "time_iso": "2026-10-14T20:41:36+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 41
     }
    ]
   },
@@ -56,14 +76,18 @@
    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
    "url": "https://github.com/antirez/c64-hw-simulator",
    "hn_url": "https://news.ycombinator.com/item?id=50100366",
-   "score": 68,
-   "comments": 12,
+   "score": 118,
+   "comments": 20,
    "author": "antirez",
    "time_iso": "2026-10-15T07:18:14+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 68
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 118
     }
    ]
   },
@@ -104,8 +128,8 @@
    "title": "Furifont, a Japanese font that shows furigana",
    "url": "https://furifont.antfu.me/",
    "hn_url": "https://news.ycombinator.com/item?id=50100994",
-   "score": 140,
-   "comments": 28,
+   "score": 216,
+   "comments": 45,
    "author": "plaguna",
    "time_iso": "2026-10-15T08:48:30+00:00",
    "history": [
@@ -116,6 +140,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 140
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 216
     }
    ]
   },
@@ -124,14 +152,18 @@
    "title": "Laser Fault Injection on a Budget: RP2350 Edition",
    "url": "https://courk.cc/rp2350-challenge-laser",
    "hn_url": "https://news.ycombinator.com/item?id=50101649",
-   "score": 5,
-   "comments": 0,
+   "score": 33,
+   "comments": 4,
    "author": "gregsadetsky",
    "time_iso": "2026-10-15T10:24:16+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 33
     }
    ]
   },
@@ -184,12 +216,28 @@
    ]
   },
   {
+   "id": "hn-50118098",
+   "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+   "url": "https://github.com/Kapendev/parin",
+   "hn_url": "https://news.ycombinator.com/item?id=50118098",
+   "score": 37,
+   "comments": 6,
+   "author": "Kapendev",
+   "time_iso": "2026-10-16T13:22:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
    "id": "hn-50119315",
    "title": "Rendering pretty sky in Around The World game",
    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
    "hn_url": "https://news.ycombinator.com/item?id=50119315",
-   "score": 101,
-   "comments": 6,
+   "score": 114,
+   "comments": 7,
    "author": "ibobev",
    "time_iso": "2026-10-16T15:06:43+00:00",
    "history": [
@@ -200,6 +248,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 101
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 114
     }
    ]
   },
@@ -256,8 +308,8 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 445,
-   "comments": 106,
+   "score": 474,
+   "comments": 109,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
@@ -268,6 +320,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 445
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 474
     }
    ]
   },
@@ -276,14 +332,18 @@
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "hn_url": "https://news.ycombinator.com/item?id=50126253",
-   "score": 103,
-   "comments": 10,
+   "score": 239,
+   "comments": 43,
    "author": "alkyon",
    "time_iso": "2026-10-16T23:38:27+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 103
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 239
     }
    ]
   },
@@ -292,14 +352,18 @@
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
    "hn_url": "https://news.ycombinator.com/item?id=50126312",
-   "score": 41,
-   "comments": 5,
+   "score": 126,
+   "comments": 35,
    "author": "sohkamyung",
    "time_iso": "2026-10-16T23:47:31+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 126
     }
    ]
   },
@@ -308,14 +372,18 @@
    "title": "A skeptic's first contact with Kubernetes (2024)",
    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
    "hn_url": "https://news.ycombinator.com/item?id=50127572",
-   "score": 42,
-   "comments": 2,
+   "score": 66,
+   "comments": 31,
    "author": "pmoriarty",
    "time_iso": "2026-10-17T03:16:25+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 66
     }
    ]
   },
@@ -324,14 +392,18 @@
    "title": "Source code of the Estonian online voting system",
    "url": "https://github.com/valimised/ivxv",
    "hn_url": "https://news.ycombinator.com/item?id=50127586",
-   "score": 66,
-   "comments": 31,
+   "score": 122,
+   "comments": 106,
    "author": "theanonymousone",
    "time_iso": "2026-10-17T03:18:39+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 122
     }
    ]
   },
@@ -356,8 +428,8 @@
    "title": "DeepSeek-v4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "hn_url": "https://news.ycombinator.com/item?id=50129045",
-   "score": 544,
-   "comments": 496,
+   "score": 638,
+   "comments": 543,
    "author": "theykk",
    "time_iso": "2026-10-17T08:21:25+00:00",
    "history": [
@@ -368,6 +440,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 544
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 638
     }
    ]
   },
@@ -408,14 +484,18 @@
    "title": "Show HN: High-quality duck audio synthesizer",
    "url": "https://celphase.github.io/duck-pond/",
    "hn_url": "https://news.ycombinator.com/item?id=50131006",
-   "score": 40,
-   "comments": 9,
+   "score": 60,
+   "comments": 17,
    "author": "celphase",
    "time_iso": "2026-10-17T13:28:46+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 40
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 60
     }
    ]
   },
@@ -444,8 +524,8 @@
    "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "hn_url": "https://news.ycombinator.com/item?id=50131213",
-   "score": 196,
-   "comments": 55,
+   "score": 234,
+   "comments": 63,
    "author": "crescit_eundo",
    "time_iso": "2026-10-17T13:55:28+00:00",
    "history": [
@@ -456,6 +536,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 196
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 234
     }
    ]
   },
@@ -464,8 +548,8 @@
    "title": "Solar surpasses nuclear power globally for first time",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
    "hn_url": "https://news.ycombinator.com/item?id=50131256",
-   "score": 373,
-   "comments": 212,
+   "score": 434,
+   "comments": 277,
    "author": "xbmcuser",
    "time_iso": "2026-10-17T14:01:01+00:00",
    "history": [
@@ -476,6 +560,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 373
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 434
     }
    ]
   },
@@ -484,14 +572,18 @@
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "url": "https://pele.run/",
    "hn_url": "https://news.ycombinator.com/item?id=50132193",
-   "score": 66,
-   "comments": 8,
+   "score": 167,
+   "comments": 16,
    "author": "dchest",
    "time_iso": "2026-10-17T15:55:09+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 167
     }
    ]
   },
@@ -560,6 +652,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 1
     }
    ]
   },
@@ -568,14 +664,18 @@
    "title": "Gold is now the top U.S. export",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
    "hn_url": "https://news.ycombinator.com/item?id=50132870",
-   "score": 85,
-   "comments": 32,
+   "score": 175,
+   "comments": 95,
    "author": "iamnothere",
    "time_iso": "2026-10-17T17:06:07+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 175
     }
    ]
   },
@@ -600,8 +700,8 @@
    "title": "Development statistics for the 7.2 kernel",
    "url": "https://lwn.net/Articles/1088776/",
    "hn_url": "https://news.ycombinator.com/item?id=50132950",
-   "score": 102,
-   "comments": 70,
+   "score": 118,
+   "comments": 91,
    "author": "farlight",
    "time_iso": "2026-10-17T17:14:12+00:00",
    "history": [
@@ -612,6 +712,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 118
     }
    ]
   },
@@ -620,14 +724,34 @@
    "title": "I Became a Citizen of Japan",
    "url": "https://www.derekwessman.com/blog-1/natural",
    "hn_url": "https://news.ycombinator.com/item?id=50133150",
-   "score": 24,
-   "comments": 0,
+   "score": 108,
+   "comments": 36,
    "author": "luu",
    "time_iso": "2026-10-17T17:36:17+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50133231",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
+   "url": "https://github.com/openai/codex/issues/25921",
+   "hn_url": "https://news.ycombinator.com/item?id=50133231",
+   "score": 41,
+   "comments": 22,
+   "author": "AIorNot",
+   "time_iso": "2026-10-17T17:45:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 41
     }
    ]
   },
@@ -636,14 +760,18 @@
    "title": "OpenCode Hacked: User credentials leaked",
    "url": "https://twitter.com/opencode/status/2111516673953935833",
    "hn_url": "https://news.ycombinator.com/item?id=50133401",
-   "score": 277,
-   "comments": 56,
+   "score": 638,
+   "comments": 102,
    "author": "pranshuchittora",
    "time_iso": "2026-10-17T18:01:41+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 277
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 638
     }
    ]
   },
@@ -684,14 +812,34 @@
    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
    "hn_url": "https://news.ycombinator.com/item?id=50133830",
-   "score": 7,
-   "comments": 1,
+   "score": 44,
+   "comments": 47,
    "author": "azhenley",
    "time_iso": "2026-10-17T18:45:07+00:00",
    "history": [
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 7
+    },
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 44
+    }
+   ]
+  },
+  {
+   "id": "hn-50134617",
+   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+   "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+   "hn_url": "https://news.ycombinator.com/item?id=50134617",
+   "score": 53,
+   "comments": 57,
+   "author": "croes",
+   "time_iso": "2026-10-17T20:07:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T06:52:42.498082+08:00",
+     "score": 53
     }
    ]
   }
