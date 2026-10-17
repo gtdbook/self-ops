@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-18T01:47:44.768646+08:00",
- "count": 25,
+ "updated_at": "2026-10-18T04:06:17.210543+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-50082358",
@@ -32,6 +32,38 @@
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 99
+    }
+   ]
+  },
+  {
+   "id": "hn-50094887",
+   "title": "Vintage Cassettes: 1963-2010",
+   "url": "http://vintagecassettes.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50094887",
+   "score": 26,
+   "comments": 2,
+   "author": "austinallegro",
+   "time_iso": "2026-10-14T20:41:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50100366",
+   "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+   "url": "https://github.com/antirez/c64-hw-simulator",
+   "hn_url": "https://news.ycombinator.com/item?id=50100366",
+   "score": 68,
+   "comments": 12,
+   "author": "antirez",
+   "time_iso": "2026-10-15T07:18:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 68
     }
    ]
   },
@@ -72,14 +104,34 @@
    "title": "Furifont, a Japanese font that shows furigana",
    "url": "https://furifont.antfu.me/",
    "hn_url": "https://news.ycombinator.com/item?id=50100994",
-   "score": 45,
-   "comments": 8,
+   "score": 140,
+   "comments": 28,
    "author": "plaguna",
    "time_iso": "2026-10-15T08:48:30+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 45
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 140
+    }
+   ]
+  },
+  {
+   "id": "hn-50101649",
+   "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+   "url": "https://courk.cc/rp2350-challenge-laser",
+   "hn_url": "https://news.ycombinator.com/item?id=50101649",
+   "score": 5,
+   "comments": 0,
+   "author": "gregsadetsky",
+   "time_iso": "2026-10-15T10:24:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 5
     }
    ]
   },
@@ -136,7 +188,7 @@
    "title": "Rendering pretty sky in Around The World game",
    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
    "hn_url": "https://news.ycombinator.com/item?id=50119315",
-   "score": 83,
+   "score": 101,
    "comments": 6,
    "author": "ibobev",
    "time_iso": "2026-10-16T15:06:43+00:00",
@@ -144,6 +196,10 @@
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 83
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 101
     }
    ]
   },
@@ -200,14 +256,82 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 422,
-   "comments": 99,
+   "score": 445,
+   "comments": 106,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 422
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 445
+    }
+   ]
+  },
+  {
+   "id": "hn-50126253",
+   "title": "Bleached corals thrive within days when touching healthy neighbour",
+   "url": "https://www.nature.com/articles/d41586-026-03266-x",
+   "hn_url": "https://news.ycombinator.com/item?id=50126253",
+   "score": 103,
+   "comments": 10,
+   "author": "alkyon",
+   "time_iso": "2026-10-16T23:38:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50126312",
+   "title": "Dam removals are bringing fish back across the northeastern United States",
+   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+   "hn_url": "https://news.ycombinator.com/item?id=50126312",
+   "score": 41,
+   "comments": 5,
+   "author": "sohkamyung",
+   "time_iso": "2026-10-16T23:47:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50127572",
+   "title": "A skeptic's first contact with Kubernetes (2024)",
+   "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+   "hn_url": "https://news.ycombinator.com/item?id=50127572",
+   "score": 42,
+   "comments": 2,
+   "author": "pmoriarty",
+   "time_iso": "2026-10-17T03:16:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50127586",
+   "title": "Source code of the Estonian online voting system",
+   "url": "https://github.com/valimised/ivxv",
+   "hn_url": "https://news.ycombinator.com/item?id=50127586",
+   "score": 66,
+   "comments": 31,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-17T03:18:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 66
     }
    ]
   },
@@ -232,14 +356,18 @@
    "title": "DeepSeek-v4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "hn_url": "https://news.ycombinator.com/item?id=50129045",
-   "score": 447,
-   "comments": 447,
+   "score": 544,
+   "comments": 496,
    "author": "theykk",
    "time_iso": "2026-10-17T08:21:25+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 447
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 544
     }
    ]
   },
@@ -276,11 +404,27 @@
    ]
   },
   {
+   "id": "hn-50131006",
+   "title": "Show HN: High-quality duck audio synthesizer",
+   "url": "https://celphase.github.io/duck-pond/",
+   "hn_url": "https://news.ycombinator.com/item?id=50131006",
+   "score": 40,
+   "comments": 9,
+   "author": "celphase",
+   "time_iso": "2026-10-17T13:28:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
    "id": "hn-50131189",
    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
    "url": "https://github.com/mikroverk/esp32sim",
    "hn_url": "https://news.ycombinator.com/item?id=50131189",
-   "score": 44,
+   "score": 73,
    "comments": 10,
    "author": "joakimeriksson",
    "time_iso": "2026-10-17T13:51:08+00:00",
@@ -288,22 +432,30 @@
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 44
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 73
     }
    ]
   },
   {
    "id": "hn-50131213",
-   "title": "Making Chicken Transparent Using Dorito Dust",
+   "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "hn_url": "https://news.ycombinator.com/item?id=50131213",
-   "score": 136,
-   "comments": 45,
+   "score": 196,
+   "comments": 55,
    "author": "crescit_eundo",
    "time_iso": "2026-10-17T13:55:28+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 136
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 196
     }
    ]
   },
@@ -312,14 +464,34 @@
    "title": "Solar surpasses nuclear power globally for first time",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
    "hn_url": "https://news.ycombinator.com/item?id=50131256",
-   "score": 260,
-   "comments": 149,
+   "score": 373,
+   "comments": 212,
    "author": "xbmcuser",
    "time_iso": "2026-10-17T14:01:01+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 260
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 373
+    }
+   ]
+  },
+  {
+   "id": "hn-50132193",
+   "title": "Pele – Mermaid diagrams as themeable SVG",
+   "url": "https://pele.run/",
+   "hn_url": "https://news.ycombinator.com/item?id=50132193",
+   "score": 66,
+   "comments": 8,
+   "author": "dchest",
+   "time_iso": "2026-10-17T15:55:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 66
     }
    ]
   },
@@ -384,22 +556,142 @@
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50132870",
+   "title": "Gold is now the top U.S. export",
+   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+   "hn_url": "https://news.ycombinator.com/item?id=50132870",
+   "score": 85,
+   "comments": 32,
+   "author": "iamnothere",
+   "time_iso": "2026-10-17T17:06:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 85
+    }
+   ]
+  },
+  {
+   "id": "hn-50132911",
+   "title": "tsc-ts: TypeScript written in TypeScript",
+   "url": "https://github.com/vercel-labs/tsc-ts",
+   "hn_url": "https://news.ycombinator.com/item?id=50132911",
+   "score": 34,
+   "comments": 32,
+   "author": "tosh",
+   "time_iso": "2026-10-17T17:10:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 34
     }
    ]
   },
   {
    "id": "hn-50132950",
-   "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
+   "title": "Development statistics for the 7.2 kernel",
    "url": "https://lwn.net/Articles/1088776/",
    "hn_url": "https://news.ycombinator.com/item?id=50132950",
-   "score": 6,
-   "comments": 0,
+   "score": 102,
+   "comments": 70,
    "author": "farlight",
    "time_iso": "2026-10-17T17:14:12+00:00",
    "history": [
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 102
+    }
+   ]
+  },
+  {
+   "id": "hn-50133150",
+   "title": "I Became a Citizen of Japan",
+   "url": "https://www.derekwessman.com/blog-1/natural",
+   "hn_url": "https://news.ycombinator.com/item?id=50133150",
+   "score": 24,
+   "comments": 0,
+   "author": "luu",
+   "time_iso": "2026-10-17T17:36:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50133401",
+   "title": "OpenCode Hacked: User credentials leaked",
+   "url": "https://twitter.com/opencode/status/2111516673953935833",
+   "hn_url": "https://news.ycombinator.com/item?id=50133401",
+   "score": 277,
+   "comments": 56,
+   "author": "pranshuchittora",
+   "time_iso": "2026-10-17T18:01:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 277
+    }
+   ]
+  },
+  {
+   "id": "hn-50133713",
+   "title": "AI Can Write the Code. Who Verifies It?",
+   "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+   "hn_url": "https://news.ycombinator.com/item?id=50133713",
+   "score": 17,
+   "comments": 32,
+   "author": "mmarvramm",
+   "time_iso": "2026-10-17T18:31:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50133736",
+   "title": "Pattern Matching Beats Narrative Reasoning",
+   "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+   "hn_url": "https://news.ycombinator.com/item?id=50133736",
+   "score": 13,
+   "comments": 1,
+   "author": "tosh",
+   "time_iso": "2026-10-17T18:34:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50133830",
+   "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+   "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+   "hn_url": "https://news.ycombinator.com/item?id=50133830",
+   "score": 7,
+   "comments": 1,
+   "author": "azhenley",
+   "time_iso": "2026-10-17T18:45:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T04:06:17.210543+08:00",
+     "score": 7
     }
    ]
   }
