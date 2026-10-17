@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T14:33:08.522024+08:00",
+ "generated_at": "2026-10-17T19:21:43.647586+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -25,7 +25,7 @@
     {
      "title": "Claude reveals ECDSA curve origins",
      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-     "meta": "+741 分 / 11.3 小时 · 现 ⭐ 807",
+     "meta": "+822 分 / 16.1 小时 · 现 ⭐ 888",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -33,7 +33,7 @@
     {
      "title": "Tesla Roadster",
      "url": "https://www.tesla.com/roadster",
-     "meta": "+700 分 / 11.3 小时 · 现 ⭐ 1339",
+     "meta": "+816 分 / 16.1 小时 · 现 ⭐ 1455",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -41,7 +41,7 @@
     {
      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-     "meta": "+252 分 / 11.3 小时 · 现 ⭐ 461",
+     "meta": "+303 分 / 16.1 小时 · 现 ⭐ 512",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -49,7 +49,7 @@
     {
      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
      "url": "https://github.com/cobanov/PS5LM",
-     "meta": "+227 分 / 11.3 小时 · 现 ⭐ 259",
+     "meta": "+266 分 / 16.1 小时 · 现 ⭐ 298",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -57,7 +57,23 @@
     {
      "title": "You could have invented transformers from memory",
      "url": "https://alexwang.ai/posts/associative-memory/",
-     "meta": "+174 分 / 8.0 小时 · 现 ⭐ 235",
+     "meta": "+256 分 / 12.9 小时 · 现 ⭐ 317",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "JPEG XL vs. AVIF for web use-cases",
+     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+     "meta": "+166 分 / 16.1 小时 · 现 ⭐ 270",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+     "meta": "+166 分 / 16.1 小时 · 现 ⭐ 229",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -71,17 +87,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-     "meta": "+144 分 / 11.3 小时 · 现 ⭐ 207",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "JPEG XL vs. AVIF for web use-cases",
-     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-     "meta": "+131 分 / 11.3 小时 · 现 ⭐ 235",
+     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "meta": "+122 分 / 16.1 小时 · 现 ⭐ 324",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -89,15 +97,7 @@
     {
      "title": "Designing more efficient quantum circuits with Claude",
      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-     "meta": "+97 分 / 11.3 小时 · 现 ⭐ 126",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-     "meta": "+96 分 / 11.3 小时 · 现 ⭐ 298",
+     "meta": "+118 分 / 16.1 小时 · 现 ⭐ 147",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -239,7 +239,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3574 · C",
+     "meta": "⭐ 3618 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -247,7 +247,7 @@
     {
      "title": "onehumanbeing/esp32-iphone-agent",
      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-     "meta": "⭐ 2905 · C",
+     "meta": "⭐ 2939 · C",
      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
      "reason": null,
      "origin_source": "github_search"
@@ -255,7 +255,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2559 · Python",
+     "meta": "⭐ 2572 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -263,7 +263,7 @@
     {
      "title": "liseami/CCBaga",
      "url": "https://github.com/liseami/CCBaga",
-     "meta": "⭐ 2435 · Rust",
+     "meta": "⭐ 2492 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -271,7 +271,7 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 1800 · JavaScript",
+     "meta": "⭐ 1914 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
@@ -279,24 +279,24 @@
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1615 · C#",
+     "meta": "⭐ 1674 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "chenglou/handwired",
-     "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1601 · TypeScript",
-     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "deeplethe/solid-glass",
      "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 1531 · TypeScript",
+     "meta": "⭐ 1659 · TypeScript",
      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 1637 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -333,26 +333,26 @@
      "origin_source": "github_search"
     },
     {
+     "title": "Supermedo/uncharted_pc",
+     "url": "https://github.com/Supermedo/uncharted_pc",
+     "meta": "⭐ 1130 · C++",
+     "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1076 · Go",
+     "meta": "⭐ 1097 · Go",
      "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "zhuyansen/new-term-radar",
-     "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1068 · Python",
-     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Supermedo/uncharted_pc",
-     "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1067 · C++",
-     "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+     "title": "Caho1/open-claude-ui",
+     "url": "https://github.com/Caho1/open-claude-ui",
+     "meta": "⭐ 1087 · TypeScript",
+     "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -366,7 +366,7 @@
     {
      "title": "Tesla Roadster",
      "url": "https://www.tesla.com/roadster",
-     "meta": "⭐ 1339 · 💬 2380",
+     "meta": "⭐ 1455 · 💬 2561",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -374,7 +374,7 @@
     {
      "title": "Claude reveals ECDSA curve origins",
      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-     "meta": "⭐ 807 · 💬 306",
+     "meta": "⭐ 888 · 💬 330",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -390,7 +390,23 @@
     {
      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-     "meta": "⭐ 461 · 💬 400",
+     "meta": "⭐ 512 · 💬 439",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "meta": "⭐ 324 · 💬 161",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "You could have invented transformers from memory",
+     "url": "https://alexwang.ai/posts/associative-memory/",
+     "meta": "⭐ 317 · 💬 73",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -404,9 +420,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-     "meta": "⭐ 298 · 💬 147",
+     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+     "url": "https://github.com/cobanov/PS5LM",
+     "meta": "⭐ 298 · 💬 74",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -420,6 +436,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "JPEG XL vs. AVIF for web use-cases",
+     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+     "meta": "⭐ 270 · 💬 185",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Waymo in Toronto",
      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
      "meta": "⭐ 263 · 💬 366",
@@ -428,25 +452,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-     "url": "https://github.com/cobanov/PS5LM",
-     "meta": "⭐ 259 · 💬 64",
+     "title": "Ultramarine 1 Flash",
+     "url": "https://www.paperinstruments.com/ultramarine",
+     "meta": "⭐ 262 · 💬 84",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "JPEG XL vs. AVIF for web use-cases",
-     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-     "meta": "⭐ 235 · 💬 163",
+     "title": "Butlerian Jihad",
+     "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+     "meta": "⭐ 246 · 💬 134",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "You could have invented transformers from memory",
-     "url": "https://alexwang.ai/posts/associative-memory/",
-     "meta": "⭐ 235 · 💬 61",
+     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+     "meta": "⭐ 229 · 💬 199",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -455,30 +479,6 @@
      "title": "Yet another way to invoke functions without parentheses",
      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
      "meta": "⭐ 227 · 💬 100",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Gemini 4 Argon plays StarCraft",
-     "url": "https://starskirmish.com/bench/v0-2/",
-     "meta": "⭐ 209 · 💬 92",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-     "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-     "meta": "⭐ 207 · 💬 163",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-     "url": "https://calif.io/research/big-fish",
-     "meta": "⭐ 180 · 💬 52",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -507,6 +507,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "NitroStack",
+     "url": "https://www.producthunt.com/products/nitrostack",
+     "meta": "Product Hunt · 2026-10-08",
+     "summary": "Build, test, and deploy MCP servers in one place",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Atticus",
      "url": "https://www.producthunt.com/products/atticus",
      "meta": "Product Hunt · 2026-10-14",
@@ -527,6 +535,14 @@
      "url": "https://www.producthunt.com/products/parallax-5",
      "meta": "Product Hunt · 2026-10-15",
      "summary": "Every coding agent you run, in one place.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Train with Pasta",
+     "url": "https://www.producthunt.com/products/train-with-pasta",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "A personal trainer powered by Apple Intelligence",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -555,6 +571,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Parrot",
+     "url": "https://www.producthunt.com/products/parrot-10",
+     "meta": "Product Hunt · 2026-09-24",
+     "summary": "Smart Meeting Assistant for Mac that helps during the call",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Jockey by TwelveLabs",
      "url": "https://www.producthunt.com/products/twelvelabs",
      "meta": "Product Hunt · 2026-10-09",
@@ -579,34 +603,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "Toad",
-     "url": "https://www.producthunt.com/products/toad-4",
-     "meta": "Product Hunt · 2026-10-15",
-     "summary": "Point your agent at any machine you own.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Maybloc",
-     "url": "https://www.producthunt.com/products/maybloc",
-     "meta": "Product Hunt · 2026-10-15",
-     "summary": "new SOTA for speech-to-text for multi-speaker audio",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Lovable Growth Tools",
-     "url": "https://www.producthunt.com/products/lovable",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "From building your app to growing it, in one chat",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Atelier",
-     "url": "https://www.producthunt.com/products/atelier-9",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "The studio your AI coding agents work in",
+     "title": "Korinotch",
+     "url": "https://www.producthunt.com/products/korinotch",
+     "meta": "Product Hunt · 2026-10-11",
+     "summary": "Your MacBook notch, turned into a command center",
      "reason": null,
      "origin_source": "producthunt"
     }
