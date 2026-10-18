@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-19T01:48:56.881009+08:00",
- "count": 25,
+ "updated_at": "2026-10-19T04:05:15.825951+08:00",
+ "count": 33,
  "items": [
   {
    "id": "hn-50093020",
    "title": "I Electrified My Push Scooter with a Power Drill",
    "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
    "hn_url": "https://news.ycombinator.com/item?id=50093020",
-   "score": 11,
-   "comments": 3,
+   "score": 53,
+   "comments": 22,
    "author": "speckx",
    "time_iso": "2026-10-14T18:53:52+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 53
     }
    ]
   },
@@ -37,17 +41,21 @@
   },
   {
    "id": "hn-50096110",
-   "title": "Sigsaly: Churchill's top secret hotline to the President",
+   "title": "SIGSALY: Churchill's top secret hotline to the president",
    "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
    "hn_url": "https://news.ycombinator.com/item?id=50096110",
-   "score": 41,
-   "comments": 3,
+   "score": 74,
+   "comments": 9,
    "author": "stmw",
    "time_iso": "2026-10-14T22:07:47+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 74
     }
    ]
   },
@@ -64,6 +72,22 @@
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 15
+    }
+   ]
+  },
+  {
+   "id": "hn-50119819",
+   "title": "CKKS – Addition and Multiplication",
+   "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+   "hn_url": "https://news.ycombinator.com/item?id=50119819",
+   "score": 6,
+   "comments": 0,
+   "author": "ibobev",
+   "time_iso": "2026-10-16T15:43:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 6
     }
    ]
   },
@@ -88,14 +112,18 @@
    "title": "Teal – A statically-typed dialect of Lua",
    "url": "https://teal-language.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50124730",
-   "score": 125,
-   "comments": 53,
+   "score": 137,
+   "comments": 60,
    "author": "Lyngbakr",
    "time_iso": "2026-10-16T21:07:24+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 125
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 137
     }
    ]
   },
@@ -116,11 +144,27 @@
    ]
   },
   {
+   "id": "hn-50129060",
+   "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+   "url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
+   "hn_url": "https://news.ycombinator.com/item?id=50129060",
+   "score": 6,
+   "comments": 0,
+   "author": "Thevet",
+   "time_iso": "2026-10-17T08:24:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
    "id": "hn-50136017",
-   "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+   "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
    "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
    "hn_url": "https://news.ycombinator.com/item?id=50136017",
-   "score": 8,
+   "score": 31,
    "comments": 0,
    "author": "zdw",
    "time_iso": "2026-10-17T23:08:30+00:00",
@@ -128,6 +172,10 @@
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 31
     }
    ]
   },
@@ -136,14 +184,18 @@
    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
    "hn_url": "https://news.ycombinator.com/item?id=50137620",
-   "score": 277,
-   "comments": 381,
+   "score": 323,
+   "comments": 436,
    "author": "MaysonL",
    "time_iso": "2026-10-18T03:19:49+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 277
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 323
     }
    ]
   },
@@ -152,14 +204,18 @@
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "url": "https://sphinx-six-theta.vercel.app/",
    "hn_url": "https://news.ycombinator.com/item?id=50137950",
-   "score": 212,
-   "comments": 73,
+   "score": 225,
+   "comments": 76,
    "author": "critiquebrowser",
    "time_iso": "2026-10-18T04:33:49+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 212
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 225
     }
    ]
   },
@@ -168,14 +224,18 @@
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "url": "https://api-docs.deepseek.com/guides/search/",
    "hn_url": "https://news.ycombinator.com/item?id=50138531",
-   "score": 439,
-   "comments": 212,
+   "score": 481,
+   "comments": 234,
    "author": "fagnerbrack",
    "time_iso": "2026-10-18T06:50:36+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 439
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 481
     }
    ]
   },
@@ -184,14 +244,18 @@
    "title": "Parser Combinators",
    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
    "hn_url": "https://news.ycombinator.com/item?id=50139067",
-   "score": 169,
-   "comments": 63,
+   "score": 195,
+   "comments": 74,
    "author": "schindlabua",
    "time_iso": "2026-10-18T08:19:53+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 169
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 195
     }
    ]
   },
@@ -200,14 +264,18 @@
    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
    "hn_url": "https://news.ycombinator.com/item?id=50139692",
-   "score": 174,
-   "comments": 47,
+   "score": 205,
+   "comments": 58,
    "author": "DeepLogin",
    "time_iso": "2026-10-18T10:21:51+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 174
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 205
     }
    ]
   },
@@ -232,14 +300,18 @@
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
    "hn_url": "https://news.ycombinator.com/item?id=50140001",
-   "score": 123,
-   "comments": 10,
+   "score": 147,
+   "comments": 11,
    "author": "_Microft",
    "time_iso": "2026-10-18T11:16:22+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 123
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 147
     }
    ]
   },
@@ -248,14 +320,18 @@
    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
    "url": "https://legendofhyrule.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50140769",
-   "score": 89,
-   "comments": 39,
+   "score": 124,
+   "comments": 66,
    "author": "jsomau",
    "time_iso": "2026-10-18T13:06:54+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 89
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 124
     }
    ]
   },
@@ -280,14 +356,18 @@
    "title": "RepRapMicron",
    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
    "hn_url": "https://news.ycombinator.com/item?id=50141076",
-   "score": 205,
-   "comments": 33,
+   "score": 276,
+   "comments": 38,
    "author": "RobotToaster",
    "time_iso": "2026-10-18T13:48:48+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 205
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 276
     }
    ]
   },
@@ -296,14 +376,18 @@
    "title": "Java sealed classes and exhaustive pattern matching",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
    "hn_url": "https://news.ycombinator.com/item?id=50141579",
-   "score": 57,
-   "comments": 20,
+   "score": 102,
+   "comments": 63,
    "author": "hnisjafx40",
    "time_iso": "2026-10-18T14:47:37+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 57
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 102
     }
    ]
   },
@@ -328,14 +412,18 @@
    "title": "Will it be a golden age or a dark age for mathematics (and science)?",
    "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
    "hn_url": "https://news.ycombinator.com/item?id=50141681",
-   "score": 77,
-   "comments": 97,
+   "score": 103,
+   "comments": 135,
    "author": "smilelamp",
    "time_iso": "2026-10-18T15:00:40+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 77
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 103
     }
    ]
   },
@@ -344,14 +432,18 @@
    "title": "macOS 15.8.2 Breaks OpenGL",
    "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
    "hn_url": "https://news.ycombinator.com/item?id=50141909",
-   "score": 181,
-   "comments": 151,
+   "score": 217,
+   "comments": 212,
    "author": "Audiophilip",
    "time_iso": "2026-10-18T15:26:06+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 181
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 217
     }
    ]
   },
@@ -360,30 +452,54 @@
    "title": "The Intel 8087 chip: floating-point addition and subtraction",
    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
    "hn_url": "https://news.ycombinator.com/item?id=50142449",
-   "score": 30,
-   "comments": 5,
+   "score": 62,
+   "comments": 10,
    "author": "pwg",
    "time_iso": "2026-10-18T16:20:27+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 30
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 62
     }
    ]
   },
   {
    "id": "hn-50142573",
-   "title": "Someone Behind the Software",
+   "title": "Someone behind the software",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
    "hn_url": "https://news.ycombinator.com/item?id=50142573",
-   "score": 42,
-   "comments": 11,
+   "score": 155,
+   "comments": 58,
    "author": "tosh",
    "time_iso": "2026-10-18T16:32:00+00:00",
    "history": [
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 155
+    }
+   ]
+  },
+  {
+   "id": "hn-50142866",
+   "title": "Namecheap just seized and disabled all my domains",
+   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+   "hn_url": "https://news.ycombinator.com/item?id=50142866",
+   "score": 159,
+   "comments": 98,
+   "author": "sashk",
+   "time_iso": "2026-10-18T16:56:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 159
     }
    ]
   },
@@ -400,6 +516,86 @@
     {
      "t": "2026-10-19T01:48:56.881009+08:00",
      "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50143536",
+   "title": "PalmOS Lemmings",
+   "url": "https://github.com/ardiri/palmos-lemmings",
+   "hn_url": "https://news.ycombinator.com/item?id=50143536",
+   "score": 29,
+   "comments": 6,
+   "author": "memalign",
+   "time_iso": "2026-10-18T17:56:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50143876",
+   "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+   "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50143876",
+   "score": 20,
+   "comments": 8,
+   "author": "iamnothere",
+   "time_iso": "2026-10-18T18:26:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
+   "id": "hn-50144005",
+   "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+   "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50144005",
+   "score": 96,
+   "comments": 138,
+   "author": "lovewins",
+   "time_iso": "2026-10-18T18:40:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
+   "id": "hn-50144066",
+   "title": "Free Pascal compiler now supports dynamic packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50144066",
+   "score": 27,
+   "comments": 7,
+   "author": "sysrpl",
+   "time_iso": "2026-10-18T18:48:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50144405",
+   "title": "US threatens Europe over Starlink restrictions",
+   "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+   "hn_url": "https://news.ycombinator.com/item?id=50144405",
+   "score": 21,
+   "comments": 13,
+   "author": "mraniki",
+   "time_iso": "2026-10-18T19:24:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T04:05:15.825951+08:00",
+     "score": 21
     }
    ]
   }

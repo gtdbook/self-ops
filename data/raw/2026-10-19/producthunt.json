@@ -1,7 +1,7 @@
 {
  "source": "producthunt",
- "updated_at": "2026-10-19T01:48:58.877253+08:00",
- "count": 74,
+ "updated_at": "2026-10-19T04:05:17.818532+08:00",
+ "count": 86,
  "items": [
   {
    "id": "ph-04bd721be7a59304",
@@ -148,6 +148,15 @@
    "summary": "Your entire video library: organized, searchable, understood"
   },
   {
+   "id": "ph-270e8475e9989b1b",
+   "title": "CmdRound",
+   "url": "https://www.producthunt.com/products/cmdround",
+   "tagline": "Assess how engineers build with artificial intelligence",
+   "published": "2026-10-14T03:18:29-07:00",
+   "published_iso": "2026-10-14T10:18:29+00:00",
+   "summary": "Assess how engineers build with artificial intelligence"
+  },
+  {
    "id": "ph-276f7144fc3f850e",
    "title": "Neophyte",
    "url": "https://www.producthunt.com/products/neophyte",
@@ -173,6 +182,15 @@
    "published": "2026-10-15T09:36:36-07:00",
    "published_iso": "2026-10-15T16:36:36+00:00",
    "summary": "Point your agent at any machine you own."
+  },
+  {
+   "id": "ph-2efbd17cbb96702c",
+   "title": "Lovable Growth Tools",
+   "url": "https://www.producthunt.com/products/lovable",
+   "tagline": "From building your app to growing it, in one chat",
+   "published": "2026-10-14T06:16:56-07:00",
+   "published_iso": "2026-10-14T13:16:56+00:00",
+   "summary": "From building your app to growing it, in one chat"
   },
   {
    "id": "ph-306a010b8f92918e",
@@ -245,6 +263,15 @@
    "published": "2026-10-13T17:37:36-07:00",
    "published_iso": "2026-10-14T00:37:36+00:00",
    "summary": "AI voice acting you can direct, not just generate"
+  },
+  {
+   "id": "ph-3e11feb1257f4fce",
+   "title": "SuperLocalMemory",
+   "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+   "tagline": "Agent memory with Laya, Jev + Google Gemma",
+   "published": "2026-10-13T12:43:21-07:00",
+   "published_iso": "2026-10-13T19:43:21+00:00",
+   "summary": "Agent memory with Laya, Jev + Google Gemma"
   },
   {
    "id": "ph-4d80ce6517c4794f",
@@ -346,6 +373,15 @@
    "summary": "One list of notes, for you and your AI agents"
   },
   {
+   "id": "ph-6df5fdb5e3e71eae",
+   "title": "Firefox Enterprise",
+   "url": "https://www.producthunt.com/products/mozilla",
+   "tagline": "Firefox for enterprises that want control of their data",
+   "published": "2026-10-13T00:41:17-07:00",
+   "published_iso": "2026-10-13T07:41:17+00:00",
+   "summary": "Firefox for enterprises that want control of their data"
+  },
+  {
    "id": "ph-70f2f122767a986d",
    "title": "Unfenced",
    "url": "https://www.producthunt.com/products/unfenced",
@@ -407,6 +443,15 @@
    "published": "2026-10-08T07:29:41-07:00",
    "published_iso": "2026-10-08T14:29:41+00:00",
    "summary": "Format JSON, YAML & SQL privately"
+  },
+  {
+   "id": "ph-91e2cf038875d8d0",
+   "title": "Rushilo",
+   "url": "https://www.producthunt.com/products/rushilo",
+   "tagline": "Edit video by talking to Claude Code or Codex",
+   "published": "2026-10-14T08:35:56-07:00",
+   "published_iso": "2026-10-14T15:35:56+00:00",
+   "summary": "Edit video by talking to Claude Code or Codex"
   },
   {
    "id": "ph-9325eeb0504b5ee8",
@@ -517,6 +562,15 @@
    "summary": "Validate, plan, and launch a business, one step at a time."
   },
   {
+   "id": "ph-bc727c3bfe4e6e22",
+   "title": "GLM-Legal",
+   "url": "https://www.producthunt.com/products/z-ai",
+   "tagline": "Z.ai’s legal AI model for contract review and compliance",
+   "published": "2026-10-12T09:24:12-07:00",
+   "published_iso": "2026-10-12T16:24:12+00:00",
+   "summary": "Z.ai’s legal AI model for contract review and compliance"
+  },
+  {
    "id": "ph-bccaf6a5caef56d8",
    "title": "Taim",
    "url": "https://www.producthunt.com/products/taim-4",
@@ -542,6 +596,33 @@
    "published": "2026-10-17T08:36:21-07:00",
    "published_iso": "2026-10-17T15:36:21+00:00",
    "summary": "The app blocker you unlock by walking to your key"
+  },
+  {
+   "id": "ph-ca6a0964dc80ac3b",
+   "title": "Skisso",
+   "url": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
+   "tagline": "Edit your live UI in your design system, hand off the diff",
+   "published": "2026-10-15T02:09:12-07:00",
+   "published_iso": "2026-10-15T09:09:12+00:00",
+   "summary": "Edit your live UI in your design system, hand off the diff"
+  },
+  {
+   "id": "ph-cc2b105c47fe6f6d",
+   "title": "siliXon",
+   "url": "https://www.producthunt.com/products/silixon",
+   "tagline": "Turn a plain English idea into a circuit board you can order",
+   "published": "2026-10-14T09:06:31-07:00",
+   "published_iso": "2026-10-14T16:06:31+00:00",
+   "summary": "Turn a plain English idea into a circuit board you can order"
+  },
+  {
+   "id": "ph-ce39ca03c11ae721",
+   "title": "Navige",
+   "url": "https://www.producthunt.com/products/navige",
+   "tagline": "Cut AI agent costs and control runaway spending",
+   "published": "2026-10-13T23:29:41-07:00",
+   "published_iso": "2026-10-14T06:29:41+00:00",
+   "summary": "Cut AI agent costs and control runaway spending"
   },
   {
    "id": "ph-ce8620f2b3648316",
@@ -625,6 +706,15 @@
    "summary": "600B open weights, trained for long-running agents"
   },
   {
+   "id": "ph-e41d5e20e144baba",
+   "title": "FinderGit",
+   "url": "https://www.producthunt.com/products/findergit",
+   "tagline": "Every Git repo on your Mac: browse, commit, review, clean",
+   "published": "2026-10-05T08:13:15-07:00",
+   "published_iso": "2026-10-05T15:13:15+00:00",
+   "summary": "Every Git repo on your Mac: browse, commit, review, clean"
+  },
+  {
    "id": "ph-e8d31ce46c4e9445",
    "title": "Muse Spark Open",
    "url": "https://www.producthunt.com/products/muse-spark-open",
@@ -641,6 +731,15 @@
    "published": "2026-10-16T13:57:48-07:00",
    "published_iso": "2026-10-16T20:57:48+00:00",
    "summary": "Local Whisper for Mac"
+  },
+  {
+   "id": "ph-f4d52b3964bdd388",
+   "title": "Memory Chess",
+   "url": "https://www.producthunt.com/products/memory-chess",
+   "tagline": "Study a chess position, then rebuild it from memory",
+   "published": "2026-10-14T11:39:26-07:00",
+   "published_iso": "2026-10-14T18:39:26+00:00",
+   "summary": "Study a chess position, then rebuild it from memory"
   },
   {
    "id": "ph-f9a0ac1cfd9a1243",
@@ -668,6 +767,15 @@
    "published": "2026-10-16T21:07:22-07:00",
    "published_iso": "2026-10-17T04:07:22+00:00",
    "summary": "Pocket-sized wireless gamepad with all 18 inputs"
+  },
+  {
+   "id": "ph-fdf461bbd87c311c",
+   "title": "NANI???",
+   "url": "https://www.producthunt.com/products/nani-2",
+   "tagline": "Your interpreter and your boss doesn't even know.",
+   "published": "2026-10-15T03:46:22-07:00",
+   "published_iso": "2026-10-15T10:46:22+00:00",
+   "summary": "Your interpreter and your boss doesn't even know."
   }
  ]
 }

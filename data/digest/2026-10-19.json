@@ -1,7 +1,94 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T01:48:58.955740+08:00",
+ "generated_at": "2026-10-19T04:05:17.908205+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Someone behind the software",
+     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+     "meta": "+113 分 / 2.3 小时 · 现 ⭐ 155",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "RepRapMicron",
+     "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+     "meta": "+71 分 / 2.3 小时 · 现 ⭐ 276",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+     "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+     "meta": "+46 分 / 2.3 小时 · 现 ⭐ 323",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Java sealed classes and exhaustive pattern matching",
+     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+     "meta": "+45 分 / 2.3 小时 · 现 ⭐ 102",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I Electrified My Push Scooter with a Power Drill",
+     "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+     "meta": "+42 分 / 2.3 小时 · 现 ⭐ 53",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+     "url": "https://api-docs.deepseek.com/guides/search/",
+     "meta": "+42 分 / 2.3 小时 · 现 ⭐ 481",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "macOS 15.8.2 Breaks OpenGL",
+     "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+     "meta": "+36 分 / 2.3 小时 · 现 ⭐ 217",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+     "url": "https://legendofhyrule.com/",
+     "meta": "+35 分 / 2.3 小时 · 现 ⭐ 124",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "SIGSALY: Churchill's top secret hotline to the president",
+     "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+     "meta": "+33 分 / 2.3 小时 · 现 ⭐ 74",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Intel 8087 chip: floating-point addition and subtraction",
+     "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+     "meta": "+32 分 / 2.3 小时 · 现 ⭐ 62",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,7 +224,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3818 · C",
+     "meta": "⭐ 3821 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2724 · Python",
+     "meta": "⭐ 2727 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 2175 · JavaScript",
+     "meta": "⭐ 2191 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "deeplethe/solid-glass",
      "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 2009 · TypeScript",
+     "meta": "⭐ 2010 · TypeScript",
      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1877 · C#",
+     "meta": "⭐ 1883 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
@@ -177,31 +264,31 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1713 · TypeScript",
+     "meta": "⭐ 1722 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "feder-cr/git-ai",
-     "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1501 · Go",
-     "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Gathin23/tv-vibehack",
      "url": "https://github.com/Gathin23/tv-vibehack",
-     "meta": "⭐ 1418 · Java",
+     "meta": "⭐ 1600 · Java",
      "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "feder-cr/git-ai",
+     "url": "https://github.com/feder-cr/git-ai",
+     "meta": "⭐ 1549 · Go",
+     "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1408 · C++",
+     "meta": "⭐ 1424 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +296,7 @@
     {
      "title": "Caho1/open-claude-ui",
      "url": "https://github.com/Caho1/open-claude-ui",
-     "meta": "⭐ 1203 · TypeScript",
+     "meta": "⭐ 1205 · TypeScript",
      "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +304,7 @@
     {
      "title": "zhuyansen/new-term-radar",
      "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1106 · Python",
+     "meta": "⭐ 1108 · Python",
      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +312,7 @@
     {
      "title": "rohit267/net-merge",
      "url": "https://github.com/rohit267/net-merge",
-     "meta": "⭐ 1056 · Go",
+     "meta": "⭐ 1079 · Go",
      "summary": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +320,7 @@
     {
      "title": "AjncSystem/ShadowOfTheColossus-PC",
      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-     "meta": "⭐ 1047 · C++",
+     "meta": "⭐ 1054 · C++",
      "summary": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +336,7 @@
     {
      "title": "xscreensaver-official/xscreensaver",
      "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 827",
+     "meta": "⭐ 840",
      "summary": "There is no official XScreenSaver GitHub repository.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +359,7 @@
     {
      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
      "url": "https://api-docs.deepseek.com/guides/search/",
-     "meta": "⭐ 439 · 💬 212",
+     "meta": "⭐ 481 · 💬 234",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,15 +367,7 @@
     {
      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-     "meta": "⭐ 277 · 💬 381",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-     "url": "https://sphinx-six-theta.vercel.app/",
-     "meta": "⭐ 212 · 💬 73",
+     "meta": "⭐ 323 · 💬 436",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -296,7 +375,15 @@
     {
      "title": "RepRapMicron",
      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-     "meta": "⭐ 205 · 💬 33",
+     "meta": "⭐ 276 · 💬 38",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+     "url": "https://sphinx-six-theta.vercel.app/",
+     "meta": "⭐ 225 · 💬 76",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -304,7 +391,7 @@
     {
      "title": "macOS 15.8.2 Breaks OpenGL",
      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-     "meta": "⭐ 181 · 💬 151",
+     "meta": "⭐ 217 · 💬 212",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -312,7 +399,7 @@
     {
      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-     "meta": "⭐ 174 · 💬 47",
+     "meta": "⭐ 205 · 💬 58",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -320,15 +407,23 @@
     {
      "title": "Parser Combinators",
      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-     "meta": "⭐ 169 · 💬 63",
+     "meta": "⭐ 195 · 💬 74",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Teal – A statically-typed dialect of Lua",
-     "url": "https://teal-language.org/",
-     "meta": "⭐ 125 · 💬 53",
+     "title": "Namecheap just seized and disabled all my domains",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+     "meta": "⭐ 159 · 💬 98",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Someone behind the software",
+     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+     "meta": "⭐ 155 · 💬 58",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -336,7 +431,23 @@
     {
      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
      "url": "https://github.com/0x23/MicroManipulatorStepper",
-     "meta": "⭐ 123 · 💬 10",
+     "meta": "⭐ 147 · 💬 11",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Teal – A statically-typed dialect of Lua",
+     "url": "https://teal-language.org/",
+     "meta": "⭐ 137 · 💬 60",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+     "url": "https://legendofhyrule.com/",
+     "meta": "⭐ 124 · 💬 66",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -350,33 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-     "url": "https://legendofhyrule.com/",
-     "meta": "⭐ 89 · 💬 39",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-     "meta": "⭐ 77 · 💬 97",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Regex visualized as 3D marble run",
-     "url": "https://www.regexmarblerun.com/",
-     "meta": "⭐ 68 · 💬 26",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Java sealed classes and exhaustive pattern matching",
-     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-     "meta": "⭐ 57 · 💬 20",
+     "meta": "⭐ 103 · 💬 135",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
