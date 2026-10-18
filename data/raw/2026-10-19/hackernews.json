@@ -1,15 +1,31 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-19T04:05:15.825951+08:00",
- "count": 33,
+ "updated_at": "2026-10-19T06:45:18.147210+08:00",
+ "count": 43,
  "items": [
   {
+   "id": "hn-50090927",
+   "title": "Types of types: Haskell's Kind system",
+   "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+   "hn_url": "https://news.ycombinator.com/item?id=50090927",
+   "score": 91,
+   "comments": 72,
+   "author": "Thom2503",
+   "time_iso": "2026-10-14T17:00:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 91
+    }
+   ]
+  },
+  {
    "id": "hn-50093020",
-   "title": "I Electrified My Push Scooter with a Power Drill",
+   "title": "I electrified my push scooter with a power drill",
    "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
    "hn_url": "https://news.ycombinator.com/item?id=50093020",
-   "score": 53,
-   "comments": 22,
+   "score": 101,
+   "comments": 41,
    "author": "speckx",
    "time_iso": "2026-10-14T18:53:52+00:00",
    "history": [
@@ -20,6 +36,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 101
     }
    ]
   },
@@ -44,8 +64,8 @@
    "title": "SIGSALY: Churchill's top secret hotline to the president",
    "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
    "hn_url": "https://news.ycombinator.com/item?id=50096110",
-   "score": 74,
-   "comments": 9,
+   "score": 96,
+   "comments": 31,
    "author": "stmw",
    "time_iso": "2026-10-14T22:07:47+00:00",
    "history": [
@@ -56,6 +76,42 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 74
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
+   "id": "hn-50098148",
+   "title": "16-bit fully functional DIY magnetic core memory",
+   "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+   "hn_url": "https://news.ycombinator.com/item?id=50098148",
+   "score": 14,
+   "comments": 3,
+   "author": "oliculipolicula",
+   "time_iso": "2026-10-15T01:51:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-50103988",
+   "title": "They war-gamed dimming the Sun. It went worse than you think",
+   "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+   "hn_url": "https://news.ycombinator.com/item?id=50103988",
+   "score": 8,
+   "comments": 2,
+   "author": "rbanffy",
+   "time_iso": "2026-10-15T14:13:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 8
     }
    ]
   },
@@ -88,6 +144,22 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50122058",
+   "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+   "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50122058",
+   "score": 29,
+   "comments": 6,
+   "author": "zoobab",
+   "time_iso": "2026-10-16T18:07:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 29
     }
    ]
   },
@@ -160,12 +232,44 @@
    ]
   },
   {
+   "id": "hn-50131053",
+   "title": "Developing for Debugging (2025)",
+   "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50131053",
+   "score": 21,
+   "comments": 0,
+   "author": "mpweiher",
+   "time_iso": "2026-10-17T13:34:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50135762",
+   "title": "I built a programming language that LLMs can't use",
+   "url": "https://blog.picheta.me/post/killswitch-lang/",
+   "hn_url": "https://news.ycombinator.com/item?id=50135762",
+   "score": 45,
+   "comments": 36,
+   "author": "dom96",
+   "time_iso": "2026-10-17T22:26:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
    "id": "hn-50136017",
    "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
    "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
    "hn_url": "https://news.ycombinator.com/item?id=50136017",
-   "score": 31,
-   "comments": 0,
+   "score": 49,
+   "comments": 1,
    "author": "zdw",
    "time_iso": "2026-10-17T23:08:30+00:00",
    "history": [
@@ -176,6 +280,42 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50136150",
+   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "hn_url": "https://news.ycombinator.com/item?id=50136150",
+   "score": 72,
+   "comments": 24,
+   "author": "mdp2021",
+   "time_iso": "2026-10-17T23:26:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 72
+    }
+   ]
+  },
+  {
+   "id": "hn-50136979",
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "hn_url": "https://news.ycombinator.com/item?id=50136979",
+   "score": 79,
+   "comments": 55,
+   "author": "gmays",
+   "time_iso": "2026-10-18T01:38:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 79
     }
    ]
   },
@@ -184,8 +324,8 @@
    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
    "hn_url": "https://news.ycombinator.com/item?id=50137620",
-   "score": 323,
-   "comments": 436,
+   "score": 346,
+   "comments": 484,
    "author": "MaysonL",
    "time_iso": "2026-10-18T03:19:49+00:00",
    "history": [
@@ -196,6 +336,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 323
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 346
     }
    ]
   },
@@ -224,8 +368,8 @@
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "url": "https://api-docs.deepseek.com/guides/search/",
    "hn_url": "https://news.ycombinator.com/item?id=50138531",
-   "score": 481,
-   "comments": 234,
+   "score": 517,
+   "comments": 250,
    "author": "fagnerbrack",
    "time_iso": "2026-10-18T06:50:36+00:00",
    "history": [
@@ -236,6 +380,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 481
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 517
     }
    ]
   },
@@ -300,8 +448,8 @@
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
    "hn_url": "https://news.ycombinator.com/item?id=50140001",
-   "score": 147,
-   "comments": 11,
+   "score": 166,
+   "comments": 13,
    "author": "_Microft",
    "time_iso": "2026-10-18T11:16:22+00:00",
    "history": [
@@ -312,6 +460,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 147
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 166
     }
    ]
   },
@@ -320,8 +472,8 @@
    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
    "url": "https://legendofhyrule.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50140769",
-   "score": 124,
-   "comments": 66,
+   "score": 149,
+   "comments": 88,
    "author": "jsomau",
    "time_iso": "2026-10-18T13:06:54+00:00",
    "history": [
@@ -332,6 +484,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 124
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 149
     }
    ]
   },
@@ -356,8 +512,8 @@
    "title": "RepRapMicron",
    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
    "hn_url": "https://news.ycombinator.com/item?id=50141076",
-   "score": 276,
-   "comments": 38,
+   "score": 311,
+   "comments": 47,
    "author": "RobotToaster",
    "time_iso": "2026-10-18T13:48:48+00:00",
    "history": [
@@ -368,6 +524,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 276
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 311
     }
    ]
   },
@@ -376,8 +536,8 @@
    "title": "Java sealed classes and exhaustive pattern matching",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
    "hn_url": "https://news.ycombinator.com/item?id=50141579",
-   "score": 102,
-   "comments": 63,
+   "score": 121,
+   "comments": 98,
    "author": "hnisjafx40",
    "time_iso": "2026-10-18T14:47:37+00:00",
    "history": [
@@ -388,6 +548,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 121
     }
    ]
   },
@@ -452,8 +616,8 @@
    "title": "The Intel 8087 chip: floating-point addition and subtraction",
    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
    "hn_url": "https://news.ycombinator.com/item?id=50142449",
-   "score": 62,
-   "comments": 10,
+   "score": 79,
+   "comments": 23,
    "author": "pwg",
    "time_iso": "2026-10-18T16:20:27+00:00",
    "history": [
@@ -464,6 +628,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 62
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 79
     }
    ]
   },
@@ -472,8 +640,8 @@
    "title": "Someone behind the software",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
    "hn_url": "https://news.ycombinator.com/item?id=50142573",
-   "score": 155,
-   "comments": 58,
+   "score": 253,
+   "comments": 108,
    "author": "tosh",
    "time_iso": "2026-10-18T16:32:00+00:00",
    "history": [
@@ -484,6 +652,10 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 155
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 253
     }
    ]
   },
@@ -492,14 +664,18 @@
    "title": "Namecheap just seized and disabled all my domains",
    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
    "hn_url": "https://news.ycombinator.com/item?id=50142866",
-   "score": 159,
-   "comments": 98,
+   "score": 337,
+   "comments": 161,
    "author": "sashk",
    "time_iso": "2026-10-18T16:56:56+00:00",
    "history": [
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 159
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 337
     }
    ]
   },
@@ -524,14 +700,18 @@
    "title": "PalmOS Lemmings",
    "url": "https://github.com/ardiri/palmos-lemmings",
    "hn_url": "https://news.ycombinator.com/item?id=50143536",
-   "score": 29,
-   "comments": 6,
+   "score": 72,
+   "comments": 20,
    "author": "memalign",
    "time_iso": "2026-10-18T17:56:59+00:00",
    "history": [
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 72
     }
    ]
   },
@@ -556,14 +736,18 @@
    "title": "Florida's HOAs and condo associations are making the housing crisis worse",
    "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
    "hn_url": "https://news.ycombinator.com/item?id=50144005",
-   "score": 96,
-   "comments": 138,
+   "score": 136,
+   "comments": 234,
    "author": "lovewins",
    "time_iso": "2026-10-18T18:40:16+00:00",
    "history": [
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 136
     }
    ]
   },
@@ -572,14 +756,18 @@
    "title": "Free Pascal compiler now supports dynamic packages",
    "url": "https://www.getlazarus.org/dynamic/",
    "hn_url": "https://news.ycombinator.com/item?id=50144066",
-   "score": 27,
-   "comments": 7,
+   "score": 89,
+   "comments": 12,
    "author": "sysrpl",
    "time_iso": "2026-10-18T18:48:04+00:00",
    "history": [
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 89
     }
    ]
   },
@@ -596,6 +784,38 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50145337",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "hn_url": "https://news.ycombinator.com/item?id=50145337",
+   "score": 106,
+   "comments": 44,
+   "author": "allinonai",
+   "time_iso": "2026-10-18T20:48:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 106
+    }
+   ]
+  },
+  {
+   "id": "hn-50145715",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "url": "https://github.com/finereli/whatsapp-mcp",
+   "hn_url": "https://news.ycombinator.com/item?id=50145715",
+   "score": 6,
+   "comments": 0,
+   "author": "zoozla",
+   "time_iso": "2026-10-18T21:36:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T06:45:18.147210+08:00",
+     "score": 6
     }
    ]
   }
