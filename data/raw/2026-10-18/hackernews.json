@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-18T06:52:42.498082+08:00",
- "count": 45,
+ "updated_at": "2026-10-18T08:38:13.180337+08:00",
+ "count": 47,
  "items": [
   {
    "id": "hn-50082358",
@@ -40,14 +40,34 @@
    "title": "Types of types: Haskell's Kind system",
    "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
    "hn_url": "https://news.ycombinator.com/item?id=50090927",
-   "score": 10,
-   "comments": 3,
+   "score": 33,
+   "comments": 22,
    "author": "Thom2503",
    "time_iso": "2026-10-14T17:00:31+00:00",
    "history": [
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50092722",
+   "title": "An ESPN producer who quit because of sports gambling",
+   "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+   "hn_url": "https://news.ycombinator.com/item?id=50092722",
+   "score": 132,
+   "comments": 81,
+   "author": "danso",
+   "time_iso": "2026-10-14T18:36:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 132
     }
    ]
   },
@@ -56,8 +76,8 @@
    "title": "Vintage Cassettes: 1963-2010",
    "url": "http://vintagecassettes.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50094887",
-   "score": 41,
-   "comments": 5,
+   "score": 48,
+   "comments": 8,
    "author": "austinallegro",
    "time_iso": "2026-10-14T20:41:36+00:00",
    "history": [
@@ -68,6 +88,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 48
     }
    ]
   },
@@ -76,8 +100,8 @@
    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
    "url": "https://github.com/antirez/c64-hw-simulator",
    "hn_url": "https://news.ycombinator.com/item?id=50100366",
-   "score": 118,
-   "comments": 20,
+   "score": 135,
+   "comments": 23,
    "author": "antirez",
    "time_iso": "2026-10-15T07:18:14+00:00",
    "history": [
@@ -88,6 +112,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 118
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 135
     }
    ]
   },
@@ -128,8 +156,8 @@
    "title": "Furifont, a Japanese font that shows furigana",
    "url": "https://furifont.antfu.me/",
    "hn_url": "https://news.ycombinator.com/item?id=50100994",
-   "score": 216,
-   "comments": 45,
+   "score": 243,
+   "comments": 51,
    "author": "plaguna",
    "time_iso": "2026-10-15T08:48:30+00:00",
    "history": [
@@ -144,6 +172,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 216
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 243
     }
    ]
   },
@@ -152,8 +184,8 @@
    "title": "Laser Fault Injection on a Budget: RP2350 Edition",
    "url": "https://courk.cc/rp2350-challenge-laser",
    "hn_url": "https://news.ycombinator.com/item?id=50101649",
-   "score": 33,
-   "comments": 4,
+   "score": 39,
+   "comments": 8,
    "author": "gregsadetsky",
    "time_iso": "2026-10-15T10:24:16+00:00",
    "history": [
@@ -164,6 +196,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 39
     }
    ]
   },
@@ -220,14 +256,18 @@
    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
    "url": "https://github.com/Kapendev/parin",
    "hn_url": "https://news.ycombinator.com/item?id=50118098",
-   "score": 37,
-   "comments": 6,
+   "score": 43,
+   "comments": 8,
    "author": "Kapendev",
    "time_iso": "2026-10-16T13:22:49+00:00",
    "history": [
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 37
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 43
     }
    ]
   },
@@ -236,8 +276,8 @@
    "title": "Rendering pretty sky in Around The World game",
    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
    "hn_url": "https://news.ycombinator.com/item?id=50119315",
-   "score": 114,
-   "comments": 7,
+   "score": 122,
+   "comments": 9,
    "author": "ibobev",
    "time_iso": "2026-10-16T15:06:43+00:00",
    "history": [
@@ -252,6 +292,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 114
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 122
     }
    ]
   },
@@ -308,8 +352,8 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 474,
-   "comments": 109,
+   "score": 496,
+   "comments": 116,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
@@ -324,6 +368,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 474
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 496
     }
    ]
   },
@@ -332,8 +380,8 @@
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "hn_url": "https://news.ycombinator.com/item?id=50126253",
-   "score": 239,
-   "comments": 43,
+   "score": 289,
+   "comments": 61,
    "author": "alkyon",
    "time_iso": "2026-10-16T23:38:27+00:00",
    "history": [
@@ -344,6 +392,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 239
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 289
     }
    ]
   },
@@ -352,8 +404,8 @@
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
    "hn_url": "https://news.ycombinator.com/item?id=50126312",
-   "score": 126,
-   "comments": 35,
+   "score": 174,
+   "comments": 48,
    "author": "sohkamyung",
    "time_iso": "2026-10-16T23:47:31+00:00",
    "history": [
@@ -364,6 +416,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 126
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 174
     }
    ]
   },
@@ -372,8 +428,8 @@
    "title": "A skeptic's first contact with Kubernetes (2024)",
    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
    "hn_url": "https://news.ycombinator.com/item?id=50127572",
-   "score": 66,
-   "comments": 31,
+   "score": 78,
+   "comments": 39,
    "author": "pmoriarty",
    "time_iso": "2026-10-17T03:16:25+00:00",
    "history": [
@@ -384,6 +440,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 78
     }
    ]
   },
@@ -392,8 +452,8 @@
    "title": "Source code of the Estonian online voting system",
    "url": "https://github.com/valimised/ivxv",
    "hn_url": "https://news.ycombinator.com/item?id=50127586",
-   "score": 122,
-   "comments": 106,
+   "score": 152,
+   "comments": 133,
    "author": "theanonymousone",
    "time_iso": "2026-10-17T03:18:39+00:00",
    "history": [
@@ -404,6 +464,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 122
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 152
     }
    ]
   },
@@ -428,8 +492,8 @@
    "title": "DeepSeek-v4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "hn_url": "https://news.ycombinator.com/item?id=50129045",
-   "score": 638,
-   "comments": 543,
+   "score": 674,
+   "comments": 575,
    "author": "theykk",
    "time_iso": "2026-10-17T08:21:25+00:00",
    "history": [
@@ -444,6 +508,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 638
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 674
     }
    ]
   },
@@ -484,8 +552,8 @@
    "title": "Show HN: High-quality duck audio synthesizer",
    "url": "https://celphase.github.io/duck-pond/",
    "hn_url": "https://news.ycombinator.com/item?id=50131006",
-   "score": 60,
-   "comments": 17,
+   "score": 76,
+   "comments": 23,
    "author": "celphase",
    "time_iso": "2026-10-17T13:28:46+00:00",
    "history": [
@@ -496,6 +564,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 76
     }
    ]
   },
@@ -504,8 +576,8 @@
    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
    "url": "https://github.com/mikroverk/esp32sim",
    "hn_url": "https://news.ycombinator.com/item?id=50131189",
-   "score": 73,
-   "comments": 10,
+   "score": 117,
+   "comments": 11,
    "author": "joakimeriksson",
    "time_iso": "2026-10-17T13:51:08+00:00",
    "history": [
@@ -516,6 +588,10 @@
     {
      "t": "2026-10-18T04:06:17.210543+08:00",
      "score": 73
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 117
     }
    ]
   },
@@ -524,8 +600,8 @@
    "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "hn_url": "https://news.ycombinator.com/item?id=50131213",
-   "score": 234,
-   "comments": 63,
+   "score": 247,
+   "comments": 65,
    "author": "crescit_eundo",
    "time_iso": "2026-10-17T13:55:28+00:00",
    "history": [
@@ -540,6 +616,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 234
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 247
     }
    ]
   },
@@ -548,8 +628,8 @@
    "title": "Solar surpasses nuclear power globally for first time",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
    "hn_url": "https://news.ycombinator.com/item?id=50131256",
-   "score": 434,
-   "comments": 277,
+   "score": 462,
+   "comments": 301,
    "author": "xbmcuser",
    "time_iso": "2026-10-17T14:01:01+00:00",
    "history": [
@@ -564,6 +644,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 434
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 462
     }
    ]
   },
@@ -572,8 +656,8 @@
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "url": "https://pele.run/",
    "hn_url": "https://news.ycombinator.com/item?id=50132193",
-   "score": 167,
-   "comments": 16,
+   "score": 213,
+   "comments": 24,
    "author": "dchest",
    "time_iso": "2026-10-17T15:55:09+00:00",
    "history": [
@@ -584,6 +668,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 167
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 213
     }
    ]
   },
@@ -656,6 +744,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 1
     }
    ]
   },
@@ -664,8 +756,8 @@
    "title": "Gold is now the top U.S. export",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
    "hn_url": "https://news.ycombinator.com/item?id=50132870",
-   "score": 175,
-   "comments": 95,
+   "score": 215,
+   "comments": 114,
    "author": "iamnothere",
    "time_iso": "2026-10-17T17:06:07+00:00",
    "history": [
@@ -676,6 +768,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 175
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 215
     }
    ]
   },
@@ -724,8 +820,8 @@
    "title": "I Became a Citizen of Japan",
    "url": "https://www.derekwessman.com/blog-1/natural",
    "hn_url": "https://news.ycombinator.com/item?id=50133150",
-   "score": 108,
-   "comments": 36,
+   "score": 137,
+   "comments": 56,
    "author": "luu",
    "time_iso": "2026-10-17T17:36:17+00:00",
    "history": [
@@ -736,6 +832,10 @@
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 108
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 137
     }
    ]
   },
@@ -744,14 +844,18 @@
    "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "url": "https://github.com/openai/codex/issues/25921",
    "hn_url": "https://news.ycombinator.com/item?id=50133231",
-   "score": 41,
-   "comments": 22,
+   "score": 59,
+   "comments": 25,
    "author": "AIorNot",
    "time_iso": "2026-10-17T17:45:08+00:00",
    "history": [
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 59
     }
    ]
   },
@@ -832,14 +936,34 @@
    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
    "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
    "hn_url": "https://news.ycombinator.com/item?id=50134617",
-   "score": 53,
-   "comments": 57,
+   "score": 77,
+   "comments": 74,
    "author": "croes",
    "time_iso": "2026-10-17T20:07:33+00:00",
    "history": [
     {
      "t": "2026-10-18T06:52:42.498082+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 77
+    }
+   ]
+  },
+  {
+   "id": "hn-50135379",
+   "title": "JDK 28",
+   "url": "https://openjdk.org/projects/jdk/28/",
+   "hn_url": "https://news.ycombinator.com/item?id=50135379",
+   "score": 41,
+   "comments": 18,
+   "author": "ejboy",
+   "time_iso": "2026-10-17T21:37:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:13.180337+08:00",
+     "score": 41
     }
    ]
   }

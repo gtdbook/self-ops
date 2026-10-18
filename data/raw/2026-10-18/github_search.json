@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-18T06:52:43.160657+08:00",
- "count": 21,
+ "updated_at": "2026-10-18T08:38:14.054375+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1413838499",
@@ -122,7 +122,7 @@
    "id": "gh-1415214046",
    "title": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
-   "stars": 1079,
+   "stars": 1080,
    "language": "Python",
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
    "created_at": "2026-10-12T07:11:01Z",
@@ -138,6 +138,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1079
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1080
     }
    ]
   },
@@ -145,7 +149,7 @@
    "id": "gh-1415313946",
    "title": "jhaizhou-ops/d2r-mobile",
    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-   "stars": 3704,
+   "stars": 3707,
    "language": "C",
    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game",
    "created_at": "2026-10-12T08:41:19Z",
@@ -161,6 +165,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 3704
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 3707
     }
    ]
   },
@@ -168,7 +176,7 @@
    "id": "gh-1415358670",
    "title": "deeplethe/solid-glass",
    "url": "https://github.com/deeplethe/solid-glass",
-   "stars": 1687,
+   "stars": 1706,
    "language": "TypeScript",
    "description": "A design system for AI applications. Material, physical, tactile, technical.",
    "created_at": "2026-10-12T09:19:02Z",
@@ -184,6 +192,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1687
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1706
     }
    ]
   },
@@ -203,6 +215,10 @@
     {
      "t": "2026-10-18T04:06:18.031912+08:00",
      "score": 669
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 669
     }
    ]
   },
@@ -210,7 +226,7 @@
    "id": "gh-1415622546",
    "title": "AjncSystem/ShadowOfTheColossus-PC",
    "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-   "stars": 970,
+   "stars": 982,
    "language": "C++",
    "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
    "created_at": "2026-10-12T13:11:53Z",
@@ -226,6 +242,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 970
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 982
     }
    ]
   },
@@ -233,7 +253,7 @@
    "id": "gh-1416044960",
    "title": "rohit267/net-merge",
    "url": "https://github.com/rohit267/net-merge",
-   "stars": 782,
+   "stars": 792,
    "language": "Go",
    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
    "created_at": "2026-10-12T19:28:45Z",
@@ -249,6 +269,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 782
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 792
     }
    ]
   },
@@ -256,7 +280,7 @@
    "id": "gh-1416386910",
    "title": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "stars": 2630,
+   "stars": 2636,
    "language": "Python",
    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
    "created_at": "2026-10-13T03:09:42Z",
@@ -272,6 +296,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 2630
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 2636
     }
    ]
   },
@@ -279,7 +307,7 @@
    "id": "gh-1416766144",
    "title": "outcrawlai/scout",
    "url": "https://github.com/outcrawlai/scout",
-   "stars": 935,
+   "stars": 939,
    "language": "TypeScript",
    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
    "created_at": "2026-10-13T09:18:55Z",
@@ -295,6 +323,25 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 935
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 939
+    }
+   ]
+  },
+  {
+   "id": "gh-1417155242",
+   "title": "Zfinix/eleven",
+   "url": "https://github.com/Zfinix/eleven",
+   "stars": 673,
+   "language": "TypeScript",
+   "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+   "created_at": "2026-10-13T13:47:31Z",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 673
     }
    ]
   },
@@ -318,6 +365,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 821
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 821
     }
    ]
   },
@@ -325,7 +376,7 @@
    "id": "gh-1417456983",
    "title": "HeyPuter/everything",
    "url": "https://github.com/HeyPuter/everything",
-   "stars": 2039,
+   "stars": 2052,
    "language": "JavaScript",
    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
    "created_at": "2026-10-13T16:18:22Z",
@@ -341,6 +392,25 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 2039
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 2052
+    }
+   ]
+  },
+  {
+   "id": "gh-1418155445",
+   "title": "MyLuxy/overdrive",
+   "url": "https://github.com/MyLuxy/overdrive",
+   "stars": 643,
+   "language": "C++",
+   "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+   "created_at": "2026-10-14T00:07:08Z",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 643
     }
    ]
   },
@@ -348,7 +418,7 @@
    "id": "gh-1419078245",
    "title": "Caho1/open-claude-ui",
    "url": "https://github.com/Caho1/open-claude-ui",
-   "stars": 1133,
+   "stars": 1136,
    "language": "TypeScript",
    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
    "created_at": "2026-10-14T14:05:05Z",
@@ -364,6 +434,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1133
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1136
     }
    ]
   },
@@ -371,7 +445,7 @@
    "id": "gh-1419746236",
    "title": "ahwootech/BRUTAL",
    "url": "https://github.com/ahwootech/BRUTAL",
-   "stars": 1785,
+   "stars": 1790,
    "language": "C#",
    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
    "created_at": "2026-10-14T19:33:56Z",
@@ -387,6 +461,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1785
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1790
     }
    ]
   },
@@ -394,7 +472,7 @@
    "id": "gh-1419982962",
    "title": "Supermedo/uncharted_pc",
    "url": "https://github.com/Supermedo/uncharted_pc",
-   "stars": 1245,
+   "stars": 1258,
    "language": "C++",
    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
    "created_at": "2026-10-15T00:17:23Z",
@@ -410,6 +488,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1245
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1258
     }
    ]
   },
@@ -417,7 +499,7 @@
    "id": "gh-1420063501",
    "title": "chenglou/handwired",
    "url": "https://github.com/chenglou/handwired",
-   "stars": 1673,
+   "stars": 1676,
    "language": "TypeScript",
    "description": "Turn your regular JavaScript code into a neural net.",
    "created_at": "2026-10-15T02:15:09Z",
@@ -433,6 +515,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1673
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1676
     }
    ]
   },
@@ -440,7 +526,7 @@
    "id": "gh-1420305104",
    "title": "Leonxlnx/earshot",
    "url": "https://github.com/Leonxlnx/earshot",
-   "stars": 678,
+   "stars": 681,
    "language": "Python",
    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
    "created_at": "2026-10-15T06:52:46Z",
@@ -448,6 +534,10 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 678
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 681
     }
    ]
   },
@@ -455,7 +545,7 @@
    "id": "gh-1420751050",
    "title": "feder-cr/git-ai",
    "url": "https://github.com/feder-cr/git-ai",
-   "stars": 1133,
+   "stars": 1136,
    "language": "Go",
    "description": "Git designed for AI agents.",
    "created_at": "2026-10-15T13:12:02Z",
@@ -471,6 +561,40 @@
     {
      "t": "2026-10-18T06:52:43.160657+08:00",
      "score": 1133
+    },
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 1136
+    }
+   ]
+  },
+  {
+   "id": "gh-1421389432",
+   "title": "anujasid/blender-ai-mcp-addon",
+   "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+   "stars": 618,
+   "language": "Python",
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+   "created_at": "2026-10-15T22:30:47Z",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 618
+    }
+   ]
+  },
+  {
+   "id": "gh-1422399929",
+   "title": "xscreensaver-official/xscreensaver",
+   "url": "https://github.com/xscreensaver-official/xscreensaver",
+   "stars": 705,
+   "language": "",
+   "description": "There is no official XScreenSaver GitHub repository.",
+   "created_at": "2026-10-16T16:24:44Z",
+   "history": [
+    {
+     "t": "2026-10-18T08:38:14.054375+08:00",
+     "score": 705
     }
    ]
   }
