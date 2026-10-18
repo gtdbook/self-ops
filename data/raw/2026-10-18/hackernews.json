@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-18T13:25:02.313315+08:00",
- "count": 56,
+ "updated_at": "2026-10-18T18:23:12.443796+08:00",
+ "count": 63,
  "items": [
   {
    "id": "hn-50082358",
@@ -104,7 +104,7 @@
    "title": "Custom server to revive neato bots",
    "url": "https://github.com/vacuula/vacuula",
    "hn_url": "https://news.ycombinator.com/item?id=50097257",
-   "score": 21,
+   "score": 47,
    "comments": 1,
    "author": "matttah",
    "time_iso": "2026-10-14T23:48:38+00:00",
@@ -112,6 +112,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 47
     }
    ]
   },
@@ -120,8 +124,8 @@
    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
    "url": "https://github.com/antirez/c64-hw-simulator",
    "hn_url": "https://news.ycombinator.com/item?id=50100366",
-   "score": 165,
-   "comments": 24,
+   "score": 191,
+   "comments": 28,
    "author": "antirez",
    "time_iso": "2026-10-15T07:18:14+00:00",
    "history": [
@@ -140,6 +144,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 165
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 191
     }
    ]
   },
@@ -180,8 +188,8 @@
    "title": "Furifont, a Japanese font that shows furigana",
    "url": "https://furifont.antfu.me/",
    "hn_url": "https://news.ycombinator.com/item?id=50100994",
-   "score": 311,
-   "comments": 65,
+   "score": 350,
+   "comments": 70,
    "author": "plaguna",
    "time_iso": "2026-10-15T08:48:30+00:00",
    "history": [
@@ -204,6 +212,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 311
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 350
     }
    ]
   },
@@ -264,18 +276,38 @@
    ]
   },
   {
+   "id": "hn-50106792",
+   "title": "Fun Extending the C Preprocessor",
+   "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50106792",
+   "score": 27,
+   "comments": 4,
+   "author": "david2ndaccount",
+   "time_iso": "2026-10-15T17:08:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
    "id": "hn-50110081",
    "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
    "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
    "hn_url": "https://news.ycombinator.com/item?id=50110081",
-   "score": 5,
-   "comments": 0,
+   "score": 33,
+   "comments": 3,
    "author": "jacquesm",
    "time_iso": "2026-10-15T20:55:40+00:00",
    "history": [
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 33
     }
    ]
   },
@@ -284,14 +316,18 @@
    "title": "Lean now ships with verified kernels",
    "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
    "hn_url": "https://news.ycombinator.com/item?id=50114758",
-   "score": 69,
-   "comments": 21,
+   "score": 140,
+   "comments": 47,
    "author": "matt_d",
    "time_iso": "2026-10-16T06:16:13+00:00",
    "history": [
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 140
     }
    ]
   },
@@ -392,6 +428,22 @@
    ]
   },
   {
+   "id": "hn-50121516",
+   "title": "Go Piss, Girl: The plight of the public potty",
+   "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
+   "hn_url": "https://news.ycombinator.com/item?id=50121516",
+   "score": 20,
+   "comments": 36,
+   "author": "prismatic",
+   "time_iso": "2026-10-16T17:29:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
    "id": "hn-50122431",
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "url": "https://github.com/cobanov/PS5LM",
@@ -404,6 +456,22 @@
     {
      "t": "2026-10-18T01:47:44.768646+08:00",
      "score": 350
+    }
+   ]
+  },
+  {
+   "id": "hn-50122671",
+   "title": "Regex visualized as 3D marble run",
+   "url": "https://www.regexmarblerun.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50122671",
+   "score": 3,
+   "comments": 1,
+   "author": "seizethecheese",
+   "time_iso": "2026-10-16T18:48:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 3
     }
    ]
   },
@@ -428,8 +496,8 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 534,
-   "comments": 121,
+   "score": 567,
+   "comments": 127,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
@@ -452,6 +520,26 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 534
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 567
+    }
+   ]
+  },
+  {
+   "id": "hn-50124730",
+   "title": "Teal – A statically-typed dialect of Lua",
+   "url": "https://teal-language.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50124730",
+   "score": 32,
+   "comments": 7,
+   "author": "Lyngbakr",
+   "time_iso": "2026-10-16T21:07:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 32
     }
    ]
   },
@@ -460,8 +548,8 @@
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "hn_url": "https://news.ycombinator.com/item?id=50126253",
-   "score": 393,
-   "comments": 83,
+   "score": 463,
+   "comments": 99,
    "author": "alkyon",
    "time_iso": "2026-10-16T23:38:27+00:00",
    "history": [
@@ -480,6 +568,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 393
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 463
     }
    ]
   },
@@ -488,8 +580,8 @@
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
    "hn_url": "https://news.ycombinator.com/item?id=50126312",
-   "score": 244,
-   "comments": 60,
+   "score": 281,
+   "comments": 66,
    "author": "sohkamyung",
    "time_iso": "2026-10-16T23:47:31+00:00",
    "history": [
@@ -508,6 +600,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 244
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 281
     }
    ]
   },
@@ -588,8 +684,8 @@
    "title": "DeepSeek-v4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "hn_url": "https://news.ycombinator.com/item?id=50129045",
-   "score": 776,
-   "comments": 618,
+   "score": 862,
+   "comments": 656,
    "author": "theykk",
    "time_iso": "2026-10-17T08:21:25+00:00",
    "history": [
@@ -612,6 +708,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 776
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 862
     }
    ]
   },
@@ -652,7 +752,7 @@
    "title": "Interactive Linear Programming in the Browser",
    "url": "https://lpviz.net/",
    "hn_url": "https://news.ycombinator.com/item?id=50130379",
-   "score": 4,
+   "score": 34,
    "comments": 0,
    "author": "klamike",
    "time_iso": "2026-10-17T12:06:44+00:00",
@@ -660,6 +760,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 34
     }
    ]
   },
@@ -668,8 +772,8 @@
    "title": "Show HN: High-quality duck audio synthesizer",
    "url": "https://celphase.github.io/duck-pond/",
    "hn_url": "https://news.ycombinator.com/item?id=50131006",
-   "score": 106,
-   "comments": 27,
+   "score": 140,
+   "comments": 30,
    "author": "celphase",
    "time_iso": "2026-10-17T13:28:46+00:00",
    "history": [
@@ -688,6 +792,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 106
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 140
     }
    ]
   },
@@ -724,8 +832,8 @@
    "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "hn_url": "https://news.ycombinator.com/item?id=50131213",
-   "score": 281,
-   "comments": 71,
+   "score": 305,
+   "comments": 81,
    "author": "crescit_eundo",
    "time_iso": "2026-10-17T13:55:28+00:00",
    "history": [
@@ -748,6 +856,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 281
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 305
     }
    ]
   },
@@ -788,8 +900,8 @@
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "url": "https://pele.run/",
    "hn_url": "https://news.ycombinator.com/item?id=50132193",
-   "score": 337,
-   "comments": 30,
+   "score": 441,
+   "comments": 39,
    "author": "dchest",
    "time_iso": "2026-10-17T15:55:09+00:00",
    "history": [
@@ -808,6 +920,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 337
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 441
     }
    ]
   },
@@ -892,8 +1008,8 @@
    "title": "Gold is now the top U.S. export",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
    "hn_url": "https://news.ycombinator.com/item?id=50132870",
-   "score": 290,
-   "comments": 149,
+   "score": 334,
+   "comments": 184,
    "author": "iamnothere",
    "time_iso": "2026-10-17T17:06:07+00:00",
    "history": [
@@ -912,6 +1028,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 290
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 334
     }
    ]
   },
@@ -984,8 +1104,8 @@
    "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "url": "https://github.com/openai/codex/issues/25921",
    "hn_url": "https://news.ycombinator.com/item?id=50133231",
-   "score": 111,
-   "comments": 39,
+   "score": 133,
+   "comments": 54,
    "author": "AIorNot",
    "time_iso": "2026-10-17T17:45:08+00:00",
    "history": [
@@ -1000,6 +1120,10 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 111
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 133
     }
    ]
   },
@@ -1116,46 +1240,58 @@
    "title": "NY announces game ownership bill requiring ownership rather than licensing",
    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
    "hn_url": "https://news.ycombinator.com/item?id=50136536",
-   "score": 183,
-   "comments": 49,
+   "score": 297,
+   "comments": 106,
    "author": "guiambros",
    "time_iso": "2026-10-18T00:14:22+00:00",
    "history": [
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 183
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 297
     }
    ]
   },
   {
    "id": "hn-50137620",
-   "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
    "hn_url": "https://news.ycombinator.com/item?id=50137620",
-   "score": 48,
-   "comments": 22,
+   "score": 143,
+   "comments": 149,
    "author": "MaysonL",
    "time_iso": "2026-10-18T03:19:49+00:00",
    "history": [
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 143
     }
    ]
   },
   {
    "id": "hn-50137950",
-   "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "url": "https://sphinx-six-theta.vercel.app/",
    "hn_url": "https://news.ycombinator.com/item?id=50137950",
-   "score": 16,
-   "comments": 2,
+   "score": 133,
+   "comments": 33,
    "author": "critiquebrowser",
    "time_iso": "2026-10-18T04:33:49+00:00",
    "history": [
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 133
     }
    ]
   },
@@ -1172,6 +1308,54 @@
     {
      "t": "2026-10-18T13:25:02.313315+08:00",
      "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50138087",
+   "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+   "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+   "hn_url": "https://news.ycombinator.com/item?id=50138087",
+   "score": 97,
+   "comments": 76,
+   "author": "thatslast",
+   "time_iso": "2026-10-18T05:09:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 97
+    }
+   ]
+  },
+  {
+   "id": "hn-50138531",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "hn_url": "https://news.ycombinator.com/item?id=50138531",
+   "score": 196,
+   "comments": 93,
+   "author": "fagnerbrack",
+   "time_iso": "2026-10-18T06:50:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 196
+    }
+   ]
+  },
+  {
+   "id": "hn-50139067",
+   "title": "Parser Combinators",
+   "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+   "hn_url": "https://news.ycombinator.com/item?id=50139067",
+   "score": 14,
+   "comments": 1,
+   "author": "schindlabua",
+   "time_iso": "2026-10-18T08:19:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T18:23:12.443796+08:00",
+     "score": 14
     }
    ]
   }

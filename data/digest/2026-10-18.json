@@ -1,12 +1,28 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T13:25:03.701301+08:00",
+ "generated_at": "2026-10-18T18:23:14.561912+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
    "errors": [],
    "items": [
+    {
+     "title": "DeepSeek-v4.1-Flash-1017",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "meta": "+415 分 / 16.6 小时 · 现 ⭐ 862",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Pele – Mermaid diagrams as themeable SVG",
+     "url": "https://pele.run/",
+     "meta": "+375 分 / 14.3 小时 · 现 ⭐ 441",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "OpenCode Hacked: User credentials leaked",
      "url": "https://twitter.com/opencode/status/2111516673953935833",
@@ -16,17 +32,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "DeepSeek-v4.1-Flash-1017",
-     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-     "meta": "+329 分 / 11.6 小时 · 现 ⭐ 776",
+     "title": "Bleached corals thrive within days when touching healthy neighbour",
+     "url": "https://www.nature.com/articles/d41586-026-03266-x",
+     "meta": "+360 分 / 14.3 小时 · 现 ⭐ 463",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Bleached corals thrive within days when touching healthy neighbour",
-     "url": "https://www.nature.com/articles/d41586-026-03266-x",
-     "meta": "+290 分 / 9.3 小时 · 现 ⭐ 393",
+     "title": "Furifont, a Japanese font that shows furigana",
+     "url": "https://furifont.antfu.me/",
+     "meta": "+305 分 / 16.6 小时 · 现 ⭐ 350",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,25 +56,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Pele – Mermaid diagrams as themeable SVG",
-     "url": "https://pele.run/",
-     "meta": "+271 分 / 9.3 小时 · 现 ⭐ 337",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Furifont, a Japanese font that shows furigana",
-     "url": "https://furifont.antfu.me/",
-     "meta": "+266 分 / 11.6 小时 · 现 ⭐ 311",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Gold is now the top U.S. export",
      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-     "meta": "+205 分 / 9.3 小时 · 现 ⭐ 290",
+     "meta": "+249 分 / 14.3 小时 · 现 ⭐ 334",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,7 +66,7 @@
     {
      "title": "Dam removals are bringing fish back across the northeastern United States",
      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-     "meta": "+203 分 / 9.3 小时 · 现 ⭐ 244",
+     "meta": "+240 分 / 14.3 小时 · 现 ⭐ 281",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -74,15 +74,15 @@
     {
      "title": "Making chicken transparent using Dorito dust",
      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-     "meta": "+145 分 / 11.6 小时 · 现 ⭐ 281",
+     "meta": "+169 分 / 16.6 小时 · 现 ⭐ 305",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Source code of the Estonian online voting system",
-     "url": "https://github.com/valimised/ivxv",
-     "meta": "+126 分 / 9.3 小时 · 现 ⭐ 192",
+     "title": "You could have invented transformers from memory",
+     "url": "https://alexwang.ai/posts/associative-memory/",
+     "meta": "+145 分 / 16.6 小时 · 现 ⭐ 567",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3742 · C",
+     "meta": "⭐ 3766 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2663 · Python",
+     "meta": "⭐ 2688 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 2083 · JavaScript",
+     "meta": "⭐ 2113 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "deeplethe/solid-glass",
      "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 1835 · TypeScript",
+     "meta": "⭐ 1967 · TypeScript",
      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1812 · C#",
+     "meta": "⭐ 1835 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1686 · TypeScript",
+     "meta": "⭐ 1695 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,24 +288,32 @@
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1293 · C++",
+     "meta": "⭐ 1340 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "feder-cr/git-ai",
-     "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1148 · Go",
-     "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Caho1/open-claude-ui",
      "url": "https://github.com/Caho1/open-claude-ui",
-     "meta": "⭐ 1146 · TypeScript",
+     "meta": "⭐ 1170 · TypeScript",
      "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "feder-cr/git-ai",
+     "url": "https://github.com/feder-cr/git-ai",
+     "meta": "⭐ 1160 · Go",
+     "summary": "Git designed for AI agents.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zhuyansen/new-term-radar",
+     "url": "https://github.com/zhuyansen/new-term-radar",
+     "meta": "⭐ 1094 · Python",
+     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -318,17 +326,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "zhuyansen/new-term-radar",
-     "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1086 · Python",
-     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "AjncSystem/ShadowOfTheColossus-PC",
      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-     "meta": "⭐ 1001 · C++",
+     "meta": "⭐ 1020 · C++",
      "summary": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "outcrawlai/scout",
      "url": "https://github.com/outcrawlai/scout",
-     "meta": "⭐ 943 · TypeScript",
+     "meta": "⭐ 945 · TypeScript",
      "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
      "reason": null,
      "origin_source": "github_search"
@@ -359,7 +359,7 @@
     {
      "title": "DeepSeek-v4.1-Flash-1017",
      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-     "meta": "⭐ 776 · 💬 618",
+     "meta": "⭐ 862 · 💬 656",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +375,7 @@
     {
      "title": "You could have invented transformers from memory",
      "url": "https://alexwang.ai/posts/associative-memory/",
-     "meta": "⭐ 534 · 💬 121",
+     "meta": "⭐ 567 · 💬 127",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -391,7 +391,15 @@
     {
      "title": "Bleached corals thrive within days when touching healthy neighbour",
      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-     "meta": "⭐ 393 · 💬 83",
+     "meta": "⭐ 463 · 💬 99",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Pele – Mermaid diagrams as themeable SVG",
+     "url": "https://pele.run/",
+     "meta": "⭐ 441 · 💬 39",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,6 +413,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Furifont, a Japanese font that shows furigana",
+     "url": "https://furifont.antfu.me/",
+     "meta": "⭐ 350 · 💬 70",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
      "url": "https://github.com/cobanov/PS5LM",
      "meta": "⭐ 350 · 💬 84",
@@ -413,25 +429,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Pele – Mermaid diagrams as themeable SVG",
-     "url": "https://pele.run/",
-     "meta": "⭐ 337 · 💬 30",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Furifont, a Japanese font that shows furigana",
-     "url": "https://furifont.antfu.me/",
-     "meta": "⭐ 311 · 💬 65",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Gold is now the top U.S. export",
      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-     "meta": "⭐ 290 · 💬 149",
+     "meta": "⭐ 334 · 💬 184",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -439,7 +439,23 @@
     {
      "title": "Making chicken transparent using Dorito dust",
      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-     "meta": "⭐ 281 · 💬 71",
+     "meta": "⭐ 305 · 💬 81",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "NY announces game ownership bill requiring ownership rather than licensing",
+     "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+     "meta": "⭐ 297 · 💬 106",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dam removals are bringing fish back across the northeastern United States",
+     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+     "meta": "⭐ 281 · 💬 66",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -448,22 +464,6 @@
      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
      "url": "https://llmspeed.dev/",
      "meta": "⭐ 269 · 💬 78",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Dam removals are bringing fish back across the northeastern United States",
-     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-     "meta": "⭐ 244 · 💬 60",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Source code of the Estonian online voting system",
-     "url": "https://github.com/valimised/ivxv",
-     "meta": "⭐ 192 · 💬 157",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -476,10 +476,42 @@
    "errors": [],
    "items": [
     {
+     "title": "Popcraft",
+     "url": "https://www.producthunt.com/products/popcraft",
+     "meta": "Product Hunt · 2026-09-29",
+     "summary": "Generate video, images & audio from any AI agent",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "MeetPaw",
+     "url": "https://www.producthunt.com/products/meetpaw",
+     "meta": "Product Hunt · 2026-10-15",
+     "summary": "Instant meetings from your mac menu bar",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Inbox Zero",
+     "url": "https://www.producthunt.com/products/inbox-zero-2",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "Open-source Superhuman alternative",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Calenteri",
      "url": "https://www.producthunt.com/products/calenteri",
      "meta": "Product Hunt · 2026-10-13",
      "summary": "SaaS where a user can can book appointments to other users.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Krea 3",
+     "url": "https://www.producthunt.com/products/krea",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Krea's AI image model: 2K edits in under 8 seconds",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -500,10 +532,42 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Vampire Crawlers™",
+     "url": "https://www.producthunt.com/products/vampire-crawlers",
+     "meta": "Product Hunt · 2026-10-18",
+     "summary": "The Turbo Wildcard from Vampire Survivors",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tomo for ChatGPT",
+     "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+     "meta": "Product Hunt · 2026-10-17",
+     "summary": "Ask anything. Then play it, Duolingo-style.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Parallax",
      "url": "https://www.producthunt.com/products/parallax-5",
      "meta": "Product Hunt · 2026-10-15",
      "summary": "Every coding agent you run, in one place.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Bee Frontier and Bee Eclipse",
+     "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+     "meta": "Product Hunt · 2026-10-15",
+     "summary": "Amazon's personal AI memory, now on your wrist or phone",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "MyLens",
+     "url": "https://www.producthunt.com/products/mylens-ai",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "1-1 Live Presentations at Scale with AI.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -528,70 +592,6 @@
      "url": "https://www.producthunt.com/products/sparrow-10",
      "meta": "Product Hunt · 2026-10-15",
      "summary": "Self-hosted webhook delivery. One binary, just Postgres.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Agent Vault",
-     "url": "https://www.producthunt.com/products/agent-vault-2",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "Superpowers for your Agents",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Parrot",
-     "url": "https://www.producthunt.com/products/parrot-10",
-     "meta": "Product Hunt · 2026-09-24",
-     "summary": "Smart Meeting Assistant for Mac that helps during the call",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Jockey by TwelveLabs",
-     "url": "https://www.producthunt.com/products/twelvelabs",
-     "meta": "Product Hunt · 2026-10-09",
-     "summary": "Your entire video library: organized, searchable, understood",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "CmdRound",
-     "url": "https://www.producthunt.com/products/cmdround",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "Assess how engineers build with artificial intelligence",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Neophyte",
-     "url": "https://www.producthunt.com/products/neophyte",
-     "meta": "Product Hunt · 2026-10-13",
-     "summary": "Watch an AI agent sign up and onboard to any product",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Korinotch",
-     "url": "https://www.producthunt.com/products/korinotch",
-     "meta": "Product Hunt · 2026-10-11",
-     "summary": "Your MacBook notch, turned into a command center",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Toad",
-     "url": "https://www.producthunt.com/products/toad-4",
-     "meta": "Product Hunt · 2026-10-15",
-     "summary": "Point your agent at any machine you own.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Maybloc",
-     "url": "https://www.producthunt.com/products/maybloc",
-     "meta": "Product Hunt · 2026-10-15",
-     "summary": "new SOTA for speech-to-text for multi-speaker audio",
      "reason": null,
      "origin_source": "producthunt"
     }
