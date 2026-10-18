@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-18T18:23:12.443796+08:00",
- "count": 63,
+ "updated_at": "2026-10-18T22:17:46.997684+08:00",
+ "count": 69,
  "items": [
   {
    "id": "hn-50082358",
@@ -76,6 +76,22 @@
    ]
   },
   {
+   "id": "hn-50093081",
+   "title": "Hatching (Heraldry)",
+   "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+   "hn_url": "https://news.ycombinator.com/item?id=50093081",
+   "score": 16,
+   "comments": 1,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-14T18:57:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
    "id": "hn-50094887",
    "title": "Vintage Cassettes: 1963-2010",
    "url": "http://vintagecassettes.com/",
@@ -124,8 +140,8 @@
    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
    "url": "https://github.com/antirez/c64-hw-simulator",
    "hn_url": "https://news.ycombinator.com/item?id=50100366",
-   "score": 191,
-   "comments": 28,
+   "score": 211,
+   "comments": 34,
    "author": "antirez",
    "time_iso": "2026-10-15T07:18:14+00:00",
    "history": [
@@ -148,6 +164,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 191
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 211
     }
    ]
   },
@@ -188,8 +208,8 @@
    "title": "Furifont, a Japanese font that shows furigana",
    "url": "https://furifont.antfu.me/",
    "hn_url": "https://news.ycombinator.com/item?id=50100994",
-   "score": 350,
-   "comments": 70,
+   "score": 374,
+   "comments": 78,
    "author": "plaguna",
    "time_iso": "2026-10-15T08:48:30+00:00",
    "history": [
@@ -216,6 +236,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 350
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 374
     }
    ]
   },
@@ -240,6 +264,22 @@
     {
      "t": "2026-10-18T08:38:13.180337+08:00",
      "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50102480",
+   "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+   "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50102480",
+   "score": 11,
+   "comments": 1,
+   "author": "mbustamanter",
+   "time_iso": "2026-10-15T12:06:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 11
     }
    ]
   },
@@ -280,14 +320,18 @@
    "title": "Fun Extending the C Preprocessor",
    "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
    "hn_url": "https://news.ycombinator.com/item?id=50106792",
-   "score": 27,
-   "comments": 4,
+   "score": 41,
+   "comments": 12,
    "author": "david2ndaccount",
    "time_iso": "2026-10-15T17:08:26+00:00",
    "history": [
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 41
     }
    ]
   },
@@ -296,8 +340,8 @@
    "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
    "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
    "hn_url": "https://news.ycombinator.com/item?id=50110081",
-   "score": 33,
-   "comments": 3,
+   "score": 50,
+   "comments": 7,
    "author": "jacquesm",
    "time_iso": "2026-10-15T20:55:40+00:00",
    "history": [
@@ -308,6 +352,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 50
     }
    ]
   },
@@ -316,8 +364,8 @@
    "title": "Lean now ships with verified kernels",
    "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
    "hn_url": "https://news.ycombinator.com/item?id=50114758",
-   "score": 140,
-   "comments": 47,
+   "score": 171,
+   "comments": 56,
    "author": "matt_d",
    "time_iso": "2026-10-16T06:16:13+00:00",
    "history": [
@@ -328,6 +376,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 140
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 171
     }
    ]
   },
@@ -464,14 +516,18 @@
    "title": "Regex visualized as 3D marble run",
    "url": "https://www.regexmarblerun.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50122671",
-   "score": 3,
-   "comments": 1,
+   "score": 40,
+   "comments": 10,
    "author": "seizethecheese",
    "time_iso": "2026-10-16T18:48:48+00:00",
    "history": [
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 40
     }
    ]
   },
@@ -496,8 +552,8 @@
    "title": "You could have invented transformers from memory",
    "url": "https://alexwang.ai/posts/associative-memory/",
    "hn_url": "https://news.ycombinator.com/item?id=50122878",
-   "score": 567,
-   "comments": 127,
+   "score": 594,
+   "comments": 133,
    "author": "speckx",
    "time_iso": "2026-10-16T19:01:17+00:00",
    "history": [
@@ -524,6 +580,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 567
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 594
     }
    ]
   },
@@ -532,14 +592,18 @@
    "title": "Teal – A statically-typed dialect of Lua",
    "url": "https://teal-language.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50124730",
-   "score": 32,
-   "comments": 7,
+   "score": 78,
+   "comments": 31,
    "author": "Lyngbakr",
    "time_iso": "2026-10-16T21:07:24+00:00",
    "history": [
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 78
     }
    ]
   },
@@ -548,8 +612,8 @@
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "hn_url": "https://news.ycombinator.com/item?id=50126253",
-   "score": 463,
-   "comments": 99,
+   "score": 497,
+   "comments": 105,
    "author": "alkyon",
    "time_iso": "2026-10-16T23:38:27+00:00",
    "history": [
@@ -572,6 +636,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 463
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 497
     }
    ]
   },
@@ -580,8 +648,8 @@
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
    "hn_url": "https://news.ycombinator.com/item?id=50126312",
-   "score": 281,
-   "comments": 66,
+   "score": 311,
+   "comments": 77,
    "author": "sohkamyung",
    "time_iso": "2026-10-16T23:47:31+00:00",
    "history": [
@@ -604,6 +672,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 281
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 311
     }
    ]
   },
@@ -684,8 +756,8 @@
    "title": "DeepSeek-v4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "hn_url": "https://news.ycombinator.com/item?id=50129045",
-   "score": 862,
-   "comments": 656,
+   "score": 906,
+   "comments": 678,
    "author": "theykk",
    "time_iso": "2026-10-17T08:21:25+00:00",
    "history": [
@@ -712,6 +784,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 862
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 906
     }
    ]
   },
@@ -752,7 +828,7 @@
    "title": "Interactive Linear Programming in the Browser",
    "url": "https://lpviz.net/",
    "hn_url": "https://news.ycombinator.com/item?id=50130379",
-   "score": 34,
+   "score": 59,
    "comments": 0,
    "author": "klamike",
    "time_iso": "2026-10-17T12:06:44+00:00",
@@ -764,6 +840,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 34
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 59
     }
    ]
   },
@@ -832,8 +912,8 @@
    "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "hn_url": "https://news.ycombinator.com/item?id=50131213",
-   "score": 305,
-   "comments": 81,
+   "score": 329,
+   "comments": 84,
    "author": "crescit_eundo",
    "time_iso": "2026-10-17T13:55:28+00:00",
    "history": [
@@ -860,6 +940,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 305
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 329
     }
    ]
   },
@@ -900,8 +984,8 @@
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "url": "https://pele.run/",
    "hn_url": "https://news.ycombinator.com/item?id=50132193",
-   "score": 441,
-   "comments": 39,
+   "score": 493,
+   "comments": 46,
    "author": "dchest",
    "time_iso": "2026-10-17T15:55:09+00:00",
    "history": [
@@ -924,6 +1008,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 441
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 493
     }
    ]
   },
@@ -1240,8 +1328,8 @@
    "title": "NY announces game ownership bill requiring ownership rather than licensing",
    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
    "hn_url": "https://news.ycombinator.com/item?id=50136536",
-   "score": 297,
-   "comments": 106,
+   "score": 364,
+   "comments": 163,
    "author": "guiambros",
    "time_iso": "2026-10-18T00:14:22+00:00",
    "history": [
@@ -1252,6 +1340,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 297
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 364
     }
    ]
   },
@@ -1260,8 +1352,8 @@
    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
    "hn_url": "https://news.ycombinator.com/item?id=50137620",
-   "score": 143,
-   "comments": 149,
+   "score": 222,
+   "comments": 263,
    "author": "MaysonL",
    "time_iso": "2026-10-18T03:19:49+00:00",
    "history": [
@@ -1272,6 +1364,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 143
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 222
     }
    ]
   },
@@ -1280,8 +1376,8 @@
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "url": "https://sphinx-six-theta.vercel.app/",
    "hn_url": "https://news.ycombinator.com/item?id=50137950",
-   "score": 133,
-   "comments": 33,
+   "score": 183,
+   "comments": 56,
    "author": "critiquebrowser",
    "time_iso": "2026-10-18T04:33:49+00:00",
    "history": [
@@ -1292,6 +1388,10 @@
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 133
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 183
     }
    ]
   },
@@ -1332,14 +1432,18 @@
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "url": "https://api-docs.deepseek.com/guides/search/",
    "hn_url": "https://news.ycombinator.com/item?id=50138531",
-   "score": 196,
-   "comments": 93,
+   "score": 345,
+   "comments": 169,
    "author": "fagnerbrack",
    "time_iso": "2026-10-18T06:50:36+00:00",
    "history": [
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 196
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 345
     }
    ]
   },
@@ -1348,14 +1452,82 @@
    "title": "Parser Combinators",
    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
    "hn_url": "https://news.ycombinator.com/item?id=50139067",
-   "score": 14,
-   "comments": 1,
+   "score": 93,
+   "comments": 47,
    "author": "schindlabua",
    "time_iso": "2026-10-18T08:19:53+00:00",
    "history": [
     {
      "t": "2026-10-18T18:23:12.443796+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 93
+    }
+   ]
+  },
+  {
+   "id": "hn-50139692",
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "hn_url": "https://news.ycombinator.com/item?id=50139692",
+   "score": 78,
+   "comments": 20,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-18T10:21:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 78
+    }
+   ]
+  },
+  {
+   "id": "hn-50140001",
+   "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+   "url": "https://github.com/0x23/MicroManipulatorStepper",
+   "hn_url": "https://news.ycombinator.com/item?id=50140001",
+   "score": 51,
+   "comments": 5,
+   "author": "_Microft",
+   "time_iso": "2026-10-18T11:16:22+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 51
+    }
+   ]
+  },
+  {
+   "id": "hn-50141053",
+   "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+   "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+   "hn_url": "https://news.ycombinator.com/item?id=50141053",
+   "score": 29,
+   "comments": 19,
+   "author": "Alifatisk",
+   "time_iso": "2026-10-18T13:45:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50141076",
+   "title": "RepRapMicron",
+   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "hn_url": "https://news.ycombinator.com/item?id=50141076",
+   "score": 21,
+   "comments": 1,
+   "author": "RobotToaster",
+   "time_iso": "2026-10-18T13:48:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-18T22:17:46.997684+08:00",
+     "score": 21
     }
    ]
   }

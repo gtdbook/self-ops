@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T18:23:14.561912+08:00",
+ "generated_at": "2026-10-18T22:17:49.084999+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "DeepSeek-v4.1-Flash-1017",
      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-     "meta": "+415 分 / 16.6 小时 · 现 ⭐ 862",
+     "meta": "+459 分 / 20.5 小时 · 现 ⭐ 906",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,15 @@
     {
      "title": "Pele – Mermaid diagrams as themeable SVG",
      "url": "https://pele.run/",
-     "meta": "+375 分 / 14.3 小时 · 现 ⭐ 441",
+     "meta": "+427 分 / 18.2 小时 · 现 ⭐ 493",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Bleached corals thrive within days when touching healthy neighbour",
+     "url": "https://www.nature.com/articles/d41586-026-03266-x",
+     "meta": "+394 分 / 18.2 小时 · 现 ⭐ 497",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -32,17 +40,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Bleached corals thrive within days when touching healthy neighbour",
-     "url": "https://www.nature.com/articles/d41586-026-03266-x",
-     "meta": "+360 分 / 14.3 小时 · 现 ⭐ 463",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Furifont, a Japanese font that shows furigana",
      "url": "https://furifont.antfu.me/",
-     "meta": "+305 分 / 16.6 小时 · 现 ⭐ 350",
+     "meta": "+329 分 / 20.5 小时 · 现 ⭐ 374",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -56,6 +56,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Dam removals are bringing fish back across the northeastern United States",
+     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+     "meta": "+270 分 / 18.2 小时 · 现 ⭐ 311",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Gold is now the top U.S. export",
      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
      "meta": "+249 分 / 14.3 小时 · 现 ⭐ 334",
@@ -64,25 +72,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dam removals are bringing fish back across the northeastern United States",
-     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-     "meta": "+240 分 / 14.3 小时 · 现 ⭐ 281",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Making chicken transparent using Dorito dust",
      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-     "meta": "+169 分 / 16.6 小时 · 现 ⭐ 305",
+     "meta": "+193 分 / 20.5 小时 · 现 ⭐ 329",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "You could have invented transformers from memory",
-     "url": "https://alexwang.ai/posts/associative-memory/",
-     "meta": "+145 分 / 16.6 小时 · 现 ⭐ 567",
+     "title": "NY announces game ownership bill requiring ownership rather than licensing",
+     "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+     "meta": "+181 分 / 8.9 小时 · 现 ⭐ 364",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "jhaizhou-ops/d2r-mobile",
      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-     "meta": "⭐ 3766 · C",
+     "meta": "⭐ 3791 · C",
      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2688 · Python",
+     "meta": "⭐ 2706 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 2113 · JavaScript",
+     "meta": "⭐ 2145 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "deeplethe/solid-glass",
      "url": "https://github.com/deeplethe/solid-glass",
-     "meta": "⭐ 1967 · TypeScript",
+     "meta": "⭐ 2002 · TypeScript",
      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1835 · C#",
+     "meta": "⭐ 1857 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1695 · TypeScript",
+     "meta": "⭐ 1704 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,31 +288,31 @@
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1340 · C++",
+     "meta": "⭐ 1371 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Caho1/open-claude-ui",
-     "url": "https://github.com/Caho1/open-claude-ui",
-     "meta": "⭐ 1170 · TypeScript",
-     "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1160 · Go",
+     "meta": "⭐ 1328 · Go",
      "summary": "Git designed for AI agents.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Caho1/open-claude-ui",
+     "url": "https://github.com/Caho1/open-claude-ui",
+     "meta": "⭐ 1193 · TypeScript",
+     "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "zhuyansen/new-term-radar",
      "url": "https://github.com/zhuyansen/new-term-radar",
-     "meta": "⭐ 1094 · Python",
+     "meta": "⭐ 1098 · Python",
      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,16 +328,16 @@
     {
      "title": "AjncSystem/ShadowOfTheColossus-PC",
      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-     "meta": "⭐ 1020 · C++",
+     "meta": "⭐ 1027 · C++",
      "summary": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "outcrawlai/scout",
-     "url": "https://github.com/outcrawlai/scout",
-     "meta": "⭐ 945 · TypeScript",
-     "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+     "title": "Gathin23/tv-vibehack",
+     "url": "https://github.com/Gathin23/tv-vibehack",
+     "meta": "⭐ 1016 · Java",
+     "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -359,7 +359,7 @@
     {
      "title": "DeepSeek-v4.1-Flash-1017",
      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-     "meta": "⭐ 862 · 💬 656",
+     "meta": "⭐ 906 · 💬 678",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +375,7 @@
     {
      "title": "You could have invented transformers from memory",
      "url": "https://alexwang.ai/posts/associative-memory/",
-     "meta": "⭐ 567 · 💬 127",
+     "meta": "⭐ 594 · 💬 133",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -391,7 +391,7 @@
     {
      "title": "Bleached corals thrive within days when touching healthy neighbour",
      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-     "meta": "⭐ 463 · 💬 99",
+     "meta": "⭐ 497 · 💬 105",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -399,7 +399,23 @@
     {
      "title": "Pele – Mermaid diagrams as themeable SVG",
      "url": "https://pele.run/",
-     "meta": "⭐ 441 · 💬 39",
+     "meta": "⭐ 493 · 💬 46",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Furifont, a Japanese font that shows furigana",
+     "url": "https://furifont.antfu.me/",
+     "meta": "⭐ 374 · 💬 78",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "NY announces game ownership bill requiring ownership rather than licensing",
+     "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+     "meta": "⭐ 364 · 💬 163",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,17 +429,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Furifont, a Japanese font that shows furigana",
-     "url": "https://furifont.antfu.me/",
-     "meta": "⭐ 350 · 💬 70",
+     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+     "url": "https://github.com/cobanov/PS5LM",
+     "meta": "⭐ 350 · 💬 84",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-     "url": "https://github.com/cobanov/PS5LM",
-     "meta": "⭐ 350 · 💬 84",
+     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+     "url": "https://api-docs.deepseek.com/guides/search/",
+     "meta": "⭐ 345 · 💬 169",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -439,15 +455,7 @@
     {
      "title": "Making chicken transparent using Dorito dust",
      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-     "meta": "⭐ 305 · 💬 81",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "NY announces game ownership bill requiring ownership rather than licensing",
-     "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-     "meta": "⭐ 297 · 💬 106",
+     "meta": "⭐ 329 · 💬 84",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -455,15 +463,7 @@
     {
      "title": "Dam removals are bringing fish back across the northeastern United States",
      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-     "meta": "⭐ 281 · 💬 66",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-     "url": "https://llmspeed.dev/",
-     "meta": "⭐ 269 · 💬 78",
+     "meta": "⭐ 311 · 💬 77",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
