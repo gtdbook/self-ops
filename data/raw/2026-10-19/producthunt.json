@@ -1,8 +1,17 @@
 {
  "source": "producthunt",
- "updated_at": "2026-10-19T13:42:51.526479+08:00",
- "count": 92,
+ "updated_at": "2026-10-19T20:06:32.467997+08:00",
+ "count": 119,
  "items": [
+  {
+   "id": "ph-0223c67e40dc2166",
+   "title": "walkai-talkai",
+   "url": "https://www.producthunt.com/products/walkai-talkai",
+   "tagline": "Talk to your AI coding agent over a walkie-talkie",
+   "published": "2026-10-17T14:25:08-07:00",
+   "published_iso": "2026-10-17T21:25:08+00:00",
+   "summary": "Talk to your AI coding agent over a walkie-talkie"
+  },
   {
    "id": "ph-04bd721be7a59304",
    "title": "Popcraft",
@@ -20,6 +29,15 @@
    "published": "2026-10-15T12:08:23-07:00",
    "published_iso": "2026-10-15T19:08:23+00:00",
    "summary": "Instant meetings from your mac menu bar"
+  },
+  {
+   "id": "ph-0aaf7a9cb50071ab",
+   "title": "Lancetta",
+   "url": "https://www.producthunt.com/products/lancetta",
+   "tagline": "Know when to push your coding agents, and when to ease off",
+   "published": "2026-09-18T06:40:37-07:00",
+   "published_iso": "2026-09-18T13:40:37+00:00",
+   "summary": "Know when to push your coding agents, and when to ease off"
   },
   {
    "id": "ph-0c536b72ea1cdaeb",
@@ -130,6 +148,15 @@
    "summary": "Run the best robot AI models over the cloud"
   },
   {
+   "id": "ph-1bd9cd0e13ad6c32",
+   "title": "Wally by Willow",
+   "url": "https://www.producthunt.com/products/willow-voice",
+   "tagline": "Your Scribe agent that learns how you write",
+   "published": "2026-10-16T14:44:53-07:00",
+   "published_iso": "2026-10-16T21:44:53+00:00",
+   "summary": "Your Scribe agent that learns how you write"
+  },
+  {
    "id": "ph-1cbeaa330c4f006a",
    "title": "Agent Vault",
    "url": "https://www.producthunt.com/products/agent-vault-2",
@@ -148,6 +175,15 @@
    "summary": "Smart Meeting Assistant for Mac that helps during the call"
   },
   {
+   "id": "ph-210d1907d6dafd4c",
+   "title": "CrawlForge MCP",
+   "url": "https://www.producthunt.com/products/crawlforge-mcp",
+   "tagline": "Give your AI agent 31 web tools in one MCP server",
+   "published": "2026-10-11T16:38:09-07:00",
+   "published_iso": "2026-10-11T23:38:09+00:00",
+   "summary": "Give your AI agent 31 web tools in one MCP server"
+  },
+  {
    "id": "ph-23b53749cf95dee4",
    "title": "Jockey by TwelveLabs",
    "url": "https://www.producthunt.com/products/twelvelabs",
@@ -155,6 +191,15 @@
    "published": "2026-10-09T01:49:45-07:00",
    "published_iso": "2026-10-09T08:49:45+00:00",
    "summary": "Your entire video library: organized, searchable, understood"
+  },
+  {
+   "id": "ph-255ec7cd3b5ae9db",
+   "title": "Planet-X",
+   "url": "https://www.producthunt.com/products/planet-x",
+   "tagline": "A living globe to explore and remember loved ones",
+   "published": "2026-10-18T06:50:27-07:00",
+   "published_iso": "2026-10-18T13:50:27+00:00",
+   "summary": "A living globe to explore and remember loved ones"
   },
   {
    "id": "ph-270e8475e9989b1b",
@@ -292,6 +337,24 @@
    "summary": "Agent memory with Laya, Jev + Google Gemma"
   },
   {
+   "id": "ph-44c4e5f9fe91a798",
+   "title": "Triwarden",
+   "url": "https://www.producthunt.com/products/triwarden",
+   "tagline": "Native Mac password manager for Vaultwarden & Bitwarden",
+   "published": "2026-10-18T06:59:26-07:00",
+   "published_iso": "2026-10-18T13:59:26+00:00",
+   "summary": "Native Mac password manager for Vaultwarden & Bitwarden"
+  },
+  {
+   "id": "ph-456eacc2060c10f2",
+   "title": "Lookout (for Slack)",
+   "url": "https://www.producthunt.com/products/lookout-for-slack",
+   "tagline": "Urgent Slack messages, handled instantly. Powered by Jev.",
+   "published": "2026-10-16T17:44:10-07:00",
+   "published_iso": "2026-10-17T00:44:10+00:00",
+   "summary": "Urgent Slack messages, handled instantly. Powered by Jev."
+  },
+  {
    "id": "ph-4d80ce6517c4794f",
    "title": "Tower 18 for Mac",
    "url": "https://www.producthunt.com/products/tower",
@@ -308,6 +371,24 @@
    "published": "2026-10-12T05:26:38-07:00",
    "published_iso": "2026-10-12T12:26:38+00:00",
    "summary": "See what your coding agent sends. Mask what you can."
+  },
+  {
+   "id": "ph-50b573b9cea61895",
+   "title": "Quello",
+   "url": "https://www.producthunt.com/products/quello",
+   "tagline": "One place to ask, across everything you already use.",
+   "published": "2026-10-18T13:04:48-07:00",
+   "published_iso": "2026-10-18T20:04:48+00:00",
+   "summary": "One place to ask, across everything you already use."
+  },
+  {
+   "id": "ph-568b48516bba0337",
+   "title": "croft",
+   "url": "https://www.producthunt.com/products/croft-2",
+   "tagline": "Data pipelines in TypeScript, on one DuckDB file",
+   "published": "2026-10-18T21:20:15-07:00",
+   "published_iso": "2026-10-19T04:20:15+00:00",
+   "summary": "Data pipelines in TypeScript, on one DuckDB file"
   },
   {
    "id": "ph-5c363af5239f151f",
@@ -328,6 +409,24 @@
    "summary": "Every coding agent, every machine, one command center."
   },
   {
+   "id": "ph-5d37bd5d0caa6df3",
+   "title": "readywhen",
+   "url": "https://www.producthunt.com/products/readywhen",
+   "tagline": "The senior personal assistant that works inside WhatsApp",
+   "published": "2026-10-13T02:05:46-07:00",
+   "published_iso": "2026-10-13T09:05:46+00:00",
+   "summary": "The senior personal assistant that works inside WhatsApp"
+  },
+  {
+   "id": "ph-5d4fe356627a7076",
+   "title": "Kai Resolve by Gleap",
+   "url": "https://www.producthunt.com/products/gleap",
+   "tagline": "Support that does the digging for you.",
+   "published": "2026-10-12T02:37:41-07:00",
+   "published_iso": "2026-10-12T09:37:41+00:00",
+   "summary": "Support that does the digging for you."
+  },
+  {
    "id": "ph-5dc61c4f7ceb7aec",
    "title": "Tidy Design",
    "url": "https://www.producthunt.com/products/tidy-design",
@@ -346,6 +445,15 @@
    "summary": "Lecture & meeting notes, written on your device"
   },
   {
+   "id": "ph-6074338d2306f3c7",
+   "title": "DoOne",
+   "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+   "tagline": "Focus timer with integrations with GitHub, Gitlab & More",
+   "published": "2026-10-16T00:06:10-07:00",
+   "published_iso": "2026-10-16T07:06:10+00:00",
+   "summary": "Focus timer with integrations with GitHub, Gitlab & More"
+  },
+  {
    "id": "ph-60ea8c2d10b0fd78",
    "title": "Openbroca",
    "url": "https://www.producthunt.com/products/openbroca",
@@ -353,6 +461,15 @@
    "published": "2026-10-12T10:32:18-07:00",
    "published_iso": "2026-10-12T17:32:18+00:00",
    "summary": "Lightweight AI dictation for Mac that sounds like you"
+  },
+  {
+   "id": "ph-63c4f0dcfdcfeec1",
+   "title": "AutoChart.eu",
+   "url": "https://www.producthunt.com/products/autochart-eu",
+   "tagline": "Turn any song into a full-band chart for YARG and Clone Hero",
+   "published": "2026-10-18T12:22:44-07:00",
+   "published_iso": "2026-10-18T19:22:44+00:00",
+   "summary": "Turn any song into a full-band chart for YARG and Clone Hero"
   },
   {
    "id": "ph-6464b7e4b0f4247c",
@@ -445,6 +562,15 @@
    "summary": "The linter and formatter for agentic development"
   },
   {
+   "id": "ph-7b34008d53ca1989",
+   "title": "Beam.win",
+   "url": "https://www.producthunt.com/products/beam-win",
+   "tagline": "Run AI agents on one Mac and use its windows on another",
+   "published": "2026-10-18T12:13:45-07:00",
+   "published_iso": "2026-10-18T19:13:45+00:00",
+   "summary": "Run AI agents on one Mac and use its windows on another"
+  },
+  {
    "id": "ph-8240412364b4b48a",
    "title": "Audimate",
    "url": "https://www.producthunt.com/products/audimate",
@@ -461,6 +587,15 @@
    "published": "2026-10-05T02:43:13-07:00",
    "published_iso": "2026-10-05T09:43:13+00:00",
    "summary": "Automated actions for meeting deliverables"
+  },
+  {
+   "id": "ph-8d901cfad1c18b37",
+   "title": "Lazy AWS",
+   "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
+   "tagline": "A keyboard-driven home for your AWS resources",
+   "published": "2026-10-15T23:08:32-07:00",
+   "published_iso": "2026-10-16T06:08:32+00:00",
+   "summary": "A keyboard-driven home for your AWS resources"
   },
   {
    "id": "ph-91bcd837de6c2b58",
@@ -508,6 +643,24 @@
    "summary": "A home for your agents"
   },
   {
+   "id": "ph-a4188103528e0297",
+   "title": "face2social",
+   "url": "https://www.producthunt.com/products/face2social",
+   "tagline": "Search By Face. Know Who's Real.",
+   "published": "2026-09-23T13:15:43-07:00",
+   "published_iso": "2026-09-23T20:15:43+00:00",
+   "summary": "Search By Face. Know Who's Real."
+  },
+  {
+   "id": "ph-a732a627bea597c0",
+   "title": "Starkomand",
+   "url": "https://www.producthunt.com/products/starkomand",
+   "tagline": "Run your AI coding agents on an infinite canvas.",
+   "published": "2026-10-17T00:14:53-07:00",
+   "published_iso": "2026-10-17T07:14:53+00:00",
+   "summary": "Run your AI coding agents on an infinite canvas."
+  },
+  {
    "id": "ph-a73f8d45977aeb76",
    "title": "GPU Terminal by Context.dev",
    "url": "https://www.producthunt.com/products/context-dev",
@@ -533,6 +686,15 @@
    "published": "2026-10-15T19:49:42-07:00",
    "published_iso": "2026-10-16T02:49:42+00:00",
    "summary": "The hypercar that flies"
+  },
+  {
+   "id": "ph-adce17aa4f18f6f6",
+   "title": "CoolDock",
+   "url": "https://www.producthunt.com/products/cooldock-2",
+   "tagline": "A smart second Dock for your Mac with 160+ live widgets.",
+   "published": "2026-10-17T03:12:00-07:00",
+   "published_iso": "2026-10-17T10:12:00+00:00",
+   "summary": "A smart second Dock for your Mac with 160+ live widgets."
   },
   {
    "id": "ph-afac972683cde28b",
@@ -715,6 +877,15 @@
    "summary": "See why your Mac is slow, with the evidence and the fix"
   },
   {
+   "id": "ph-d58db2284003c73f",
+   "title": "Beam",
+   "url": "https://www.producthunt.com/products/beam-13",
+   "tagline": "Highly efficient agentic 501B parameter open model",
+   "published": "2026-10-05T17:17:47-07:00",
+   "published_iso": "2026-10-06T00:17:47+00:00",
+   "summary": "Highly efficient agentic 501B parameter open model"
+  },
+  {
    "id": "ph-d70fe09b06e0461a",
    "title": "Nemotron 3.5 Super VL",
    "url": "https://www.producthunt.com/products/nvidia",
@@ -733,6 +904,15 @@
    "summary": "Your Obsidian vault as a living profile and linked garden"
   },
   {
+   "id": "ph-dc830ed536579825",
+   "title": "Own 1",
+   "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+   "tagline": "Own your data. Own your AI. A mind of your own.",
+   "published": "2026-10-18T01:46:56-07:00",
+   "published_iso": "2026-10-18T08:46:56+00:00",
+   "summary": "Own your data. Own your AI. A mind of your own."
+  },
+  {
    "id": "ph-dcf91714e9a8b526",
    "title": "Step 5 Preview",
    "url": "https://www.producthunt.com/products/step-3-5-flash",
@@ -740,6 +920,15 @@
    "published": "2026-10-16T08:06:14-07:00",
    "published_iso": "2026-10-16T15:06:14+00:00",
    "summary": "600B open weights, trained for long-running agents"
+  },
+  {
+   "id": "ph-dd81f564f36e72eb",
+   "title": "Point and Yap",
+   "url": "https://www.producthunt.com/products/point-and-yap",
+   "tagline": "Point at your screen and start yapping to your agent via MCP",
+   "published": "2026-10-18T17:12:27-07:00",
+   "published_iso": "2026-10-19T00:12:27+00:00",
+   "summary": "Point at your screen and start yapping to your agent via MCP"
   },
   {
    "id": "ph-e0365e2ebd864078",
@@ -778,6 +967,15 @@
    "summary": "See what you'll build before you connect a data source"
   },
   {
+   "id": "ph-f0cbc914304cb535",
+   "title": "Umbra Mail",
+   "url": "https://www.producthunt.com/products/umbra-mail",
+   "tagline": "A calmer Gmail where emails look like chat threads",
+   "published": "2026-10-18T16:11:35-07:00",
+   "published_iso": "2026-10-18T23:11:35+00:00",
+   "summary": "A calmer Gmail where emails look like chat threads"
+  },
+  {
    "id": "ph-f0f27101f20de66b",
    "title": "SpeechFast",
    "url": "https://www.producthunt.com/products/speechfast",
@@ -796,6 +994,15 @@
    "summary": "Study a chess position, then rebuild it from memory"
   },
   {
+   "id": "ph-f90d944894c0f4fe",
+   "title": "Tori",
+   "url": "https://www.producthunt.com/products/tori-3",
+   "tagline": "The smartest AI support agent for customer success",
+   "published": "2026-10-16T05:24:54-07:00",
+   "published_iso": "2026-10-16T12:24:54+00:00",
+   "summary": "The smartest AI support agent for customer success"
+  },
+  {
    "id": "ph-f9a0ac1cfd9a1243",
    "title": "Pomerado",
    "url": "https://www.producthunt.com/products/pomerado",
@@ -803,6 +1010,24 @@
    "published": "2026-10-12T01:56:29-07:00",
    "published_iso": "2026-10-12T08:56:29+00:00",
    "summary": "Turn any website into an API; Faster & reliable browser use"
+  },
+  {
+   "id": "ph-fa6e245d0257be9e",
+   "title": "buddylist",
+   "url": "https://www.producthunt.com/products/buddylist-2",
+   "tagline": "Chat with your coding agents like it's 2005",
+   "published": "2026-10-14T09:47:59-07:00",
+   "published_iso": "2026-10-14T16:47:59+00:00",
+   "summary": "Chat with your coding agents like it's 2005"
+  },
+  {
+   "id": "ph-fa7aff45945e3776",
+   "title": "Framefields",
+   "url": "https://www.producthunt.com/products/framefields",
+   "tagline": "Open-source code-first video for AGI era",
+   "published": "2026-10-16T07:58:02-07:00",
+   "published_iso": "2026-10-16T14:58:02+00:00",
+   "summary": "Open-source code-first video for AGI era"
   },
   {
    "id": "ph-fbdb16a014755e39",
@@ -830,6 +1055,24 @@
    "published": "2026-10-15T03:46:22-07:00",
    "published_iso": "2026-10-15T10:46:22+00:00",
    "summary": "Your interpreter and your boss doesn't even know."
+  },
+  {
+   "id": "ph-ff6594c813123292",
+   "title": "Figma Specs",
+   "url": "https://www.producthunt.com/products/figma",
+   "tagline": "A container for your context that lives on the Figma canvas",
+   "published": "2026-10-18T20:21:43-07:00",
+   "published_iso": "2026-10-19T03:21:43+00:00",
+   "summary": "A container for your context that lives on the Figma canvas"
+  },
+  {
+   "id": "ph-ff819f6cd8c896b0",
+   "title": "Switch Lab",
+   "url": "https://www.producthunt.com/products/switch-lab",
+   "tagline": "Hear and type on keyboard switches before you buy them",
+   "published": "2026-10-18T13:21:10-07:00",
+   "published_iso": "2026-10-18T20:21:10+00:00",
+   "summary": "Hear and type on keyboard switches before you buy them"
   }
  ]
 }

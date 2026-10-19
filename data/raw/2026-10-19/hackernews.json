@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-19T13:42:49.933700+08:00",
- "count": 59,
+ "updated_at": "2026-10-19T20:06:30.962949+08:00",
+ "count": 68,
  "items": [
   {
    "id": "hn-50090927",
@@ -124,6 +124,22 @@
    ]
   },
   {
+   "id": "hn-50104874",
+   "title": "How to Train Your Robot",
+   "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "hn_url": "https://news.ycombinator.com/item?id=50104874",
+   "score": 63,
+   "comments": 18,
+   "author": "crescit_eundo",
+   "time_iso": "2026-10-15T15:13:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 63
+    }
+   ]
+  },
+  {
    "id": "hn-50108165",
    "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
    "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
@@ -144,8 +160,8 @@
    "title": "Laptop Based on 6502 CPU",
    "url": "https://www.maddox.pro/?p=448",
    "hn_url": "https://news.ycombinator.com/item?id=50111537",
-   "score": 73,
-   "comments": 30,
+   "score": 146,
+   "comments": 70,
    "author": "nanochess",
    "time_iso": "2026-10-15T22:56:23+00:00",
    "history": [
@@ -156,6 +172,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 73
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 146
     }
    ]
   },
@@ -272,18 +292,38 @@
    ]
   },
   {
+   "id": "hn-50124811",
+   "title": "Gdynia and the Dream of a Maritime Poland",
+   "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+   "hn_url": "https://news.ycombinator.com/item?id=50124811",
+   "score": 13,
+   "comments": 1,
+   "author": "lermontov",
+   "time_iso": "2026-10-16T21:13:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
    "id": "hn-50125551",
    "title": "The DNS Museum",
    "url": "https://dns.museum",
    "hn_url": "https://news.ycombinator.com/item?id=50125551",
-   "score": 39,
-   "comments": 4,
+   "score": 91,
+   "comments": 11,
    "author": "zdw",
    "time_iso": "2026-10-16T22:21:34+00:00",
    "history": [
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 39
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 91
     }
    ]
   },
@@ -344,14 +384,18 @@
    "title": "Rabbits were a medieval royal luxury in England until the Black Death",
    "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
    "hn_url": "https://news.ycombinator.com/item?id=50131315",
-   "score": 4,
-   "comments": 0,
+   "score": 99,
+   "comments": 95,
    "author": "samizdis",
    "time_iso": "2026-10-17T14:07:36+00:00",
    "history": [
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 99
     }
    ]
   },
@@ -360,8 +404,8 @@
    "title": "I built a programming language that LLMs can't use",
    "url": "https://blog.picheta.me/post/killswitch-lang/",
    "hn_url": "https://news.ycombinator.com/item?id=50135762",
-   "score": 128,
-   "comments": 99,
+   "score": 215,
+   "comments": 169,
    "author": "dom96",
    "time_iso": "2026-10-17T22:26:47+00:00",
    "history": [
@@ -376,6 +420,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 128
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 215
     }
    ]
   },
@@ -408,8 +456,8 @@
    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "hn_url": "https://news.ycombinator.com/item?id=50136150",
-   "score": 270,
-   "comments": 318,
+   "score": 404,
+   "comments": 508,
    "author": "mdp2021",
    "time_iso": "2026-10-17T23:26:35+00:00",
    "history": [
@@ -424,6 +472,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 270
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 404
     }
    ]
   },
@@ -432,8 +484,8 @@
    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
    "hn_url": "https://news.ycombinator.com/item?id=50136979",
-   "score": 180,
-   "comments": 107,
+   "score": 267,
+   "comments": 159,
    "author": "gmays",
    "time_iso": "2026-10-18T01:38:08+00:00",
    "history": [
@@ -448,6 +500,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 180
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 267
     }
    ]
   },
@@ -672,8 +728,8 @@
    "title": "RepRapMicron",
    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
    "hn_url": "https://news.ycombinator.com/item?id=50141076",
-   "score": 360,
-   "comments": 56,
+   "score": 405,
+   "comments": 64,
    "author": "RobotToaster",
    "time_iso": "2026-10-18T13:48:48+00:00",
    "history": [
@@ -696,6 +752,26 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 360
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 405
+    }
+   ]
+  },
+  {
+   "id": "hn-50141436",
+   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+   "url": "https://ranet3.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50141436",
+   "score": 30,
+   "comments": 7,
+   "author": "StepBroBD",
+   "time_iso": "2026-10-18T14:31:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 30
     }
    ]
   },
@@ -820,8 +896,8 @@
    "title": "Someone behind the software",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
    "hn_url": "https://news.ycombinator.com/item?id=50142573",
-   "score": 380,
-   "comments": 150,
+   "score": 472,
+   "comments": 171,
    "author": "tosh",
    "time_iso": "2026-10-18T16:32:00+00:00",
    "history": [
@@ -844,6 +920,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 380
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 472
     }
    ]
   },
@@ -908,8 +988,8 @@
    "title": "PalmOS Lemmings",
    "url": "https://github.com/ardiri/palmos-lemmings",
    "hn_url": "https://news.ycombinator.com/item?id=50143536",
-   "score": 109,
-   "comments": 24,
+   "score": 135,
+   "comments": 33,
    "author": "memalign",
    "time_iso": "2026-10-18T17:56:59+00:00",
    "history": [
@@ -928,6 +1008,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 135
     }
    ]
   },
@@ -972,8 +1056,8 @@
    "title": "Free Pascal compiler now supports dynamic packages",
    "url": "https://www.getlazarus.org/dynamic/",
    "hn_url": "https://news.ycombinator.com/item?id=50144066",
-   "score": 136,
-   "comments": 31,
+   "score": 168,
+   "comments": 41,
    "author": "sysrpl",
    "time_iso": "2026-10-18T18:48:04+00:00",
    "history": [
@@ -992,6 +1076,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 136
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 168
     }
    ]
   },
@@ -1016,8 +1104,8 @@
    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
    "url": "https://arxiv.org/abs/2610.18861",
    "hn_url": "https://news.ycombinator.com/item?id=50145337",
-   "score": 304,
-   "comments": 162,
+   "score": 432,
+   "comments": 214,
    "author": "allinonai",
    "time_iso": "2026-10-18T20:48:14+00:00",
    "history": [
@@ -1032,6 +1120,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 304
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 432
     }
    ]
   },
@@ -1040,8 +1132,8 @@
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "hn_url": "https://news.ycombinator.com/item?id=50145507",
-   "score": 95,
-   "comments": 72,
+   "score": 203,
+   "comments": 149,
    "author": "amrrs",
    "time_iso": "2026-10-18T21:09:12+00:00",
    "history": [
@@ -1052,6 +1144,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 95
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 203
     }
    ]
   },
@@ -1060,8 +1156,8 @@
    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
    "url": "https://github.com/finereli/whatsapp-mcp",
    "hn_url": "https://news.ycombinator.com/item?id=50145715",
-   "score": 76,
-   "comments": 41,
+   "score": 115,
+   "comments": 66,
    "author": "zoozla",
    "time_iso": "2026-10-18T21:36:10+00:00",
    "history": [
@@ -1076,6 +1172,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 76
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 115
     }
    ]
   },
@@ -1084,14 +1184,18 @@
    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
    "hn_url": "https://news.ycombinator.com/item?id=50146624",
-   "score": 45,
-   "comments": 40,
+   "score": 81,
+   "comments": 90,
    "author": "gmays",
    "time_iso": "2026-10-18T23:37:54+00:00",
    "history": [
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 45
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 81
     }
    ]
   },
@@ -1100,8 +1204,8 @@
    "title": "William Gibson and the trademarking of cyberspace",
    "url": "https://colo.to/cyberspace.html",
    "hn_url": "https://news.ycombinator.com/item?id=50146625",
-   "score": 123,
-   "comments": 32,
+   "score": 200,
+   "comments": 84,
    "author": "Eric_Gullichsen",
    "time_iso": "2026-10-18T23:37:57+00:00",
    "history": [
@@ -1112,6 +1216,10 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 123
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 200
     }
    ]
   },
@@ -1152,14 +1260,18 @@
    "title": "Superlite: A Faster Alternatie to Superpowers",
    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
    "hn_url": "https://news.ycombinator.com/item?id=50147492",
-   "score": 41,
-   "comments": 17,
+   "score": 105,
+   "comments": 44,
    "author": "iheatuchriswogu",
    "time_iso": "2026-10-19T02:01:16+00:00",
    "history": [
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 105
     }
    ]
   },
@@ -1208,6 +1320,102 @@
     {
      "t": "2026-10-19T13:42:49.933700+08:00",
      "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-50148855",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "hn_url": "https://news.ycombinator.com/item?id=50148855",
+   "score": 60,
+   "comments": 34,
+   "author": "ankitg12",
+   "time_iso": "2026-10-19T05:55:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50149392",
+   "title": "Linux 7.3 Released",
+   "url": "https://lwn.net/Articles/1101143/",
+   "hn_url": "https://news.ycombinator.com/item?id=50149392",
+   "score": 294,
+   "comments": 130,
+   "author": "cjd8",
+   "time_iso": "2026-10-19T07:23:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 294
+    }
+   ]
+  },
+  {
+   "id": "hn-50150434",
+   "title": "Timestral: Mistral release time-series foundation models",
+   "url": "https://mistral.ai/news/timestral/",
+   "hn_url": "https://news.ycombinator.com/item?id=50150434",
+   "score": 66,
+   "comments": 14,
+   "author": "groar",
+   "time_iso": "2026-10-19T09:59:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 66
+    }
+   ]
+  },
+  {
+   "id": "hn-50150750",
+   "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+   "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+   "hn_url": "https://news.ycombinator.com/item?id=50150750",
+   "score": 55,
+   "comments": 16,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-19T10:45:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-50150809",
+   "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+   "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+   "hn_url": "https://news.ycombinator.com/item?id=50150809",
+   "score": 25,
+   "comments": 2,
+   "author": "gslin",
+   "time_iso": "2026-10-19T10:53:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50150935",
+   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+   "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+   "hn_url": "https://news.ycombinator.com/item?id=50150935",
+   "score": 5,
+   "comments": 0,
+   "author": "rbanffy",
+   "time_iso": "2026-10-19T11:12:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T20:06:30.962949+08:00",
+     "score": 5
     }
    ]
   }
