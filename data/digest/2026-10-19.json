@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T08:47:56.997584+08:00",
+ "generated_at": "2026-10-19T13:42:51.651694+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Someone behind the software",
      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "meta": "+257 分 / 7.0 小时 · 现 ⭐ 299",
+     "meta": "+338 分 / 11.9 小时 · 现 ⭐ 380",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,9 +24,41 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+     "meta": "+198 分 / 7.0 小时 · 现 ⭐ 270",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "url": "https://arxiv.org/abs/2610.18861",
+     "meta": "+198 分 / 7.0 小时 · 现 ⭐ 304",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "RepRapMicron",
      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-     "meta": "+120 分 / 7.0 小时 · 现 ⭐ 325",
+     "meta": "+155 分 / 11.9 小时 · 现 ⭐ 360",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Free Pascal compiler now supports dynamic packages",
+     "url": "https://www.getlazarus.org/dynamic/",
+     "meta": "+109 分 / 9.6 小时 · 现 ⭐ 136",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+     "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+     "meta": "+101 分 / 7.0 小时 · 现 ⭐ 180",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,17 +72,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "I electrified my push scooter with a power drill",
-     "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-     "meta": "+90 分 / 4.9 小时 · 现 ⭐ 101",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Free Pascal compiler now supports dynamic packages",
-     "url": "https://www.getlazarus.org/dynamic/",
-     "meta": "+78 分 / 4.7 小时 · 现 ⭐ 105",
+     "title": "William Gibson and the trademarking of cyberspace",
+     "url": "https://colo.to/cyberspace.html",
+     "meta": "+101 分 / 4.9 小时 · 现 ⭐ 123",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,31 +82,7 @@
     {
      "title": "Java sealed classes and exhaustive pattern matching",
      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-     "meta": "+75 分 / 7.0 小时 · 现 ⭐ 132",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-     "url": "https://arxiv.org/abs/2610.18861",
-     "meta": "+75 分 / 2.0 小时 · 现 ⭐ 181",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "meta": "+70 分 / 2.0 小时 · 现 ⭐ 142",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-     "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-     "meta": "+69 分 / 4.9 小时 · 现 ⭐ 346",
+     "meta": "+97 分 / 11.9 小时 · 现 ⭐ 154",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -232,15 +232,23 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2767 · Python",
+     "meta": "⭐ 3069 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Gathin23/tv-vibehack",
+     "url": "https://github.com/Gathin23/tv-vibehack",
+     "meta": "⭐ 2470 · Java",
+     "summary": "Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 2297 · Go",
+     "meta": "⭐ 2319 · Go",
      "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +256,7 @@
     {
      "title": "HeyPuter/everything",
      "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 2218 · JavaScript",
+     "meta": "⭐ 2242 · JavaScript",
      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
@@ -262,17 +270,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Gathin23/tv-vibehack",
-     "url": "https://github.com/Gathin23/tv-vibehack",
-     "meta": "⭐ 1983 · Java",
-     "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1898 · C#",
+     "meta": "⭐ 1926 · C#",
      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1730 · TypeScript",
+     "meta": "⭐ 1743 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1449 · C++",
+     "meta": "⭐ 1474 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +296,7 @@
     {
      "title": "Caho1/open-claude-ui",
      "url": "https://github.com/Caho1/open-claude-ui",
-     "meta": "⭐ 1207 · TypeScript",
+     "meta": "⭐ 1217 · TypeScript",
      "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
@@ -318,6 +318,14 @@
      "origin_source": "github_search"
     },
     {
+     "title": "ly05010419/MacNativeGames",
+     "url": "https://github.com/ly05010419/MacNativeGames",
+     "meta": "⭐ 1073 · C",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "AjncSystem/ShadowOfTheColossus-PC",
      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
      "meta": "⭐ 1067 · C++",
@@ -328,16 +336,8 @@
     {
      "title": "outcrawlai/scout",
      "url": "https://github.com/outcrawlai/scout",
-     "meta": "⭐ 945 · TypeScript",
+     "meta": "⭐ 946 · TypeScript",
      "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "xscreensaver-official/xscreensaver",
-     "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 863",
-     "summary": "There is no official XScreenSaver GitHub repository.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -373,6 +373,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Someone behind the software",
+     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+     "meta": "⭐ 380 · 💬 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "RepRapMicron",
+     "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+     "meta": "⭐ 360 · 💬 56",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
      "meta": "⭐ 346 · 💬 484",
@@ -381,17 +397,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "RepRapMicron",
-     "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-     "meta": "⭐ 325 · 💬 52",
+     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "url": "https://arxiv.org/abs/2610.18861",
+     "meta": "⭐ 304 · 💬 162",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Someone behind the software",
-     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "meta": "⭐ 299 · 💬 121",
+     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+     "meta": "⭐ 270 · 💬 318",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,9 +445,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-     "url": "https://arxiv.org/abs/2610.18861",
-     "meta": "⭐ 181 · 💬 109",
+     "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+     "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+     "meta": "⭐ 180 · 💬 107",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,25 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-     "url": "https://legendofhyrule.com/",
-     "meta": "⭐ 149 · 💬 88",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "meta": "⭐ 142 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Teal – A statically-typed dialect of Lua",
-     "url": "https://teal-language.org/",
-     "meta": "⭐ 137 · 💬 60",
+     "title": "Java sealed classes and exhaustive pattern matching",
+     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+     "meta": "⭐ 154 · 💬 110",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -496,6 +496,14 @@
      "url": "https://www.producthunt.com/products/inbox-zero-2",
      "meta": "Product Hunt · 2026-10-10",
      "summary": "Open-source Superhuman alternative",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Calenteri",
+     "url": "https://www.producthunt.com/products/calenteri",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "SaaS where a user can can book appointments to other users.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -584,14 +592,6 @@
      "url": "https://www.producthunt.com/products/agent-vault-2",
      "meta": "Product Hunt · 2026-10-14",
      "summary": "Superpowers for your Agents",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Parrot",
-     "url": "https://www.producthunt.com/products/parrot-10",
-     "meta": "Product Hunt · 2026-09-24",
-     "summary": "Smart Meeting Assistant for Mac that helps during the call",
      "reason": null,
      "origin_source": "producthunt"
     }

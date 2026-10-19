@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-19T08:47:54.801557+08:00",
- "count": 50,
+ "updated_at": "2026-10-19T13:42:49.933700+08:00",
+ "count": 59,
  "items": [
   {
    "id": "hn-50090927",
@@ -144,14 +144,18 @@
    "title": "Laptop Based on 6502 CPU",
    "url": "https://www.maddox.pro/?p=448",
    "hn_url": "https://news.ycombinator.com/item?id=50111537",
-   "score": 12,
-   "comments": 0,
+   "score": 73,
+   "comments": 30,
    "author": "nanochess",
    "time_iso": "2026-10-15T22:56:23+00:00",
    "history": [
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 73
     }
    ]
   },
@@ -192,8 +196,8 @@
    "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
    "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
    "hn_url": "https://news.ycombinator.com/item?id=50122058",
-   "score": 43,
-   "comments": 9,
+   "score": 64,
+   "comments": 13,
    "author": "zoobab",
    "time_iso": "2026-10-16T18:07:44+00:00",
    "history": [
@@ -204,6 +208,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 43
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 64
     }
    ]
   },
@@ -228,14 +236,18 @@
    "title": "\"Traditional, but Puzzling\"",
    "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
    "hn_url": "https://news.ycombinator.com/item?id=50123123",
-   "score": 15,
-   "comments": 0,
+   "score": 34,
+   "comments": 6,
    "author": "colinprince",
    "time_iso": "2026-10-16T19:17:23+00:00",
    "history": [
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 34
     }
    ]
   },
@@ -256,6 +268,22 @@
     {
      "t": "2026-10-19T04:05:15.825951+08:00",
      "score": 137
+    }
+   ]
+  },
+  {
+   "id": "hn-50125551",
+   "title": "The DNS Museum",
+   "url": "https://dns.museum",
+   "hn_url": "https://news.ycombinator.com/item?id=50125551",
+   "score": 39,
+   "comments": 4,
+   "author": "zdw",
+   "time_iso": "2026-10-16T22:21:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 39
     }
    ]
   },
@@ -312,12 +340,28 @@
    ]
   },
   {
+   "id": "hn-50131315",
+   "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+   "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50131315",
+   "score": 4,
+   "comments": 0,
+   "author": "samizdis",
+   "time_iso": "2026-10-17T14:07:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
    "id": "hn-50135762",
    "title": "I built a programming language that LLMs can't use",
    "url": "https://blog.picheta.me/post/killswitch-lang/",
    "hn_url": "https://news.ycombinator.com/item?id=50135762",
-   "score": 67,
-   "comments": 61,
+   "score": 128,
+   "comments": 99,
    "author": "dom96",
    "time_iso": "2026-10-17T22:26:47+00:00",
    "history": [
@@ -328,6 +372,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 128
     }
    ]
   },
@@ -360,8 +408,8 @@
    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "hn_url": "https://news.ycombinator.com/item?id=50136150",
-   "score": 142,
-   "comments": 84,
+   "score": 270,
+   "comments": 318,
    "author": "mdp2021",
    "time_iso": "2026-10-17T23:26:35+00:00",
    "history": [
@@ -372,6 +420,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 142
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 270
     }
    ]
   },
@@ -380,8 +432,8 @@
    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
    "hn_url": "https://news.ycombinator.com/item?id=50136979",
-   "score": 117,
-   "comments": 73,
+   "score": 180,
+   "comments": 107,
    "author": "gmays",
    "time_iso": "2026-10-18T01:38:08+00:00",
    "history": [
@@ -392,6 +444,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 117
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 180
     }
    ]
   },
@@ -556,14 +612,18 @@
    "title": "A new way to think about borrow checking (in reverse)",
    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
    "hn_url": "https://news.ycombinator.com/item?id=50140383",
-   "score": 15,
-   "comments": 3,
+   "score": 44,
+   "comments": 5,
    "author": "verdagon",
    "time_iso": "2026-10-18T12:11:13+00:00",
    "history": [
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 44
     }
    ]
   },
@@ -612,8 +672,8 @@
    "title": "RepRapMicron",
    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
    "hn_url": "https://news.ycombinator.com/item?id=50141076",
-   "score": 325,
-   "comments": 52,
+   "score": 360,
+   "comments": 56,
    "author": "RobotToaster",
    "time_iso": "2026-10-18T13:48:48+00:00",
    "history": [
@@ -632,6 +692,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 325
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 360
     }
    ]
   },
@@ -640,8 +704,8 @@
    "title": "Java sealed classes and exhaustive pattern matching",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
    "hn_url": "https://news.ycombinator.com/item?id=50141579",
-   "score": 132,
-   "comments": 101,
+   "score": 154,
+   "comments": 110,
    "author": "hnisjafx40",
    "time_iso": "2026-10-18T14:47:37+00:00",
    "history": [
@@ -660,6 +724,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 132
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 154
     }
    ]
   },
@@ -752,8 +820,8 @@
    "title": "Someone behind the software",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
    "hn_url": "https://news.ycombinator.com/item?id=50142573",
-   "score": 299,
-   "comments": 121,
+   "score": 380,
+   "comments": 150,
    "author": "tosh",
    "time_iso": "2026-10-18T16:32:00+00:00",
    "history": [
@@ -772,6 +840,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 299
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 380
     }
    ]
   },
@@ -836,8 +908,8 @@
    "title": "PalmOS Lemmings",
    "url": "https://github.com/ardiri/palmos-lemmings",
    "hn_url": "https://news.ycombinator.com/item?id=50143536",
-   "score": 85,
-   "comments": 23,
+   "score": 109,
+   "comments": 24,
    "author": "memalign",
    "time_iso": "2026-10-18T17:56:59+00:00",
    "history": [
@@ -852,6 +924,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 109
     }
    ]
   },
@@ -896,8 +972,8 @@
    "title": "Free Pascal compiler now supports dynamic packages",
    "url": "https://www.getlazarus.org/dynamic/",
    "hn_url": "https://news.ycombinator.com/item?id=50144066",
-   "score": 105,
-   "comments": 18,
+   "score": 136,
+   "comments": 31,
    "author": "sysrpl",
    "time_iso": "2026-10-18T18:48:04+00:00",
    "history": [
@@ -912,6 +988,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 105
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 136
     }
    ]
   },
@@ -936,8 +1016,8 @@
    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
    "url": "https://arxiv.org/abs/2610.18861",
    "hn_url": "https://news.ycombinator.com/item?id=50145337",
-   "score": 181,
-   "comments": 109,
+   "score": 304,
+   "comments": 162,
    "author": "allinonai",
    "time_iso": "2026-10-18T20:48:14+00:00",
    "history": [
@@ -948,6 +1028,10 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 181
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 304
     }
    ]
   },
@@ -956,14 +1040,18 @@
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "hn_url": "https://news.ycombinator.com/item?id=50145507",
-   "score": 7,
-   "comments": 3,
+   "score": 95,
+   "comments": 72,
    "author": "amrrs",
    "time_iso": "2026-10-18T21:09:12+00:00",
    "history": [
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 7
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 95
     }
    ]
   },
@@ -972,8 +1060,8 @@
    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
    "url": "https://github.com/finereli/whatsapp-mcp",
    "hn_url": "https://news.ycombinator.com/item?id=50145715",
-   "score": 32,
-   "comments": 21,
+   "score": 76,
+   "comments": 41,
    "author": "zoozla",
    "time_iso": "2026-10-18T21:36:10+00:00",
    "history": [
@@ -984,6 +1072,26 @@
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 76
+    }
+   ]
+  },
+  {
+   "id": "hn-50146624",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "hn_url": "https://news.ycombinator.com/item?id=50146624",
+   "score": 45,
+   "comments": 40,
+   "author": "gmays",
+   "time_iso": "2026-10-18T23:37:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 45
     }
    ]
   },
@@ -992,14 +1100,114 @@
    "title": "William Gibson and the trademarking of cyberspace",
    "url": "https://colo.to/cyberspace.html",
    "hn_url": "https://news.ycombinator.com/item?id=50146625",
-   "score": 22,
-   "comments": 0,
+   "score": 123,
+   "comments": 32,
    "author": "Eric_Gullichsen",
    "time_iso": "2026-10-18T23:37:57+00:00",
    "history": [
     {
      "t": "2026-10-19T08:47:54.801557+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 123
+    }
+   ]
+  },
+  {
+   "id": "hn-50146966",
+   "title": "Sanity's Edge – A voice BBS from 1994",
+   "url": "https://sanitys-edge.shouden.us",
+   "hn_url": "https://news.ycombinator.com/item?id=50146966",
+   "score": 17,
+   "comments": 0,
+   "author": "indigodaddy",
+   "time_iso": "2026-10-19T00:30:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50147455",
+   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+   "hn_url": "https://news.ycombinator.com/item?id=50147455",
+   "score": 69,
+   "comments": 24,
+   "author": "anigbrowl",
+   "time_iso": "2026-10-19T01:55:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50147492",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "hn_url": "https://news.ycombinator.com/item?id=50147492",
+   "score": 41,
+   "comments": 17,
+   "author": "iheatuchriswogu",
+   "time_iso": "2026-10-19T02:01:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50148356",
+   "title": "Show HN: Yila – A Codex for Scientific Research",
+   "url": "https://yila.ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50148356",
+   "score": 4,
+   "comments": 1,
+   "author": "blacktechnology",
+   "time_iso": "2026-10-19T04:24:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50148441",
+   "title": "Verisign .com Domain Name Registry Consumer Class Action",
+   "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+   "hn_url": "https://news.ycombinator.com/item?id=50148441",
+   "score": 13,
+   "comments": 1,
+   "author": "greyface-",
+   "time_iso": "2026-10-19T04:40:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50148452",
+   "title": "DeepSeek V4.1 Flash 1017 (Max)",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "hn_url": "https://news.ycombinator.com/item?id=50148452",
+   "score": 67,
+   "comments": 17,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-19T04:41:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-19T13:42:49.933700+08:00",
+     "score": 67
     }
    ]
   }
