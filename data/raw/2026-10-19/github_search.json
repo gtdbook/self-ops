@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-19T06:45:18.986162+08:00",
- "count": 20,
+ "updated_at": "2026-10-19T08:47:55.459789+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1415214046",
@@ -122,7 +122,7 @@
    "id": "gh-1416386910",
    "title": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "stars": 2731,
+   "stars": 2767,
    "language": "Python",
    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
    "created_at": "2026-10-13T03:09:42Z",
@@ -138,6 +138,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 2731
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 2767
     }
    ]
   },
@@ -161,6 +165,25 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 945
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 945
+    }
+   ]
+  },
+  {
+   "id": "gh-1417155242",
+   "title": "Zfinix/eleven",
+   "url": "https://github.com/Zfinix/eleven",
+   "stars": 755,
+   "language": "TypeScript",
+   "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+   "created_at": "2026-10-13T13:47:31Z",
+   "history": [
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 755
     }
    ]
   },
@@ -184,6 +207,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 827
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 827
     }
    ]
   },
@@ -191,7 +218,7 @@
    "id": "gh-1417456983",
    "title": "HeyPuter/everything",
    "url": "https://github.com/HeyPuter/everything",
-   "stars": 2204,
+   "stars": 2218,
    "language": "JavaScript",
    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
    "created_at": "2026-10-13T16:18:22Z",
@@ -207,6 +234,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 2204
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 2218
     }
    ]
   },
@@ -214,7 +245,7 @@
    "id": "gh-1418155445",
    "title": "MyLuxy/overdrive",
    "url": "https://github.com/MyLuxy/overdrive",
-   "stars": 775,
+   "stars": 786,
    "language": "C++",
    "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
    "created_at": "2026-10-14T00:07:08Z",
@@ -230,6 +261,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 775
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 786
     }
    ]
   },
@@ -237,7 +272,7 @@
    "id": "gh-1419078245",
    "title": "Caho1/open-claude-ui",
    "url": "https://github.com/Caho1/open-claude-ui",
-   "stars": 1206,
+   "stars": 1207,
    "language": "TypeScript",
    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
    "created_at": "2026-10-14T14:05:05Z",
@@ -253,6 +288,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 1206
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 1207
     }
    ]
   },
@@ -260,7 +299,7 @@
    "id": "gh-1419746236",
    "title": "ahwootech/BRUTAL",
    "url": "https://github.com/ahwootech/BRUTAL",
-   "stars": 1893,
+   "stars": 1898,
    "language": "C#",
    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
    "created_at": "2026-10-14T19:33:56Z",
@@ -276,6 +315,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 1893
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 1898
     }
    ]
   },
@@ -283,7 +326,7 @@
    "id": "gh-1419982962",
    "title": "Supermedo/uncharted_pc",
    "url": "https://github.com/Supermedo/uncharted_pc",
-   "stars": 1437,
+   "stars": 1449,
    "language": "C++",
    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
    "created_at": "2026-10-15T00:17:23Z",
@@ -299,6 +342,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 1437
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 1449
     }
    ]
   },
@@ -306,7 +353,7 @@
    "id": "gh-1420063501",
    "title": "chenglou/handwired",
    "url": "https://github.com/chenglou/handwired",
-   "stars": 1726,
+   "stars": 1730,
    "language": "TypeScript",
    "description": "Turn your regular JavaScript code into a neural net.",
    "created_at": "2026-10-15T02:15:09Z",
@@ -322,6 +369,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 1726
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 1730
     }
    ]
   },
@@ -329,7 +380,7 @@
    "id": "gh-1420305104",
    "title": "Leonxlnx/earshot",
    "url": "https://github.com/Leonxlnx/earshot",
-   "stars": 772,
+   "stars": 808,
    "language": "Python",
    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
    "created_at": "2026-10-15T06:52:46Z",
@@ -345,6 +396,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 772
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 808
     }
    ]
   },
@@ -352,7 +407,7 @@
    "id": "gh-1420743720",
    "title": "Tencent-Hunyuan/Hy-Memory",
    "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-   "stars": 767,
+   "stars": 782,
    "language": "Python",
    "description": "",
    "created_at": "2026-10-15T13:06:56Z",
@@ -368,6 +423,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 767
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 782
     }
    ]
   },
@@ -375,7 +434,7 @@
    "id": "gh-1420751050",
    "title": "feder-cr/git-ai",
    "url": "https://github.com/feder-cr/git-ai",
-   "stars": 2072,
+   "stars": 2297,
    "language": "Go",
    "description": "Git designed for AI agents.",
    "created_at": "2026-10-15T13:12:02Z",
@@ -391,6 +450,10 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 2072
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 2297
     }
    ]
   },
@@ -398,7 +461,7 @@
    "id": "gh-1421389432",
    "title": "LiCinCan/blender-ai-mcp-addon",
    "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-   "stars": 784,
+   "stars": 786,
    "language": "Python",
    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
    "created_at": "2026-10-15T22:30:47Z",
@@ -414,6 +477,25 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 784
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 786
+    }
+   ]
+  },
+  {
+   "id": "gh-1421497958",
+   "title": "OpenMOSS/MOSS-Image",
+   "url": "https://github.com/OpenMOSS/MOSS-Image",
+   "stars": 694,
+   "language": "Python",
+   "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+   "created_at": "2026-10-16T01:18:13Z",
+   "history": [
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 694
     }
    ]
   },
@@ -421,7 +503,7 @@
    "id": "gh-1422399929",
    "title": "xscreensaver-official/xscreensaver",
    "url": "https://github.com/xscreensaver-official/xscreensaver",
-   "stars": 855,
+   "stars": 863,
    "language": "",
    "description": "There is no official XScreenSaver GitHub repository.",
    "created_at": "2026-10-16T16:24:44Z",
@@ -437,6 +519,40 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 855
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 863
+    }
+   ]
+  },
+  {
+   "id": "gh-1422783076",
+   "title": "Noniv/web-ocean",
+   "url": "https://github.com/Noniv/web-ocean",
+   "stars": 678,
+   "language": "HTML",
+   "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
+   "created_at": "2026-10-16T23:49:53Z",
+   "history": [
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 678
+    }
+   ]
+  },
+  {
+   "id": "gh-1422883896",
+   "title": "aicodeking/leanrea",
+   "url": "https://github.com/aicodeking/leanrea",
+   "stars": 641,
+   "language": "Python",
+   "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+   "created_at": "2026-10-17T02:53:24Z",
+   "history": [
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 641
     }
    ]
   },
@@ -444,7 +560,7 @@
    "id": "gh-1423101235",
    "title": "Gathin23/tv-vibehack",
    "url": "https://github.com/Gathin23/tv-vibehack",
-   "stars": 1807,
+   "stars": 1983,
    "language": "Java",
    "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
    "created_at": "2026-10-17T08:12:35Z",
@@ -460,6 +576,25 @@
     {
      "t": "2026-10-19T06:45:18.986162+08:00",
      "score": 1807
+    },
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 1983
+    }
+   ]
+  },
+  {
+   "id": "gh-1423689866",
+   "title": "ly05010419/MacNativeGames",
+   "url": "https://github.com/ly05010419/MacNativeGames",
+   "stars": 764,
+   "language": "C",
+   "description": "",
+   "created_at": "2026-10-17T19:52:00Z",
+   "history": [
+    {
+     "t": "2026-10-19T08:47:55.459789+08:00",
+     "score": 764
     }
    ]
   }

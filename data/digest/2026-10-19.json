@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T06:45:20.598145+08:00",
+ "generated_at": "2026-10-19T08:47:56.997584+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Someone behind the software",
      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "meta": "+211 分 / 4.9 小时 · 现 ⭐ 253",
+     "meta": "+257 分 / 7.0 小时 · 现 ⭐ 299",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,7 @@
     {
      "title": "Namecheap just seized and disabled all my domains",
      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-     "meta": "+178 分 / 2.7 小时 · 现 ⭐ 337",
+     "meta": "+253 分 / 4.7 小时 · 现 ⭐ 412",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,15 @@
     {
      "title": "RepRapMicron",
      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-     "meta": "+106 分 / 4.9 小时 · 现 ⭐ 311",
+     "meta": "+120 分 / 7.0 小时 · 现 ⭐ 325",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+     "url": "https://api-docs.deepseek.com/guides/search/",
+     "meta": "+101 分 / 7.0 小时 · 现 ⭐ 540",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,9 +48,33 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-     "url": "https://api-docs.deepseek.com/guides/search/",
-     "meta": "+78 分 / 4.9 小时 · 现 ⭐ 517",
+     "title": "Free Pascal compiler now supports dynamic packages",
+     "url": "https://www.getlazarus.org/dynamic/",
+     "meta": "+78 分 / 4.7 小时 · 现 ⭐ 105",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Java sealed classes and exhaustive pattern matching",
+     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+     "meta": "+75 分 / 7.0 小时 · 现 ⭐ 132",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "url": "https://arxiv.org/abs/2610.18861",
+     "meta": "+75 分 / 2.0 小时 · 现 ⭐ 181",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+     "meta": "+70 分 / 2.0 小时 · 现 ⭐ 142",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -51,38 +83,6 @@
      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
      "meta": "+69 分 / 4.9 小时 · 现 ⭐ 346",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Java sealed classes and exhaustive pattern matching",
-     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-     "meta": "+64 分 / 4.9 小时 · 现 ⭐ 121",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Free Pascal compiler now supports dynamic packages",
-     "url": "https://www.getlazarus.org/dynamic/",
-     "meta": "+62 分 / 2.7 小时 · 现 ⭐ 89",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-     "url": "https://legendofhyrule.com/",
-     "meta": "+60 分 / 4.9 小时 · 现 ⭐ 149",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "SIGSALY: Churchill's top secret hotline to the president",
-     "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-     "meta": "+55 分 / 4.9 小时 · 现 ⭐ 96",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -232,24 +232,24 @@
     {
      "title": "Arekejoker/qwen21-nsfw-pose-skill",
      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "meta": "⭐ 2731 · Python",
+     "meta": "⭐ 2767 · Python",
      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "HeyPuter/everything",
-     "url": "https://github.com/HeyPuter/everything",
-     "meta": "⭐ 2204 · JavaScript",
-     "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 2072 · Go",
+     "meta": "⭐ 2297 · Go",
      "summary": "Git designed for AI agents.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HeyPuter/everything",
+     "url": "https://github.com/HeyPuter/everything",
+     "meta": "⭐ 2218 · JavaScript",
+     "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -262,25 +262,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "ahwootech/BRUTAL",
-     "url": "https://github.com/ahwootech/BRUTAL",
-     "meta": "⭐ 1893 · C#",
-     "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+     "title": "Gathin23/tv-vibehack",
+     "url": "https://github.com/Gathin23/tv-vibehack",
+     "meta": "⭐ 1983 · Java",
+     "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "Gathin23/tv-vibehack",
-     "url": "https://github.com/Gathin23/tv-vibehack",
-     "meta": "⭐ 1807 · Java",
-     "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+     "title": "ahwootech/BRUTAL",
+     "url": "https://github.com/ahwootech/BRUTAL",
+     "meta": "⭐ 1898 · C#",
+     "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1726 · TypeScript",
+     "meta": "⭐ 1730 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1437 · C++",
+     "meta": "⭐ 1449 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +296,7 @@
     {
      "title": "Caho1/open-claude-ui",
      "url": "https://github.com/Caho1/open-claude-ui",
-     "meta": "⭐ 1206 · TypeScript",
+     "meta": "⭐ 1207 · TypeScript",
      "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "xscreensaver-official/xscreensaver",
      "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 855",
+     "meta": "⭐ 863",
      "summary": "There is no official XScreenSaver GitHub repository.",
      "reason": null,
      "origin_source": "github_search"
@@ -349,6 +349,14 @@
    "errors": [],
    "items": [
     {
+     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+     "url": "https://api-docs.deepseek.com/guides/search/",
+     "meta": "⭐ 540 · 💬 257",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Bleached corals thrive within days when touching healthy neighbour",
      "url": "https://www.nature.com/articles/d41586-026-03266-x",
      "meta": "⭐ 528 · 💬 114",
@@ -357,9 +365,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-     "url": "https://api-docs.deepseek.com/guides/search/",
-     "meta": "⭐ 517 · 💬 250",
+     "title": "Namecheap just seized and disabled all my domains",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+     "meta": "⭐ 412 · 💬 194",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -373,17 +381,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Namecheap just seized and disabled all my domains",
-     "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-     "meta": "⭐ 337 · 💬 161",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "RepRapMicron",
      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-     "meta": "⭐ 311 · 💬 47",
+     "meta": "⭐ 325 · 💬 52",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -391,7 +391,7 @@
     {
      "title": "Someone behind the software",
      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "meta": "⭐ 253 · 💬 108",
+     "meta": "⭐ 299 · 💬 121",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,9 +429,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "url": "https://arxiv.org/abs/2610.18861",
+     "meta": "⭐ 181 · 💬 109",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
      "url": "https://github.com/0x23/MicroManipulatorStepper",
-     "meta": "⭐ 166 · 💬 13",
+     "meta": "⭐ 173 · 💬 13",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,25 +453,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+     "meta": "⭐ 142 · 💬 84",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Teal – A statically-typed dialect of Lua",
      "url": "https://teal-language.org/",
      "meta": "⭐ 137 · 💬 60",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-     "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-     "meta": "⭐ 136 · 💬 234",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Java sealed classes and exhaustive pattern matching",
-     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-     "meta": "⭐ 121 · 💬 98",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
