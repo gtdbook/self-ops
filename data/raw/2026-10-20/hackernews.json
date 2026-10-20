@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-20T15:09:10.149160+08:00",
- "count": 51,
+ "updated_at": "2026-10-20T21:19:41.862711+08:00",
+ "count": 61,
  "items": [
+  {
+   "id": "hn-50120748",
+   "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+   "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50120748",
+   "score": 19,
+   "comments": 8,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-16T16:42:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 19
+    }
+   ]
+  },
   {
    "id": "hn-50121834",
    "title": "Credit where credit is due",
@@ -48,6 +64,22 @@
    ]
   },
   {
+   "id": "hn-50132198",
+   "title": "Making a 88x31 button book using ImageMagick",
+   "url": "https://k.sosnierz.me/08-11-24/",
+   "hn_url": "https://news.ycombinator.com/item?id=50132198",
+   "score": 84,
+   "comments": 11,
+   "author": "birdculture",
+   "time_iso": "2026-10-17T15:55:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 84
+    }
+   ]
+  },
+  {
    "id": "hn-50134359",
    "title": "The fire retardant in the seafood chain",
    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
@@ -76,8 +108,8 @@
    "title": "It's still ok to enjoy programming",
    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
    "hn_url": "https://news.ycombinator.com/item?id=50134472",
-   "score": 553,
-   "comments": 488,
+   "score": 643,
+   "comments": 563,
    "author": "goostavos",
    "time_iso": "2026-10-17T19:53:20+00:00",
    "history": [
@@ -96,6 +128,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 553
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 643
     }
    ]
   },
@@ -161,17 +197,21 @@
   },
   {
    "id": "hn-50140111",
-   "title": "Restoration of Retinal Regenerative Potential",
+   "title": "Restoration of Retinal Regenerative Potential (2025)",
    "url": "https://www.nature.com/articles/s41467-025-58290-8",
    "hn_url": "https://news.ycombinator.com/item?id=50140111",
-   "score": 14,
-   "comments": 0,
+   "score": 83,
+   "comments": 6,
    "author": "Kaibeezy",
    "time_iso": "2026-10-18T11:32:38+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 83
     }
    ]
   },
@@ -180,8 +220,8 @@
    "title": "Weball: Play Katamari on Websites",
    "url": "https://www.funwithcomputervision.com/weball/",
    "hn_url": "https://news.ycombinator.com/item?id=50140584",
-   "score": 167,
-   "comments": 10,
+   "score": 262,
+   "comments": 20,
    "author": "croes",
    "time_iso": "2026-10-18T12:39:56+00:00",
    "history": [
@@ -192,6 +232,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 167
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 262
     }
    ]
   },
@@ -200,14 +244,34 @@
    "title": "Nordwand Mono – A monospace font for coders and adventurers",
    "url": "https://github.com/tywr/Nordwand-Mono",
    "hn_url": "https://news.ycombinator.com/item?id=50141581",
-   "score": 85,
-   "comments": 14,
+   "score": 381,
+   "comments": 117,
    "author": "noriax86",
    "time_iso": "2026-10-18T14:48:01+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 381
+    }
+   ]
+  },
+  {
+   "id": "hn-50147034",
+   "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+   "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50147034",
+   "score": 30,
+   "comments": 12,
+   "author": "NaOH",
+   "time_iso": "2026-10-19T00:43:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 30
     }
    ]
   },
@@ -280,8 +344,8 @@
    "title": "I built a drone with only one motor [video]",
    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
    "hn_url": "https://news.ycombinator.com/item?id=50150089",
-   "score": 498,
-   "comments": 106,
+   "score": 597,
+   "comments": 136,
    "author": "hakonjdjohnsen",
    "time_iso": "2026-10-19T09:05:07+00:00",
    "history": [
@@ -300,6 +364,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 498
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 597
     }
    ]
   },
@@ -452,8 +520,8 @@
    "title": "Wine ported to OpenBSD",
    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
    "hn_url": "https://news.ycombinator.com/item?id=50152307",
-   "score": 545,
-   "comments": 181,
+   "score": 590,
+   "comments": 197,
    "author": "iamnothere",
    "time_iso": "2026-10-19T13:35:34+00:00",
    "history": [
@@ -472,6 +540,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 545
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 590
     }
    ]
   },
@@ -496,14 +568,34 @@
    "title": "Maxwell: A new kind of model that sits between code and hardware",
    "url": "https://heymaxwell.ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50152466",
-   "score": 13,
-   "comments": 7,
+   "score": 103,
+   "comments": 45,
    "author": "laginimaineb",
    "time_iso": "2026-10-19T13:47:56+00:00",
    "history": [
     {
      "t": "2026-10-20T02:59:46.472670+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50152539",
+   "title": "Why Is Speculative Decoding Fast?",
+   "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+   "hn_url": "https://news.ycombinator.com/item?id=50152539",
+   "score": 40,
+   "comments": 5,
+   "author": "gmays",
+   "time_iso": "2026-10-19T13:53:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 40
     }
    ]
   },
@@ -564,8 +656,8 @@
    "title": "Ukraine claims first drone evacuation of wounded soldier",
    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
    "hn_url": "https://news.ycombinator.com/item?id=50153664",
-   "score": 234,
-   "comments": 159,
+   "score": 348,
+   "comments": 255,
    "author": "yzydserd",
    "time_iso": "2026-10-19T15:31:34+00:00",
    "history": [
@@ -576,6 +668,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 234
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 348
     }
    ]
   },
@@ -604,14 +700,34 @@
    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
    "hn_url": "https://news.ycombinator.com/item?id=50154244",
-   "score": 158,
-   "comments": 142,
+   "score": 369,
+   "comments": 319,
    "author": "cmrdporcupine",
    "time_iso": "2026-10-19T16:16:46+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 158
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 369
+    }
+   ]
+  },
+  {
+   "id": "hn-50154429",
+   "title": "Spending 10 months building the most human-like chess bot",
+   "url": "https://mbuffett.com/posts/most-human-chess-bot",
+   "hn_url": "https://news.ycombinator.com/item?id=50154429",
+   "score": 8,
+   "comments": 2,
+   "author": "marcusbuffett",
+   "time_iso": "2026-10-19T16:30:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 8
     }
    ]
   },
@@ -620,8 +736,8 @@
    "title": "MiniMax M3.1 Flash",
    "url": "https://www.minimax.io/blog/minimax-m31f",
    "hn_url": "https://news.ycombinator.com/item?id=50154540",
-   "score": 440,
-   "comments": 190,
+   "score": 489,
+   "comments": 207,
    "author": "jtg",
    "time_iso": "2026-10-19T16:39:09+00:00",
    "history": [
@@ -640,6 +756,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 440
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 489
     }
    ]
   },
@@ -836,14 +956,18 @@
    "title": "An ad-free Android TV",
    "url": "https://cretezy.com/2026/ad-free-android-tv",
    "hn_url": "https://news.ycombinator.com/item?id=50158942",
-   "score": 149,
-   "comments": 47,
+   "score": 291,
+   "comments": 109,
    "author": "CraftThatBlock",
    "time_iso": "2026-10-19T22:32:37+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 291
     }
    ]
   },
@@ -852,8 +976,8 @@
    "title": "How abliterated models can get you pwned",
    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
    "hn_url": "https://news.ycombinator.com/item?id=50159245",
-   "score": 94,
-   "comments": 57,
+   "score": 180,
+   "comments": 99,
    "author": "chatmasta",
    "time_iso": "2026-10-19T23:08:52+00:00",
    "history": [
@@ -864,6 +988,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 94
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 180
     }
    ]
   },
@@ -872,14 +1000,18 @@
    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "hn_url": "https://news.ycombinator.com/item?id=50159341",
-   "score": 299,
-   "comments": 68,
+   "score": 575,
+   "comments": 161,
    "author": "ds",
    "time_iso": "2026-10-19T23:22:18+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 299
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 575
     }
    ]
   },
@@ -888,8 +1020,8 @@
    "title": "France's supermarket fridges were vulnerable online for months",
    "url": "https://ipinfo.io/blog/france-fridges-hack",
    "hn_url": "https://news.ycombinator.com/item?id=50159616",
-   "score": 121,
-   "comments": 95,
+   "score": 206,
+   "comments": 184,
    "author": "emot",
    "time_iso": "2026-10-20T00:00:49+00:00",
    "history": [
@@ -900,6 +1032,10 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 121
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 206
     }
    ]
   },
@@ -956,14 +1092,18 @@
    "title": "OpenBSD 8.0",
    "url": "https://www.openbsd.org/80.html",
    "hn_url": "https://news.ycombinator.com/item?id=50160494",
-   "score": 206,
-   "comments": 61,
+   "score": 371,
+   "comments": 116,
    "author": "privong",
    "time_iso": "2026-10-20T02:06:40+00:00",
    "history": [
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 206
+    },
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 371
     }
    ]
   },
@@ -1000,6 +1140,22 @@
    ]
   },
   {
+   "id": "hn-50162177",
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "url": "https://github.com/microg/GmsCore/wiki",
+   "hn_url": "https://news.ycombinator.com/item?id=50162177",
+   "score": 187,
+   "comments": 18,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-20T06:37:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 187
+    }
+   ]
+  },
+  {
    "id": "hn-50162198",
    "title": "Vite+ an excellent toolchain for AI agent development",
    "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
@@ -1012,6 +1168,70 @@
     {
      "t": "2026-10-20T15:09:10.149160+08:00",
      "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50163277",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "hn_url": "https://news.ycombinator.com/item?id=50163277",
+   "score": 919,
+   "comments": 312,
+   "author": "ggcr",
+   "time_iso": "2026-10-20T09:08:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 919
+    }
+   ]
+  },
+  {
+   "id": "hn-50163961",
+   "title": "Google cloud outage takes down banks",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "hn_url": "https://news.ycombinator.com/item?id=50163961",
+   "score": 125,
+   "comments": 52,
+   "author": "paweladamczuk",
+   "time_iso": "2026-10-20T10:26:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 125
+    }
+   ]
+  },
+  {
+   "id": "hn-50164991",
+   "title": "Hazel (YC W24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+   "hn_url": "https://news.ycombinator.com/item?id=50164991",
+   "score": 1,
+   "comments": 0,
+   "author": "augustschen",
+   "time_iso": "2026-10-20T12:00:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50165276",
+   "title": "Demographic \"Doomsday\" Misses the Mark",
+   "url": "https://www.science.org/doi/10.1126/science.ael8752",
+   "hn_url": "https://news.ycombinator.com/item?id=50165276",
+   "score": 24,
+   "comments": 16,
+   "author": "YeGoblynQueenne",
+   "time_iso": "2026-10-20T12:22:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-20T21:19:41.862711+08:00",
+     "score": 24
     }
    ]
   }
