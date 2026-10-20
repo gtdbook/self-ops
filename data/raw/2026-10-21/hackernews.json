@@ -1,21 +1,41 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-21T02:20:23.679899+08:00",
- "count": 25,
+ "updated_at": "2026-10-21T06:05:16.839225+08:00",
+ "count": 34,
  "items": [
+  {
+   "id": "hn-50108717",
+   "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+   "hn_url": "https://news.ycombinator.com/item?id=50108717",
+   "score": 102,
+   "comments": 40,
+   "author": "dhorthy",
+   "time_iso": "2026-10-15T19:09:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 102
+    }
+   ]
+  },
   {
    "id": "hn-50128197",
    "title": "Archive of Our Own",
    "url": "https://archiveofourown.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50128197",
-   "score": 18,
-   "comments": 1,
+   "score": 85,
+   "comments": 18,
    "author": "debo_",
    "time_iso": "2026-10-17T05:23:14+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 85
     }
    ]
   },
@@ -40,14 +60,34 @@
    "title": "JAXA is about to perform a Phobos sample return mission",
    "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
    "hn_url": "https://news.ycombinator.com/item?id=50138490",
-   "score": 35,
-   "comments": 5,
+   "score": 74,
+   "comments": 12,
    "author": "Muhammad523",
    "time_iso": "2026-10-18T06:40:55+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 35
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 74
+    }
+   ]
+  },
+  {
+   "id": "hn-50139728",
+   "title": "Making Solar Panels with a Microwave [video]",
+   "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+   "hn_url": "https://news.ycombinator.com/item?id=50139728",
+   "score": 6,
+   "comments": 0,
+   "author": "jackdoe",
+   "time_iso": "2026-10-18T10:25:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 6
     }
    ]
   },
@@ -68,18 +108,54 @@
    ]
   },
   {
+   "id": "hn-50147034",
+   "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+   "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50147034",
+   "score": 78,
+   "comments": 47,
+   "author": "NaOH",
+   "time_iso": "2026-10-19T00:43:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 78
+    }
+   ]
+  },
+  {
+   "id": "hn-50152886",
+   "title": "Meta's GB{2,3}00 Cluster",
+   "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+   "hn_url": "https://news.ycombinator.com/item?id=50152886",
+   "score": 30,
+   "comments": 6,
+   "author": "stokedmartin",
+   "time_iso": "2026-10-19T14:23:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
    "id": "hn-50162177",
    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
    "url": "https://github.com/microg/GmsCore/wiki",
    "hn_url": "https://news.ycombinator.com/item?id=50162177",
-   "score": 315,
-   "comments": 47,
+   "score": 359,
+   "comments": 77,
    "author": "theanonymousone",
    "time_iso": "2026-10-20T06:37:07+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 315
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 359
     }
    ]
   },
@@ -88,14 +164,18 @@
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "hn_url": "https://news.ycombinator.com/item?id=50163277",
-   "score": 1894,
-   "comments": 724,
+   "score": 2045,
+   "comments": 801,
    "author": "ggcr",
    "time_iso": "2026-10-20T09:08:54+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 1894
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 2045
     }
    ]
   },
@@ -104,14 +184,18 @@
    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
    "hn_url": "https://news.ycombinator.com/item?id=50163961",
-   "score": 215,
-   "comments": 98,
+   "score": 285,
+   "comments": 148,
    "author": "paweladamczuk",
    "time_iso": "2026-10-20T10:26:02+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 215
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 285
     }
    ]
   },
@@ -136,14 +220,18 @@
    "title": "Apple broke an essential presentation feature of iPads",
    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
    "hn_url": "https://news.ycombinator.com/item?id=50165208",
-   "score": 326,
-   "comments": 179,
+   "score": 432,
+   "comments": 236,
    "author": "evanb",
    "time_iso": "2026-10-20T12:17:28+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 326
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 432
     }
    ]
   },
@@ -164,18 +252,38 @@
    ]
   },
   {
+   "id": "hn-50165904",
+   "title": "Jepsen: Orkes Conductor 5.3.2",
+   "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+   "hn_url": "https://news.ycombinator.com/item?id=50165904",
+   "score": 46,
+   "comments": 1,
+   "author": "aphyr",
+   "time_iso": "2026-10-20T13:14:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
    "id": "hn-50165953",
    "title": "Tsrs: A Port of TypeScript to Rust",
    "url": "https://blog.cloudflare.com/typescript-rust-port/",
    "hn_url": "https://news.ycombinator.com/item?id=50165953",
-   "score": 185,
-   "comments": 92,
+   "score": 303,
+   "comments": 141,
    "author": "hnisjafx40",
    "time_iso": "2026-10-20T13:18:07+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 185
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 303
     }
    ]
   },
@@ -184,14 +292,18 @@
    "title": "How I got over 300 Tor exit nodes removed",
    "url": "https://kaba.cx/posts/20261020_Tor/",
    "hn_url": "https://news.ycombinator.com/item?id=50166257",
-   "score": 195,
-   "comments": 52,
+   "score": 278,
+   "comments": 69,
    "author": "kabakabakaba",
    "time_iso": "2026-10-20T13:39:24+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 195
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 278
     }
    ]
   },
@@ -216,14 +328,18 @@
    "title": "EMudhra Intermediate CA Compromise",
    "url": "https://emudhra.we-have-a-problem.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50166579",
-   "score": 293,
-   "comments": 144,
+   "score": 498,
+   "comments": 274,
    "author": "galadran",
    "time_iso": "2026-10-20T13:58:33+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 293
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 498
     }
    ]
   },
@@ -232,14 +348,18 @@
    "title": "My Friend Bob Cringely",
    "url": "https://tyma.com/my-cringe-story/",
    "hn_url": "https://news.ycombinator.com/item?id=50166794",
-   "score": 106,
-   "comments": 33,
+   "score": 143,
+   "comments": 39,
    "author": "zinxq",
    "time_iso": "2026-10-20T14:13:49+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 106
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 143
     }
    ]
   },
@@ -248,14 +368,18 @@
    "title": "Ofcom concedes defeat in 4chan case",
    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
    "hn_url": "https://news.ycombinator.com/item?id=50167028",
-   "score": 149,
-   "comments": 82,
+   "score": 280,
+   "comments": 185,
    "author": "iamnothere",
    "time_iso": "2026-10-20T14:30:31+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 280
     }
    ]
   },
@@ -264,14 +388,18 @@
    "title": "Facebook Pages require paid subscription to post more than two links per month",
    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
    "hn_url": "https://news.ycombinator.com/item?id=50167536",
-   "score": 325,
-   "comments": 269,
+   "score": 388,
+   "comments": 342,
    "author": "AshleysBrain",
    "time_iso": "2026-10-20T15:06:08+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 325
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 388
     }
    ]
   },
@@ -312,14 +440,18 @@
    "title": "IKEA – 3D Guide",
    "url": "https://sael.net/flatpack/",
    "hn_url": "https://news.ycombinator.com/item?id=50168096",
-   "score": 48,
-   "comments": 12,
+   "score": 114,
+   "comments": 34,
    "author": "punnerud",
    "time_iso": "2026-10-20T15:42:45+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 114
     }
    ]
   },
@@ -340,18 +472,38 @@
    ]
   },
   {
+   "id": "hn-50168357",
+   "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+   "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+   "hn_url": "https://news.ycombinator.com/item?id=50168357",
+   "score": 121,
+   "comments": 70,
+   "author": "speckx",
+   "time_iso": "2026-10-20T15:59:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
    "id": "hn-50168396",
    "title": "Voxtral 3",
    "url": "https://mistral.ai/news/voxtral-3/",
    "hn_url": "https://news.ycombinator.com/item?id=50168396",
-   "score": 236,
-   "comments": 59,
+   "score": 448,
+   "comments": 124,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:02:07+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 236
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 448
     }
    ]
   },
@@ -360,14 +512,18 @@
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
    "url": "https://github.com/google-pytorch/torch_tpu",
    "hn_url": "https://news.ycombinator.com/item?id=50169053",
-   "score": 74,
-   "comments": 21,
+   "score": 207,
+   "comments": 50,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:40:24+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 74
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 207
     }
    ]
   },
@@ -376,14 +532,18 @@
    "title": "What shall I teach my son?",
    "url": "https://stevekrouse.com/ends",
    "hn_url": "https://news.ycombinator.com/item?id=50169707",
-   "score": 43,
-   "comments": 36,
+   "score": 165,
+   "comments": 242,
    "author": "Curiositry",
    "time_iso": "2026-10-20T17:25:07+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 43
+    },
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 165
     }
    ]
   },
@@ -400,6 +560,54 @@
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50170021",
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "hn_url": "https://news.ycombinator.com/item?id=50170021",
+   "score": 61,
+   "comments": 31,
+   "author": "artninja1988",
+   "time_iso": "2026-10-20T17:48:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50170593",
+   "title": "SimCity, but with Permits",
+   "url": "https://permit.petercai.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50170593",
+   "score": 356,
+   "comments": 187,
+   "author": "pcai",
+   "time_iso": "2026-10-20T18:29:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 356
+    }
+   ]
+  },
+  {
+   "id": "hn-50171771",
+   "title": "On AI writing",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
+   "hn_url": "https://news.ycombinator.com/item?id=50171771",
+   "score": 60,
+   "comments": 21,
+   "author": "dbolkunov",
+   "time_iso": "2026-10-20T19:55:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T06:05:16.839225+08:00",
+     "score": 60
     }
    ]
   }
