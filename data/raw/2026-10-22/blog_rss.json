@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-22T02:22:15.080548+08:00",
- "count": 2357,
+ "updated_at": "2026-10-22T06:05:12.941923+08:00",
+ "count": 2359,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -1606,6 +1606,15 @@
    "summary": ""
   },
   {
+   "id": "rss-12af459ff8f6cdb2",
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "feed_name": "TechCrunch AI",
+   "published": "Wed, 21 Oct 2026 20:27:41 +0000",
+   "published_iso": "2026-10-21T20:27:41+00:00",
+   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+  },
+  {
    "id": "rss-131888a4cac3af2c",
    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
@@ -2236,6 +2245,15 @@
    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
   },
   {
+   "id": "rss-1a80887cf13ccfa1",
+   "title": "The new human-crafted Apple Music brand matters in an AI world",
+   "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+   "feed_name": "Ars Technica",
+   "published": "Wed, 21 Oct 2026 19:44:40 +0000",
+   "published_iso": "2026-10-21T19:44:40+00:00",
+   "summary": "Opinion: In a world of AI slop, showing the human hands making things helps."
+  },
+  {
    "id": "rss-1a860fd2bd637bf5",
    "title": "Democratizing AI Safety with RiskRubric.ai",
    "url": "https://huggingface.co/blog/riskrubric",
@@ -2684,24 +2702,6 @@
    "published": "Thu, 09 Nov 2023 08:00:00 GMT",
    "published_iso": "2023-11-09T08:00:00+00:00",
    "summary": "Working together to create open-source and private datasets for AI training."
-  },
-  {
-   "id": "rss-1f42542c4eba13fa",
-   "title": "FineVideo: behind the scenes",
-   "url": "https://huggingface.co/blog/fine-video",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 23 Sep 2024 00:00:00 GMT",
-   "published_iso": "2024-09-23T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1f54b81715891112",
-   "title": "Fine-tuning GPT-4o webinar",
-   "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
-   "feed_name": "OpenAI",
-   "published": "Mon, 26 Aug 2024 00:00:00 GMT",
-   "published_iso": "2024-08-26T00:00:00+00:00",
-   "summary": "Fine-Tuning GPT-4o Webinar"
   }
  ]
 }

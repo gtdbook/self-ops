@@ -1,12 +1,115 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T02:22:15.334321+08:00",
+ "generated_at": "2026-10-22T06:05:13.249182+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "EA is shutting down BioWare",
+     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+     "meta": "+330 分 / 3.7 小时 · 现 ⭐ 411",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Today's PHP security release, and how we're strengthening security",
+     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+     "meta": "+275 分 / 3.7 小时 · 现 ⭐ 543",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+     "meta": "+148 分 / 3.7 小时 · 现 ⭐ 360",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PHP 8.2.35",
+     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+     "meta": "+126 分 / 3.7 小时 · 现 ⭐ 930",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+     "meta": "+104 分 / 3.7 小时 · 现 ⭐ 777",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/",
+     "meta": "+94 分 / 3.7 小时 · 现 ⭐ 190",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+     "meta": "+85 分 / 3.7 小时 · 现 ⭐ 332",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+     "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+     "meta": "+62 分 / 3.7 小时 · 现 ⭐ 126",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+     "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+     "meta": "+61 分 / 3.7 小时 · 现 ⭐ 81",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+     "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+     "meta": "+55 分 / 3.7 小时 · 现 ⭐ 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "meta": "TechCrunch AI · 2026-10-21",
+     "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The new human-crafted Apple Music brand matters in an AI world",
+     "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+     "meta": "Ars Technica · 2026-10-21",
+     "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
@@ -110,22 +213,6 @@
      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "The Agent Said It Was Done. The Database Disagreed.",
-     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-     "meta": "Hugging Face · 2026-10-03",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Albertsons Companies is reimagining retail from the inside out",
-     "url": "https://openai.com/index/albertsons-reimagining-retail",
-     "meta": "OpenAI · 2026-10-01",
-     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +224,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 17963 · Java",
+     "meta": "⭐ 18734 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "deepseek-ai/DeepInfer",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 17523 · Python",
+     "meta": "⭐ 17704 · Python",
      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 3711 · C",
+     "meta": "⭐ 3806 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 2503 · Java",
+     "meta": "⭐ 2662 · Java",
      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "Leonxlnx/earshot",
      "url": "https://github.com/Leonxlnx/earshot",
-     "meta": "⭐ 2045 · Python",
+     "meta": "⭐ 2049 · Python",
      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +264,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 1982 · Kotlin",
+     "meta": "⭐ 2010 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -185,7 +272,7 @@
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 1936 · Python",
+     "meta": "⭐ 1941 · Python",
      "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +280,7 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1868 · TypeScript",
+     "meta": "⭐ 1870 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,7 +288,7 @@
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1773 · C++",
+     "meta": "⭐ 1781 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +296,7 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 1303",
+     "meta": "⭐ 1322",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +304,7 @@
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "meta": "⭐ 1266 · Python",
+     "meta": "⭐ 1275 · Python",
      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +312,7 @@
     {
      "title": "aicodeking/leanrea",
      "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1264 · Python",
+     "meta": "⭐ 1274 · Python",
      "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
@@ -233,24 +320,24 @@
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1251 · JavaScript",
+     "meta": "⭐ 1254 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "humblemuzzu/dumbtv",
-     "url": "https://github.com/humblemuzzu/dumbtv",
-     "meta": "⭐ 1125 · JavaScript",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Ansub/tv-detox",
      "url": "https://github.com/Ansub/tv-detox",
-     "meta": "⭐ 1123 · Java",
+     "meta": "⭐ 1153 · Java",
      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "humblemuzzu/dumbtv",
+     "url": "https://github.com/humblemuzzu/dumbtv",
+     "meta": "⭐ 1143 · JavaScript",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -264,15 +351,39 @@
     {
      "title": "PHP 8.2.35",
      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-     "meta": "⭐ 804 · 💬 460",
+     "meta": "⭐ 930 · 💬 521",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+     "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-     "meta": "⭐ 673 · 💬 316",
+     "meta": "⭐ 777 · 💬 384",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Today's PHP security release, and how we're strengthening security",
+     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+     "meta": "⭐ 543 · 💬 281",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "EA is shutting down BioWare",
+     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+     "meta": "⭐ 411 · 💬 251",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+     "meta": "⭐ 360 · 💬 118",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -286,25 +397,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Today's PHP security release, and how we're strengthening security",
-     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-     "meta": "⭐ 268 · 💬 133",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-     "meta": "⭐ 247 · 💬 29",
+     "meta": "⭐ 332 · 💬 38",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-     "meta": "⭐ 212 · 💬 87",
+     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+     "meta": "⭐ 228 · 💬 136",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Duet",
+     "url": "https://claude.com/product/claude-duet",
+     "meta": "⭐ 216 · 💬 188",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -312,7 +423,15 @@
     {
      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-     "meta": "⭐ 165 · 💬 96",
+     "meta": "⭐ 209 · 💬 133",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/",
+     "meta": "⭐ 190 · 💬 87",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -326,41 +445,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "OpenAI models are coming to Google Cloud",
-     "url": "https://openai.com/index/openai-models-google-cloud/",
-     "meta": "⭐ 96 · 💬 25",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-     "meta": "⭐ 95 · 💬 61",
+     "meta": "⭐ 150 · 💬 80",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Using thousands of AI agents to uncover new leads in biological data",
-     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-     "meta": "⭐ 85 · 💬 33",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "EA is shutting down BioWare",
-     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-     "meta": "⭐ 81 · 💬 36",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Drupal is now light-years ahead of its reputation",
-     "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-     "meta": "⭐ 64 · 💬 85",
+     "title": "GitLab Critical Patch Release",
+     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+     "meta": "⭐ 150 · 💬 32",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -368,15 +463,7 @@
     {
      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-     "meta": "⭐ 64 · 💬 6",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What I learned from six months of being stupid on purpose",
-     "url": "https://wvez.org/blog/learning-to-be-stupid/",
-     "meta": "⭐ 60 · 💬 38",
+     "meta": "⭐ 126 · 💬 24",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,6 +516,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Capitol Alpha Machine",
+     "url": "https://www.producthunt.com/products/capitol-alpha-machine",
+     "meta": "Product Hunt · 2026-10-19",
+     "summary": "Free Mac screensavers built from congressional trade data",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "CrawlForge MCP",
      "url": "https://www.producthunt.com/products/crawlforge-mcp",
      "meta": "Product Hunt · 2026-10-11",
@@ -449,6 +544,14 @@
      "url": "https://www.producthunt.com/products/yggy",
      "meta": "Product Hunt · 2026-10-12",
      "summary": "The AI knowledge graph that builds itself",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "xtty",
+     "url": "https://www.producthunt.com/products/xtty",
+     "meta": "Product Hunt · 2026-10-19",
+     "summary": "A terminal that makes everyday work easier.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -489,22 +592,6 @@
      "url": "https://www.producthunt.com/products/the-new-beings",
      "meta": "Product Hunt · 2026-10-19",
      "summary": "AI agents on their break, performing a live talk show",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Praex",
-     "url": "https://www.producthunt.com/products/praex",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "The coding agent that runs on its own AI models",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "The Brains",
-     "url": "https://www.producthunt.com/products/the-brains",
-     "meta": "Product Hunt · 2026-10-20",
-     "summary": "Founders and investors as MCP servers, every answer cited",
      "reason": null,
      "origin_source": "producthunt"
     }

@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-22T02:22:13.103306+08:00",
- "count": 25,
+ "updated_at": "2026-10-22T06:05:11.042439+08:00",
+ "count": 35,
  "items": [
   {
    "id": "hn-50142296",
@@ -88,14 +88,50 @@
    "title": "Drupal is now light-years ahead of its reputation",
    "url": "https://dri.es/state-of-drupal-presentation-september-2026",
    "hn_url": "https://news.ycombinator.com/item?id=50158408",
-   "score": 64,
-   "comments": 85,
+   "score": 102,
+   "comments": 107,
    "author": "scottfalconer",
    "time_iso": "2026-10-19T21:38:02+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 64
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 102
+    }
+   ]
+  },
+  {
+   "id": "hn-50159726",
+   "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+   "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+   "hn_url": "https://news.ycombinator.com/item?id=50159726",
+   "score": 94,
+   "comments": 57,
+   "author": "khalidkhair",
+   "time_iso": "2026-10-20T00:14:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 94
+    }
+   ]
+  },
+  {
+   "id": "hn-50161346",
+   "title": "No More Icons in Every Menu by Default",
+   "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+   "hn_url": "https://news.ycombinator.com/item?id=50161346",
+   "score": 44,
+   "comments": 27,
+   "author": "riffraff",
+   "time_iso": "2026-10-20T04:27:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 44
     }
    ]
   },
@@ -104,14 +140,34 @@
    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
    "hn_url": "https://news.ycombinator.com/item?id=50162044",
-   "score": 64,
-   "comments": 6,
+   "score": 126,
+   "comments": 24,
    "author": "bryanrasmussen",
    "time_iso": "2026-10-20T06:20:54+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 64
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 126
+    }
+   ]
+  },
+  {
+   "id": "hn-50166706",
+   "title": "A Place Among the Fiddlers",
+   "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+   "hn_url": "https://news.ycombinator.com/item?id=50166706",
+   "score": 12,
+   "comments": 0,
+   "author": "gmays",
+   "time_iso": "2026-10-20T14:08:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 12
     }
    ]
   },
@@ -149,17 +205,21 @@
   },
   {
    "id": "hn-50177916",
-   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
    "hn_url": "https://news.ycombinator.com/item?id=50177916",
-   "score": 673,
-   "comments": 316,
+   "score": 777,
+   "comments": 384,
    "author": "hkc",
    "time_iso": "2026-10-21T09:08:08+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 673
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 777
     }
    ]
   },
@@ -184,14 +244,18 @@
    "title": "OpenAI models are coming to Google Cloud",
    "url": "https://openai.com/index/openai-models-google-cloud/",
    "hn_url": "https://news.ycombinator.com/item?id=50180079",
-   "score": 96,
-   "comments": 25,
+   "score": 190,
+   "comments": 87,
    "author": "armcat",
    "time_iso": "2026-10-21T12:53:11+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 190
     }
    ]
   },
@@ -200,14 +264,18 @@
    "title": "Using thousands of AI agents to uncover new leads in biological data",
    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "hn_url": "https://news.ycombinator.com/item?id=50180752",
-   "score": 85,
-   "comments": 33,
+   "score": 118,
+   "comments": 64,
    "author": "raahelb",
    "time_iso": "2026-10-21T13:37:00+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 118
     }
    ]
   },
@@ -216,14 +284,18 @@
    "title": "PHP 8.2.35",
    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
    "hn_url": "https://news.ycombinator.com/item?id=50180873",
-   "score": 804,
-   "comments": 460,
+   "score": 930,
+   "comments": 521,
    "author": "tuyuri",
    "time_iso": "2026-10-21T13:45:33+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 804
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 930
     }
    ]
   },
@@ -232,14 +304,18 @@
    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
    "hn_url": "https://news.ycombinator.com/item?id=50181114",
-   "score": 212,
-   "comments": 87,
+   "score": 360,
+   "comments": 118,
    "author": "abhisek",
    "time_iso": "2026-10-21T14:00:26+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 212
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 360
     }
    ]
   },
@@ -248,14 +324,18 @@
    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
    "hn_url": "https://news.ycombinator.com/item?id=50181136",
-   "score": 247,
-   "comments": 29,
+   "score": 332,
+   "comments": 38,
    "author": "nnx",
    "time_iso": "2026-10-21T14:01:22+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 247
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 332
     }
    ]
   },
@@ -264,14 +344,18 @@
    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "hn_url": "https://news.ycombinator.com/item?id=50181175",
-   "score": 165,
-   "comments": 96,
+   "score": 209,
+   "comments": 133,
    "author": "nr378",
    "time_iso": "2026-10-21T14:03:43+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 165
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 209
     }
    ]
   },
@@ -280,14 +364,18 @@
    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
    "hn_url": "https://news.ycombinator.com/item?id=50182526",
-   "score": 95,
-   "comments": 61,
+   "score": 150,
+   "comments": 80,
    "author": "surprisetalk",
    "time_iso": "2026-10-21T15:20:04+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 95
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 150
     }
    ]
   },
@@ -296,30 +384,38 @@
    "title": "Today's PHP security release, and how we're strengthening security",
    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
    "hn_url": "https://news.ycombinator.com/item?id=50182987",
-   "score": 268,
-   "comments": 133,
+   "score": 543,
+   "comments": 281,
    "author": "ejohnso49",
    "time_iso": "2026-10-21T15:48:56+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 268
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 543
     }
    ]
   },
   {
    "id": "hn-50183280",
-   "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+   "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
    "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
    "hn_url": "https://news.ycombinator.com/item?id=50183280",
-   "score": 24,
-   "comments": 11,
+   "score": 47,
+   "comments": 22,
    "author": "hasheddan",
    "time_iso": "2026-10-21T16:05:05+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 47
     }
    ]
   },
@@ -344,14 +440,18 @@
    "title": "The bridge to agent-scale Git infrastructure",
    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
    "hn_url": "https://news.ycombinator.com/item?id=50183344",
-   "score": 13,
-   "comments": 0,
+   "score": 44,
+   "comments": 11,
    "author": "Klaster_1",
    "time_iso": "2026-10-21T16:09:28+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 44
     }
    ]
   },
@@ -360,14 +460,18 @@
    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
    "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
    "hn_url": "https://news.ycombinator.com/item?id=50183512",
-   "score": 20,
-   "comments": 5,
+   "score": 81,
+   "comments": 21,
    "author": "giuliomagnifico",
    "time_iso": "2026-10-21T16:20:37+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 81
     }
    ]
   },
@@ -392,14 +496,130 @@
    "title": "EA is shutting down BioWare",
    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
    "hn_url": "https://news.ycombinator.com/item?id=50184586",
-   "score": 81,
-   "comments": 36,
+   "score": 411,
+   "comments": 251,
    "author": "aaronbrethorst",
    "time_iso": "2026-10-21T17:29:33+00:00",
    "history": [
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 81
+    },
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 411
+    }
+   ]
+  },
+  {
+   "id": "hn-50184820",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50184820",
+   "score": 228,
+   "comments": 136,
+   "author": "cbg0",
+   "time_iso": "2026-10-21T17:45:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 228
+    }
+   ]
+  },
+  {
+   "id": "hn-50185630",
+   "title": "Canary Tokens",
+   "url": "https://canarytokens.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50185630",
+   "score": 90,
+   "comments": 18,
+   "author": "wiradikusuma",
+   "time_iso": "2026-10-21T18:45:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "id": "hn-50185814",
+   "title": "Potential third critical PHP CVE",
+   "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+   "hn_url": "https://news.ycombinator.com/item?id=50185814",
+   "score": 48,
+   "comments": 15,
+   "author": "mpaepper",
+   "time_iso": "2026-10-21T18:57:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50185869",
+   "title": "GitLab Critical Patch Release",
+   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "hn_url": "https://news.ycombinator.com/item?id=50185869",
+   "score": 150,
+   "comments": 32,
+   "author": "artooro",
+   "time_iso": "2026-10-21T19:01:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 150
+    }
+   ]
+  },
+  {
+   "id": "hn-50186010",
+   "title": "Google's Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50186010",
+   "score": 112,
+   "comments": 81,
+   "author": "kaycebasques",
+   "time_iso": "2026-10-21T19:11:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 112
+    }
+   ]
+  },
+  {
+   "id": "hn-50186037",
+   "title": "Claude Duet",
+   "url": "https://claude.com/product/claude-duet",
+   "hn_url": "https://news.ycombinator.com/item?id=50186037",
+   "score": 216,
+   "comments": 188,
+   "author": "kuberwastaken",
+   "time_iso": "2026-10-21T19:14:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 216
+    }
+   ]
+  },
+  {
+   "id": "hn-50187708",
+   "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
+   "url": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+   "hn_url": "https://news.ycombinator.com/item?id=50187708",
+   "score": 43,
+   "comments": 10,
+   "author": "hayd",
+   "time_iso": "2026-10-21T21:12:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T06:05:11.042439+08:00",
+     "score": 43
     }
    ]
   }
