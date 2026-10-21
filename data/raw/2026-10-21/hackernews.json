@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-21T06:05:16.839225+08:00",
- "count": 34,
+ "updated_at": "2026-10-21T09:16:15.146049+08:00",
+ "count": 42,
  "items": [
   {
    "id": "hn-50108717",
    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
    "hn_url": "https://news.ycombinator.com/item?id=50108717",
-   "score": 102,
-   "comments": 40,
+   "score": 162,
+   "comments": 72,
    "author": "dhorthy",
    "time_iso": "2026-10-15T19:09:34+00:00",
    "history": [
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 162
     }
    ]
   },
@@ -80,14 +84,18 @@
    "title": "Making Solar Panels with a Microwave [video]",
    "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
    "hn_url": "https://news.ycombinator.com/item?id=50139728",
-   "score": 6,
-   "comments": 0,
+   "score": 36,
+   "comments": 4,
    "author": "jackdoe",
    "time_iso": "2026-10-18T10:25:07+00:00",
    "history": [
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 36
     }
    ]
   },
@@ -108,6 +116,22 @@
    ]
   },
   {
+   "id": "hn-50143154",
+   "title": "What the heck is /pkg?",
+   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+   "hn_url": "https://news.ycombinator.com/item?id=50143154",
+   "score": 55,
+   "comments": 15,
+   "author": "GavinAnderegg",
+   "time_iso": "2026-10-18T17:21:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
    "id": "hn-50147034",
    "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
    "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
@@ -124,18 +148,54 @@
    ]
   },
   {
+   "id": "hn-50149609",
+   "title": "Shipping a LaTeX Compiler Behind an Edge App",
+   "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
+   "hn_url": "https://news.ycombinator.com/item?id=50149609",
+   "score": 6,
+   "comments": 3,
+   "author": "brgv",
+   "time_iso": "2026-10-19T07:59:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
    "id": "hn-50152886",
    "title": "Meta's GB{2,3}00 Cluster",
    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
    "hn_url": "https://news.ycombinator.com/item?id=50152886",
-   "score": 30,
-   "comments": 6,
+   "score": 60,
+   "comments": 24,
    "author": "stokedmartin",
    "time_iso": "2026-10-19T14:23:55+00:00",
    "history": [
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 30
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50156779",
+   "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+   "url": "https://dovepass.com",
+   "hn_url": "https://news.ycombinator.com/item?id=50156779",
+   "score": 12,
+   "comments": 2,
+   "author": "nimitmehra",
+   "time_iso": "2026-10-19T19:21:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 12
     }
    ]
   },
@@ -164,8 +224,8 @@
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "hn_url": "https://news.ycombinator.com/item?id=50163277",
-   "score": 2045,
-   "comments": 801,
+   "score": 2130,
+   "comments": 829,
    "author": "ggcr",
    "time_iso": "2026-10-20T09:08:54+00:00",
    "history": [
@@ -176,6 +236,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 2045
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 2130
     }
    ]
   },
@@ -184,8 +248,8 @@
    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
    "hn_url": "https://news.ycombinator.com/item?id=50163961",
-   "score": 285,
-   "comments": 148,
+   "score": 333,
+   "comments": 166,
    "author": "paweladamczuk",
    "time_iso": "2026-10-20T10:26:02+00:00",
    "history": [
@@ -196,6 +260,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 285
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 333
     }
    ]
   },
@@ -220,8 +288,8 @@
    "title": "Apple broke an essential presentation feature of iPads",
    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
    "hn_url": "https://news.ycombinator.com/item?id=50165208",
-   "score": 432,
-   "comments": 236,
+   "score": 487,
+   "comments": 247,
    "author": "evanb",
    "time_iso": "2026-10-20T12:17:28+00:00",
    "history": [
@@ -232,6 +300,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 432
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 487
     }
    ]
   },
@@ -272,8 +344,8 @@
    "title": "Tsrs: A Port of TypeScript to Rust",
    "url": "https://blog.cloudflare.com/typescript-rust-port/",
    "hn_url": "https://news.ycombinator.com/item?id=50165953",
-   "score": 303,
-   "comments": 141,
+   "score": 343,
+   "comments": 166,
    "author": "hnisjafx40",
    "time_iso": "2026-10-20T13:18:07+00:00",
    "history": [
@@ -284,6 +356,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 303
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 343
     }
    ]
   },
@@ -292,8 +368,8 @@
    "title": "How I got over 300 Tor exit nodes removed",
    "url": "https://kaba.cx/posts/20261020_Tor/",
    "hn_url": "https://news.ycombinator.com/item?id=50166257",
-   "score": 278,
-   "comments": 69,
+   "score": 318,
+   "comments": 76,
    "author": "kabakabakaba",
    "time_iso": "2026-10-20T13:39:24+00:00",
    "history": [
@@ -304,6 +380,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 278
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 318
     }
    ]
   },
@@ -328,8 +408,8 @@
    "title": "EMudhra Intermediate CA Compromise",
    "url": "https://emudhra.we-have-a-problem.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50166579",
-   "score": 498,
-   "comments": 274,
+   "score": 622,
+   "comments": 334,
    "author": "galadran",
    "time_iso": "2026-10-20T13:58:33+00:00",
    "history": [
@@ -340,6 +420,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 498
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 622
     }
    ]
   },
@@ -368,8 +452,8 @@
    "title": "Ofcom concedes defeat in 4chan case",
    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
    "hn_url": "https://news.ycombinator.com/item?id=50167028",
-   "score": 280,
-   "comments": 185,
+   "score": 328,
+   "comments": 249,
    "author": "iamnothere",
    "time_iso": "2026-10-20T14:30:31+00:00",
    "history": [
@@ -380,6 +464,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 280
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 328
     }
    ]
   },
@@ -408,14 +496,18 @@
    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
    "url": "https://news.ycombinator.com/item?id=50167583",
    "hn_url": "https://news.ycombinator.com/item?id=50167583",
-   "score": 26,
-   "comments": 14,
+   "score": 44,
+   "comments": 16,
    "author": "Andydy25",
    "time_iso": "2026-10-20T15:09:29+00:00",
    "history": [
     {
      "t": "2026-10-21T02:20:23.679899+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 44
     }
    ]
   },
@@ -440,8 +532,8 @@
    "title": "IKEA – 3D Guide",
    "url": "https://sael.net/flatpack/",
    "hn_url": "https://news.ycombinator.com/item?id=50168096",
-   "score": 114,
-   "comments": 34,
+   "score": 136,
+   "comments": 50,
    "author": "punnerud",
    "time_iso": "2026-10-20T15:42:45+00:00",
    "history": [
@@ -452,6 +544,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 114
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 136
     }
    ]
   },
@@ -476,14 +572,18 @@
    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
    "hn_url": "https://news.ycombinator.com/item?id=50168357",
-   "score": 121,
-   "comments": 70,
+   "score": 184,
+   "comments": 112,
    "author": "speckx",
    "time_iso": "2026-10-20T15:59:06+00:00",
    "history": [
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 121
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 184
     }
    ]
   },
@@ -492,8 +592,8 @@
    "title": "Voxtral 3",
    "url": "https://mistral.ai/news/voxtral-3/",
    "hn_url": "https://news.ycombinator.com/item?id=50168396",
-   "score": 448,
-   "comments": 124,
+   "score": 520,
+   "comments": 140,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:02:07+00:00",
    "history": [
@@ -504,6 +604,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 448
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 520
     }
    ]
   },
@@ -512,8 +616,8 @@
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
    "url": "https://github.com/google-pytorch/torch_tpu",
    "hn_url": "https://news.ycombinator.com/item?id=50169053",
-   "score": 207,
-   "comments": 50,
+   "score": 257,
+   "comments": 62,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:40:24+00:00",
    "history": [
@@ -524,6 +628,26 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 207
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 257
+    }
+   ]
+  },
+  {
+   "id": "hn-50169506",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "url": "https://research.poh.org/bot-benchmarking-2026/",
+   "hn_url": "https://news.ycombinator.com/item?id=50169506",
+   "score": 23,
+   "comments": 0,
+   "author": "mdahardy",
+   "time_iso": "2026-10-20T17:10:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 23
     }
    ]
   },
@@ -532,8 +656,8 @@
    "title": "What shall I teach my son?",
    "url": "https://stevekrouse.com/ends",
    "hn_url": "https://news.ycombinator.com/item?id=50169707",
-   "score": 165,
-   "comments": 242,
+   "score": 254,
+   "comments": 319,
    "author": "Curiositry",
    "time_iso": "2026-10-20T17:25:07+00:00",
    "history": [
@@ -544,6 +668,10 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 165
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 254
     }
    ]
   },
@@ -584,14 +712,34 @@
    "title": "SimCity, but with Permits",
    "url": "https://permit.petercai.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50170593",
-   "score": 356,
-   "comments": 187,
+   "score": 538,
+   "comments": 284,
    "author": "pcai",
    "time_iso": "2026-10-20T18:29:09+00:00",
    "history": [
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 356
+    },
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 538
+    }
+   ]
+  },
+  {
+   "id": "hn-50170917",
+   "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+   "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+   "hn_url": "https://news.ycombinator.com/item?id=50170917",
+   "score": 118,
+   "comments": 60,
+   "author": "jruohonen",
+   "time_iso": "2026-10-20T18:51:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 118
     }
    ]
   },
@@ -608,6 +756,54 @@
     {
      "t": "2026-10-21T06:05:16.839225+08:00",
      "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50173487",
+   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "hn_url": "https://news.ycombinator.com/item?id=50173487",
+   "score": 83,
+   "comments": 21,
+   "author": "Bender",
+   "time_iso": "2026-10-20T22:21:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 83
+    }
+   ]
+  },
+  {
+   "id": "hn-50173891",
+   "title": "The Other Epidemic: Trying to get off benzodiazepines",
+   "url": "https://www.thebeliever.net/the-other-epidemic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50173891",
+   "score": 53,
+   "comments": 29,
+   "author": "gaplong",
+   "time_iso": "2026-10-20T23:04:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 53
+    }
+   ]
+  },
+  {
+   "id": "hn-50174448",
+   "title": "Microagi: Accelerating Embodied AGI",
+   "url": "https://www.microagi.ai/",
+   "hn_url": "https://news.ycombinator.com/item?id=50174448",
+   "score": 6,
+   "comments": 3,
+   "author": "doener",
+   "time_iso": "2026-10-21T00:11:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T09:16:15.146049+08:00",
+     "score": 6
     }
    ]
   }
