@@ -1,15 +1,15 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-21T09:16:15.146049+08:00",
- "count": 42,
+ "updated_at": "2026-10-21T15:02:26.804909+08:00",
+ "count": 55,
  "items": [
   {
    "id": "hn-50108717",
    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
    "hn_url": "https://news.ycombinator.com/item?id=50108717",
-   "score": 162,
-   "comments": 72,
+   "score": 239,
+   "comments": 91,
    "author": "dhorthy",
    "time_iso": "2026-10-15T19:09:34+00:00",
    "history": [
@@ -20,6 +20,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 162
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 239
     }
    ]
   },
@@ -148,6 +152,22 @@
    ]
   },
   {
+   "id": "hn-50147799",
+   "title": "ZX Spectrum Next Laptop",
+   "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+   "hn_url": "https://news.ycombinator.com/item?id=50147799",
+   "score": 41,
+   "comments": 4,
+   "author": "utopcell",
+   "time_iso": "2026-10-19T02:48:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
    "id": "hn-50149609",
    "title": "Shipping a LaTeX Compiler Behind an Edge App",
    "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
@@ -160,6 +180,22 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50151771",
+   "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+   "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+   "hn_url": "https://news.ycombinator.com/item?id=50151771",
+   "score": 25,
+   "comments": 2,
+   "author": "jfecher",
+   "time_iso": "2026-10-19T12:47:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 25
     }
    ]
   },
@@ -200,6 +236,22 @@
    ]
   },
   {
+   "id": "hn-50160440",
+   "title": "Ship Your Interpreter",
+   "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+   "hn_url": "https://news.ycombinator.com/item?id=50160440",
+   "score": 14,
+   "comments": 3,
+   "author": "gopiandcode",
+   "time_iso": "2026-10-20T01:57:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
    "id": "hn-50162177",
    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
    "url": "https://github.com/microg/GmsCore/wiki",
@@ -224,8 +276,8 @@
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "hn_url": "https://news.ycombinator.com/item?id=50163277",
-   "score": 2130,
-   "comments": 829,
+   "score": 2212,
+   "comments": 852,
    "author": "ggcr",
    "time_iso": "2026-10-20T09:08:54+00:00",
    "history": [
@@ -240,6 +292,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 2130
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 2212
     }
    ]
   },
@@ -288,8 +344,8 @@
    "title": "Apple broke an essential presentation feature of iPads",
    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
    "hn_url": "https://news.ycombinator.com/item?id=50165208",
-   "score": 487,
-   "comments": 247,
+   "score": 541,
+   "comments": 269,
    "author": "evanb",
    "time_iso": "2026-10-20T12:17:28+00:00",
    "history": [
@@ -304,6 +360,26 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 487
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 541
+    }
+   ]
+  },
+  {
+   "id": "hn-50165215",
+   "title": "Four Years with Decker",
+   "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50165215",
+   "score": 20,
+   "comments": 2,
+   "author": "ibobev",
+   "time_iso": "2026-10-20T12:18:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 20
     }
    ]
   },
@@ -344,8 +420,8 @@
    "title": "Tsrs: A Port of TypeScript to Rust",
    "url": "https://blog.cloudflare.com/typescript-rust-port/",
    "hn_url": "https://news.ycombinator.com/item?id=50165953",
-   "score": 343,
-   "comments": 166,
+   "score": 387,
+   "comments": 191,
    "author": "hnisjafx40",
    "time_iso": "2026-10-20T13:18:07+00:00",
    "history": [
@@ -360,6 +436,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 343
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 387
     }
    ]
   },
@@ -405,11 +485,11 @@
   },
   {
    "id": "hn-50166579",
-   "title": "EMudhra Intermediate CA Compromise",
+   "title": "eMudhra intermediate CA compromise",
    "url": "https://emudhra.we-have-a-problem.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50166579",
-   "score": 622,
-   "comments": 334,
+   "score": 842,
+   "comments": 374,
    "author": "galadran",
    "time_iso": "2026-10-20T13:58:33+00:00",
    "history": [
@@ -424,6 +504,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 622
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 842
     }
    ]
   },
@@ -452,8 +536,8 @@
    "title": "Ofcom concedes defeat in 4chan case",
    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
    "hn_url": "https://news.ycombinator.com/item?id=50167028",
-   "score": 328,
-   "comments": 249,
+   "score": 372,
+   "comments": 282,
    "author": "iamnothere",
    "time_iso": "2026-10-20T14:30:31+00:00",
    "history": [
@@ -468,6 +552,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 328
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 372
     }
    ]
   },
@@ -592,8 +680,8 @@
    "title": "Voxtral 3",
    "url": "https://mistral.ai/news/voxtral-3/",
    "hn_url": "https://news.ycombinator.com/item?id=50168396",
-   "score": 520,
-   "comments": 140,
+   "score": 610,
+   "comments": 154,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:02:07+00:00",
    "history": [
@@ -608,6 +696,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 520
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 610
     }
    ]
   },
@@ -616,8 +708,8 @@
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
    "url": "https://github.com/google-pytorch/torch_tpu",
    "hn_url": "https://news.ycombinator.com/item?id=50169053",
-   "score": 257,
-   "comments": 62,
+   "score": 320,
+   "comments": 73,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:40:24+00:00",
    "history": [
@@ -632,6 +724,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 257
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 320
     }
    ]
   },
@@ -656,8 +752,8 @@
    "title": "What shall I teach my son?",
    "url": "https://stevekrouse.com/ends",
    "hn_url": "https://news.ycombinator.com/item?id=50169707",
-   "score": 254,
-   "comments": 319,
+   "score": 358,
+   "comments": 419,
    "author": "Curiositry",
    "time_iso": "2026-10-20T17:25:07+00:00",
    "history": [
@@ -672,6 +768,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 254
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 358
     }
    ]
   },
@@ -709,11 +809,11 @@
   },
   {
    "id": "hn-50170593",
-   "title": "SimCity, but with Permits",
+   "title": "Show HN: SimCity, but with Permits",
    "url": "https://permit.petercai.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50170593",
-   "score": 538,
-   "comments": 284,
+   "score": 722,
+   "comments": 357,
    "author": "pcai",
    "time_iso": "2026-10-20T18:29:09+00:00",
    "history": [
@@ -724,6 +824,10 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 538
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 722
     }
    ]
   },
@@ -760,18 +864,38 @@
    ]
   },
   {
+   "id": "hn-50172041",
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+   "url": "https://news-web.php.net/php.announce/509",
+   "hn_url": "https://news.ycombinator.com/item?id=50172041",
+   "score": 479,
+   "comments": 181,
+   "author": "xd",
+   "time_iso": "2026-10-20T20:15:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 479
+    }
+   ]
+  },
+  {
    "id": "hn-50173487",
    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
    "hn_url": "https://news.ycombinator.com/item?id=50173487",
-   "score": 83,
-   "comments": 21,
+   "score": 175,
+   "comments": 71,
    "author": "Bender",
    "time_iso": "2026-10-20T22:21:05+00:00",
    "history": [
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 83
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 175
     }
    ]
   },
@@ -780,14 +904,18 @@
    "title": "The Other Epidemic: Trying to get off benzodiazepines",
    "url": "https://www.thebeliever.net/the-other-epidemic/",
    "hn_url": "https://news.ycombinator.com/item?id=50173891",
-   "score": 53,
-   "comments": 29,
+   "score": 156,
+   "comments": 110,
    "author": "gaplong",
    "time_iso": "2026-10-20T23:04:09+00:00",
    "history": [
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 156
     }
    ]
   },
@@ -804,6 +932,134 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50174687",
+   "title": "Muse exposes users' personal and business secrets when they share conversations",
+   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "hn_url": "https://news.ycombinator.com/item?id=50174687",
+   "score": 91,
+   "comments": 17,
+   "author": "gumby",
+   "time_iso": "2026-10-21T00:45:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 91
+    }
+   ]
+  },
+  {
+   "id": "hn-50175059",
+   "title": "Good type against all odds",
+   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+   "hn_url": "https://news.ycombinator.com/item?id=50175059",
+   "score": 89,
+   "comments": 10,
+   "author": "firloop",
+   "time_iso": "2026-10-21T01:45:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 89
+    }
+   ]
+  },
+  {
+   "id": "hn-50175070",
+   "title": "The Future of CSS",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "hn_url": "https://news.ycombinator.com/item?id=50175070",
+   "score": 232,
+   "comments": 87,
+   "author": "soheilpro",
+   "time_iso": "2026-10-21T01:47:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 232
+    }
+   ]
+  },
+  {
+   "id": "hn-50175185",
+   "title": "In Hilbert space, all things are quantumly possible",
+   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "hn_url": "https://news.ycombinator.com/item?id=50175185",
+   "score": 67,
+   "comments": 33,
+   "author": "unprovable",
+   "time_iso": "2026-10-21T02:04:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-50175779",
+   "title": "Using Claude to reduce the attack surface of code",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "hn_url": "https://news.ycombinator.com/item?id=50175779",
+   "score": 12,
+   "comments": 2,
+   "author": "dnw",
+   "time_iso": "2026-10-21T03:36:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50175882",
+   "title": "Setting Up SSH Keys on macOS with Touch ID",
+   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+   "hn_url": "https://news.ycombinator.com/item?id=50175882",
+   "score": 23,
+   "comments": 14,
+   "author": "civilchaos",
+   "time_iso": "2026-10-21T03:51:25+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50176298",
+   "title": "Battlezone Online: BZFlag in the Browser",
+   "url": "https://github.com/timriker/bzo",
+   "hn_url": "https://news.ycombinator.com/item?id=50176298",
+   "score": 19,
+   "comments": 11,
+   "author": "indigodaddy",
+   "time_iso": "2026-10-21T05:05:19+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50176301",
+   "title": "Pillowfort Is Closing",
+   "url": "https://www.pillowfort.social/posts/8413273",
+   "hn_url": "https://news.ycombinator.com/item?id=50176301",
+   "score": 27,
+   "comments": 15,
+   "author": "BrenBarn",
+   "time_iso": "2026-10-21T05:05:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T15:02:26.804909+08:00",
+     "score": 27
     }
    ]
   }

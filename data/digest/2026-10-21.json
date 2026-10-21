@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T09:16:17.453834+08:00",
+ "generated_at": "2026-10-21T15:02:28.924005+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,9 +8,9 @@
    "errors": [],
    "items": [
     {
-     "title": "EMudhra Intermediate CA Compromise",
+     "title": "eMudhra intermediate CA compromise",
      "url": "https://emudhra.we-have-a-problem.com/",
-     "meta": "+329 分 / 6.9 小时 · 现 ⭐ 622",
+     "meta": "+549 分 / 12.7 小时 · 现 ⭐ 842",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,15 @@
     {
      "title": "Voxtral 3",
      "url": "https://mistral.ai/news/voxtral-3/",
-     "meta": "+284 分 / 6.9 小时 · 现 ⭐ 520",
+     "meta": "+374 分 / 12.7 小时 · 现 ⭐ 610",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: SimCity, but with Permits",
+     "url": "https://permit.petercai.com/",
+     "meta": "+366 分 / 9.0 小时 · 现 ⭐ 722",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +34,7 @@
     {
      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "+236 分 / 6.9 小时 · 现 ⭐ 2130",
+     "meta": "+318 分 / 12.7 小时 · 现 ⭐ 2212",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +42,7 @@
     {
      "title": "What shall I teach my son?",
      "url": "https://stevekrouse.com/ends",
-     "meta": "+211 分 / 6.9 小时 · 现 ⭐ 254",
+     "meta": "+315 分 / 12.7 小时 · 现 ⭐ 358",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,15 +50,7 @@
     {
      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
      "url": "https://github.com/google-pytorch/torch_tpu",
-     "meta": "+183 分 / 6.9 小时 · 现 ⭐ 257",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "SimCity, but with Permits",
-     "url": "https://permit.petercai.com/",
-     "meta": "+182 分 / 3.2 小时 · 现 ⭐ 538",
+     "meta": "+246 分 / 12.7 小时 · 现 ⭐ 320",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,7 +58,7 @@
     {
      "title": "Ofcom concedes defeat in 4chan case",
      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-     "meta": "+179 分 / 6.9 小时 · 现 ⭐ 328",
+     "meta": "+223 分 / 12.7 小时 · 现 ⭐ 372",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,7 +66,7 @@
     {
      "title": "Apple broke an essential presentation feature of iPads",
      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-     "meta": "+161 分 / 6.9 小时 · 现 ⭐ 487",
+     "meta": "+215 分 / 12.7 小时 · 现 ⭐ 541",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -74,15 +74,15 @@
     {
      "title": "Tsrs: A Port of TypeScript to Rust",
      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-     "meta": "+158 分 / 6.9 小时 · 现 ⭐ 343",
+     "meta": "+202 分 / 12.7 小时 · 现 ⭐ 387",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "How I got over 300 Tor exit nodes removed",
-     "url": "https://kaba.cx/posts/20261020_Tor/",
-     "meta": "+123 分 / 6.9 小时 · 现 ⭐ 318",
+     "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+     "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+     "meta": "+137 分 / 9.0 小时 · 现 ⭐ 239",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -94,6 +94,14 @@
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "PHP warns it plans to release 2 emergency patches imminently",
+     "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+     "meta": "Ars Technica · 2026-10-21",
+     "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
@@ -205,14 +213,6 @@
      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "The Agent Said It Was Done. The Database Disagreed.",
-     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-     "meta": "Hugging Face · 2026-10-03",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -224,7 +224,7 @@
     {
      "title": "deepseek-ai/DeepInfer",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 12561 · Python",
+     "meta": "⭐ 15324 · Python",
      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 11979 · Java",
+     "meta": "⭐ 13945 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,8 +240,16 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 2846 · C",
+     "meta": "⭐ 3144 · C",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "simbasjungles/free-my-tv",
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "meta": "⭐ 2078 · Java",
+     "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -256,7 +264,7 @@
     {
      "title": "Leonxlnx/earshot",
      "url": "https://github.com/Leonxlnx/earshot",
-     "meta": "⭐ 1954 · Python",
+     "meta": "⭐ 1997 · Python",
      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,23 +272,15 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1853 · TypeScript",
+     "meta": "⭐ 1860 · TypeScript",
      "summary": "Turn your regular JavaScript code into a neural net.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "simbasjungles/free-my-tv",
-     "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 1828 · Java",
-     "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Supermedo/uncharted_pc",
      "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1725 · C++",
+     "meta": "⭐ 1740 · C++",
      "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
@@ -288,8 +288,16 @@
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 1593 · Python",
-     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+     "meta": "⭐ 1736 · Python",
+     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "feder-cr/git-ai",
+     "url": "https://github.com/feder-cr/git-ai",
+     "meta": "⭐ 1299 · Go",
+     "summary": "Git designed for AI agents.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -302,17 +310,17 @@
      "origin_source": "github_search"
     },
     {
-     "title": "feder-cr/git-ai",
-     "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1271 · Go",
-     "summary": "Git designed for AI agents.",
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "meta": "⭐ 1208 · Kotlin",
+     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "aicodeking/leanrea",
      "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1180 · Python",
+     "meta": "⭐ 1203 · Python",
      "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +328,7 @@
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "meta": "⭐ 1168 · Python",
+     "meta": "⭐ 1197 · Python",
      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,16 +336,8 @@
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1151 · JavaScript",
+     "meta": "⭐ 1191 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "xscreensaver-official/xscreensaver",
-     "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 1077",
-     "summary": "There is no official XScreenSaver GitHub repository.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,23 +351,23 @@
     {
      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 2130 · 💬 829",
+     "meta": "⭐ 2212 · 💬 852",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "EMudhra Intermediate CA Compromise",
+     "title": "eMudhra intermediate CA compromise",
      "url": "https://emudhra.we-have-a-problem.com/",
-     "meta": "⭐ 622 · 💬 334",
+     "meta": "⭐ 842 · 💬 374",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "SimCity, but with Permits",
+     "title": "Show HN: SimCity, but with Permits",
      "url": "https://permit.petercai.com/",
-     "meta": "⭐ 538 · 💬 284",
+     "meta": "⭐ 722 · 💬 357",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +375,15 @@
     {
      "title": "Voxtral 3",
      "url": "https://mistral.ai/news/voxtral-3/",
-     "meta": "⭐ 520 · 💬 140",
+     "meta": "⭐ 610 · 💬 154",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple broke an essential presentation feature of iPads",
+     "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+     "meta": "⭐ 541 · 💬 269",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,9 +397,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Apple broke an essential presentation feature of iPads",
-     "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-     "meta": "⭐ 487 · 💬 247",
+     "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+     "url": "https://news-web.php.net/php.announce/509",
+     "meta": "⭐ 479 · 💬 181",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,6 +413,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Tsrs: A Port of TypeScript to Rust",
+     "url": "https://blog.cloudflare.com/typescript-rust-port/",
+     "meta": "⭐ 387 · 💬 191",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ofcom concedes defeat in 4chan case",
+     "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+     "meta": "⭐ 372 · 💬 282",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
      "url": "https://github.com/microg/GmsCore/wiki",
      "meta": "⭐ 359 · 💬 77",
@@ -413,9 +437,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Tsrs: A Port of TypeScript to Rust",
-     "url": "https://blog.cloudflare.com/typescript-rust-port/",
-     "meta": "⭐ 343 · 💬 166",
+     "title": "What shall I teach my son?",
+     "url": "https://stevekrouse.com/ends",
+     "meta": "⭐ 358 · 💬 419",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,9 +453,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Ofcom concedes defeat in 4chan case",
-     "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-     "meta": "⭐ 328 · 💬 249",
+     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+     "url": "https://github.com/google-pytorch/torch_tpu",
+     "meta": "⭐ 320 · 💬 73",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -440,30 +464,6 @@
      "title": "How I got over 300 Tor exit nodes removed",
      "url": "https://kaba.cx/posts/20261020_Tor/",
      "meta": "⭐ 318 · 💬 76",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-     "url": "https://github.com/google-pytorch/torch_tpu",
-     "meta": "⭐ 257 · 💬 62",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What shall I teach my son?",
-     "url": "https://stevekrouse.com/ends",
-     "meta": "⭐ 254 · 💬 319",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Publish fake stats, get cited in LLMs",
-     "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-     "meta": "⭐ 235 · 💬 124",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -588,10 +588,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "snyvi",
-     "url": "https://www.producthunt.com/products/snyvi",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "All your passion projects, in one calm place",
+     "title": "Flagsmith Experiments",
+     "url": "https://www.producthunt.com/products/flagsmith",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Open-source A/B testing built on your feature flags",
      "reason": null,
      "origin_source": "producthunt"
     }

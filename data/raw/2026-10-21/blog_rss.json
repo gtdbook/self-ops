@@ -1,6 +1,6 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-21T09:16:16.937801+08:00",
+ "updated_at": "2026-10-21T15:02:28.644341+08:00",
  "count": 2354,
  "items": [
   {
@@ -470,6 +470,15 @@
    "published": "Wed, 03 Dec 2025 10:00:00 GMT",
    "published_iso": "2025-12-03T10:00:00+00:00",
    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training."
+  },
+  {
+   "id": "rss-070a98d3d1c57b47",
+   "title": "PHP warns it plans to release 2 emergency patches imminently",
+   "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+   "feed_name": "Ars Technica",
+   "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+   "published_iso": "2026-10-21T02:12:18+00:00",
+   "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
   },
   {
    "id": "rss-070bbfebf0ebbaf3",
@@ -2693,15 +2702,6 @@
    "published": "Thu, 09 Nov 2023 08:00:00 GMT",
    "published_iso": "2023-11-09T08:00:00+00:00",
    "summary": "Working together to create open-source and private datasets for AI training."
-  },
-  {
-   "id": "rss-1f42542c4eba13fa",
-   "title": "FineVideo: behind the scenes",
-   "url": "https://huggingface.co/blog/fine-video",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 23 Sep 2024 00:00:00 GMT",
-   "published_iso": "2024-09-23T00:00:00+00:00",
-   "summary": ""
   }
  ]
 }
