@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T15:02:28.924005+08:00",
+ "generated_at": "2026-10-21T21:25:24.908115+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,17 +8,17 @@
    "errors": [],
    "items": [
     {
-     "title": "eMudhra intermediate CA compromise",
-     "url": "https://emudhra.we-have-a-problem.com/",
-     "meta": "+549 分 / 12.7 小时 · 现 ⭐ 842",
+     "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+     "url": "https://news-web.php.net/php.announce/509",
+     "meta": "+795 分 / 6.4 小时 · 现 ⭐ 1274",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Voxtral 3",
-     "url": "https://mistral.ai/news/voxtral-3/",
-     "meta": "+374 分 / 12.7 小时 · 现 ⭐ 610",
+     "title": "eMudhra intermediate CA compromise",
+     "url": "https://emudhra.we-have-a-problem.com/",
+     "meta": "+772 分 / 19.1 小时 · 现 ⭐ 1065",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,15 @@
     {
      "title": "Show HN: SimCity, but with Permits",
      "url": "https://permit.petercai.com/",
-     "meta": "+366 分 / 9.0 小时 · 现 ⭐ 722",
+     "meta": "+491 分 / 15.3 小时 · 现 ⭐ 847",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Voxtral 3",
+     "url": "https://mistral.ai/news/voxtral-3/",
+     "meta": "+488 分 / 19.1 小时 · 现 ⭐ 724",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,7 +58,15 @@
     {
      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
      "url": "https://github.com/google-pytorch/torch_tpu",
-     "meta": "+246 分 / 12.7 小时 · 现 ⭐ 320",
+     "meta": "+288 分 / 19.1 小时 · 现 ⭐ 362",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Future of CSS",
+     "url": "https://www.joshwcomeau.com/css/interop-2027/",
+     "meta": "+231 分 / 6.4 小时 · 现 ⭐ 463",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -67,22 +83,6 @@
      "title": "Apple broke an essential presentation feature of iPads",
      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
      "meta": "+215 分 / 12.7 小时 · 现 ⭐ 541",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Tsrs: A Port of TypeScript to Rust",
-     "url": "https://blog.cloudflare.com/typescript-rust-port/",
-     "meta": "+202 分 / 12.7 小时 · 现 ⭐ 387",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-     "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-     "meta": "+137 分 / 9.0 小时 · 现 ⭐ 239",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "deepseek-ai/DeepInfer",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 15324 · Python",
+     "meta": "⭐ 16893 · Python",
      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 13945 · Java",
+     "meta": "⭐ 16219 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 3144 · C",
+     "meta": "⭐ 3439 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 2078 · Java",
+     "meta": "⭐ 2302 · Java",
      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,40 +264,40 @@
     {
      "title": "Leonxlnx/earshot",
      "url": "https://github.com/Leonxlnx/earshot",
-     "meta": "⭐ 1997 · Python",
+     "meta": "⭐ 2028 · Python",
      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "chenglou/handwired",
-     "url": "https://github.com/chenglou/handwired",
-     "meta": "⭐ 1860 · TypeScript",
-     "summary": "Turn your regular JavaScript code into a neural net.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Supermedo/uncharted_pc",
-     "url": "https://github.com/Supermedo/uncharted_pc",
-     "meta": "⭐ 1740 · C++",
-     "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 1736 · Python",
-     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+     "meta": "⭐ 1872 · Python",
+     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "feder-cr/git-ai",
-     "url": "https://github.com/feder-cr/git-ai",
-     "meta": "⭐ 1299 · Go",
-     "summary": "Git designed for AI agents.",
+     "title": "chenglou/handwired",
+     "url": "https://github.com/chenglou/handwired",
+     "meta": "⭐ 1866 · TypeScript",
+     "summary": "Turn your regular JavaScript code into a neural net.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "meta": "⭐ 1773 · Kotlin",
+     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Supermedo/uncharted_pc",
+     "url": "https://github.com/Supermedo/uncharted_pc",
+     "meta": "⭐ 1758 · C++",
+     "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -310,33 +310,33 @@
      "origin_source": "github_search"
     },
     {
-     "title": "pengchujin/aerial-tv",
-     "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 1208 · Kotlin",
-     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "aicodeking/leanrea",
-     "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1203 · Python",
-     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "meta": "⭐ 1244",
+     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "meta": "⭐ 1197 · Python",
+     "meta": "⭐ 1241 · Python",
      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "meta": "⭐ 1238 · Python",
+     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1191 · JavaScript",
+     "meta": "⭐ 1236 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
      "reason": null,
      "origin_source": "github_search"
@@ -357,9 +357,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+     "url": "https://news-web.php.net/php.announce/509",
+     "meta": "⭐ 1274 · 💬 526",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "eMudhra intermediate CA compromise",
      "url": "https://emudhra.we-have-a-problem.com/",
-     "meta": "⭐ 842 · 💬 374",
+     "meta": "⭐ 1065 · 💬 421",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +375,7 @@
     {
      "title": "Show HN: SimCity, but with Permits",
      "url": "https://permit.petercai.com/",
-     "meta": "⭐ 722 · 💬 357",
+     "meta": "⭐ 847 · 💬 391",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +383,7 @@
     {
      "title": "Voxtral 3",
      "url": "https://mistral.ai/news/voxtral-3/",
-     "meta": "⭐ 610 · 💬 154",
+     "meta": "⭐ 724 · 💬 177",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,6 +397,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+     "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+     "meta": "⭐ 501 · 💬 557",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Nordwand Mono – A monospace font for coders and adventurers",
      "url": "https://github.com/tywr/Nordwand-Mono",
      "meta": "⭐ 488 · 💬 140",
@@ -397,9 +413,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-     "url": "https://news-web.php.net/php.announce/509",
-     "meta": "⭐ 479 · 💬 181",
+     "title": "The Future of CSS",
+     "url": "https://www.joshwcomeau.com/css/interop-2027/",
+     "meta": "⭐ 463 · 💬 193",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,6 +437,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+     "meta": "⭐ 379 · 💬 153",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Ofcom concedes defeat in 4chan case",
      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
      "meta": "⭐ 372 · 💬 282",
@@ -429,41 +453,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+     "url": "https://github.com/google-pytorch/torch_tpu",
+     "meta": "⭐ 362 · 💬 76",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
      "url": "https://github.com/microg/GmsCore/wiki",
      "meta": "⭐ 359 · 💬 77",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What shall I teach my son?",
-     "url": "https://stevekrouse.com/ends",
-     "meta": "⭐ 358 · 💬 419",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-     "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-     "meta": "⭐ 333 · 💬 166",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-     "url": "https://github.com/google-pytorch/torch_tpu",
-     "meta": "⭐ 320 · 💬 73",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "How I got over 300 Tor exit nodes removed",
-     "url": "https://kaba.cx/posts/20261020_Tor/",
-     "meta": "⭐ 318 · 💬 76",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

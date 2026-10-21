@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-21T15:02:26.804909+08:00",
- "count": 55,
+ "updated_at": "2026-10-21T21:25:18.617455+08:00",
+ "count": 69,
  "items": [
   {
    "id": "hn-50108717",
@@ -104,6 +104,22 @@
    ]
   },
   {
+   "id": "hn-50140768",
+   "title": "A page looks innocent: the algorithms behind a typeset page",
+   "url": "https://news.speedata.de/2026/10/18/anatomy-of-a-page/",
+   "hn_url": "https://news.ycombinator.com/item?id=50140768",
+   "score": 4,
+   "comments": 1,
+   "author": "patrickg",
+   "time_iso": "2026-10-18T13:06:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
    "id": "hn-50141581",
    "title": "Nordwand Mono – A monospace font for coders and adventurers",
    "url": "https://github.com/tywr/Nordwand-Mono",
@@ -180,6 +196,54 @@
     {
      "t": "2026-10-21T09:16:15.146049+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50149861",
+   "title": "The Decoherence Trap",
+   "url": "https://maevyn.codes/decoherence",
+   "hn_url": "https://news.ycombinator.com/item?id=50149861",
+   "score": 80,
+   "comments": 29,
+   "author": "cassianoleal",
+   "time_iso": "2026-10-19T08:35:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 80
+    }
+   ]
+  },
+  {
+   "id": "hn-50150214",
+   "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+   "url": "https://www.pagetable.com/303",
+   "hn_url": "https://news.ycombinator.com/item?id=50150214",
+   "score": 69,
+   "comments": 22,
+   "author": "frizlab",
+   "time_iso": "2026-10-19T09:21:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50151175",
+   "title": "The Lucrative World of Literary Scams",
+   "url": "https://www.thedial.world/articles/news/ai-book-scams",
+   "hn_url": "https://news.ycombinator.com/item?id=50151175",
+   "score": 20,
+   "comments": 2,
+   "author": "samclemens",
+   "time_iso": "2026-10-19T11:43:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 20
     }
    ]
   },
@@ -488,8 +552,8 @@
    "title": "eMudhra intermediate CA compromise",
    "url": "https://emudhra.we-have-a-problem.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50166579",
-   "score": 842,
-   "comments": 374,
+   "score": 1065,
+   "comments": 421,
    "author": "galadran",
    "time_iso": "2026-10-20T13:58:33+00:00",
    "history": [
@@ -508,6 +572,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 842
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 1065
     }
    ]
   },
@@ -680,8 +748,8 @@
    "title": "Voxtral 3",
    "url": "https://mistral.ai/news/voxtral-3/",
    "hn_url": "https://news.ycombinator.com/item?id=50168396",
-   "score": 610,
-   "comments": 154,
+   "score": 724,
+   "comments": 177,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:02:07+00:00",
    "history": [
@@ -700,6 +768,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 610
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 724
     }
    ]
   },
@@ -708,8 +780,8 @@
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
    "url": "https://github.com/google-pytorch/torch_tpu",
    "hn_url": "https://news.ycombinator.com/item?id=50169053",
-   "score": 320,
-   "comments": 73,
+   "score": 362,
+   "comments": 76,
    "author": "ilreb",
    "time_iso": "2026-10-20T16:40:24+00:00",
    "history": [
@@ -728,6 +800,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 320
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 362
     }
    ]
   },
@@ -812,8 +888,8 @@
    "title": "Show HN: SimCity, but with Permits",
    "url": "https://permit.petercai.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50170593",
-   "score": 722,
-   "comments": 357,
+   "score": 847,
+   "comments": 391,
    "author": "pcai",
    "time_iso": "2026-10-20T18:29:09+00:00",
    "history": [
@@ -828,6 +904,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 722
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 847
     }
    ]
   },
@@ -868,14 +948,18 @@
    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
    "url": "https://news-web.php.net/php.announce/509",
    "hn_url": "https://news.ycombinator.com/item?id=50172041",
-   "score": 479,
-   "comments": 181,
+   "score": 1274,
+   "comments": 526,
    "author": "xd",
    "time_iso": "2026-10-20T20:15:50+00:00",
    "history": [
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 479
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 1274
     }
    ]
   },
@@ -884,8 +968,8 @@
    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
    "hn_url": "https://news.ycombinator.com/item?id=50173487",
-   "score": 175,
-   "comments": 71,
+   "score": 229,
+   "comments": 110,
    "author": "Bender",
    "time_iso": "2026-10-20T22:21:05+00:00",
    "history": [
@@ -896,6 +980,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 175
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 229
     }
    ]
   },
@@ -904,8 +992,8 @@
    "title": "The Other Epidemic: Trying to get off benzodiazepines",
    "url": "https://www.thebeliever.net/the-other-epidemic/",
    "hn_url": "https://news.ycombinator.com/item?id=50173891",
-   "score": 156,
-   "comments": 110,
+   "score": 225,
+   "comments": 179,
    "author": "gaplong",
    "time_iso": "2026-10-20T23:04:09+00:00",
    "history": [
@@ -916,6 +1004,10 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 156
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 225
     }
    ]
   },
@@ -940,14 +1032,18 @@
    "title": "Muse exposes users' personal and business secrets when they share conversations",
    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
    "hn_url": "https://news.ycombinator.com/item?id=50174687",
-   "score": 91,
-   "comments": 17,
+   "score": 243,
+   "comments": 109,
    "author": "gumby",
    "time_iso": "2026-10-21T00:45:59+00:00",
    "history": [
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 91
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 243
     }
    ]
   },
@@ -956,14 +1052,18 @@
    "title": "Good type against all odds",
    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
    "hn_url": "https://news.ycombinator.com/item?id=50175059",
-   "score": 89,
-   "comments": 10,
+   "score": 151,
+   "comments": 14,
    "author": "firloop",
    "time_iso": "2026-10-21T01:45:07+00:00",
    "history": [
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 89
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 151
     }
    ]
   },
@@ -972,14 +1072,18 @@
    "title": "The Future of CSS",
    "url": "https://www.joshwcomeau.com/css/interop-2027/",
    "hn_url": "https://news.ycombinator.com/item?id=50175070",
-   "score": 232,
-   "comments": 87,
+   "score": 463,
+   "comments": 193,
    "author": "soheilpro",
    "time_iso": "2026-10-21T01:47:28+00:00",
    "history": [
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 232
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 463
     }
    ]
   },
@@ -988,14 +1092,34 @@
    "title": "In Hilbert space, all things are quantumly possible",
    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
    "hn_url": "https://news.ycombinator.com/item?id=50175185",
-   "score": 67,
-   "comments": 33,
+   "score": 114,
+   "comments": 60,
    "author": "unprovable",
    "time_iso": "2026-10-21T02:04:15+00:00",
    "history": [
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 114
+    }
+   ]
+  },
+  {
+   "id": "hn-50175510",
+   "title": "C# now beats Rust on WASM size",
+   "url": "https://github.com/zion-sati/NetWasm",
+   "hn_url": "https://news.ycombinator.com/item?id=50175510",
+   "score": 118,
+   "comments": 57,
+   "author": "sumnole",
+   "time_iso": "2026-10-21T02:53:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 118
     }
    ]
   },
@@ -1060,6 +1184,150 @@
     {
      "t": "2026-10-21T15:02:26.804909+08:00",
      "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50177911",
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+   "hn_url": "https://news.ycombinator.com/item?id=50177911",
+   "score": 501,
+   "comments": 557,
+   "author": "velo_aprx",
+   "time_iso": "2026-10-21T09:07:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 501
+    }
+   ]
+  },
+  {
+   "id": "hn-50177916",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "hn_url": "https://news.ycombinator.com/item?id=50177916",
+   "score": 379,
+   "comments": 153,
+   "author": "hkc",
+   "time_iso": "2026-10-21T09:08:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 379
+    }
+   ]
+  },
+  {
+   "id": "hn-50178455",
+   "title": "Whatever Happened to Fire Escapes",
+   "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+   "hn_url": "https://news.ycombinator.com/item?id=50178455",
+   "score": 76,
+   "comments": 41,
+   "author": "sohkamyung",
+   "time_iso": "2026-10-21T10:14:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 76
+    }
+   ]
+  },
+  {
+   "id": "hn-50179455",
+   "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+   "url": "https://9mothers.com/careers",
+   "hn_url": "https://news.ycombinator.com/item?id=50179455",
+   "score": 1,
+   "comments": 0,
+   "author": "ukd1",
+   "time_iso": "2026-10-21T12:00:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50179706",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "hn_url": "https://news.ycombinator.com/item?id=50179706",
+   "score": 57,
+   "comments": 16,
+   "author": "mattifrank",
+   "time_iso": "2026-10-21T12:22:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 57
+    }
+   ]
+  },
+  {
+   "id": "hn-50179719",
+   "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+   "url": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+   "hn_url": "https://news.ycombinator.com/item?id=50179719",
+   "score": 14,
+   "comments": 6,
+   "author": "gumby",
+   "time_iso": "2026-10-21T12:23:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-50179828",
+   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+   "url": "https://www.ncsc.nl/actueel",
+   "hn_url": "https://news.ycombinator.com/item?id=50179828",
+   "score": 119,
+   "comments": 37,
+   "author": "jacquesm",
+   "time_iso": "2026-10-21T12:31:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 119
+    }
+   ]
+  },
+  {
+   "id": "hn-50179857",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "url": "https://layerfs.ai/",
+   "hn_url": "https://news.ycombinator.com/item?id=50179857",
+   "score": 9,
+   "comments": 4,
+   "author": "l2dy",
+   "time_iso": "2026-10-21T12:34:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50180444",
+   "title": "Most advice is right for the person giving it",
+   "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+   "hn_url": "https://news.ycombinator.com/item?id=50180444",
+   "score": 3,
+   "comments": 0,
+   "author": "rohanm93",
+   "time_iso": "2026-10-21T13:17:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-21T21:25:18.617455+08:00",
+     "score": 3
     }
    ]
   }
