@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-22T15:04:37.977468+08:00",
- "count": 27,
+ "updated_at": "2026-10-22T21:26:34.038237+08:00",
+ "count": 28,
  "items": [
   {
    "id": "gh-1419982962",
@@ -121,7 +121,7 @@
    "id": "gh-1421497958",
    "title": "OpenMOSS/MOSS-Image",
    "url": "https://github.com/OpenMOSS/MOSS-Image",
-   "stars": 1339,
+   "stars": 1410,
    "language": "Python",
    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
    "created_at": "2026-10-16T01:18:13Z",
@@ -141,6 +141,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1339
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1410
     }
    ]
   },
@@ -148,7 +152,7 @@
    "id": "gh-1421825221",
    "title": "deepseek-ai/DeepInfer",
    "url": "https://github.com/deepseek-ai/DeepInfer",
-   "stars": 18708,
+   "stars": 19369,
    "language": "Python",
    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
    "created_at": "2026-10-16T07:47:23Z",
@@ -168,6 +172,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 18708
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 19369
     }
    ]
   },
@@ -175,7 +183,7 @@
    "id": "gh-1422053844",
    "title": "cranebeaker/coop-anything",
    "url": "https://github.com/cranebeaker/coop-anything",
-   "stars": 805,
+   "stars": 821,
    "language": "Python",
    "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
    "created_at": "2026-10-16T11:12:03Z",
@@ -187,6 +195,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 805
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 821
     }
    ]
   },
@@ -194,7 +206,7 @@
    "id": "gh-1422344223",
    "title": "reason-machines/reason-network",
    "url": "https://github.com/reason-machines/reason-network",
-   "stars": 963,
+   "stars": 1018,
    "language": "Rust",
    "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
    "created_at": "2026-10-16T15:34:34Z",
@@ -214,6 +226,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 963
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1018
     }
    ]
   },
@@ -221,7 +237,7 @@
    "id": "gh-1422399929",
    "title": "xscreensaver-official/xscreensaver",
    "url": "https://github.com/xscreensaver-official/xscreensaver",
-   "stars": 1131,
+   "stars": 1136,
    "language": "",
    "description": "There is no official XScreenSaver GitHub repository.",
    "created_at": "2026-10-16T16:24:44Z",
@@ -241,6 +257,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1131
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1136
     }
    ]
   },
@@ -248,7 +268,7 @@
    "id": "gh-1422783076",
    "title": "Noniv/web-ocean",
    "url": "https://github.com/Noniv/web-ocean",
-   "stars": 856,
+   "stars": 868,
    "language": "HTML",
    "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
    "created_at": "2026-10-16T23:49:53Z",
@@ -260,6 +280,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 856
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 868
     }
    ]
   },
@@ -267,7 +291,7 @@
    "id": "gh-1422883896",
    "title": "aicodeking/leanrea",
    "url": "https://github.com/aicodeking/leanrea",
-   "stars": 1315,
+   "stars": 1342,
    "language": "Python",
    "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
    "created_at": "2026-10-17T02:53:24Z",
@@ -287,6 +311,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1315
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1342
     }
    ]
   },
@@ -294,7 +322,7 @@
    "id": "gh-1423101235",
    "title": "Gathin23/cleanyourtv",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "stars": 20766,
+   "stars": 22246,
    "language": "Java",
    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
    "created_at": "2026-10-17T08:12:35Z",
@@ -314,6 +342,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 20766
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 22246
     }
    ]
   },
@@ -321,7 +353,7 @@
    "id": "gh-1423689866",
    "title": "ly05010419/MacNativeGames",
    "url": "https://github.com/ly05010419/MacNativeGames",
-   "stars": 4113,
+   "stars": 4284,
    "language": "C",
    "description": "",
    "created_at": "2026-10-17T19:52:00Z",
@@ -341,6 +373,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 4113
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 4284
     }
    ]
   },
@@ -348,7 +384,7 @@
    "id": "gh-1424070461",
    "title": "Ansub/tv-detox",
    "url": "https://github.com/Ansub/tv-detox",
-   "stars": 1189,
+   "stars": 1225,
    "language": "Java",
    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
    "created_at": "2026-10-18T06:42:29Z",
@@ -368,6 +404,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1189
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1225
     }
    ]
   },
@@ -375,9 +415,9 @@
    "id": "gh-1424183124",
    "title": "xiaoyang111222/cn-math-taxonomy",
    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-   "stars": 2083,
+   "stars": 2144,
    "language": "Python",
-   "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+   "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
    "created_at": "2026-10-18T09:04:43Z",
    "history": [
     {
@@ -395,6 +435,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 2083
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 2144
     }
    ]
   },
@@ -402,7 +446,7 @@
    "id": "gh-1424340323",
    "title": "alchaincyf/huashu-motion",
    "url": "https://github.com/alchaincyf/huashu-motion",
-   "stars": 1326,
+   "stars": 1373,
    "language": "JavaScript",
    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
    "created_at": "2026-10-18T12:19:27Z",
@@ -422,6 +466,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1326
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1373
     }
    ]
   },
@@ -429,7 +477,7 @@
    "id": "gh-1424613188",
    "title": "humblemuzzu/dumbtv",
    "url": "https://github.com/humblemuzzu/dumbtv",
-   "stars": 1197,
+   "stars": 1241,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-10-18T17:04:12Z",
@@ -449,6 +497,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1197
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1241
     }
    ]
   },
@@ -456,7 +508,7 @@
    "id": "gh-1425154779",
    "title": "tek-sys-hub/Rubix-lang",
    "url": "https://github.com/tek-sys-hub/Rubix-lang",
-   "stars": 1895,
+   "stars": 1898,
    "language": "Assembly",
    "description": "The 100% Pure x86-64 Assembly Systems Language",
    "created_at": "2026-10-19T05:34:37Z",
@@ -464,6 +516,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1895
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1898
     }
    ]
   },
@@ -471,7 +527,7 @@
    "id": "gh-1426080579",
    "title": "simbasjungles/free-my-tv",
    "url": "https://github.com/simbasjungles/free-my-tv",
-   "stars": 2889,
+   "stars": 3068,
    "language": "Java",
    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
    "created_at": "2026-10-19T19:29:01Z",
@@ -491,6 +547,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 2889
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 3068
     }
    ]
   },
@@ -513,7 +573,7 @@
    "id": "gh-1426240325",
    "title": "JoasASantos/REA-Prompts",
    "url": "https://github.com/JoasASantos/REA-Prompts",
-   "stars": 1381,
+   "stars": 1431,
    "language": "",
    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
    "created_at": "2026-10-19T22:20:47Z",
@@ -533,6 +593,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1381
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1431
     }
    ]
   },
@@ -559,7 +623,7 @@
    "id": "gh-1426780056",
    "title": "pengchujin/aerial-tv",
    "url": "https://github.com/pengchujin/aerial-tv",
-   "stars": 2528,
+   "stars": 2868,
    "language": "Kotlin",
    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
    "created_at": "2026-10-20T09:13:06Z",
@@ -579,6 +643,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 2528
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 2868
     }
    ]
   },
@@ -586,7 +654,7 @@
    "id": "gh-1427107663",
    "title": "eagle-hq/EAGLE-4",
    "url": "https://github.com/eagle-hq/EAGLE-4",
-   "stars": 769,
+   "stars": 808,
    "language": "Python",
    "description": "Official Inference Code of EAGLE-4",
    "created_at": "2026-10-20T14:03:04Z",
@@ -598,6 +666,10 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 769
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 808
     }
    ]
   },
@@ -605,7 +677,7 @@
    "id": "gh-1428058681",
    "title": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
-   "stars": 1206,
+   "stars": 1374,
    "language": "Python",
    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
    "created_at": "2026-10-21T07:55:16Z",
@@ -617,6 +689,25 @@
     {
      "t": "2026-10-22T15:04:37.977468+08:00",
      "score": 1206
+    },
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 1374
+    }
+   ]
+  },
+  {
+   "id": "gh-1428268121",
+   "title": "9bie/php2shell-bypass-aslr-exp",
+   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+   "stars": 850,
+   "language": "Python",
+   "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+   "created_at": "2026-10-21T11:11:57Z",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:34.038237+08:00",
+     "score": 850
     }
    ]
   }

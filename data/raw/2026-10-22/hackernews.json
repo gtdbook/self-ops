@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-22T15:04:37.310670+08:00",
- "count": 52,
+ "updated_at": "2026-10-22T21:26:32.959056+08:00",
+ "count": 63,
  "items": [
   {
    "id": "hn-50142296",
@@ -16,6 +16,22 @@
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50150163",
+   "title": "What Is Gridifcation",
+   "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+   "hn_url": "https://news.ycombinator.com/item?id=50150163",
+   "score": 63,
+   "comments": 16,
+   "author": "gumby",
+   "time_iso": "2026-10-19T09:13:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 63
     }
    ]
   },
@@ -124,6 +140,22 @@
    ]
   },
   {
+   "id": "hn-50155616",
+   "title": "The Robot I Didn't Expect to Build",
+   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "hn_url": "https://news.ycombinator.com/item?id=50155616",
+   "score": 30,
+   "comments": 22,
+   "author": "bojackh",
+   "time_iso": "2026-10-19T17:57:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
    "id": "hn-50155751",
    "title": "C++ futures part 1: The mental model",
    "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
@@ -136,6 +168,38 @@
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50157316",
+   "title": "Eigenmoon: linear algebra puzzles by moonlight",
+   "url": "https://eigenmoon.vercel.app/",
+   "hn_url": "https://news.ycombinator.com/item?id=50157316",
+   "score": 11,
+   "comments": 4,
+   "author": "jessicarumbelow",
+   "time_iso": "2026-10-19T20:02:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50157456",
+   "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+   "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+   "hn_url": "https://news.ycombinator.com/item?id=50157456",
+   "score": 42,
+   "comments": 15,
+   "author": "wffurr",
+   "time_iso": "2026-10-19T20:12:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 42
     }
    ]
   },
@@ -184,14 +248,18 @@
    "title": "What Is the Karakoram Anomaly?",
    "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
    "hn_url": "https://news.ycombinator.com/item?id=50160241",
-   "score": 16,
-   "comments": 4,
+   "score": 53,
+   "comments": 11,
    "author": "thunderbong",
    "time_iso": "2026-10-20T01:26:53+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 53
     }
    ]
   },
@@ -216,8 +284,8 @@
    "title": "No more icons in every menu by default",
    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
    "hn_url": "https://news.ycombinator.com/item?id=50161346",
-   "score": 268,
-   "comments": 168,
+   "score": 383,
+   "comments": 222,
    "author": "riffraff",
    "time_iso": "2026-10-20T04:27:08+00:00",
    "history": [
@@ -232,6 +300,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 268
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 383
     }
    ]
   },
@@ -240,8 +312,8 @@
    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
    "hn_url": "https://news.ycombinator.com/item?id=50162044",
-   "score": 193,
-   "comments": 41,
+   "score": 243,
+   "comments": 55,
    "author": "bryanrasmussen",
    "time_iso": "2026-10-20T06:20:54+00:00",
    "history": [
@@ -260,6 +332,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 193
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 243
     }
    ]
   },
@@ -300,14 +376,34 @@
    "title": "PingCap TiDB Leaks",
    "url": "https://fulcrumsec.vg/pingcap/",
    "hn_url": "https://news.ycombinator.com/item?id=50173716",
-   "score": 298,
-   "comments": 45,
+   "score": 381,
+   "comments": 62,
    "author": "swyx",
    "time_iso": "2026-10-20T22:45:39+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 298
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 381
+    }
+   ]
+  },
+  {
+   "id": "hn-50173944",
+   "title": "The painter behind Manhattan’s Gilded Age interiors",
+   "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+   "hn_url": "https://news.ycombinator.com/item?id=50173944",
+   "score": 5,
+   "comments": 0,
+   "author": "hoffmannesque",
+   "time_iso": "2026-10-20T23:09:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 5
     }
    ]
   },
@@ -332,14 +428,18 @@
    "title": "Using LLM for confidence scoring is a bad idea",
    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "hn_url": "https://news.ycombinator.com/item?id=50176082",
-   "score": 52,
-   "comments": 31,
+   "score": 127,
+   "comments": 73,
    "author": "jimauthors",
    "time_iso": "2026-10-21T04:27:51+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 52
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 127
     }
    ]
   },
@@ -476,8 +576,8 @@
    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
    "hn_url": "https://news.ycombinator.com/item?id=50181114",
-   "score": 482,
-   "comments": 163,
+   "score": 553,
+   "comments": 179,
    "author": "abhisek",
    "time_iso": "2026-10-21T14:00:26+00:00",
    "history": [
@@ -496,6 +596,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 482
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 553
     }
    ]
   },
@@ -748,8 +852,8 @@
    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
    "hn_url": "https://news.ycombinator.com/item?id=50184820",
-   "score": 501,
-   "comments": 304,
+   "score": 609,
+   "comments": 344,
    "author": "cbg0",
    "time_iso": "2026-10-21T17:45:13+00:00",
    "history": [
@@ -764,6 +868,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 501
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 609
     }
    ]
   },
@@ -804,8 +912,8 @@
    "title": "GitLab critical patch release",
    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
    "hn_url": "https://news.ycombinator.com/item?id=50185869",
-   "score": 316,
-   "comments": 74,
+   "score": 371,
+   "comments": 86,
    "author": "artooro",
    "time_iso": "2026-10-21T19:01:12+00:00",
    "history": [
@@ -820,6 +928,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 316
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 371
     }
    ]
   },
@@ -828,8 +940,8 @@
    "title": "Rust Style Guide",
    "url": "https://google.github.io/styleguide/rustguide.html",
    "hn_url": "https://news.ycombinator.com/item?id=50186010",
-   "score": 275,
-   "comments": 158,
+   "score": 340,
+   "comments": 201,
    "author": "kaycebasques",
    "time_iso": "2026-10-21T19:11:57+00:00",
    "history": [
@@ -844,6 +956,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 275
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 340
     }
    ]
   },
@@ -852,8 +968,8 @@
    "title": "Claude Duet",
    "url": "https://claude.com/product/claude-duet",
    "hn_url": "https://news.ycombinator.com/item?id=50186037",
-   "score": 310,
-   "comments": 268,
+   "score": 454,
+   "comments": 416,
    "author": "kuberwastaken",
    "time_iso": "2026-10-21T19:14:01+00:00",
    "history": [
@@ -864,6 +980,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 310
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 454
     }
    ]
   },
@@ -892,8 +1012,8 @@
    "title": "Security Disclosure",
    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
    "hn_url": "https://news.ycombinator.com/item?id=50188228",
-   "score": 416,
-   "comments": 238,
+   "score": 518,
+   "comments": 299,
    "author": "passenger",
    "time_iso": "2026-10-21T21:58:03+00:00",
    "history": [
@@ -904,6 +1024,10 @@
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 416
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 518
     }
    ]
   },
@@ -984,14 +1108,18 @@
    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
    "hn_url": "https://news.ycombinator.com/item?id=50190363",
-   "score": 75,
-   "comments": 34,
+   "score": 331,
+   "comments": 101,
    "author": "alphax314",
    "time_iso": "2026-10-22T02:18:41+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 331
     }
    ]
   },
@@ -1000,14 +1128,18 @@
    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50190455",
-   "score": 148,
-   "comments": 84,
+   "score": 239,
+   "comments": 189,
    "author": "craigcitro",
    "time_iso": "2026-10-22T02:30:52+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 148
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 239
     }
    ]
   },
@@ -1016,14 +1148,114 @@
    "title": "OpenAI CLI",
    "url": "https://github.com/openai/openai-cli",
    "hn_url": "https://news.ycombinator.com/item?id=50191507",
-   "score": 32,
-   "comments": 11,
+   "score": 168,
+   "comments": 84,
    "author": "armcat",
    "time_iso": "2026-10-22T05:23:11+00:00",
    "history": [
     {
      "t": "2026-10-22T15:04:37.310670+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 168
+    }
+   ]
+  },
+  {
+   "id": "hn-50192536",
+   "title": "Jailbreaking the Switch 2",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "hn_url": "https://news.ycombinator.com/item?id=50192536",
+   "score": 244,
+   "comments": 75,
+   "author": "ledoge",
+   "time_iso": "2026-10-22T08:01:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 244
+    }
+   ]
+  },
+  {
+   "id": "hn-50192900",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "hn_url": "https://news.ycombinator.com/item?id=50192900",
+   "score": 257,
+   "comments": 75,
+   "author": "keks24",
+   "time_iso": "2026-10-22T08:51:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 257
+    }
+   ]
+  },
+  {
+   "id": "hn-50193170",
+   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+   "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+   "hn_url": "https://news.ycombinator.com/item?id=50193170",
+   "score": 100,
+   "comments": 17,
+   "author": "molind",
+   "time_iso": "2026-10-22T09:31:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 100
+    }
+   ]
+  },
+  {
+   "id": "hn-50193804",
+   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+   "hn_url": "https://news.ycombinator.com/item?id=50193804",
+   "score": 108,
+   "comments": 26,
+   "author": "mrkn1",
+   "time_iso": "2026-10-22T11:12:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50194070",
+   "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+   "hn_url": "https://news.ycombinator.com/item?id=50194070",
+   "score": 72,
+   "comments": 14,
+   "author": "cubefox",
+   "time_iso": "2026-10-22T11:50:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 72
+    }
+   ]
+  },
+  {
+   "id": "hn-50194833",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50194833",
+   "score": 11,
+   "comments": 1,
+   "author": "oidar",
+   "time_iso": "2026-10-22T13:11:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T21:26:32.959056+08:00",
+     "score": 11
     }
    ]
   }
