@@ -1,12 +1,35 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T09:12:11.934794+08:00",
+ "generated_at": "2026-10-22T15:04:38.930567+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Claude Duet",
+     "url": "https://claude.com/product/claude-duet",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Claude Duet",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
    "errors": [],
    "items": [
+    {
+     "title": "Today's PHP security release, and how we're strengthening security",
+     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+     "meta": "+446 分 / 12.7 小时 · 现 ⭐ 714",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "EA is shutting down BioWare",
      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
@@ -16,9 +39,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Today's PHP security release, and how we're strengthening security",
-     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-     "meta": "+403 分 / 6.8 小时 · 现 ⭐ 671",
+     "title": "There isn't an easy exploit for this PHP vulnerability",
+     "url": "https://eliastaylor.com/noexploit/",
+     "meta": "+338 分 / 5.9 小时 · 现 ⭐ 446",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "mitmproxy adds --emudhra option",
+     "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+     "meta": "+284 分 / 5.9 小时 · 现 ⭐ 401",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+     "meta": "+273 分 / 9.0 小时 · 现 ⭐ 501",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +65,31 @@
     {
      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-     "meta": "+219 分 / 6.8 小时 · 现 ⭐ 431",
+     "meta": "+270 分 / 12.7 小时 · 现 ⭐ 482",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "No more icons in every menu by default",
+     "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+     "meta": "+224 分 / 9.0 小时 · 现 ⭐ 268",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/",
+     "meta": "+181 分 / 12.7 小时 · 现 ⭐ 277",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GitLab critical patch release",
+     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+     "meta": "+166 分 / 9.0 小时 · 现 ⭐ 316",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -35,54 +98,6 @@
      "title": "PHP 8.2.35",
      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
      "meta": "+163 分 / 6.8 小时 · 现 ⭐ 967",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenAI models are coming to Google Cloud",
-     "url": "https://openai.com/index/openai-models-google-cloud/",
-     "meta": "+138 分 / 6.8 小时 · 现 ⭐ 234",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-     "meta": "+130 分 / 3.1 小时 · 现 ⭐ 358",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "No More Icons in Every Menu by Default",
-     "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-     "meta": "+115 分 / 3.1 小时 · 现 ⭐ 159",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-     "meta": "+112 分 / 6.8 小时 · 现 ⭐ 359",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-     "meta": "+104 分 / 3.7 小时 · 现 ⭐ 777",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Claude Duet",
-     "url": "https://claude.com/product/claude-duet",
-     "meta": "+94 分 / 3.1 小时 · 现 ⭐ 310",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +239,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 19293 · Java",
+     "meta": "⭐ 20766 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +247,7 @@
     {
      "title": "deepseek-ai/DeepInfer",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 17927 · Python",
+     "meta": "⭐ 18708 · Python",
      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +255,7 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 3879 · C",
+     "meta": "⭐ 4113 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +263,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 2742 · Java",
+     "meta": "⭐ 2889 · Java",
      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,8 +271,16 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 2110 · Kotlin",
+     "meta": "⭐ 2528 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "xiaoyang111222/cn-math-taxonomy",
+     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+     "meta": "⭐ 2083 · Python",
+     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -270,10 +293,10 @@
      "origin_source": "github_search"
     },
     {
-     "title": "xiaoyang111222/cn-math-taxonomy",
-     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 1967 · Python",
-     "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+     "title": "tek-sys-hub/Rubix-lang",
+     "url": "https://github.com/tek-sys-hub/Rubix-lang",
+     "meta": "⭐ 1895 · Assembly",
+     "summary": "The 100% Pure x86-64 Assembly Systems Language",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -296,23 +319,15 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 1343",
+     "meta": "⭐ 1381",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "aicodeking/leanrea",
-     "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1293 · Python",
-     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "meta": "⭐ 1289 · Python",
+     "meta": "⭐ 1339 · Python",
      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,24 +335,24 @@
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1278 · JavaScript",
+     "meta": "⭐ 1326 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "Ansub/tv-detox",
-     "url": "https://github.com/Ansub/tv-detox",
-     "meta": "⭐ 1170 · Java",
-     "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "meta": "⭐ 1315 · Python",
+     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "humblemuzzu/dumbtv",
-     "url": "https://github.com/humblemuzzu/dumbtv",
-     "meta": "⭐ 1161 · JavaScript",
-     "summary": "",
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1206 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -367,7 +382,7 @@
     {
      "title": "Today's PHP security release, and how we're strengthening security",
      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-     "meta": "⭐ 671 · 💬 333",
+     "meta": "⭐ 714 · 💬 349",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -381,9 +396,41 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+     "meta": "⭐ 501 · 💬 304",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-     "meta": "⭐ 431 · 💬 135",
+     "meta": "⭐ 482 · 💬 163",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "There isn't an easy exploit for this PHP vulnerability",
+     "url": "https://eliastaylor.com/noexploit/",
+     "meta": "⭐ 446 · 💬 226",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Security Disclosure",
+     "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+     "meta": "⭐ 416 · 💬 238",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "mitmproxy adds --emudhra option",
+     "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+     "meta": "⭐ 401 · 💬 104",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -391,15 +438,7 @@
     {
      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-     "meta": "⭐ 359 · 💬 45",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-     "meta": "⭐ 358 · 💬 216",
+     "meta": "⭐ 397 · 💬 52",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,6 +452,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "GitLab critical patch release",
+     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+     "meta": "⭐ 316 · 💬 74",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Claude Duet",
      "url": "https://claude.com/product/claude-duet",
      "meta": "⭐ 310 · 💬 268",
@@ -421,17 +468,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Railway Security Disclosure",
-     "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-     "meta": "⭐ 288 · 💬 140",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "GitLab Critical Patch Release",
-     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-     "meta": "⭐ 241 · 💬 58",
+     "title": "PingCap TiDB Leaks",
+     "url": "https://fulcrumsec.vg/pingcap/",
+     "meta": "⭐ 298 · 💬 45",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -439,31 +478,7 @@
     {
      "title": "OpenAI models are coming to Google Cloud",
      "url": "https://openai.com/index/openai-models-google-cloud/",
-     "meta": "⭐ 234 · 💬 100",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-     "meta": "⭐ 231 · 💬 160",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google's Rust Style Guide",
-     "url": "https://google.github.io/styleguide/rustguide.html",
-     "meta": "⭐ 196 · 💬 113",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-     "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-     "meta": "⭐ 166 · 💬 80",
+     "meta": "⭐ 277 · 💬 116",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -508,6 +523,22 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Notif",
+     "url": "https://www.producthunt.com/products/notif-2",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "AI for your Apple Reminders",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Claude Duet",
+     "url": "https://www.producthunt.com/products/claude",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Proactive agent that understands what needs your attention",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Wally by Willow",
      "url": "https://www.producthunt.com/products/willow-voice",
      "meta": "Product Hunt · 2026-10-16",
@@ -516,10 +547,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Resend Inboxes",
+     "url": "https://www.producthunt.com/products/resend",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Create shared inboxes, connect your agents, build workflows",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Flagsmith Experiments",
      "url": "https://www.producthunt.com/products/flagsmith",
      "meta": "Product Hunt · 2026-10-20",
      "summary": "Open-source A/B testing built on your feature flags",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Voxelo 3.0",
+     "url": "https://www.producthunt.com/products/voxelo-ai",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Phone video to photoreal 3D & JSON-LD in an hour",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -560,38 +607,6 @@
      "url": "https://www.producthunt.com/products/yggy",
      "meta": "Product Hunt · 2026-10-12",
      "summary": "The AI knowledge graph that builds itself",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "xtty",
-     "url": "https://www.producthunt.com/products/xtty",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "A terminal that makes everyday work easier.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Woven Video",
-     "url": "https://www.producthunt.com/products/woven-video",
-     "meta": "Product Hunt · 2026-10-20",
-     "summary": "Edit any video by chat, on a real Mac timeline",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Intel® GPU D-series",
-     "url": "https://www.producthunt.com/products/intel",
-     "meta": "Product Hunt · 2026-10-20",
-     "summary": "Memory-rich AI inference without HBM",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Asimov 1",
-     "url": "https://www.producthunt.com/products/asimov-1",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "The most customizable humanoid robot you can buy",
      "reason": null,
      "origin_source": "producthunt"
     }

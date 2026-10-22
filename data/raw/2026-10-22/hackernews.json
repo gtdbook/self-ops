@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-22T09:12:09.092315+08:00",
- "count": 43,
+ "updated_at": "2026-10-22T15:04:37.310670+08:00",
+ "count": 52,
  "items": [
   {
    "id": "hn-50142296",
@@ -56,14 +56,18 @@
    "title": "Code is clay now",
    "url": "https://www.albertodenia.com/writing/code-is-clay-now",
    "hn_url": "https://news.ycombinator.com/item?id=50153531",
-   "score": 78,
-   "comments": 42,
+   "score": 155,
+   "comments": 92,
    "author": "albertodenia",
    "time_iso": "2026-10-19T15:19:45+00:00",
    "history": [
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 78
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 155
     }
    ]
   },
@@ -72,14 +76,18 @@
    "title": "Chain of Thought for Humans",
    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
    "hn_url": "https://news.ycombinator.com/item?id=50154100",
-   "score": 18,
-   "comments": 4,
+   "score": 83,
+   "comments": 36,
    "author": "ibobev",
    "time_iso": "2026-10-19T16:06:22+00:00",
    "history": [
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 83
     }
    ]
   },
@@ -172,12 +180,44 @@
    ]
   },
   {
+   "id": "hn-50160241",
+   "title": "What Is the Karakoram Anomaly?",
+   "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+   "hn_url": "https://news.ycombinator.com/item?id=50160241",
+   "score": 16,
+   "comments": 4,
+   "author": "thunderbong",
+   "time_iso": "2026-10-20T01:26:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50160988",
+   "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+   "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
+   "hn_url": "https://news.ycombinator.com/item?id=50160988",
+   "score": 10,
+   "comments": 2,
+   "author": "benbreen",
+   "time_iso": "2026-10-20T03:25:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
    "id": "hn-50161346",
-   "title": "No More Icons in Every Menu by Default",
+   "title": "No more icons in every menu by default",
    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
    "hn_url": "https://news.ycombinator.com/item?id=50161346",
-   "score": 159,
-   "comments": 117,
+   "score": 268,
+   "comments": 168,
    "author": "riffraff",
    "time_iso": "2026-10-20T04:27:08+00:00",
    "history": [
@@ -188,6 +228,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 159
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 268
     }
    ]
   },
@@ -196,8 +240,8 @@
    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
    "hn_url": "https://news.ycombinator.com/item?id=50162044",
-   "score": 151,
-   "comments": 25,
+   "score": 193,
+   "comments": 41,
    "author": "bryanrasmussen",
    "time_iso": "2026-10-20T06:20:54+00:00",
    "history": [
@@ -212,6 +256,26 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 151
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 193
+    }
+   ]
+  },
+  {
+   "id": "hn-50166590",
+   "title": "Beyond the &",
+   "url": "https://lwn.net/Articles/1096028/",
+   "hn_url": "https://news.ycombinator.com/item?id=50166590",
+   "score": 45,
+   "comments": 3,
+   "author": "PaulHoule",
+   "time_iso": "2026-10-20T13:59:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 45
     }
    ]
   },
@@ -232,6 +296,22 @@
    ]
   },
   {
+   "id": "hn-50173716",
+   "title": "PingCap TiDB Leaks",
+   "url": "https://fulcrumsec.vg/pingcap/",
+   "hn_url": "https://news.ycombinator.com/item?id=50173716",
+   "score": 298,
+   "comments": 45,
+   "author": "swyx",
+   "time_iso": "2026-10-20T22:45:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 298
+    }
+   ]
+  },
+  {
    "id": "hn-50174687",
    "title": "Muse exposes users' personal and business secrets when they share conversations",
    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
@@ -244,6 +324,22 @@
     {
      "t": "2026-10-22T02:22:13.103306+08:00",
      "score": 346
+    }
+   ]
+  },
+  {
+   "id": "hn-50176082",
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50176082",
+   "score": 52,
+   "comments": 31,
+   "author": "jimauthors",
+   "time_iso": "2026-10-21T04:27:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 52
     }
    ]
   },
@@ -308,8 +404,8 @@
    "title": "OpenAI models are coming to Google Cloud",
    "url": "https://openai.com/index/openai-models-google-cloud/",
    "hn_url": "https://news.ycombinator.com/item?id=50180079",
-   "score": 234,
-   "comments": 100,
+   "score": 277,
+   "comments": 116,
    "author": "armcat",
    "time_iso": "2026-10-21T12:53:11+00:00",
    "history": [
@@ -324,6 +420,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 234
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 277
     }
    ]
   },
@@ -376,8 +476,8 @@
    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
    "hn_url": "https://news.ycombinator.com/item?id=50181114",
-   "score": 431,
-   "comments": 135,
+   "score": 482,
+   "comments": 163,
    "author": "abhisek",
    "time_iso": "2026-10-21T14:00:26+00:00",
    "history": [
@@ -392,6 +492,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 431
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 482
     }
    ]
   },
@@ -400,8 +504,8 @@
    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
    "hn_url": "https://news.ycombinator.com/item?id=50181136",
-   "score": 359,
-   "comments": 45,
+   "score": 397,
+   "comments": 52,
    "author": "nnx",
    "time_iso": "2026-10-21T14:01:22+00:00",
    "history": [
@@ -416,6 +520,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 359
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 397
     }
    ]
   },
@@ -424,8 +532,8 @@
    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "hn_url": "https://news.ycombinator.com/item?id=50181175",
-   "score": 231,
-   "comments": 160,
+   "score": 251,
+   "comments": 168,
    "author": "nr378",
    "time_iso": "2026-10-21T14:03:43+00:00",
    "history": [
@@ -440,6 +548,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 231
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 251
     }
    ]
   },
@@ -448,8 +560,8 @@
    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
    "hn_url": "https://news.ycombinator.com/item?id=50182526",
-   "score": 166,
-   "comments": 80,
+   "score": 184,
+   "comments": 91,
    "author": "surprisetalk",
    "time_iso": "2026-10-21T15:20:04+00:00",
    "history": [
@@ -464,6 +576,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 166
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 184
     }
    ]
   },
@@ -472,8 +588,8 @@
    "title": "Today's PHP security release, and how we're strengthening security",
    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
    "hn_url": "https://news.ycombinator.com/item?id=50182987",
-   "score": 671,
-   "comments": 333,
+   "score": 714,
+   "comments": 349,
    "author": "ejohnso49",
    "time_iso": "2026-10-21T15:48:56+00:00",
    "history": [
@@ -488,6 +604,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 671
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 714
     }
    ]
   },
@@ -584,6 +704,22 @@
    ]
   },
   {
+   "id": "hn-50183892",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "url": "https://github.com/omnara-ai/omnara",
+   "hn_url": "https://news.ycombinator.com/item?id=50183892",
+   "score": 65,
+   "comments": 22,
+   "author": "kmansm27",
+   "time_iso": "2026-10-21T16:44:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
    "id": "hn-50184586",
    "title": "EA is shutting down BioWare",
    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
@@ -612,8 +748,8 @@
    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
    "hn_url": "https://news.ycombinator.com/item?id=50184820",
-   "score": 358,
-   "comments": 216,
+   "score": 501,
+   "comments": 304,
    "author": "cbg0",
    "time_iso": "2026-10-21T17:45:13+00:00",
    "history": [
@@ -624,6 +760,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 358
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 501
     }
    ]
   },
@@ -661,11 +801,11 @@
   },
   {
    "id": "hn-50185869",
-   "title": "GitLab Critical Patch Release",
+   "title": "GitLab critical patch release",
    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
    "hn_url": "https://news.ycombinator.com/item?id=50185869",
-   "score": 241,
-   "comments": 58,
+   "score": 316,
+   "comments": 74,
    "author": "artooro",
    "time_iso": "2026-10-21T19:01:12+00:00",
    "history": [
@@ -676,16 +816,20 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 241
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 316
     }
    ]
   },
   {
    "id": "hn-50186010",
-   "title": "Google's Rust Style Guide",
+   "title": "Rust Style Guide",
    "url": "https://google.github.io/styleguide/rustguide.html",
    "hn_url": "https://news.ycombinator.com/item?id=50186010",
-   "score": 196,
-   "comments": 113,
+   "score": 275,
+   "comments": 158,
    "author": "kaycebasques",
    "time_iso": "2026-10-21T19:11:57+00:00",
    "history": [
@@ -696,6 +840,10 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 196
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 275
     }
    ]
   },
@@ -741,17 +889,21 @@
   },
   {
    "id": "hn-50188228",
-   "title": "Railway Security Disclosure",
+   "title": "Security Disclosure",
    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
    "hn_url": "https://news.ycombinator.com/item?id=50188228",
-   "score": 288,
-   "comments": 140,
+   "score": 416,
+   "comments": 238,
    "author": "passenger",
    "time_iso": "2026-10-21T21:58:03+00:00",
    "history": [
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 288
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 416
     }
    ]
   },
@@ -760,14 +912,18 @@
    "title": "There isn't an easy exploit for this PHP vulnerability",
    "url": "https://eliastaylor.com/noexploit/",
    "hn_url": "https://news.ycombinator.com/item?id=50188948",
-   "score": 108,
-   "comments": 50,
+   "score": 446,
+   "comments": 226,
    "author": "zkldi",
    "time_iso": "2026-10-21T23:13:27+00:00",
    "history": [
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 108
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 446
     }
    ]
   },
@@ -792,14 +948,18 @@
    "title": "mitmproxy adds --emudhra option",
    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
    "hn_url": "https://news.ycombinator.com/item?id=50189232",
-   "score": 117,
-   "comments": 22,
+   "score": 401,
+   "comments": 104,
    "author": "ahlCVA",
    "time_iso": "2026-10-21T23:51:37+00:00",
    "history": [
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 117
+    },
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 401
     }
    ]
   },
@@ -816,6 +976,54 @@
     {
      "t": "2026-10-22T09:12:09.092315+08:00",
      "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50190363",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "hn_url": "https://news.ycombinator.com/item?id=50190363",
+   "score": 75,
+   "comments": 34,
+   "author": "alphax314",
+   "time_iso": "2026-10-22T02:18:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 75
+    }
+   ]
+  },
+  {
+   "id": "hn-50190455",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50190455",
+   "score": 148,
+   "comments": 84,
+   "author": "craigcitro",
+   "time_iso": "2026-10-22T02:30:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 148
+    }
+   ]
+  },
+  {
+   "id": "hn-50191507",
+   "title": "OpenAI CLI",
+   "url": "https://github.com/openai/openai-cli",
+   "hn_url": "https://news.ycombinator.com/item?id=50191507",
+   "score": 32,
+   "comments": 11,
+   "author": "armcat",
+   "time_iso": "2026-10-22T05:23:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:37.310670+08:00",
+     "score": 32
     }
    ]
   }
