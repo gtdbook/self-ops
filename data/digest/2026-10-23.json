@@ -1,12 +1,107 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T02:16:32.467944+08:00",
+ "generated_at": "2026-10-23T06:04:47.521385+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Quad9 (DNS Resolver) to Exit France",
+     "url": "https://quad9.net/news/blog/au-revoir-france/",
+     "meta": "+379 分 / 3.8 小时 · 现 ⭐ 827",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "eMudhra to exit global SSL/TLS certificate business",
+     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+     "meta": "+215 分 / 3.8 小时 · 现 ⭐ 860",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "meta": "+212 分 / 3.8 小时 · 现 ⭐ 224",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "+137 分 / 3.8 小时 · 现 ⭐ 269",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Getting ready to operate GNU Taler in Germany",
+     "url": "https://www.taler.net/en/news/2026-13.html",
+     "meta": "+111 分 / 3.8 小时 · 现 ⭐ 175",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jailbreaking the Switch 2",
+     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+     "meta": "+108 分 / 3.8 小时 · 现 ⭐ 651",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A farewell to Arc browser",
+     "url": "https://arc.net/",
+     "meta": "+101 分 / 3.8 小时 · 现 ⭐ 197",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What’s getting pwned right now",
+     "url": "https://pwn.watch/",
+     "meta": "+96 分 / 3.8 小时 · 现 ⭐ 311",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What Is Gridifcation",
+     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+     "meta": "+89 分 / 3.8 小时 · 现 ⭐ 366",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+     "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+     "meta": "+53 分 / 3.8 小时 · 现 ⭐ 61",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "US-backed vaccine trial on babies canceled after international outcry",
      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
@@ -118,14 +213,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Albertsons Companies is reimagining retail from the inside out",
-     "url": "https://openai.com/index/albertsons-reimagining-retail",
-     "meta": "OpenAI · 2026-10-01",
-     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +224,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 23204 · Java",
+     "meta": "⭐ 23718 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "deepseek-ai/DeepInfer",
      "url": "https://github.com/deepseek-ai/DeepInfer",
-     "meta": "⭐ 19720 · Python",
+     "meta": "⭐ 19808 · Python",
      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 4400 · C",
+     "meta": "⭐ 4447 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 3208 · Java",
+     "meta": "⭐ 3367 · Java",
      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 3007 · Kotlin",
+     "meta": "⭐ 3032 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +264,7 @@
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 2183 · Python",
+     "meta": "⭐ 2190 · Python",
      "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
      "reason": null,
      "origin_source": "github_search"
@@ -191,25 +278,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "JoasASantos/REA-Prompts",
-     "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 1458",
-     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1501 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "ikow/php2shell-poc",
-     "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1457 · Python",
-     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "meta": "⭐ 1471",
+     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "meta": "⭐ 1439 · Python",
+     "meta": "⭐ 1448 · Python",
      "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +304,7 @@
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1409 · JavaScript",
+     "meta": "⭐ 1432 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +312,7 @@
     {
      "title": "aicodeking/leanrea",
      "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1357 · Python",
+     "meta": "⭐ 1364 · Python",
      "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +320,7 @@
     {
      "title": "humblemuzzu/dumbtv",
      "url": "https://github.com/humblemuzzu/dumbtv",
-     "meta": "⭐ 1274 · Java",
+     "meta": "⭐ 1295 · Java",
      "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
      "reason": null,
      "origin_source": "github_search"
@@ -241,7 +328,7 @@
     {
      "title": "Ansub/tv-detox",
      "url": "https://github.com/Ansub/tv-detox",
-     "meta": "⭐ 1260 · Java",
+     "meta": "⭐ 1278 · Java",
      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +336,7 @@
     {
      "title": "xscreensaver-official/xscreensaver",
      "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 1141",
+     "meta": "⭐ 1147",
      "summary": "There is no official XScreenSaver GitHub repository.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +351,23 @@
     {
      "title": "eMudhra to exit global SSL/TLS certificate business",
      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-     "meta": "⭐ 645 · 💬 472",
+     "meta": "⭐ 860 · 💬 592",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Quad9 (DNS Resolver) to Exit France",
+     "url": "https://quad9.net/news/blog/au-revoir-france/",
+     "meta": "⭐ 827 · 💬 308",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jailbreaking the Switch 2",
+     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+     "meta": "⭐ 651 · 💬 231",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -278,25 +381,33 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Jailbreaking the Switch 2",
-     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-     "meta": "⭐ 543 · 💬 199",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Quad9 (DNS Resolver) to Exit France",
-     "url": "https://quad9.net/news/blog/au-revoir-france/",
-     "meta": "⭐ 448 · 💬 158",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
      "meta": "⭐ 441 · 💬 140",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What Is Gridifcation",
+     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+     "meta": "⭐ 366 · 💬 182",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Woman faces six years in prison over Cash App account she never opened",
+     "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+     "meta": "⭐ 342 · 💬 321",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What’s getting pwned right now",
+     "url": "https://pwn.watch/",
+     "meta": "⭐ 311 · 💬 147",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -310,17 +421,33 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "What Is Gridifcation",
-     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-     "meta": "⭐ 277 · 💬 130",
+     "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "⭐ 269 · 💬 97",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "What's Getting Pwned",
-     "url": "https://pwn.watch/",
-     "meta": "⭐ 215 · 💬 116",
+     "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+     "url": "https://news.ycombinator.com/item?id=50193416",
+     "meta": "⭐ 253 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "meta": "⭐ 224 · 💬 120",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A farewell to Arc browser",
+     "url": "https://arc.net/",
+     "meta": "⭐ 197 · 💬 172",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -336,47 +463,7 @@
     {
      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-     "meta": "⭐ 167 · 💬 33",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Crystal 1.22",
-     "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
-     "meta": "⭐ 145 · 💬 64",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 132 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "MPs moving to restrict gambling ads in Canada",
-     "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
-     "meta": "⭐ 118 · 💬 43",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A farewell to Arc browser",
-     "url": "https://arc.net/",
-     "meta": "⭐ 96 · 💬 80",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-     "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-     "meta": "⭐ 92 · 💬 39",
+     "meta": "⭐ 188 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
