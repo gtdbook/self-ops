@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T14:56:57.317324+08:00",
+ "generated_at": "2026-10-23T20:28:24.675155+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,31 @@
     {
      "title": "Quad9 to exit France",
      "url": "https://quad9.net/news/blog/au-revoir-france/",
-     "meta": "+682 分 / 12.7 小时 · 现 ⭐ 1130",
+     "meta": "+812 分 / 18.2 小时 · 现 ⭐ 1260",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Docker is weird",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "meta": "+515 分 / 11.3 小时 · 现 ⭐ 575",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+     "url": "https://edjefferson.com/localwiki/",
+     "meta": "+479 分 / 5.5 小时 · 现 ⭐ 557",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "meta": "+412 分 / 18.2 小时 · 现 ⭐ 424",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,33 +48,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-     "url": "https://github.com/NVIDIA/OpenShell",
-     "meta": "+354 分 / 12.7 小时 · 现 ⭐ 366",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Docker is weird",
-     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-     "meta": "+304 分 / 5.8 小时 · 现 ⭐ 364",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Run full iOS 16.5 firmware on Android Devices",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "+261 分 / 12.7 小时 · 现 ⭐ 393",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Every AI model has the same \"controversial\" take on humans",
      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-     "meta": "+239 分 / 8.9 小时 · 现 ⭐ 351",
+     "meta": "+363 分 / 14.4 小时 · 现 ⭐ 475",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,15 +58,15 @@
     {
      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
      "url": "https://news.ycombinator.com/item?id=50193416",
-     "meta": "+238 分 / 8.9 小时 · 现 ⭐ 491",
+     "meta": "+348 分 / 14.4 小时 · 现 ⭐ 601",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "LLMs are making formal software verification feasible at a much larger scale",
-     "url": "https://www.anthropic.com/research/formal-verification",
-     "meta": "+202 分 / 5.8 小时 · 现 ⭐ 283",
+     "title": "Run full iOS 16.5 firmware on Android Devices",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "+328 分 / 18.2 小时 · 现 ⭐ 460",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -74,15 +74,15 @@
     {
      "title": "Getting ready to operate GNU Taler in Germany",
      "url": "https://www.taler.net/en/news/2026-13.html",
-     "meta": "+194 分 / 12.7 小时 · 现 ⭐ 258",
+     "meta": "+256 分 / 18.2 小时 · 现 ⭐ 320",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Jailbreaking the Switch 2",
-     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-     "meta": "+169 分 / 6.9 小时 · 现 ⭐ 712",
+     "title": "The foolishness of \"natural language programming\" (1978)",
+     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+     "meta": "+223 分 / 11.3 小时 · 现 ⭐ 226",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "meta": "⭐ 25331 · Java",
+     "meta": "⭐ 26324 · Java",
      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "meta": "⭐ 4629 · C",
+     "meta": "⭐ 4733 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 3585 · Java",
+     "meta": "⭐ 3693 · Java",
      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 3407 · Kotlin",
+     "meta": "⭐ 3617 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 2398 · Python",
+     "meta": "⭐ 2624 · Python",
      "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "tek-sys-hub/Rubix-lang",
      "url": "https://github.com/tek-sys-hub/Rubix-lang",
-     "meta": "⭐ 1906 · Assembly",
+     "meta": "⭐ 1916 · Assembly",
      "summary": "The 100% Pure x86-64 Assembly Systems Language",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1587 · Python",
+     "meta": "⭐ 1628 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,15 +288,23 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 1512",
+     "meta": "⭐ 1576",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "meta": "⭐ 1564 · Python",
+     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1482 · JavaScript",
+     "meta": "⭐ 1500 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
      "reason": null,
      "origin_source": "github_search"
@@ -310,17 +318,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "aicodeking/leanrea",
-     "url": "https://github.com/aicodeking/leanrea",
-     "meta": "⭐ 1409 · Python",
-     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "Ansub/tv-detox",
      "url": "https://github.com/Ansub/tv-detox",
-     "meta": "⭐ 1315 · Java",
+     "meta": "⭐ 1334 · Java",
      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
      "reason": null,
      "origin_source": "github_search"
@@ -328,16 +328,16 @@
     {
      "title": "humblemuzzu/dumbtv",
      "url": "https://github.com/humblemuzzu/dumbtv",
-     "meta": "⭐ 1312 · Java",
+     "meta": "⭐ 1328 · Java",
      "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "xscreensaver-official/xscreensaver",
-     "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "meta": "⭐ 1147",
-     "summary": "There is no official XScreenSaver GitHub repository.",
+     "title": "EthanArbuckle/fairplay-decrypt",
+     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+     "meta": "⭐ 1167 · C",
+     "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,7 +351,7 @@
     {
      "title": "Quad9 to exit France",
      "url": "https://quad9.net/news/blog/au-revoir-france/",
-     "meta": "⭐ 1130 · 💬 389",
+     "meta": "⭐ 1260 · 💬 422",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -373,6 +373,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+     "url": "https://news.ycombinator.com/item?id=50193416",
+     "meta": "⭐ 601 · 💬 224",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Docker is weird",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "meta": "⭐ 575 · 💬 246",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Security Disclosure",
      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
      "meta": "⭐ 562 · 💬 324",
@@ -383,15 +399,15 @@
     {
      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-     "meta": "⭐ 523 · 💬 164",
+     "meta": "⭐ 561 · 💬 174",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-     "url": "https://news.ycombinator.com/item?id=50193416",
-     "meta": "⭐ 491 · 💬 199",
+     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+     "url": "https://edjefferson.com/localwiki/",
+     "meta": "⭐ 557 · 💬 126",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,6 +421,30 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Every AI model has the same \"controversial\" take on humans",
+     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+     "meta": "⭐ 475 · 💬 479",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Run full iOS 16.5 firmware on Android Devices",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "⭐ 460 · 💬 170",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "meta": "⭐ 424 · 💬 197",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "What Is Gridifcation",
      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
      "meta": "⭐ 400 · 💬 200",
@@ -413,33 +453,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Run full iOS 16.5 firmware on Android Devices",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 393 · 💬 137",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-     "url": "https://github.com/NVIDIA/OpenShell",
-     "meta": "⭐ 366 · 💬 187",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Docker is weird",
-     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-     "meta": "⭐ 364 · 💬 180",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Every AI model has the same \"controversial\" take on humans",
-     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-     "meta": "⭐ 351 · 💬 380",
+     "title": "Getting ready to operate GNU Taler in Germany",
+     "url": "https://www.taler.net/en/news/2026-13.html",
+     "meta": "⭐ 320 · 💬 139",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -448,22 +464,6 @@
      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
      "meta": "⭐ 316 · 💬 126",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What’s getting pwned right now",
-     "url": "https://pwn.watch/",
-     "meta": "⭐ 311 · 💬 147",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-     "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-     "meta": "⭐ 293 · 💬 250",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -488,6 +488,22 @@
      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
      "meta": "Product Hunt · 2026-10-11",
      "summary": "Omni-channel AI-first customer support (6 months free)",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Plango",
+     "url": "https://www.producthunt.com/products/plango",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Use AI to defend against AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dots",
+     "url": "https://www.producthunt.com/products/dots-7",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "A customizable workspace built into your Mac's notch",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -540,6 +556,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Inyon",
+     "url": "https://www.producthunt.com/products/inyon",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Answer your coding agents from your phone",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Loom Record for agents",
      "url": "https://www.producthunt.com/products/loom",
      "meta": "Product Hunt · 2026-10-09",
@@ -568,30 +592,6 @@
      "url": "https://www.producthunt.com/products/whiteboard-5",
      "meta": "Product Hunt · 2026-10-19",
      "summary": "the open-source IDE for thoughtful software design",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Asimov 1",
-     "url": "https://www.producthunt.com/products/asimov-1",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "The most customizable humanoid robot you can buy",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Archivist",
-     "url": "https://www.producthunt.com/products/archivist",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "From messy filenames to shareable collections",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Flyweel",
-     "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
-     "meta": "Product Hunt · 2026-10-09",
-     "summary": "Ad spend cards, cash-gap funding, and agent audit via MCP",
      "reason": null,
      "origin_source": "producthunt"
     }

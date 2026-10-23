@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-23T14:56:54.819682+08:00",
- "count": 58,
+ "updated_at": "2026-10-23T20:28:22.234843+08:00",
+ "count": 67,
  "items": [
   {
    "id": "hn-50144727",
@@ -252,6 +252,22 @@
    ]
   },
   {
+   "id": "hn-50180799",
+   "title": "I reverse engineered a board game",
+   "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+   "hn_url": "https://news.ycombinator.com/item?id=50180799",
+   "score": 55,
+   "comments": 22,
+   "author": "wuemeli",
+   "time_iso": "2026-10-21T13:40:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
    "id": "hn-50188228",
    "title": "Security Disclosure",
    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
@@ -288,8 +304,8 @@
    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
    "hn_url": "https://news.ycombinator.com/item?id=50190363",
-   "score": 523,
-   "comments": 164,
+   "score": 561,
+   "comments": 174,
    "author": "alphax314",
    "time_iso": "2026-10-22T02:18:41+00:00",
    "history": [
@@ -300,6 +316,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 523
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 561
     }
    ]
   },
@@ -324,14 +344,18 @@
    "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
    "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
    "hn_url": "https://news.ycombinator.com/item?id=50192396",
-   "score": 23,
-   "comments": 5,
+   "score": 59,
+   "comments": 37,
    "author": "ibobev",
    "time_iso": "2026-10-22T07:41:29+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 23
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 59
     }
    ]
   },
@@ -388,8 +412,8 @@
    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
    "url": "https://news.ycombinator.com/item?id=50193416",
    "hn_url": "https://news.ycombinator.com/item?id=50193416",
-   "score": 491,
-   "comments": 199,
+   "score": 601,
+   "comments": 224,
    "author": "petecooper",
    "time_iso": "2026-10-22T10:11:44+00:00",
    "history": [
@@ -404,6 +428,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 491
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 601
     }
    ]
   },
@@ -488,14 +516,18 @@
    "title": "The alien space of science: Coherent but cognitively unavailable directions",
    "url": "https://arxiv.org/abs/2603.01092",
    "hn_url": "https://news.ycombinator.com/item?id=50195002",
-   "score": 18,
-   "comments": 2,
+   "score": 102,
+   "comments": 32,
    "author": "martincsweiss",
    "time_iso": "2026-10-22T13:25:01+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 102
     }
    ]
   },
@@ -584,8 +616,8 @@
    "title": "Quad9 to exit France",
    "url": "https://quad9.net/news/blog/au-revoir-france/",
    "hn_url": "https://news.ycombinator.com/item?id=50195959",
-   "score": 1130,
-   "comments": 389,
+   "score": 1260,
+   "comments": 422,
    "author": "farrokhi",
    "time_iso": "2026-10-22T14:32:38+00:00",
    "history": [
@@ -604,6 +636,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 1130
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 1260
     }
    ]
   },
@@ -612,8 +648,8 @@
    "title": "Run full iOS 16.5 firmware on Android Devices",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "hn_url": "https://news.ycombinator.com/item?id=50196718",
-   "score": 393,
-   "comments": 137,
+   "score": 460,
+   "comments": 170,
    "author": "aghuang",
    "time_iso": "2026-10-22T15:26:22+00:00",
    "history": [
@@ -632,6 +668,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 393
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 460
     }
    ]
   },
@@ -656,8 +696,8 @@
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "hn_url": "https://news.ycombinator.com/item?id=50197313",
-   "score": 351,
-   "comments": 380,
+   "score": 475,
+   "comments": 479,
    "author": "rakannimer",
    "time_iso": "2026-10-22T16:08:00+00:00",
    "history": [
@@ -672,6 +712,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 351
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 475
     }
    ]
   },
@@ -680,8 +724,8 @@
    "title": "Getting ready to operate GNU Taler in Germany",
    "url": "https://www.taler.net/en/news/2026-13.html",
    "hn_url": "https://news.ycombinator.com/item?id=50197404",
-   "score": 258,
-   "comments": 105,
+   "score": 320,
+   "comments": 139,
    "author": "dewey",
    "time_iso": "2026-10-22T16:14:31+00:00",
    "history": [
@@ -700,6 +744,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 258
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 320
     }
    ]
   },
@@ -760,8 +808,8 @@
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "hn_url": "https://news.ycombinator.com/item?id=50198675",
-   "score": 366,
-   "comments": 187,
+   "score": 424,
+   "comments": 197,
    "author": "niemandhier",
    "time_iso": "2026-10-22T17:44:06+00:00",
    "history": [
@@ -780,6 +828,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 366
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 424
     }
    ]
   },
@@ -880,14 +932,34 @@
    "title": "The HTML-in-Canvas API origin trial",
    "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
    "hn_url": "https://news.ycombinator.com/item?id=50200164",
-   "score": 14,
-   "comments": 2,
+   "score": 65,
+   "comments": 30,
    "author": "andrewstuart",
    "time_iso": "2026-10-22T19:54:04+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
+   "id": "hn-50200997",
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "url": "https://news.ycombinator.com/item?id=50200997",
+   "hn_url": "https://news.ycombinator.com/item?id=50200997",
+   "score": 233,
+   "comments": 231,
+   "author": "ex-aws-dude",
+   "time_iso": "2026-10-22T21:03:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 233
     }
    ]
   },
@@ -932,14 +1004,18 @@
    "title": "How does Fable 5.1 hide messages in images?",
    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
    "hn_url": "https://news.ycombinator.com/item?id=50201445",
-   "score": 10,
-   "comments": 1,
+   "score": 119,
+   "comments": 40,
    "author": "gmays",
    "time_iso": "2026-10-22T21:41:13+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 119
     }
    ]
   },
@@ -968,14 +1044,18 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 78,
-   "comments": 15,
+   "score": 557,
+   "comments": 126,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 78
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 557
     }
    ]
   },
@@ -1016,8 +1096,8 @@
    "title": "Docker is weird",
    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
    "hn_url": "https://news.ycombinator.com/item?id=50202681",
-   "score": 364,
-   "comments": 180,
+   "score": 575,
+   "comments": 246,
    "author": "psxuaw",
    "time_iso": "2026-10-22T23:45:56+00:00",
    "history": [
@@ -1028,6 +1108,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 364
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 575
     }
    ]
   },
@@ -1036,14 +1120,18 @@
    "title": "Jank – The native Clojure dialect with seamless C++ interop",
    "url": "https://jank-lang.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50202762",
-   "score": 70,
-   "comments": 4,
+   "score": 122,
+   "comments": 18,
    "author": "giancarlostoro",
    "time_iso": "2026-10-22T23:56:36+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 70
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 122
     }
    ]
   },
@@ -1064,12 +1152,28 @@
    ]
   },
   {
+   "id": "hn-50202865",
+   "title": "Show HN: Making a smart TV dumb and then smart",
+   "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+   "hn_url": "https://news.ycombinator.com/item?id=50202865",
+   "score": 43,
+   "comments": 7,
+   "author": "animalhot",
+   "time_iso": "2026-10-23T00:10:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
    "id": "hn-50203161",
    "title": "The foolishness of \"natural language programming\" (1978)",
    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
    "hn_url": "https://news.ycombinator.com/item?id=50203161",
-   "score": 113,
-   "comments": 70,
+   "score": 226,
+   "comments": 136,
    "author": "xiaoyu2006",
    "time_iso": "2026-10-23T00:52:01+00:00",
    "history": [
@@ -1080,6 +1184,10 @@
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 113
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 226
     }
    ]
   },
@@ -1088,14 +1196,114 @@
    "title": "This I Believe (1952)",
    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
    "hn_url": "https://news.ycombinator.com/item?id=50203759",
-   "score": 56,
-   "comments": 13,
+   "score": 103,
+   "comments": 44,
    "author": "ctoth",
    "time_iso": "2026-10-23T02:19:38+00:00",
    "history": [
     {
      "t": "2026-10-23T14:56:54.819682+08:00",
      "score": 56
+    },
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50205816",
+   "title": "Remove pgrust: the entry is cheating",
+   "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+   "hn_url": "https://news.ycombinator.com/item?id=50205816",
+   "score": 37,
+   "comments": 15,
+   "author": "f311a",
+   "time_iso": "2026-10-23T08:05:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
+   "id": "hn-50206840",
+   "title": "Job Loss and Cortisone Mania",
+   "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+   "hn_url": "https://news.ycombinator.com/item?id=50206840",
+   "score": 33,
+   "comments": 2,
+   "author": "speckx",
+   "time_iso": "2026-10-23T10:31:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50206914",
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "hn_url": "https://news.ycombinator.com/item?id=50206914",
+   "score": 98,
+   "comments": 37,
+   "author": "teekert",
+   "time_iso": "2026-10-23T10:41:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 98
+    }
+   ]
+  },
+  {
+   "id": "hn-50207115",
+   "title": "Is this the new cyber normal?",
+   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "hn_url": "https://news.ycombinator.com/item?id=50207115",
+   "score": 65,
+   "comments": 51,
+   "author": "drewsberry",
+   "time_iso": "2026-10-23T11:04:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
+   "id": "hn-50207405",
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "hn_url": "https://news.ycombinator.com/item?id=50207405",
+   "score": 42,
+   "comments": 16,
+   "author": "armcat",
+   "time_iso": "2026-10-23T11:39:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50207791",
+   "title": "Being sickened by genocide is not being antisemitic",
+   "url": "https://shojiwax.com/2026/10/22/being-appalled-by-genocide-is-not-being-antisemitic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50207791",
+   "score": 14,
+   "comments": 1,
+   "author": "speckx",
+   "time_iso": "2026-10-23T12:18:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T20:28:22.234843+08:00",
+     "score": 14
     }
    ]
   }
