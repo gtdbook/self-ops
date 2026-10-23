@@ -1,15 +1,15 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-24T04:58:25.618033+08:00",
- "count": 32,
+ "updated_at": "2026-10-24T07:48:13.727905+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-50169499",
    "title": "The Real Kevin Bacon",
    "url": "https://pudding.cool/2026/10/kevin-bacon/",
    "hn_url": "https://news.ycombinator.com/item?id=50169499",
-   "score": 162,
-   "comments": 45,
+   "score": 217,
+   "comments": 65,
    "author": "xnx",
    "time_iso": "2026-10-20T17:10:05+00:00",
    "history": [
@@ -20,6 +20,26 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 162
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 217
+    }
+   ]
+  },
+  {
+   "id": "hn-50177554",
+   "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+   "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+   "hn_url": "https://news.ycombinator.com/item?id=50177554",
+   "score": 13,
+   "comments": 5,
+   "author": "throwaway2037",
+   "time_iso": "2026-10-21T08:17:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 13
     }
    ]
   },
@@ -80,8 +100,8 @@
    "title": "LISP Comes of Age (1980)",
    "url": "https://microship.com/lisp-comes-of-age/",
    "hn_url": "https://news.ycombinator.com/item?id=50199684",
-   "score": 48,
-   "comments": 14,
+   "score": 56,
+   "comments": 17,
    "author": "so-cal-schemer",
    "time_iso": "2026-10-22T19:08:09+00:00",
    "history": [
@@ -92,6 +112,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 56
     }
    ]
   },
@@ -136,8 +160,8 @@
    "title": "Canadians are running out of time to oppose Bill C-22",
    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
    "hn_url": "https://news.ycombinator.com/item?id=50202114",
-   "score": 208,
-   "comments": 85,
+   "score": 291,
+   "comments": 148,
    "author": "hn_acker",
    "time_iso": "2026-10-22T22:43:19+00:00",
    "history": [
@@ -148,6 +172,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 208
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 291
     }
    ]
   },
@@ -156,8 +184,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1108,
-   "comments": 213,
+   "score": 1197,
+   "comments": 223,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -168,6 +196,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 1108
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 1197
     }
    ]
   },
@@ -208,8 +240,8 @@
    "title": "Show HN: Impossible Machines: declaratively program the physical world",
    "url": "https://www.impossiblemachines.xyz",
    "hn_url": "https://news.ycombinator.com/item?id=50202746",
-   "score": 43,
-   "comments": 13,
+   "score": 53,
+   "comments": 16,
    "author": "bhaprayan",
    "time_iso": "2026-10-22T23:54:28+00:00",
    "history": [
@@ -220,6 +252,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 43
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 53
     }
    ]
   },
@@ -244,8 +280,8 @@
    "title": "Show HN: Swurf – Swipe through the real web",
    "url": "https://swurf.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50205320",
-   "score": 31,
-   "comments": 19,
+   "score": 53,
+   "comments": 26,
    "author": "webtjb096",
    "time_iso": "2026-10-23T06:54:52+00:00",
    "history": [
@@ -256,6 +292,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 53
     }
    ]
   },
@@ -284,14 +324,18 @@
    "title": "Apple Music 404 Not Found",
    "url": "https://music.apple.com/this-url-doesnt-exist",
    "hn_url": "https://news.ycombinator.com/item?id=50207910",
-   "score": 286,
-   "comments": 105,
+   "score": 512,
+   "comments": 175,
    "author": "frizlab",
    "time_iso": "2026-10-23T12:28:47+00:00",
    "history": [
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 286
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 512
     }
    ]
   },
@@ -336,14 +380,18 @@
    "title": "Reforming English Spelling",
    "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
    "hn_url": "https://news.ycombinator.com/item?id=50211084",
-   "score": 13,
-   "comments": 33,
+   "score": 15,
+   "comments": 66,
    "author": "jruohonen",
    "time_iso": "2026-10-23T15:56:06+00:00",
    "history": [
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 15
     }
    ]
   },
@@ -352,8 +400,8 @@
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "url": "https://blog.calif.io/p/iphone",
    "hn_url": "https://news.ycombinator.com/item?id=50211474",
-   "score": 572,
-   "comments": 392,
+   "score": 703,
+   "comments": 462,
    "author": "pavel_lishin",
    "time_iso": "2026-10-23T16:21:50+00:00",
    "history": [
@@ -364,6 +412,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 572
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 703
     }
    ]
   },
@@ -412,8 +464,8 @@
    "title": "The Missed Opportunities of Sonic 06 (2025)",
    "url": "https://isaacmarovitz.com/posts/sonic-06/",
    "hn_url": "https://news.ycombinator.com/item?id=50211729",
-   "score": 51,
-   "comments": 10,
+   "score": 56,
+   "comments": 16,
    "author": "ibobev",
    "time_iso": "2026-10-23T16:38:35+00:00",
    "history": [
@@ -424,6 +476,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 51
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 56
     }
    ]
   },
@@ -432,8 +488,8 @@
    "title": "UUIDv7 doesn't have the properties you think it does",
    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
    "hn_url": "https://news.ycombinator.com/item?id=50211746",
-   "score": 80,
-   "comments": 69,
+   "score": 101,
+   "comments": 85,
    "author": "ibobev",
    "time_iso": "2026-10-23T16:39:45+00:00",
    "history": [
@@ -444,6 +500,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 80
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 101
     }
    ]
   },
@@ -452,8 +512,8 @@
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "hn_url": "https://news.ycombinator.com/item?id=50212065",
-   "score": 502,
-   "comments": 294,
+   "score": 654,
+   "comments": 417,
    "author": "Jowsey",
    "time_iso": "2026-10-23T16:59:08+00:00",
    "history": [
@@ -464,6 +524,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 502
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 654
     }
    ]
   },
@@ -472,7 +536,7 @@
    "title": "Animations for System Builders",
    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
    "hn_url": "https://news.ycombinator.com/item?id=50212124",
-   "score": 16,
+   "score": 29,
    "comments": 3,
    "author": "KraftyOne",
    "time_iso": "2026-10-23T17:02:24+00:00",
@@ -480,6 +544,10 @@
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 29
     }
    ]
   },
@@ -524,6 +592,22 @@
    ]
   },
   {
+   "id": "hn-50212507",
+   "title": "Air Purifiers as White Noise Machines",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+   "hn_url": "https://news.ycombinator.com/item?id=50212507",
+   "score": 46,
+   "comments": 63,
+   "author": "luu",
+   "time_iso": "2026-10-23T17:28:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
    "id": "hn-50212668",
    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
@@ -540,18 +624,38 @@
    ]
   },
   {
+   "id": "hn-50213791",
+   "title": "DNS: A Replacement for Finger",
+   "url": "https://altchan.org/sh/42",
+   "hn_url": "https://news.ycombinator.com/item?id=50213791",
+   "score": 16,
+   "comments": 17,
+   "author": "Bender",
+   "time_iso": "2026-10-23T19:00:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
    "id": "hn-50213925",
    "title": "Dessa: the most authentic full-duplex speech model ever built",
    "url": "https://block.xyz/dessa",
    "hn_url": "https://news.ycombinator.com/item?id=50213925",
-   "score": 48,
-   "comments": 12,
+   "score": 182,
+   "comments": 76,
    "author": "dsr12",
    "time_iso": "2026-10-23T19:09:54+00:00",
    "history": [
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 182
     }
    ]
   },
@@ -560,14 +664,18 @@
    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
    "hn_url": "https://news.ycombinator.com/item?id=50214218",
-   "score": 23,
-   "comments": 2,
+   "score": 222,
+   "comments": 104,
    "author": "JustSkyfall",
    "time_iso": "2026-10-23T19:34:15+00:00",
    "history": [
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 23
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 222
     }
    ]
   },
@@ -576,14 +684,114 @@
    "title": "We are all living inside of an obscure sci-fi film from 1970",
    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
    "hn_url": "https://news.ycombinator.com/item?id=50214323",
-   "score": 12,
-   "comments": 3,
+   "score": 94,
+   "comments": 94,
    "author": "speckx",
    "time_iso": "2026-10-23T19:41:59+00:00",
    "history": [
     {
      "t": "2026-10-24T04:58:25.618033+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 94
+    }
+   ]
+  },
+  {
+   "id": "hn-50214325",
+   "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+   "url": "https://rune.build/blog/rune-1-3-release",
+   "hn_url": "https://news.ycombinator.com/item?id=50214325",
+   "score": 28,
+   "comments": 7,
+   "author": "ernestrc",
+   "time_iso": "2026-10-23T19:42:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 28
+    }
+   ]
+  },
+  {
+   "id": "hn-50214373",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "url": "https://corgi.computer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50214373",
+   "score": 9,
+   "comments": 0,
+   "author": "eiopa",
+   "time_iso": "2026-10-23T19:46:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50214416",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+   "hn_url": "https://news.ycombinator.com/item?id=50214416",
+   "score": 61,
+   "comments": 71,
+   "author": "pretext",
+   "time_iso": "2026-10-23T19:50:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50214983",
+   "title": "A whirlwind tour of systemd-nspawn containers",
+   "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+   "hn_url": "https://news.ycombinator.com/item?id=50214983",
+   "score": 21,
+   "comments": 4,
+   "author": "ibobev",
+   "time_iso": "2026-10-23T20:37:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50214994",
+   "title": "No Source Code? No Problem",
+   "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+   "hn_url": "https://news.ycombinator.com/item?id=50214994",
+   "score": 23,
+   "comments": 15,
+   "author": "ibobev",
+   "time_iso": "2026-10-23T20:38:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50215530",
+   "title": "CVE Tracker",
+   "url": "https://cve.0xosprey.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50215530",
+   "score": 67,
+   "comments": 13,
+   "author": "Group_B",
+   "time_iso": "2026-10-23T21:21:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T07:48:13.727905+08:00",
+     "score": 67
     }
    ]
   }
