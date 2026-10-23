@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-23T09:11:37.944515+08:00",
- "count": 45,
+ "updated_at": "2026-10-23T14:56:54.819682+08:00",
+ "count": 58,
  "items": [
   {
    "id": "hn-50144727",
@@ -132,6 +132,22 @@
    ]
   },
   {
+   "id": "hn-50166272",
+   "title": "Why my Asus laptop kept rebooting after sleep and how to fix it",
+   "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+   "hn_url": "https://news.ycombinator.com/item?id=50166272",
+   "score": 35,
+   "comments": 28,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-20T13:40:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
    "id": "hn-50166604",
    "title": "How to Design Flowers",
    "url": "https://www.asimov.press/p/flowers",
@@ -160,6 +176,22 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50168850",
+   "title": "Color Names",
+   "url": "https://names.color.pizza",
+   "hn_url": "https://news.ycombinator.com/item?id=50168850",
+   "score": 51,
+   "comments": 7,
+   "author": "akkartik",
+   "time_iso": "2026-10-20T16:27:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 51
     }
    ]
   },
@@ -236,18 +268,38 @@
    ]
   },
   {
+   "id": "hn-50188614",
+   "title": "Postgres recovery_prefetch can cause outages",
+   "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+   "hn_url": "https://news.ycombinator.com/item?id=50188614",
+   "score": 33,
+   "comments": 0,
+   "author": "plaur782",
+   "time_iso": "2026-10-21T22:33:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
    "id": "hn-50190363",
    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
    "hn_url": "https://news.ycombinator.com/item?id=50190363",
-   "score": 441,
-   "comments": 140,
+   "score": 523,
+   "comments": 164,
    "author": "alphax314",
    "time_iso": "2026-10-22T02:18:41+00:00",
    "history": [
     {
      "t": "2026-10-23T02:16:30.200563+08:00",
      "score": 441
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 523
     }
    ]
   },
@@ -264,6 +316,22 @@
     {
      "t": "2026-10-23T02:16:30.200563+08:00",
      "score": 293
+    }
+   ]
+  },
+  {
+   "id": "hn-50192396",
+   "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+   "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+   "hn_url": "https://news.ycombinator.com/item?id=50192396",
+   "score": 23,
+   "comments": 5,
+   "author": "ibobev",
+   "time_iso": "2026-10-22T07:41:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 23
     }
    ]
   },
@@ -320,8 +388,8 @@
    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
    "url": "https://news.ycombinator.com/item?id=50193416",
    "hn_url": "https://news.ycombinator.com/item?id=50193416",
-   "score": 358,
-   "comments": 150,
+   "score": 491,
+   "comments": 199,
    "author": "petecooper",
    "time_iso": "2026-10-22T10:11:44+00:00",
    "history": [
@@ -332,6 +400,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 358
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 491
     }
    ]
   },
@@ -340,8 +412,8 @@
    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
    "hn_url": "https://news.ycombinator.com/item?id=50194009",
-   "score": 194,
-   "comments": 198,
+   "score": 280,
+   "comments": 242,
    "author": "entryleveljobsc",
    "time_iso": "2026-10-22T11:42:03+00:00",
    "history": [
@@ -352,6 +424,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 194
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 280
     }
    ]
   },
@@ -408,12 +484,28 @@
    ]
   },
   {
+   "id": "hn-50195002",
+   "title": "The alien space of science: Coherent but cognitively unavailable directions",
+   "url": "https://arxiv.org/abs/2603.01092",
+   "hn_url": "https://news.ycombinator.com/item?id=50195002",
+   "score": 18,
+   "comments": 2,
+   "author": "martincsweiss",
+   "time_iso": "2026-10-22T13:25:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
    "id": "hn-50195110",
    "title": "eMudhra to exit global SSL/TLS certificate business",
    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
    "hn_url": "https://news.ycombinator.com/item?id=50195110",
-   "score": 918,
-   "comments": 623,
+   "score": 1011,
+   "comments": 668,
    "author": "bo0tzz",
    "time_iso": "2026-10-22T13:33:39+00:00",
    "history": [
@@ -428,6 +520,26 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 918
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 1011
+    }
+   ]
+  },
+  {
+   "id": "hn-50195488",
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "url": "https://github.com/dsmurrell/onkey",
+   "hn_url": "https://news.ycombinator.com/item?id=50195488",
+   "score": 17,
+   "comments": 10,
+   "author": "dsmurrell",
+   "time_iso": "2026-10-22T14:04:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 17
     }
    ]
   },
@@ -469,11 +581,11 @@
   },
   {
    "id": "hn-50195959",
-   "title": "Quad9 (DNS Resolver) to Exit France",
+   "title": "Quad9 to exit France",
    "url": "https://quad9.net/news/blog/au-revoir-france/",
    "hn_url": "https://news.ycombinator.com/item?id=50195959",
-   "score": 984,
-   "comments": 355,
+   "score": 1130,
+   "comments": 389,
    "author": "farrokhi",
    "time_iso": "2026-10-22T14:32:38+00:00",
    "history": [
@@ -488,6 +600,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 984
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 1130
     }
    ]
   },
@@ -496,8 +612,8 @@
    "title": "Run full iOS 16.5 firmware on Android Devices",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "hn_url": "https://news.ycombinator.com/item?id=50196718",
-   "score": 319,
-   "comments": 123,
+   "score": 393,
+   "comments": 137,
    "author": "aghuang",
    "time_iso": "2026-10-22T15:26:22+00:00",
    "history": [
@@ -512,6 +628,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 319
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 393
     }
    ]
   },
@@ -536,8 +656,8 @@
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "hn_url": "https://news.ycombinator.com/item?id=50197313",
-   "score": 227,
-   "comments": 285,
+   "score": 351,
+   "comments": 380,
    "author": "rakannimer",
    "time_iso": "2026-10-22T16:08:00+00:00",
    "history": [
@@ -548,6 +668,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 227
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 351
     }
    ]
   },
@@ -556,8 +680,8 @@
    "title": "Getting ready to operate GNU Taler in Germany",
    "url": "https://www.taler.net/en/news/2026-13.html",
    "hn_url": "https://news.ycombinator.com/item?id=50197404",
-   "score": 222,
-   "comments": 85,
+   "score": 258,
+   "comments": 105,
    "author": "dewey",
    "time_iso": "2026-10-22T16:14:31+00:00",
    "history": [
@@ -572,6 +696,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 222
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 258
     }
    ]
   },
@@ -612,12 +740,28 @@
    ]
   },
   {
+   "id": "hn-50197692",
+   "title": "Objects, attributes, maps, oh my",
+   "url": "https://bernsteinbear.com/blog/object-shapes/",
+   "hn_url": "https://news.ycombinator.com/item?id=50197692",
+   "score": 11,
+   "comments": 0,
+   "author": "ibobev",
+   "time_iso": "2026-10-22T16:34:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
    "id": "hn-50198675",
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "hn_url": "https://news.ycombinator.com/item?id=50198675",
-   "score": 290,
-   "comments": 151,
+   "score": 366,
+   "comments": 187,
    "author": "niemandhier",
    "time_iso": "2026-10-22T17:44:06+00:00",
    "history": [
@@ -632,6 +776,10 @@
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 290
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 366
     }
    ]
   },
@@ -728,6 +876,22 @@
    ]
   },
   {
+   "id": "hn-50200164",
+   "title": "The HTML-in-Canvas API origin trial",
+   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+   "hn_url": "https://news.ycombinator.com/item?id=50200164",
+   "score": 14,
+   "comments": 2,
+   "author": "andrewstuart",
+   "time_iso": "2026-10-22T19:54:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
    "id": "hn-50201259",
    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
@@ -764,18 +928,70 @@
    ]
   },
   {
+   "id": "hn-50201445",
+   "title": "How does Fable 5.1 hide messages in images?",
+   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+   "hn_url": "https://news.ycombinator.com/item?id=50201445",
+   "score": 10,
+   "comments": 1,
+   "author": "gmays",
+   "time_iso": "2026-10-22T21:41:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
    "id": "hn-50202217",
    "title": "LLMs are making formal software verification feasible at a much larger scale",
    "url": "https://www.anthropic.com/research/formal-verification",
    "hn_url": "https://news.ycombinator.com/item?id=50202217",
-   "score": 81,
-   "comments": 31,
+   "score": 283,
+   "comments": 155,
    "author": "johnbender",
    "time_iso": "2026-10-22T22:54:43+00:00",
    "history": [
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 81
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 283
+    }
+   ]
+  },
+  {
+   "id": "hn-50202285",
+   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+   "url": "https://edjefferson.com/localwiki/",
+   "hn_url": "https://news.ycombinator.com/item?id=50202285",
+   "score": 78,
+   "comments": 15,
+   "author": "sohkamyung",
+   "time_iso": "2026-10-22T23:01:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 78
+    }
+   ]
+  },
+  {
+   "id": "hn-50202482",
+   "title": "We have traits at home",
+   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+   "hn_url": "https://news.ycombinator.com/item?id=50202482",
+   "score": 9,
+   "comments": 0,
+   "author": "Ygg2",
+   "time_iso": "2026-10-22T23:24:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 9
     }
    ]
   },
@@ -797,17 +1013,37 @@
   },
   {
    "id": "hn-50202681",
-   "title": "Docker Is Weird",
+   "title": "Docker is weird",
    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
    "hn_url": "https://news.ycombinator.com/item?id=50202681",
-   "score": 60,
-   "comments": 20,
+   "score": 364,
+   "comments": 180,
    "author": "psxuaw",
    "time_iso": "2026-10-22T23:45:56+00:00",
    "history": [
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 364
+    }
+   ]
+  },
+  {
+   "id": "hn-50202762",
+   "title": "Jank – The native Clojure dialect with seamless C++ interop",
+   "url": "https://jank-lang.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50202762",
+   "score": 70,
+   "comments": 4,
+   "author": "giancarlostoro",
+   "time_iso": "2026-10-22T23:56:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 70
     }
    ]
   },
@@ -832,14 +1068,34 @@
    "title": "The foolishness of \"natural language programming\" (1978)",
    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
    "hn_url": "https://news.ycombinator.com/item?id=50203161",
-   "score": 3,
-   "comments": 1,
+   "score": 113,
+   "comments": 70,
    "author": "xiaoyu2006",
    "time_iso": "2026-10-23T00:52:01+00:00",
    "history": [
     {
      "t": "2026-10-23T09:11:37.944515+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 113
+    }
+   ]
+  },
+  {
+   "id": "hn-50203759",
+   "title": "This I Believe (1952)",
+   "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+   "hn_url": "https://news.ycombinator.com/item?id=50203759",
+   "score": 56,
+   "comments": 13,
+   "author": "ctoth",
+   "time_iso": "2026-10-23T02:19:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T14:56:54.819682+08:00",
+     "score": 56
     }
    ]
   }
