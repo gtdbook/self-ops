@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-23T06:04:44.914115+08:00",
- "count": 37,
+ "updated_at": "2026-10-23T09:11:37.944515+08:00",
+ "count": 45,
  "items": [
   {
    "id": "hn-50144727",
@@ -24,8 +24,8 @@
    "title": "What Is Gridifcation",
    "url": "https://musicalform.substack.com/p/what-is-gridifcation",
    "hn_url": "https://news.ycombinator.com/item?id=50150163",
-   "score": 366,
-   "comments": 182,
+   "score": 400,
+   "comments": 200,
    "author": "gumby",
    "time_iso": "2026-10-19T09:13:12+00:00",
    "history": [
@@ -36,6 +36,26 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 366
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 400
+    }
+   ]
+  },
+  {
+   "id": "hn-50150681",
+   "title": "Speeding up code review with `small-change`",
+   "url": "https://lethain.com/small-changes/",
+   "hn_url": "https://news.ycombinator.com/item?id=50150681",
+   "score": 21,
+   "comments": 11,
+   "author": "alexmolas",
+   "time_iso": "2026-10-19T10:35:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 21
     }
    ]
   },
@@ -44,8 +64,8 @@
    "title": "Dungeon Generation in the Gnomish Mines of NetHack",
    "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
    "hn_url": "https://news.ycombinator.com/item?id=50154109",
-   "score": 99,
-   "comments": 12,
+   "score": 123,
+   "comments": 15,
    "author": "ibobev",
    "time_iso": "2026-10-19T16:06:40+00:00",
    "history": [
@@ -56,6 +76,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 99
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 123
     }
    ]
   },
@@ -104,6 +128,22 @@
     {
      "t": "2026-10-23T02:16:30.200563+08:00",
      "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50166604",
+   "title": "How to Design Flowers",
+   "url": "https://www.asimov.press/p/flowers",
+   "hn_url": "https://news.ycombinator.com/item?id=50166604",
+   "score": 14,
+   "comments": 2,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-20T14:00:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 14
     }
    ]
   },
@@ -160,8 +200,8 @@
    "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
    "url": "https://uberblok.storagebits.workers.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50180257",
-   "score": 60,
-   "comments": 19,
+   "score": 74,
+   "comments": 20,
    "author": "storagebits",
    "time_iso": "2026-10-21T13:04:25+00:00",
    "history": [
@@ -172,6 +212,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 74
     }
    ]
   },
@@ -228,8 +272,8 @@
    "title": "Jailbreaking the Switch 2",
    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
    "hn_url": "https://news.ycombinator.com/item?id=50192536",
-   "score": 651,
-   "comments": 231,
+   "score": 712,
+   "comments": 249,
    "author": "ledoge",
    "time_iso": "2026-10-22T08:01:52+00:00",
    "history": [
@@ -240,6 +284,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 651
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 712
     }
    ]
   },
@@ -248,8 +296,8 @@
    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
    "hn_url": "https://news.ycombinator.com/item?id=50193170",
-   "score": 188,
-   "comments": 36,
+   "score": 201,
+   "comments": 38,
    "author": "molind",
    "time_iso": "2026-10-22T09:31:18+00:00",
    "history": [
@@ -260,6 +308,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 188
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 201
     }
    ]
   },
@@ -268,14 +320,18 @@
    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
    "url": "https://news.ycombinator.com/item?id=50193416",
    "hn_url": "https://news.ycombinator.com/item?id=50193416",
-   "score": 253,
-   "comments": 103,
+   "score": 358,
+   "comments": 150,
    "author": "petecooper",
    "time_iso": "2026-10-22T10:11:44+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 253
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 358
     }
    ]
   },
@@ -284,14 +340,18 @@
    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
    "hn_url": "https://news.ycombinator.com/item?id=50194009",
-   "score": 133,
-   "comments": 162,
+   "score": 194,
+   "comments": 198,
    "author": "entryleveljobsc",
    "time_iso": "2026-10-22T11:42:03+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 133
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 194
     }
    ]
   },
@@ -316,14 +376,18 @@
    "title": "Woman faces six years in prison over Cash App account she never opened",
    "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
    "hn_url": "https://news.ycombinator.com/item?id=50194833",
-   "score": 342,
-   "comments": 321,
+   "score": 484,
+   "comments": 494,
    "author": "oidar",
    "time_iso": "2026-10-22T13:11:00+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 342
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 484
     }
    ]
   },
@@ -348,8 +412,8 @@
    "title": "eMudhra to exit global SSL/TLS certificate business",
    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
    "hn_url": "https://news.ycombinator.com/item?id=50195110",
-   "score": 860,
-   "comments": 592,
+   "score": 918,
+   "comments": 623,
    "author": "bo0tzz",
    "time_iso": "2026-10-22T13:33:39+00:00",
    "history": [
@@ -360,6 +424,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 860
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 918
     }
    ]
   },
@@ -404,8 +472,8 @@
    "title": "Quad9 (DNS Resolver) to Exit France",
    "url": "https://quad9.net/news/blog/au-revoir-france/",
    "hn_url": "https://news.ycombinator.com/item?id=50195959",
-   "score": 827,
-   "comments": 308,
+   "score": 984,
+   "comments": 355,
    "author": "farrokhi",
    "time_iso": "2026-10-22T14:32:38+00:00",
    "history": [
@@ -416,16 +484,20 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 827
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 984
     }
    ]
   },
   {
    "id": "hn-50196718",
-   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "title": "Run full iOS 16.5 firmware on Android Devices",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "hn_url": "https://news.ycombinator.com/item?id=50196718",
-   "score": 269,
-   "comments": 97,
+   "score": 319,
+   "comments": 123,
    "author": "aghuang",
    "time_iso": "2026-10-22T15:26:22+00:00",
    "history": [
@@ -436,6 +508,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 269
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 319
     }
    ]
   },
@@ -460,14 +536,18 @@
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "hn_url": "https://news.ycombinator.com/item?id=50197313",
-   "score": 112,
-   "comments": 150,
+   "score": 227,
+   "comments": 285,
    "author": "rakannimer",
    "time_iso": "2026-10-22T16:08:00+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 112
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 227
     }
    ]
   },
@@ -476,8 +556,8 @@
    "title": "Getting ready to operate GNU Taler in Germany",
    "url": "https://www.taler.net/en/news/2026-13.html",
    "hn_url": "https://news.ycombinator.com/item?id=50197404",
-   "score": 175,
-   "comments": 61,
+   "score": 222,
+   "comments": 85,
    "author": "dewey",
    "time_iso": "2026-10-22T16:14:31+00:00",
    "history": [
@@ -488,6 +568,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 175
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 222
     }
    ]
   },
@@ -532,8 +616,8 @@
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "hn_url": "https://news.ycombinator.com/item?id=50198675",
-   "score": 224,
-   "comments": 120,
+   "score": 290,
+   "comments": 151,
    "author": "niemandhier",
    "time_iso": "2026-10-22T17:44:06+00:00",
    "history": [
@@ -544,6 +628,10 @@
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 224
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 290
     }
    ]
   },
@@ -588,14 +676,18 @@
    "title": "AI and the Enclosure of the Scientific Commons",
    "url": "https://arxiv.org/abs/2610.27251",
    "hn_url": "https://news.ycombinator.com/item?id=50199230",
-   "score": 75,
-   "comments": 38,
+   "score": 107,
+   "comments": 62,
    "author": "jrepinc",
    "time_iso": "2026-10-22T18:28:16+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 107
     }
    ]
   },
@@ -620,14 +712,34 @@
    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
    "hn_url": "https://news.ycombinator.com/item?id=50199389",
-   "score": 77,
-   "comments": 17,
+   "score": 128,
+   "comments": 28,
    "author": "maxilevi",
    "time_iso": "2026-10-22T18:44:36+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 77
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 128
+    }
+   ]
+  },
+  {
+   "id": "hn-50201259",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "hn_url": "https://news.ycombinator.com/item?id=50201259",
+   "score": 316,
+   "comments": 126,
+   "author": "ck2",
+   "time_iso": "2026-10-22T21:24:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 316
     }
    ]
   },
@@ -636,14 +748,98 @@
    "title": "Railpass",
    "url": "https://train.samismith.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50201414",
-   "score": 5,
-   "comments": 3,
+   "score": 43,
+   "comments": 10,
    "author": "CharlesW",
    "time_iso": "2026-10-22T21:38:32+00:00",
    "history": [
     {
      "t": "2026-10-23T06:04:44.914115+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50202217",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "hn_url": "https://news.ycombinator.com/item?id=50202217",
+   "score": 81,
+   "comments": 31,
+   "author": "johnbender",
+   "time_iso": "2026-10-22T22:54:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 81
+    }
+   ]
+  },
+  {
+   "id": "hn-50202671",
+   "title": "AI compute is the new oil–and needs a new market",
+   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+   "hn_url": "https://news.ycombinator.com/item?id=50202671",
+   "score": 11,
+   "comments": 5,
+   "author": "ijidak",
+   "time_iso": "2026-10-22T23:45:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50202681",
+   "title": "Docker Is Weird",
+   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "hn_url": "https://news.ycombinator.com/item?id=50202681",
+   "score": 60,
+   "comments": 20,
+   "author": "psxuaw",
+   "time_iso": "2026-10-22T23:45:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50202766",
+   "title": "Mapping the Northern Sky",
+   "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+   "hn_url": "https://news.ycombinator.com/item?id=50202766",
+   "score": 10,
+   "comments": 0,
+   "author": "tmseidman",
+   "time_iso": "2026-10-22T23:56:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
+   "id": "hn-50203161",
+   "title": "The foolishness of \"natural language programming\" (1978)",
+   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50203161",
+   "score": 3,
+   "comments": 1,
+   "author": "xiaoyu2006",
+   "time_iso": "2026-10-23T00:52:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-23T09:11:37.944515+08:00",
+     "score": 3
     }
    ]
   }
