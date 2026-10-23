@@ -1,0 +1,514 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T01:41:57.165917+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+     "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+     "meta": "Ars Technica · 2026-10-23",
+     "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Left alone with nothing to do, AI agents started playing",
+     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+     "meta": "TechCrunch AI · 2026-10-23",
+     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "meta": "TechCrunch AI · 2026-10-21",
+     "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "meta": "OpenAI · 2026-10-16",
+     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Bringing GPT-Rosalind to academic research labs",
+     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+     "meta": "OpenAI · 2026-10-15",
+     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The EU’s next chapter in AI is agentic",
+     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "meta": "OpenAI · 2026-10-08",
+     "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The Agent Said It Was Done. The Database Disagreed.",
+     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+     "meta": "Hugging Face · 2026-10-03",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Albertsons Companies is reimagining retail from the inside out",
+     "url": "https://openai.com/index/albertsons-reimagining-retail",
+     "meta": "OpenAI · 2026-10-01",
+     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+     "url": "https://openai.com/index/proaction",
+     "meta": "OpenAI · 2026-09-25",
+     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "Gathin23/cleanyourtv",
+     "url": "https://github.com/Gathin23/cleanyourtv",
+     "meta": "⭐ 27234 · Java",
+     "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ly05010419/MacNativeGames",
+     "url": "https://github.com/ly05010419/MacNativeGames",
+     "meta": "⭐ 4828 · C",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "simbasjungles/free-my-tv",
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "meta": "⭐ 3828 · Java",
+     "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "meta": "⭐ 3761 · Kotlin",
+     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "xiaoyang111222/cn-math-taxonomy",
+     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+     "meta": "⭐ 2732 · Python",
+     "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "tek-sys-hub/Rubix-lang",
+     "url": "https://github.com/tek-sys-hub/Rubix-lang",
+     "meta": "⭐ 1912 · Assembly",
+     "summary": "The 100% Pure x86-64 Assembly Systems Language",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "meta": "⭐ 1718 · Python",
+     "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "meta": "⭐ 1659",
+     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1657 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alchaincyf/huashu-motion",
+     "url": "https://github.com/alchaincyf/huashu-motion",
+     "meta": "⭐ 1525 · JavaScript",
+     "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "EthanArbuckle/fairplay-decrypt",
+     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+     "meta": "⭐ 1444 · C",
+     "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "humblemuzzu/dumbtv",
+     "url": "https://github.com/humblemuzzu/dumbtv",
+     "meta": "⭐ 1354 · Java",
+     "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Ansub/tv-detox",
+     "url": "https://github.com/Ansub/tv-detox",
+     "meta": "⭐ 1353 · Java",
+     "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "meta": "⭐ 1167 · Python",
+     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "openai/php2shell-checker",
+     "url": "https://github.com/openai/php2shell-checker",
+     "meta": "⭐ 1058 · JavaScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+     "url": "https://edjefferson.com/localwiki/",
+     "meta": "⭐ 966 · 💬 187",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Docker is weird",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "meta": "⭐ 763 · 💬 307",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "meta": "⭐ 480 · 💬 206",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+     "url": "https://news.ycombinator.com/item?id=50200997",
+     "meta": "⭐ 430 · 💬 462",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The foolishness of \"natural language programming\" (1978)",
+     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+     "meta": "⭐ 322 · 💬 215",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Today, we hacked what we'd set out to hack: the iPhone",
+     "url": "https://blog.calif.io/p/iphone",
+     "meta": "⭐ 298 · 💬 157",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How does Fable 5.1 hide messages in images?",
+     "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+     "meta": "⭐ 179 · 💬 59",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The alien space of science: Coherent but cognitively unavailable directions",
+     "url": "https://arxiv.org/abs/2603.01092",
+     "meta": "⭐ 176 · 💬 65",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+     "url": "https://github.com/dsmurrell/onkey",
+     "meta": "⭐ 166 · 💬 71",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "meta": "⭐ 147 · 💬 59",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Job loss and cortisone mania",
+     "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+     "meta": "⭐ 115 · 💬 52",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Real Kevin Bacon",
+     "url": "https://pudding.cool/2026/10/kevin-bacon/",
+     "meta": "⭐ 62 · 💬 14",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Canadians are running out of time to oppose Bill C-22",
+     "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+     "meta": "⭐ 57 · 💬 8",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+     "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+     "meta": "⭐ 26 · 💬 0",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We have traits at home",
+     "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+     "meta": "⭐ 25 · 💬 5",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Concierge by Juniors AI",
+     "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+     "meta": "Product Hunt · 2026-10-11",
+     "summary": "Omni-channel AI-first customer support (6 months free)",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Plango",
+     "url": "https://www.producthunt.com/products/plango",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Use AI to defend against AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dots",
+     "url": "https://www.producthunt.com/products/dots-7",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "A customizable workspace built into your Mac's notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Notif",
+     "url": "https://www.producthunt.com/products/notif-2",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "AI for your Apple Reminders",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Claude Duet",
+     "url": "https://www.producthunt.com/products/claude",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Proactive agent that understands what needs your attention",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Resend Inboxes",
+     "url": "https://www.producthunt.com/products/resend",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Create shared inboxes, connect your agents, build workflows",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Voxelo 3.0",
+     "url": "https://www.producthunt.com/products/voxelo-ai",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Phone video to photoreal 3D & JSON-LD in an hour",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Inyon",
+     "url": "https://www.producthunt.com/products/inyon",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Answer your coding agents from your phone",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Loom Record for agents",
+     "url": "https://www.producthunt.com/products/loom",
+     "meta": "Product Hunt · 2026-10-09",
+     "summary": "Hit record and hand off to AI, now in the new Loom app",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Woven Video",
+     "url": "https://www.producthunt.com/products/woven-video",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Edit any video by chat, on a real Mac timeline",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Whiteboard",
+     "url": "https://www.producthunt.com/products/whiteboard-5",
+     "meta": "Product Hunt · 2026-10-19",
+     "summary": "the open-source IDE for thoughtful software design",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Archivist",
+     "url": "https://www.producthunt.com/products/archivist",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "From messy filenames to shareable collections",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Sponkly",
+     "url": "https://www.producthunt.com/products/sponkly",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Live voice translation for chats, calls, meetings & YouTube",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Product Hunt Visual Launch Editor",
+     "url": "https://www.producthunt.com/products/producthunt",
+     "meta": "Product Hunt · 2026-10-23",
+     "summary": "See your launch as you build it",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Monish",
+     "url": "https://www.producthunt.com/products/monish",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Your AI agents, live on your iPhone lock screen",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
