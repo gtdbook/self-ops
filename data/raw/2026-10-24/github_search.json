@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-24T07:48:14.599974+08:00",
- "count": 22,
+ "updated_at": "2026-10-24T11:15:46.220402+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1422883896",
@@ -76,7 +76,7 @@
    "id": "gh-1424070461",
    "title": "Ansub/tv-detox",
    "url": "https://github.com/Ansub/tv-detox",
-   "stars": 1381,
+   "stars": 1388,
    "language": "Java",
    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
    "created_at": "2026-10-18T06:42:29Z",
@@ -92,6 +92,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1381
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1388
     }
    ]
   },
@@ -99,7 +103,7 @@
    "id": "gh-1424183124",
    "title": "xiaoyang111222/cn-math-taxonomy",
    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-   "stars": 2795,
+   "stars": 2860,
    "language": "Python",
    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
    "created_at": "2026-10-18T09:04:43Z",
@@ -115,6 +119,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 2795
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 2860
     }
    ]
   },
@@ -122,7 +130,7 @@
    "id": "gh-1424340323",
    "title": "alchaincyf/huashu-motion",
    "url": "https://github.com/alchaincyf/huashu-motion",
-   "stars": 1537,
+   "stars": 1545,
    "language": "JavaScript",
    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
    "created_at": "2026-10-18T12:19:27Z",
@@ -138,6 +146,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1537
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1545
     }
    ]
   },
@@ -145,7 +157,7 @@
    "id": "gh-1424613188",
    "title": "humblemuzzu/dumbtv",
    "url": "https://github.com/humblemuzzu/dumbtv",
-   "stars": 1391,
+   "stars": 1401,
    "language": "Java",
    "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
    "created_at": "2026-10-18T17:04:12Z",
@@ -161,6 +173,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1391
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1401
     }
    ]
   },
@@ -183,7 +199,7 @@
    "id": "gh-1425429552",
    "title": "EthanArbuckle/fairplay-decrypt",
    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-   "stars": 1556,
+   "stars": 1623,
    "language": "C",
    "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
    "created_at": "2026-10-19T10:07:58Z",
@@ -199,6 +215,25 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1556
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1623
+    }
+   ]
+  },
+  {
+   "id": "gh-1425469723",
+   "title": "UniXNU/UniXNU",
+   "url": "https://github.com/UniXNU/UniXNU",
+   "stars": 862,
+   "language": "Python",
+   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+   "created_at": "2026-10-19T10:46:55Z",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 862
     }
    ]
   },
@@ -206,7 +241,7 @@
    "id": "gh-1426080579",
    "title": "simbasjungles/free-my-tv",
    "url": "https://github.com/simbasjungles/free-my-tv",
-   "stars": 3948,
+   "stars": 3988,
    "language": "Java",
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "created_at": "2026-10-19T19:29:01Z",
@@ -222,6 +257,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 3948
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 3988
     }
    ]
   },
@@ -229,7 +268,7 @@
    "id": "gh-1426240325",
    "title": "JoasASantos/REA-Prompts",
    "url": "https://github.com/JoasASantos/REA-Prompts",
-   "stars": 1725,
+   "stars": 1763,
    "language": "",
    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
    "created_at": "2026-10-19T22:20:47Z",
@@ -245,6 +284,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1725
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1763
     }
    ]
   },
@@ -252,7 +295,7 @@
    "id": "gh-1426270002",
    "title": "ELY-Open-Source/ElyOffice",
    "url": "https://github.com/ELY-Open-Source/ElyOffice",
-   "stars": 925,
+   "stars": 934,
    "language": "Rust",
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "created_at": "2026-10-19T23:04:42Z",
@@ -264,6 +307,10 @@
     {
      "t": "2026-10-24T04:58:26.389022+08:00",
      "score": 925
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 934
     }
    ]
   },
@@ -271,7 +318,7 @@
    "id": "gh-1426780056",
    "title": "pengchujin/aerial-tv",
    "url": "https://github.com/pengchujin/aerial-tv",
-   "stars": 3810,
+   "stars": 3895,
    "language": "Kotlin",
    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
    "created_at": "2026-10-20T09:13:06Z",
@@ -287,6 +334,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 3810
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 3895
     }
    ]
   },
@@ -294,7 +345,7 @@
    "id": "gh-1427107663",
    "title": "eagle-hq/EAGLE-4",
    "url": "https://github.com/eagle-hq/EAGLE-4",
-   "stars": 950,
+   "stars": 955,
    "language": "Python",
    "description": "Official Inference Code of EAGLE-4",
    "created_at": "2026-10-20T14:03:04Z",
@@ -310,6 +361,25 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 950
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 955
+    }
+   ]
+  },
+  {
+   "id": "gh-1427126014",
+   "title": "Jakeschincariol/day-trader-skill",
+   "url": "https://github.com/Jakeschincariol/day-trader-skill",
+   "stars": 877,
+   "language": "Python",
+   "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+   "created_at": "2026-10-20T14:17:54Z",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 877
     }
    ]
   },
@@ -317,7 +387,7 @@
    "id": "gh-1427696883",
    "title": "colinhacks/reylo",
    "url": "https://github.com/colinhacks/reylo",
-   "stars": 1048,
+   "stars": 1072,
    "language": "Rust",
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "created_at": "2026-10-21T00:16:54Z",
@@ -333,6 +403,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1048
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1072
     }
    ]
   },
@@ -340,7 +414,7 @@
    "id": "gh-1427704805",
    "title": "openai/php2shell-checker",
    "url": "https://github.com/openai/php2shell-checker",
-   "stars": 1161,
+   "stars": 1222,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-10-21T00:29:12Z",
@@ -356,6 +430,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1161
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1222
     }
    ]
   },
@@ -363,7 +441,7 @@
    "id": "gh-1428058681",
    "title": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
-   "stars": 1691,
+   "stars": 1702,
    "language": "Python",
    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
    "created_at": "2026-10-21T07:55:16Z",
@@ -379,6 +457,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1691
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1702
     }
    ]
   },
@@ -386,7 +468,7 @@
    "id": "gh-1428098303",
    "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "stars": 967,
+   "stars": 970,
    "language": "Shell",
    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
    "created_at": "2026-10-21T08:31:43Z",
@@ -402,6 +484,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 967
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 970
     }
    ]
   },
@@ -409,7 +495,7 @@
    "id": "gh-1428268121",
    "title": "9bie/php2shell-bypass-aslr-exp",
    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-   "stars": 1252,
+   "stars": 1288,
    "language": "Python",
    "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
    "created_at": "2026-10-21T11:11:57Z",
@@ -425,6 +511,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1252
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1288
     }
    ]
   },
@@ -432,7 +522,7 @@
    "id": "gh-1428714039",
    "title": "xevrion/hatchzip",
    "url": "https://github.com/xevrion/hatchzip",
-   "stars": 948,
+   "stars": 1054,
    "language": "Rust",
    "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
    "created_at": "2026-10-21T17:29:28Z",
@@ -440,6 +530,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 948
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1054
     }
    ]
   },
@@ -447,7 +541,7 @@
    "id": "gh-1428848843",
    "title": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
-   "stars": 1068,
+   "stars": 1156,
    "language": "Swift",
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "created_at": "2026-10-21T19:38:50Z",
@@ -459,6 +553,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1068
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1156
     }
    ]
   },
@@ -466,7 +564,7 @@
    "id": "gh-1429328794",
    "title": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "stars": 1080,
+   "stars": 1123,
    "language": "C",
    "description": "",
    "created_at": "2026-10-22T06:20:11Z",
@@ -482,6 +580,10 @@
     {
      "t": "2026-10-24T07:48:14.599974+08:00",
      "score": 1080
+    },
+    {
+     "t": "2026-10-24T11:15:46.220402+08:00",
+     "score": 1123
     }
    ]
   }

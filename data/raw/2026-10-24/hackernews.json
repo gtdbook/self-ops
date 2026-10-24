@@ -1,15 +1,31 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-24T07:48:13.727905+08:00",
- "count": 41,
+ "updated_at": "2026-10-24T11:15:45.520641+08:00",
+ "count": 49,
  "items": [
+  {
+   "id": "hn-50168075",
+   "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+   "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+   "hn_url": "https://news.ycombinator.com/item?id=50168075",
+   "score": 19,
+   "comments": 0,
+   "author": "gmays",
+   "time_iso": "2026-10-20T15:41:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 19
+    }
+   ]
+  },
   {
    "id": "hn-50169499",
    "title": "The Real Kevin Bacon",
    "url": "https://pudding.cool/2026/10/kevin-bacon/",
    "hn_url": "https://news.ycombinator.com/item?id=50169499",
-   "score": 217,
-   "comments": 65,
+   "score": 259,
+   "comments": 72,
    "author": "xnx",
    "time_iso": "2026-10-20T17:10:05+00:00",
    "history": [
@@ -24,6 +40,42 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 217
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 259
+    }
+   ]
+  },
+  {
+   "id": "hn-50172962",
+   "title": "Bringing uv and ty together",
+   "url": "https://astral.sh/blog/uv-ty-integration",
+   "hn_url": "https://news.ycombinator.com/item?id=50172962",
+   "score": 43,
+   "comments": 12,
+   "author": "Ravencentric",
+   "time_iso": "2026-10-20T21:30:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50176544",
+   "title": "C vs. C#: racing VLC's Gaussian blur",
+   "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+   "hn_url": "https://news.ycombinator.com/item?id=50176544",
+   "score": 25,
+   "comments": 0,
+   "author": "martz",
+   "time_iso": "2026-10-21T05:48:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 25
     }
    ]
   },
@@ -32,14 +84,34 @@
    "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
    "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
    "hn_url": "https://news.ycombinator.com/item?id=50177554",
-   "score": 13,
-   "comments": 5,
+   "score": 35,
+   "comments": 8,
    "author": "throwaway2037",
    "time_iso": "2026-10-21T08:17:35+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50182510",
+   "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+   "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+   "hn_url": "https://news.ycombinator.com/item?id=50182510",
+   "score": 10,
+   "comments": 1,
+   "author": "civicpivot",
+   "time_iso": "2026-10-21T15:19:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 10
     }
    ]
   },
@@ -160,8 +232,8 @@
    "title": "Canadians are running out of time to oppose Bill C-22",
    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
    "hn_url": "https://news.ycombinator.com/item?id=50202114",
-   "score": 291,
-   "comments": 148,
+   "score": 350,
+   "comments": 182,
    "author": "hn_acker",
    "time_iso": "2026-10-22T22:43:19+00:00",
    "history": [
@@ -176,6 +248,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 291
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 350
     }
    ]
   },
@@ -184,8 +260,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1197,
-   "comments": 223,
+   "score": 1282,
+   "comments": 226,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -200,6 +276,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 1197
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 1282
     }
    ]
   },
@@ -324,8 +404,8 @@
    "title": "Apple Music 404 Not Found",
    "url": "https://music.apple.com/this-url-doesnt-exist",
    "hn_url": "https://news.ycombinator.com/item?id=50207910",
-   "score": 512,
-   "comments": 175,
+   "score": 623,
+   "comments": 204,
    "author": "frizlab",
    "time_iso": "2026-10-23T12:28:47+00:00",
    "history": [
@@ -336,6 +416,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 512
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 623
     }
    ]
   },
@@ -400,8 +484,8 @@
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "url": "https://blog.calif.io/p/iphone",
    "hn_url": "https://news.ycombinator.com/item?id=50211474",
-   "score": 703,
-   "comments": 462,
+   "score": 770,
+   "comments": 522,
    "author": "pavel_lishin",
    "time_iso": "2026-10-23T16:21:50+00:00",
    "history": [
@@ -416,6 +500,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 703
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 770
     }
    ]
   },
@@ -512,8 +600,8 @@
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "hn_url": "https://news.ycombinator.com/item?id=50212065",
-   "score": 654,
-   "comments": 417,
+   "score": 763,
+   "comments": 470,
    "author": "Jowsey",
    "time_iso": "2026-10-23T16:59:08+00:00",
    "history": [
@@ -528,6 +616,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 654
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 763
     }
    ]
   },
@@ -536,7 +628,7 @@
    "title": "Animations for System Builders",
    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
    "hn_url": "https://news.ycombinator.com/item?id=50212124",
-   "score": 29,
+   "score": 43,
    "comments": 3,
    "author": "KraftyOne",
    "time_iso": "2026-10-23T17:02:24+00:00",
@@ -548,6 +640,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 43
     }
    ]
   },
@@ -596,14 +692,18 @@
    "title": "Air Purifiers as White Noise Machines",
    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
    "hn_url": "https://news.ycombinator.com/item?id=50212507",
-   "score": 46,
-   "comments": 63,
+   "score": 80,
+   "comments": 99,
    "author": "luu",
    "time_iso": "2026-10-23T17:28:36+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 80
     }
    ]
   },
@@ -628,14 +728,18 @@
    "title": "DNS: A Replacement for Finger",
    "url": "https://altchan.org/sh/42",
    "hn_url": "https://news.ycombinator.com/item?id=50213791",
-   "score": 16,
-   "comments": 17,
+   "score": 30,
+   "comments": 22,
    "author": "Bender",
    "time_iso": "2026-10-23T19:00:04+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 30
     }
    ]
   },
@@ -644,8 +748,8 @@
    "title": "Dessa: the most authentic full-duplex speech model ever built",
    "url": "https://block.xyz/dessa",
    "hn_url": "https://news.ycombinator.com/item?id=50213925",
-   "score": 182,
-   "comments": 76,
+   "score": 271,
+   "comments": 111,
    "author": "dsr12",
    "time_iso": "2026-10-23T19:09:54+00:00",
    "history": [
@@ -656,6 +760,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 182
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 271
     }
    ]
   },
@@ -664,8 +772,8 @@
    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
    "hn_url": "https://news.ycombinator.com/item?id=50214218",
-   "score": 222,
-   "comments": 104,
+   "score": 305,
+   "comments": 159,
    "author": "JustSkyfall",
    "time_iso": "2026-10-23T19:34:15+00:00",
    "history": [
@@ -676,6 +784,10 @@
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 222
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 305
     }
    ]
   },
@@ -704,14 +816,18 @@
    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
    "url": "https://rune.build/blog/rune-1-3-release",
    "hn_url": "https://news.ycombinator.com/item?id=50214325",
-   "score": 28,
-   "comments": 7,
+   "score": 41,
+   "comments": 9,
    "author": "ernestrc",
    "time_iso": "2026-10-23T19:42:01+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 41
     }
    ]
   },
@@ -720,14 +836,18 @@
    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
    "url": "https://corgi.computer/",
    "hn_url": "https://news.ycombinator.com/item?id=50214373",
-   "score": 9,
-   "comments": 0,
+   "score": 46,
+   "comments": 8,
    "author": "eiopa",
    "time_iso": "2026-10-23T19:46:38+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 9
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 46
     }
    ]
   },
@@ -749,17 +869,21 @@
   },
   {
    "id": "hn-50214983",
-   "title": "A whirlwind tour of systemd-nspawn containers",
+   "title": "A whirlwind tour of systemd-nspawn containers (2025)",
    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
    "hn_url": "https://news.ycombinator.com/item?id=50214983",
-   "score": 21,
-   "comments": 4,
+   "score": 36,
+   "comments": 7,
    "author": "ibobev",
    "time_iso": "2026-10-23T20:37:12+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 36
     }
    ]
   },
@@ -768,14 +892,18 @@
    "title": "No Source Code? No Problem",
    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
    "hn_url": "https://news.ycombinator.com/item?id=50214994",
-   "score": 23,
-   "comments": 15,
+   "score": 38,
+   "comments": 31,
    "author": "ibobev",
    "time_iso": "2026-10-23T20:38:06+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 23
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 38
     }
    ]
   },
@@ -784,14 +912,82 @@
    "title": "CVE Tracker",
    "url": "https://cve.0xosprey.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50215530",
-   "score": 67,
-   "comments": 13,
+   "score": 119,
+   "comments": 52,
    "author": "Group_B",
    "time_iso": "2026-10-23T21:21:47+00:00",
    "history": [
     {
      "t": "2026-10-24T07:48:13.727905+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 119
+    }
+   ]
+  },
+  {
+   "id": "hn-50216791",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "hn_url": "https://news.ycombinator.com/item?id=50216791",
+   "score": 110,
+   "comments": 56,
+   "author": "cowlevel",
+   "time_iso": "2026-10-23T23:30:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 110
+    }
+   ]
+  },
+  {
+   "id": "hn-50217500",
+   "title": "Twelve Years of Distributed SQLite",
+   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "hn_url": "https://news.ycombinator.com/item?id=50217500",
+   "score": 20,
+   "comments": 0,
+   "author": "otoolep",
+   "time_iso": "2026-10-24T01:16:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
+   "id": "hn-50217587",
+   "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+   "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50217587",
+   "score": 42,
+   "comments": 47,
+   "author": "JKCalhoun",
+   "time_iso": "2026-10-24T01:35:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50217683",
+   "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+   "hn_url": "https://news.ycombinator.com/item?id=50217683",
+   "score": 29,
+   "comments": 2,
+   "author": "amichail",
+   "time_iso": "2026-10-24T01:53:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T11:15:45.520641+08:00",
+     "score": 29
     }
    ]
   }
