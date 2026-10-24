@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-25T04:12:19.621615+08:00",
- "count": 36,
+ "updated_at": "2026-10-25T06:52:46.074278+08:00",
+ "count": 43,
  "items": [
+  {
+   "id": "hn-50168376",
+   "title": "Making a VGA Driver in SystemVerilog",
+   "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+   "hn_url": "https://news.ycombinator.com/item?id=50168376",
+   "score": 35,
+   "comments": 7,
+   "author": "derHackerman",
+   "time_iso": "2026-10-20T16:00:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 35
+    }
+   ]
+  },
   {
    "id": "hn-50171379",
    "title": "A practical guide to AI image generation, from diffusion to agents",
@@ -24,14 +40,18 @@
    "title": "Symbolic Learning in Python and Julia",
    "url": "https://github.com/astroautomata/PySR",
    "hn_url": "https://news.ycombinator.com/item?id=50171936",
-   "score": 25,
-   "comments": 4,
+   "score": 47,
+   "comments": 7,
    "author": "alex_hirner",
    "time_iso": "2026-10-20T20:07:35+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 25
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 47
     }
    ]
   },
@@ -108,8 +128,8 @@
    "title": "Physicists trap a single antimatter particle for a month",
    "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
    "hn_url": "https://news.ycombinator.com/item?id=50186450",
-   "score": 249,
-   "comments": 73,
+   "score": 263,
+   "comments": 78,
    "author": "mooreds",
    "time_iso": "2026-10-21T19:40:01+00:00",
    "history": [
@@ -120,6 +140,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 249
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 263
     }
    ]
   },
@@ -128,14 +152,18 @@
    "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
    "url": "https://sourceforge.net/projects/zac-os-9/",
    "hn_url": "https://news.ycombinator.com/item?id=50189981",
-   "score": 19,
-   "comments": 6,
+   "score": 39,
+   "comments": 27,
    "author": "felixding",
    "time_iso": "2026-10-22T01:28:27+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 19
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 39
     }
    ]
   },
@@ -144,8 +172,8 @@
    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
    "hn_url": "https://news.ycombinator.com/item?id=50192975",
-   "score": 75,
-   "comments": 13,
+   "score": 82,
+   "comments": 14,
    "author": "pjmlp",
    "time_iso": "2026-10-22T09:01:10+00:00",
    "history": [
@@ -156,6 +184,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 82
     }
    ]
   },
@@ -172,6 +204,22 @@
     {
      "t": "2026-10-25T01:11:30.353099+08:00",
      "score": 71
+    }
+   ]
+  },
+  {
+   "id": "hn-50194602",
+   "title": "Full Disk Encryption on Fedora with TPM2",
+   "url": "https://www.apalrd.net/posts/2026/ent_luks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50194602",
+   "score": 10,
+   "comments": 5,
+   "author": "speckx",
+   "time_iso": "2026-10-22T12:46:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 10
     }
    ]
   },
@@ -196,8 +244,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1510,
-   "comments": 240,
+   "score": 1530,
+   "comments": 242,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -208,6 +256,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 1510
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 1530
     }
    ]
   },
@@ -284,8 +336,8 @@
    "title": "Twelve years of distributed SQLite",
    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
    "hn_url": "https://news.ycombinator.com/item?id=50217500",
-   "score": 345,
-   "comments": 51,
+   "score": 352,
+   "comments": 61,
    "author": "otoolep",
    "time_iso": "2026-10-24T01:16:58+00:00",
    "history": [
@@ -296,6 +348,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 345
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 352
     }
    ]
   },
@@ -340,8 +396,8 @@
    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
    "hn_url": "https://news.ycombinator.com/item?id=50219177",
-   "score": 236,
-   "comments": 116,
+   "score": 260,
+   "comments": 129,
    "author": "theanonymousone",
    "time_iso": "2026-10-24T08:06:39+00:00",
    "history": [
@@ -352,6 +408,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 236
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 260
     }
    ]
   },
@@ -360,8 +420,8 @@
    "title": "I don't understand quantum physics (2018)",
    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50219666",
-   "score": 237,
-   "comments": 170,
+   "score": 259,
+   "comments": 190,
    "author": "rramadass",
    "time_iso": "2026-10-24T09:53:26+00:00",
    "history": [
@@ -372,6 +432,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 237
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 259
     }
    ]
   },
@@ -380,8 +444,8 @@
    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
    "url": "https://github.com/Zagitta/gpu-unlock",
    "hn_url": "https://news.ycombinator.com/item?id=50219700",
-   "score": 130,
-   "comments": 49,
+   "score": 156,
+   "comments": 59,
    "author": "fragebogen",
    "time_iso": "2026-10-24T09:58:27+00:00",
    "history": [
@@ -392,6 +456,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 130
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 156
     }
    ]
   },
@@ -400,8 +468,8 @@
    "title": "FreeDNS",
    "url": "https://freedns.afraid.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50222133",
-   "score": 191,
-   "comments": 50,
+   "score": 223,
+   "comments": 59,
    "author": "esher",
    "time_iso": "2026-10-24T15:20:01+00:00",
    "history": [
@@ -412,6 +480,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 191
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 223
     }
    ]
   },
@@ -420,14 +492,18 @@
    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
    "hn_url": "https://news.ycombinator.com/item?id=50222283",
-   "score": 17,
-   "comments": 14,
+   "score": 27,
+   "comments": 19,
    "author": "tokepi",
    "time_iso": "2026-10-24T15:35:17+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 17
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 27
     }
    ]
   },
@@ -436,8 +512,8 @@
    "title": "Neural chip decodes interactions between brain regions",
    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
    "hn_url": "https://news.ycombinator.com/item?id=50222525",
-   "score": 62,
-   "comments": 15,
+   "score": 76,
+   "comments": 25,
    "author": "giuliomagnifico",
    "time_iso": "2026-10-24T15:57:17+00:00",
    "history": [
@@ -448,6 +524,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 62
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 76
     }
    ]
   },
@@ -456,8 +536,8 @@
    "title": "Roku developer repositories moved from GitHub to GitLab",
    "url": "https://blog.roku.com/developer/gitlab-move",
    "hn_url": "https://news.ycombinator.com/item?id=50222622",
-   "score": 190,
-   "comments": 128,
+   "score": 227,
+   "comments": 152,
    "author": "cxr",
    "time_iso": "2026-10-24T16:06:26+00:00",
    "history": [
@@ -468,6 +548,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 190
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 227
     }
    ]
   },
@@ -476,8 +560,8 @@
    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
    "url": "https://de.numista.com/9866",
    "hn_url": "https://news.ycombinator.com/item?id=50222927",
-   "score": 65,
-   "comments": 12,
+   "score": 79,
+   "comments": 20,
    "author": "schleck8",
    "time_iso": "2026-10-24T16:41:55+00:00",
    "history": [
@@ -488,6 +572,10 @@
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 65
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 79
     }
    ]
   },
@@ -528,14 +616,18 @@
    "title": "Dream-1",
    "url": "https://dreamlabs.ai/research/dream-1/",
    "hn_url": "https://news.ycombinator.com/item?id=50223785",
-   "score": 85,
-   "comments": 48,
+   "score": 142,
+   "comments": 68,
    "author": "GaggiX",
    "time_iso": "2026-10-24T18:23:24+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 142
     }
    ]
   },
@@ -573,17 +665,37 @@
   },
   {
    "id": "hn-50224100",
-   "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-   "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+   "title": "The Goose Programming Language",
+   "url": "https://aardappel.github.io/goose/",
    "hn_url": "https://news.ycombinator.com/item?id=50224100",
-   "score": 50,
-   "comments": 11,
+   "score": 149,
+   "comments": 121,
    "author": "bobbydigitales",
    "time_iso": "2026-10-24T19:06:55+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 50
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 149
+    }
+   ]
+  },
+  {
+   "id": "hn-50224210",
+   "title": "SpeedCrunch 1.1",
+   "url": "https://www.speedcrunch.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50224210",
+   "score": 32,
+   "comments": 7,
+   "author": "LordNibbler",
+   "time_iso": "2026-10-24T19:19:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 32
     }
    ]
   },
@@ -608,30 +720,102 @@
    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
    "url": "https://missileer.watch",
    "hn_url": "https://news.ycombinator.com/item?id=50224422",
-   "score": 11,
-   "comments": 2,
+   "score": 81,
+   "comments": 43,
    "author": "liotier",
    "time_iso": "2026-10-24T19:43:27+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 81
     }
    ]
   },
   {
    "id": "hn-50224463",
-   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "title": "No signs of AI payoff outside the tech sector",
    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "hn_url": "https://news.ycombinator.com/item?id=50224463",
-   "score": 49,
-   "comments": 24,
+   "score": 398,
+   "comments": 366,
    "author": "the-mitr",
    "time_iso": "2026-10-24T19:47:19+00:00",
    "history": [
     {
      "t": "2026-10-25T04:12:19.621615+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 398
+    }
+   ]
+  },
+  {
+   "id": "hn-50224916",
+   "title": "Show HN: Steal My Bitcoin",
+   "url": "https://stealmybitcoin.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50224916",
+   "score": 278,
+   "comments": 130,
+   "author": "cloudlandsdev",
+   "time_iso": "2026-10-24T20:30:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 278
+    }
+   ]
+  },
+  {
+   "id": "hn-50225663",
+   "title": "The Importance of Limitations for Creativity and Learning",
+   "url": "https://ratfactor.com/cards/limitations",
+   "hn_url": "https://news.ycombinator.com/item?id=50225663",
+   "score": 4,
+   "comments": 0,
+   "author": "andsoitis",
+   "time_iso": "2026-10-24T21:42:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50225674",
+   "title": "Small Programs and Languages",
+   "url": "https://ratfactor.com/cards/pl-small",
+   "hn_url": "https://news.ycombinator.com/item?id=50225674",
+   "score": 5,
+   "comments": 0,
+   "author": "andsoitis",
+   "time_iso": "2026-10-24T21:44:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50225695",
+   "title": "We should be more ambitious with the software we build",
+   "url": "https://danluu.com/ambitious/",
+   "hn_url": "https://news.ycombinator.com/item?id=50225695",
+   "score": 10,
+   "comments": 0,
+   "author": "ltratt",
+   "time_iso": "2026-10-24T21:47:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T06:52:46.074278+08:00",
+     "score": 10
     }
    ]
   }
