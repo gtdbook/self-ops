@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-24T16:38:51.016927+08:00",
- "count": 60,
+ "updated_at": "2026-10-24T21:05:40.970327+08:00",
+ "count": 68,
  "items": [
   {
    "id": "hn-50168075",
@@ -24,8 +24,8 @@
    "title": "The Real Kevin Bacon",
    "url": "https://pudding.cool/2026/10/kevin-bacon/",
    "hn_url": "https://news.ycombinator.com/item?id=50169499",
-   "score": 297,
-   "comments": 77,
+   "score": 328,
+   "comments": 79,
    "author": "xnx",
    "time_iso": "2026-10-20T17:10:05+00:00",
    "history": [
@@ -48,6 +48,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 297
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 328
     }
    ]
   },
@@ -56,14 +60,18 @@
    "title": "A practical guide to AI image generation, from diffusion to agents",
    "url": "https://danielball.com/notes/ai_image_generation.html",
    "hn_url": "https://news.ycombinator.com/item?id=50171379",
-   "score": 70,
-   "comments": 16,
+   "score": 129,
+   "comments": 38,
    "author": "westsmith",
    "time_iso": "2026-10-20T19:22:39+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 70
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 129
     }
    ]
   },
@@ -72,8 +80,8 @@
    "title": "Bringing uv and ty together",
    "url": "https://astral.sh/blog/uv-ty-integration",
    "hn_url": "https://news.ycombinator.com/item?id=50172962",
-   "score": 141,
-   "comments": 30,
+   "score": 192,
+   "comments": 58,
    "author": "Ravencentric",
    "time_iso": "2026-10-20T21:30:56+00:00",
    "history": [
@@ -84,6 +92,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 141
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 192
     }
    ]
   },
@@ -144,6 +156,38 @@
    ]
   },
   {
+   "id": "hn-50180251",
+   "title": "Tiling Noise – Procedural GPU Patterns",
+   "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+   "hn_url": "https://news.ycombinator.com/item?id=50180251",
+   "score": 4,
+   "comments": 1,
+   "author": "ibobev",
+   "time_iso": "2026-10-21T13:04:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50181106",
+   "title": "Appreciating the beauty of all your body's scars and scratches",
+   "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+   "hn_url": "https://news.ycombinator.com/item?id=50181106",
+   "score": 17,
+   "comments": 8,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-21T14:00:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
    "id": "hn-50182510",
    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
    "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
@@ -168,14 +212,34 @@
    "title": "Physicists trap a single antimatter particle for a month",
    "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
    "hn_url": "https://news.ycombinator.com/item?id=50186450",
-   "score": 8,
-   "comments": 4,
+   "score": 108,
+   "comments": 42,
    "author": "mooreds",
    "time_iso": "2026-10-21T19:40:01+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50191250",
+   "title": "The Chalk and the Airplane",
+   "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+   "hn_url": "https://news.ycombinator.com/item?id=50191250",
+   "score": 13,
+   "comments": 1,
+   "author": "paulorlando",
+   "time_iso": "2026-10-22T04:41:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 13
     }
    ]
   },
@@ -192,6 +256,22 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 105
+    }
+   ]
+  },
+  {
+   "id": "hn-50194536",
+   "title": "How to run a city builder on 16 MHz",
+   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+   "hn_url": "https://news.ycombinator.com/item?id=50194536",
+   "score": 39,
+   "comments": 12,
+   "author": "rex64",
+   "time_iso": "2026-10-22T12:40:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 39
     }
    ]
   },
@@ -312,8 +392,8 @@
    "title": "Canadians are running out of time to oppose Bill C-22",
    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
    "hn_url": "https://news.ycombinator.com/item?id=50202114",
-   "score": 406,
-   "comments": 214,
+   "score": 437,
+   "comments": 230,
    "author": "hn_acker",
    "time_iso": "2026-10-22T22:43:19+00:00",
    "history": [
@@ -336,6 +416,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 406
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 437
     }
    ]
   },
@@ -344,8 +428,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1368,
-   "comments": 233,
+   "score": 1420,
+   "comments": 237,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -368,6 +452,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 1368
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 1420
     }
    ]
   },
@@ -492,8 +580,8 @@
    "title": "Apple Music 404 Not Found",
    "url": "https://music.apple.com/this-url-doesnt-exist",
    "hn_url": "https://news.ycombinator.com/item?id=50207910",
-   "score": 744,
-   "comments": 229,
+   "score": 810,
+   "comments": 243,
    "author": "frizlab",
    "time_iso": "2026-10-23T12:28:47+00:00",
    "history": [
@@ -512,6 +600,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 744
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 810
     }
    ]
   },
@@ -576,8 +668,8 @@
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "url": "https://blog.calif.io/p/iphone",
    "hn_url": "https://news.ycombinator.com/item?id=50211474",
-   "score": 860,
-   "comments": 560,
+   "score": 936,
+   "comments": 607,
    "author": "pavel_lishin",
    "time_iso": "2026-10-23T16:21:50+00:00",
    "history": [
@@ -600,6 +692,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 860
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 936
     }
    ]
   },
@@ -696,8 +792,8 @@
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "hn_url": "https://news.ycombinator.com/item?id=50212065",
-   "score": 890,
-   "comments": 521,
+   "score": 957,
+   "comments": 573,
    "author": "Jowsey",
    "time_iso": "2026-10-23T16:59:08+00:00",
    "history": [
@@ -720,6 +816,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 890
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 957
     }
    ]
   },
@@ -852,8 +952,8 @@
    "title": "Dessa: Conversation Model trained only on speech",
    "url": "https://block.xyz/dessa",
    "hn_url": "https://news.ycombinator.com/item?id=50213925",
-   "score": 375,
-   "comments": 135,
+   "score": 415,
+   "comments": 153,
    "author": "dsr12",
    "time_iso": "2026-10-23T19:09:54+00:00",
    "history": [
@@ -872,6 +972,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 375
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 415
     }
    ]
   },
@@ -1024,8 +1128,8 @@
    "title": "CVE Tracker",
    "url": "https://cve.0xosprey.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50215530",
-   "score": 166,
-   "comments": 61,
+   "score": 183,
+   "comments": 69,
    "author": "Group_B",
    "time_iso": "2026-10-23T21:21:47+00:00",
    "history": [
@@ -1040,6 +1144,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 166
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 183
     }
    ]
   },
@@ -1080,14 +1188,18 @@
    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
    "hn_url": "https://news.ycombinator.com/item?id=50217495",
-   "score": 26,
-   "comments": 1,
+   "score": 236,
+   "comments": 62,
    "author": "privacyishuman",
    "time_iso": "2026-10-24T01:15:14+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 236
     }
    ]
   },
@@ -1096,8 +1208,8 @@
    "title": "Twelve years of distributed SQLite",
    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
    "hn_url": "https://news.ycombinator.com/item?id=50217500",
-   "score": 180,
-   "comments": 22,
+   "score": 247,
+   "comments": 40,
    "author": "otoolep",
    "time_iso": "2026-10-24T01:16:58+00:00",
    "history": [
@@ -1108,6 +1220,10 @@
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 180
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 247
     }
    ]
   },
@@ -1148,14 +1264,18 @@
    "title": "Apple Security Research Device",
    "url": "https://security.apple.com/research-device/",
    "hn_url": "https://news.ycombinator.com/item?id=50217903",
-   "score": 46,
-   "comments": 13,
+   "score": 94,
+   "comments": 42,
    "author": "neom",
    "time_iso": "2026-10-24T02:36:38+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 94
     }
    ]
   },
@@ -1180,14 +1300,18 @@
    "title": "How close can pure functional programming get to C?",
    "url": "https://rtfeldman.com/fp-vs-c",
    "hn_url": "https://news.ycombinator.com/item?id=50218195",
-   "score": 94,
-   "comments": 9,
+   "score": 153,
+   "comments": 28,
    "author": "stmonty",
    "time_iso": "2026-10-24T03:43:54+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 94
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 153
     }
    ]
   },
@@ -1196,14 +1320,18 @@
    "title": "OBS Studio 33",
    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
    "hn_url": "https://news.ycombinator.com/item?id=50218430",
-   "score": 101,
-   "comments": 25,
+   "score": 224,
+   "comments": 73,
    "author": "pentagrama",
    "time_iso": "2026-10-24T04:49:58+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 101
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 224
     }
    ]
   },
@@ -1212,14 +1340,82 @@
    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
    "hn_url": "https://news.ycombinator.com/item?id=50218633",
-   "score": 74,
-   "comments": 12,
+   "score": 275,
+   "comments": 79,
    "author": "testing22321",
    "time_iso": "2026-10-24T05:49:57+00:00",
    "history": [
     {
      "t": "2026-10-24T16:38:51.016927+08:00",
      "score": 74
+    },
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 275
+    }
+   ]
+  },
+  {
+   "id": "hn-50219177",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "hn_url": "https://news.ycombinator.com/item?id=50219177",
+   "score": 59,
+   "comments": 33,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-24T08:06:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50219666",
+   "title": "I Don't Understand Quantum Physics (2018)",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50219666",
+   "score": 117,
+   "comments": 80,
+   "author": "rramadass",
+   "time_iso": "2026-10-24T09:53:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 117
+    }
+   ]
+  },
+  {
+   "id": "hn-50220042",
+   "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+   "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+   "hn_url": "https://news.ycombinator.com/item?id=50220042",
+   "score": 11,
+   "comments": 0,
+   "author": "t20n",
+   "time_iso": "2026-10-24T10:51:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50220204",
+   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+   "hn_url": "https://news.ycombinator.com/item?id=50220204",
+   "score": 40,
+   "comments": 6,
+   "author": "TangerineDream",
+   "time_iso": "2026-10-24T11:18:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T21:05:40.970327+08:00",
+     "score": 40
     }
    ]
   }
