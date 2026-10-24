@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T11:15:47.412286+08:00",
+ "generated_at": "2026-10-24T16:38:53.579503+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-     "meta": "+616 分 / 9.6 小时 · 现 ⭐ 763",
+     "meta": "+743 分 / 14.9 小时 · 现 ⭐ 890",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,7 @@
     {
      "title": "Today, we hacked what we'd set out to hack: the iPhone",
      "url": "https://blog.calif.io/p/iphone",
-     "meta": "+472 分 / 9.6 小时 · 现 ⭐ 770",
+     "meta": "+562 分 / 14.9 小时 · 现 ⭐ 860",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,7 @@
     {
      "title": "Apple Music 404 Not Found",
      "url": "https://music.apple.com/this-url-doesnt-exist",
-     "meta": "+337 分 / 6.3 小时 · 现 ⭐ 623",
+     "meta": "+458 分 / 11.7 小时 · 现 ⭐ 744",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +34,7 @@
     {
      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
      "url": "https://edjefferson.com/localwiki/",
-     "meta": "+316 分 / 9.6 小时 · 现 ⭐ 1282",
+     "meta": "+402 分 / 14.9 小时 · 现 ⭐ 1368",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,7 +42,15 @@
     {
      "title": "Canadians are running out of time to oppose Bill C-22",
      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-     "meta": "+293 分 / 9.6 小时 · 现 ⭐ 350",
+     "meta": "+349 分 / 14.9 小时 · 现 ⭐ 406",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dessa: Conversation Model trained only on speech",
+     "url": "https://block.xyz/dessa",
+     "meta": "+327 分 / 11.7 小时 · 现 ⭐ 375",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -56,17 +64,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dessa: the most authentic full-duplex speech model ever built",
-     "url": "https://block.xyz/dessa",
-     "meta": "+223 分 / 6.3 小时 · 现 ⭐ 271",
+     "title": "The Real Kevin Bacon",
+     "url": "https://pudding.cool/2026/10/kevin-bacon/",
+     "meta": "+235 分 / 14.9 小时 · 现 ⭐ 297",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "The Real Kevin Bacon",
-     "url": "https://pudding.cool/2026/10/kevin-bacon/",
-     "meta": "+197 分 / 9.6 小时 · 现 ⭐ 259",
+     "title": "Twelve years of distributed SQLite",
+     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+     "meta": "+160 分 / 5.4 小时 · 现 ⭐ 180",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -75,14 +83,6 @@
      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
      "url": "https://news.ycombinator.com/item?id=50200997",
      "meta": "+108 分 / 3.3 小时 · 现 ⭐ 538",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "UUIDv7 doesn't have the properties you think it does",
-     "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-     "meta": "+82 分 / 6.1 小时 · 现 ⭐ 101",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -238,25 +238,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "simbasjungles/free-my-tv",
-     "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 3988 · Java",
-     "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "meta": "⭐ 4067 · Kotlin",
+     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "pengchujin/aerial-tv",
-     "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 3895 · Kotlin",
-     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "title": "simbasjungles/free-my-tv",
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "meta": "⭐ 4046 · Java",
+     "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "xiaoyang111222/cn-math-taxonomy",
      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-     "meta": "⭐ 2860 · Python",
+     "meta": "⭐ 2953 · Python",
      "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
      "reason": null,
      "origin_source": "github_search"
@@ -270,6 +270,14 @@
      "origin_source": "github_search"
     },
     {
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "meta": "⭐ 1836",
+     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "aicodeking/leanrea",
      "url": "https://github.com/aicodeking/leanrea",
      "meta": "⭐ 1818 · Python",
@@ -278,33 +286,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "JoasASantos/REA-Prompts",
-     "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 1763",
-     "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "title": "EthanArbuckle/fairplay-decrypt",
+     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+     "meta": "⭐ 1748 · C",
+     "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1702 · Python",
+     "meta": "⭐ 1715 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "EthanArbuckle/fairplay-decrypt",
-     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-     "meta": "⭐ 1623 · C",
-     "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "meta": "⭐ 1545 · JavaScript",
+     "meta": "⭐ 1561 · JavaScript",
      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +312,7 @@
     {
      "title": "humblemuzzu/dumbtv",
      "url": "https://github.com/humblemuzzu/dumbtv",
-     "meta": "⭐ 1401 · Java",
+     "meta": "⭐ 1415 · Java",
      "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +320,7 @@
     {
      "title": "Ansub/tv-detox",
      "url": "https://github.com/Ansub/tv-detox",
-     "meta": "⭐ 1388 · Java",
+     "meta": "⭐ 1408 · Java",
      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +328,7 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1288 · Python",
+     "meta": "⭐ 1349 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1222 · JavaScript",
+     "meta": "⭐ 1309 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +351,15 @@
     {
      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
      "url": "https://edjefferson.com/localwiki/",
-     "meta": "⭐ 1282 · 💬 226",
+     "meta": "⭐ 1368 · 💬 233",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "meta": "⭐ 890 · 💬 521",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -359,7 +367,7 @@
     {
      "title": "Today, we hacked what we'd set out to hack: the iPhone",
      "url": "https://blog.calif.io/p/iphone",
-     "meta": "⭐ 770 · 💬 522",
+     "meta": "⭐ 860 · 💬 560",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -373,17 +381,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-     "meta": "⭐ 763 · 💬 470",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Apple Music 404 Not Found",
      "url": "https://music.apple.com/this-url-doesnt-exist",
-     "meta": "⭐ 623 · 💬 204",
+     "meta": "⭐ 744 · 💬 229",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +407,15 @@
     {
      "title": "Canadians are running out of time to oppose Bill C-22",
      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-     "meta": "⭐ 350 · 💬 182",
+     "meta": "⭐ 406 · 💬 214",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dessa: Conversation Model trained only on speech",
+     "url": "https://block.xyz/dessa",
+     "meta": "⭐ 375 · 💬 135",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,17 +437,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dessa: the most authentic full-duplex speech model ever built",
-     "url": "https://block.xyz/dessa",
-     "meta": "⭐ 271 · 💬 111",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "The Real Kevin Bacon",
      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-     "meta": "⭐ 259 · 💬 72",
+     "meta": "⭐ 297 · 💬 77",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -453,17 +453,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "How does Fable 5.1 hide messages in images?",
-     "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-     "meta": "⭐ 179 · 💬 59",
+     "title": "Twelve years of distributed SQLite",
+     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+     "meta": "⭐ 180 · 💬 22",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "The alien space of science: Coherent but cognitively unavailable directions",
-     "url": "https://arxiv.org/abs/2603.01092",
-     "meta": "⭐ 176 · 💬 65",
+     "title": "How does Fable 5.1 hide messages in images?",
+     "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+     "meta": "⭐ 179 · 💬 59",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -484,10 +484,42 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "myPip",
+     "url": "https://www.producthunt.com/products/mypip-2",
+     "meta": "Product Hunt · 2026-10-15",
+     "summary": "Vibe code, publish, and monetize games with AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Plango",
      "url": "https://www.producthunt.com/products/plango",
      "meta": "Product Hunt · 2026-10-22",
      "summary": "Use AI to defend against AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Shedi",
+     "url": "https://www.producthunt.com/products/shedi",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Get back the space Xcode, Docker and node_modules ate",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Canva Craft",
+     "url": "https://www.producthunt.com/products/canva",
+     "meta": "Product Hunt · 2026-10-23",
+     "summary": "Turn prompts into design-ready images you can edit",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "1Password for Agents",
+     "url": "https://www.producthunt.com/products/1password",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Let AI agents sign in for you without seeing your passwords",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -540,6 +572,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Byter",
+     "url": "https://www.producthunt.com/products/byter",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Know exactly how much data you use, on every network",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Loom Record for agents",
      "url": "https://www.producthunt.com/products/loom",
      "meta": "Product Hunt · 2026-10-09",
@@ -552,46 +592,6 @@
      "url": "https://www.producthunt.com/products/woven-video",
      "meta": "Product Hunt · 2026-10-20",
      "summary": "Edit any video by chat, on a real Mac timeline",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Whiteboard",
-     "url": "https://www.producthunt.com/products/whiteboard-5",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "the open-source IDE for thoughtful software design",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Archivist",
-     "url": "https://www.producthunt.com/products/archivist",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "From messy filenames to shareable collections",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Sponkly",
-     "url": "https://www.producthunt.com/products/sponkly",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "Live voice translation for chats, calls, meetings & YouTube",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Product Hunt Visual Launch Editor",
-     "url": "https://www.producthunt.com/products/producthunt",
-     "meta": "Product Hunt · 2026-10-23",
-     "summary": "See your launch as you build it",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Searchtok",
-     "url": "https://www.producthunt.com/products/searchtok",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "Make TikTok and Instagram searchable for your AI agent",
      "reason": null,
      "origin_source": "producthunt"
     }

@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-24T11:15:45.520641+08:00",
- "count": 49,
+ "updated_at": "2026-10-24T16:38:51.016927+08:00",
+ "count": 60,
  "items": [
   {
    "id": "hn-50168075",
@@ -24,8 +24,8 @@
    "title": "The Real Kevin Bacon",
    "url": "https://pudding.cool/2026/10/kevin-bacon/",
    "hn_url": "https://news.ycombinator.com/item?id=50169499",
-   "score": 259,
-   "comments": 72,
+   "score": 297,
+   "comments": 77,
    "author": "xnx",
    "time_iso": "2026-10-20T17:10:05+00:00",
    "history": [
@@ -44,6 +44,26 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 259
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 297
+    }
+   ]
+  },
+  {
+   "id": "hn-50171379",
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "url": "https://danielball.com/notes/ai_image_generation.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50171379",
+   "score": 70,
+   "comments": 16,
+   "author": "westsmith",
+   "time_iso": "2026-10-20T19:22:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 70
     }
    ]
   },
@@ -52,14 +72,34 @@
    "title": "Bringing uv and ty together",
    "url": "https://astral.sh/blog/uv-ty-integration",
    "hn_url": "https://news.ycombinator.com/item?id=50172962",
-   "score": 43,
-   "comments": 12,
+   "score": 141,
+   "comments": 30,
    "author": "Ravencentric",
    "time_iso": "2026-10-20T21:30:56+00:00",
    "history": [
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 43
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 141
+    }
+   ]
+  },
+  {
+   "id": "hn-50175732",
+   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+   "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+   "hn_url": "https://news.ycombinator.com/item?id=50175732",
+   "score": 20,
+   "comments": 11,
+   "author": "zdw",
+   "time_iso": "2026-10-21T03:30:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 20
     }
    ]
   },
@@ -68,14 +108,18 @@
    "title": "C vs. C#: racing VLC's Gaussian blur",
    "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
    "hn_url": "https://news.ycombinator.com/item?id=50176544",
-   "score": 25,
-   "comments": 0,
+   "score": 69,
+   "comments": 17,
    "author": "martz",
    "time_iso": "2026-10-21T05:48:12+00:00",
    "history": [
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 25
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 69
     }
    ]
   },
@@ -104,14 +148,50 @@
    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
    "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
    "hn_url": "https://news.ycombinator.com/item?id=50182510",
-   "score": 10,
-   "comments": 1,
+   "score": 30,
+   "comments": 6,
    "author": "civicpivot",
    "time_iso": "2026-10-21T15:19:28+00:00",
    "history": [
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
+   "id": "hn-50186450",
+   "title": "Physicists trap a single antimatter particle for a month",
+   "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+   "hn_url": "https://news.ycombinator.com/item?id=50186450",
+   "score": 8,
+   "comments": 4,
+   "author": "mooreds",
+   "time_iso": "2026-10-21T19:40:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50193677",
+   "title": "The Quake Fan who built the map editor everybody uses",
+   "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+   "hn_url": "https://news.ycombinator.com/item?id=50193677",
+   "score": 105,
+   "comments": 7,
+   "author": "klaussilveira",
+   "time_iso": "2026-10-22T10:55:22+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 105
     }
    ]
   },
@@ -232,8 +312,8 @@
    "title": "Canadians are running out of time to oppose Bill C-22",
    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
    "hn_url": "https://news.ycombinator.com/item?id=50202114",
-   "score": 350,
-   "comments": 182,
+   "score": 406,
+   "comments": 214,
    "author": "hn_acker",
    "time_iso": "2026-10-22T22:43:19+00:00",
    "history": [
@@ -252,6 +332,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 350
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 406
     }
    ]
   },
@@ -260,8 +344,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1282,
-   "comments": 226,
+   "score": 1368,
+   "comments": 233,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -280,6 +364,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 1282
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 1368
     }
    ]
   },
@@ -404,8 +492,8 @@
    "title": "Apple Music 404 Not Found",
    "url": "https://music.apple.com/this-url-doesnt-exist",
    "hn_url": "https://news.ycombinator.com/item?id=50207910",
-   "score": 623,
-   "comments": 204,
+   "score": 744,
+   "comments": 229,
    "author": "frizlab",
    "time_iso": "2026-10-23T12:28:47+00:00",
    "history": [
@@ -420,6 +508,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 623
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 744
     }
    ]
   },
@@ -484,8 +576,8 @@
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "url": "https://blog.calif.io/p/iphone",
    "hn_url": "https://news.ycombinator.com/item?id=50211474",
-   "score": 770,
-   "comments": 522,
+   "score": 860,
+   "comments": 560,
    "author": "pavel_lishin",
    "time_iso": "2026-10-23T16:21:50+00:00",
    "history": [
@@ -504,6 +596,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 770
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 860
     }
    ]
   },
@@ -600,8 +696,8 @@
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "hn_url": "https://news.ycombinator.com/item?id=50212065",
-   "score": 763,
-   "comments": 470,
+   "score": 890,
+   "comments": 521,
    "author": "Jowsey",
    "time_iso": "2026-10-23T16:59:08+00:00",
    "history": [
@@ -620,6 +716,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 763
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 890
     }
    ]
   },
@@ -692,8 +792,8 @@
    "title": "Air Purifiers as White Noise Machines",
    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
    "hn_url": "https://news.ycombinator.com/item?id=50212507",
-   "score": 80,
-   "comments": 99,
+   "score": 122,
+   "comments": 114,
    "author": "luu",
    "time_iso": "2026-10-23T17:28:36+00:00",
    "history": [
@@ -704,6 +804,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 80
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 122
     }
    ]
   },
@@ -745,11 +849,11 @@
   },
   {
    "id": "hn-50213925",
-   "title": "Dessa: the most authentic full-duplex speech model ever built",
+   "title": "Dessa: Conversation Model trained only on speech",
    "url": "https://block.xyz/dessa",
    "hn_url": "https://news.ycombinator.com/item?id=50213925",
-   "score": 271,
-   "comments": 111,
+   "score": 375,
+   "comments": 135,
    "author": "dsr12",
    "time_iso": "2026-10-23T19:09:54+00:00",
    "history": [
@@ -764,6 +868,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 271
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 375
     }
    ]
   },
@@ -836,8 +944,8 @@
    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
    "url": "https://corgi.computer/",
    "hn_url": "https://news.ycombinator.com/item?id=50214373",
-   "score": 46,
-   "comments": 8,
+   "score": 77,
+   "comments": 22,
    "author": "eiopa",
    "time_iso": "2026-10-23T19:46:38+00:00",
    "history": [
@@ -848,6 +956,10 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 77
     }
    ]
   },
@@ -912,8 +1024,8 @@
    "title": "CVE Tracker",
    "url": "https://cve.0xosprey.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50215530",
-   "score": 119,
-   "comments": 52,
+   "score": 166,
+   "comments": 61,
    "author": "Group_B",
    "time_iso": "2026-10-23T21:21:47+00:00",
    "history": [
@@ -924,6 +1036,26 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 119
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 166
+    }
+   ]
+  },
+  {
+   "id": "hn-50215828",
+   "title": "One Man's Pan Am 747 Replica [video]",
+   "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+   "hn_url": "https://news.ycombinator.com/item?id=50215828",
+   "score": 30,
+   "comments": 1,
+   "author": "Teever",
+   "time_iso": "2026-10-23T21:46:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 30
     }
    ]
   },
@@ -944,18 +1076,38 @@
    ]
   },
   {
+   "id": "hn-50217495",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "hn_url": "https://news.ycombinator.com/item?id=50217495",
+   "score": 26,
+   "comments": 1,
+   "author": "privacyishuman",
+   "time_iso": "2026-10-24T01:15:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
    "id": "hn-50217500",
-   "title": "Twelve Years of Distributed SQLite",
+   "title": "Twelve years of distributed SQLite",
    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
    "hn_url": "https://news.ycombinator.com/item?id=50217500",
-   "score": 20,
-   "comments": 0,
+   "score": 180,
+   "comments": 22,
    "author": "otoolep",
    "time_iso": "2026-10-24T01:16:58+00:00",
    "history": [
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 180
     }
    ]
   },
@@ -988,6 +1140,86 @@
     {
      "t": "2026-10-24T11:15:45.520641+08:00",
      "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50217903",
+   "title": "Apple Security Research Device",
+   "url": "https://security.apple.com/research-device/",
+   "hn_url": "https://news.ycombinator.com/item?id=50217903",
+   "score": 46,
+   "comments": 13,
+   "author": "neom",
+   "time_iso": "2026-10-24T02:36:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50217946",
+   "title": "How Block Blast harvests its players for ad money",
+   "url": "https://ayoships.com/breakdowns/block-blast",
+   "hn_url": "https://news.ycombinator.com/item?id=50217946",
+   "score": 43,
+   "comments": 7,
+   "author": "motionlessveloc",
+   "time_iso": "2026-10-24T02:43:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50218195",
+   "title": "How close can pure functional programming get to C?",
+   "url": "https://rtfeldman.com/fp-vs-c",
+   "hn_url": "https://news.ycombinator.com/item?id=50218195",
+   "score": 94,
+   "comments": 9,
+   "author": "stmonty",
+   "time_iso": "2026-10-24T03:43:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 94
+    }
+   ]
+  },
+  {
+   "id": "hn-50218430",
+   "title": "OBS Studio 33",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "hn_url": "https://news.ycombinator.com/item?id=50218430",
+   "score": 101,
+   "comments": 25,
+   "author": "pentagrama",
+   "time_iso": "2026-10-24T04:49:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
+   "id": "hn-50218633",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "hn_url": "https://news.ycombinator.com/item?id=50218633",
+   "score": 74,
+   "comments": 12,
+   "author": "testing22321",
+   "time_iso": "2026-10-24T05:49:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-24T16:38:51.016927+08:00",
+     "score": 74
     }
    ]
   }
