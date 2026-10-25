@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-25T18:42:35.838345+08:00",
- "count": 63,
+ "updated_at": "2026-10-25T22:47:58.232391+08:00",
+ "count": 73,
  "items": [
   {
    "id": "hn-50168376",
@@ -92,8 +92,8 @@
    "title": "I Built a Stereo Vision Board for Hardware Hackers",
    "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
    "hn_url": "https://news.ycombinator.com/item?id=50172432",
-   "score": 84,
-   "comments": 14,
+   "score": 102,
+   "comments": 17,
    "author": "machinehum",
    "time_iso": "2026-10-20T20:45:52+00:00",
    "history": [
@@ -108,6 +108,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 102
     }
    ]
   },
@@ -296,14 +300,34 @@
    "title": "How Japanese Dried Bonito Is Made",
    "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
    "hn_url": "https://news.ycombinator.com/item?id=50193936",
-   "score": 48,
-   "comments": 16,
+   "score": 106,
+   "comments": 30,
    "author": "bookofjoe",
    "time_iso": "2026-10-22T11:31:03+00:00",
    "history": [
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 106
+    }
+   ]
+  },
+  {
+   "id": "hn-50194029",
+   "title": "Did it just build.. a clock?",
+   "url": "https://theclock.online/",
+   "hn_url": "https://news.ycombinator.com/item?id=50194029",
+   "score": 9,
+   "comments": 11,
+   "author": "DirkJanMeijer",
+   "time_iso": "2026-10-22T11:45:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 9
     }
    ]
   },
@@ -388,6 +412,22 @@
    ]
   },
   {
+   "id": "hn-50197434",
+   "title": "Reverse engineer of PC-98 Touhou games retires",
+   "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+   "hn_url": "https://news.ycombinator.com/item?id=50197434",
+   "score": 30,
+   "comments": 27,
+   "author": "mimasama",
+   "time_iso": "2026-10-22T16:16:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
    "id": "hn-50198954",
    "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
    "url": "https://arxiv.org/abs/1208.5205",
@@ -408,8 +448,8 @@
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "url": "https://edjefferson.com/localwiki/",
    "hn_url": "https://news.ycombinator.com/item?id=50202285",
-   "score": 1595,
-   "comments": 247,
+   "score": 1626,
+   "comments": 251,
    "author": "sohkamyung",
    "time_iso": "2026-10-22T23:01:18+00:00",
    "history": [
@@ -436,6 +476,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 1595
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 1626
     }
    ]
   },
@@ -588,8 +632,8 @@
    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
    "hn_url": "https://news.ycombinator.com/item?id=50219177",
-   "score": 325,
-   "comments": 155,
+   "score": 352,
+   "comments": 171,
    "author": "theanonymousone",
    "time_iso": "2026-10-24T08:06:39+00:00",
    "history": [
@@ -616,6 +660,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 325
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 352
     }
    ]
   },
@@ -624,8 +672,8 @@
    "title": "I don't understand quantum physics (2018)",
    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50219666",
-   "score": 319,
-   "comments": 254,
+   "score": 342,
+   "comments": 264,
    "author": "rramadass",
    "time_iso": "2026-10-24T09:53:26+00:00",
    "history": [
@@ -652,6 +700,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 319
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 342
     }
    ]
   },
@@ -660,8 +712,8 @@
    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
    "url": "https://github.com/Zagitta/gpu-unlock",
    "hn_url": "https://news.ycombinator.com/item?id=50219700",
-   "score": 253,
-   "comments": 72,
+   "score": 291,
+   "comments": 73,
    "author": "fragebogen",
    "time_iso": "2026-10-24T09:58:27+00:00",
    "history": [
@@ -684,6 +736,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 253
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 291
     }
    ]
   },
@@ -692,8 +748,8 @@
    "title": "FreeDNS",
    "url": "https://freedns.afraid.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50222133",
-   "score": 296,
-   "comments": 82,
+   "score": 319,
+   "comments": 85,
    "author": "esher",
    "time_iso": "2026-10-24T15:20:01+00:00",
    "history": [
@@ -720,6 +776,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 296
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 319
     }
    ]
   },
@@ -948,8 +1008,8 @@
    "title": "The Goose Programming Language",
    "url": "https://aardappel.github.io/goose/",
    "hn_url": "https://news.ycombinator.com/item?id=50224100",
-   "score": 416,
-   "comments": 251,
+   "score": 484,
+   "comments": 290,
    "author": "bobbydigitales",
    "time_iso": "2026-10-24T19:06:55+00:00",
    "history": [
@@ -972,6 +1032,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 416
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 484
     }
    ]
   },
@@ -980,8 +1044,8 @@
    "title": "SpeedCrunch 1.1",
    "url": "https://www.speedcrunch.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50224210",
-   "score": 152,
-   "comments": 27,
+   "score": 183,
+   "comments": 36,
    "author": "LordNibbler",
    "time_iso": "2026-10-24T19:19:43+00:00",
    "history": [
@@ -1000,6 +1064,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 152
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 183
     }
    ]
   },
@@ -1100,8 +1168,8 @@
    "title": "The Importance of Limitations for Creativity and Learning (2023)",
    "url": "https://ratfactor.com/cards/limitations",
    "hn_url": "https://news.ycombinator.com/item?id=50225663",
-   "score": 75,
-   "comments": 22,
+   "score": 96,
+   "comments": 33,
    "author": "andsoitis",
    "time_iso": "2026-10-24T21:42:47+00:00",
    "history": [
@@ -1120,6 +1188,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 96
     }
    ]
   },
@@ -1128,8 +1200,8 @@
    "title": "Small Programs and Languages",
    "url": "https://ratfactor.com/cards/pl-small",
    "hn_url": "https://news.ycombinator.com/item?id=50225674",
-   "score": 117,
-   "comments": 13,
+   "score": 144,
+   "comments": 20,
    "author": "andsoitis",
    "time_iso": "2026-10-24T21:44:23+00:00",
    "history": [
@@ -1148,6 +1220,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 117
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 144
     }
    ]
   },
@@ -1156,8 +1232,8 @@
    "title": "We should be more ambitious with the software we build",
    "url": "https://danluu.com/ambitious/",
    "hn_url": "https://news.ycombinator.com/item?id=50225695",
-   "score": 445,
-   "comments": 390,
+   "score": 550,
+   "comments": 505,
    "author": "ltratt",
    "time_iso": "2026-10-24T21:47:31+00:00",
    "history": [
@@ -1176,6 +1252,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 445
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 550
     }
    ]
   },
@@ -1184,8 +1264,8 @@
    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "hn_url": "https://news.ycombinator.com/item?id=50226419",
-   "score": 371,
-   "comments": 378,
+   "score": 420,
+   "comments": 445,
    "author": "gnabgib",
    "time_iso": "2026-10-24T23:11:54+00:00",
    "history": [
@@ -1200,6 +1280,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 371
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 420
     }
    ]
   },
@@ -1224,8 +1308,8 @@
    "title": "Why Gopher in 2026?",
    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
    "hn_url": "https://news.ycombinator.com/item?id=50226577",
-   "score": 80,
-   "comments": 28,
+   "score": 102,
+   "comments": 54,
    "author": "andsoitis",
    "time_iso": "2026-10-24T23:33:19+00:00",
    "history": [
@@ -1240,6 +1324,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 80
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 102
     }
    ]
   },
@@ -1248,8 +1336,8 @@
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "hn_url": "https://news.ycombinator.com/item?id=50227356",
-   "score": 179,
-   "comments": 60,
+   "score": 248,
+   "comments": 81,
    "author": "gmays",
    "time_iso": "2026-10-25T01:33:49+00:00",
    "history": [
@@ -1260,6 +1348,10 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 179
+    },
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 248
     }
    ]
   },
@@ -1344,6 +1436,22 @@
    ]
   },
   {
+   "id": "hn-50229827",
+   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50229827",
+   "score": 61,
+   "comments": 13,
+   "author": "thunderbong",
+   "time_iso": "2026-10-25T09:51:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
    "id": "hn-50229861",
    "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
    "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
@@ -1356,6 +1464,118 @@
     {
      "t": "2026-10-25T18:42:35.838345+08:00",
      "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50230181",
+   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+   "hn_url": "https://news.ycombinator.com/item?id=50230181",
+   "score": 169,
+   "comments": 114,
+   "author": "mashally",
+   "time_iso": "2026-10-25T10:42:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 169
+    }
+   ]
+  },
+  {
+   "id": "hn-50230384",
+   "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+   "url": "https://github.com/ihhub/fheroes2",
+   "hn_url": "https://news.ycombinator.com/item?id=50230384",
+   "score": 92,
+   "comments": 27,
+   "author": "tosh",
+   "time_iso": "2026-10-25T11:09:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50230917",
+   "title": "Tool book of a Nuremberg knight from 1505",
+   "url": "https://loeffelholz-codex.org/en/",
+   "hn_url": "https://news.ycombinator.com/item?id=50230917",
+   "score": 67,
+   "comments": 22,
+   "author": "edwardog",
+   "time_iso": "2026-10-25T12:37:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-50231001",
+   "title": "The Lego group reveals collaboration with Daft Punk",
+   "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+   "hn_url": "https://news.ycombinator.com/item?id=50231001",
+   "score": 32,
+   "comments": 25,
+   "author": "pieterr",
+   "time_iso": "2026-10-25T12:48:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50231310",
+   "title": "US inequality is getting worse in ways you might not expect",
+   "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+   "hn_url": "https://news.ycombinator.com/item?id=50231310",
+   "score": 12,
+   "comments": 11,
+   "author": "JKCalhoun",
+   "time_iso": "2026-10-25T13:24:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50231349",
+   "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+   "url": "https://github.com/winnin/farol",
+   "hn_url": "https://news.ycombinator.com/item?id=50231349",
+   "score": 18,
+   "comments": 11,
+   "author": "ericholiveira",
+   "time_iso": "2026-10-25T13:28:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50231722",
+   "title": "R/open source bans all solo projects and projects using LLMs",
+   "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50231722",
+   "score": 14,
+   "comments": 6,
+   "author": "schleck8",
+   "time_iso": "2026-10-25T14:05:03+00:00",
+   "history": [
+    {
+     "t": "2026-10-25T22:47:58.232391+08:00",
+     "score": 14
     }
    ]
   }
