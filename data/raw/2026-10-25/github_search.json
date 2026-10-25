@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-25T06:52:46.881144+08:00",
- "count": 20,
+ "updated_at": "2026-10-25T08:48:40.365467+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1423892373",
@@ -122,7 +122,7 @@
    "id": "gh-1425429552",
    "title": "EthanArbuckle/fairplay-decrypt",
    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-   "stars": 1947,
+   "stars": 1960,
    "language": "C",
    "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
    "created_at": "2026-10-19T10:07:58Z",
@@ -138,6 +138,25 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1947
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1960
+    }
+   ]
+  },
+  {
+   "id": "gh-1425469723",
+   "title": "UniXNU/UniXNU",
+   "url": "https://github.com/UniXNU/UniXNU",
+   "stars": 897,
+   "language": "Python",
+   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+   "created_at": "2026-10-19T10:46:55Z",
+   "history": [
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 897
     }
    ]
   },
@@ -145,7 +164,7 @@
    "id": "gh-1426080579",
    "title": "simbasjungles/free-my-tv",
    "url": "https://github.com/simbasjungles/free-my-tv",
-   "stars": 4266,
+   "stars": 4295,
    "language": "Java",
    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
    "created_at": "2026-10-19T19:29:01Z",
@@ -161,6 +180,25 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 4266
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 4295
+    }
+   ]
+  },
+  {
+   "id": "gh-1426220635",
+   "title": "stackedlol/ascii-sharks",
+   "url": "https://github.com/stackedlol/ascii-sharks",
+   "stars": 808,
+   "language": "TypeScript",
+   "description": "ascii shark components in typescript",
+   "created_at": "2026-10-19T21:54:19Z",
+   "history": [
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 808
     }
    ]
   },
@@ -168,7 +206,7 @@
    "id": "gh-1426240325",
    "title": "JoasASantos/REA-Prompts",
    "url": "https://github.com/JoasASantos/REA-Prompts",
-   "stars": 2060,
+   "stars": 2090,
    "language": "",
    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
    "created_at": "2026-10-19T22:20:47Z",
@@ -184,6 +222,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 2060
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 2090
     }
    ]
   },
@@ -191,7 +233,7 @@
    "id": "gh-1426270002",
    "title": "ELY-Open-Source/ElyOffice",
    "url": "https://github.com/ELY-Open-Source/ElyOffice",
-   "stars": 964,
+   "stars": 969,
    "language": "Rust",
    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
    "created_at": "2026-10-19T23:04:42Z",
@@ -207,6 +249,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 964
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 969
     }
    ]
   },
@@ -214,7 +260,7 @@
    "id": "gh-1426780056",
    "title": "pengchujin/aerial-tv",
    "url": "https://github.com/pengchujin/aerial-tv",
-   "stars": 4352,
+   "stars": 4371,
    "language": "Kotlin",
    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
    "created_at": "2026-10-20T09:13:06Z",
@@ -230,6 +276,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 4352
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 4371
     }
    ]
   },
@@ -237,7 +287,7 @@
    "id": "gh-1427107663",
    "title": "eagle-hq/EAGLE-4",
    "url": "https://github.com/eagle-hq/EAGLE-4",
-   "stars": 965,
+   "stars": 966,
    "language": "Python",
    "description": "Official Inference Code of EAGLE-4",
    "created_at": "2026-10-20T14:03:04Z",
@@ -253,6 +303,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 965
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 966
     }
    ]
   },
@@ -260,7 +314,7 @@
    "id": "gh-1427126014",
    "title": "Jakeschincariol/day-trader-skill",
    "url": "https://github.com/Jakeschincariol/day-trader-skill",
-   "stars": 1085,
+   "stars": 1112,
    "language": "Python",
    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
    "created_at": "2026-10-20T14:17:54Z",
@@ -276,6 +330,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1085
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1112
     }
    ]
   },
@@ -283,7 +341,7 @@
    "id": "gh-1427696883",
    "title": "colinhacks/reylo",
    "url": "https://github.com/colinhacks/reylo",
-   "stars": 1206,
+   "stars": 1213,
    "language": "Rust",
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "created_at": "2026-10-21T00:16:54Z",
@@ -299,6 +357,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1206
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1213
     }
    ]
   },
@@ -306,7 +368,7 @@
    "id": "gh-1427704805",
    "title": "openai/php2shell-checker",
    "url": "https://github.com/openai/php2shell-checker",
-   "stars": 1380,
+   "stars": 1381,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-10-21T00:29:12Z",
@@ -322,6 +384,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1380
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1381
     }
    ]
   },
@@ -329,7 +395,7 @@
    "id": "gh-1428058681",
    "title": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
-   "stars": 1753,
+   "stars": 1754,
    "language": "Python",
    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
    "created_at": "2026-10-21T07:55:16Z",
@@ -345,6 +411,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1753
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1754
     }
    ]
   },
@@ -352,7 +422,7 @@
    "id": "gh-1428098303",
    "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "stars": 983,
+   "stars": 984,
    "language": "Shell",
    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
    "created_at": "2026-10-21T08:31:43Z",
@@ -368,6 +438,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 983
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 984
     }
    ]
   },
@@ -391,6 +465,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1400
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1400
     }
    ]
   },
@@ -398,7 +476,7 @@
    "id": "gh-1428714039",
    "title": "xevrion/hatchzip",
    "url": "https://github.com/xevrion/hatchzip",
-   "stars": 1685,
+   "stars": 1703,
    "language": "Rust",
    "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
    "created_at": "2026-10-21T17:29:28Z",
@@ -414,6 +492,10 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1685
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1703
     }
    ]
   },
@@ -421,7 +503,7 @@
    "id": "gh-1428848843",
    "title": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
-   "stars": 1622,
+   "stars": 1655,
    "language": "Swift",
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "created_at": "2026-10-21T19:38:50Z",
@@ -437,6 +519,40 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1622
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1655
+    }
+   ]
+  },
+  {
+   "id": "gh-1429116361",
+   "title": "Snapintosh/Snapintosh",
+   "url": "https://github.com/Snapintosh/Snapintosh",
+   "stars": 877,
+   "language": "Python",
+   "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+   "created_at": "2026-10-22T01:40:05Z",
+   "history": [
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 877
+    }
+   ]
+  },
+  {
+   "id": "gh-1429213407",
+   "title": "assetnote/php2shell-scanner",
+   "url": "https://github.com/assetnote/php2shell-scanner",
+   "stars": 735,
+   "language": "Python",
+   "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+   "created_at": "2026-10-22T03:53:20Z",
+   "history": [
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 735
     }
    ]
   },
@@ -444,7 +560,7 @@
    "id": "gh-1429328794",
    "title": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "stars": 1279,
+   "stars": 1287,
    "language": "C",
    "description": "",
    "created_at": "2026-10-22T06:20:11Z",
@@ -460,6 +576,25 @@
     {
      "t": "2026-10-25T06:52:46.881144+08:00",
      "score": 1279
+    },
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 1287
+    }
+   ]
+  },
+  {
+   "id": "gh-1431545439",
+   "title": "JustAResearcher/gpu-unlock-ada",
+   "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+   "stars": 779,
+   "language": "C",
+   "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+   "created_at": "2026-10-23T21:00:53Z",
+   "history": [
+    {
+     "t": "2026-10-25T08:48:40.365467+08:00",
+     "score": 779
     }
    ]
   }

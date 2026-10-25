@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T06:52:48.090954+08:00",
+ "generated_at": "2026-10-25T08:48:41.591797+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "No signs of AI payoff outside the tech sector",
      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-     "meta": "+349 分 / 2.7 小时 · 现 ⭐ 398",
+     "meta": "+412 分 / 4.6 小时 · 现 ⭐ 461",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,15 +18,7 @@
     {
      "title": "Roku developer repositories moved from GitHub to GitLab",
      "url": "https://blog.roku.com/developer/gitlab-move",
-     "meta": "+149 分 / 5.7 小时 · 现 ⭐ 227",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "FreeDNS",
-     "url": "https://freedns.afraid.org/",
-     "meta": "+111 分 / 5.7 小时 · 现 ⭐ 223",
+     "meta": "+174 分 / 7.6 小时 · 现 ⭐ 252",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,15 +26,23 @@
     {
      "title": "The Goose Programming Language",
      "url": "https://aardappel.github.io/goose/",
-     "meta": "+99 分 / 2.7 小时 · 现 ⭐ 149",
+     "meta": "+169 分 / 4.6 小时 · 现 ⭐ 219",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "meta": "+91 分 / 5.7 小时 · 现 ⭐ 260",
+     "title": "FreeDNS",
+     "url": "https://freedns.afraid.org/",
+     "meta": "+133 分 / 7.6 小时 · 现 ⭐ 245",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "+116 分 / 1.9 小时 · 现 ⭐ 126",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,7 +50,23 @@
     {
      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
      "url": "https://github.com/Zagitta/gpu-unlock",
-     "meta": "+82 分 / 5.7 小时 · 现 ⭐ 156",
+     "meta": "+107 分 / 7.6 小时 · 现 ⭐ 181",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "meta": "+102 分 / 7.6 小时 · 现 ⭐ 271",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Steal My Bitcoin",
+     "url": "https://stealmybitcoin.com/",
+     "meta": "+102 分 / 1.9 小时 · 现 ⭐ 380",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,7 +74,7 @@
     {
      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
      "url": "https://missileer.watch",
-     "meta": "+70 分 / 2.7 小时 · 现 ⭐ 81",
+     "meta": "+95 分 / 4.6 小时 · 现 ⭐ 106",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,23 +82,7 @@
     {
      "title": "Physicists trap a single antimatter particle for a month",
      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-     "meta": "+65 分 / 5.7 小时 · 现 ⭐ 263",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-     "url": "https://de.numista.com/9866",
-     "meta": "+64 分 / 5.7 小时 · 现 ⭐ 79",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Dream-1",
-     "url": "https://dreamlabs.ai/research/dream-1/",
-     "meta": "+57 分 / 2.7 小时 · 现 ⭐ 142",
+     "meta": "+78 分 / 7.6 小时 · 现 ⭐ 276",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 4352 · Kotlin",
+     "meta": "⭐ 4371 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 4266 · Java",
+     "meta": "⭐ 4295 · Java",
      "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 2060",
+     "meta": "⭐ 2090",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "EthanArbuckle/fairplay-decrypt",
      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-     "meta": "⭐ 1947 · C",
+     "meta": "⭐ 1960 · C",
      "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1753 · Python",
+     "meta": "⭐ 1754 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 1685 · Rust",
+     "meta": "⭐ 1703 · Rust",
      "summary": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 1622 · Swift",
+     "meta": "⭐ 1655 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +328,7 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1380 · JavaScript",
+     "meta": "⭐ 1381 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1279 · C",
+     "meta": "⭐ 1287 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +351,7 @@
     {
      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
      "url": "https://edjefferson.com/localwiki/",
-     "meta": "⭐ 1530 · 💬 242",
+     "meta": "⭐ 1545 · 💬 242",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,6 +389,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "No signs of AI payoff outside the tech sector",
+     "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+     "meta": "⭐ 461 · 💬 446",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "OBS Studio 33",
      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
      "meta": "⭐ 411 · 💬 145",
@@ -397,9 +405,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "No signs of AI payoff outside the tech sector",
-     "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-     "meta": "⭐ 398 · 💬 366",
+     "title": "Show HN: Steal My Bitcoin",
+     "url": "https://stealmybitcoin.com/",
+     "meta": "⭐ 380 · 💬 224",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,25 +421,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Steal My Bitcoin",
-     "url": "https://stealmybitcoin.com/",
-     "meta": "⭐ 278 · 💬 130",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Physicists trap a single antimatter particle for a month",
      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-     "meta": "⭐ 263 · 💬 78",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "meta": "⭐ 260 · 💬 129",
+     "meta": "⭐ 276 · 💬 80",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -439,7 +431,31 @@
     {
      "title": "I don't understand quantum physics (2018)",
      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-     "meta": "⭐ 259 · 💬 190",
+     "meta": "⭐ 273 · 💬 205",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "meta": "⭐ 271 · 💬 136",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Roku developer repositories moved from GitHub to GitLab",
+     "url": "https://blog.roku.com/developer/gitlab-move",
+     "meta": "⭐ 252 · 💬 166",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "FreeDNS",
+     "url": "https://freedns.afraid.org/",
+     "meta": "⭐ 245 · 💬 61",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -448,22 +464,6 @@
      "title": "Bringing uv and ty together",
      "url": "https://astral.sh/blog/uv-ty-integration",
      "meta": "⭐ 243 · 💬 82",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Roku developer repositories moved from GitHub to GitLab",
-     "url": "https://blog.roku.com/developer/gitlab-move",
-     "meta": "⭐ 227 · 💬 152",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "FreeDNS",
-     "url": "https://freedns.afraid.org/",
-     "meta": "⭐ 223 · 💬 59",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
