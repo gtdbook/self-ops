@@ -1,7 +1,78 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T02:06:50.286613+08:00",
+ "generated_at": "2026-10-26T05:25:21.289254+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "meta": "+242 分 / 3.3 小时 · 现 ⭐ 304",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+     "url": "https://talkweb.eu/openweb/4558/",
+     "meta": "+209 分 / 3.3 小时 · 现 ⭐ 281",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+     "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+     "meta": "+111 分 / 3.3 小时 · 现 ⭐ 152",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Root shell on Samsung TV",
+     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+     "meta": "+86 分 / 3.3 小时 · 现 ⭐ 700",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "+78 分 / 3.3 小时 · 现 ⭐ 718",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Active incident at Dreamhost forcing password reset",
+     "url": "https://www.dreamhoststatus.com/",
+     "meta": "+53 分 / 3.3 小时 · 现 ⭐ 82",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Cerebras Deploys Trillion-Parameter AI Models",
+     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+     "meta": "+29 分 / 3.3 小时 · 现 ⭐ 339",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+     "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+     "meta": "+23 分 / 3.3 小时 · 现 ⭐ 38",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,7 +208,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 4947 · Kotlin",
+     "meta": "⭐ 4966 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +216,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 4527 · Java",
+     "meta": "⭐ 4574 · Java",
      "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +224,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 2373 · C",
+     "meta": "⭐ 2500 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +232,7 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 2360",
+     "meta": "⭐ 2387",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +240,7 @@
     {
      "title": "EthanArbuckle/fairplay-decrypt",
      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-     "meta": "⭐ 2072 · C",
+     "meta": "⭐ 2085 · C",
      "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +248,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 1911 · Rust",
+     "meta": "⭐ 1929 · Rust",
      "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
@@ -185,7 +256,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 1880 · Swift",
+     "meta": "⭐ 1908 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +264,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1784 · Python",
+     "meta": "⭐ 1787 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,31 +272,31 @@
     {
      "title": "Jakeschincariol/day-trader-skill",
      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-     "meta": "⭐ 1467 · Python",
+     "meta": "⭐ 1552 · Python",
      "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "9bie/php2shell-bypass-aslr-exp",
-     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1423 · Python",
-     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1422 · C",
+     "meta": "⭐ 1445 · C",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "meta": "⭐ 1427 · Python",
+     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1392 · JavaScript",
+     "meta": "⭐ 1395 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +304,7 @@
     {
      "title": "colinhacks/reylo",
      "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1258 · Rust",
+     "meta": "⭐ 1261 · Rust",
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +320,7 @@
     {
      "title": "ELY-Open-Source/ElyOffice",
      "url": "https://github.com/ELY-Open-Source/ElyOffice",
-     "meta": "⭐ 988 · Rust",
+     "meta": "⭐ 990 · Rust",
      "summary": "Ely Office: offline-first desktop apps in Rust and GPUI",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +343,7 @@
     {
      "title": "We should be more ambitious with the software we build",
      "url": "https://danluu.com/ambitious/",
-     "meta": "⭐ 640 · 💬 615",
+     "meta": "⭐ 718 · 💬 663",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,7 +351,7 @@
     {
      "title": "Root shell on Samsung TV",
      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-     "meta": "⭐ 614 · 💬 488",
+     "meta": "⭐ 700 · 💬 539",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -304,7 +375,39 @@
     {
      "title": "Cerebras Deploys Trillion-Parameter AI Models",
      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-     "meta": "⭐ 310 · 💬 110",
+     "meta": "⭐ 339 · 💬 123",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "meta": "⭐ 304 · 💬 157",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+     "url": "https://talkweb.eu/openweb/4558/",
+     "meta": "⭐ 281 · 💬 147",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+     "meta": "⭐ 251 · 💬 63",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "url": "https://imaginationlibrary.com/",
+     "meta": "⭐ 222 · 💬 38",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -342,41 +445,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-     "url": "https://bigwhalehunting.com/workforce/",
-     "meta": "⭐ 129 · 💬 38",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-     "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-     "meta": "⭐ 107 · 💬 38",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What Adobe v ArtCraft teaches us",
-     "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-     "meta": "⭐ 72 · 💬 52",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-     "url": "https://talkweb.eu/openweb/4558/",
-     "meta": "⭐ 72 · 💬 5",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-     "url": "https://lynchlab.net/llm-skin-cancer",
-     "meta": "⭐ 62 · 💬 26",
+     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+     "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+     "meta": "⭐ 152 · 💬 233",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-26T02:06:48.118928+08:00",
- "count": 25,
+ "updated_at": "2026-10-26T05:25:18.792259+08:00",
+ "count": 42,
  "items": [
   {
    "id": "hn-50190686",
@@ -52,6 +52,54 @@
    ]
   },
   {
+   "id": "hn-50195769",
+   "title": "Recreate the Apollo Guidance Computer",
+   "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50195769",
+   "score": 33,
+   "comments": 2,
+   "author": "Brajeshwar",
+   "time_iso": "2026-10-22T14:21:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50196623",
+   "title": "The U.S. Power Grid",
+   "url": "https://nomagicpill.site/knowledge/powergrid.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50196623",
+   "score": 25,
+   "comments": 9,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-22T15:20:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50197108",
+   "title": "Overgrown, when plants invade your abandoned tabs",
+   "url": "https://charliegerard.dev/blog/overgrown-extension/",
+   "hn_url": "https://news.ycombinator.com/item?id=50197108",
+   "score": 5,
+   "comments": 0,
+   "author": "speckx",
+   "time_iso": "2026-10-22T15:52:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
    "id": "hn-50197434",
    "title": "Reverse engineer of PC-98 Touhou games retires",
    "url": "https://rec98.nmlgc.net/blog/2026-10-05",
@@ -88,14 +136,18 @@
    "title": "Root shell on Samsung TV",
    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
    "hn_url": "https://news.ycombinator.com/item?id=50218633",
-   "score": 614,
-   "comments": 488,
+   "score": 700,
+   "comments": 539,
    "author": "testing22321",
    "time_iso": "2026-10-24T05:49:57+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 614
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 700
     }
    ]
   },
@@ -120,14 +172,18 @@
    "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
    "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
    "hn_url": "https://news.ycombinator.com/item?id=50223435",
-   "score": 15,
-   "comments": 2,
+   "score": 38,
+   "comments": 11,
    "author": "zdw",
    "time_iso": "2026-10-24T17:42:08+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 38
     }
    ]
   },
@@ -184,14 +240,34 @@
    "title": "We should be more ambitious with the software we build",
    "url": "https://danluu.com/ambitious/",
    "hn_url": "https://news.ycombinator.com/item?id=50225695",
-   "score": 640,
-   "comments": 615,
+   "score": 718,
+   "comments": 663,
    "author": "ltratt",
    "time_iso": "2026-10-24T21:47:31+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 640
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 718
+    }
+   ]
+  },
+  {
+   "id": "hn-50227330",
+   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+   "url": "https://huggingface.co/destined/hurston-1",
+   "hn_url": "https://news.ycombinator.com/item?id=50227330",
+   "score": 24,
+   "comments": 9,
+   "author": "Gcarter08",
+   "time_iso": "2026-10-25T01:30:13+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 24
     }
    ]
   },
@@ -200,14 +276,18 @@
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "hn_url": "https://news.ycombinator.com/item?id=50227356",
-   "score": 310,
-   "comments": 110,
+   "score": 339,
+   "comments": 123,
    "author": "gmays",
    "time_iso": "2026-10-25T01:33:49+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 310
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 339
     }
    ]
   },
@@ -248,14 +328,18 @@
    "title": "Active incident at Dreamhost forcing password reset",
    "url": "https://www.dreamhoststatus.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50231166",
-   "score": 29,
-   "comments": 10,
+   "score": 82,
+   "comments": 32,
    "author": "greenchair",
    "time_iso": "2026-10-25T13:09:16+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 82
     }
    ]
   },
@@ -292,18 +376,38 @@
    ]
   },
   {
+   "id": "hn-50233294",
+   "title": "JetBrains Thinkrail",
+   "url": "https://github.com/JetBrains/thinkrail",
+   "hn_url": "https://news.ycombinator.com/item?id=50233294",
+   "score": 111,
+   "comments": 72,
+   "author": "hmokiguess",
+   "time_iso": "2026-10-25T16:27:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 111
+    }
+   ]
+  },
+  {
    "id": "hn-50233304",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "hn_url": "https://news.ycombinator.com/item?id=50233304",
-   "score": 41,
-   "comments": 59,
+   "score": 152,
+   "comments": 233,
    "author": "romanhn",
    "time_iso": "2026-10-25T16:28:26+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 152
     }
    ]
   },
@@ -340,6 +444,22 @@
    ]
   },
   {
+   "id": "hn-50233438",
+   "title": "UTS #39: Unicode Security Mechanisms",
+   "url": "https://unicode.org/reports/tr39/",
+   "hn_url": "https://news.ycombinator.com/item?id=50233438",
+   "score": 22,
+   "comments": 1,
+   "author": "robin_reala",
+   "time_iso": "2026-10-25T16:40:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
    "id": "hn-50233775",
    "title": "Sabre Wulf Remastered",
    "url": "https://gp-64.com/swr/",
@@ -360,14 +480,18 @@
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "hn_url": "https://news.ycombinator.com/item?id=50233779",
-   "score": 62,
-   "comments": 26,
+   "score": 304,
+   "comments": 157,
    "author": "sungam",
    "time_iso": "2026-10-25T17:15:38+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 62
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 304
     }
    ]
   },
@@ -392,14 +516,194 @@
    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
    "url": "https://talkweb.eu/openweb/4558/",
    "hn_url": "https://news.ycombinator.com/item?id=50233929",
-   "score": 72,
-   "comments": 5,
+   "score": 281,
+   "comments": 147,
    "author": "Tomte",
    "time_iso": "2026-10-25T17:30:55+00:00",
    "history": [
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 72
+    },
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 281
+    }
+   ]
+  },
+  {
+   "id": "hn-50234232",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "hn_url": "https://news.ycombinator.com/item?id=50234232",
+   "score": 251,
+   "comments": 63,
+   "author": "tdeck",
+   "time_iso": "2026-10-25T18:04:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 251
+    }
+   ]
+  },
+  {
+   "id": "hn-50234329",
+   "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+   "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+   "hn_url": "https://news.ycombinator.com/item?id=50234329",
+   "score": 52,
+   "comments": 13,
+   "author": "bootlegbilly",
+   "time_iso": "2026-10-25T18:11:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50234474",
+   "title": "Dolly Parton's Imagination Library",
+   "url": "https://imaginationlibrary.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50234474",
+   "score": 222,
+   "comments": 38,
+   "author": "jumploops",
+   "time_iso": "2026-10-25T18:23:54+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 222
+    }
+   ]
+  },
+  {
+   "id": "hn-50234879",
+   "title": "Where the Romans Fought (interactive map)",
+   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+   "hn_url": "https://news.ycombinator.com/item?id=50234879",
+   "score": 8,
+   "comments": 1,
+   "author": "endorphine",
+   "time_iso": "2026-10-25T18:58:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50235010",
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "hn_url": "https://news.ycombinator.com/item?id=50235010",
+   "score": 23,
+   "comments": 0,
+   "author": "acossta",
+   "time_iso": "2026-10-25T19:10:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50235017",
+   "title": "Why I Am a Programmer",
+   "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50235017",
+   "score": 38,
+   "comments": 5,
+   "author": "jruohonen",
+   "time_iso": "2026-10-25T19:11:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50235217",
+   "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+   "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+   "hn_url": "https://news.ycombinator.com/item?id=50235217",
+   "score": 91,
+   "comments": 14,
+   "author": "_Microft",
+   "time_iso": "2026-10-25T19:29:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 91
+    }
+   ]
+  },
+  {
+   "id": "hn-50235316",
+   "title": "Eunice is almost here",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
+   "hn_url": "https://news.ycombinator.com/item?id=50235316",
+   "score": 32,
+   "comments": 26,
+   "author": "armcat",
+   "time_iso": "2026-10-25T19:40:27+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50235639",
+   "title": "Focused Company Operating Principles",
+   "url": "https://focused.io/operating-principles",
+   "hn_url": "https://news.ycombinator.com/item?id=50235639",
+   "score": 3,
+   "comments": 0,
+   "author": "mooreds",
+   "time_iso": "2026-10-25T20:16:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 3
+    }
+   ]
+  },
+  {
+   "id": "hn-50235738",
+   "title": "What goes into making an animated film?",
+   "url": "https://www.disneyanimation.com/process/",
+   "hn_url": "https://news.ycombinator.com/item?id=50235738",
+   "score": 16,
+   "comments": 5,
+   "author": "embedding-shape",
+   "time_iso": "2026-10-25T20:27:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50235780",
+   "title": "The State of Context Engineering",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50235780",
+   "score": 3,
+   "comments": 0,
+   "author": "pchristensen",
+   "time_iso": "2026-10-25T20:32:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T05:25:18.792259+08:00",
+     "score": 3
     }
    ]
   }
