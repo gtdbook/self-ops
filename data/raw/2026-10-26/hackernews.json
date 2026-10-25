@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-26T05:25:18.792259+08:00",
- "count": 42,
+ "updated_at": "2026-10-26T07:47:57.313340+08:00",
+ "count": 47,
  "items": [
+  {
+   "id": "hn-50185534",
+   "title": "Amazon's \"digital pacifier\" for toddlers",
+   "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+   "hn_url": "https://news.ycombinator.com/item?id=50185534",
+   "score": 69,
+   "comments": 102,
+   "author": "jumploops",
+   "time_iso": "2026-10-21T18:37:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 69
+    }
+   ]
+  },
   {
    "id": "hn-50190686",
    "title": "Flapping Airplanes",
@@ -56,14 +72,18 @@
    "title": "Recreate the Apollo Guidance Computer",
    "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
    "hn_url": "https://news.ycombinator.com/item?id=50195769",
-   "score": 33,
-   "comments": 2,
+   "score": 39,
+   "comments": 4,
    "author": "Brajeshwar",
    "time_iso": "2026-10-22T14:21:17+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 39
     }
    ]
   },
@@ -72,14 +92,18 @@
    "title": "The U.S. Power Grid",
    "url": "https://nomagicpill.site/knowledge/powergrid.html",
    "hn_url": "https://news.ycombinator.com/item?id=50196623",
-   "score": 25,
-   "comments": 9,
+   "score": 63,
+   "comments": 18,
    "author": "surprisetalk",
    "time_iso": "2026-10-22T15:20:04+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 25
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 63
     }
    ]
   },
@@ -88,14 +112,18 @@
    "title": "Overgrown, when plants invade your abandoned tabs",
    "url": "https://charliegerard.dev/blog/overgrown-extension/",
    "hn_url": "https://news.ycombinator.com/item?id=50197108",
-   "score": 5,
-   "comments": 0,
+   "score": 98,
+   "comments": 24,
    "author": "speckx",
    "time_iso": "2026-10-22T15:52:21+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 98
     }
    ]
   },
@@ -128,6 +156,38 @@
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 1643
+    }
+   ]
+  },
+  {
+   "id": "hn-50208628",
+   "title": "Reverse engineering a Beyblade launch tracker",
+   "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+   "hn_url": "https://news.ycombinator.com/item?id=50208628",
+   "score": 10,
+   "comments": 1,
+   "author": "syx",
+   "time_iso": "2026-10-23T13:25:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
+   "id": "hn-50213610",
+   "title": "Making the Buddha Head from Merv Whole Again",
+   "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50213610",
+   "score": 8,
+   "comments": 0,
+   "author": "laybak",
+   "time_iso": "2026-10-23T18:46:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 8
     }
    ]
   },
@@ -172,8 +232,8 @@
    "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
    "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
    "hn_url": "https://news.ycombinator.com/item?id=50223435",
-   "score": 38,
-   "comments": 11,
+   "score": 54,
+   "comments": 12,
    "author": "zdw",
    "time_iso": "2026-10-24T17:42:08+00:00",
    "history": [
@@ -184,6 +244,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 38
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 54
     }
    ]
   },
@@ -240,8 +304,8 @@
    "title": "We should be more ambitious with the software we build",
    "url": "https://danluu.com/ambitious/",
    "hn_url": "https://news.ycombinator.com/item?id=50225695",
-   "score": 718,
-   "comments": 663,
+   "score": 736,
+   "comments": 675,
    "author": "ltratt",
    "time_iso": "2026-10-24T21:47:31+00:00",
    "history": [
@@ -252,6 +316,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 718
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 736
     }
    ]
   },
@@ -260,14 +328,18 @@
    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
    "url": "https://huggingface.co/destined/hurston-1",
    "hn_url": "https://news.ycombinator.com/item?id=50227330",
-   "score": 24,
-   "comments": 9,
+   "score": 35,
+   "comments": 19,
    "author": "Gcarter08",
    "time_iso": "2026-10-25T01:30:13+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 35
     }
    ]
   },
@@ -328,8 +400,8 @@
    "title": "Active incident at Dreamhost forcing password reset",
    "url": "https://www.dreamhoststatus.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50231166",
-   "score": 82,
-   "comments": 32,
+   "score": 102,
+   "comments": 37,
    "author": "greenchair",
    "time_iso": "2026-10-25T13:09:16+00:00",
    "history": [
@@ -340,6 +412,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 82
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 102
     }
    ]
   },
@@ -380,14 +456,18 @@
    "title": "JetBrains Thinkrail",
    "url": "https://github.com/JetBrains/thinkrail",
    "hn_url": "https://news.ycombinator.com/item?id=50233294",
-   "score": 111,
-   "comments": 72,
+   "score": 158,
+   "comments": 111,
    "author": "hmokiguess",
    "time_iso": "2026-10-25T16:27:12+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 111
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 158
     }
    ]
   },
@@ -448,14 +528,18 @@
    "title": "UTS #39: Unicode Security Mechanisms",
    "url": "https://unicode.org/reports/tr39/",
    "hn_url": "https://news.ycombinator.com/item?id=50233438",
-   "score": 22,
-   "comments": 1,
+   "score": 31,
+   "comments": 7,
    "author": "robin_reala",
    "time_iso": "2026-10-25T16:40:37+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 31
     }
    ]
   },
@@ -480,8 +564,8 @@
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "hn_url": "https://news.ycombinator.com/item?id=50233779",
-   "score": 304,
-   "comments": 157,
+   "score": 383,
+   "comments": 183,
    "author": "sungam",
    "time_iso": "2026-10-25T17:15:38+00:00",
    "history": [
@@ -492,6 +576,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 304
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 383
     }
    ]
   },
@@ -516,8 +604,8 @@
    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
    "url": "https://talkweb.eu/openweb/4558/",
    "hn_url": "https://news.ycombinator.com/item?id=50233929",
-   "score": 281,
-   "comments": 147,
+   "score": 357,
+   "comments": 178,
    "author": "Tomte",
    "time_iso": "2026-10-25T17:30:55+00:00",
    "history": [
@@ -528,6 +616,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 281
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 357
     }
    ]
   },
@@ -536,14 +628,18 @@
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
    "hn_url": "https://news.ycombinator.com/item?id=50234232",
-   "score": 251,
-   "comments": 63,
+   "score": 343,
+   "comments": 84,
    "author": "tdeck",
    "time_iso": "2026-10-25T18:04:11+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 251
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 343
     }
    ]
   },
@@ -568,14 +664,18 @@
    "title": "Dolly Parton's Imagination Library",
    "url": "https://imaginationlibrary.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50234474",
-   "score": 222,
-   "comments": 38,
+   "score": 319,
+   "comments": 55,
    "author": "jumploops",
    "time_iso": "2026-10-25T18:23:54+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 222
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 319
     }
    ]
   },
@@ -584,14 +684,18 @@
    "title": "Where the Romans Fought (interactive map)",
    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
    "hn_url": "https://news.ycombinator.com/item?id=50234879",
-   "score": 8,
-   "comments": 1,
+   "score": 32,
+   "comments": 11,
    "author": "endorphine",
    "time_iso": "2026-10-25T18:58:14+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 32
     }
    ]
   },
@@ -600,7 +704,7 @@
    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
    "hn_url": "https://news.ycombinator.com/item?id=50235010",
-   "score": 23,
+   "score": 44,
    "comments": 0,
    "author": "acossta",
    "time_iso": "2026-10-25T19:10:36+00:00",
@@ -608,6 +712,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 23
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 44
     }
    ]
   },
@@ -616,14 +724,18 @@
    "title": "Why I Am a Programmer",
    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235017",
-   "score": 38,
-   "comments": 5,
+   "score": 96,
+   "comments": 27,
    "author": "jruohonen",
    "time_iso": "2026-10-25T19:11:31+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 38
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 96
     }
    ]
   },
@@ -648,14 +760,18 @@
    "title": "Eunice is almost here",
    "url": "https://armincat.com/articles/eunice-is-almost-here",
    "hn_url": "https://news.ycombinator.com/item?id=50235316",
-   "score": 32,
-   "comments": 26,
+   "score": 54,
+   "comments": 46,
    "author": "armcat",
    "time_iso": "2026-10-25T19:40:27+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 54
     }
    ]
   },
@@ -664,14 +780,18 @@
    "title": "Focused Company Operating Principles",
    "url": "https://focused.io/operating-principles",
    "hn_url": "https://news.ycombinator.com/item?id=50235639",
-   "score": 3,
-   "comments": 0,
+   "score": 14,
+   "comments": 1,
    "author": "mooreds",
    "time_iso": "2026-10-25T20:16:51+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 14
     }
    ]
   },
@@ -680,14 +800,18 @@
    "title": "What goes into making an animated film?",
    "url": "https://www.disneyanimation.com/process/",
    "hn_url": "https://news.ycombinator.com/item?id=50235738",
-   "score": 16,
-   "comments": 5,
+   "score": 65,
+   "comments": 29,
    "author": "embedding-shape",
    "time_iso": "2026-10-25T20:27:09+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 65
     }
    ]
   },
@@ -696,14 +820,50 @@
    "title": "The State of Context Engineering",
    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235780",
-   "score": 3,
-   "comments": 0,
+   "score": 54,
+   "comments": 11,
    "author": "pchristensen",
    "time_iso": "2026-10-25T20:32:31+00:00",
    "history": [
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 54
+    }
+   ]
+  },
+  {
+   "id": "hn-50236081",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "hn_url": "https://news.ycombinator.com/item?id=50236081",
+   "score": 175,
+   "comments": 73,
+   "author": "consumer451",
+   "time_iso": "2026-10-25T21:08:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 175
+    }
+   ]
+  },
+  {
+   "id": "hn-50236102",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "hn_url": "https://news.ycombinator.com/item?id=50236102",
+   "score": 77,
+   "comments": 96,
+   "author": "minimaxir",
+   "time_iso": "2026-10-25T21:11:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T07:47:57.313340+08:00",
+     "score": 77
     }
    ]
   }
