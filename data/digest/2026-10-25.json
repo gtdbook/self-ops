@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T08:48:41.591797+08:00",
+ "generated_at": "2026-10-25T13:40:17.917166+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -16,6 +16,30 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "+281 分 / 6.8 小时 · 现 ⭐ 291",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Goose Programming Language",
+     "url": "https://aardappel.github.io/goose/",
+     "meta": "+262 分 / 9.5 小时 · 现 ⭐ 312",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "meta": "+194 分 / 4.9 小时 · 现 ⭐ 271",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Roku developer repositories moved from GitHub to GitLab",
      "url": "https://blog.roku.com/developer/gitlab-move",
      "meta": "+174 分 / 7.6 小时 · 现 ⭐ 252",
@@ -24,9 +48,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Goose Programming Language",
-     "url": "https://aardappel.github.io/goose/",
-     "meta": "+169 分 / 4.6 小时 · 现 ⭐ 219",
+     "title": "Show HN: Steal My Bitcoin",
+     "url": "https://stealmybitcoin.com/",
+     "meta": "+166 分 / 6.8 小时 · 现 ⭐ 444",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,15 +58,23 @@
     {
      "title": "FreeDNS",
      "url": "https://freedns.afraid.org/",
-     "meta": "+133 分 / 7.6 小时 · 现 ⭐ 245",
+     "meta": "+158 分 / 12.5 小时 · 现 ⭐ 270",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "We should be more ambitious with the software we build",
-     "url": "https://danluu.com/ambitious/",
-     "meta": "+116 分 / 1.9 小时 · 现 ⭐ 126",
+     "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+     "url": "https://missileer.watch",
+     "meta": "+139 分 / 9.5 小时 · 现 ⭐ 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "meta": "+125 分 / 12.5 小时 · 现 ⭐ 294",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -51,38 +83,6 @@
      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
      "url": "https://github.com/Zagitta/gpu-unlock",
      "meta": "+107 分 / 7.6 小时 · 现 ⭐ 181",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "meta": "+102 分 / 7.6 小时 · 现 ⭐ 271",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Steal My Bitcoin",
-     "url": "https://stealmybitcoin.com/",
-     "meta": "+102 分 / 1.9 小时 · 现 ⭐ 380",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-     "url": "https://missileer.watch",
-     "meta": "+95 分 / 4.6 小时 · 现 ⭐ 106",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Physicists trap a single antimatter particle for a month",
-     "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-     "meta": "+78 分 / 7.6 小时 · 现 ⭐ 276",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 4371 · Kotlin",
+     "meta": "⭐ 4489 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "simbasjungles/free-my-tv",
      "url": "https://github.com/simbasjungles/free-my-tv",
-     "meta": "⭐ 4295 · Java",
+     "meta": "⭐ 4350 · Java",
      "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "JoasASantos/REA-Prompts",
      "url": "https://github.com/JoasASantos/REA-Prompts",
-     "meta": "⭐ 2090",
+     "meta": "⭐ 2183",
      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "EthanArbuckle/fairplay-decrypt",
      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-     "meta": "⭐ 1960 · C",
+     "meta": "⭐ 2005 · C",
      "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1754 · Python",
+     "meta": "⭐ 1763 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 1703 · Rust",
+     "meta": "⭐ 1758 · Rust",
      "summary": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 1655 · Swift",
+     "meta": "⭐ 1729 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +320,7 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1400 · Python",
+     "meta": "⭐ 1405 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +328,7 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1381 · JavaScript",
+     "meta": "⭐ 1387 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1287 · C",
+     "meta": "⭐ 1316 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +351,7 @@
     {
      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
      "url": "https://edjefferson.com/localwiki/",
-     "meta": "⭐ 1545 · 💬 242",
+     "meta": "⭐ 1562 · 💬 245",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -397,17 +397,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "OBS Studio 33",
-     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-     "meta": "⭐ 411 · 💬 145",
+     "title": "Show HN: Steal My Bitcoin",
+     "url": "https://stealmybitcoin.com/",
+     "meta": "⭐ 444 · 💬 272",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Steal My Bitcoin",
-     "url": "https://stealmybitcoin.com/",
-     "meta": "⭐ 380 · 💬 224",
+     "title": "OBS Studio 33",
+     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+     "meta": "⭐ 411 · 💬 145",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,6 +421,38 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "The Goose Programming Language",
+     "url": "https://aardappel.github.io/goose/",
+     "meta": "⭐ 312 · 💬 204",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "meta": "⭐ 294 · 💬 142",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I don't understand quantum physics (2018)",
+     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+     "meta": "⭐ 294 · 💬 237",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "⭐ 291 · 💬 254",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Physicists trap a single antimatter particle for a month",
      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
      "meta": "⭐ 276 · 💬 80",
@@ -429,41 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "I don't understand quantum physics (2018)",
-     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-     "meta": "⭐ 273 · 💬 205",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "meta": "⭐ 271 · 💬 136",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Roku developer repositories moved from GitHub to GitLab",
-     "url": "https://blog.roku.com/developer/gitlab-move",
-     "meta": "⭐ 252 · 💬 166",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "FreeDNS",
-     "url": "https://freedns.afraid.org/",
-     "meta": "⭐ 245 · 💬 61",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Bringing uv and ty together",
-     "url": "https://astral.sh/blog/uv-ty-integration",
-     "meta": "⭐ 243 · 💬 82",
+     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "meta": "⭐ 271 · 💬 280",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -588,10 +588,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "Whiteboard",
-     "url": "https://www.producthunt.com/products/whiteboard-5",
-     "meta": "Product Hunt · 2026-10-19",
-     "summary": "the open-source IDE for thoughtful software design",
+     "title": "Woven Video",
+     "url": "https://www.producthunt.com/products/woven-video",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Edit any video by chat, on a real Mac timeline",
      "reason": null,
      "origin_source": "producthunt"
     }
