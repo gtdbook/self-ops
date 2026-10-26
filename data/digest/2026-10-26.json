@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T07:47:59.644207+08:00",
+ "generated_at": "2026-10-26T11:11:22.460279+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
      "url": "https://lynchlab.net/llm-skin-cancer",
-     "meta": "+321 分 / 5.7 小时 · 现 ⭐ 383",
+     "meta": "+408 分 / 9.1 小时 · 现 ⭐ 470",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,55 @@
     {
      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
      "url": "https://talkweb.eu/openweb/4558/",
-     "meta": "+285 分 / 5.7 小时 · 现 ⭐ 357",
+     "meta": "+337 分 / 9.1 小时 · 现 ⭐ 409",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "url": "https://imaginationlibrary.com/",
+     "meta": "+206 分 / 5.8 小时 · 现 ⭐ 428",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Root shell on Samsung TV",
+     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+     "meta": "+174 分 / 9.1 小时 · 现 ⭐ 788",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+     "meta": "+162 分 / 5.8 小时 · 现 ⭐ 413",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Overgrown, when plants invade your abandoned tabs",
+     "url": "https://charliegerard.dev/blog/overgrown-extension/",
+     "meta": "+161 分 / 5.8 小时 · 现 ⭐ 166",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "+113 分 / 9.1 小时 · 现 ⭐ 753",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "meta": "+112 分 / 5.8 小时 · 现 ⭐ 150",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -32,57 +80,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dolly Parton's Imagination Library",
-     "url": "https://imaginationlibrary.com/",
-     "meta": "+97 分 / 2.4 小时 · 现 ⭐ 319",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "We should be more ambitious with the software we build",
-     "url": "https://danluu.com/ambitious/",
-     "meta": "+96 分 / 5.7 小时 · 现 ⭐ 736",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Overgrown, when plants invade your abandoned tabs",
-     "url": "https://charliegerard.dev/blog/overgrown-extension/",
-     "meta": "+93 分 / 2.4 小时 · 现 ⭐ 98",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-     "meta": "+92 分 / 2.4 小时 · 现 ⭐ 343",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Root shell on Samsung TV",
-     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-     "meta": "+86 分 / 3.3 小时 · 现 ⭐ 700",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Active incident at Dreamhost forcing password reset",
-     "url": "https://www.dreamhoststatus.com/",
-     "meta": "+73 分 / 5.7 小时 · 现 ⭐ 102",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Why I Am a Programmer",
-     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-     "meta": "+58 分 / 2.4 小时 · 现 ⭐ 96",
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "meta": "+108 分 / 3.4 小时 · 现 ⭐ 185",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 4975 · Kotlin",
+     "meta": "⭐ 5163 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 2569 · C",
+     "meta": "⭐ 2796 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 1934 · Rust",
+     "meta": "⭐ 1951 · Rust",
      "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 1915 · Swift",
+     "meta": "⭐ 1941 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +280,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1790 · Python",
+     "meta": "⭐ 1796 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "Jakeschincariol/day-trader-skill",
      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-     "meta": "⭐ 1596 · Python",
+     "meta": "⭐ 1673 · Python",
      "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +296,7 @@
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1453 · C",
+     "meta": "⭐ 1474 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +304,7 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1433 · Python",
+     "meta": "⭐ 1439 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +312,7 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1396 · JavaScript",
+     "meta": "⭐ 1400 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +320,7 @@
     {
      "title": "colinhacks/reylo",
      "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1263 · Rust",
+     "meta": "⭐ 1266 · Rust",
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +328,7 @@
     {
      "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-     "meta": "⭐ 1002 · Shell",
+     "meta": "⭐ 1005 · Shell",
      "summary": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
      "reason": null,
      "origin_source": "github_search"
@@ -357,17 +357,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "We should be more ambitious with the software we build",
-     "url": "https://danluu.com/ambitious/",
-     "meta": "⭐ 736 · 💬 675",
+     "title": "Root shell on Samsung TV",
+     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+     "meta": "⭐ 788 · 💬 607",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Root shell on Samsung TV",
-     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-     "meta": "⭐ 700 · 💬 539",
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "⭐ 753 · 💬 696",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -383,7 +383,31 @@
     {
      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
      "url": "https://lynchlab.net/llm-skin-cancer",
-     "meta": "⭐ 383 · 💬 183",
+     "meta": "⭐ 470 · 💬 216",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "url": "https://imaginationlibrary.com/",
+     "meta": "⭐ 428 · 💬 79",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+     "meta": "⭐ 413 · 💬 107",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+     "url": "https://talkweb.eu/openweb/4558/",
+     "meta": "⭐ 409 · 💬 206",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -397,22 +421,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-     "url": "https://talkweb.eu/openweb/4558/",
-     "meta": "⭐ 357 · 💬 178",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-     "meta": "⭐ 343 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Cerebras Deploys Trillion-Parameter AI Models",
      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
      "meta": "⭐ 339 · 💬 123",
@@ -421,17 +429,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dolly Parton's Imagination Library",
-     "url": "https://imaginationlibrary.com/",
-     "meta": "⭐ 319 · 💬 55",
+     "title": "SpeedCrunch 1.1",
+     "url": "https://www.speedcrunch.org/",
+     "meta": "⭐ 206 · 💬 47",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "SpeedCrunch 1.1",
-     "url": "https://www.speedcrunch.org/",
-     "meta": "⭐ 206 · 💬 47",
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "meta": "⭐ 185 · 💬 210",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -456,14 +464,6 @@
      "title": "Small Programs and Languages",
      "url": "https://ratfactor.com/cards/pl-small",
      "meta": "⭐ 168 · 💬 26",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "JetBrains Thinkrail",
-     "url": "https://github.com/JetBrains/thinkrail",
-     "meta": "⭐ 158 · 💬 111",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

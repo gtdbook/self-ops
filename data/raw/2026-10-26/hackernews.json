@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-26T07:47:57.313340+08:00",
- "count": 47,
+ "updated_at": "2026-10-26T11:11:19.951916+08:00",
+ "count": 55,
  "items": [
   {
    "id": "hn-50185534",
    "title": "Amazon's \"digital pacifier\" for toddlers",
    "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
    "hn_url": "https://news.ycombinator.com/item?id=50185534",
-   "score": 69,
-   "comments": 102,
+   "score": 109,
+   "comments": 163,
    "author": "jumploops",
    "time_iso": "2026-10-21T18:37:48+00:00",
    "history": [
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 109
     }
    ]
   },
@@ -112,8 +116,8 @@
    "title": "Overgrown, when plants invade your abandoned tabs",
    "url": "https://charliegerard.dev/blog/overgrown-extension/",
    "hn_url": "https://news.ycombinator.com/item?id=50197108",
-   "score": 98,
-   "comments": 24,
+   "score": 166,
+   "comments": 45,
    "author": "speckx",
    "time_iso": "2026-10-22T15:52:21+00:00",
    "history": [
@@ -124,6 +128,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 98
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 166
     }
    ]
   },
@@ -140,6 +148,38 @@
     {
      "t": "2026-10-26T02:06:48.118928+08:00",
      "score": 57
+    }
+   ]
+  },
+  {
+   "id": "hn-50199199",
+   "title": "Retired decorator's Pokémon cards sell for £1.5M",
+   "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+   "hn_url": "https://news.ycombinator.com/item?id=50199199",
+   "score": 20,
+   "comments": 11,
+   "author": "HelloUsername",
+   "time_iso": "2026-10-22T18:25:40+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
+   "id": "hn-50200957",
+   "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+   "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+   "hn_url": "https://news.ycombinator.com/item?id=50200957",
+   "score": 11,
+   "comments": 1,
+   "author": "janandonly",
+   "time_iso": "2026-10-22T21:00:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 11
     }
    ]
   },
@@ -164,14 +204,18 @@
    "title": "Reverse engineering a Beyblade launch tracker",
    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
    "hn_url": "https://news.ycombinator.com/item?id=50208628",
-   "score": 10,
-   "comments": 1,
+   "score": 40,
+   "comments": 4,
    "author": "syx",
    "time_iso": "2026-10-23T13:25:12+00:00",
    "history": [
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 40
     }
    ]
   },
@@ -180,7 +224,7 @@
    "title": "Making the Buddha Head from Merv Whole Again",
    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
    "hn_url": "https://news.ycombinator.com/item?id=50213610",
-   "score": 8,
+   "score": 24,
    "comments": 0,
    "author": "laybak",
    "time_iso": "2026-10-23T18:46:00+00:00",
@@ -188,6 +232,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 24
     }
    ]
   },
@@ -196,8 +244,8 @@
    "title": "Root shell on Samsung TV",
    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
    "hn_url": "https://news.ycombinator.com/item?id=50218633",
-   "score": 700,
-   "comments": 539,
+   "score": 788,
+   "comments": 607,
    "author": "testing22321",
    "time_iso": "2026-10-24T05:49:57+00:00",
    "history": [
@@ -208,6 +256,10 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 700
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 788
     }
    ]
   },
@@ -304,8 +356,8 @@
    "title": "We should be more ambitious with the software we build",
    "url": "https://danluu.com/ambitious/",
    "hn_url": "https://news.ycombinator.com/item?id=50225695",
-   "score": 736,
-   "comments": 675,
+   "score": 753,
+   "comments": 696,
    "author": "ltratt",
    "time_iso": "2026-10-24T21:47:31+00:00",
    "history": [
@@ -320,6 +372,26 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 736
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 753
+    }
+   ]
+  },
+  {
+   "id": "hn-50227041",
+   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+   "url": "https://adrs.systems",
+   "hn_url": "https://news.ycombinator.com/item?id=50227041",
+   "score": 8,
+   "comments": 5,
+   "author": "lumbroso",
+   "time_iso": "2026-10-25T00:43:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 8
     }
    ]
   },
@@ -400,8 +472,8 @@
    "title": "Active incident at Dreamhost forcing password reset",
    "url": "https://www.dreamhoststatus.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50231166",
-   "score": 102,
-   "comments": 37,
+   "score": 127,
+   "comments": 54,
    "author": "greenchair",
    "time_iso": "2026-10-25T13:09:16+00:00",
    "history": [
@@ -416,6 +488,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 127
     }
    ]
   },
@@ -564,8 +640,8 @@
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "hn_url": "https://news.ycombinator.com/item?id=50233779",
-   "score": 383,
-   "comments": 183,
+   "score": 470,
+   "comments": 216,
    "author": "sungam",
    "time_iso": "2026-10-25T17:15:38+00:00",
    "history": [
@@ -580,6 +656,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 383
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 470
     }
    ]
   },
@@ -604,8 +684,8 @@
    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
    "url": "https://talkweb.eu/openweb/4558/",
    "hn_url": "https://news.ycombinator.com/item?id=50233929",
-   "score": 357,
-   "comments": 178,
+   "score": 409,
+   "comments": 206,
    "author": "Tomte",
    "time_iso": "2026-10-25T17:30:55+00:00",
    "history": [
@@ -620,6 +700,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 357
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 409
     }
    ]
   },
@@ -628,8 +712,8 @@
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
    "hn_url": "https://news.ycombinator.com/item?id=50234232",
-   "score": 343,
-   "comments": 84,
+   "score": 413,
+   "comments": 107,
    "author": "tdeck",
    "time_iso": "2026-10-25T18:04:11+00:00",
    "history": [
@@ -640,6 +724,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 343
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 413
     }
    ]
   },
@@ -664,8 +752,8 @@
    "title": "Dolly Parton's Imagination Library",
    "url": "https://imaginationlibrary.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50234474",
-   "score": 319,
-   "comments": 55,
+   "score": 428,
+   "comments": 79,
    "author": "jumploops",
    "time_iso": "2026-10-25T18:23:54+00:00",
    "history": [
@@ -676,6 +764,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 319
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 428
     }
    ]
   },
@@ -684,8 +776,8 @@
    "title": "Where the Romans Fought (interactive map)",
    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
    "hn_url": "https://news.ycombinator.com/item?id=50234879",
-   "score": 32,
-   "comments": 11,
+   "score": 56,
+   "comments": 26,
    "author": "endorphine",
    "time_iso": "2026-10-25T18:58:14+00:00",
    "history": [
@@ -696,6 +788,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 56
     }
    ]
   },
@@ -724,8 +820,8 @@
    "title": "Why I Am a Programmer",
    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235017",
-   "score": 96,
-   "comments": 27,
+   "score": 150,
+   "comments": 56,
    "author": "jruohonen",
    "time_iso": "2026-10-25T19:11:31+00:00",
    "history": [
@@ -736,6 +832,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 150
     }
    ]
   },
@@ -760,8 +860,8 @@
    "title": "Eunice is almost here",
    "url": "https://armincat.com/articles/eunice-is-almost-here",
    "hn_url": "https://news.ycombinator.com/item?id=50235316",
-   "score": 54,
-   "comments": 46,
+   "score": 67,
+   "comments": 61,
    "author": "armcat",
    "time_iso": "2026-10-25T19:40:27+00:00",
    "history": [
@@ -772,6 +872,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 54
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 67
     }
    ]
   },
@@ -800,8 +904,8 @@
    "title": "What goes into making an animated film?",
    "url": "https://www.disneyanimation.com/process/",
    "hn_url": "https://news.ycombinator.com/item?id=50235738",
-   "score": 65,
-   "comments": 29,
+   "score": 108,
+   "comments": 43,
    "author": "embedding-shape",
    "time_iso": "2026-10-25T20:27:09+00:00",
    "history": [
@@ -812,6 +916,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 65
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 108
     }
    ]
   },
@@ -820,8 +928,8 @@
    "title": "The State of Context Engineering",
    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235780",
-   "score": 54,
-   "comments": 11,
+   "score": 97,
+   "comments": 28,
    "author": "pchristensen",
    "time_iso": "2026-10-25T20:32:31+00:00",
    "history": [
@@ -832,6 +940,10 @@
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 54
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 97
     }
    ]
   },
@@ -856,14 +968,98 @@
    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
    "url": "https://minimaxir.com/2026/10/cheap-llms/",
    "hn_url": "https://news.ycombinator.com/item?id=50236102",
-   "score": 77,
-   "comments": 96,
+   "score": 185,
+   "comments": 210,
    "author": "minimaxir",
    "time_iso": "2026-10-25T21:11:31+00:00",
    "history": [
     {
      "t": "2026-10-26T07:47:57.313340+08:00",
      "score": 77
+    },
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 185
+    }
+   ]
+  },
+  {
+   "id": "hn-50237078",
+   "title": "F-Zero X on Nintendo 3DS",
+   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50237078",
+   "score": 71,
+   "comments": 34,
+   "author": "bpierre",
+   "time_iso": "2026-10-25T23:27:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 71
+    }
+   ]
+  },
+  {
+   "id": "hn-50237224",
+   "title": "Attention Is Not What You Need (2025)",
+   "url": "https://arxiv.org/abs/2512.19428",
+   "hn_url": "https://news.ycombinator.com/item?id=50237224",
+   "score": 36,
+   "comments": 15,
+   "author": "westurner",
+   "time_iso": "2026-10-25T23:52:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 36
+    }
+   ]
+  },
+  {
+   "id": "hn-50237712",
+   "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+   "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+   "hn_url": "https://news.ycombinator.com/item?id=50237712",
+   "score": 27,
+   "comments": 5,
+   "author": "textlanes33",
+   "time_iso": "2026-10-26T01:03:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50237896",
+   "title": "iPhone Duo Teardown",
+   "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+   "hn_url": "https://news.ycombinator.com/item?id=50237896",
+   "score": 45,
+   "comments": 14,
+   "author": "kripy",
+   "time_iso": "2026-10-26T01:23:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50238088",
+   "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+   "hn_url": "https://news.ycombinator.com/item?id=50238088",
+   "score": 36,
+   "comments": 1,
+   "author": "Betelbuddy",
+   "time_iso": "2026-10-26T01:47:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T11:11:19.951916+08:00",
+     "score": 36
     }
    ]
   }
