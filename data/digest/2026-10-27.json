@@ -1,12 +1,99 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T00:28:52.895671+08:00",
+ "generated_at": "2026-10-27T05:20:20.638675+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Anthropic S-1",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+     "meta": "+486 分 / 4.9 小时 · 现 ⭐ 1334",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "+354 分 / 4.9 小时 · 现 ⭐ 466",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "CSS-Tricks has a new owner",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "meta": "+294 分 / 4.9 小时 · 现 ⭐ 310",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Birdwatching rewires the brain and slows cognitive decline",
+     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+     "meta": "+126 分 / 4.9 小时 · 现 ⭐ 468",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+     "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+     "meta": "+117 分 / 4.9 小时 · 现 ⭐ 145",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Pharo 14",
+     "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+     "meta": "+103 分 / 4.9 小时 · 现 ⭐ 212",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Blaise Pascal invented fixed route public transport (2024)",
+     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+     "meta": "+91 分 / 4.9 小时 · 现 ⭐ 241",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Switzerland. Block by block. At 1:1 scale",
+     "url": "https://blocks.manifold3d.ch/",
+     "meta": "+61 分 / 4.9 小时 · 现 ⭐ 438",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Fixing Tool-Call Accuracy in vLLM",
+     "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+     "meta": "+31 分 / 4.9 小时 · 现 ⭐ 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+     "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Our newest AI Quest: Mapping the human brain",
      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -16,7 +103,7 @@
      "origin_source": "blog_rss"
     },
     {
-     "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+     "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
      "meta": "Ars Technica · 2026-10-26",
      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
@@ -24,18 +111,18 @@
      "origin_source": "blog_rss"
     },
     {
-     "title": "Block’s new voice model sounds eerily human",
-     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+     "title": "Will AI expose the rickety infrastructure of the internet?",
+     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
      "meta": "TechCrunch AI · 2026-10-24",
-     "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
      "reason": null,
      "origin_source": "blog_rss"
     },
     {
-     "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-     "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-     "meta": "Ars Technica · 2026-10-23",
-     "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+     "title": "Block’s new voice model sounds eerily human",
+     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+     "meta": "TechCrunch AI · 2026-10-24",
+     "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -118,14 +205,6 @@
      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "The EU’s next chapter in AI is agentic",
-     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-     "meta": "OpenAI · 2026-10-14",
-     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +216,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 5982 · Kotlin",
+     "meta": "⭐ 6014 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +224,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 3679 · C",
+     "meta": "⭐ 3760 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +232,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 2036 · Swift",
+     "meta": "⭐ 2061 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +240,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 2022 · Rust",
+     "meta": "⭐ 2048 · Rust",
      "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +248,7 @@
     {
      "title": "Jakeschincariol/day-trader-skill",
      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-     "meta": "⭐ 1948 · Python",
+     "meta": "⭐ 2025 · Python",
      "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +256,7 @@
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1825 · Python",
+     "meta": "⭐ 1829 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
@@ -185,7 +264,7 @@
     {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 1750 · Python",
+     "meta": "⭐ 1826 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +272,7 @@
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1620 · C",
+     "meta": "⭐ 1646 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -201,7 +280,7 @@
     {
      "title": "designfuchen/word-atlas",
      "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 1506 · TypeScript",
+     "meta": "⭐ 1588 · TypeScript",
      "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
@@ -209,15 +288,23 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1471 · Python",
+     "meta": "⭐ 1472 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "t3dotgg/tstack",
+     "url": "https://github.com/t3dotgg/tstack",
+     "meta": "⭐ 1452 · Python",
+     "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1411 · JavaScript",
+     "meta": "⭐ 1421 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -225,23 +312,15 @@
     {
      "title": "colinhacks/reylo",
      "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1294 · Rust",
+     "meta": "⭐ 1311 · Rust",
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "t3dotgg/tstack",
-     "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 1182 · Python",
-     "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "lyramakesmusic/neuron-explorer",
      "url": "https://github.com/lyramakesmusic/neuron-explorer",
-     "meta": "⭐ 1145 · Python",
+     "meta": "⭐ 1208 · Python",
      "summary": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +328,7 @@
     {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1137 · Python",
+     "meta": "⭐ 1194 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +343,7 @@
     {
      "title": "Anthropic S-1",
      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "meta": "⭐ 848 · 💬 759",
+     "meta": "⭐ 1334 · 💬 1315",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -278,9 +357,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Birdwatching rewires the brain and slows cognitive decline",
+     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+     "meta": "⭐ 468 · 💬 182",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "⭐ 466 · 💬 63",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Switzerland. Block by block. At 1:1 scale",
      "url": "https://blocks.manifold3d.ch/",
-     "meta": "⭐ 377 · 💬 177",
+     "meta": "⭐ 438 · 💬 208",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -294,6 +389,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "meta": "⭐ 369 · 💬 224",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "url": "https://titleart.dvy.io/",
      "meta": "⭐ 345 · 💬 64",
@@ -302,9 +405,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Birdwatching rewires the brain and slows cognitive decline",
-     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-     "meta": "⭐ 342 · 💬 143",
+     "title": "CSS-Tricks has a new owner",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "meta": "⭐ 310 · 💬 69",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Blaise Pascal invented fixed route public transport (2024)",
+     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+     "meta": "⭐ 241 · 💬 125",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -334,49 +445,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Websites Should Be Printable",
-     "url": "https://brennenputh.me/blog/printable-websites/",
-     "meta": "⭐ 171 · 💬 132",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Growing Trees",
-     "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
-     "meta": "⭐ 161 · 💬 23",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "One of the Greatest Inventions in the History of Human Transport",
-     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "⭐ 150 · 💬 57",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OLED iPad Mini",
-     "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-     "meta": "⭐ 131 · 💬 174",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "⭐ 112 · 💬 6",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Pharo 14",
      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-     "meta": "⭐ 109 · 💬 24",
+     "meta": "⭐ 212 · 💬 52",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Concerning behavior from a popular open-weight AI model",
+     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+     "meta": "⭐ 204 · 💬 76",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

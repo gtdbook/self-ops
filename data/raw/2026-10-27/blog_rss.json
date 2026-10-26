@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-27T00:28:52.627194+08:00",
- "count": 2369,
+ "updated_at": "2026-10-27T05:20:20.421319+08:00",
+ "count": 2372,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -640,7 +640,7 @@
    "feed_name": "TechCrunch AI",
    "published": "Sat, 24 Oct 2026 16:00:00 +0000",
    "published_iso": "2026-10-24T16:00:00+00:00",
-   "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+   "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
   },
   {
    "id": "rss-080dec4a052bdc97",
@@ -653,7 +653,7 @@
   },
   {
    "id": "rss-083958a57723973f",
-   "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+   "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
    "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
    "feed_name": "Ars Technica",
    "published": "Mon, 26 Oct 2026 14:30:27 +0000",
@@ -1741,6 +1741,15 @@
    "summary": "See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally."
   },
   {
+   "id": "rss-14717cc2caa65d6b",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "feed_name": "TechCrunch AI",
+   "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+   "published_iso": "2026-10-24T20:15:33+00:00",
+   "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
+  },
+  {
    "id": "rss-1474750a17840eaf",
    "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
    "url": "https://huggingface.co/blog/sempre-health-eap-case-study",
@@ -2218,6 +2227,15 @@
    "summary": ""
   },
   {
+   "id": "rss-19a4895987215994",
+   "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+   "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+   "feed_name": "Ars Technica",
+   "published": "Mon, 26 Oct 2026 18:50:41 +0000",
+   "published_iso": "2026-10-26T18:50:41+00:00",
+   "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
+  },
+  {
    "id": "rss-19d1bfd8b691b57f",
    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -2684,24 +2702,6 @@
    "published": "Thu, 12 Sep 2024 00:00:00 GMT",
    "published_iso": "2024-09-12T00:00:00+00:00",
    "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges."
-  },
-  {
-   "id": "rss-1f22528a2f8fa034",
-   "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
-   "url": "https://huggingface.co/blog/swift-coreml-llm",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 08 Aug 2023 00:00:00 GMT",
-   "published_iso": "2023-08-08T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1f25e93198e01041",
-   "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-   "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-   "feed_name": "Ars Technica",
-   "published": "Fri, 23 Oct 2026 20:28:43 +0000",
-   "published_iso": "2026-10-23T20:28:43+00:00",
-   "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations."
   }
  ]
 }

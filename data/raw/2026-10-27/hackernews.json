@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-27T00:28:50.334665+08:00",
- "count": 25,
+ "updated_at": "2026-10-27T05:20:18.970694+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-50197108",
@@ -21,17 +21,21 @@
   },
   {
    "id": "hn-50200152",
-   "title": "One of the Greatest Inventions in the History of Human Transport",
+   "title": "Blaise Pascal invented fixed route public transport (2024)",
    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
    "hn_url": "https://news.ycombinator.com/item?id=50200152",
-   "score": 150,
-   "comments": 57,
+   "score": 241,
+   "comments": 125,
    "author": "skadamat",
    "time_iso": "2026-10-22T19:52:50+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 150
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 241
     }
    ]
   },
@@ -68,6 +72,22 @@
    ]
   },
   {
+   "id": "hn-50209525",
+   "title": "Diamond Transistor",
+   "url": "https://www.df.com/diamond-transistor",
+   "hn_url": "https://news.ycombinator.com/item?id=50209525",
+   "score": 98,
+   "comments": 53,
+   "author": "Gravityloss",
+   "time_iso": "2026-10-23T14:20:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 98
+    }
+   ]
+  },
+  {
    "id": "hn-50209573",
    "title": "Colorfigures",
    "url": "https://april-zhu.com/colorfigures",
@@ -84,18 +104,54 @@
    ]
   },
   {
+   "id": "hn-50211780",
+   "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+   "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+   "hn_url": "https://news.ycombinator.com/item?id=50211780",
+   "score": 27,
+   "comments": 14,
+   "author": "thm",
+   "time_iso": "2026-10-23T16:41:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50212764",
+   "title": "Who killed the EV cert? A browser whodunit for Halloween",
+   "url": "https://qwac.com/blog/who-killed-the-ev-cert",
+   "hn_url": "https://news.ycombinator.com/item?id=50212764",
+   "score": 5,
+   "comments": 6,
+   "author": "roddylindsay",
+   "time_iso": "2026-10-23T17:46:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
    "id": "hn-50215997",
    "title": "Birdwatching rewires the brain and slows cognitive decline",
    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
    "hn_url": "https://news.ycombinator.com/item?id=50215997",
-   "score": 342,
-   "comments": 143,
+   "score": 468,
+   "comments": 182,
    "author": "cisc",
    "time_iso": "2026-10-23T22:04:55+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 342
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 468
     }
    ]
   },
@@ -152,14 +208,34 @@
    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
    "hn_url": "https://news.ycombinator.com/item?id=50236681",
-   "score": 28,
-   "comments": 6,
+   "score": 145,
+   "comments": 47,
    "author": "zdw",
    "time_iso": "2026-10-25T22:29:47+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 145
+    }
+   ]
+  },
+  {
+   "id": "hn-50237019",
+   "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+   "url": "https://dbohdan.github.io/glider/",
+   "hn_url": "https://news.ycombinator.com/item?id=50237019",
+   "score": 17,
+   "comments": 3,
+   "author": "networked",
+   "time_iso": "2026-10-25T23:18:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 17
     }
    ]
   },
@@ -216,14 +292,18 @@
    "title": "Switzerland. Block by block. At 1:1 scale",
    "url": "https://blocks.manifold3d.ch/",
    "hn_url": "https://news.ycombinator.com/item?id=50240922",
-   "score": 377,
-   "comments": 177,
+   "score": 438,
+   "comments": 208,
    "author": "theanonymousone",
    "time_iso": "2026-10-26T08:46:09+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 377
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 438
     }
    ]
   },
@@ -248,14 +328,18 @@
    "title": "Pharo 14",
    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
    "hn_url": "https://news.ycombinator.com/item?id=50241925",
-   "score": 109,
-   "comments": 24,
+   "score": 212,
+   "comments": 52,
    "author": "xkriva11",
    "time_iso": "2026-10-26T11:15:50+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 212
     }
    ]
   },
@@ -280,14 +364,18 @@
    "title": "Fixing Tool-Call Accuracy in vLLM",
    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
    "hn_url": "https://news.ycombinator.com/item?id=50242870",
-   "score": 107,
-   "comments": 53,
+   "score": 138,
+   "comments": 64,
    "author": "coffeemug",
    "time_iso": "2026-10-26T12:59:48+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 107
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 138
     }
    ]
   },
@@ -296,14 +384,18 @@
    "title": "Anthropic S-1",
    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "hn_url": "https://news.ycombinator.com/item?id=50242939",
-   "score": 848,
-   "comments": 759,
+   "score": 1334,
+   "comments": 1315,
    "author": "SiNTEx",
    "time_iso": "2026-10-26T13:04:50+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 848
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 1334
     }
    ]
   },
@@ -344,14 +436,18 @@
    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "hn_url": "https://news.ycombinator.com/item?id=50245138",
-   "score": 112,
-   "comments": 6,
+   "score": 466,
+   "comments": 63,
    "author": "sgiannopoulos",
    "time_iso": "2026-10-26T15:11:59+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 112
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 466
     }
    ]
   },
@@ -392,14 +488,210 @@
    "title": "CSS-Tricks has a new owner",
    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "hn_url": "https://news.ycombinator.com/item?id=50245831",
-   "score": 16,
-   "comments": 1,
+   "score": 310,
+   "comments": 69,
    "author": "edent",
    "time_iso": "2026-10-26T15:51:23+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 16
+    },
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 310
+    }
+   ]
+  },
+  {
+   "id": "hn-50246238",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "url": "https://github.com/FrigadeHQ/hob",
+   "hn_url": "https://news.ycombinator.com/item?id=50246238",
+   "score": 34,
+   "comments": 14,
+   "author": "pancomplex",
+   "time_iso": "2026-10-26T16:12:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 34
+    }
+   ]
+  },
+  {
+   "id": "hn-50246658",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "hn_url": "https://news.ycombinator.com/item?id=50246658",
+   "score": 204,
+   "comments": 76,
+   "author": "matthieu_bl",
+   "time_iso": "2026-10-26T16:35:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 204
+    }
+   ]
+  },
+  {
+   "id": "hn-50247493",
+   "title": "Nietzschian Debugger",
+   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+   "hn_url": "https://news.ycombinator.com/item?id=50247493",
+   "score": 97,
+   "comments": 30,
+   "author": "dilawargopang",
+   "time_iso": "2026-10-26T17:25:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 97
+    }
+   ]
+  },
+  {
+   "id": "hn-50247928",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50247928",
+   "score": 62,
+   "comments": 31,
+   "author": "aray07",
+   "time_iso": "2026-10-26T17:49:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50248005",
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "hn_url": "https://news.ycombinator.com/item?id=50248005",
+   "score": 170,
+   "comments": 91,
+   "author": "Frieren",
+   "time_iso": "2026-10-26T17:54:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50248055",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "hn_url": "https://news.ycombinator.com/item?id=50248055",
+   "score": 169,
+   "comments": 91,
+   "author": "enlyth",
+   "time_iso": "2026-10-26T17:56:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 169
+    }
+   ]
+  },
+  {
+   "id": "hn-50248124",
+   "title": "GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "hn_url": "https://news.ycombinator.com/item?id=50248124",
+   "score": 369,
+   "comments": 224,
+   "author": "meetpateltech",
+   "time_iso": "2026-10-26T18:01:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 369
+    }
+   ]
+  },
+  {
+   "id": "hn-50248371",
+   "title": "Type Server Protocol",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "hn_url": "https://news.ycombinator.com/item?id=50248371",
+   "score": 138,
+   "comments": 96,
+   "author": "adamnemecek",
+   "time_iso": "2026-10-26T18:14:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 138
+    }
+   ]
+  },
+  {
+   "id": "hn-50248665",
+   "title": "US designates helium as a critical material",
+   "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+   "hn_url": "https://news.ycombinator.com/item?id=50248665",
+   "score": 122,
+   "comments": 59,
+   "author": "rbanffy",
+   "time_iso": "2026-10-26T18:31:39+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 122
+    }
+   ]
+  },
+  {
+   "id": "hn-50249275",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+   "hn_url": "https://news.ycombinator.com/item?id=50249275",
+   "score": 149,
+   "comments": 17,
+   "author": "robtherobber",
+   "time_iso": "2026-10-26T19:05:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 149
+    }
+   ]
+  },
+  {
+   "id": "hn-50250016",
+   "title": "Somebody please stop the spam texts",
+   "url": "https://notes.npilk.com/stop-the-spam-texts",
+   "hn_url": "https://news.ycombinator.com/item?id=50250016",
+   "score": 88,
+   "comments": 91,
+   "author": "npilk",
+   "time_iso": "2026-10-26T19:57:32+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 88
+    }
+   ]
+  },
+  {
+   "id": "hn-50250937",
+   "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+   "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+   "hn_url": "https://news.ycombinator.com/item?id=50250937",
+   "score": 19,
+   "comments": 0,
+   "author": "mooreds",
+   "time_iso": "2026-10-26T21:05:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T05:20:18.970694+08:00",
+     "score": 19
     }
    ]
   }
