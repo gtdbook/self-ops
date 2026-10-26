@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T11:11:22.460279+08:00",
+ "generated_at": "2026-10-26T17:41:29.226658+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
      "url": "https://lynchlab.net/llm-skin-cancer",
-     "meta": "+408 分 / 9.1 小时 · 现 ⭐ 470",
+     "meta": "+489 分 / 15.6 小时 · 现 ⭐ 551",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,47 @@
     {
      "title": "Dolly Parton's Imagination Library",
      "url": "https://imaginationlibrary.com/",
-     "meta": "+206 分 / 5.8 小时 · 现 ⭐ 428",
+     "meta": "+318 分 / 12.3 小时 · 现 ⭐ 540",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Overgrown, when plants invade your abandoned tabs",
+     "url": "https://charliegerard.dev/blog/overgrown-extension/",
+     "meta": "+266 分 / 12.3 小时 · 现 ⭐ 271",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "meta": "+232 分 / 9.9 小时 · 现 ⭐ 309",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "IBM CEO says open weight models are now good and cheap on-prem",
+     "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+     "meta": "+205 分 / 6.5 小时 · 现 ⭐ 241",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "meta": "+187 分 / 12.3 小时 · 现 ⭐ 225",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The State of Context Engineering",
+     "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+     "meta": "+180 分 / 12.3 小时 · 现 ⭐ 183",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,49 +80,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-     "meta": "+162 分 / 5.8 小时 · 现 ⭐ 413",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Overgrown, when plants invade your abandoned tabs",
-     "url": "https://charliegerard.dev/blog/overgrown-extension/",
-     "meta": "+161 分 / 5.8 小时 · 现 ⭐ 166",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "We should be more ambitious with the software we build",
      "url": "https://danluu.com/ambitious/",
-     "meta": "+113 分 / 9.1 小时 · 现 ⭐ 753",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Why I Am a Programmer",
-     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-     "meta": "+112 分 / 5.8 小时 · 现 ⭐ 150",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-     "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-     "meta": "+111 分 / 3.3 小时 · 现 ⭐ 152",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-     "url": "https://minimaxir.com/2026/10/cheap-llms/",
-     "meta": "+108 分 / 3.4 小时 · 现 ⭐ 185",
+     "meta": "+162 分 / 15.6 小时 · 现 ⭐ 802",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "pengchujin/aerial-tv",
      "url": "https://github.com/pengchujin/aerial-tv",
-     "meta": "⭐ 5163 · Kotlin",
+     "meta": "⭐ 5673 · Kotlin",
      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 2796 · C",
+     "meta": "⭐ 3367 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -262,41 +262,41 @@
      "origin_source": "github_search"
     },
     {
-     "title": "xevrion/hatchzip",
-     "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 1951 · Rust",
-     "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 1941 · Swift",
+     "meta": "⭐ 1995 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "ikow/php2shell-poc",
-     "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1796 · Python",
-     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "title": "xevrion/hatchzip",
+     "url": "https://github.com/xevrion/hatchzip",
+     "meta": "⭐ 1989 · Rust",
+     "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Jakeschincariol/day-trader-skill",
      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-     "meta": "⭐ 1673 · Python",
+     "meta": "⭐ 1812 · Python",
      "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1811 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1474 · C",
+     "meta": "⭐ 1540 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +304,7 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1439 · Python",
+     "meta": "⭐ 1459 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,32 +312,32 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1400 · JavaScript",
+     "meta": "⭐ 1406 · JavaScript",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "meta": "⭐ 1316 · Python",
+     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "colinhacks/reylo",
      "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1266 · Rust",
+     "meta": "⭐ 1277 · Rust",
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-     "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-     "meta": "⭐ 1005 · Shell",
-     "summary": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "ELY-Open-Source/ElyOffice",
-     "url": "https://github.com/ELY-Open-Source/ElyOffice",
-     "meta": "⭐ 992 · Rust",
-     "summary": "Ely Office: offline-first desktop apps in Rust and GPUI",
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 1142 · TypeScript",
+     "summary": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -357,6 +357,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "meta": "⭐ 802 · 💬 712",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Root shell on Samsung TV",
      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
      "meta": "⭐ 788 · 💬 607",
@@ -365,9 +373,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "We should be more ambitious with the software we build",
-     "url": "https://danluu.com/ambitious/",
-     "meta": "⭐ 753 · 💬 696",
+     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "meta": "⭐ 551 · 💬 237",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "url": "https://imaginationlibrary.com/",
+     "meta": "⭐ 540 · 💬 93",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -376,22 +392,6 @@
      "title": "The Goose Programming Language",
      "url": "https://aardappel.github.io/goose/",
      "meta": "⭐ 526 · 💬 323",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-     "url": "https://lynchlab.net/llm-skin-cancer",
-     "meta": "⭐ 470 · 💬 216",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Dolly Parton's Imagination Library",
-     "url": "https://imaginationlibrary.com/",
-     "meta": "⭐ 428 · 💬 79",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,41 +429,41 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "SpeedCrunch 1.1",
-     "url": "https://www.speedcrunch.org/",
-     "meta": "⭐ 206 · 💬 47",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-     "meta": "⭐ 185 · 💬 210",
+     "meta": "⭐ 309 · 💬 304",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-     "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-     "meta": "⭐ 175 · 💬 73",
+     "title": "Overgrown, when plants invade your abandoned tabs",
+     "url": "https://charliegerard.dev/blog/overgrown-extension/",
+     "meta": "⭐ 271 · 💬 94",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-     "url": "https://github.com/ihhub/fheroes2",
-     "meta": "⭐ 174 · 💬 57",
+     "title": "IBM CEO says open weight models are now good and cheap on-prem",
+     "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+     "meta": "⭐ 241 · 💬 139",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Small Programs and Languages",
-     "url": "https://ratfactor.com/cards/pl-small",
-     "meta": "⭐ 168 · 💬 26",
+     "title": "Show HN: TitleArt – Make text like it's 1997",
+     "url": "https://titleart.dvy.io/",
+     "meta": "⭐ 228 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "meta": "⭐ 225 · 💬 69",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -496,6 +496,14 @@
      "url": "https://www.producthunt.com/products/plango",
      "meta": "Product Hunt · 2026-10-22",
      "summary": "Use AI to defend against AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "omerta",
+     "url": "https://www.producthunt.com/products/omerta",
+     "meta": "Product Hunt · 2026-10-25",
+     "summary": "Catch .env secrets leaking into git",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -540,6 +548,22 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "AllModels",
+     "url": "https://www.producthunt.com/products/allmodels-io",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Explore every abliterated model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Flipcorder",
+     "url": "https://www.producthunt.com/products/flipcorder",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "A 1991 camcorder for your iPhone, one tape a day",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Notif",
      "url": "https://www.producthunt.com/products/notif-2",
      "meta": "Product Hunt · 2026-10-21",
@@ -568,30 +592,6 @@
      "url": "https://www.producthunt.com/products/lexmount-browser",
      "meta": "Product Hunt · 2026-10-13",
      "summary": "The fastest headless browser for agents and harnesses",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Inyon",
-     "url": "https://www.producthunt.com/products/inyon",
-     "meta": "Product Hunt · 2026-10-16",
-     "summary": "Answer your coding agents from your phone",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "pawl",
-     "url": "https://www.producthunt.com/products/pawl",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "a tiny mac focus timer you start by pulling a paw",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Byter",
-     "url": "https://www.producthunt.com/products/byter",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "Know exactly how much data you use, on every network",
      "reason": null,
      "origin_source": "producthunt"
     }

@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-26T11:11:20.810932+08:00",
- "count": 26,
+ "updated_at": "2026-10-26T17:41:27.858086+08:00",
+ "count": 27,
  "items": [
   {
    "id": "gh-1425429552",
@@ -145,7 +145,7 @@
    "id": "gh-1426780056",
    "title": "pengchujin/aerial-tv",
    "url": "https://github.com/pengchujin/aerial-tv",
-   "stars": 5163,
+   "stars": 5673,
    "language": "Kotlin",
    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
    "created_at": "2026-10-20T09:13:06Z",
@@ -165,6 +165,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 5163
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 5673
     }
    ]
   },
@@ -187,7 +191,7 @@
    "id": "gh-1427107663",
    "title": "eagle-hq/EAGLE-4",
    "url": "https://github.com/eagle-hq/EAGLE-4",
-   "stars": 992,
+   "stars": 999,
    "language": "Python",
    "description": "Official Inference Code of EAGLE-4",
    "created_at": "2026-10-20T14:03:04Z",
@@ -207,6 +211,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 992
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 999
     }
    ]
   },
@@ -214,7 +222,7 @@
    "id": "gh-1427126014",
    "title": "Jakeschincariol/day-trader-skill",
    "url": "https://github.com/Jakeschincariol/day-trader-skill",
-   "stars": 1673,
+   "stars": 1812,
    "language": "Python",
    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
    "created_at": "2026-10-20T14:17:54Z",
@@ -234,6 +242,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1673
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1812
     }
    ]
   },
@@ -241,7 +253,7 @@
    "id": "gh-1427329124",
    "title": "NVIDIA/flare-local-inference",
    "url": "https://github.com/NVIDIA/flare-local-inference",
-   "stars": 660,
+   "stars": 664,
    "language": "Python",
    "description": "",
    "created_at": "2026-10-20T17:09:40Z",
@@ -249,6 +261,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 660
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 664
     }
    ]
   },
@@ -256,7 +272,7 @@
    "id": "gh-1427696883",
    "title": "colinhacks/reylo",
    "url": "https://github.com/colinhacks/reylo",
-   "stars": 1266,
+   "stars": 1277,
    "language": "Rust",
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "created_at": "2026-10-21T00:16:54Z",
@@ -276,6 +292,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1266
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1277
     }
    ]
   },
@@ -283,7 +303,7 @@
    "id": "gh-1427704805",
    "title": "openai/php2shell-checker",
    "url": "https://github.com/openai/php2shell-checker",
-   "stars": 1400,
+   "stars": 1406,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-10-21T00:29:12Z",
@@ -303,6 +323,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1400
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1406
     }
    ]
   },
@@ -310,7 +334,7 @@
    "id": "gh-1427861485",
    "title": "lyramakesmusic/neuron-explorer",
    "url": "https://github.com/lyramakesmusic/neuron-explorer",
-   "stars": 787,
+   "stars": 967,
    "language": "Python",
    "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
    "created_at": "2026-10-21T04:09:05Z",
@@ -318,6 +342,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 787
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 967
     }
    ]
   },
@@ -325,7 +353,7 @@
    "id": "gh-1428058681",
    "title": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
-   "stars": 1796,
+   "stars": 1811,
    "language": "Python",
    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
    "created_at": "2026-10-21T07:55:16Z",
@@ -345,6 +373,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1796
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1811
     }
    ]
   },
@@ -352,7 +384,7 @@
    "id": "gh-1428098303",
    "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "stars": 1005,
+   "stars": 1013,
    "language": "Shell",
    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
    "created_at": "2026-10-21T08:31:43Z",
@@ -372,6 +404,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1005
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1013
     }
    ]
   },
@@ -379,7 +415,7 @@
    "id": "gh-1428268121",
    "title": "9bie/php2shell-bypass-aslr-exp",
    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-   "stars": 1439,
+   "stars": 1459,
    "language": "Python",
    "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
    "created_at": "2026-10-21T11:11:57Z",
@@ -399,6 +435,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1439
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1459
     }
    ]
   },
@@ -406,7 +446,7 @@
    "id": "gh-1428714039",
    "title": "xevrion/hatchzip",
    "url": "https://github.com/xevrion/hatchzip",
-   "stars": 1951,
+   "stars": 1989,
    "language": "Rust",
    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
    "created_at": "2026-10-21T17:29:28Z",
@@ -426,6 +466,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1951
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1989
     }
    ]
   },
@@ -433,7 +477,7 @@
    "id": "gh-1428848843",
    "title": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
-   "stars": 1941,
+   "stars": 1995,
    "language": "Swift",
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "created_at": "2026-10-21T19:38:50Z",
@@ -453,6 +497,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1941
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1995
     }
    ]
   },
@@ -460,7 +508,7 @@
    "id": "gh-1429116361",
    "title": "Snapintosh/Snapintosh",
    "url": "https://github.com/Snapintosh/Snapintosh",
-   "stars": 946,
+   "stars": 958,
    "language": "Python",
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "created_at": "2026-10-22T01:40:05Z",
@@ -480,6 +528,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 946
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 958
     }
    ]
   },
@@ -487,7 +539,7 @@
    "id": "gh-1429213407",
    "title": "assetnote/php2shell-scanner",
    "url": "https://github.com/assetnote/php2shell-scanner",
-   "stars": 905,
+   "stars": 913,
    "language": "Python",
    "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
    "created_at": "2026-10-22T03:53:20Z",
@@ -507,6 +559,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 905
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 913
     }
    ]
   },
@@ -514,7 +570,7 @@
    "id": "gh-1429328794",
    "title": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "stars": 1474,
+   "stars": 1540,
    "language": "C",
    "description": "",
    "created_at": "2026-10-22T06:20:11Z",
@@ -534,6 +590,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 1474
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1540
     }
    ]
   },
@@ -541,7 +601,7 @@
    "id": "gh-1430513158",
    "title": "morganlinton/BeautifulRust",
    "url": "https://github.com/morganlinton/BeautifulRust",
-   "stars": 800,
+   "stars": 939,
    "language": "Python",
    "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
    "created_at": "2026-10-23T03:01:11Z",
@@ -549,6 +609,25 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 800
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 939
+    }
+   ]
+  },
+  {
+   "id": "gh-1431010194",
+   "title": "enesozturk/dimensional-drawing",
+   "url": "https://github.com/enesozturk/dimensional-drawing",
+   "stars": 671,
+   "language": "HTML",
+   "description": "",
+   "created_at": "2026-10-23T12:20:16Z",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 671
     }
    ]
   },
@@ -556,7 +635,7 @@
    "id": "gh-1431545439",
    "title": "JustAResearcher/gpu-unlock-ada",
    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-   "stars": 2796,
+   "stars": 3367,
    "language": "C",
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "created_at": "2026-10-23T21:00:53Z",
@@ -576,6 +655,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 2796
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 3367
     }
    ]
   },
@@ -583,7 +666,7 @@
    "id": "gh-1431851693",
    "title": "rddmwmddr/android-ad-cleaner",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "stars": 945,
+   "stars": 1316,
    "language": "Python",
    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "created_at": "2026-10-24T05:35:47Z",
@@ -591,6 +674,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 945
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1316
     }
    ]
   },
@@ -598,7 +685,7 @@
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "stars": 733,
+   "stars": 1142,
    "language": "TypeScript",
    "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
    "created_at": "2026-10-25T08:27:22Z",
@@ -606,6 +693,10 @@
     {
      "t": "2026-10-26T11:11:20.810932+08:00",
      "score": 733
+    },
+    {
+     "t": "2026-10-26T17:41:27.858086+08:00",
+     "score": 1142
     }
    ]
   }

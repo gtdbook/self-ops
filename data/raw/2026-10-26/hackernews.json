@@ -1,15 +1,15 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-26T11:11:19.951916+08:00",
- "count": 55,
+ "updated_at": "2026-10-26T17:41:27.041155+08:00",
+ "count": 66,
  "items": [
   {
    "id": "hn-50185534",
-   "title": "Amazon's \"digital pacifier\" for toddlers",
+   "title": "Amazon’s “digital pacifier” for toddlers",
    "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
    "hn_url": "https://news.ycombinator.com/item?id=50185534",
-   "score": 109,
-   "comments": 163,
+   "score": 190,
+   "comments": 268,
    "author": "jumploops",
    "time_iso": "2026-10-21T18:37:48+00:00",
    "history": [
@@ -20,6 +20,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 190
     }
    ]
   },
@@ -116,8 +120,8 @@
    "title": "Overgrown, when plants invade your abandoned tabs",
    "url": "https://charliegerard.dev/blog/overgrown-extension/",
    "hn_url": "https://news.ycombinator.com/item?id=50197108",
-   "score": 166,
-   "comments": 45,
+   "score": 271,
+   "comments": 94,
    "author": "speckx",
    "time_iso": "2026-10-22T15:52:21+00:00",
    "history": [
@@ -132,6 +136,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 166
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 271
     }
    ]
   },
@@ -172,14 +180,18 @@
    "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
    "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
    "hn_url": "https://news.ycombinator.com/item?id=50200957",
-   "score": 11,
-   "comments": 1,
+   "score": 74,
+   "comments": 18,
    "author": "janandonly",
    "time_iso": "2026-10-22T21:00:14+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 74
     }
    ]
   },
@@ -220,6 +232,38 @@
    ]
   },
   {
+   "id": "hn-50209278",
+   "title": "Growing Trees",
+   "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50209278",
+   "score": 52,
+   "comments": 5,
+   "author": "ibobev",
+   "time_iso": "2026-10-23T14:07:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50210181",
+   "title": "Superhuman Hardware Design Is the Easy Part",
+   "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+   "hn_url": "https://news.ycombinator.com/item?id=50210181",
+   "score": 14,
+   "comments": 2,
+   "author": "gmays",
+   "time_iso": "2026-10-23T14:59:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
    "id": "hn-50213610",
    "title": "Making the Buddha Head from Merv Whole Again",
    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
@@ -236,6 +280,22 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50215997",
+   "title": "Birdwatching rewires the brain and slows cognitive decline",
+   "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+   "hn_url": "https://news.ycombinator.com/item?id=50215997",
+   "score": 12,
+   "comments": 2,
+   "author": "cisc",
+   "time_iso": "2026-10-23T22:04:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 12
     }
    ]
   },
@@ -356,8 +416,8 @@
    "title": "We should be more ambitious with the software we build",
    "url": "https://danluu.com/ambitious/",
    "hn_url": "https://news.ycombinator.com/item?id=50225695",
-   "score": 753,
-   "comments": 696,
+   "score": 802,
+   "comments": 712,
    "author": "ltratt",
    "time_iso": "2026-10-24T21:47:31+00:00",
    "history": [
@@ -376,6 +436,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 753
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 802
     }
    ]
   },
@@ -384,14 +448,18 @@
    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
    "url": "https://adrs.systems",
    "hn_url": "https://news.ycombinator.com/item?id=50227041",
-   "score": 8,
-   "comments": 5,
+   "score": 43,
+   "comments": 23,
    "author": "lumbroso",
    "time_iso": "2026-10-25T00:43:47+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 43
     }
    ]
   },
@@ -432,6 +500,22 @@
     {
      "t": "2026-10-26T05:25:18.792259+08:00",
      "score": 339
+    }
+   ]
+  },
+  {
+   "id": "hn-50228115",
+   "title": "Show HN: A Truly Modular Keyboard",
+   "url": "https://github.com/notaroomba/keybytes",
+   "hn_url": "https://news.ycombinator.com/item?id=50228115",
+   "score": 154,
+   "comments": 43,
+   "author": "NotARoomba",
+   "time_iso": "2026-10-25T03:47:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 154
     }
    ]
   },
@@ -640,8 +724,8 @@
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "hn_url": "https://news.ycombinator.com/item?id=50233779",
-   "score": 470,
-   "comments": 216,
+   "score": 551,
+   "comments": 237,
    "author": "sungam",
    "time_iso": "2026-10-25T17:15:38+00:00",
    "history": [
@@ -660,6 +744,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 470
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 551
     }
    ]
   },
@@ -752,8 +840,8 @@
    "title": "Dolly Parton's Imagination Library",
    "url": "https://imaginationlibrary.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50234474",
-   "score": 428,
-   "comments": 79,
+   "score": 540,
+   "comments": 93,
    "author": "jumploops",
    "time_iso": "2026-10-25T18:23:54+00:00",
    "history": [
@@ -768,6 +856,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 428
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 540
     }
    ]
   },
@@ -820,8 +912,8 @@
    "title": "Why I Am a Programmer",
    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235017",
-   "score": 150,
-   "comments": 56,
+   "score": 225,
+   "comments": 69,
    "author": "jruohonen",
    "time_iso": "2026-10-25T19:11:31+00:00",
    "history": [
@@ -836,6 +928,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 150
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 225
     }
    ]
   },
@@ -928,8 +1024,8 @@
    "title": "The State of Context Engineering",
    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
    "hn_url": "https://news.ycombinator.com/item?id=50235780",
-   "score": 97,
-   "comments": 28,
+   "score": 183,
+   "comments": 42,
    "author": "pchristensen",
    "time_iso": "2026-10-25T20:32:31+00:00",
    "history": [
@@ -944,6 +1040,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 97
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 183
     }
    ]
   },
@@ -968,8 +1068,8 @@
    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
    "url": "https://minimaxir.com/2026/10/cheap-llms/",
    "hn_url": "https://news.ycombinator.com/item?id=50236102",
-   "score": 185,
-   "comments": 210,
+   "score": 309,
+   "comments": 304,
    "author": "minimaxir",
    "time_iso": "2026-10-25T21:11:31+00:00",
    "history": [
@@ -980,6 +1080,10 @@
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 185
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 309
     }
    ]
   },
@@ -988,14 +1092,18 @@
    "title": "F-Zero X on Nintendo 3DS",
    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50237078",
-   "score": 71,
-   "comments": 34,
+   "score": 116,
+   "comments": 58,
    "author": "bpierre",
    "time_iso": "2026-10-25T23:27:30+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 116
     }
    ]
   },
@@ -1004,14 +1112,34 @@
    "title": "Attention Is Not What You Need (2025)",
    "url": "https://arxiv.org/abs/2512.19428",
    "hn_url": "https://news.ycombinator.com/item?id=50237224",
-   "score": 36,
-   "comments": 15,
+   "score": 105,
+   "comments": 37,
    "author": "westurner",
    "time_iso": "2026-10-25T23:52:05+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 36
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 105
+    }
+   ]
+  },
+  {
+   "id": "hn-50237379",
+   "title": "Steal My Bitcoin CTF PoC",
+   "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+   "hn_url": "https://news.ycombinator.com/item?id=50237379",
+   "score": 112,
+   "comments": 23,
+   "author": "davikr",
+   "time_iso": "2026-10-26T00:15:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 112
     }
    ]
   },
@@ -1020,14 +1148,18 @@
    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
    "hn_url": "https://news.ycombinator.com/item?id=50237712",
-   "score": 27,
-   "comments": 5,
+   "score": 136,
+   "comments": 76,
    "author": "textlanes33",
    "time_iso": "2026-10-26T01:03:39+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 136
     }
    ]
   },
@@ -1049,17 +1181,117 @@
   },
   {
    "id": "hn-50238088",
-   "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+   "title": "IBM CEO says open weight models are now good and cheap on-prem",
    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
    "hn_url": "https://news.ycombinator.com/item?id=50238088",
-   "score": 36,
-   "comments": 1,
+   "score": 241,
+   "comments": 139,
    "author": "Betelbuddy",
    "time_iso": "2026-10-26T01:47:46+00:00",
    "history": [
     {
      "t": "2026-10-26T11:11:19.951916+08:00",
      "score": 36
+    },
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 241
+    }
+   ]
+  },
+  {
+   "id": "hn-50238620",
+   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+   "hn_url": "https://news.ycombinator.com/item?id=50238620",
+   "score": 58,
+   "comments": 23,
+   "author": "gmays",
+   "time_iso": "2026-10-26T03:12:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 58
+    }
+   ]
+  },
+  {
+   "id": "hn-50238708",
+   "title": "Show HN: TitleArt – Make text like it's 1997",
+   "url": "https://titleart.dvy.io/",
+   "hn_url": "https://news.ycombinator.com/item?id=50238708",
+   "score": 228,
+   "comments": 36,
+   "author": "davidbarker",
+   "time_iso": "2026-10-26T03:23:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 228
+    }
+   ]
+  },
+  {
+   "id": "hn-50238739",
+   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "hn_url": "https://news.ycombinator.com/item?id=50238739",
+   "score": 132,
+   "comments": 30,
+   "author": "vardhan1237",
+   "time_iso": "2026-10-26T03:29:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 132
+    }
+   ]
+  },
+  {
+   "id": "hn-50238763",
+   "title": "Behind the scenes at the NeXT Computer office",
+   "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+   "hn_url": "https://news.ycombinator.com/item?id=50238763",
+   "score": 108,
+   "comments": 49,
+   "author": "Austin_Conlon",
+   "time_iso": "2026-10-26T03:31:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50239748",
+   "title": "The result of the C++26 DIS ballot",
+   "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+   "hn_url": "https://news.ycombinator.com/item?id=50239748",
+   "score": 46,
+   "comments": 33,
+   "author": "uasi",
+   "time_iso": "2026-10-26T06:11:52+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50240922",
+   "title": "Switzerland. Block by block. At 1:1 scale",
+   "url": "https://blocks.manifold3d.ch/",
+   "hn_url": "https://news.ycombinator.com/item?id=50240922",
+   "score": 53,
+   "comments": 5,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-26T08:46:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-26T17:41:27.041155+08:00",
+     "score": 53
     }
    ]
   }
