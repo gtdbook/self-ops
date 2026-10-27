@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-27T09:06:56.090386+08:00",
- "count": 49,
+ "updated_at": "2026-10-27T15:17:04.798291+08:00",
+ "count": 58,
  "items": [
   {
    "id": "hn-50197108",
@@ -24,8 +24,8 @@
    "title": "Blaise Pascal invented fixed route public transport (2024)",
    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
    "hn_url": "https://news.ycombinator.com/item?id=50200152",
-   "score": 261,
-   "comments": 136,
+   "score": 281,
+   "comments": 145,
    "author": "skadamat",
    "time_iso": "2026-10-22T19:52:50+00:00",
    "history": [
@@ -40,6 +40,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 261
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 281
     }
    ]
   },
@@ -48,14 +52,18 @@
    "title": "A Printer Printing onto Paper",
    "url": "https://twitter.com/macrofying/status/2112904628509528219",
    "hn_url": "https://news.ycombinator.com/item?id=50204697",
-   "score": 49,
-   "comments": 10,
+   "score": 105,
+   "comments": 25,
    "author": "MrBuddyCasino",
    "time_iso": "2026-10-23T05:01:30+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 105
     }
    ]
   },
@@ -148,6 +156,22 @@
    ]
   },
   {
+   "id": "hn-50212625",
+   "title": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+   "url": "https://johnhendersontravel.com/txoko/",
+   "hn_url": "https://news.ycombinator.com/item?id=50212625",
+   "score": 11,
+   "comments": 2,
+   "author": "jxub",
+   "time_iso": "2026-10-23T17:37:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
    "id": "hn-50212764",
    "title": "Who killed the EV cert? A browser whodunit for Halloween",
    "url": "https://qwac.com/blog/who-killed-the-ev-cert",
@@ -204,6 +228,22 @@
    ]
   },
   {
+   "id": "hn-50226808",
+   "title": "Virtual and Real World Combine at LAN Party (1998)",
+   "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50226808",
+   "score": 43,
+   "comments": 6,
+   "author": "npunt",
+   "time_iso": "2026-10-25T00:07:19+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
    "id": "hn-50228115",
    "title": "Show HN: A Truly Modular Keyboard",
    "url": "https://github.com/notaroomba/keybytes",
@@ -224,14 +264,18 @@
    "title": "LISPy things you can do in 64K bytes of core (2019)",
    "url": "https://t3x.org/lisp64k/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50231041",
-   "score": 19,
-   "comments": 1,
+   "score": 53,
+   "comments": 9,
    "author": "andsoitis",
    "time_iso": "2026-10-25T12:53:47+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 19
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 53
     }
    ]
   },
@@ -248,6 +292,22 @@
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 632
+    }
+   ]
+  },
+  {
+   "id": "hn-50234707",
+   "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+   "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+   "hn_url": "https://news.ycombinator.com/item?id=50234707",
+   "score": 31,
+   "comments": 4,
+   "author": "rbanffy",
+   "time_iso": "2026-10-25T18:43:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 31
     }
    ]
   },
@@ -340,6 +400,22 @@
    ]
   },
   {
+   "id": "hn-50240465",
+   "title": "How to grow a cacao tree at home (2024)",
+   "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+   "hn_url": "https://news.ycombinator.com/item?id=50240465",
+   "score": 53,
+   "comments": 15,
+   "author": "felipevb",
+   "time_iso": "2026-10-26T07:50:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 53
+    }
+   ]
+  },
+  {
    "id": "hn-50240922",
    "title": "Switzerland. Block by block. At 1:1 scale",
    "url": "https://blocks.manifold3d.ch/",
@@ -364,8 +440,8 @@
    "title": "Websites Should Be Printable",
    "url": "https://brennenputh.me/blog/printable-websites/",
    "hn_url": "https://news.ycombinator.com/item?id=50241664",
-   "score": 262,
-   "comments": 172,
+   "score": 316,
+   "comments": 187,
    "author": "bagatelle",
    "time_iso": "2026-10-26T10:32:14+00:00",
    "history": [
@@ -376,6 +452,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 262
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 316
     }
    ]
   },
@@ -444,8 +524,8 @@
    "title": "Anthropic S-1",
    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "hn_url": "https://news.ycombinator.com/item?id=50242939",
-   "score": 1461,
-   "comments": 1429,
+   "score": 1576,
+   "comments": 1510,
    "author": "SiNTEx",
    "time_iso": "2026-10-26T13:04:50+00:00",
    "history": [
@@ -460,6 +540,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 1461
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 1576
     }
    ]
   },
@@ -468,14 +552,18 @@
    "title": "New iPad mini",
    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
    "hn_url": "https://news.ycombinator.com/item?id=50243061",
-   "score": 126,
-   "comments": 379,
+   "score": 189,
+   "comments": 475,
    "author": "soheilpro",
    "time_iso": "2026-10-26T13:13:36+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 126
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 189
     }
    ]
   },
@@ -516,8 +604,8 @@
    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "hn_url": "https://news.ycombinator.com/item?id=50245138",
-   "score": 541,
-   "comments": 81,
+   "score": 667,
+   "comments": 93,
    "author": "sgiannopoulos",
    "time_iso": "2026-10-26T15:11:59+00:00",
    "history": [
@@ -532,6 +620,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 541
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 667
     }
    ]
   },
@@ -556,14 +648,18 @@
    "title": "Solar power is becoming bigger than nuclear",
    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
    "hn_url": "https://news.ycombinator.com/item?id=50245385",
-   "score": 116,
-   "comments": 217,
+   "score": 247,
+   "comments": 384,
    "author": "geox",
    "time_iso": "2026-10-26T15:26:17+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 116
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 247
     }
    ]
   },
@@ -592,8 +688,8 @@
    "title": "CSS-Tricks has a new owner",
    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "hn_url": "https://news.ycombinator.com/item?id=50245831",
-   "score": 375,
-   "comments": 88,
+   "score": 436,
+   "comments": 96,
    "author": "edent",
    "time_iso": "2026-10-26T15:51:23+00:00",
    "history": [
@@ -608,6 +704,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 375
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 436
     }
    ]
   },
@@ -652,8 +752,8 @@
    "title": "Nietzschian Debugger",
    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
    "hn_url": "https://news.ycombinator.com/item?id=50247493",
-   "score": 126,
-   "comments": 40,
+   "score": 165,
+   "comments": 51,
    "author": "dilawargopang",
    "time_iso": "2026-10-26T17:25:30+00:00",
    "history": [
@@ -664,6 +764,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 126
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 165
     }
    ]
   },
@@ -672,8 +776,8 @@
    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
    "hn_url": "https://news.ycombinator.com/item?id=50247928",
-   "score": 111,
-   "comments": 59,
+   "score": 159,
+   "comments": 76,
    "author": "aray07",
    "time_iso": "2026-10-26T17:49:55+00:00",
    "history": [
@@ -684,6 +788,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 111
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 159
     }
    ]
   },
@@ -708,8 +816,8 @@
    "title": "Oldest GUI application that still runs on Windows 11",
    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
    "hn_url": "https://news.ycombinator.com/item?id=50248055",
-   "score": 270,
-   "comments": 177,
+   "score": 379,
+   "comments": 218,
    "author": "enlyth",
    "time_iso": "2026-10-26T17:56:55+00:00",
    "history": [
@@ -720,6 +828,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 270
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 379
     }
    ]
   },
@@ -748,8 +860,8 @@
    "title": "Type Server Protocol",
    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
    "hn_url": "https://news.ycombinator.com/item?id=50248371",
-   "score": 186,
-   "comments": 135,
+   "score": 229,
+   "comments": 150,
    "author": "adamnemecek",
    "time_iso": "2026-10-26T18:14:49+00:00",
    "history": [
@@ -760,6 +872,10 @@
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 186
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 229
     }
    ]
   },
@@ -829,17 +945,21 @@
   },
   {
    "id": "hn-50251344",
-   "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+   "title": "Three new discoveries in mathematics, computer science, and physics",
    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
    "hn_url": "https://news.ycombinator.com/item?id=50251344",
-   "score": 379,
-   "comments": 143,
+   "score": 777,
+   "comments": 347,
    "author": "jonluca",
    "time_iso": "2026-10-26T21:35:28+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 379
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 777
     }
    ]
   },
@@ -848,14 +968,18 @@
    "title": "The Exponential Time Hypothesis Is False [pdf]",
    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50251661",
-   "score": 235,
-   "comments": 97,
+   "score": 543,
+   "comments": 196,
    "author": "vok",
    "time_iso": "2026-10-26T21:59:15+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 235
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 543
     }
    ]
   },
@@ -880,14 +1004,98 @@
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "hn_url": "https://news.ycombinator.com/item?id=50252159",
-   "score": 57,
-   "comments": 11,
+   "score": 121,
+   "comments": 39,
    "author": "wondersky",
    "time_iso": "2026-10-26T22:41:48+00:00",
    "history": [
     {
      "t": "2026-10-27T09:06:56.090386+08:00",
      "score": 57
+    },
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50253529",
+   "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+   "url": "https://github.com/otya128/winevdm",
+   "hn_url": "https://news.ycombinator.com/item?id=50253529",
+   "score": 74,
+   "comments": 6,
+   "author": "doener",
+   "time_iso": "2026-10-27T01:15:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 74
+    }
+   ]
+  },
+  {
+   "id": "hn-50253939",
+   "title": "I still teach OpenGL ES 3.0",
+   "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50253939",
+   "score": 37,
+   "comments": 17,
+   "author": "majorchord",
+   "time_iso": "2026-10-27T02:15:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
+   "id": "hn-50255177",
+   "title": "Writing about pratt parsing so I remember it",
+   "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50255177",
+   "score": 8,
+   "comments": 0,
+   "author": "dverlaeckt80",
+   "time_iso": "2026-10-27T06:02:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50255298",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50255298",
+   "score": 4,
+   "comments": 2,
+   "author": "ilreb",
+   "time_iso": "2026-10-27T06:25:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50255406",
+   "title": "A simplified proof of ETH is False [pdf]",
+   "url": "https://shivakintali.github.io/papers/ETH.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50255406",
+   "score": 3,
+   "comments": 0,
+   "author": "porridgeraisin",
+   "time_iso": "2026-10-27T06:45:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:04.798291+08:00",
+     "score": 3
     }
    ]
   }

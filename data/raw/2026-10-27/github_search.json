@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-27T09:06:56.823974+08:00",
- "count": 23,
+ "updated_at": "2026-10-27T15:17:05.483212+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1426780056",
@@ -64,7 +64,7 @@
    "id": "gh-1427696883",
    "title": "colinhacks/reylo",
    "url": "https://github.com/colinhacks/reylo",
-   "stars": 1315,
+   "stars": 1323,
    "language": "Rust",
    "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
    "created_at": "2026-10-21T00:16:54Z",
@@ -80,6 +80,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1315
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1323
     }
    ]
   },
@@ -87,7 +91,7 @@
    "id": "gh-1427704805",
    "title": "openai/php2shell-checker",
    "url": "https://github.com/openai/php2shell-checker",
-   "stars": 1423,
+   "stars": 1428,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-10-21T00:29:12Z",
@@ -103,6 +107,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1423
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1428
     }
    ]
   },
@@ -110,7 +118,7 @@
    "id": "gh-1427861485",
    "title": "lyramakesmusic/neuron-explorer",
    "url": "https://github.com/lyramakesmusic/neuron-explorer",
-   "stars": 1255,
+   "stars": 1326,
    "language": "Python",
    "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
    "created_at": "2026-10-21T04:09:05Z",
@@ -126,6 +134,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1255
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1326
     }
    ]
   },
@@ -133,7 +145,7 @@
    "id": "gh-1428058681",
    "title": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
-   "stars": 1832,
+   "stars": 1847,
    "language": "Python",
    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
    "created_at": "2026-10-21T07:55:16Z",
@@ -149,6 +161,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1832
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1847
     }
    ]
   },
@@ -156,7 +172,7 @@
    "id": "gh-1428098303",
    "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "stars": 1019,
+   "stars": 1025,
    "language": "Shell",
    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
    "created_at": "2026-10-21T08:31:43Z",
@@ -172,6 +188,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1019
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1025
     }
    ]
   },
@@ -179,7 +199,7 @@
    "id": "gh-1428268121",
    "title": "9bie/php2shell-bypass-aslr-exp",
    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-   "stars": 1477,
+   "stars": 1484,
    "language": "Python",
    "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
    "created_at": "2026-10-21T11:11:57Z",
@@ -195,6 +215,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1477
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1484
     }
    ]
   },
@@ -217,7 +241,7 @@
    "id": "gh-1428714039",
    "title": "xevrion/hatchzip",
    "url": "https://github.com/xevrion/hatchzip",
-   "stars": 2058,
+   "stars": 2076,
    "language": "Rust",
    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
    "created_at": "2026-10-21T17:29:28Z",
@@ -233,6 +257,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 2058
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 2076
     }
    ]
   },
@@ -240,7 +268,7 @@
    "id": "gh-1428848843",
    "title": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
-   "stars": 2073,
+   "stars": 2111,
    "language": "Swift",
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "created_at": "2026-10-21T19:38:50Z",
@@ -256,6 +284,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 2073
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 2111
     }
    ]
   },
@@ -263,7 +295,7 @@
    "id": "gh-1429116361",
    "title": "Snapintosh/Snapintosh",
    "url": "https://github.com/Snapintosh/Snapintosh",
-   "stars": 981,
+   "stars": 993,
    "language": "Python",
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "created_at": "2026-10-22T01:40:05Z",
@@ -279,6 +311,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 981
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 993
     }
    ]
   },
@@ -286,7 +322,7 @@
    "id": "gh-1429213407",
    "title": "assetnote/php2shell-scanner",
    "url": "https://github.com/assetnote/php2shell-scanner",
-   "stars": 929,
+   "stars": 935,
    "language": "Python",
    "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
    "created_at": "2026-10-22T03:53:20Z",
@@ -302,6 +338,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 929
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 935
     }
    ]
   },
@@ -309,7 +349,7 @@
    "id": "gh-1429328794",
    "title": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "stars": 1668,
+   "stars": 1730,
    "language": "C",
    "description": "",
    "created_at": "2026-10-22T06:20:11Z",
@@ -325,6 +365,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1668
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1730
     }
    ]
   },
@@ -332,7 +376,7 @@
    "id": "gh-1430513158",
    "title": "morganlinton/BeautifulRust",
    "url": "https://github.com/morganlinton/BeautifulRust",
-   "stars": 1217,
+   "stars": 1244,
    "language": "Python",
    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
    "created_at": "2026-10-23T03:01:11Z",
@@ -348,6 +392,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1217
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1244
     }
    ]
   },
@@ -355,7 +403,7 @@
    "id": "gh-1431010194",
    "title": "enesozturk/dimensional-drawing",
    "url": "https://github.com/enesozturk/dimensional-drawing",
-   "stars": 1012,
+   "stars": 1075,
    "language": "HTML",
    "description": "",
    "created_at": "2026-10-23T12:20:16Z",
@@ -371,6 +419,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1012
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1075
     }
    ]
   },
@@ -378,7 +430,7 @@
    "id": "gh-1431545439",
    "title": "JustAResearcher/gpu-unlock-ada",
    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-   "stars": 3837,
+   "stars": 3988,
    "language": "C",
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "created_at": "2026-10-23T21:00:53Z",
@@ -394,6 +446,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 3837
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 3988
     }
    ]
   },
@@ -401,7 +457,7 @@
    "id": "gh-1431830406",
    "title": "t3dotgg/tstack",
    "url": "https://github.com/t3dotgg/tstack",
-   "stars": 1564,
+   "stars": 1697,
    "language": "Python",
    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
    "created_at": "2026-10-24T05:00:20Z",
@@ -417,6 +473,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1564
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1697
     }
    ]
   },
@@ -424,7 +484,7 @@
    "id": "gh-1431851693",
    "title": "rddmwmddr/android-ad-cleaner",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "stars": 1914,
+   "stars": 2455,
    "language": "Python",
    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "created_at": "2026-10-24T05:35:47Z",
@@ -440,6 +500,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1914
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 2455
     }
    ]
   },
@@ -447,7 +511,7 @@
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "stars": 1677,
+   "stars": 1979,
    "language": "TypeScript",
    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
    "created_at": "2026-10-25T08:27:22Z",
@@ -463,6 +527,10 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 1677
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 1979
     }
    ]
   },
@@ -482,10 +550,25 @@
    ]
   },
   {
+   "id": "gh-1433377156",
+   "title": "unclebob/ub-mode",
+   "url": "https://github.com/unclebob/ub-mode",
+   "stars": 972,
+   "language": "",
+   "description": "",
+   "created_at": "2026-10-25T16:04:09Z",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 972
+    }
+   ]
+  },
+  {
    "id": "gh-1433653089",
    "title": "KillaBoi/StealMyBitcoin-PoC",
    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "stars": 844,
+   "stars": 882,
    "language": "Python",
    "description": "A public release of the Steal My Bitcoin challenge",
    "created_at": "2026-10-25T21:48:32Z",
@@ -493,6 +576,25 @@
     {
      "t": "2026-10-27T09:06:56.823974+08:00",
      "score": 844
+    },
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 882
+    }
+   ]
+  },
+  {
+   "id": "gh-1433904617",
+   "title": "andyhuo520/digital-human-koubo",
+   "url": "https://github.com/andyhuo520/digital-human-koubo",
+   "stars": 877,
+   "language": "TypeScript",
+   "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+   "created_at": "2026-10-26T04:34:09Z",
+   "history": [
+    {
+     "t": "2026-10-27T15:17:05.483212+08:00",
+     "score": 877
     }
    ]
   }

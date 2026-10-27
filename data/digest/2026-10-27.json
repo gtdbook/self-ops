@@ -1,12 +1,35 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T09:06:57.865996+08:00",
+ "generated_at": "2026-10-27T15:17:06.714987+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "New iPad mini",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：iPad mini 8",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
    "errors": [],
    "items": [
+    {
+     "title": "Anthropic S-1",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+     "meta": "+728 分 / 14.8 小时 · 现 ⭐ 1576",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
@@ -16,17 +39,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Anthropic S-1",
-     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "meta": "+613 分 / 8.6 小时 · 现 ⭐ 1461",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "+429 分 / 8.6 小时 · 现 ⭐ 541",
+     "meta": "+555 分 / 14.8 小时 · 现 ⭐ 667",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +49,31 @@
     {
      "title": "CSS-Tricks has a new owner",
      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "+359 分 / 8.6 小时 · 现 ⭐ 375",
+     "meta": "+420 分 / 14.8 小时 · 现 ⭐ 436",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Three new discoveries in mathematics, computer science, and physics",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+     "meta": "+398 分 / 6.2 小时 · 现 ⭐ 777",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Exponential Time Hypothesis Is False [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+     "meta": "+308 分 / 6.2 小时 · 现 ⭐ 543",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oldest GUI application that still runs on Windows 11",
+     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+     "meta": "+210 分 / 9.9 小时 · 现 ⭐ 379",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -48,41 +87,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Websites Should Be Printable",
+     "url": "https://brennenputh.me/blog/printable-websites/",
+     "meta": "+145 分 / 14.8 小时 · 现 ⭐ 316",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
      "meta": "+141 分 / 8.6 小时 · 现 ⭐ 169",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Pharo 14",
-     "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-     "meta": "+128 分 / 8.6 小时 · 现 ⭐ 237",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "GPT-6.1 Terra",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-     "meta": "+119 分 / 3.8 小时 · 现 ⭐ 488",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Blaise Pascal invented fixed route public transport (2024)",
-     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "+111 分 / 8.6 小时 · 现 ⭐ 261",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Oldest GUI application that still runs on Windows 11",
-     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-     "meta": "+101 分 / 3.8 小时 · 现 ⭐ 270",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -232,15 +247,23 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 3837 · C",
+     "meta": "⭐ 3988 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "meta": "⭐ 2455 · Python",
+     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 2073 · Swift",
+     "meta": "⭐ 2111 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +271,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 2058 · Rust",
+     "meta": "⭐ 2076 · Rust",
      "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
@@ -262,33 +285,25 @@
      "origin_source": "github_search"
     },
     {
-     "title": "rddmwmddr/android-ad-cleaner",
-     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 1914 · Python",
-     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 1979 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ikow/php2shell-poc",
      "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1832 · Python",
+     "meta": "⭐ 1847 · Python",
      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "designfuchen/word-atlas",
-     "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 1677 · TypeScript",
-     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1668 · C",
+     "meta": "⭐ 1730 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +311,7 @@
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 1564 · Python",
+     "meta": "⭐ 1697 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +319,7 @@
     {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1477 · Python",
+     "meta": "⭐ 1484 · Python",
      "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,31 +327,31 @@
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1423 · JavaScript",
+     "meta": "⭐ 1428 · JavaScript",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "colinhacks/reylo",
-     "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1315 · Rust",
-     "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "lyramakesmusic/neuron-explorer",
      "url": "https://github.com/lyramakesmusic/neuron-explorer",
-     "meta": "⭐ 1255 · Python",
+     "meta": "⭐ 1326 · Python",
      "summary": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "colinhacks/reylo",
+     "url": "https://github.com/colinhacks/reylo",
+     "meta": "⭐ 1323 · Rust",
+     "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1217 · Python",
+     "meta": "⭐ 1244 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +366,15 @@
     {
      "title": "Anthropic S-1",
      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "meta": "⭐ 1461 · 💬 1429",
+     "meta": "⭐ 1576 · 💬 1510",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Three new discoveries in mathematics, computer science, and physics",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+     "meta": "⭐ 777 · 💬 347",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -365,6 +388,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "⭐ 667 · 💬 93",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Dolly Parton's Imagination Library",
      "url": "https://imaginationlibrary.com/",
      "meta": "⭐ 632 · 💬 105",
@@ -373,9 +404,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "⭐ 541 · 💬 81",
+     "title": "The Exponential Time Hypothesis Is False [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+     "meta": "⭐ 543 · 💬 196",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,9 +436,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Announcing three new discoveries in mathematics, computer science, and physics",
-     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-     "meta": "⭐ 379 · 💬 143",
+     "title": "CSS-Tricks has a new owner",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "meta": "⭐ 436 · 💬 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Oldest GUI application that still runs on Windows 11",
+     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+     "meta": "⭐ 379 · 💬 218",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,14 +460,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "CSS-Tricks has a new owner",
-     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "⭐ 375 · 💬 88",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "url": "https://titleart.dvy.io/",
      "meta": "⭐ 345 · 💬 64",
@@ -437,17 +468,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Oldest GUI application that still runs on Windows 11",
-     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-     "meta": "⭐ 270 · 💬 177",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Websites Should Be Printable",
      "url": "https://brennenputh.me/blog/printable-websites/",
-     "meta": "⭐ 262 · 💬 172",
+     "meta": "⭐ 316 · 💬 187",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -455,15 +478,7 @@
     {
      "title": "Blaise Pascal invented fixed route public transport (2024)",
      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "⭐ 261 · 💬 136",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: A Truly Modular Keyboard",
-     "url": "https://github.com/notaroomba/keybytes",
-     "meta": "⭐ 241 · 💬 84",
+     "meta": "⭐ 281 · 💬 145",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -475,6 +490,14 @@
    "emoji": "🎯",
    "errors": [],
    "items": [
+    {
+     "title": "Concierge by Juniors AI",
+     "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+     "meta": "Product Hunt · 2026-10-11",
+     "summary": "Omni-channel AI-first customer support (6 months free)",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
     {
      "title": "myPip",
      "url": "https://www.producthunt.com/products/mypip-2",
@@ -584,14 +607,6 @@
      "url": "https://www.producthunt.com/products/knock-7",
      "meta": "Product Hunt · 2026-10-24",
      "summary": "Create shortcuts by hitting your mac",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "VibeiDE",
-     "url": "https://www.producthunt.com/products/vibeide",
-     "meta": "Product Hunt · 2026-10-25",
-     "summary": "Queue agent tasks in parallel and review each result",
      "reason": null,
      "origin_source": "producthunt"
     }
