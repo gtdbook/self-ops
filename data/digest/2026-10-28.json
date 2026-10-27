@@ -1,0 +1,514 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T03:16:17.941947+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+     "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+     "meta": "Ars Technica · 2026-10-27",
+     "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+     "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+     "meta": "Ars Technica · 2026-10-27",
+     "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+     "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+     "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+     "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+     "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Will AI expose the rickety infrastructure of the internet?",
+     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+     "meta": "TechCrunch AI · 2026-10-24",
+     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Block’s new voice model sounds eerily human",
+     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+     "meta": "TechCrunch AI · 2026-10-24",
+     "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "JustAResearcher/gpu-unlock-ada",
+     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+     "meta": "⭐ 4218 · C",
+     "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "meta": "⭐ 3144 · Python",
+     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 2426 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wesbos/3d-model-anything",
+     "url": "https://github.com/wesbos/3d-model-anything",
+     "meta": "⭐ 2189 · Swift",
+     "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "xevrion/hatchzip",
+     "url": "https://github.com/xevrion/hatchzip",
+     "meta": "⭐ 2148 · Rust",
+     "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "meta": "⭐ 1974",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "t3dotgg/tstack",
+     "url": "https://github.com/t3dotgg/tstack",
+     "meta": "⭐ 1930 · Python",
+     "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1866 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "oosexgang/hackios-xnu-kernel",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "⭐ 1804 · C",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "meta": "⭐ 1497 · Python",
+     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "lyramakesmusic/neuron-explorer",
+     "url": "https://github.com/lyramakesmusic/neuron-explorer",
+     "meta": "⭐ 1443 · Python",
+     "summary": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "openai/php2shell-checker",
+     "url": "https://github.com/openai/php2shell-checker",
+     "meta": "⭐ 1437 · JavaScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "colinhacks/reylo",
+     "url": "https://github.com/colinhacks/reylo",
+     "meta": "⭐ 1334 · Rust",
+     "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "morganlinton/BeautifulRust",
+     "url": "https://github.com/morganlinton/BeautifulRust",
+     "meta": "⭐ 1299 · Python",
+     "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "enesozturk/dimensional-drawing",
+     "url": "https://github.com/enesozturk/dimensional-drawing",
+     "meta": "⭐ 1212 · HTML",
+     "summary": "Create Apple style dimensional drawings of UI components.",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+     "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+     "meta": "⭐ 520 · 💬 167",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Genie 4",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "meta": "⭐ 395 · 💬 228",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Mythical Man-Month in the Age of AI",
+     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+     "meta": "⭐ 381 · 💬 266",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Wikipedia's Cleanup of AI-Generated Content",
+     "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+     "meta": "⭐ 352 · 💬 160",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Python's experimental JIT to be removed",
+     "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+     "meta": "⭐ 348 · 💬 185",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ghostty 1.4.0",
+     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+     "meta": "⭐ 283 · 💬 100",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+     "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+     "meta": "⭐ 226 · 💬 148",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "New iMac with M6",
+     "url": "https://www.apple.com/imac/",
+     "meta": "⭐ 218 · 💬 268",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+     "meta": "⭐ 212 · 💬 117",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PHP2Shell: Exploitation attempts and remediation trends",
+     "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+     "meta": "⭐ 167 · 💬 55",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Here be monsters: What do you still need to know when agents do the work?",
+     "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+     "meta": "⭐ 109 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+     "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+     "meta": "⭐ 109 · 💬 118",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+     "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+     "meta": "⭐ 105 · 💬 32",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+     "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+     "meta": "⭐ 88 · 💬 13",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Classification of Finite Simple Groups Formalized in Lean",
+     "url": "https://cfsg.axiommath.ai/",
+     "meta": "⭐ 78 · 💬 20",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "NINX",
+     "url": "https://www.producthunt.com/products/ninx-2",
+     "meta": "Product Hunt · 2026-07-21",
+     "summary": "Private On-device AI, connected tools, & creative workflows",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "omerta",
+     "url": "https://www.producthunt.com/products/omerta",
+     "meta": "Product Hunt · 2026-10-25",
+     "summary": "Catch .env secrets leaking into git",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "1Password for Agents",
+     "url": "https://www.producthunt.com/products/1password",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Let AI agents sign in for you without seeing your passwords",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AllModels",
+     "url": "https://www.producthunt.com/products/allmodels-io",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Explore every abliterated model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Flipcorder",
+     "url": "https://www.producthunt.com/products/flipcorder",
+     "meta": "Product Hunt · 2026-10-10",
+     "summary": "A 1991 camcorder for your iPhone, one tape a day",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Moli by Lexmount",
+     "url": "https://www.producthunt.com/products/lexmount-browser",
+     "meta": "Product Hunt · 2026-10-13",
+     "summary": "The fastest headless browser for agents and harnesses",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Inyon",
+     "url": "https://www.producthunt.com/products/inyon",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Answer your coding agents from your phone",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Knock",
+     "url": "https://www.producthunt.com/products/knock-7",
+     "meta": "Product Hunt · 2026-10-24",
+     "summary": "Create shortcuts by hitting your mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "VibeiDE",
+     "url": "https://www.producthunt.com/products/vibeide",
+     "meta": "Product Hunt · 2026-10-25",
+     "summary": "Queue agent tasks in parallel and review each result",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "pawl",
+     "url": "https://www.producthunt.com/products/pawl",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "a tiny mac focus timer you start by pulling a paw",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Paddock",
+     "url": "https://www.producthunt.com/products/paddock-2",
+     "meta": "Product Hunt · 2026-10-27",
+     "summary": "Computers and sandboxes for your agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AI Bridge",
+     "url": "https://www.producthunt.com/products/ai-bridge",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "Every AI coding agent on your Mac, in its place",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Orbit",
+     "url": "https://www.producthunt.com/products/orbit-app-blocker",
+     "meta": "Product Hunt · 2026-10-14",
+     "summary": "Stop doomscrolling. Earn every app unlock.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Revix AI",
+     "url": "https://www.producthunt.com/products/revix-ai-2",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "AI code review that learns your repo's own rules",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Monish",
+     "url": "https://www.producthunt.com/products/monish",
+     "meta": "Product Hunt · 2026-10-22",
+     "summary": "Your AI agents, live on your iPhone lock screen",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
