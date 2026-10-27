@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T15:17:06.714987+08:00",
+ "generated_at": "2026-10-27T21:57:04.091573+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -31,6 +31,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "+658 分 / 21.5 小时 · 现 ⭐ 770",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
      "meta": "+640 分 / 8.6 小时 · 现 ⭐ 743",
@@ -39,9 +47,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "+555 分 / 14.8 小时 · 现 ⭐ 667",
+     "title": "Three new discoveries in mathematics, computer science, and physics",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+     "meta": "+631 分 / 12.8 小时 · 现 ⭐ 1010",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -49,15 +57,7 @@
     {
      "title": "CSS-Tricks has a new owner",
      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "+420 分 / 14.8 小时 · 现 ⭐ 436",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Three new discoveries in mathematics, computer science, and physics",
-     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-     "meta": "+398 分 / 6.2 小时 · 现 ⭐ 777",
+     "meta": "+496 分 / 21.5 小时 · 现 ⭐ 512",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -65,7 +65,15 @@
     {
      "title": "The Exponential Time Hypothesis Is False [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-     "meta": "+308 分 / 6.2 小时 · 现 ⭐ 543",
+     "meta": "+456 分 / 12.8 小时 · 现 ⭐ 691",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Solar power is becoming bigger than nuclear",
+     "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+     "meta": "+319 分 / 12.8 小时 · 现 ⭐ 435",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -73,7 +81,15 @@
     {
      "title": "Oldest GUI application that still runs on Windows 11",
      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-     "meta": "+210 分 / 9.9 小时 · 现 ⭐ 379",
+     "meta": "+310 分 / 16.6 小时 · 现 ⭐ 479",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Mythical Man-Month in the Age of AI",
+     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+     "meta": "+269 分 / 6.7 小时 · 现 ⭐ 273",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -82,22 +98,6 @@
      "title": "Birdwatching rewires the brain and slows cognitive decline",
      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
      "meta": "+167 分 / 8.6 小时 · 现 ⭐ 509",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Websites Should Be Printable",
-     "url": "https://brennenputh.me/blog/printable-websites/",
-     "meta": "+145 分 / 14.8 小时 · 现 ⭐ 316",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-     "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-     "meta": "+141 分 / 8.6 小时 · 现 ⭐ 169",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -263,7 +263,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 2111 · Swift",
+     "meta": "⭐ 2159 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -317,6 +317,14 @@
      "origin_source": "github_search"
     },
     {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "meta": "⭐ 1685",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "9bie/php2shell-bypass-aslr-exp",
      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
      "meta": "⭐ 1484 · Python",
@@ -347,14 +355,6 @@
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
-    },
-    {
-     "title": "morganlinton/BeautifulRust",
-     "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1244 · Python",
-     "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-     "reason": null,
-     "origin_source": "github_search"
     }
    ]
   },
@@ -374,7 +374,15 @@
     {
      "title": "Three new discoveries in mathematics, computer science, and physics",
      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-     "meta": "⭐ 777 · 💬 347",
+     "meta": "⭐ 1010 · 💬 554",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "⭐ 770 · 💬 104",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -388,9 +396,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "⭐ 667 · 💬 93",
+     "title": "The Exponential Time Hypothesis Is False [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+     "meta": "⭐ 691 · 💬 256",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -404,9 +412,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Exponential Time Hypothesis Is False [pdf]",
-     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-     "meta": "⭐ 543 · 💬 196",
+     "title": "CSS-Tricks has a new owner",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "meta": "⭐ 512 · 💬 108",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -428,6 +436,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Oldest GUI application that still runs on Windows 11",
+     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+     "meta": "⭐ 479 · 💬 282",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Switzerland. Block by block. At 1:1 scale",
      "url": "https://blocks.manifold3d.ch/",
      "meta": "⭐ 438 · 💬 208",
@@ -436,17 +452,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "CSS-Tricks has a new owner",
-     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "⭐ 436 · 💬 96",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Oldest GUI application that still runs on Windows 11",
-     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-     "meta": "⭐ 379 · 💬 218",
+     "title": "Solar power is becoming bigger than nuclear",
+     "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+     "meta": "⭐ 435 · 💬 612",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -474,14 +482,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
-    },
-    {
-     "title": "Blaise Pascal invented fixed route public transport (2024)",
-     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "⭐ 281 · 💬 145",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
     }
    ]
   },
@@ -503,6 +503,14 @@
      "url": "https://www.producthunt.com/products/mypip-2",
      "meta": "Product Hunt · 2026-10-15",
      "summary": "Vibe code, publish, and monetize games with AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "NINX",
+     "url": "https://www.producthunt.com/products/ninx-2",
+     "meta": "Product Hunt · 2026-07-21",
+     "summary": "On-device AI, connected tools, and creative workflows",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -599,14 +607,6 @@
      "url": "https://www.producthunt.com/products/inyon",
      "meta": "Product Hunt · 2026-10-16",
      "summary": "Answer your coding agents from your phone",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Knock",
-     "url": "https://www.producthunt.com/products/knock-7",
-     "meta": "Product Hunt · 2026-10-24",
-     "summary": "Create shortcuts by hitting your mac",
      "reason": null,
      "origin_source": "producthunt"
     }

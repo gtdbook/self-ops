@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-27T15:17:04.798291+08:00",
- "count": 58,
+ "updated_at": "2026-10-27T21:57:00.830643+08:00",
+ "count": 71,
  "items": [
   {
    "id": "hn-50197108",
@@ -52,8 +52,8 @@
    "title": "A Printer Printing onto Paper",
    "url": "https://twitter.com/macrofying/status/2112904628509528219",
    "hn_url": "https://news.ycombinator.com/item?id=50204697",
-   "score": 105,
-   "comments": 25,
+   "score": 159,
+   "comments": 37,
    "author": "MrBuddyCasino",
    "time_iso": "2026-10-23T05:01:30+00:00",
    "history": [
@@ -64,6 +64,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 105
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 159
     }
    ]
   },
@@ -228,6 +232,22 @@
    ]
   },
   {
+   "id": "hn-50220782",
+   "title": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
+   "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
+   "hn_url": "https://news.ycombinator.com/item?id=50220782",
+   "score": 8,
+   "comments": 1,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-24T12:50:42+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
    "id": "hn-50226808",
    "title": "Virtual and Real World Combine at LAN Party (1998)",
    "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
@@ -308,6 +328,22 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-50235449",
+   "title": "Kauldron: Modular, scalable library to train ML models",
+   "url": "https://github.com/google-research/kauldron",
+   "hn_url": "https://news.ycombinator.com/item?id=50235449",
+   "score": 5,
+   "comments": 1,
+   "author": "nateb2022",
+   "time_iso": "2026-10-25T19:53:33+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 5
     }
    ]
   },
@@ -604,8 +640,8 @@
    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "hn_url": "https://news.ycombinator.com/item?id=50245138",
-   "score": 667,
-   "comments": 93,
+   "score": 770,
+   "comments": 104,
    "author": "sgiannopoulos",
    "time_iso": "2026-10-26T15:11:59+00:00",
    "history": [
@@ -624,6 +660,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 667
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 770
     }
    ]
   },
@@ -648,8 +688,8 @@
    "title": "Solar power is becoming bigger than nuclear",
    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
    "hn_url": "https://news.ycombinator.com/item?id=50245385",
-   "score": 247,
-   "comments": 384,
+   "score": 435,
+   "comments": 612,
    "author": "geox",
    "time_iso": "2026-10-26T15:26:17+00:00",
    "history": [
@@ -660,6 +700,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 247
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 435
     }
    ]
   },
@@ -688,8 +732,8 @@
    "title": "CSS-Tricks has a new owner",
    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "hn_url": "https://news.ycombinator.com/item?id=50245831",
-   "score": 436,
-   "comments": 96,
+   "score": 512,
+   "comments": 108,
    "author": "edent",
    "time_iso": "2026-10-26T15:51:23+00:00",
    "history": [
@@ -708,6 +752,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 436
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 512
     }
    ]
   },
@@ -816,8 +864,8 @@
    "title": "Oldest GUI application that still runs on Windows 11",
    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
    "hn_url": "https://news.ycombinator.com/item?id=50248055",
-   "score": 379,
-   "comments": 218,
+   "score": 479,
+   "comments": 282,
    "author": "enlyth",
    "time_iso": "2026-10-26T17:56:55+00:00",
    "history": [
@@ -832,6 +880,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 379
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 479
     }
    ]
   },
@@ -860,8 +912,8 @@
    "title": "Type Server Protocol",
    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
    "hn_url": "https://news.ycombinator.com/item?id=50248371",
-   "score": 229,
-   "comments": 150,
+   "score": 254,
+   "comments": 172,
    "author": "adamnemecek",
    "time_iso": "2026-10-26T18:14:49+00:00",
    "history": [
@@ -876,6 +928,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 229
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 254
     }
    ]
   },
@@ -948,8 +1004,8 @@
    "title": "Three new discoveries in mathematics, computer science, and physics",
    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
    "hn_url": "https://news.ycombinator.com/item?id=50251344",
-   "score": 777,
-   "comments": 347,
+   "score": 1010,
+   "comments": 554,
    "author": "jonluca",
    "time_iso": "2026-10-26T21:35:28+00:00",
    "history": [
@@ -960,6 +1016,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 777
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 1010
     }
    ]
   },
@@ -968,8 +1028,8 @@
    "title": "The Exponential Time Hypothesis Is False [pdf]",
    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50251661",
-   "score": 543,
-   "comments": 196,
+   "score": 691,
+   "comments": 256,
    "author": "vok",
    "time_iso": "2026-10-26T21:59:15+00:00",
    "history": [
@@ -980,6 +1040,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 543
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 691
     }
    ]
   },
@@ -1004,8 +1068,8 @@
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "hn_url": "https://news.ycombinator.com/item?id=50252159",
-   "score": 121,
-   "comments": 39,
+   "score": 155,
+   "comments": 53,
    "author": "wondersky",
    "time_iso": "2026-10-26T22:41:48+00:00",
    "history": [
@@ -1016,6 +1080,10 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 121
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 155
     }
    ]
   },
@@ -1040,14 +1108,18 @@
    "title": "I still teach OpenGL ES 3.0",
    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
    "hn_url": "https://news.ycombinator.com/item?id=50253939",
-   "score": 37,
-   "comments": 17,
+   "score": 96,
+   "comments": 61,
    "author": "majorchord",
    "time_iso": "2026-10-27T02:15:10+00:00",
    "history": [
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 37
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 96
     }
    ]
   },
@@ -1056,14 +1128,18 @@
    "title": "Writing about pratt parsing so I remember it",
    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
    "hn_url": "https://news.ycombinator.com/item?id=50255177",
-   "score": 8,
-   "comments": 0,
+   "score": 59,
+   "comments": 6,
    "author": "dverlaeckt80",
    "time_iso": "2026-10-27T06:02:23+00:00",
    "history": [
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 8
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 59
     }
    ]
   },
@@ -1072,14 +1148,18 @@
    "title": "The Mythical Man-Month in the Age of AI",
    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "hn_url": "https://news.ycombinator.com/item?id=50255298",
-   "score": 4,
-   "comments": 2,
+   "score": 273,
+   "comments": 184,
    "author": "ilreb",
    "time_iso": "2026-10-27T06:25:37+00:00",
    "history": [
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 273
     }
    ]
   },
@@ -1096,6 +1176,182 @@
     {
      "t": "2026-10-27T15:17:04.798291+08:00",
      "score": 3
+    }
+   ]
+  },
+  {
+   "id": "hn-50256738",
+   "title": "I will no longer upload to NEW",
+   "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50256738",
+   "score": 180,
+   "comments": 88,
+   "author": "edward",
+   "time_iso": "2026-10-27T09:59:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 180
+    }
+   ]
+  },
+  {
+   "id": "hn-50256952",
+   "title": "Gforth 1.0",
+   "url": "https://gforth.org/manual/1.0/NEWS.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50256952",
+   "score": 64,
+   "comments": 3,
+   "author": "joshcsimmons",
+   "time_iso": "2026-10-27T10:23:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50256985",
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "hn_url": "https://news.ycombinator.com/item?id=50256985",
+   "score": 295,
+   "comments": 187,
+   "author": "choult",
+   "time_iso": "2026-10-27T10:27:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 295
+    }
+   ]
+  },
+  {
+   "id": "hn-50257325",
+   "title": "AI promised less work. I've never worked more",
+   "url": "https://oioannou.com/blog/ai-promised-less-work/",
+   "hn_url": "https://news.ycombinator.com/item?id=50257325",
+   "score": 219,
+   "comments": 197,
+   "author": "oorestisime",
+   "time_iso": "2026-10-27T11:08:14+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 219
+    }
+   ]
+  },
+  {
+   "id": "hn-50257326",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "hn_url": "https://news.ycombinator.com/item?id=50257326",
+   "score": 118,
+   "comments": 56,
+   "author": "rbanffy",
+   "time_iso": "2026-10-27T11:08:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 118
+    }
+   ]
+  },
+  {
+   "id": "hn-50257419",
+   "title": "Python's experimental JIT to be removed",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "hn_url": "https://news.ycombinator.com/item?id=50257419",
+   "score": 126,
+   "comments": 58,
+   "author": "f311a",
+   "time_iso": "2026-10-27T11:17:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 126
+    }
+   ]
+  },
+  {
+   "id": "hn-50257548",
+   "title": "Software may be getting worse, but it used to be horrible",
+   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "hn_url": "https://news.ycombinator.com/item?id=50257548",
+   "score": 136,
+   "comments": 103,
+   "author": "jakevoytko",
+   "time_iso": "2026-10-27T11:30:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 136
+    }
+   ]
+  },
+  {
+   "id": "hn-50258521",
+   "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "hn_url": "https://news.ycombinator.com/item?id=50258521",
+   "score": 73,
+   "comments": 59,
+   "author": "meetpateltech",
+   "time_iso": "2026-10-27T13:01:07+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 73
+    }
+   ]
+  },
+  {
+   "id": "hn-50258538",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
+   "hn_url": "https://news.ycombinator.com/item?id=50258538",
+   "score": 4,
+   "comments": 0,
+   "author": "notfried",
+   "time_iso": "2026-10-27T13:02:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50258868",
+   "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+   "hn_url": "https://news.ycombinator.com/item?id=50258868",
+   "score": 5,
+   "comments": 0,
+   "author": "adrq",
+   "time_iso": "2026-10-27T13:23:22+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50259343",
+   "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+   "hn_url": "https://news.ycombinator.com/item?id=50259343",
+   "score": 4,
+   "comments": 0,
+   "author": "acossta",
+   "time_iso": "2026-10-27T13:52:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:00.830643+08:00",
+     "score": 4
     }
    ]
   }

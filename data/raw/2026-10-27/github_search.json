@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-27T15:17:05.483212+08:00",
- "count": 25,
+ "updated_at": "2026-10-27T21:57:02.498167+08:00",
+ "count": 31,
  "items": [
   {
    "id": "gh-1426780056",
@@ -172,7 +172,7 @@
    "id": "gh-1428098303",
    "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "stars": 1025,
+   "stars": 1027,
    "language": "Shell",
    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
    "created_at": "2026-10-21T08:31:43Z",
@@ -192,6 +192,10 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 1025
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 1027
     }
    ]
   },
@@ -268,7 +272,7 @@
    "id": "gh-1428848843",
    "title": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
-   "stars": 2111,
+   "stars": 2159,
    "language": "Swift",
    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
    "created_at": "2026-10-21T19:38:50Z",
@@ -288,6 +292,10 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 2111
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 2159
     }
    ]
   },
@@ -315,6 +323,21 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 993
+    }
+   ]
+  },
+  {
+   "id": "gh-1429198796",
+   "title": "rossark0/rossark-motion-skill",
+   "url": "https://github.com/rossark0/rossark-motion-skill",
+   "stars": 524,
+   "language": "Swift",
+   "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
+   "created_at": "2026-10-22T03:33:03Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 524
     }
    ]
   },
@@ -373,10 +396,25 @@
    ]
   },
   {
+   "id": "gh-1429396529",
+   "title": "actionow-ai/vvv",
+   "url": "https://github.com/actionow-ai/vvv",
+   "stars": 416,
+   "language": "Python",
+   "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+   "created_at": "2026-10-22T07:29:54Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 416
+    }
+   ]
+  },
+  {
    "id": "gh-1430513158",
    "title": "morganlinton/BeautifulRust",
    "url": "https://github.com/morganlinton/BeautifulRust",
-   "stars": 1244,
+   "stars": 1274,
    "language": "Python",
    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
    "created_at": "2026-10-23T03:01:11Z",
@@ -396,6 +434,10 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 1244
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 1274
     }
    ]
   },
@@ -403,9 +445,9 @@
    "id": "gh-1431010194",
    "title": "enesozturk/dimensional-drawing",
    "url": "https://github.com/enesozturk/dimensional-drawing",
-   "stars": 1075,
+   "stars": 1154,
    "language": "HTML",
-   "description": "",
+   "description": "Create Apple style dimensional drawings of UI components.",
    "created_at": "2026-10-23T12:20:16Z",
    "history": [
     {
@@ -423,6 +465,10 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 1075
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 1154
     }
    ]
   },
@@ -508,6 +554,36 @@
    ]
   },
   {
+   "id": "gh-1432231624",
+   "title": "routerhubSI/glm-5.3-abliterated",
+   "url": "https://github.com/routerhubSI/glm-5.3-abliterated",
+   "stars": 393,
+   "language": "Python",
+   "description": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
+   "created_at": "2026-10-24T13:51:36Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 393
+    }
+   ]
+  },
+  {
+   "id": "gh-1432883796",
+   "title": "ZiChuanLan/agent-purge",
+   "url": "https://github.com/ZiChuanLan/agent-purge",
+   "stars": 559,
+   "language": "JavaScript",
+   "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+   "created_at": "2026-10-25T06:06:02Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 559
+    }
+   ]
+  },
+  {
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
@@ -550,10 +626,25 @@
    ]
   },
   {
+   "id": "gh-1433269248",
+   "title": "misshexa66/OunceCake",
+   "url": "https://github.com/misshexa66/OunceCake",
+   "stars": 461,
+   "language": "JavaScript",
+   "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+   "created_at": "2026-10-25T14:12:41Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 461
+    }
+   ]
+  },
+  {
    "id": "gh-1433377156",
    "title": "unclebob/ub-mode",
    "url": "https://github.com/unclebob/ub-mode",
-   "stars": 972,
+   "stars": 1685,
    "language": "",
    "description": "",
    "created_at": "2026-10-25T16:04:09Z",
@@ -561,6 +652,10 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 972
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 1685
     }
    ]
   },
@@ -587,7 +682,7 @@
    "id": "gh-1433904617",
    "title": "andyhuo520/digital-human-koubo",
    "url": "https://github.com/andyhuo520/digital-human-koubo",
-   "stars": 877,
+   "stars": 985,
    "language": "TypeScript",
    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
    "created_at": "2026-10-26T04:34:09Z",
@@ -595,6 +690,25 @@
     {
      "t": "2026-10-27T15:17:05.483212+08:00",
      "score": 877
+    },
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 985
+    }
+   ]
+  },
+  {
+   "id": "gh-1434396340",
+   "title": "martinkeith700/ruyiJS",
+   "url": "https://github.com/martinkeith700/ruyiJS",
+   "stars": 423,
+   "language": "C++",
+   "description": "Run any site from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+   "created_at": "2026-10-26T13:08:12Z",
+   "history": [
+    {
+     "t": "2026-10-27T21:57:02.498167+08:00",
+     "score": 423
     }
    ]
   }
