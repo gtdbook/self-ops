@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T05:20:20.638675+08:00",
+ "generated_at": "2026-10-27T09:06:57.865996+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,9 +8,17 @@
    "errors": [],
    "items": [
     {
+     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+     "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+     "meta": "+640 分 / 8.6 小时 · 现 ⭐ 743",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Anthropic S-1",
      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "meta": "+486 分 / 4.9 小时 · 现 ⭐ 1334",
+     "meta": "+613 分 / 8.6 小时 · 现 ⭐ 1461",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +26,7 @@
     {
      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "+354 分 / 4.9 小时 · 现 ⭐ 466",
+     "meta": "+429 分 / 8.6 小时 · 现 ⭐ 541",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +34,7 @@
     {
      "title": "CSS-Tricks has a new owner",
      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "+294 分 / 4.9 小时 · 现 ⭐ 310",
+     "meta": "+359 分 / 8.6 小时 · 现 ⭐ 375",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +42,7 @@
     {
      "title": "Birdwatching rewires the brain and slows cognitive decline",
      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-     "meta": "+126 分 / 4.9 小时 · 现 ⭐ 468",
+     "meta": "+167 分 / 8.6 小时 · 现 ⭐ 509",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,7 +50,7 @@
     {
      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-     "meta": "+117 分 / 4.9 小时 · 现 ⭐ 145",
+     "meta": "+141 分 / 8.6 小时 · 现 ⭐ 169",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,7 +58,15 @@
     {
      "title": "Pharo 14",
      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-     "meta": "+103 分 / 4.9 小时 · 现 ⭐ 212",
+     "meta": "+128 分 / 8.6 小时 · 现 ⭐ 237",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "meta": "+119 分 / 3.8 小时 · 现 ⭐ 488",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,23 +74,15 @@
     {
      "title": "Blaise Pascal invented fixed route public transport (2024)",
      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "+91 分 / 4.9 小时 · 现 ⭐ 241",
+     "meta": "+111 分 / 8.6 小时 · 现 ⭐ 261",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Switzerland. Block by block. At 1:1 scale",
-     "url": "https://blocks.manifold3d.ch/",
-     "meta": "+61 分 / 4.9 小时 · 现 ⭐ 438",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Fixing Tool-Call Accuracy in vLLM",
-     "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-     "meta": "+31 分 / 4.9 小时 · 现 ⭐ 138",
+     "title": "Oldest GUI application that still runs on Windows 11",
+     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+     "meta": "+101 分 / 3.8 小时 · 现 ⭐ 270",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -87,7 +95,31 @@
    "errors": [],
    "items": [
     {
-     "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+     "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+     "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+     "meta": "Ars Technica · 2026-10-26",
+     "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
      "meta": "Ars Technica · 2026-10-26",
      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
@@ -107,6 +139,14 @@
      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
      "meta": "Ars Technica · 2026-10-26",
      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -173,38 +213,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "OpenAI acquires Orchestra Bio",
-     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-     "meta": "OpenAI · 2026-10-20",
-     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-     "meta": "OpenAI · 2026-10-16",
-     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Bringing GPT-Rosalind to academic research labs",
-     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-     "meta": "OpenAI · 2026-10-15",
-     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Amp puts AI agents to work beyond code with OpenAI models",
-     "url": "https://openai.com/index/amp-beyond-coding",
-     "meta": "OpenAI · 2026-10-14",
-     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -224,7 +232,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 3760 · C",
+     "meta": "⭐ 3837 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +240,7 @@
     {
      "title": "wesbos/3d-model-anything",
      "url": "https://github.com/wesbos/3d-model-anything",
-     "meta": "⭐ 2061 · Swift",
+     "meta": "⭐ 2073 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +248,7 @@
     {
      "title": "xevrion/hatchzip",
      "url": "https://github.com/xevrion/hatchzip",
-     "meta": "⭐ 2048 · Rust",
+     "meta": "⭐ 2058 · Rust",
      "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
      "reason": null,
      "origin_source": "github_search"
@@ -254,57 +262,57 @@
      "origin_source": "github_search"
     },
     {
-     "title": "ikow/php2shell-poc",
-     "url": "https://github.com/ikow/php2shell-poc",
-     "meta": "⭐ 1829 · Python",
-     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 1826 · Python",
+     "meta": "⭐ 1914 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "oosexgang/hackios-xnu-kernel",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1646 · C",
-     "summary": "",
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "meta": "⭐ 1832 · Python",
+     "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "designfuchen/word-atlas",
      "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 1588 · TypeScript",
+     "meta": "⭐ 1677 · TypeScript",
      "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "9bie/php2shell-bypass-aslr-exp",
-     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-     "meta": "⭐ 1472 · Python",
-     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "title": "oosexgang/hackios-xnu-kernel",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "⭐ 1668 · C",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 1452 · Python",
+     "meta": "⭐ 1564 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "meta": "⭐ 1477 · Python",
+     "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "openai/php2shell-checker",
      "url": "https://github.com/openai/php2shell-checker",
-     "meta": "⭐ 1421 · JavaScript",
+     "meta": "⭐ 1423 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +320,7 @@
     {
      "title": "colinhacks/reylo",
      "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1311 · Rust",
+     "meta": "⭐ 1315 · Rust",
      "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +328,7 @@
     {
      "title": "lyramakesmusic/neuron-explorer",
      "url": "https://github.com/lyramakesmusic/neuron-explorer",
-     "meta": "⭐ 1208 · Python",
+     "meta": "⭐ 1255 · Python",
      "summary": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +336,7 @@
     {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1194 · Python",
+     "meta": "⭐ 1217 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
@@ -343,7 +351,15 @@
     {
      "title": "Anthropic S-1",
      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "meta": "⭐ 1334 · 💬 1315",
+     "meta": "⭐ 1461 · 💬 1429",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+     "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+     "meta": "⭐ 743 · 💬 650",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -357,17 +373,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Birdwatching rewires the brain and slows cognitive decline",
-     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-     "meta": "⭐ 468 · 💬 182",
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "meta": "⭐ 541 · 💬 81",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "meta": "⭐ 466 · 💬 63",
+     "title": "Birdwatching rewires the brain and slows cognitive decline",
+     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+     "meta": "⭐ 509 · 💬 199",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "meta": "⭐ 488 · 💬 309",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -381,6 +405,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+     "meta": "⭐ 379 · 💬 143",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Overgrown, when plants invade your abandoned tabs",
      "url": "https://charliegerard.dev/blog/overgrown-extension/",
      "meta": "⭐ 375 · 💬 125",
@@ -389,9 +421,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "GPT-6.1 Terra",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-     "meta": "⭐ 369 · 💬 224",
+     "title": "CSS-Tricks has a new owner",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "meta": "⭐ 375 · 💬 88",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,9 +437,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "CSS-Tricks has a new owner",
-     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-     "meta": "⭐ 310 · 💬 69",
+     "title": "Oldest GUI application that still runs on Windows 11",
+     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+     "meta": "⭐ 270 · 💬 177",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Websites Should Be Printable",
+     "url": "https://brennenputh.me/blog/printable-websites/",
+     "meta": "⭐ 262 · 💬 172",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -415,7 +455,7 @@
     {
      "title": "Blaise Pascal invented fixed route public transport (2024)",
      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-     "meta": "⭐ 241 · 💬 125",
+     "meta": "⭐ 261 · 💬 136",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -424,38 +464,6 @@
      "title": "Show HN: A Truly Modular Keyboard",
      "url": "https://github.com/notaroomba/keybytes",
      "meta": "⭐ 241 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Behind the scenes at the NeXT Computer office",
-     "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-     "meta": "⭐ 219 · 💬 128",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-     "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-     "meta": "⭐ 212 · 💬 75",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Pharo 14",
-     "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-     "meta": "⭐ 212 · 💬 52",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Concerning behavior from a popular open-weight AI model",
-     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-     "meta": "⭐ 204 · 💬 76",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

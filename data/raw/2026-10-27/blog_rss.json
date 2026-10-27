@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-27T05:20:20.421319+08:00",
- "count": 2372,
+ "updated_at": "2026-10-27T09:06:57.603088+08:00",
+ "count": 2376,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -56,6 +56,15 @@
    "published": "Tue, 15 Apr 2025 13:00:00 GMT",
    "published_iso": "2025-04-15T13:00:00+00:00",
    "summary": "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts."
+  },
+  {
+   "id": "rss-011555b6960ee180",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "feed_name": "OpenAI",
+   "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+   "published_iso": "2026-10-26T22:00:00+00:00",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
   },
   {
    "id": "rss-0116832adda7180d",
@@ -1642,6 +1651,15 @@
    "summary": ""
   },
   {
+   "id": "rss-12c7a1020fa4d8a1",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "feed_name": "OpenAI",
+   "published": "Mon, 26 Oct 2026 13:45:00 GMT",
+   "published_iso": "2026-10-26T13:45:00+00:00",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+  },
+  {
    "id": "rss-13691a2ce123a89e",
    "title": "Horizon 1000: Advancing AI for primary healthcare",
    "url": "https://openai.com/index/horizon-1000",
@@ -1784,6 +1802,15 @@
    "published": "Wed, 31 Aug 2022 07:00:00 GMT",
    "published_iso": "2022-08-31T07:00:00+00:00",
    "summary": "Extend creativity and tell a bigger story with DALL·E images of any size."
+  },
+  {
+   "id": "rss-14be99450567b8b7",
+   "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+   "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+   "feed_name": "Ars Technica",
+   "published": "Mon, 26 Oct 2026 20:15:07 +0000",
+   "published_iso": "2026-10-26T20:15:07+00:00",
+   "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes ."
   },
   {
    "id": "rss-14d5e443bb375cd2",
@@ -2228,7 +2255,7 @@
   },
   {
    "id": "rss-19a4895987215994",
-   "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+   "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
    "feed_name": "Ars Technica",
    "published": "Mon, 26 Oct 2026 18:50:41 +0000",
@@ -2596,6 +2623,15 @@
    "summary": "Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution."
   },
   {
+   "id": "rss-1d37b6b893c56add",
+   "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+   "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+   "feed_name": "Ars Technica",
+   "published": "Mon, 26 Oct 2026 19:04:40 +0000",
+   "published_iso": "2026-10-26T19:04:40+00:00",
+   "summary": "Apple claims this is the most significant update ever for the iPad mini line."
+  },
+  {
    "id": "rss-1d3a64f7b8a6b2e5",
    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
@@ -2666,42 +2702,6 @@
    "published": "Wed, 14 Oct 2026 00:00:00 GMT",
    "published_iso": "2026-10-14T00:00:00+00:00",
    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-  },
-  {
-   "id": "rss-1ed301b1b45fa72d",
-   "title": "Learning sparse neural networks through L₀ regularization",
-   "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
-   "feed_name": "OpenAI",
-   "published": "Mon, 04 Dec 2017 08:00:00 GMT",
-   "published_iso": "2017-12-04T08:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1ef0e397131d6008",
-   "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-   "url": "https://huggingface.co/blog/ulysses-sp",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 09 Mar 2026 00:00:00 GMT",
-   "published_iso": "2026-03-09T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1f1a5dd0fa4ffc43",
-   "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
-   "url": "https://huggingface.co/blog/snowball-fight",
-   "feed_name": "Hugging Face",
-   "published": "Thu, 02 Dec 2021 00:00:00 GMT",
-   "published_iso": "2021-12-02T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1f2073a64976c05e",
-   "title": "Decoding genetics with OpenAI o1",
-   "url": "https://openai.com/index/o1-genetics",
-   "feed_name": "OpenAI",
-   "published": "Thu, 12 Sep 2024 00:00:00 GMT",
-   "published_iso": "2024-09-12T00:00:00+00:00",
-   "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges."
   }
  ]
 }

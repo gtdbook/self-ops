@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-27T05:20:18.970694+08:00",
- "count": 41,
+ "updated_at": "2026-10-27T09:06:56.090386+08:00",
+ "count": 49,
  "items": [
   {
    "id": "hn-50197108",
@@ -24,8 +24,8 @@
    "title": "Blaise Pascal invented fixed route public transport (2024)",
    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
    "hn_url": "https://news.ycombinator.com/item?id=50200152",
-   "score": 241,
-   "comments": 125,
+   "score": 261,
+   "comments": 136,
    "author": "skadamat",
    "time_iso": "2026-10-22T19:52:50+00:00",
    "history": [
@@ -36,6 +36,26 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 241
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 261
+    }
+   ]
+  },
+  {
+   "id": "hn-50204697",
+   "title": "A Printer Printing onto Paper",
+   "url": "https://twitter.com/macrofying/status/2112904628509528219",
+   "hn_url": "https://news.ycombinator.com/item?id=50204697",
+   "score": 49,
+   "comments": 10,
+   "author": "MrBuddyCasino",
+   "time_iso": "2026-10-23T05:01:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 49
     }
    ]
   },
@@ -76,14 +96,18 @@
    "title": "Diamond Transistor",
    "url": "https://www.df.com/diamond-transistor",
    "hn_url": "https://news.ycombinator.com/item?id=50209525",
-   "score": 98,
-   "comments": 53,
+   "score": 123,
+   "comments": 65,
    "author": "Gravityloss",
    "time_iso": "2026-10-23T14:20:15+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 98
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 123
     }
    ]
   },
@@ -108,14 +132,18 @@
    "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
    "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
    "hn_url": "https://news.ycombinator.com/item?id=50211780",
-   "score": 27,
-   "comments": 14,
+   "score": 39,
+   "comments": 57,
    "author": "thm",
    "time_iso": "2026-10-23T16:41:41+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 39
     }
    ]
   },
@@ -140,8 +168,8 @@
    "title": "Birdwatching rewires the brain and slows cognitive decline",
    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
    "hn_url": "https://news.ycombinator.com/item?id=50215997",
-   "score": 468,
-   "comments": 182,
+   "score": 509,
+   "comments": 199,
    "author": "cisc",
    "time_iso": "2026-10-23T22:04:55+00:00",
    "history": [
@@ -152,6 +180,10 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 468
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 509
     }
    ]
   },
@@ -188,6 +220,22 @@
    ]
   },
   {
+   "id": "hn-50231041",
+   "title": "LISPy things you can do in 64K bytes of core (2019)",
+   "url": "https://t3x.org/lisp64k/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50231041",
+   "score": 19,
+   "comments": 1,
+   "author": "andsoitis",
+   "time_iso": "2026-10-25T12:53:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
    "id": "hn-50234474",
    "title": "Dolly Parton's Imagination Library",
    "url": "https://imaginationlibrary.com/",
@@ -208,8 +256,8 @@
    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
    "hn_url": "https://news.ycombinator.com/item?id=50236681",
-   "score": 145,
-   "comments": 47,
+   "score": 169,
+   "comments": 53,
    "author": "zdw",
    "time_iso": "2026-10-25T22:29:47+00:00",
    "history": [
@@ -220,6 +268,10 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 145
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 169
     }
    ]
   },
@@ -312,14 +364,18 @@
    "title": "Websites Should Be Printable",
    "url": "https://brennenputh.me/blog/printable-websites/",
    "hn_url": "https://news.ycombinator.com/item?id=50241664",
-   "score": 171,
-   "comments": 132,
+   "score": 262,
+   "comments": 172,
    "author": "bagatelle",
    "time_iso": "2026-10-26T10:32:14+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 171
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 262
     }
    ]
   },
@@ -328,8 +384,8 @@
    "title": "Pharo 14",
    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
    "hn_url": "https://news.ycombinator.com/item?id=50241925",
-   "score": 212,
-   "comments": 52,
+   "score": 237,
+   "comments": 63,
    "author": "xkriva11",
    "time_iso": "2026-10-26T11:15:50+00:00",
    "history": [
@@ -340,6 +396,10 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 212
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 237
     }
    ]
   },
@@ -384,8 +444,8 @@
    "title": "Anthropic S-1",
    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "hn_url": "https://news.ycombinator.com/item?id=50242939",
-   "score": 1334,
-   "comments": 1315,
+   "score": 1461,
+   "comments": 1429,
    "author": "SiNTEx",
    "time_iso": "2026-10-26T13:04:50+00:00",
    "history": [
@@ -396,6 +456,26 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 1334
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 1461
+    }
+   ]
+  },
+  {
+   "id": "hn-50243061",
+   "title": "New iPad mini",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+   "hn_url": "https://news.ycombinator.com/item?id=50243061",
+   "score": 126,
+   "comments": 379,
+   "author": "soheilpro",
+   "time_iso": "2026-10-26T13:13:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 126
     }
    ]
   },
@@ -436,8 +516,8 @@
    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "hn_url": "https://news.ycombinator.com/item?id=50245138",
-   "score": 466,
-   "comments": 63,
+   "score": 541,
+   "comments": 81,
    "author": "sgiannopoulos",
    "time_iso": "2026-10-26T15:11:59+00:00",
    "history": [
@@ -448,6 +528,10 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 466
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 541
     }
    ]
   },
@@ -468,18 +552,38 @@
    ]
   },
   {
+   "id": "hn-50245385",
+   "title": "Solar power is becoming bigger than nuclear",
+   "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "hn_url": "https://news.ycombinator.com/item?id=50245385",
+   "score": 116,
+   "comments": 217,
+   "author": "geox",
+   "time_iso": "2026-10-26T15:26:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 116
+    }
+   ]
+  },
+  {
    "id": "hn-50245524",
    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
    "hn_url": "https://news.ycombinator.com/item?id=50245524",
-   "score": 103,
-   "comments": 84,
+   "score": 743,
+   "comments": 650,
    "author": "doctorzook",
    "time_iso": "2026-10-26T15:35:12+00:00",
    "history": [
     {
      "t": "2026-10-27T00:28:50.334665+08:00",
      "score": 103
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 743
     }
    ]
   },
@@ -488,8 +592,8 @@
    "title": "CSS-Tricks has a new owner",
    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "hn_url": "https://news.ycombinator.com/item?id=50245831",
-   "score": 310,
-   "comments": 69,
+   "score": 375,
+   "comments": 88,
    "author": "edent",
    "time_iso": "2026-10-26T15:51:23+00:00",
    "history": [
@@ -500,6 +604,10 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 310
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 375
     }
    ]
   },
@@ -508,14 +616,18 @@
    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
    "url": "https://github.com/FrigadeHQ/hob",
    "hn_url": "https://news.ycombinator.com/item?id=50246238",
-   "score": 34,
-   "comments": 14,
+   "score": 108,
+   "comments": 25,
    "author": "pancomplex",
    "time_iso": "2026-10-26T16:12:29+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 34
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 108
     }
    ]
   },
@@ -540,14 +652,18 @@
    "title": "Nietzschian Debugger",
    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
    "hn_url": "https://news.ycombinator.com/item?id=50247493",
-   "score": 97,
-   "comments": 30,
+   "score": 126,
+   "comments": 40,
    "author": "dilawargopang",
    "time_iso": "2026-10-26T17:25:30+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 97
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 126
     }
    ]
   },
@@ -556,14 +672,18 @@
    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
    "hn_url": "https://news.ycombinator.com/item?id=50247928",
-   "score": 62,
-   "comments": 31,
+   "score": 111,
+   "comments": 59,
    "author": "aray07",
    "time_iso": "2026-10-26T17:49:55+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 62
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 111
     }
    ]
   },
@@ -588,14 +708,18 @@
    "title": "Oldest GUI application that still runs on Windows 11",
    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
    "hn_url": "https://news.ycombinator.com/item?id=50248055",
-   "score": 169,
-   "comments": 91,
+   "score": 270,
+   "comments": 177,
    "author": "enlyth",
    "time_iso": "2026-10-26T17:56:55+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 169
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 270
     }
    ]
   },
@@ -604,14 +728,18 @@
    "title": "GPT-6.1 Terra",
    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "hn_url": "https://news.ycombinator.com/item?id=50248124",
-   "score": 369,
-   "comments": 224,
+   "score": 488,
+   "comments": 309,
    "author": "meetpateltech",
    "time_iso": "2026-10-26T18:01:17+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 369
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 488
     }
    ]
   },
@@ -620,14 +748,18 @@
    "title": "Type Server Protocol",
    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
    "hn_url": "https://news.ycombinator.com/item?id=50248371",
-   "score": 138,
-   "comments": 96,
+   "score": 186,
+   "comments": 135,
    "author": "adamnemecek",
    "time_iso": "2026-10-26T18:14:49+00:00",
    "history": [
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 138
+    },
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 186
     }
    ]
   },
@@ -692,6 +824,70 @@
     {
      "t": "2026-10-27T05:20:18.970694+08:00",
      "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50251344",
+   "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "hn_url": "https://news.ycombinator.com/item?id=50251344",
+   "score": 379,
+   "comments": 143,
+   "author": "jonluca",
+   "time_iso": "2026-10-26T21:35:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 379
+    }
+   ]
+  },
+  {
+   "id": "hn-50251661",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50251661",
+   "score": 235,
+   "comments": 97,
+   "author": "vok",
+   "time_iso": "2026-10-26T21:59:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 235
+    }
+   ]
+  },
+  {
+   "id": "hn-50252008",
+   "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+   "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+   "hn_url": "https://news.ycombinator.com/item?id=50252008",
+   "score": 16,
+   "comments": 8,
+   "author": "rmason",
+   "time_iso": "2026-10-26T22:27:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50252159",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50252159",
+   "score": 57,
+   "comments": 11,
+   "author": "wondersky",
+   "time_iso": "2026-10-26T22:41:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-27T09:06:56.090386+08:00",
+     "score": 57
     }
    ]
   }
