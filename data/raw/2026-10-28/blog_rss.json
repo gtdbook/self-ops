@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-28T03:16:17.725254+08:00",
- "count": 2378,
+ "updated_at": "2026-10-28T07:28:20.861777+08:00",
+ "count": 2385,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -670,6 +670,15 @@
    "summary": ""
   },
   {
+   "id": "rss-089388ff10e50c37",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 27 Oct 2026 21:31:14 +0000",
+   "published_iso": "2026-10-27T21:31:14+00:00",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+  },
+  {
    "id": "rss-08a293d0b0e375da",
    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
@@ -821,6 +830,15 @@
    "published": "Fri, 31 Jan 2025 10:29:40 GMT",
    "published_iso": "2025-01-31T10:29:40+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-0a2e50643e4fe51d",
+   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 27 Oct 2026 20:25:55 +0000",
+   "published_iso": "2026-10-27T20:25:55+00:00",
+   "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
   },
   {
    "id": "rss-0a8ba04174fed503",
@@ -1208,6 +1226,24 @@
    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
    "published_iso": "2026-04-10T00:00:00+00:00",
    "summary": "Learn how to explore datasets, generate insights, create visualizations, and turn findings into actionable decisions with ChatGPT."
+  },
+  {
+   "id": "rss-0ec9dae75184d610",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "feed_name": "TechCrunch AI",
+   "published": "Tue, 27 Oct 2026 21:38:28 +0000",
+   "published_iso": "2026-10-27T21:38:28+00:00",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+  },
+  {
+   "id": "rss-0ecbc41a9a3eb4ec",
+   "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+   "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 27 Oct 2026 22:04:50 +0000",
+   "published_iso": "2026-10-27T22:04:50+00:00",
+   "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space."
   },
   {
    "id": "rss-0ee69ec84e3309ca",
@@ -1811,6 +1847,15 @@
    "published": "Fri, 09 Dec 2022 00:00:00 GMT",
    "published_iso": "2022-12-09T00:00:00+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-150f1b29aeaf5e97",
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "feed_name": "OpenAI",
+   "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+   "published_iso": "2026-10-27T00:00:00+00:00",
+   "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
   },
   {
    "id": "rss-1524b7a996a73376",
@@ -2560,6 +2605,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1c96b2fd3a955e99",
+   "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+   "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+   "feed_name": "Ars Technica",
+   "published": "Tue, 27 Oct 2026 22:37:30 +0000",
+   "published_iso": "2026-10-27T22:37:30+00:00",
+   "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+  },
+  {
    "id": "rss-1cb4adf2904f62e2",
    "title": "Creating with Sora Safely",
    "url": "https://openai.com/index/creating-with-sora-safely",
@@ -2648,60 +2702,6 @@
    "published": "Tue, 14 Oct 2025 06:00:00 GMT",
    "published_iso": "2025-10-14T06:00:00+00:00",
    "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and di"
-  },
-  {
-   "id": "rss-1dd7c478a72620d2",
-   "title": "AI Agents Are Here. What Now?",
-   "url": "https://huggingface.co/blog/ethics-soc-7",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 13 Jan 2025 00:00:00 GMT",
-   "published_iso": "2025-01-13T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1de8660326e5e2b6",
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "feed_name": "OpenAI",
-   "published": "Wed, 22 Jul 2026 12:00:00 GMT",
-   "published_iso": "2026-07-22T12:00:00+00:00",
-   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-  },
-  {
-   "id": "rss-1df00a7b7f9d4e33",
-   "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-   "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-   "feed_name": "Ars Technica",
-   "published": "Tue, 27 Oct 2026 16:17:58 +0000",
-   "published_iso": "2026-10-27T16:17:58+00:00",
-   "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house."
-  },
-  {
-   "id": "rss-1e3fe29a87a7af6d",
-   "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
-   "url": "https://huggingface.co/blog/pref-tuning",
-   "feed_name": "Hugging Face",
-   "published": "Thu, 18 Jan 2024 00:00:00 GMT",
-   "published_iso": "2024-01-18T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1ea8ff42a7988fd9",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "feed_name": "OpenAI",
-   "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-   "published_iso": "2026-10-14T00:00:00+00:00",
-   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-  },
-  {
-   "id": "rss-1ed301b1b45fa72d",
-   "title": "Learning sparse neural networks through L₀ regularization",
-   "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
-   "feed_name": "OpenAI",
-   "published": "Mon, 04 Dec 2017 08:00:00 GMT",
-   "published_iso": "2017-12-04T08:00:00+00:00",
-   "summary": ""
   }
  ]
 }
