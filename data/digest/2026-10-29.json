@@ -1,12 +1,131 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T00:58:48.270804+08:00",
+ "generated_at": "2026-10-29T05:35:42.763066+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Apple's git still trusts the compromised eMudhra certificates",
+     "url": "https://emudhra.we-have-a-problem.com/apple.html",
+     "meta": "+209 分 / 4.6 小时 · 现 ⭐ 964",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "CNC Stone Carving",
+     "url": "https://carmelitegothic.com/cnc-stone-carving/",
+     "meta": "+175 分 / 4.6 小时 · 现 ⭐ 338",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Emacs Turns 50",
+     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+     "meta": "+164 分 / 4.6 小时 · 现 ⭐ 362",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Start Doing Graph Theory",
+     "url": "https://vertex.degree/",
+     "meta": "+144 分 / 4.6 小时 · 现 ⭐ 514",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+     "url": "https://www.circuithub.com/post/unveiling-the-grid",
+     "meta": "+141 分 / 4.6 小时 · 现 ⭐ 361",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+     "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+     "meta": "+137 分 / 4.6 小时 · 现 ⭐ 369",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+     "url": "https://surgehq.ai/blog/dayjob-tax",
+     "meta": "+121 分 / 4.6 小时 · 现 ⭐ 159",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gaussian Splats part 3: There's always a bigger scene",
+     "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+     "meta": "+43 分 / 4.6 小时 · 现 ⭐ 83",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+     "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+     "meta": "+41 分 / 4.6 小时 · 现 ⭐ 180",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
+     "url": "https://spectrum.ieee.org/ground-effect-vehicle",
+     "meta": "+34 分 / 4.6 小时 · 现 ⭐ 40",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+     "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+     "meta": "TechCrunch AI · 2026-10-28",
+     "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+     "meta": "Ars Technica · 2026-10-28",
+     "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+     "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+     "meta": "Ars Technica · 2026-10-28",
+     "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
@@ -72,14 +191,6 @@
      "origin_source": "blog_rss"
     },
     {
-     "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-     "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-     "meta": "Ars Technica · 2026-10-27",
-     "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
      "meta": "Ars Technica · 2026-10-27",
@@ -102,30 +213,6 @@
      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Our newest AI Quest: Mapping the human brain",
-     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-     "meta": "Google AI Blog · 2026-10-26",
-     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-     "meta": "OpenAI · 2026-10-26",
-     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Build more responsive apps with the Decisions API",
-     "url": "https://openai.com/index/decisions-api",
-     "meta": "OpenAI · 2026-10-22",
-     "summary": "Fast, focused, low-cost decisions for any application.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +224,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 4390 · C",
+     "meta": "⭐ 4409 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 4223 · Python",
+     "meta": "⭐ 4254 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "unclebob/ub-mode",
      "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 3525",
+     "meta": "⭐ 3680",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "designfuchen/word-atlas",
      "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 3019 · TypeScript",
+     "meta": "⭐ 3033 · TypeScript",
      "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "interplains/Zero-Breach-Toolkit",
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-     "meta": "⭐ 2244 · Python",
+     "meta": "⭐ 2625 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,15 +264,15 @@
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 2199 · Python",
+     "meta": "⭐ 2244 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "oosexgang/hackios-xnu-kernel",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1887 · C",
+     "title": "oosexgang/hakios-xnu-kernel",
+     "url": "https://github.com/oosexgang/hakios-xnu-kernel",
+     "meta": "⭐ 1898 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +280,7 @@
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 1722 · HTML",
+     "meta": "⭐ 1811 · HTML",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -201,7 +288,7 @@
     {
      "title": "enesozturk/dimensional-drawing",
      "url": "https://github.com/enesozturk/dimensional-drawing",
-     "meta": "⭐ 1356 · HTML",
+     "meta": "⭐ 1377 · HTML",
      "summary": "Create Apple style dimensional drawings of UI components.",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +296,7 @@
     {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1355 · Python",
+     "meta": "⭐ 1361 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +304,7 @@
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1282 · TypeScript",
+     "meta": "⭐ 1299 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +312,7 @@
     {
      "title": "DenisSergeevitch/ex-ussr-kinship-research",
      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-     "meta": "⭐ 1144 · Python",
+     "meta": "⭐ 1170 · Python",
      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +320,7 @@
     {
      "title": "Snapintosh/Snapintosh",
      "url": "https://github.com/Snapintosh/Snapintosh",
-     "meta": "⭐ 1026 · Python",
+     "meta": "⭐ 1031 · Python",
      "summary": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
      "reason": null,
      "origin_source": "github_search"
@@ -241,7 +328,7 @@
     {
      "title": "KillaBoi/StealMyBitcoin-PoC",
      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-     "meta": "⭐ 981 · Python",
+     "meta": "⭐ 982 · Python",
      "summary": "A public release of the Steal My Bitcoin challenge",
      "reason": null,
      "origin_source": "github_search"
@@ -278,6 +365,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Apple's git still trusts the compromised eMudhra certificates",
+     "url": "https://emudhra.we-have-a-problem.com/apple.html",
+     "meta": "⭐ 964 · 💬 364",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
      "meta": "⭐ 924 · 💬 650",
@@ -286,9 +381,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-     "url": "https://emudhra.we-have-a-problem.com/apple.html",
-     "meta": "⭐ 755 · 💬 289",
+     "title": "Gemini 4 Carbon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+     "meta": "⭐ 653 · 💬 534",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Start Doing Graph Theory",
+     "url": "https://vertex.degree/",
+     "meta": "⭐ 514 · 💬 115",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -302,6 +405,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Why is this fingerprinting script creating bioweapons?",
+     "url": "https://nullpt.rs/fingerprinting-bioweapons",
+     "meta": "⭐ 462 · 💬 100",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "MacBook Pro with PROLED XDR Display and Touch",
+     "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+     "meta": "⭐ 416 · 💬 708",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Git for the US Code",
      "url": "https://lexifina.com/blog/git-for-the-us-code",
      "meta": "⭐ 375 · 💬 199",
@@ -310,9 +429,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Start Doing Graph Theory",
-     "url": "https://vertex.degree/",
-     "meta": "⭐ 370 · 💬 85",
+     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+     "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+     "meta": "⭐ 369 · 💬 427",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Emacs Turns 50",
+     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+     "meta": "⭐ 362 · 💬 155",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+     "url": "https://www.circuithub.com/post/unveiling-the-grid",
+     "meta": "⭐ 361 · 💬 178",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -329,54 +464,6 @@
      "title": "Tailscale SSH: Investigation and remediation update",
      "url": "https://tailscale.com/ssh-investigation-update",
      "meta": "⭐ 343 · 💬 178",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Early progress on accelerating drug development with Claude",
-     "url": "https://www.anthropic.com/research/early-progress-drug-development",
-     "meta": "⭐ 294 · 💬 283",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-     "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-     "meta": "⭐ 232 · 💬 259",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
-     "url": "https://www.circuithub.com/post/unveiling-the-grid",
-     "meta": "⭐ 220 · 💬 95",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Emacs Turns 50",
-     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-     "meta": "⭐ 198 · 💬 81",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-     "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-     "meta": "⭐ 167 · 💬 77",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "CNC Stone Carving",
-     "url": "https://carmelitegothic.com/cnc-stone-carving/",
-     "meta": "⭐ 163 · 💬 46",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

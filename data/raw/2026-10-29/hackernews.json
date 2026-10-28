@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-29T00:58:45.103945+08:00",
- "count": 25,
+ "updated_at": "2026-10-29T05:35:39.886866+08:00",
+ "count": 40,
  "items": [
   {
    "id": "hn-50208960",
    "title": "Start Doing Graph Theory",
    "url": "https://vertex.degree/",
    "hn_url": "https://news.ycombinator.com/item?id=50208960",
-   "score": 370,
-   "comments": 85,
+   "score": 514,
+   "comments": 115,
    "author": "ibobev",
    "time_iso": "2026-10-23T13:49:50+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 370
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 514
     }
    ]
   },
@@ -24,14 +28,18 @@
    "title": "Gaussian Splats part 3: There's always a bigger scene",
    "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
    "hn_url": "https://news.ycombinator.com/item?id=50209269",
-   "score": 40,
-   "comments": 7,
+   "score": 83,
+   "comments": 18,
    "author": "ibobev",
    "time_iso": "2026-10-23T14:07:21+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 40
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 83
     }
    ]
   },
@@ -56,14 +64,34 @@
    "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
    "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
    "hn_url": "https://news.ycombinator.com/item?id=50223739",
-   "score": 139,
-   "comments": 30,
+   "score": 180,
+   "comments": 37,
    "author": "healeycodes",
    "time_iso": "2026-10-24T18:17:57+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 139
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 180
+    }
+   ]
+  },
+  {
+   "id": "hn-50224482",
+   "title": "The Style Is Father of the Man",
+   "url": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
+   "hn_url": "https://news.ycombinator.com/item?id=50224482",
+   "score": 6,
+   "comments": 2,
+   "author": "lermontov",
+   "time_iso": "2026-10-24T19:48:47+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 6
     }
    ]
   },
@@ -72,14 +100,18 @@
    "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
    "url": "https://spectrum.ieee.org/ground-effect-vehicle",
    "hn_url": "https://news.ycombinator.com/item?id=50231649",
-   "score": 6,
-   "comments": 2,
+   "score": 40,
+   "comments": 31,
    "author": "rbanffy",
    "time_iso": "2026-10-25T13:56:07+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 40
     }
    ]
   },
@@ -100,18 +132,54 @@
    ]
   },
   {
+   "id": "hn-50238637",
+   "title": "Oseberg Tapestry Fragments",
+   "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+   "hn_url": "https://news.ycombinator.com/item?id=50238637",
+   "score": 9,
+   "comments": 0,
+   "author": "benbreen",
+   "time_iso": "2026-10-26T03:14:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
    "id": "hn-50243060",
-   "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
    "url": "https://www.circuithub.com/post/unveiling-the-grid",
    "hn_url": "https://news.ycombinator.com/item?id=50243060",
-   "score": 220,
-   "comments": 95,
+   "score": 361,
+   "comments": 178,
    "author": "seddona",
    "time_iso": "2026-10-26T13:13:31+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 220
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 361
+    }
+   ]
+  },
+  {
+   "id": "hn-50247342",
+   "title": "The tragedy of losing your Wikipedia page",
+   "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+   "hn_url": "https://news.ycombinator.com/item?id=50247342",
+   "score": 11,
+   "comments": 16,
+   "author": "tptacek",
+   "time_iso": "2026-10-26T17:15:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 11
     }
    ]
   },
@@ -213,17 +281,21 @@
   },
   {
    "id": "hn-50271640",
-   "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+   "title": "Apple's git still trusts the compromised eMudhra certificates",
    "url": "https://emudhra.we-have-a-problem.com/apple.html",
    "hn_url": "https://news.ycombinator.com/item?id=50271640",
-   "score": 755,
-   "comments": 289,
+   "score": 964,
+   "comments": 364,
    "author": "galadran",
    "time_iso": "2026-10-28T11:03:40+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 755
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 964
     }
    ]
   },
@@ -264,14 +336,18 @@
    "title": "Emacs Turns 50",
    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
    "hn_url": "https://news.ycombinator.com/item?id=50273171",
-   "score": 198,
-   "comments": 81,
+   "score": 362,
+   "comments": 155,
    "author": "internet_points",
    "time_iso": "2026-10-28T13:25:11+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 198
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 362
     }
    ]
   },
@@ -280,14 +356,34 @@
    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50273396",
-   "score": 232,
-   "comments": 259,
+   "score": 369,
+   "comments": 427,
    "author": "danso",
    "time_iso": "2026-10-28T13:41:30+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 232
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 369
+    }
+   ]
+  },
+  {
+   "id": "hn-50273731",
+   "title": "The Agent SDK",
+   "url": "https://cursor.com/blog/agent-sdk",
+   "hn_url": "https://news.ycombinator.com/item?id=50273731",
+   "score": 78,
+   "comments": 91,
+   "author": "torutofu",
+   "time_iso": "2026-10-28T14:02:20+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 78
     }
    ]
   },
@@ -308,18 +404,38 @@
    ]
   },
   {
+   "id": "hn-50274251",
+   "title": "AlpineBSD",
+   "url": "https://wiki.alpinebsd.org",
+   "hn_url": "https://news.ycombinator.com/item?id=50274251",
+   "score": 142,
+   "comments": 116,
+   "author": "bradley_taunt",
+   "time_iso": "2026-10-28T14:30:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 142
+    }
+   ]
+  },
+  {
    "id": "hn-50274409",
    "title": "CNC Stone Carving",
    "url": "https://carmelitegothic.com/cnc-stone-carving/",
    "hn_url": "https://news.ycombinator.com/item?id=50274409",
-   "score": 163,
-   "comments": 46,
+   "score": 338,
+   "comments": 105,
    "author": "bschne",
    "time_iso": "2026-10-28T14:38:22+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 163
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 338
     }
    ]
   },
@@ -392,14 +508,178 @@
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "url": "https://surgehq.ai/blog/dayjob-tax",
    "hn_url": "https://news.ycombinator.com/item?id=50275626",
-   "score": 38,
-   "comments": 24,
+   "score": 159,
+   "comments": 87,
    "author": "landonxi",
    "time_iso": "2026-10-28T15:46:30+00:00",
    "history": [
     {
      "t": "2026-10-29T00:58:45.103945+08:00",
      "score": 38
+    },
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 159
+    }
+   ]
+  },
+  {
+   "id": "hn-50276792",
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "hn_url": "https://news.ycombinator.com/item?id=50276792",
+   "score": 653,
+   "comments": 534,
+   "author": "acossta",
+   "time_iso": "2026-10-28T17:01:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 653
+    }
+   ]
+  },
+  {
+   "id": "hn-50276883",
+   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+   "url": "https://slidebyside.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50276883",
+   "score": 41,
+   "comments": 18,
+   "author": "denismenace",
+   "time_iso": "2026-10-28T17:07:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50276940",
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+   "hn_url": "https://news.ycombinator.com/item?id=50276940",
+   "score": 416,
+   "comments": 708,
+   "author": "etothet",
+   "time_iso": "2026-10-28T17:10:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 416
+    }
+   ]
+  },
+  {
+   "id": "hn-50276998",
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "hn_url": "https://news.ycombinator.com/item?id=50276998",
+   "score": 462,
+   "comments": 100,
+   "author": "hazebooth",
+   "time_iso": "2026-10-28T17:13:29+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 462
+    }
+   ]
+  },
+  {
+   "id": "hn-50277755",
+   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "hn_url": "https://news.ycombinator.com/item?id=50277755",
+   "score": 22,
+   "comments": 0,
+   "author": "ibobev",
+   "time_iso": "2026-10-28T17:45:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50280178",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "hn_url": "https://news.ycombinator.com/item?id=50280178",
+   "score": 41,
+   "comments": 23,
+   "author": "jacquesm",
+   "time_iso": "2026-10-28T20:10:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50280722",
+   "title": "The case of the 9 bit AES key",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+   "hn_url": "https://news.ycombinator.com/item?id=50280722",
+   "score": 6,
+   "comments": 1,
+   "author": "ledoge",
+   "time_iso": "2026-10-28T20:51:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50280824",
+   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+   "url": "https://nango.dev/careers",
+   "hn_url": "https://news.ycombinator.com/item?id=50280824",
+   "score": 1,
+   "comments": 0,
+   "author": "bastienbeurier",
+   "time_iso": "2026-10-28T21:00:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50280864",
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "hn_url": "https://news.ycombinator.com/item?id=50280864",
+   "score": 53,
+   "comments": 10,
+   "author": "Aboutplants",
+   "time_iso": "2026-10-28T21:03:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 53
+    }
+   ]
+  },
+  {
+   "id": "hn-50281044",
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+   "hn_url": "https://news.ycombinator.com/item?id=50281044",
+   "score": 13,
+   "comments": 0,
+   "author": "mhb",
+   "time_iso": "2026-10-28T21:19:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 13
     }
    ]
   }
