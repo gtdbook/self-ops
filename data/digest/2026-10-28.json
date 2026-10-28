@@ -1,7 +1,22 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T11:57:56.750487+08:00",
+ "generated_at": "2026-10-28T18:27:01.042750+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+     "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+     "meta": "Hacker News 热榜 · 博客与技术媒体",
+     "summary": "另见：Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Ghostty 1.4",
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-     "meta": "+556 分 / 8.7 小时 · 现 ⭐ 839",
+     "meta": "+757 分 / 15.2 小时 · 现 ⭐ 1040",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +33,7 @@
     {
      "title": "Genie 4",
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "meta": "+393 分 / 8.7 小时 · 现 ⭐ 788",
+     "meta": "+510 分 / 15.2 小时 · 现 ⭐ 905",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +41,7 @@
     {
      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-     "meta": "+325 分 / 8.7 小时 · 现 ⭐ 845",
+     "meta": "+424 分 / 15.2 小时 · 现 ⭐ 944",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,31 +49,7 @@
     {
      "title": "New 14‑inch MacBook Pro with M6",
      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-     "meta": "+191 分 / 8.7 小时 · 现 ⭐ 300",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Python's experimental JIT to be removed",
-     "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-     "meta": "+113 分 / 8.7 小时 · 现 ⭐ 461",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Classification of Finite Simple Groups Formalized in Lean",
-     "url": "https://cfsg.axiommath.ai/",
-     "meta": "+106 分 / 8.7 小时 · 现 ⭐ 184",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "New iMac with M6",
-     "url": "https://www.apple.com/imac/",
-     "meta": "+100 分 / 8.7 小时 · 现 ⭐ 318",
+     "meta": "+255 分 / 15.2 小时 · 现 ⭐ 364",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,15 +57,23 @@
     {
      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
      "url": "https://www.brangus.io/survival-llm",
-     "meta": "+88 分 / 4.5 小时 · 现 ⭐ 221",
+     "meta": "+224 分 / 11.0 小时 · 现 ⭐ 357",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-     "url": "https://www.liquid.ai/blog/lfm3",
-     "meta": "+85 分 / 8.7 小时 · 现 ⭐ 127",
+     "title": "Git for the US Code",
+     "url": "https://lexifina.com/blog/git-for-the-us-code",
+     "meta": "+200 分 / 6.5 小时 · 现 ⭐ 276",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Python's experimental JIT to be removed",
+     "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+     "meta": "+164 分 / 15.2 小时 · 现 ⭐ 512",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -82,7 +81,23 @@
     {
      "title": "Early progress on accelerating drug development with Claude",
      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-     "meta": "+85 分 / 4.5 小时 · 现 ⭐ 160",
+     "meta": "+155 分 / 11.0 小时 · 现 ⭐ 230",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tailscale SSH: Investigation and remediation update",
+     "url": "https://tailscale.com/ssh-investigation-update",
+     "meta": "+139 分 / 11.0 小时 · 现 ⭐ 289",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Classification of Finite Simple Groups Formalized in Lean",
+     "url": "https://cfsg.axiommath.ai/",
+     "meta": "+135 分 / 15.2 小时 · 现 ⭐ 213",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +239,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 4311 · C",
+     "meta": "⭐ 4344 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -232,24 +247,24 @@
     {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 3556 · Python",
+     "meta": "⭐ 3975 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "designfuchen/word-atlas",
-     "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 2689 · TypeScript",
-     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "unclebob/ub-mode",
      "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 2549",
+     "meta": "⭐ 3080",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 2901 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -272,8 +287,16 @@
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 2035 · Python",
+     "meta": "⭐ 2129 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "oosexgang/hackios-xnu-kernel",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "meta": "⭐ 1867 · C",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -286,10 +309,10 @@
      "origin_source": "github_search"
     },
     {
-     "title": "oosexgang/hackios-xnu-kernel",
-     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1828 · C",
-     "summary": "",
+     "title": "interplains/Zero-Breach-Toolkit",
+     "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+     "meta": "⭐ 1629 · Python",
+     "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -318,26 +341,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "colinhacks/reylo",
-     "url": "https://github.com/colinhacks/reylo",
-     "meta": "⭐ 1339 · Rust",
-     "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1325 · Python",
+     "meta": "⭐ 1345 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "DLSS-5-Swaper-New/.github",
-     "url": "https://github.com/DLSS-5-Swaper-New/.github",
-     "meta": "⭐ 1281",
-     "summary": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
+     "title": "colinhacks/reylo",
+     "url": "https://github.com/colinhacks/reylo",
+     "meta": "⭐ 1339 · Rust",
+     "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -349,17 +364,17 @@
    "errors": [],
    "items": [
     {
-     "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-     "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-     "meta": "⭐ 845 · 💬 299",
+     "title": "Ghostty 1.4",
+     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+     "meta": "⭐ 1040 · 💬 336",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Ghostty 1.4",
-     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-     "meta": "⭐ 839 · 💬 261",
+     "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+     "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+     "meta": "⭐ 944 · 💬 345",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +382,7 @@
     {
      "title": "Genie 4",
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "meta": "⭐ 788 · 💬 477",
+     "meta": "⭐ 905 · 💬 519",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +390,7 @@
     {
      "title": "Python's experimental JIT to be removed",
      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-     "meta": "⭐ 461 · 💬 249",
+     "meta": "⭐ 512 · 💬 277",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -397,17 +412,57 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "New iMac with M6",
-     "url": "https://www.apple.com/imac/",
-     "meta": "⭐ 318 · 💬 393",
+     "title": "New 14‑inch MacBook Pro with M6",
+     "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+     "meta": "⭐ 364 · 💬 498",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "New 14‑inch MacBook Pro with M6",
-     "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-     "meta": "⭐ 300 · 💬 385",
+     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+     "url": "https://www.brangus.io/survival-llm",
+     "meta": "⭐ 357 · 💬 142",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "New iMac with M6",
+     "url": "https://www.apple.com/imac/",
+     "meta": "⭐ 337 · 💬 426",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tailscale SSH: Investigation and remediation update",
+     "url": "https://tailscale.com/ssh-investigation-update",
+     "meta": "⭐ 289 · 💬 149",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Git for the US Code",
+     "url": "https://lexifina.com/blog/git-for-the-us-code",
+     "meta": "⭐ 276 · 💬 137",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+     "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+     "meta": "⭐ 241 · 💬 41",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Early progress on accelerating drug development with Claude",
+     "url": "https://www.anthropic.com/research/early-progress-drug-development",
+     "meta": "⭐ 230 · 💬 219",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,49 +476,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Tailscale SSH: Investigation and remediation update",
-     "url": "https://tailscale.com/ssh-investigation-update",
-     "meta": "⭐ 223 · 💬 116",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-     "url": "https://www.brangus.io/survival-llm",
-     "meta": "⭐ 221 · 💬 115",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-     "meta": "⭐ 212 · 💬 117",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Discord will soon let anyone find public server messages through Google",
-     "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-     "meta": "⭐ 197 · 💬 112",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Classification of Finite Simple Groups Formalized in Lean",
      "url": "https://cfsg.axiommath.ai/",
-     "meta": "⭐ 184 · 💬 49",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "PHP2Shell: Exploitation attempts and remediation trends",
-     "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-     "meta": "⭐ 167 · 💬 55",
+     "meta": "⭐ 213 · 💬 59",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -500,10 +515,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Trigger.dev: Webhooks for your AI agents",
+     "url": "https://www.producthunt.com/products/trigger-dev",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Run AI agents with Slack, Supabase and 50+ other services",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "1Password for Agents",
      "url": "https://www.producthunt.com/products/1password",
      "meta": "Product Hunt · 2026-10-22",
      "summary": "Let AI agents sign in for you without seeing your passwords",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AirPosture",
+     "url": "https://www.producthunt.com/products/airposture-2",
+     "meta": "Product Hunt · 2026-10-24",
+     "summary": "Now on Mac, with a voice coach in your AirPods",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -516,10 +547,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "NotiKeep",
+     "url": "https://www.producthunt.com/products/notikeep",
+     "meta": "Product Hunt · 2026-10-27",
+     "summary": "Notification history for iPhone, on your device",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Flipcorder",
      "url": "https://www.producthunt.com/products/flipcorder",
      "meta": "Product Hunt · 2026-10-10",
      "summary": "A 1991 camcorder for your iPhone, one tape a day",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "RageLayer",
+     "url": "https://www.producthunt.com/products/ragelayer",
+     "meta": "Product Hunt · 2026-10-04",
+     "summary": "Let visitors smash your website, then sweep it back",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -540,58 +587,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Zest",
+     "url": "https://www.producthunt.com/products/zest-6",
+     "meta": "Product Hunt · 2026-10-25",
+     "summary": "Hold ⌥Space, flick, and an AI agent does the dev chore",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dedica",
+     "url": "https://www.producthunt.com/products/dedica",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Check if AI agents can use your website",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Knock",
      "url": "https://www.producthunt.com/products/knock-7",
      "meta": "Product Hunt · 2026-10-24",
      "summary": "Create shortcuts by hitting your mac",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "VibeiDE",
-     "url": "https://www.producthunt.com/products/vibeide",
-     "meta": "Product Hunt · 2026-10-25",
-     "summary": "Queue agent tasks in parallel and review each result",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "pawl",
-     "url": "https://www.producthunt.com/products/pawl",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "a tiny mac focus timer you start by pulling a paw",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Paddock",
-     "url": "https://www.producthunt.com/products/paddock-2",
-     "meta": "Product Hunt · 2026-10-27",
-     "summary": "Computers and sandboxes for your agents",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "AI Bridge",
-     "url": "https://www.producthunt.com/products/ai-bridge",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "Every AI coding agent on your Mac, in its place",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Orbit",
-     "url": "https://www.producthunt.com/products/orbit-app-blocker",
-     "meta": "Product Hunt · 2026-10-14",
-     "summary": "Stop doomscrolling. Earn every app unlock.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Revix AI",
-     "url": "https://www.producthunt.com/products/revix-ai-2",
-     "meta": "Product Hunt · 2026-10-26",
-     "summary": "AI code review that learns your repo's own rules",
      "reason": null,
      "origin_source": "producthunt"
     }
