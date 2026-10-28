@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T07:28:21.193983+08:00",
+ "generated_at": "2026-10-28T11:57:56.750487+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "Ghostty 1.4",
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-     "meta": "+364 分 / 4.2 小时 · 现 ⭐ 647",
+     "meta": "+556 分 / 8.7 小时 · 现 ⭐ 839",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,7 @@
     {
      "title": "Genie 4",
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "meta": "+255 分 / 4.2 小时 · 现 ⭐ 650",
+     "meta": "+393 分 / 8.7 小时 · 现 ⭐ 788",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,7 @@
     {
      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-     "meta": "+203 分 / 4.2 小时 · 现 ⭐ 723",
+     "meta": "+325 分 / 8.7 小时 · 现 ⭐ 845",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +34,7 @@
     {
      "title": "New 14‑inch MacBook Pro with M6",
      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-     "meta": "+143 分 / 4.2 小时 · 现 ⭐ 252",
+     "meta": "+191 分 / 8.7 小时 · 现 ⭐ 300",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,23 +42,7 @@
     {
      "title": "Python's experimental JIT to be removed",
      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-     "meta": "+77 分 / 4.2 小时 · 现 ⭐ 425",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Wikipedia's Cleanup of AI-Generated Content",
-     "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-     "meta": "+76 分 / 4.2 小时 · 现 ⭐ 428",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "New iMac with M6",
-     "url": "https://www.apple.com/imac/",
-     "meta": "+76 分 / 4.2 小时 · 现 ⭐ 294",
+     "meta": "+113 分 / 8.7 小时 · 现 ⭐ 461",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,7 +50,23 @@
     {
      "title": "Classification of Finite Simple Groups Formalized in Lean",
      "url": "https://cfsg.axiommath.ai/",
-     "meta": "+76 分 / 4.2 小时 · 现 ⭐ 154",
+     "meta": "+106 分 / 8.7 小时 · 现 ⭐ 184",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "New iMac with M6",
+     "url": "https://www.apple.com/imac/",
+     "meta": "+100 分 / 8.7 小时 · 现 ⭐ 318",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+     "url": "https://www.brangus.io/survival-llm",
+     "meta": "+88 分 / 4.5 小时 · 现 ⭐ 221",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -74,15 +74,15 @@
     {
      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
      "url": "https://www.liquid.ai/blog/lfm3",
-     "meta": "+62 分 / 4.2 小时 · 现 ⭐ 104",
+     "meta": "+85 分 / 8.7 小时 · 现 ⭐ 127",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-     "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-     "meta": "+40 分 / 4.2 小时 · 现 ⭐ 128",
+     "title": "Early progress on accelerating drug development with Claude",
+     "url": "https://www.anthropic.com/research/early-progress-drug-development",
+     "meta": "+85 分 / 4.5 小时 · 现 ⭐ 160",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -94,6 +94,14 @@
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+     "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+     "meta": "TechCrunch AI · 2026-10-27",
+     "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
@@ -205,14 +213,6 @@
      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Will AI expose the rickety infrastructure of the internet?",
-     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-     "meta": "TechCrunch AI · 2026-10-24",
-     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -224,7 +224,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 4266 · C",
+     "meta": "⭐ 4311 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 3203 · Python",
+     "meta": "⭐ 3556 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
@@ -240,8 +240,16 @@
     {
      "title": "designfuchen/word-atlas",
      "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 2451 · TypeScript",
+     "meta": "⭐ 2689 · TypeScript",
      "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "meta": "⭐ 2549",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -250,14 +258,6 @@
      "url": "https://github.com/wesbos/3d-model-anything",
      "meta": "⭐ 2212 · Swift",
      "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "unclebob/ub-mode",
-     "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 2183",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -272,7 +272,7 @@
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 1990 · Python",
+     "meta": "⭐ 2035 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "oosexgang/hackios-xnu-kernel",
      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-     "meta": "⭐ 1813 · C",
+     "meta": "⭐ 1828 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -328,16 +328,16 @@
     {
      "title": "morganlinton/BeautifulRust",
      "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1306 · Python",
+     "meta": "⭐ 1325 · Python",
      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "enesozturk/dimensional-drawing",
-     "url": "https://github.com/enesozturk/dimensional-drawing",
-     "meta": "⭐ 1239 · HTML",
-     "summary": "Create Apple style dimensional drawings of UI components.",
+     "title": "DLSS-5-Swaper-New/.github",
+     "url": "https://github.com/DLSS-5-Swaper-New/.github",
+     "meta": "⭐ 1281",
+     "summary": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,15 +351,7 @@
     {
      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-     "meta": "⭐ 723 · 💬 261",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Genie 4",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "meta": "⭐ 650 · 💬 398",
+     "meta": "⭐ 845 · 💬 299",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +359,23 @@
     {
      "title": "Ghostty 1.4",
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-     "meta": "⭐ 647 · 💬 201",
+     "meta": "⭐ 839 · 💬 261",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Genie 4",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "meta": "⭐ 788 · 💬 477",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Python's experimental JIT to be removed",
+     "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+     "meta": "⭐ 461 · 💬 249",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -376,14 +384,6 @@
      "title": "Wikipedia's Cleanup of AI-Generated Content",
      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
      "meta": "⭐ 428 · 💬 194",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Python's experimental JIT to be removed",
-     "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-     "meta": "⭐ 425 · 💬 220",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -399,7 +399,7 @@
     {
      "title": "New iMac with M6",
      "url": "https://www.apple.com/imac/",
-     "meta": "⭐ 294 · 💬 350",
+     "meta": "⭐ 318 · 💬 393",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +407,7 @@
     {
      "title": "New 14‑inch MacBook Pro with M6",
      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-     "meta": "⭐ 252 · 💬 301",
+     "meta": "⭐ 300 · 💬 385",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -416,6 +416,22 @@
      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
      "meta": "⭐ 226 · 💬 148",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tailscale SSH: Investigation and remediation update",
+     "url": "https://tailscale.com/ssh-investigation-update",
+     "meta": "⭐ 223 · 💬 116",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+     "url": "https://www.brangus.io/survival-llm",
+     "meta": "⭐ 221 · 💬 115",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,33 +453,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Classification of Finite Simple Groups Formalized in Lean",
+     "url": "https://cfsg.axiommath.ai/",
+     "meta": "⭐ 184 · 💬 49",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "PHP2Shell: Exploitation attempts and remediation trends",
      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
      "meta": "⭐ 167 · 💬 55",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Classification of Finite Simple Groups Formalized in Lean",
-     "url": "https://cfsg.axiommath.ai/",
-     "meta": "⭐ 154 · 💬 40",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Tailscale SSH: Investigation and remediation update",
-     "url": "https://tailscale.com/ssh-investigation-update",
-     "meta": "⭐ 150 · 💬 90",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-     "url": "https://www.brangus.io/survival-llm",
-     "meta": "⭐ 133 · 💬 85",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

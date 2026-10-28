@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-28T07:28:19.832967+08:00",
- "count": 20,
+ "updated_at": "2026-10-28T11:57:55.331823+08:00",
+ "count": 28,
  "items": [
   {
    "id": "gh-1427696883",
@@ -159,7 +159,7 @@
    "id": "gh-1429116361",
    "title": "Snapintosh/Snapintosh",
    "url": "https://github.com/Snapintosh/Snapintosh",
-   "stars": 1007,
+   "stars": 1016,
    "language": "Python",
    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
    "created_at": "2026-10-22T01:40:05Z",
@@ -171,6 +171,25 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1007
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1016
+    }
+   ]
+  },
+  {
+   "id": "gh-1429213407",
+   "title": "assetnote/php2shell-scanner",
+   "url": "https://github.com/assetnote/php2shell-scanner",
+   "stars": 950,
+   "language": "Python",
+   "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+   "created_at": "2026-10-22T03:53:20Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 950
     }
    ]
   },
@@ -178,7 +197,7 @@
    "id": "gh-1429328794",
    "title": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "stars": 1813,
+   "stars": 1828,
    "language": "C",
    "description": "",
    "created_at": "2026-10-22T06:20:11Z",
@@ -190,6 +209,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1813
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1828
     }
    ]
   },
@@ -197,7 +220,7 @@
    "id": "gh-1430513158",
    "title": "morganlinton/BeautifulRust",
    "url": "https://github.com/morganlinton/BeautifulRust",
-   "stars": 1306,
+   "stars": 1325,
    "language": "Python",
    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
    "created_at": "2026-10-23T03:01:11Z",
@@ -209,6 +232,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1306
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1325
     }
    ]
   },
@@ -216,7 +243,7 @@
    "id": "gh-1431010194",
    "title": "enesozturk/dimensional-drawing",
    "url": "https://github.com/enesozturk/dimensional-drawing",
-   "stars": 1239,
+   "stars": 1271,
    "language": "HTML",
    "description": "Create Apple style dimensional drawings of UI components.",
    "created_at": "2026-10-23T12:20:16Z",
@@ -228,6 +255,25 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1239
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1271
+    }
+   ]
+  },
+  {
+   "id": "gh-1431464445",
+   "title": "surendrapandar/minilytics",
+   "url": "https://github.com/surendrapandar/minilytics",
+   "stars": 719,
+   "language": "TypeScript",
+   "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+   "created_at": "2026-10-23T19:27:24Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 719
     }
    ]
   },
@@ -235,7 +281,7 @@
    "id": "gh-1431545439",
    "title": "JustAResearcher/gpu-unlock-ada",
    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-   "stars": 4266,
+   "stars": 4311,
    "language": "C",
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "created_at": "2026-10-23T21:00:53Z",
@@ -247,6 +293,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 4266
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 4311
     }
    ]
   },
@@ -254,7 +304,7 @@
    "id": "gh-1431830406",
    "title": "t3dotgg/tstack",
    "url": "https://github.com/t3dotgg/tstack",
-   "stars": 1990,
+   "stars": 2035,
    "language": "Python",
    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
    "created_at": "2026-10-24T05:00:20Z",
@@ -266,6 +316,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1990
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 2035
     }
    ]
   },
@@ -273,7 +327,7 @@
    "id": "gh-1431851693",
    "title": "rddmwmddr/android-ad-cleaner",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "stars": 3203,
+   "stars": 3556,
    "language": "Python",
    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "created_at": "2026-10-24T05:35:47Z",
@@ -285,6 +339,40 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 3203
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 3556
+    }
+   ]
+  },
+  {
+   "id": "gh-1432875224",
+   "title": "mizorewww/gdirect",
+   "url": "https://github.com/mizorewww/gdirect",
+   "stars": 751,
+   "language": "Rust",
+   "description": "Rust Google Drive direct downloader using pinned libaria2",
+   "created_at": "2026-10-25T05:52:22Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 751
+    }
+   ]
+  },
+  {
+   "id": "gh-1432883796",
+   "title": "ZiChuanLan/agent-purge",
+   "url": "https://github.com/ZiChuanLan/agent-purge",
+   "stars": 663,
+   "language": "JavaScript",
+   "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+   "created_at": "2026-10-25T06:06:02Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 663
     }
    ]
   },
@@ -292,7 +380,7 @@
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "stars": 2451,
+   "stars": 2689,
    "language": "TypeScript",
    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
    "created_at": "2026-10-25T08:27:22Z",
@@ -304,6 +392,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 2451
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 2689
     }
    ]
   },
@@ -311,7 +403,7 @@
    "id": "gh-1433057196",
    "title": "DenisSergeevitch/ex-ussr-kinship-research",
    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-   "stars": 1050,
+   "stars": 1065,
    "language": "Python",
    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
    "created_at": "2026-10-25T10:05:56Z",
@@ -323,6 +415,25 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1050
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1065
+    }
+   ]
+  },
+  {
+   "id": "gh-1433297111",
+   "title": "interplains/Zero-Breach-Toolkit",
+   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+   "stars": 994,
+   "language": "Python",
+   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+   "created_at": "2026-10-25T14:41:34Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 994
     }
    ]
   },
@@ -330,7 +441,7 @@
    "id": "gh-1433377156",
    "title": "unclebob/ub-mode",
    "url": "https://github.com/unclebob/ub-mode",
-   "stars": 2183,
+   "stars": 2549,
    "language": "",
    "description": "",
    "created_at": "2026-10-25T16:04:09Z",
@@ -342,6 +453,25 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 2183
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 2549
+    }
+   ]
+  },
+  {
+   "id": "gh-1433636611",
+   "title": "DrWhax/unfairplay",
+   "url": "https://github.com/DrWhax/unfairplay",
+   "stars": 665,
+   "language": "Go",
+   "description": "Decrypt IPA's on MacOS",
+   "created_at": "2026-10-25T21:22:20Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 665
     }
    ]
   },
@@ -349,7 +479,7 @@
    "id": "gh-1433653089",
    "title": "KillaBoi/StealMyBitcoin-PoC",
    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "stars": 954,
+   "stars": 961,
    "language": "Python",
    "description": "A public release of the Steal My Bitcoin challenge",
    "created_at": "2026-10-25T21:48:32Z",
@@ -361,6 +491,10 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 954
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 961
     }
    ]
   },
@@ -368,7 +502,7 @@
    "id": "gh-1433904617",
    "title": "andyhuo520/digital-human-koubo",
    "url": "https://github.com/andyhuo520/digital-human-koubo",
-   "stars": 1062,
+   "stars": 1133,
    "language": "TypeScript",
    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
    "created_at": "2026-10-26T04:34:09Z",
@@ -380,6 +514,40 @@
     {
      "t": "2026-10-28T07:28:19.832967+08:00",
      "score": 1062
+    },
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1133
+    }
+   ]
+  },
+  {
+   "id": "gh-1435695423",
+   "title": "anhao/ai-pose-gallery-zh",
+   "url": "https://github.com/anhao/ai-pose-gallery-zh",
+   "stars": 713,
+   "language": "HTML",
+   "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+   "created_at": "2026-10-27T12:24:37Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 713
+    }
+   ]
+  },
+  {
+   "id": "gh-1436185485",
+   "title": "DLSS-5-Swaper-New/.github",
+   "url": "https://github.com/DLSS-5-Swaper-New/.github",
+   "stars": 1281,
+   "language": "",
+   "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
+   "created_at": "2026-10-27T19:27:47Z",
+   "history": [
+    {
+     "t": "2026-10-28T11:57:55.331823+08:00",
+     "score": 1281
     }
    ]
   }
