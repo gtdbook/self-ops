@@ -1,15 +1,15 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-29T05:35:39.886866+08:00",
- "count": 40,
+ "updated_at": "2026-10-29T09:31:46.883673+08:00",
+ "count": 50,
  "items": [
   {
    "id": "hn-50208960",
    "title": "Start Doing Graph Theory",
    "url": "https://vertex.degree/",
    "hn_url": "https://news.ycombinator.com/item?id=50208960",
-   "score": 514,
-   "comments": 115,
+   "score": 583,
+   "comments": 127,
    "author": "ibobev",
    "time_iso": "2026-10-23T13:49:50+00:00",
    "history": [
@@ -20,6 +20,10 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 514
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 583
     }
    ]
   },
@@ -28,8 +32,8 @@
    "title": "Gaussian Splats part 3: There's always a bigger scene",
    "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
    "hn_url": "https://news.ycombinator.com/item?id=50209269",
-   "score": 83,
-   "comments": 18,
+   "score": 101,
+   "comments": 21,
    "author": "ibobev",
    "time_iso": "2026-10-23T14:07:21+00:00",
    "history": [
@@ -40,6 +44,26 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 83
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
+   "id": "hn-50220975",
+   "title": "Why Birds Can Fly over Mount Everest",
+   "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+   "hn_url": "https://news.ycombinator.com/item?id=50220975",
+   "score": 64,
+   "comments": 11,
+   "author": "andsoitis",
+   "time_iso": "2026-10-24T13:17:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 64
     }
    ]
   },
@@ -116,6 +140,22 @@
    ]
   },
   {
+   "id": "hn-50233948",
+   "title": "How we made our MMDB files a 33% smaller",
+   "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+   "hn_url": "https://news.ycombinator.com/item?id=50233948",
+   "score": 12,
+   "comments": 1,
+   "author": "mmaia",
+   "time_iso": "2026-10-25T17:33:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
    "id": "hn-50234796",
    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
    "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
@@ -152,8 +192,8 @@
    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
    "url": "https://www.circuithub.com/post/unveiling-the-grid",
    "hn_url": "https://news.ycombinator.com/item?id=50243060",
-   "score": 361,
-   "comments": 178,
+   "score": 414,
+   "comments": 200,
    "author": "seddona",
    "time_iso": "2026-10-26T13:13:31+00:00",
    "history": [
@@ -164,6 +204,10 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 361
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 414
     }
    ]
   },
@@ -180,6 +224,22 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50250609",
+   "title": "Image generation has come a long way since August 2022",
+   "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
+   "hn_url": "https://news.ycombinator.com/item?id=50250609",
+   "score": 35,
+   "comments": 8,
+   "author": "hunterbrooks",
+   "time_iso": "2026-10-26T20:40:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 35
     }
    ]
   },
@@ -284,8 +344,8 @@
    "title": "Apple's git still trusts the compromised eMudhra certificates",
    "url": "https://emudhra.we-have-a-problem.com/apple.html",
    "hn_url": "https://news.ycombinator.com/item?id=50271640",
-   "score": 964,
-   "comments": 364,
+   "score": 1037,
+   "comments": 378,
    "author": "galadran",
    "time_iso": "2026-10-28T11:03:40+00:00",
    "history": [
@@ -296,6 +356,10 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 964
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 1037
     }
    ]
   },
@@ -376,14 +440,18 @@
    "title": "The Agent SDK",
    "url": "https://cursor.com/blog/agent-sdk",
    "hn_url": "https://news.ycombinator.com/item?id=50273731",
-   "score": 78,
-   "comments": 91,
+   "score": 96,
+   "comments": 111,
    "author": "torutofu",
    "time_iso": "2026-10-28T14:02:20+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 78
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 96
     }
    ]
   },
@@ -408,14 +476,18 @@
    "title": "AlpineBSD",
    "url": "https://wiki.alpinebsd.org",
    "hn_url": "https://news.ycombinator.com/item?id=50274251",
-   "score": 142,
-   "comments": 116,
+   "score": 176,
+   "comments": 161,
    "author": "bradley_taunt",
    "time_iso": "2026-10-28T14:30:26+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 142
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 176
     }
    ]
   },
@@ -424,8 +496,8 @@
    "title": "CNC Stone Carving",
    "url": "https://carmelitegothic.com/cnc-stone-carving/",
    "hn_url": "https://news.ycombinator.com/item?id=50274409",
-   "score": 338,
-   "comments": 105,
+   "score": 399,
+   "comments": 118,
    "author": "bschne",
    "time_iso": "2026-10-28T14:38:22+00:00",
    "history": [
@@ -436,6 +508,10 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 338
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 399
     }
    ]
   },
@@ -508,8 +584,8 @@
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "url": "https://surgehq.ai/blog/dayjob-tax",
    "hn_url": "https://news.ycombinator.com/item?id=50275626",
-   "score": 159,
-   "comments": 87,
+   "score": 202,
+   "comments": 126,
    "author": "landonxi",
    "time_iso": "2026-10-28T15:46:30+00:00",
    "history": [
@@ -520,6 +596,10 @@
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 159
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 202
     }
    ]
   },
@@ -528,14 +608,18 @@
    "title": "Gemini 4 Carbon",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
    "hn_url": "https://news.ycombinator.com/item?id=50276792",
-   "score": 653,
-   "comments": 534,
+   "score": 804,
+   "comments": 661,
    "author": "acossta",
    "time_iso": "2026-10-28T17:01:23+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 653
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 804
     }
    ]
   },
@@ -560,14 +644,18 @@
    "title": "MacBook Pro with PROLED XDR Display and Touch",
    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
    "hn_url": "https://news.ycombinator.com/item?id=50276940",
-   "score": 416,
-   "comments": 708,
+   "score": 497,
+   "comments": 849,
    "author": "etothet",
    "time_iso": "2026-10-28T17:10:37+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 416
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 497
     }
    ]
   },
@@ -576,14 +664,18 @@
    "title": "Why is this fingerprinting script creating bioweapons?",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
    "hn_url": "https://news.ycombinator.com/item?id=50276998",
-   "score": 462,
-   "comments": 100,
+   "score": 842,
+   "comments": 185,
    "author": "hazebooth",
    "time_iso": "2026-10-28T17:13:29+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 462
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 842
     }
    ]
   },
@@ -592,14 +684,18 @@
    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
    "hn_url": "https://news.ycombinator.com/item?id=50277755",
-   "score": 22,
-   "comments": 0,
+   "score": 47,
+   "comments": 3,
    "author": "ibobev",
    "time_iso": "2026-10-28T17:45:24+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 47
     }
    ]
   },
@@ -624,14 +720,18 @@
    "title": "The case of the 9 bit AES key",
    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
    "hn_url": "https://news.ycombinator.com/item?id=50280722",
-   "score": 6,
-   "comments": 1,
+   "score": 76,
+   "comments": 41,
    "author": "ledoge",
    "time_iso": "2026-10-28T20:51:44+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 76
     }
    ]
   },
@@ -647,6 +747,10 @@
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
+     "score": 1
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
      "score": 1
     }
    ]
@@ -668,18 +772,134 @@
    ]
   },
   {
+   "id": "hn-50280974",
+   "title": "A Health Update",
+   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "hn_url": "https://news.ycombinator.com/item?id=50280974",
+   "score": 92,
+   "comments": 8,
+   "author": "frizlab",
+   "time_iso": "2026-10-28T21:13:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
    "id": "hn-50281044",
    "title": "Formlabs Studio 1 $699 Resin Printer",
    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
    "hn_url": "https://news.ycombinator.com/item?id=50281044",
-   "score": 13,
-   "comments": 0,
+   "score": 109,
+   "comments": 81,
    "author": "mhb",
    "time_iso": "2026-10-28T21:19:30+00:00",
    "history": [
     {
      "t": "2026-10-29T05:35:39.886866+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 109
+    }
+   ]
+  },
+  {
+   "id": "hn-50282454",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+   "hn_url": "https://news.ycombinator.com/item?id=50282454",
+   "score": 89,
+   "comments": 92,
+   "author": "babelfish",
+   "time_iso": "2026-10-28T23:35:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 89
+    }
+   ]
+  },
+  {
+   "id": "hn-50282538",
+   "title": "The first wired XR glasses powered by Android XR",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "hn_url": "https://news.ycombinator.com/item?id=50282538",
+   "score": 19,
+   "comments": 15,
+   "author": "yincrash",
+   "time_iso": "2026-10-28T23:45:19+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50282544",
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50282544",
+   "score": 68,
+   "comments": 19,
+   "author": "sashk",
+   "time_iso": "2026-10-28T23:45:46+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
+   "id": "hn-50282766",
+   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+   "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+   "hn_url": "https://news.ycombinator.com/item?id=50282766",
+   "score": 27,
+   "comments": 23,
+   "author": "ilamont",
+   "time_iso": "2026-10-29T00:16:08+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50282838",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "url": "https://divagr.com/blog/qwenputer",
+   "hn_url": "https://news.ycombinator.com/item?id=50282838",
+   "score": 39,
+   "comments": 5,
+   "author": "csmantle",
+   "time_iso": "2026-10-29T00:25:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50282865",
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+   "hn_url": "https://news.ycombinator.com/item?id=50282865",
+   "score": 17,
+   "comments": 14,
+   "author": "paaloeye",
+   "time_iso": "2026-10-29T00:30:37+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T09:31:46.883673+08:00",
+     "score": 17
     }
    ]
   }
