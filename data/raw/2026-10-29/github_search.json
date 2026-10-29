@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-29T09:31:47.628234+08:00",
- "count": 23,
+ "updated_at": "2026-10-29T16:00:22.006626+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1429116361",
@@ -64,7 +64,7 @@
    "id": "gh-1430513158",
    "title": "morganlinton/BeautifulRust",
    "url": "https://github.com/morganlinton/BeautifulRust",
-   "stars": 1366,
+   "stars": 1378,
    "language": "Python",
    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
    "created_at": "2026-10-23T03:01:11Z",
@@ -80,6 +80,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 1366
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 1378
     }
    ]
   },
@@ -87,7 +91,7 @@
    "id": "gh-1431010194",
    "title": "enesozturk/dimensional-drawing",
    "url": "https://github.com/enesozturk/dimensional-drawing",
-   "stars": 1405,
+   "stars": 1474,
    "language": "HTML",
    "description": "Create Apple style dimensional drawings of UI components.",
    "created_at": "2026-10-23T12:20:16Z",
@@ -103,6 +107,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 1405
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 1474
     }
    ]
   },
@@ -110,7 +118,7 @@
    "id": "gh-1431464445",
    "title": "surendrapandar/minilytics",
    "url": "https://github.com/surendrapandar/minilytics",
-   "stars": 760,
+   "stars": 765,
    "language": "TypeScript",
    "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
    "created_at": "2026-10-23T19:27:24Z",
@@ -126,6 +134,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 760
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 765
     }
    ]
   },
@@ -133,7 +145,7 @@
    "id": "gh-1431545439",
    "title": "JustAResearcher/gpu-unlock-ada",
    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-   "stars": 4419,
+   "stars": 4454,
    "language": "C",
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "created_at": "2026-10-23T21:00:53Z",
@@ -149,6 +161,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 4419
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 4454
     }
    ]
   },
@@ -156,7 +172,7 @@
    "id": "gh-1431830406",
    "title": "t3dotgg/tstack",
    "url": "https://github.com/t3dotgg/tstack",
-   "stars": 2271,
+   "stars": 2300,
    "language": "Python",
    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
    "created_at": "2026-10-24T05:00:20Z",
@@ -172,6 +188,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 2271
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 2300
     }
    ]
   },
@@ -179,7 +199,7 @@
    "id": "gh-1431851693",
    "title": "rddmwmddr/android-ad-cleaner",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "stars": 4322,
+   "stars": 4513,
    "language": "Python",
    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "created_at": "2026-10-24T05:35:47Z",
@@ -195,6 +215,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 4322
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 4513
     }
    ]
   },
@@ -217,7 +241,7 @@
    "id": "gh-1432875224",
    "title": "mizorewww/gdirect",
    "url": "https://github.com/mizorewww/gdirect",
-   "stars": 756,
+   "stars": 759,
    "language": "Rust",
    "description": "Rust Google Drive direct downloader using pinned libaria2",
    "created_at": "2026-10-25T05:52:22Z",
@@ -233,6 +257,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 756
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 759
     }
    ]
   },
@@ -240,7 +268,7 @@
    "id": "gh-1432883796",
    "title": "ZiChuanLan/agent-purge",
    "url": "https://github.com/ZiChuanLan/agent-purge",
-   "stars": 799,
+   "stars": 851,
    "language": "JavaScript",
    "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
    "created_at": "2026-10-25T06:06:02Z",
@@ -256,6 +284,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 799
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 851
     }
    ]
   },
@@ -263,7 +295,7 @@
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "stars": 3053,
+   "stars": 3143,
    "language": "TypeScript",
    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
    "created_at": "2026-10-25T08:27:22Z",
@@ -279,6 +311,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 3053
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 3143
     }
    ]
   },
@@ -286,7 +322,7 @@
    "id": "gh-1433057196",
    "title": "DenisSergeevitch/ex-ussr-kinship-research",
    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-   "stars": 1183,
+   "stars": 1195,
    "language": "Python",
    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
    "created_at": "2026-10-25T10:05:56Z",
@@ -302,6 +338,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 1183
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 1195
     }
    ]
   },
@@ -309,7 +349,7 @@
    "id": "gh-1433297111",
    "title": "interplains/Zero-Breach-Toolkit",
    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-   "stars": 2795,
+   "stars": 2997,
    "language": "Python",
    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
    "created_at": "2026-10-25T14:41:34Z",
@@ -325,6 +365,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 2795
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 2997
     }
    ]
   },
@@ -332,7 +376,7 @@
    "id": "gh-1433377156",
    "title": "unclebob/ub-mode",
    "url": "https://github.com/unclebob/ub-mode",
-   "stars": 3785,
+   "stars": 4062,
    "language": "",
    "description": "",
    "created_at": "2026-10-25T16:04:09Z",
@@ -348,6 +392,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 3785
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 4062
     }
    ]
   },
@@ -355,7 +403,7 @@
    "id": "gh-1433636611",
    "title": "DrWhax/unfairplay",
    "url": "https://github.com/DrWhax/unfairplay",
-   "stars": 718,
+   "stars": 747,
    "language": "Go",
    "description": "Decrypt IPA's on MacOS",
    "created_at": "2026-10-25T21:22:20Z",
@@ -363,6 +411,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 718
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 747
     }
    ]
   },
@@ -370,7 +422,7 @@
    "id": "gh-1433653089",
    "title": "KillaBoi/StealMyBitcoin-PoC",
    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "stars": 984,
+   "stars": 989,
    "language": "Python",
    "description": "A public release of the Steal My Bitcoin challenge",
    "created_at": "2026-10-25T21:48:32Z",
@@ -386,6 +438,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 984
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 989
     }
    ]
   },
@@ -393,7 +449,7 @@
    "id": "gh-1433846971",
    "title": "yaojingang/GEOInflow",
    "url": "https://github.com/yaojingang/GEOInflow",
-   "stars": 688,
+   "stars": 700,
    "language": "TypeScript",
    "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
    "created_at": "2026-10-26T03:12:45Z",
@@ -401,6 +457,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 688
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 700
     }
    ]
   },
@@ -408,7 +468,7 @@
    "id": "gh-1433904617",
    "title": "andyhuo520/digital-human-koubo",
    "url": "https://github.com/andyhuo520/digital-human-koubo",
-   "stars": 1317,
+   "stars": 1367,
    "language": "TypeScript",
    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
    "created_at": "2026-10-26T04:34:09Z",
@@ -424,6 +484,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 1317
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 1367
     }
    ]
   },
@@ -431,7 +495,7 @@
    "id": "gh-1434017230",
    "title": "Motionsites-AI/claude-skill",
    "url": "https://github.com/Motionsites-AI/claude-skill",
-   "stars": 898,
+   "stars": 990,
    "language": "Python",
    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
    "created_at": "2026-10-26T06:58:45Z",
@@ -447,6 +511,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 898
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 990
     }
    ]
   },
@@ -454,7 +522,7 @@
    "id": "gh-1434789878",
    "title": "kargulstudio/calender-app-design",
    "url": "https://github.com/kargulstudio/calender-app-design",
-   "stars": 788,
+   "stars": 791,
    "language": "TypeScript",
    "description": "",
    "created_at": "2026-10-26T18:38:56Z",
@@ -470,6 +538,10 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 788
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 791
     }
    ]
   },
@@ -477,7 +549,7 @@
    "id": "gh-1435695423",
    "title": "anhao/ai-pose-gallery-zh",
    "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "stars": 1934,
+   "stars": 2323,
    "language": "HTML",
    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
    "created_at": "2026-10-27T12:24:37Z",
@@ -493,6 +565,25 @@
     {
      "t": "2026-10-29T09:31:47.628234+08:00",
      "score": 1934
+    },
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 2323
+    }
+   ]
+  },
+  {
+   "id": "gh-1436598075",
+   "title": "smithjohn78390/tongjiang-lab",
+   "url": "https://github.com/smithjohn78390/tongjiang-lab",
+   "stars": 708,
+   "language": "HTML",
+   "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+   "created_at": "2026-10-28T04:29:29Z",
+   "history": [
+    {
+     "t": "2026-10-29T16:00:22.006626+08:00",
+     "score": 708
     }
    ]
   }
