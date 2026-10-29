@@ -1,0 +1,514 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T04:51:35.408624+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+     "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+     "meta": "Ars Technica · 2026-10-29",
+     "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+     "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+     "meta": "TechCrunch AI · 2026-10-28",
+     "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+     "meta": "Ars Technica · 2026-10-28",
+     "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+     "meta": "Hugging Face · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "meta": "OpenAI · 2026-10-27",
+     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "meta": "OpenAI · 2026-10-16",
+     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Bringing GPT-Rosalind to academic research labs",
+     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+     "meta": "OpenAI · 2026-10-15",
+     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "meta": "⭐ 4704 · Python",
+     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "meta": "⭐ 4592",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "JustAResearcher/gpu-unlock-ada",
+     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+     "meta": "⭐ 4505 · C",
+     "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "interplains/Zero-Breach-Toolkit",
+     "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+     "meta": "⭐ 3508 · Python",
+     "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 3218 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "anhao/ai-pose-gallery-zh",
+     "url": "https://github.com/anhao/ai-pose-gallery-zh",
+     "meta": "⭐ 3070 · HTML",
+     "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "t3dotgg/tstack",
+     "url": "https://github.com/t3dotgg/tstack",
+     "meta": "⭐ 2374 · Python",
+     "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "enesozturk/dimensional-drawing",
+     "url": "https://github.com/enesozturk/dimensional-drawing",
+     "meta": "⭐ 1552 · HTML",
+     "summary": "Create Apple style dimensional drawings of UI components.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "andyhuo520/digital-human-koubo",
+     "url": "https://github.com/andyhuo520/digital-human-koubo",
+     "meta": "⭐ 1456 · TypeScript",
+     "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "morganlinton/BeautifulRust",
+     "url": "https://github.com/morganlinton/BeautifulRust",
+     "meta": "⭐ 1410 · Python",
+     "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "DenisSergeevitch/ex-ussr-kinship-research",
+     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+     "meta": "⭐ 1251 · Python",
+     "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Motionsites-AI/claude-skill",
+     "url": "https://github.com/Motionsites-AI/claude-skill",
+     "meta": "⭐ 1078 · Python",
+     "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "KillaBoi/StealMyBitcoin-PoC",
+     "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+     "meta": "⭐ 1001 · Python",
+     "summary": "A public release of the Steal My Bitcoin challenge",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "smithjohn78390/tongjiang-lab",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab",
+     "meta": "⭐ 904 · HTML",
+     "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ZiChuanLan/agent-purge",
+     "url": "https://github.com/ZiChuanLan/agent-purge",
+     "meta": "⭐ 874 · JavaScript",
+     "summary": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Patrick Stewart has died",
+     "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+     "meta": "⭐ 1031 · 💬 184",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We're releasing the weights of Mistral Large 4",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "meta": "⭐ 949 · 💬 269",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "DoorDash to acquire Instacart",
+     "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+     "meta": "⭐ 339 · 💬 537",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "LLM Voice",
+     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+     "meta": "⭐ 246 · 💬 136",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+     "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+     "meta": "⭐ 233 · 💬 102",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "H.264 Is Magic (2016)",
+     "url": "https://sidbala.com/h-264-is-magic/",
+     "meta": "⭐ 226 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If IPv4 were land",
+     "url": "https://iptrust.co/blog/if-ipv4-were-land",
+     "meta": "⭐ 192 · 💬 212",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "NetBSD adds a new text editor called atto",
+     "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+     "meta": "⭐ 145 · 💬 115",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+     "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+     "meta": "⭐ 140 · 💬 14",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+     "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+     "meta": "⭐ 127 · 💬 61",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Zombie stats: Where the numbers AI quotes come from",
+     "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+     "meta": "⭐ 117 · 💬 57",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What we know so far about Spain train crash",
+     "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+     "meta": "⭐ 109 · 💬 205",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+     "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+     "meta": "⭐ 102 · 💬 18",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "After 28 years walking across the globe, he's almost home",
+     "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+     "meta": "⭐ 60 · 💬 33",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "16colo.rs – ANSI/ASCII art archive",
+     "url": "https://16colo.rs/",
+     "meta": "⭐ 59 · 💬 5",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "NINX",
+     "url": "https://www.producthunt.com/products/ninx-2",
+     "meta": "Product Hunt · 2026-07-21",
+     "summary": "Private On-device AI, connected tools, & creative workflows",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Trigger.dev: Webhooks for your AI agents",
+     "url": "https://www.producthunt.com/products/trigger-dev",
+     "meta": "Product Hunt · 2026-10-16",
+     "summary": "Run AI agents with Slack, Supabase and 50+ other services",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Scape",
+     "url": "https://www.producthunt.com/products/scape-4",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "An intelligent email inbox that works for you",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Recall for Mac",
+     "url": "https://www.producthunt.com/products/recall-for-mac",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Remember everything that happens on your Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Enclave",
+     "url": "https://www.producthunt.com/products/enclave-2",
+     "meta": "Product Hunt · 2026-10-27",
+     "summary": "One hover, everything you need.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "RageLayer",
+     "url": "https://www.producthunt.com/products/ragelayer",
+     "meta": "Product Hunt · 2026-10-04",
+     "summary": "Let visitors smash your website, then sweep it back",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Flatbread",
+     "url": "https://www.producthunt.com/products/flatbread",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Share the whole agent run, not a screenshot",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Viggle JST-2",
+     "url": "https://www.producthunt.com/products/viggle-ai",
+     "meta": "Product Hunt · 2026-10-19",
+     "summary": "JST-2: 3D scenes, characters and motion from one model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dedica",
+     "url": "https://www.producthunt.com/products/dedica",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Check if AI agents can use your website",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Genie 4",
+     "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+     "meta": "Product Hunt · 2026-10-27",
+     "summary": "Turn a prompt into a living world you can steer",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Open For sales",
+     "url": "https://www.producthunt.com/products/open-for-sales",
+     "meta": "Product Hunt · 2026-10-27",
+     "summary": "Your next sales campaign is one prompt away",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tulu",
+     "url": "https://www.producthunt.com/products/tulu",
+     "meta": "Product Hunt · 2026-07-19",
+     "summary": "Autonomous marketing operations & analytics for SMBs",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Revix AI",
+     "url": "https://www.producthunt.com/products/revix-ai-2",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "AI code review that learns your repo's own rules",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "OpenRadView",
+     "url": "https://www.producthunt.com/products/openradview",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Free, open-source viewer for your own CT, MRI and X-rays",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Suno MCP",
+     "url": "https://www.producthunt.com/products/suno",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "The music layerfor your AI stack",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
