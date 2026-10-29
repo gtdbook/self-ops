@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-29T16:00:21.058669+08:00",
- "count": 61,
+ "updated_at": "2026-10-29T23:51:07.122088+08:00",
+ "count": 79,
  "items": [
   {
    "id": "hn-50208960",
@@ -224,6 +224,22 @@
    ]
   },
   {
+   "id": "hn-50242509",
+   "title": "Java's new AOT cache feature is in a rough state",
+   "url": "https://xpipe.io/blog/java-aot-cache",
+   "hn_url": "https://news.ycombinator.com/item?id=50242509",
+   "score": 41,
+   "comments": 15,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-26T12:27:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 41
+    }
+   ]
+  },
+  {
    "id": "hn-50242873",
    "title": "Human-enhanced tsunami hazard in large lakes",
    "url": "https://www.nature.com/articles/s41467-026-78272-8",
@@ -272,14 +288,18 @@
    "title": "Getting debug access on a Brother printer over Telnet",
    "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
    "hn_url": "https://news.ycombinator.com/item?id=50243757",
-   "score": 5,
-   "comments": 0,
+   "score": 137,
+   "comments": 39,
    "author": "inventor7777",
    "time_iso": "2026-10-26T13:54:39+00:00",
    "history": [
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 137
     }
    ]
   },
@@ -336,14 +356,34 @@
    "title": "OpenAI's agents talked to each other through the CPU Cache",
    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
    "hn_url": "https://news.ycombinator.com/item?id=50251200",
-   "score": 83,
-   "comments": 27,
+   "score": 319,
+   "comments": 218,
    "author": "limbicsystem",
    "time_iso": "2026-10-26T21:24:18+00:00",
    "history": [
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 83
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 319
+    }
+   ]
+  },
+  {
+   "id": "hn-50253100",
+   "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+   "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50253100",
+   "score": 29,
+   "comments": 6,
+   "author": "wglb",
+   "time_iso": "2026-10-27T00:18:58+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 29
     }
    ]
   },
@@ -360,6 +400,22 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 41
+    }
+   ]
+  },
+  {
+   "id": "hn-50259697",
+   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+   "url": "https://dmux.github.io/minilake/",
+   "hn_url": "https://news.ycombinator.com/item?id=50259697",
+   "score": 80,
+   "comments": 16,
+   "author": "kermatt",
+   "time_iso": "2026-10-27T14:12:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 80
     }
    ]
   },
@@ -820,8 +876,8 @@
    "title": "Why is this fingerprinting script creating bioweapons?",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
    "hn_url": "https://news.ycombinator.com/item?id=50276998",
-   "score": 1105,
-   "comments": 220,
+   "score": 1468,
+   "comments": 273,
    "author": "hazebooth",
    "time_iso": "2026-10-28T17:13:29+00:00",
    "history": [
@@ -836,6 +892,10 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 1105
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 1468
     }
    ]
   },
@@ -940,8 +1000,8 @@
    "title": "A Health Update",
    "url": "https://furbo.org/2026/10/28/a-health-update/",
    "hn_url": "https://news.ycombinator.com/item?id=50280974",
-   "score": 221,
-   "comments": 35,
+   "score": 331,
+   "comments": 52,
    "author": "frizlab",
    "time_iso": "2026-10-28T21:13:21+00:00",
    "history": [
@@ -952,6 +1012,10 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 221
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 331
     }
    ]
   },
@@ -984,8 +1048,8 @@
    "title": "StackOverflow now gets fewer than 1000 questions a month",
    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
    "hn_url": "https://news.ycombinator.com/item?id=50282454",
-   "score": 353,
-   "comments": 299,
+   "score": 674,
+   "comments": 569,
    "author": "babelfish",
    "time_iso": "2026-10-28T23:35:02+00:00",
    "history": [
@@ -996,6 +1060,10 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 353
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 674
     }
    ]
   },
@@ -1020,8 +1088,8 @@
    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
    "hn_url": "https://news.ycombinator.com/item?id=50282544",
-   "score": 162,
-   "comments": 72,
+   "score": 231,
+   "comments": 109,
    "author": "sashk",
    "time_iso": "2026-10-28T23:45:46+00:00",
    "history": [
@@ -1032,6 +1100,10 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 162
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 231
     }
    ]
   },
@@ -1056,8 +1128,8 @@
    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
    "url": "https://divagr.com/blog/qwenputer",
    "hn_url": "https://news.ycombinator.com/item?id=50282838",
-   "score": 363,
-   "comments": 80,
+   "score": 633,
+   "comments": 131,
    "author": "csmantle",
    "time_iso": "2026-10-29T00:25:45+00:00",
    "history": [
@@ -1068,6 +1140,10 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 363
+    },
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 633
     }
    ]
   },
@@ -1132,6 +1208,246 @@
     {
      "t": "2026-10-29T16:00:21.058669+08:00",
      "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50285319",
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "hn_url": "https://news.ycombinator.com/item?id=50285319",
+   "score": 189,
+   "comments": 35,
+   "author": "austinallegro",
+   "time_iso": "2026-10-29T06:47:28+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 189
+    }
+   ]
+  },
+  {
+   "id": "hn-50285452",
+   "title": "Zero click, silent, remote Android DoS",
+   "url": "https://smsofdeath.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50285452",
+   "score": 245,
+   "comments": 125,
+   "author": "MarkBlah",
+   "time_iso": "2026-10-29T07:08:50+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 245
+    }
+   ]
+  },
+  {
+   "id": "hn-50286987",
+   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+   "hn_url": "https://news.ycombinator.com/item?id=50286987",
+   "score": 116,
+   "comments": 52,
+   "author": "882542F3884314B",
+   "time_iso": "2026-10-29T10:42:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 116
+    }
+   ]
+  },
+  {
+   "id": "hn-50287001",
+   "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+   "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+   "hn_url": "https://news.ycombinator.com/item?id=50287001",
+   "score": 207,
+   "comments": 137,
+   "author": "ljf",
+   "time_iso": "2026-10-29T10:44:49+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 207
+    }
+   ]
+  },
+  {
+   "id": "hn-50287448",
+   "title": "Google determines the names for bodies of water in Google Earth (2008)",
+   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50287448",
+   "score": 143,
+   "comments": 116,
+   "author": "terminalbraid",
+   "time_iso": "2026-10-29T11:41:18+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 143
+    }
+   ]
+  },
+  {
+   "id": "hn-50287599",
+   "title": "NetBSD adds a new beginner-friendly text editor called atto",
+   "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+   "hn_url": "https://news.ycombinator.com/item?id=50287599",
+   "score": 86,
+   "comments": 69,
+   "author": "luke8086",
+   "time_iso": "2026-10-29T11:59:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 86
+    }
+   ]
+  },
+  {
+   "id": "hn-50287898",
+   "title": "Hackers expose the identities of more than 40k DHS employees",
+   "url": "https://text.npr.org/nx-s1-6021497",
+   "hn_url": "https://news.ycombinator.com/item?id=50287898",
+   "score": 162,
+   "comments": 26,
+   "author": "firefax",
+   "time_iso": "2026-10-29T12:31:09+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 162
+    }
+   ]
+  },
+  {
+   "id": "hn-50288019",
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "hn_url": "https://news.ycombinator.com/item?id=50288019",
+   "score": 245,
+   "comments": 191,
+   "author": "theHocineSaad",
+   "time_iso": "2026-10-29T12:41:56+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 245
+    }
+   ]
+  },
+  {
+   "id": "hn-50288867",
+   "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+   "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+   "hn_url": "https://news.ycombinator.com/item?id=50288867",
+   "score": 294,
+   "comments": 187,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-29T13:40:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 294
+    }
+   ]
+  },
+  {
+   "id": "hn-50289418",
+   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "hn_url": "https://news.ycombinator.com/item?id=50289418",
+   "score": 387,
+   "comments": 89,
+   "author": "kuberwastaken",
+   "time_iso": "2026-10-29T14:13:21+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 387
+    }
+   ]
+  },
+  {
+   "id": "hn-50289590",
+   "title": "Keplearn: Extract Equations from Data in Seconds",
+   "url": "https://github.com/owls-on-wires/keplearn",
+   "hn_url": "https://news.ycombinator.com/item?id=50289590",
+   "score": 13,
+   "comments": 0,
+   "author": "owls-on-wires",
+   "time_iso": "2026-10-29T14:22:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50289859",
+   "title": "DoorDash is acquiring Instacart for $17B",
+   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+   "hn_url": "https://news.ycombinator.com/item?id=50289859",
+   "score": 88,
+   "comments": 59,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-29T14:40:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 88
+    }
+   ]
+  },
+  {
+   "id": "hn-50290170",
+   "title": "Finland investigate Google over destruction of 250k trees",
+   "url": "https://yle.fi/a/74-20254086",
+   "hn_url": "https://news.ycombinator.com/item?id=50290170",
+   "score": 62,
+   "comments": 43,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-29T14:57:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50290283",
+   "title": "Only 40% of AI-cited statistics trace back to a study",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "hn_url": "https://news.ycombinator.com/item?id=50290283",
+   "score": 12,
+   "comments": 1,
+   "author": "mektrik",
+   "time_iso": "2026-10-29T15:06:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50290668",
+   "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+   "hn_url": "https://news.ycombinator.com/item?id=50290668",
+   "score": 7,
+   "comments": 1,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-29T15:30:22+00:00",
+   "history": [
+    {
+     "t": "2026-10-29T23:51:07.122088+08:00",
+     "score": 7
     }
    ]
   }

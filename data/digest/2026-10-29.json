@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T16:00:23.668802+08:00",
+ "generated_at": "2026-10-29T23:51:09.542912+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -25,7 +25,23 @@
     {
      "title": "Why is this fingerprinting script creating bioweapons?",
      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-     "meta": "+643 分 / 10.4 小时 · 现 ⭐ 1105",
+     "meta": "+1006 分 / 18.3 小时 · 现 ⭐ 1468",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+     "url": "https://divagr.com/blog/qwenputer",
+     "meta": "+594 分 / 14.3 小时 · 现 ⭐ 633",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "StackOverflow now gets fewer than 1000 questions a month",
+     "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+     "meta": "+585 分 / 14.3 小时 · 现 ⭐ 674",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,14 +50,6 @@
      "title": "Apple's git still trusts the compromised eMudhra certificates",
      "url": "https://emudhra.we-have-a-problem.com/apple.html",
      "meta": "+355 分 / 15.0 小时 · 现 ⭐ 1110",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-     "url": "https://divagr.com/blog/qwenputer",
-     "meta": "+324 分 / 6.5 小时 · 现 ⭐ 363",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -63,14 +71,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "StackOverflow now gets fewer than 1000 questions a month",
-     "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-     "meta": "+264 分 / 6.5 小时 · 现 ⭐ 353",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Gemini 4 Carbon",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
      "meta": "+249 分 / 10.4 小时 · 现 ⭐ 902",
@@ -79,25 +79,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "A Health Update",
+     "url": "https://furbo.org/2026/10/28/a-health-update/",
+     "meta": "+239 分 / 14.3 小时 · 现 ⭐ 331",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenAI's agents talked to each other through the CPU Cache",
+     "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+     "meta": "+236 分 / 7.8 小时 · 现 ⭐ 319",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Start Doing Graph Theory",
      "url": "https://vertex.degree/",
      "meta": "+213 分 / 8.6 小时 · 现 ⭐ 583",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Emacs Turns 50",
-     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-     "meta": "+164 分 / 4.6 小时 · 现 ⭐ 362",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-     "url": "https://surgehq.ai/blog/dayjob-tax",
-     "meta": "+164 分 / 8.6 小时 · 现 ⭐ 202",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -239,7 +239,7 @@
     {
      "title": "rddmwmddr/android-ad-cleaner",
      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 4513 · Python",
+     "meta": "⭐ 4670 · Python",
      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
@@ -247,7 +247,7 @@
     {
      "title": "JustAResearcher/gpu-unlock-ada",
      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-     "meta": "⭐ 4454 · C",
+     "meta": "⭐ 4485 · C",
      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
      "reason": null,
      "origin_source": "github_search"
@@ -255,31 +255,31 @@
     {
      "title": "unclebob/ub-mode",
      "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 4062",
+     "meta": "⭐ 4401",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "designfuchen/word-atlas",
-     "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 3143 · TypeScript",
-     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "interplains/Zero-Breach-Toolkit",
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-     "meta": "⭐ 2997 · Python",
+     "meta": "⭐ 3306 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 3214 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 2323 · HTML",
+     "meta": "⭐ 2921 · HTML",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -287,7 +287,7 @@
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 2300 · Python",
+     "meta": "⭐ 2352 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
@@ -303,32 +303,40 @@
     {
      "title": "enesozturk/dimensional-drawing",
      "url": "https://github.com/enesozturk/dimensional-drawing",
-     "meta": "⭐ 1474 · HTML",
+     "meta": "⭐ 1525 · HTML",
      "summary": "Create Apple style dimensional drawings of UI components.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "morganlinton/BeautifulRust",
-     "url": "https://github.com/morganlinton/BeautifulRust",
-     "meta": "⭐ 1378 · Python",
-     "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1367 · TypeScript",
+     "meta": "⭐ 1441 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "morganlinton/BeautifulRust",
+     "url": "https://github.com/morganlinton/BeautifulRust",
+     "meta": "⭐ 1394 · Python",
+     "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "DenisSergeevitch/ex-ussr-kinship-research",
      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-     "meta": "⭐ 1195 · Python",
+     "meta": "⭐ 1235 · Python",
      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Motionsites-AI/claude-skill",
+     "url": "https://github.com/Motionsites-AI/claude-skill",
+     "meta": "⭐ 1047 · Python",
+     "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -341,17 +349,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Motionsites-AI/claude-skill",
-     "url": "https://github.com/Motionsites-AI/claude-skill",
-     "meta": "⭐ 990 · Python",
-     "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "KillaBoi/StealMyBitcoin-PoC",
      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-     "meta": "⭐ 989 · Python",
+     "meta": "⭐ 994 · Python",
      "summary": "A public release of the Steal My Bitcoin challenge",
      "reason": null,
      "origin_source": "github_search"
@@ -364,6 +364,14 @@
    "errors": [],
    "items": [
     {
+     "title": "Why is this fingerprinting script creating bioweapons?",
+     "url": "https://nullpt.rs/fingerprinting-bioweapons",
+     "meta": "⭐ 1468 · 💬 273",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Ghostty 1.4",
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
      "meta": "⭐ 1236 · 💬 395",
@@ -375,14 +383,6 @@
      "title": "Apple's git still trusts the compromised eMudhra certificates",
      "url": "https://emudhra.we-have-a-problem.com/apple.html",
      "meta": "⭐ 1110 · 💬 392",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Why is this fingerprinting script creating bioweapons?",
-     "url": "https://nullpt.rs/fingerprinting-bioweapons",
-     "meta": "⭐ 1105 · 💬 220",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,6 +407,22 @@
      "title": "Gemini 4 Carbon",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
      "meta": "⭐ 902 · 💬 737",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "StackOverflow now gets fewer than 1000 questions a month",
+     "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+     "meta": "⭐ 674 · 💬 569",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+     "url": "https://divagr.com/blog/qwenputer",
+     "meta": "⭐ 633 · 💬 131",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -452,33 +468,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "meta": "⭐ 387 · 💬 89",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Git for the US Code",
      "url": "https://lexifina.com/blog/git-for-the-us-code",
      "meta": "⭐ 375 · 💬 199",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-     "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-     "meta": "⭐ 369 · 💬 427",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-     "url": "https://divagr.com/blog/qwenputer",
-     "meta": "⭐ 363 · 💬 80",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Emacs Turns 50",
-     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-     "meta": "⭐ 362 · 💬 155",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
