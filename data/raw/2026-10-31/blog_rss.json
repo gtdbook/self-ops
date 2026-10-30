@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-10-31T02:58:39.622882+08:00",
- "count": 2393,
+ "updated_at": "2026-10-31T06:54:30.734788+08:00",
+ "count": 2395,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -461,6 +461,15 @@
    "published": "Wed, 29 May 2024 07:30:00 GMT",
    "published_iso": "2024-05-29T07:30:00+00:00",
    "summary": "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable within OpenAI’s produc"
+  },
+  {
+   "id": "rss-0697c0d6577e4ad4",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "feed_name": "Ars Technica",
+   "published": "Fri, 30 Oct 2026 21:09:54 +0000",
+   "published_iso": "2026-10-30T21:09:54+00:00",
+   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
   },
   {
    "id": "rss-06d25d939cc3fd59",
@@ -2692,15 +2701,6 @@
    "feed_name": "OpenAI",
    "published": "Mon, 04 Dec 2017 08:00:00 GMT",
    "published_iso": "2017-12-04T08:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1ef0e397131d6008",
-   "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-   "url": "https://huggingface.co/blog/ulysses-sp",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 09 Mar 2026 00:00:00 GMT",
-   "published_iso": "2026-03-09T00:00:00+00:00",
    "summary": ""
   }
  ]
