@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-30T14:47:23.789967+08:00",
- "count": 47,
+ "updated_at": "2026-10-30T21:50:04.081148+08:00",
+ "count": 62,
  "items": [
+  {
+   "id": "hn-50244486",
+   "title": "Commodore 1600 VICmodem",
+   "url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
+   "hn_url": "https://news.ycombinator.com/item?id=50244486",
+   "score": 13,
+   "comments": 2,
+   "author": "ibobev",
+   "time_iso": "2026-10-26T14:37:17+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 13
+    }
+   ]
+  },
   {
    "id": "hn-50245199",
    "title": "Scattered thoughts on how doing math feels these days",
@@ -36,6 +52,22 @@
    ]
   },
   {
+   "id": "hn-50251070",
+   "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+   "hn_url": "https://news.ycombinator.com/item?id=50251070",
+   "score": 56,
+   "comments": 22,
+   "author": "ibobev",
+   "time_iso": "2026-10-26T21:14:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 56
+    }
+   ]
+  },
+  {
    "id": "hn-50255161",
    "title": "Edit an SQLite database in your browser",
    "url": "https://editsqlite.com/",
@@ -56,14 +88,18 @@
    "title": "Cuis: The Modern Smalltalk-80",
    "url": "https://cuis.st/",
    "hn_url": "https://news.ycombinator.com/item?id=50255343",
-   "score": 69,
-   "comments": 10,
+   "score": 151,
+   "comments": 18,
    "author": "theanonymousone",
    "time_iso": "2026-10-27T06:33:16+00:00",
    "history": [
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 151
     }
    ]
   },
@@ -96,6 +132,22 @@
     {
      "t": "2026-10-30T04:51:33.289972+08:00",
      "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50263127",
+   "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+   "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+   "hn_url": "https://news.ycombinator.com/item?id=50263127",
+   "score": 99,
+   "comments": 27,
+   "author": "benbreen",
+   "time_iso": "2026-10-27T17:54:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 99
     }
    ]
   },
@@ -152,14 +204,18 @@
    "title": "Astroterm: A Planetarium for Your Terminal",
    "url": "https://github.com/da-luce/astroterm",
    "hn_url": "https://news.ycombinator.com/item?id=50270651",
-   "score": 72,
-   "comments": 6,
+   "score": 181,
+   "comments": 20,
    "author": "nvmdbljstm",
    "time_iso": "2026-10-28T08:29:55+00:00",
    "history": [
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 72
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 181
     }
    ]
   },
@@ -168,14 +224,50 @@
    "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
    "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
    "hn_url": "https://news.ycombinator.com/item?id=50273104",
-   "score": 69,
-   "comments": 6,
+   "score": 178,
+   "comments": 30,
    "author": "surprisetalk",
    "time_iso": "2026-10-28T13:20:05+00:00",
    "history": [
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 178
+    }
+   ]
+  },
+  {
+   "id": "hn-50273340",
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "hn_url": "https://news.ycombinator.com/item?id=50273340",
+   "score": 40,
+   "comments": 28,
+   "author": "6thbit",
+   "time_iso": "2026-10-28T13:38:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50273504",
+   "title": "Finding Panics with Call Graph Analyzer",
+   "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50273504",
+   "score": 16,
+   "comments": 0,
+   "author": "ndr",
+   "time_iso": "2026-10-28T13:48:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 16
     }
    ]
   },
@@ -296,8 +388,8 @@
    "title": "We're releasing the weights of Mistral Large 4",
    "url": "https://mistral.ai/news/mistral-large-4-oss/",
    "hn_url": "https://news.ycombinator.com/item?id=50289418",
-   "score": 1339,
-   "comments": 364,
+   "score": 1578,
+   "comments": 413,
    "author": "kuberwastaken",
    "time_iso": "2026-10-29T14:13:21+00:00",
    "history": [
@@ -312,6 +404,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 1339
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 1578
     }
    ]
   },
@@ -384,8 +480,8 @@
    "title": "H.264 Is Magic (2016)",
    "url": "https://sidbala.com/h-264-is-magic/",
    "hn_url": "https://news.ycombinator.com/item?id=50291054",
-   "score": 382,
-   "comments": 143,
+   "score": 474,
+   "comments": 154,
    "author": "ea016",
    "time_iso": "2026-10-29T15:53:03+00:00",
    "history": [
@@ -400,6 +496,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 382
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 474
     }
    ]
   },
@@ -616,8 +716,8 @@
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
    "url": "https://github.com/SheepSeb/tinyworldformer",
    "hn_url": "https://news.ycombinator.com/item?id=50295450",
-   "score": 184,
-   "comments": 10,
+   "score": 243,
+   "comments": 16,
    "author": "airinei",
    "time_iso": "2026-10-29T20:32:28+00:00",
    "history": [
@@ -632,6 +732,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 184
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 243
     }
    ]
   },
@@ -676,8 +780,8 @@
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "hn_url": "https://news.ycombinator.com/item?id=50296470",
-   "score": 1099,
-   "comments": 650,
+   "score": 1565,
+   "comments": 1035,
    "author": "Tiberium",
    "time_iso": "2026-10-29T21:38:59+00:00",
    "history": [
@@ -688,6 +792,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 1099
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 1565
     }
    ]
   },
@@ -696,8 +804,8 @@
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "url": "https://labs.ycombinator.com/projects/games/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50296486",
-   "score": 245,
-   "comments": 82,
+   "score": 334,
+   "comments": 132,
    "author": "sandslash",
    "time_iso": "2026-10-29T21:40:28+00:00",
    "history": [
@@ -708,6 +816,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 245
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 334
     }
    ]
   },
@@ -788,8 +900,8 @@
    "title": "Show HN: I Turned DOOM into a Transformer",
    "url": "https://github.com/mottopanikeiku/doomformer",
    "hn_url": "https://news.ycombinator.com/item?id=50297697",
-   "score": 70,
-   "comments": 19,
+   "score": 111,
+   "comments": 34,
    "author": "falperc",
    "time_iso": "2026-10-29T23:25:46+00:00",
    "history": [
@@ -800,6 +912,10 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 70
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 111
     }
    ]
   },
@@ -808,14 +924,18 @@
    "title": "Herdr has released native app",
    "url": "https://github.com/herdrdev/herdr-app",
    "hn_url": "https://news.ycombinator.com/item?id=50298436",
-   "score": 127,
-   "comments": 79,
+   "score": 272,
+   "comments": 180,
    "author": "cherioo",
    "time_iso": "2026-10-30T00:42:41+00:00",
    "history": [
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 127
+    },
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 272
     }
    ]
   },
@@ -864,6 +984,166 @@
     {
      "t": "2026-10-30T14:47:23.789967+08:00",
      "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50300643",
+   "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+   "url": "https://www.workatastartup.com/jobs/98722",
+   "hn_url": "https://news.ycombinator.com/item?id=50300643",
+   "score": 1,
+   "comments": 0,
+   "author": "syrusakbary",
+   "time_iso": "2026-10-30T07:00:35+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50300683",
+   "title": "Official Claude Code extension compromise",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "hn_url": "https://news.ycombinator.com/item?id=50300683",
+   "score": 38,
+   "comments": 6,
+   "author": "_chall",
+   "time_iso": "2026-10-30T07:09:12+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50301462",
+   "title": "elect.horse",
+   "url": "https://elect.horse/",
+   "hn_url": "https://news.ycombinator.com/item?id=50301462",
+   "score": 283,
+   "comments": 76,
+   "author": "solarist",
+   "time_iso": "2026-10-30T09:14:34+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 283
+    }
+   ]
+  },
+  {
+   "id": "hn-50301717",
+   "title": "How Do You Take a Picture of a Black Hole?",
+   "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+   "hn_url": "https://news.ycombinator.com/item?id=50301717",
+   "score": 43,
+   "comments": 32,
+   "author": "dverlaeckt80",
+   "time_iso": "2026-10-30T09:49:02+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50301854",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "hn_url": "https://news.ycombinator.com/item?id=50301854",
+   "score": 96,
+   "comments": 6,
+   "author": "swq115",
+   "time_iso": "2026-10-30T10:06:15+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
+   "id": "hn-50301983",
+   "title": "Anthropic hacked to deliver remote access trojan",
+   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+   "hn_url": "https://news.ycombinator.com/item?id=50301983",
+   "score": 303,
+   "comments": 58,
+   "author": "bashtoni",
+   "time_iso": "2026-10-30T10:22:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 303
+    }
+   ]
+  },
+  {
+   "id": "hn-50302334",
+   "title": "Backdoors in official Claude Code extensions",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "hn_url": "https://news.ycombinator.com/item?id=50302334",
+   "score": 517,
+   "comments": 152,
+   "author": "dsr_",
+   "time_iso": "2026-10-30T11:05:53+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 517
+    }
+   ]
+  },
+  {
+   "id": "hn-50302814",
+   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+   "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+   "hn_url": "https://news.ycombinator.com/item?id=50302814",
+   "score": 121,
+   "comments": 58,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-30T12:08:00+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50303172",
+   "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "hn_url": "https://news.ycombinator.com/item?id=50303172",
+   "score": 37,
+   "comments": 5,
+   "author": "domhudson",
+   "time_iso": "2026-10-30T12:50:01+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
+   "id": "hn-50303571",
+   "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+   "url": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
+   "hn_url": "https://news.ycombinator.com/item?id=50303571",
+   "score": 7,
+   "comments": 7,
+   "author": "fortran77",
+   "time_iso": "2026-10-30T13:26:43+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T21:50:04.081148+08:00",
+     "score": 7
     }
    ]
   }
