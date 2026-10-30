@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T08:36:21.915694+08:00",
+ "generated_at": "2026-10-30T14:47:25.556016+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,15 @@
     {
      "title": "Patrick Stewart has died",
      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-     "meta": "+1227 分 / 3.7 小时 · 现 ⭐ 2258",
+     "meta": "+1729 分 / 9.9 小时 · 现 ⭐ 2760",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+     "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+     "meta": "+496 分 / 6.2 小时 · 现 ⭐ 1099",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +26,7 @@
     {
      "title": "We're releasing the weights of Mistral Large 4",
      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-     "meta": "+213 分 / 3.7 小时 · 现 ⭐ 1162",
+     "meta": "+390 分 / 9.9 小时 · 现 ⭐ 1339",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,15 +34,7 @@
     {
      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
      "url": "https://github.com/SheepSeb/tinyworldformer",
-     "meta": "+97 分 / 3.7 小时 · 现 ⭐ 103",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "H.264 Is Magic (2016)",
-     "url": "https://sidbala.com/h-264-is-magic/",
-     "meta": "+88 分 / 3.7 小时 · 现 ⭐ 314",
+     "meta": "+178 分 / 9.9 小时 · 现 ⭐ 184",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,7 +42,39 @@
     {
      "title": "LLM Voice",
      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-     "meta": "+81 分 / 3.7 小时 · 现 ⭐ 327",
+     "meta": "+176 分 / 9.9 小时 · 现 ⭐ 422",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "H.264 Is Magic (2016)",
+     "url": "https://sidbala.com/h-264-is-magic/",
+     "meta": "+156 分 / 9.9 小时 · 现 ⭐ 382",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We ran AI agent swarms in Minecraft and Mindustry",
+     "url": "https://labs.ycombinator.com/projects/games/index.html",
+     "meta": "+120 分 / 6.2 小时 · 现 ⭐ 245",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+     "url": "https://github.com/johncassil/dontallow",
+     "meta": "+79 分 / 9.9 小时 · 现 ⭐ 121",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If IPv4 were land",
+     "url": "https://iptrust.co/blog/if-ipv4-were-land",
+     "meta": "+71 分 / 9.9 小时 · 现 ⭐ 263",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -51,38 +83,6 @@
      "title": "DoorDash to acquire Instacart",
      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
      "meta": "+70 分 / 3.7 小时 · 现 ⭐ 409",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-     "url": "https://fig.blue/posts/duet-is-the-future/",
-     "meta": "+67 分 / 3.7 小时 · 现 ⭐ 99",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-     "url": "https://github.com/johncassil/dontallow",
-     "meta": "+49 分 / 3.7 小时 · 现 ⭐ 91",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-     "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-     "meta": "+42 分 / 3.7 小时 · 现 ⭐ 275",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "If IPv4 were land",
-     "url": "https://iptrust.co/blog/if-ipv4-were-land",
-     "meta": "+30 分 / 3.7 小时 · 现 ⭐ 222",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -222,18 +222,18 @@
    "errors": [],
    "items": [
     {
-     "title": "rddmwmddr/android-ad-cleaner",
-     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-     "meta": "⭐ 4725 · Python",
-     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "meta": "⭐ 4937",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "unclebob/ub-mode",
-     "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 4698",
-     "summary": "",
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "meta": "⭐ 4845 · Python",
+     "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -248,31 +248,31 @@
     {
      "title": "interplains/Zero-Breach-Toolkit",
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-     "meta": "⭐ 3607 · Python",
+     "meta": "⭐ 3676 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "designfuchen/word-atlas",
-     "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 3227 · TypeScript",
-     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 3143 · HTML",
+     "meta": "⭐ 3456 · HTML",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "meta": "⭐ 3279 · TypeScript",
+     "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "t3dotgg/tstack",
      "url": "https://github.com/t3dotgg/tstack",
-     "meta": "⭐ 2393 · Python",
+     "meta": "⭐ 2417 · Python",
      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +288,7 @@
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1464 · TypeScript",
+     "meta": "⭐ 1509 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +304,7 @@
     {
      "title": "DenisSergeevitch/ex-ussr-kinship-research",
      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-     "meta": "⭐ 1266 · Python",
+     "meta": "⭐ 1279 · Python",
      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,32 +312,32 @@
     {
      "title": "Motionsites-AI/claude-skill",
      "url": "https://github.com/Motionsites-AI/claude-skill",
-     "meta": "⭐ 1088 · Python",
+     "meta": "⭐ 1108 · Python",
      "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "KillaBoi/StealMyBitcoin-PoC",
-     "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-     "meta": "⭐ 1005 · Python",
-     "summary": "A public release of the Steal My Bitcoin challenge",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "smithjohn78390/tongjiang-lab",
-     "url": "https://github.com/smithjohn78390/tongjiang-lab",
-     "meta": "⭐ 935 · HTML",
-     "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "aschmelyun/print-my-profile-pic",
      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 925",
+     "meta": "⭐ 1062",
      "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "smithjohn78390/tongjiang-lab",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab",
+     "meta": "⭐ 1022 · HTML",
+     "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "qybaihe/bla",
+     "url": "https://github.com/qybaihe/bla",
+     "meta": "⭐ 1008 · TypeScript",
+     "summary": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,7 +351,7 @@
     {
      "title": "Patrick Stewart has died",
      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-     "meta": "⭐ 2258 · 💬 464",
+     "meta": "⭐ 2760 · 💬 585",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -359,7 +359,7 @@
     {
      "title": "We're releasing the weights of Mistral Large 4",
      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-     "meta": "⭐ 1162 · 💬 331",
+     "meta": "⭐ 1339 · 💬 364",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +367,15 @@
     {
      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-     "meta": "⭐ 603 · 💬 363",
+     "meta": "⭐ 1099 · 💬 650",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "LLM Voice",
+     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+     "meta": "⭐ 422 · 💬 215",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -381,17 +389,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "LLM Voice",
-     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-     "meta": "⭐ 327 · 💬 168",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "H.264 Is Magic (2016)",
      "url": "https://sidbala.com/h-264-is-magic/",
-     "meta": "⭐ 314 · 💬 120",
+     "meta": "⭐ 382 · 💬 143",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +407,23 @@
     {
      "title": "If IPv4 were land",
      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-     "meta": "⭐ 222 · 💬 291",
+     "meta": "⭐ 263 · 💬 366",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We ran AI agent swarms in Minecraft and Mindustry",
+     "url": "https://labs.ycombinator.com/projects/games/index.html",
+     "meta": "⭐ 245 · 💬 82",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+     "url": "https://github.com/SheepSeb/tinyworldformer",
+     "meta": "⭐ 184 · 💬 10",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,25 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-     "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-     "meta": "⭐ 126 · 💬 21",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "We ran AI agent swarms in Minecraft and Mindustry",
-     "url": "https://labs.ycombinator.com/projects/games/index.html",
-     "meta": "⭐ 125 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What we know so far about Spain train crash",
-     "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-     "meta": "⭐ 109 · 💬 205",
+     "title": "Herdr has released native app",
+     "url": "https://github.com/herdrdev/herdr-app",
+     "meta": "⭐ 127 · 💬 79",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -504,6 +504,14 @@
      "url": "https://www.producthunt.com/products/recall-for-mac",
      "meta": "Product Hunt · 2026-10-28",
      "summary": "Remember everything that happens on your Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AirPosture",
+     "url": "https://www.producthunt.com/products/airposture-2",
+     "meta": "Product Hunt · 2026-10-24",
+     "summary": "Now on Mac, with a voice coach in your AirPods",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -584,14 +592,6 @@
      "url": "https://www.producthunt.com/products/tulu",
      "meta": "Product Hunt · 2026-07-19",
      "summary": "Autonomous marketing operations & analytics for SMBs",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Revix AI",
-     "url": "https://www.producthunt.com/products/revix-ai-2",
-     "meta": "Product Hunt · 2026-10-26",
-     "summary": "AI code review that learns your repo's own rules",
      "reason": null,
      "origin_source": "producthunt"
     }

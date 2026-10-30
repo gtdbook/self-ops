@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-10-30T08:36:20.657717+08:00",
- "count": 24,
+ "updated_at": "2026-10-30T14:47:24.464258+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1430513158",
@@ -67,7 +67,7 @@
    "id": "gh-1431830406",
    "title": "t3dotgg/tstack",
    "url": "https://github.com/t3dotgg/tstack",
-   "stars": 2393,
+   "stars": 2417,
    "language": "Python",
    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
    "created_at": "2026-10-24T05:00:20Z",
@@ -79,6 +79,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 2393
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 2417
     }
    ]
   },
@@ -86,7 +90,7 @@
    "id": "gh-1431851693",
    "title": "rddmwmddr/android-ad-cleaner",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "stars": 4725,
+   "stars": 4845,
    "language": "Python",
    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "created_at": "2026-10-24T05:35:47Z",
@@ -98,6 +102,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 4725
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 4845
     }
    ]
   },
@@ -105,7 +113,7 @@
    "id": "gh-1431986839",
    "title": "daveebbelaar/bama",
    "url": "https://github.com/daveebbelaar/bama",
-   "stars": 780,
+   "stars": 822,
    "language": "Swift",
    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
    "created_at": "2026-10-24T08:44:36Z",
@@ -113,6 +121,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 780
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 822
     }
    ]
   },
@@ -120,7 +132,7 @@
    "id": "gh-1432512301",
    "title": "anonnerdfrenzy/survival-llm",
    "url": "https://github.com/anonnerdfrenzy/survival-llm",
-   "stars": 766,
+   "stars": 790,
    "language": "Python",
    "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
    "created_at": "2026-10-24T19:12:41Z",
@@ -128,6 +140,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 766
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 790
     }
    ]
   },
@@ -135,7 +151,7 @@
    "id": "gh-1432859403",
    "title": "qybaihe/bla",
    "url": "https://github.com/qybaihe/bla",
-   "stars": 760,
+   "stars": 1008,
    "language": "TypeScript",
    "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
    "created_at": "2026-10-25T05:25:45Z",
@@ -143,6 +159,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 760
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1008
     }
    ]
   },
@@ -162,6 +182,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 765
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 765
     }
    ]
   },
@@ -169,7 +193,7 @@
    "id": "gh-1432883796",
    "title": "ZiChuanLan/agent-purge",
    "url": "https://github.com/ZiChuanLan/agent-purge",
-   "stars": 875,
+   "stars": 884,
    "language": "JavaScript",
    "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
    "created_at": "2026-10-25T06:06:02Z",
@@ -181,6 +205,25 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 875
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 884
+    }
+   ]
+  },
+  {
+   "id": "gh-1432967563",
+   "title": "ccch1mneyyy/dsh-go",
+   "url": "https://github.com/ccch1mneyyy/dsh-go",
+   "stars": 859,
+   "language": "Dart",
+   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+   "created_at": "2026-10-25T08:09:52Z",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 859
     }
    ]
   },
@@ -188,7 +231,7 @@
    "id": "gh-1432980411",
    "title": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "stars": 3227,
+   "stars": 3279,
    "language": "TypeScript",
    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
    "created_at": "2026-10-25T08:27:22Z",
@@ -200,6 +243,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 3227
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 3279
     }
    ]
   },
@@ -207,7 +254,7 @@
    "id": "gh-1433057196",
    "title": "DenisSergeevitch/ex-ussr-kinship-research",
    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-   "stars": 1266,
+   "stars": 1279,
    "language": "Python",
    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
    "created_at": "2026-10-25T10:05:56Z",
@@ -219,6 +266,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 1266
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1279
     }
    ]
   },
@@ -226,7 +277,7 @@
    "id": "gh-1433297111",
    "title": "interplains/Zero-Breach-Toolkit",
    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-   "stars": 3607,
+   "stars": 3676,
    "language": "Python",
    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
    "created_at": "2026-10-25T14:41:34Z",
@@ -238,6 +289,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 3607
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 3676
     }
    ]
   },
@@ -245,7 +300,7 @@
    "id": "gh-1433377156",
    "title": "unclebob/ub-mode",
    "url": "https://github.com/unclebob/ub-mode",
-   "stars": 4698,
+   "stars": 4937,
    "language": "",
    "description": "",
    "created_at": "2026-10-25T16:04:09Z",
@@ -257,6 +312,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 4698
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 4937
     }
    ]
   },
@@ -264,7 +323,7 @@
    "id": "gh-1433636611",
    "title": "DrWhax/unfairplay",
    "url": "https://github.com/DrWhax/unfairplay",
-   "stars": 772,
+   "stars": 783,
    "language": "Go",
    "description": "Decrypt IPA's on MacOS",
    "created_at": "2026-10-25T21:22:20Z",
@@ -276,6 +335,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 772
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 783
     }
    ]
   },
@@ -283,7 +346,7 @@
    "id": "gh-1433653089",
    "title": "KillaBoi/StealMyBitcoin-PoC",
    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "stars": 1005,
+   "stars": 1007,
    "language": "Python",
    "description": "A public release of the Steal My Bitcoin challenge",
    "created_at": "2026-10-25T21:48:32Z",
@@ -295,6 +358,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 1005
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1007
     }
    ]
   },
@@ -317,7 +384,7 @@
    "id": "gh-1433904617",
    "title": "andyhuo520/digital-human-koubo",
    "url": "https://github.com/andyhuo520/digital-human-koubo",
-   "stars": 1464,
+   "stars": 1509,
    "language": "TypeScript",
    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
    "created_at": "2026-10-26T04:34:09Z",
@@ -329,6 +396,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 1464
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1509
     }
    ]
   },
@@ -336,7 +407,7 @@
    "id": "gh-1434017230",
    "title": "Motionsites-AI/claude-skill",
    "url": "https://github.com/Motionsites-AI/claude-skill",
-   "stars": 1088,
+   "stars": 1108,
    "language": "Python",
    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
    "created_at": "2026-10-26T06:58:45Z",
@@ -348,6 +419,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 1088
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1108
     }
    ]
   },
@@ -355,7 +430,7 @@
    "id": "gh-1434789878",
    "title": "kargulstudio/calender-app-design",
    "url": "https://github.com/kargulstudio/calender-app-design",
-   "stars": 804,
+   "stars": 811,
    "language": "TypeScript",
    "description": "",
    "created_at": "2026-10-26T18:38:56Z",
@@ -367,6 +442,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 804
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 811
     }
    ]
   },
@@ -374,7 +453,7 @@
    "id": "gh-1435695423",
    "title": "anhao/ai-pose-gallery-zh",
    "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "stars": 3143,
+   "stars": 3456,
    "language": "HTML",
    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
    "created_at": "2026-10-27T12:24:37Z",
@@ -386,6 +465,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 3143
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 3456
     }
    ]
   },
@@ -393,7 +476,7 @@
    "id": "gh-1436254894",
    "title": "aschmelyun/print-my-profile-pic",
    "url": "https://github.com/aschmelyun/print-my-profile-pic",
-   "stars": 925,
+   "stars": 1062,
    "language": "",
    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
    "created_at": "2026-10-27T20:40:05Z",
@@ -405,6 +488,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 925
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1062
     }
    ]
   },
@@ -412,7 +499,7 @@
    "id": "gh-1436598075",
    "title": "smithjohn78390/tongjiang-lab",
    "url": "https://github.com/smithjohn78390/tongjiang-lab",
-   "stars": 935,
+   "stars": 1022,
    "language": "HTML",
    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
    "created_at": "2026-10-28T04:29:29Z",
@@ -424,6 +511,10 @@
     {
      "t": "2026-10-30T08:36:20.657717+08:00",
      "score": 935
+    },
+    {
+     "t": "2026-10-30T14:47:24.464258+08:00",
+     "score": 1022
     }
    ]
   }

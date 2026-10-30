@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-30T08:36:19.906874+08:00",
- "count": 36,
+ "updated_at": "2026-10-30T14:47:23.789967+08:00",
+ "count": 47,
  "items": [
   {
    "id": "hn-50245199",
@@ -16,6 +16,22 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-50249598",
+   "title": "Iterating Backwards in C",
+   "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50249598",
+   "score": 82,
+   "comments": 44,
+   "author": "cremno",
+   "time_iso": "2026-10-26T19:28:19+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 82
     }
    ]
   },
@@ -36,6 +52,38 @@
    ]
   },
   {
+   "id": "hn-50255343",
+   "title": "Cuis: The Modern Smalltalk-80",
+   "url": "https://cuis.st/",
+   "hn_url": "https://news.ycombinator.com/item?id=50255343",
+   "score": 69,
+   "comments": 10,
+   "author": "theanonymousone",
+   "time_iso": "2026-10-27T06:33:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50255573",
+   "title": "Python on My Wrist",
+   "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50255573",
+   "score": 20,
+   "comments": 3,
+   "author": "roywashere",
+   "time_iso": "2026-10-27T07:10:45+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
    "id": "hn-50260033",
    "title": "One reviewer per layer: splitting code review by the way code is read",
    "url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
@@ -52,6 +100,22 @@
    ]
   },
   {
+   "id": "hn-50266956",
+   "title": "An illustrated online book on Hewlett-Packard equipment",
+   "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+   "hn_url": "https://news.ycombinator.com/item?id=50266956",
+   "score": 7,
+   "comments": 2,
+   "author": "sohkamyung",
+   "time_iso": "2026-10-27T22:47:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
    "id": "hn-50267380",
    "title": "Historical Scientific Instruments",
    "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
@@ -64,6 +128,54 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50269668",
+   "title": "Solving Postgres' Count Problem",
+   "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+   "hn_url": "https://news.ycombinator.com/item?id=50269668",
+   "score": 23,
+   "comments": 2,
+   "author": "philippemnoel",
+   "time_iso": "2026-10-28T05:34:16+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50270651",
+   "title": "Astroterm: A Planetarium for Your Terminal",
+   "url": "https://github.com/da-luce/astroterm",
+   "hn_url": "https://news.ycombinator.com/item?id=50270651",
+   "score": 72,
+   "comments": 6,
+   "author": "nvmdbljstm",
+   "time_iso": "2026-10-28T08:29:55+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 72
+    }
+   ]
+  },
+  {
+   "id": "hn-50273104",
+   "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+   "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+   "hn_url": "https://news.ycombinator.com/item?id=50273104",
+   "score": 69,
+   "comments": 6,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-28T13:20:05+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 69
     }
    ]
   },
@@ -140,8 +252,8 @@
    "title": "If IPv4 were land",
    "url": "https://iptrust.co/blog/if-ipv4-were-land",
    "hn_url": "https://news.ycombinator.com/item?id=50287775",
-   "score": 222,
-   "comments": 291,
+   "score": 263,
+   "comments": 366,
    "author": "rokostik",
    "time_iso": "2026-10-29T12:19:00+00:00",
    "history": [
@@ -152,6 +264,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 222
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 263
     }
    ]
   },
@@ -180,8 +296,8 @@
    "title": "We're releasing the weights of Mistral Large 4",
    "url": "https://mistral.ai/news/mistral-large-4-oss/",
    "hn_url": "https://news.ycombinator.com/item?id=50289418",
-   "score": 1162,
-   "comments": 331,
+   "score": 1339,
+   "comments": 364,
    "author": "kuberwastaken",
    "time_iso": "2026-10-29T14:13:21+00:00",
    "history": [
@@ -192,6 +308,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 1162
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 1339
     }
    ]
   },
@@ -200,8 +320,8 @@
    "title": "LLM Voice",
    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
    "hn_url": "https://news.ycombinator.com/item?id=50290177",
-   "score": 327,
-   "comments": 168,
+   "score": 422,
+   "comments": 215,
    "author": "ibobev",
    "time_iso": "2026-10-29T14:57:55+00:00",
    "history": [
@@ -212,6 +332,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 327
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 422
     }
    ]
   },
@@ -260,8 +384,8 @@
    "title": "H.264 Is Magic (2016)",
    "url": "https://sidbala.com/h-264-is-magic/",
    "hn_url": "https://news.ycombinator.com/item?id=50291054",
-   "score": 314,
-   "comments": 120,
+   "score": 382,
+   "comments": 143,
    "author": "ea016",
    "time_iso": "2026-10-29T15:53:03+00:00",
    "history": [
@@ -272,6 +396,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 314
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 382
     }
    ]
   },
@@ -280,8 +408,8 @@
    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
    "url": "https://news.ycombinator.com/item?id=50291116",
    "hn_url": "https://news.ycombinator.com/item?id=50291116",
-   "score": 48,
-   "comments": 14,
+   "score": 60,
+   "comments": 17,
    "author": "shong0504",
    "time_iso": "2026-10-29T15:56:32+00:00",
    "history": [
@@ -292,6 +420,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 60
     }
    ]
   },
@@ -420,8 +552,8 @@
    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
    "url": "https://github.com/johncassil/dontallow",
    "hn_url": "https://news.ycombinator.com/item?id=50294506",
-   "score": 91,
-   "comments": 74,
+   "score": 121,
+   "comments": 92,
    "author": "johncassil",
    "time_iso": "2026-10-29T19:27:44+00:00",
    "history": [
@@ -432,6 +564,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 91
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 121
     }
    ]
   },
@@ -456,8 +592,8 @@
    "title": "Patrick Stewart has died",
    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
    "hn_url": "https://news.ycombinator.com/item?id=50294702",
-   "score": 2258,
-   "comments": 464,
+   "score": 2760,
+   "comments": 585,
    "author": "j4mie",
    "time_iso": "2026-10-29T19:41:39+00:00",
    "history": [
@@ -468,6 +604,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 2258
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 2760
     }
    ]
   },
@@ -476,8 +616,8 @@
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
    "url": "https://github.com/SheepSeb/tinyworldformer",
    "hn_url": "https://news.ycombinator.com/item?id=50295450",
-   "score": 103,
-   "comments": 7,
+   "score": 184,
+   "comments": 10,
    "author": "airinei",
    "time_iso": "2026-10-29T20:32:28+00:00",
    "history": [
@@ -488,6 +628,10 @@
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 103
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 184
     }
    ]
   },
@@ -512,14 +656,18 @@
    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
    "url": "https://projects.freehackers.org/sylphide-os/",
    "hn_url": "https://news.ycombinator.com/item?id=50295868",
-   "score": 32,
-   "comments": 9,
+   "score": 57,
+   "comments": 15,
    "author": "iamnothere",
    "time_iso": "2026-10-29T20:59:55+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 57
     }
    ]
   },
@@ -528,14 +676,18 @@
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "hn_url": "https://news.ycombinator.com/item?id=50296470",
-   "score": 603,
-   "comments": 363,
+   "score": 1099,
+   "comments": 650,
    "author": "Tiberium",
    "time_iso": "2026-10-29T21:38:59+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 603
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 1099
     }
    ]
   },
@@ -544,14 +696,18 @@
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "url": "https://labs.ycombinator.com/projects/games/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50296486",
-   "score": 125,
-   "comments": 46,
+   "score": 245,
+   "comments": 82,
    "author": "sandslash",
    "time_iso": "2026-10-29T21:40:28+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 125
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 245
     }
    ]
   },
@@ -592,14 +748,18 @@
    "title": "The Great American Rascal: Tom Sawyer at 150",
    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
    "hn_url": "https://news.ycombinator.com/item?id=50296947",
-   "score": 29,
-   "comments": 8,
+   "score": 60,
+   "comments": 31,
    "author": "beatstop",
    "time_iso": "2026-10-29T22:14:23+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 60
     }
    ]
   },
@@ -608,14 +768,18 @@
    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
    "url": "https://journal.animationstudies.org/article/id/66/",
    "hn_url": "https://news.ycombinator.com/item?id=50297089",
-   "score": 32,
-   "comments": 1,
+   "score": 95,
+   "comments": 22,
    "author": "simonebrunozzi",
    "time_iso": "2026-10-29T22:26:38+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 95
     }
    ]
   },
@@ -624,14 +788,82 @@
    "title": "Show HN: I Turned DOOM into a Transformer",
    "url": "https://github.com/mottopanikeiku/doomformer",
    "hn_url": "https://news.ycombinator.com/item?id=50297697",
-   "score": 15,
-   "comments": 2,
+   "score": 70,
+   "comments": 19,
    "author": "falperc",
    "time_iso": "2026-10-29T23:25:46+00:00",
    "history": [
     {
      "t": "2026-10-30T08:36:19.906874+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 70
+    }
+   ]
+  },
+  {
+   "id": "hn-50298436",
+   "title": "Herdr has released native app",
+   "url": "https://github.com/herdrdev/herdr-app",
+   "hn_url": "https://news.ycombinator.com/item?id=50298436",
+   "score": 127,
+   "comments": 79,
+   "author": "cherioo",
+   "time_iso": "2026-10-30T00:42:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 127
+    }
+   ]
+  },
+  {
+   "id": "hn-50298964",
+   "title": "Pico CSS is no longer maintained",
+   "url": "https://github.com/picocss/pico/discussions/754",
+   "hn_url": "https://news.ycombinator.com/item?id=50298964",
+   "score": 99,
+   "comments": 30,
+   "author": "henrid",
+   "time_iso": "2026-10-30T01:58:44+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 99
+    }
+   ]
+  },
+  {
+   "id": "hn-50299004",
+   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+   "url": "https://github.com/Millillion/lasm",
+   "hn_url": "https://news.ycombinator.com/item?id=50299004",
+   "score": 24,
+   "comments": 4,
+   "author": "lastmjs",
+   "time_iso": "2026-10-30T02:05:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50299182",
+   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+   "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+   "hn_url": "https://news.ycombinator.com/item?id=50299182",
+   "score": 46,
+   "comments": 31,
+   "author": "cobychapple",
+   "time_iso": "2026-10-30T02:33:04+00:00",
+   "history": [
+    {
+     "t": "2026-10-30T14:47:23.789967+08:00",
+     "score": 46
     }
    ]
   }
