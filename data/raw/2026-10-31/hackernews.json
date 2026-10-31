@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-31T16:20:13.309993+08:00",
- "count": 50,
+ "updated_at": "2026-10-31T23:00:31.418330+08:00",
+ "count": 64,
  "items": [
   {
    "id": "hn-50246538",
@@ -72,12 +72,44 @@
    ]
   },
   {
+   "id": "hn-50260753",
+   "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+   "url": "https://zebra.rodeo/en/blog/marelleo/",
+   "hn_url": "https://news.ycombinator.com/item?id=50260753",
+   "score": 126,
+   "comments": 36,
+   "author": "foOg",
+   "time_iso": "2026-10-27T15:24:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 126
+    }
+   ]
+  },
+  {
+   "id": "hn-50261253",
+   "title": "Simple circuits can create complex behaviors",
+   "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+   "hn_url": "https://news.ycombinator.com/item?id=50261253",
+   "score": 45,
+   "comments": 4,
+   "author": "aatish",
+   "time_iso": "2026-10-27T16:01:06+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
    "id": "hn-50263837",
    "title": "Breaking the open web won't stop the bad bots",
    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
    "hn_url": "https://news.ycombinator.com/item?id=50263837",
-   "score": 254,
-   "comments": 106,
+   "score": 291,
+   "comments": 128,
    "author": "raybb",
    "time_iso": "2026-10-27T18:42:55+00:00",
    "history": [
@@ -96,6 +128,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 254
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 291
     }
    ]
   },
@@ -192,8 +228,8 @@
    "title": "Cloudflare Turnstile solver library (no headless browser required)",
    "url": "https://github.com/chris124567/cfsolve",
    "hn_url": "https://news.ycombinator.com/item?id=50277379",
-   "score": 184,
-   "comments": 51,
+   "score": 263,
+   "comments": 89,
    "author": "costco",
    "time_iso": "2026-10-28T17:29:23+00:00",
    "history": [
@@ -204,6 +240,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 184
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 263
     }
    ]
   },
@@ -240,6 +280,22 @@
    ]
   },
   {
+   "id": "hn-50290652",
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "hn_url": "https://news.ycombinator.com/item?id=50290652",
+   "score": 105,
+   "comments": 25,
+   "author": "datascientist",
+   "time_iso": "2026-10-29T15:29:48+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 105
+    }
+   ]
+  },
+  {
    "id": "hn-50293437",
    "title": "Turning a solar power system into its own backup",
    "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
@@ -260,6 +316,22 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50296700",
+   "title": "Hunting 'Zombie Accounts' in Active Directory",
+   "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50296700",
+   "score": 7,
+   "comments": 1,
+   "author": "optimiz",
+   "time_iso": "2026-10-29T21:56:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 7
     }
    ]
   },
@@ -308,12 +380,28 @@
    ]
   },
   {
+   "id": "hn-50300151",
+   "title": "Keeping the Bonfires Lit",
+   "url": "https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit",
+   "hn_url": "https://news.ycombinator.com/item?id=50300151",
+   "score": 12,
+   "comments": 5,
+   "author": "Petiver",
+   "time_iso": "2026-10-30T05:24:51+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
    "id": "hn-50300683",
    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "hn_url": "https://news.ycombinator.com/item?id=50300683",
-   "score": 879,
-   "comments": 517,
+   "score": 932,
+   "comments": 537,
    "author": "_chall",
    "time_iso": "2026-10-30T07:09:12+00:00",
    "history": [
@@ -332,6 +420,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 879
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 932
     }
    ]
   },
@@ -384,8 +476,8 @@
    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
    "hn_url": "https://news.ycombinator.com/item?id=50303172",
-   "score": 431,
-   "comments": 291,
+   "score": 520,
+   "comments": 364,
    "author": "domhudson",
    "time_iso": "2026-10-30T12:50:01+00:00",
    "history": [
@@ -400,6 +492,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 431
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 520
     }
    ]
   },
@@ -408,8 +504,8 @@
    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "hn_url": "https://news.ycombinator.com/item?id=50304122",
-   "score": 178,
-   "comments": 208,
+   "score": 236,
+   "comments": 285,
    "author": "taubek",
    "time_iso": "2026-10-30T14:08:20+00:00",
    "history": [
@@ -420,6 +516,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 178
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 236
     }
    ]
   },
@@ -428,8 +528,8 @@
    "title": "Northflank Breached",
    "url": "https://status.northflank.com",
    "hn_url": "https://news.ycombinator.com/item?id=50305025",
-   "score": 424,
-   "comments": 312,
+   "score": 460,
+   "comments": 333,
    "author": "js4ever",
    "time_iso": "2026-10-30T15:10:31+00:00",
    "history": [
@@ -448,6 +548,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 424
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 460
     }
    ]
   },
@@ -548,8 +652,8 @@
    "title": "Florilegium: Procedural Flowers in LaTeX",
    "url": "https://github.com/kevinraymond/florilegium",
    "hn_url": "https://news.ycombinator.com/item?id=50305637",
-   "score": 262,
-   "comments": 45,
+   "score": 333,
+   "comments": 49,
    "author": "nanna",
    "time_iso": "2026-10-30T15:48:12+00:00",
    "history": [
@@ -568,6 +672,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 262
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 333
     }
    ]
   },
@@ -596,8 +704,8 @@
    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
    "url": "https://github.com/dbreunig/nesformer",
    "hn_url": "https://news.ycombinator.com/item?id=50306442",
-   "score": 241,
-   "comments": 120,
+   "score": 271,
+   "comments": 134,
    "author": "dbreunig",
    "time_iso": "2026-10-30T16:40:22+00:00",
    "history": [
@@ -616,6 +724,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 241
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 271
     }
    ]
   },
@@ -656,8 +768,8 @@
    "title": "My favourite PowerMac is a Nintendo Wii",
    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
    "hn_url": "https://news.ycombinator.com/item?id=50307190",
-   "score": 303,
-   "comments": 82,
+   "score": 342,
+   "comments": 104,
    "author": "DHowett",
    "time_iso": "2026-10-30T17:25:15+00:00",
    "history": [
@@ -676,6 +788,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 303
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 342
     }
    ]
   },
@@ -788,8 +904,8 @@
    "title": "The oldest ice disappears and the Stone Age emerges from it",
    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
    "hn_url": "https://news.ycombinator.com/item?id=50309266",
-   "score": 139,
-   "comments": 56,
+   "score": 178,
+   "comments": 77,
    "author": "dxs",
    "time_iso": "2026-10-30T19:51:33+00:00",
    "history": [
@@ -804,6 +920,10 @@
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 139
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 178
     }
    ]
   },
@@ -992,14 +1112,162 @@
    "title": "Tell HN: Scribd Breached",
    "url": "https://news.ycombinator.com/item?id=50312756",
    "hn_url": "https://news.ycombinator.com/item?id=50312756",
-   "score": 174,
-   "comments": 68,
+   "score": 282,
+   "comments": 103,
    "author": "x______________",
    "time_iso": "2026-10-31T02:46:36+00:00",
    "history": [
     {
      "t": "2026-10-31T16:20:13.309993+08:00",
      "score": 174
+    },
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 282
+    }
+   ]
+  },
+  {
+   "id": "hn-50313661",
+   "title": "Digital minimalism",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50313661",
+   "score": 142,
+   "comments": 110,
+   "author": "wilbertliu",
+   "time_iso": "2026-10-31T06:16:36+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 142
+    }
+   ]
+  },
+  {
+   "id": "hn-50314085",
+   "title": "Switch Lowering in GCC",
+   "url": "https://xoranth.net/gcc-switch/",
+   "hn_url": "https://news.ycombinator.com/item?id=50314085",
+   "score": 119,
+   "comments": 22,
+   "author": "signa11",
+   "time_iso": "2026-10-31T08:02:26+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 119
+    }
+   ]
+  },
+  {
+   "id": "hn-50314654",
+   "title": "Serbia just elected the world's brainiest parliament",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "hn_url": "https://news.ycombinator.com/item?id=50314654",
+   "score": 508,
+   "comments": 306,
+   "author": "input_sh",
+   "time_iso": "2026-10-31T10:21:30+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 508
+    }
+   ]
+  },
+  {
+   "id": "hn-50314666",
+   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+   "url": "https://piefed.world/post/1503394",
+   "hn_url": "https://news.ycombinator.com/item?id=50314666",
+   "score": 125,
+   "comments": 77,
+   "author": "DeepLogin",
+   "time_iso": "2026-10-31T10:23:41+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 125
+    }
+   ]
+  },
+  {
+   "id": "hn-50314699",
+   "title": "We Took over ChatGPT Accounts",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "hn_url": "https://news.ycombinator.com/item?id=50314699",
+   "score": 134,
+   "comments": 58,
+   "author": "armcat",
+   "time_iso": "2026-10-31T10:30:11+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 134
+    }
+   ]
+  },
+  {
+   "id": "hn-50315226",
+   "title": "Prospero: A new coding harness for a more civilized age",
+   "url": "https://nullprogram.com/blog/2026/10/31/",
+   "hn_url": "https://news.ycombinator.com/item?id=50315226",
+   "score": 68,
+   "comments": 38,
+   "author": "fovc",
+   "time_iso": "2026-10-31T11:54:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
+   "id": "hn-50315776",
+   "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+   "url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+   "hn_url": "https://news.ycombinator.com/item?id=50315776",
+   "score": 42,
+   "comments": 35,
+   "author": "ck2",
+   "time_iso": "2026-10-31T12:57:31+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50315990",
+   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "hn_url": "https://news.ycombinator.com/item?id=50315990",
+   "score": 63,
+   "comments": 15,
+   "author": "healsdata",
+   "time_iso": "2026-10-31T13:25:10+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 63
+    }
+   ]
+  },
+  {
+   "id": "hn-50316103",
+   "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+   "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+   "hn_url": "https://news.ycombinator.com/item?id=50316103",
+   "score": 13,
+   "comments": 0,
+   "author": "dxs",
+   "time_iso": "2026-10-31T13:39:57+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T23:00:31.418330+08:00",
+     "score": 13
     }
    ]
   }
