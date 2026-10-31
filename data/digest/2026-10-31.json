@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T06:54:31.069236+08:00",
+ "generated_at": "2026-10-31T09:59:59.860119+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,23 @@
     {
      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-     "meta": "+185 分 / 3.9 小时 · 现 ⭐ 694",
+     "meta": "+272 分 / 7.0 小时 · 现 ⭐ 781",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "My favourite PowerMac is a Nintendo Wii",
+     "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+     "meta": "+174 分 / 7.0 小时 · 现 ⭐ 246",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Northflank Breached",
+     "url": "https://status.northflank.com",
+     "meta": "+164 分 / 7.0 小时 · 现 ⭐ 363",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,25 +40,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "My favourite PowerMac is a Nintendo Wii",
-     "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-     "meta": "+123 分 / 3.9 小时 · 现 ⭐ 195",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Northflank Breached",
-     "url": "https://status.northflank.com",
-     "meta": "+119 分 / 3.9 小时 · 现 ⭐ 318",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Breaking the open web won't stop the bad bots",
      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-     "meta": "+103 分 / 3.9 小时 · 现 ⭐ 154",
+     "meta": "+141 分 / 7.0 小时 · 现 ⭐ 192",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,7 +50,7 @@
     {
      "title": "Florilegium: Procedural Flowers in LaTeX",
      "url": "https://github.com/kevinraymond/florilegium",
-     "meta": "+101 分 / 3.9 小时 · 现 ⭐ 183",
+     "meta": "+137 分 / 7.0 小时 · 现 ⭐ 219",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -58,15 +58,7 @@
     {
      "title": "The federated code forge",
      "url": "https://tangled.org/blog/forge/",
-     "meta": "+85 分 / 3.9 小时 · 现 ⭐ 199",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Building an AI-native engineering org",
-     "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-     "meta": "+73 分 / 3.9 小时 · 现 ⭐ 89",
+     "meta": "+121 分 / 7.0 小时 · 现 ⭐ 235",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -74,15 +66,23 @@
     {
      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
      "url": "https://github.com/dbreunig/nesformer",
-     "meta": "+71 分 / 3.9 小时 · 现 ⭐ 164",
+     "meta": "+99 分 / 7.0 小时 · 现 ⭐ 192",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-     "meta": "+45 分 / 3.9 小时 · 现 ⭐ 254",
+     "title": "Building an AI-native engineering org",
+     "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+     "meta": "+94 分 / 7.0 小时 · 现 ⭐ 110",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+     "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+     "meta": "+89 分 / 3.1 小时 · 现 ⭐ 209",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "unclebob/ub-mode",
      "url": "https://github.com/unclebob/ub-mode",
-     "meta": "⭐ 5364",
+     "meta": "⭐ 5394",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 3930 · HTML",
+     "meta": "⭐ 3983 · TypeScript",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "interplains/Zero-Breach-Toolkit",
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-     "meta": "⭐ 3851 · Python",
+     "meta": "⭐ 3874 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,8 +256,16 @@
     {
      "title": "designfuchen/word-atlas",
      "url": "https://github.com/designfuchen/word-atlas",
-     "meta": "⭐ 3353 · TypeScript",
+     "meta": "⭐ 3372 · TypeScript",
      "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ccch1mneyyy/dsh-Go",
+     "url": "https://github.com/ccch1mneyyy/dsh-Go",
+     "meta": "⭐ 2565 · Dart",
+     "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -270,74 +278,66 @@
      "origin_source": "github_search"
     },
     {
-     "title": "ccch1mneyyy/dsh-Go",
-     "url": "https://github.com/ccch1mneyyy/dsh-Go",
-     "meta": "⭐ 2412 · Dart",
-     "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+     "title": "valentderah/totk-pc-recomp",
+     "url": "https://github.com/valentderah/totk-pc-recomp",
+     "meta": "⭐ 1627 · C",
+     "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1549 · TypeScript",
+     "meta": "⭐ 1557 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "valentderah/totk-pc-recomp",
-     "url": "https://github.com/valentderah/totk-pc-recomp",
-     "meta": "⭐ 1463 · C",
-     "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "qybaihe/bla",
      "url": "https://github.com/qybaihe/bla",
-     "meta": "⭐ 1383 · TypeScript",
+     "meta": "⭐ 1426 · TypeScript",
      "summary": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "DenisSergeevitch/ex-ussr-kinship-research",
-     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-     "meta": "⭐ 1335 · Python",
-     "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "aschmelyun/print-my-profile-pic",
-     "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 1191",
-     "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Motionsites-AI/claude-skill",
-     "url": "https://github.com/Motionsites-AI/claude-skill",
-     "meta": "⭐ 1179 · Python",
-     "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "meta": "⭐ 1167 · Kotlin",
+     "meta": "⭐ 1422 · Kotlin",
      "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "DenisSergeevitch/ex-ussr-kinship-research",
+     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+     "meta": "⭐ 1347 · Python",
+     "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "meta": "⭐ 1347 · JavaScript",
+     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "meta": "⭐ 1148 · Go",
+     "meta": "⭐ 1222 · Go",
      "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "aschmelyun/print-my-profile-pic",
+     "url": "https://github.com/aschmelyun/print-my-profile-pic",
+     "meta": "⭐ 1218",
+     "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,7 +351,7 @@
     {
      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-     "meta": "⭐ 694 · 💬 435",
+     "meta": "⭐ 781 · 💬 489",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,15 +367,7 @@
     {
      "title": "Northflank Breached",
      "url": "https://status.northflank.com",
-     "meta": "⭐ 318 · 💬 241",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-     "meta": "⭐ 254 · 💬 46",
+     "meta": "⭐ 363 · 💬 274",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -383,15 +375,15 @@
     {
      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-     "meta": "⭐ 242 · 💬 173",
+     "meta": "⭐ 320 · 💬 217",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "The federated code forge",
-     "url": "https://tangled.org/blog/forge/",
-     "meta": "⭐ 199 · 💬 68",
+     "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+     "meta": "⭐ 264 · 💬 53",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -399,7 +391,15 @@
     {
      "title": "My favourite PowerMac is a Nintendo Wii",
      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-     "meta": "⭐ 195 · 💬 50",
+     "meta": "⭐ 246 · 💬 65",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The federated code forge",
+     "url": "https://tangled.org/blog/forge/",
+     "meta": "⭐ 235 · 💬 78",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +407,39 @@
     {
      "title": "Florilegium: Procedural Flowers in LaTeX",
      "url": "https://github.com/kevinraymond/florilegium",
-     "meta": "⭐ 183 · 💬 34",
+     "meta": "⭐ 219 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+     "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+     "meta": "⭐ 209 · 💬 125",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Breaking the open web won't stop the bad bots",
+     "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+     "meta": "⭐ 192 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+     "url": "https://github.com/dbreunig/nesformer",
+     "meta": "⭐ 192 · 💬 112",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+     "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+     "meta": "⭐ 170 · 💬 17",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,41 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-     "url": "https://github.com/dbreunig/nesformer",
-     "meta": "⭐ 164 · 💬 104",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Breaking the open web won't stop the bad bots",
-     "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-     "meta": "⭐ 154 · 💬 65",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-     "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-     "meta": "⭐ 141 · 💬 12",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-     "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-     "meta": "⭐ 120 · 💬 63",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-     "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-     "meta": "⭐ 118 · 💬 59",
+     "title": "Linode Security Incident",
+     "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+     "meta": "⭐ 147 · 💬 78",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

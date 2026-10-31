@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-10-31T06:54:28.572553+08:00",
- "count": 40,
+ "updated_at": "2026-10-31T09:59:58.551682+08:00",
+ "count": 45,
  "items": [
   {
    "id": "hn-50246538",
@@ -40,14 +40,18 @@
    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
    "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
    "hn_url": "https://news.ycombinator.com/item?id=50258496",
-   "score": 50,
-   "comments": 22,
+   "score": 64,
+   "comments": 28,
    "author": "surprisetalk",
    "time_iso": "2026-10-27T13:00:04+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 50
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 64
     }
    ]
   },
@@ -56,8 +60,8 @@
    "title": "Breaking the open web won't stop the bad bots",
    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
    "hn_url": "https://news.ycombinator.com/item?id=50263837",
-   "score": 154,
-   "comments": 65,
+   "score": 192,
+   "comments": 80,
    "author": "raybb",
    "time_iso": "2026-10-27T18:42:55+00:00",
    "history": [
@@ -68,6 +72,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 154
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 192
     }
    ]
   },
@@ -92,14 +100,66 @@
    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
    "hn_url": "https://news.ycombinator.com/item?id=50272479",
-   "score": 141,
-   "comments": 12,
+   "score": 170,
+   "comments": 17,
    "author": "acossta",
    "time_iso": "2026-10-28T12:24:25+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 141
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50276355",
+   "title": "Trapped in the Technologist Factory",
+   "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50276355",
+   "score": 5,
+   "comments": 0,
+   "author": "luu",
+   "time_iso": "2026-10-28T16:30:38+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50277379",
+   "title": "Cloudflare Turnstile solver library (no headless browser required)",
+   "url": "https://github.com/chris124567/cfsolve",
+   "hn_url": "https://news.ycombinator.com/item?id=50277379",
+   "score": 89,
+   "comments": 30,
+   "author": "costco",
+   "time_iso": "2026-10-28T17:29:23+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 89
+    }
+   ]
+  },
+  {
+   "id": "hn-50277518",
+   "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+   "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+   "hn_url": "https://news.ycombinator.com/item?id=50277518",
+   "score": 7,
+   "comments": 0,
+   "author": "Thevet",
+   "time_iso": "2026-10-28T17:34:59+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 7
     }
    ]
   },
@@ -108,14 +168,18 @@
    "title": "Turning a solar power system into its own backup",
    "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
    "hn_url": "https://news.ycombinator.com/item?id=50293437",
-   "score": 18,
-   "comments": 5,
+   "score": 32,
+   "comments": 12,
    "author": "PaulHoule",
    "time_iso": "2026-10-29T18:10:33+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 32
     }
    ]
   },
@@ -124,8 +188,8 @@
    "title": "Building an AI-native engineering org",
    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
    "hn_url": "https://news.ycombinator.com/item?id=50296730",
-   "score": 89,
-   "comments": 113,
+   "score": 110,
+   "comments": 145,
    "author": "sgondala_ycapp",
    "time_iso": "2026-10-29T21:58:34+00:00",
    "history": [
@@ -136,6 +200,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 89
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 110
     }
    ]
   },
@@ -160,8 +228,8 @@
    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "hn_url": "https://news.ycombinator.com/item?id=50300683",
-   "score": 694,
-   "comments": 435,
+   "score": 781,
+   "comments": 489,
    "author": "_chall",
    "time_iso": "2026-10-30T07:09:12+00:00",
    "history": [
@@ -172,6 +240,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 694
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 781
     }
    ]
   },
@@ -196,8 +268,8 @@
    "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
    "hn_url": "https://news.ycombinator.com/item?id=50301854",
-   "score": 254,
-   "comments": 46,
+   "score": 264,
+   "comments": 53,
    "author": "swq115",
    "time_iso": "2026-10-30T10:06:15+00:00",
    "history": [
@@ -208,6 +280,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 254
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 264
     }
    ]
   },
@@ -216,14 +292,34 @@
    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
    "hn_url": "https://news.ycombinator.com/item?id=50303172",
-   "score": 242,
-   "comments": 173,
+   "score": 320,
+   "comments": 217,
    "author": "domhudson",
    "time_iso": "2026-10-30T12:50:01+00:00",
    "history": [
     {
      "t": "2026-10-31T02:58:38.246315+08:00",
      "score": 242
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 320
+    }
+   ]
+  },
+  {
+   "id": "hn-50304122",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50304122",
+   "score": 104,
+   "comments": 116,
+   "author": "taubek",
+   "time_iso": "2026-10-30T14:08:20+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 104
     }
    ]
   },
@@ -232,8 +328,8 @@
    "title": "Northflank Breached",
    "url": "https://status.northflank.com",
    "hn_url": "https://news.ycombinator.com/item?id=50305025",
-   "score": 318,
-   "comments": 241,
+   "score": 363,
+   "comments": 274,
    "author": "js4ever",
    "time_iso": "2026-10-30T15:10:31+00:00",
    "history": [
@@ -244,6 +340,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 318
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 363
     }
    ]
   },
@@ -316,8 +416,8 @@
    "title": "The federated code forge",
    "url": "https://tangled.org/blog/forge/",
    "hn_url": "https://news.ycombinator.com/item?id=50305573",
-   "score": 199,
-   "comments": 68,
+   "score": 235,
+   "comments": 78,
    "author": "zlliang",
    "time_iso": "2026-10-30T15:44:29+00:00",
    "history": [
@@ -328,6 +428,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 199
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 235
     }
    ]
   },
@@ -336,8 +440,8 @@
    "title": "Florilegium: Procedural Flowers in LaTeX",
    "url": "https://github.com/kevinraymond/florilegium",
    "hn_url": "https://news.ycombinator.com/item?id=50305637",
-   "score": 183,
-   "comments": 34,
+   "score": 219,
+   "comments": 36,
    "author": "nanna",
    "time_iso": "2026-10-30T15:48:12+00:00",
    "history": [
@@ -348,6 +452,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 183
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 219
     }
    ]
   },
@@ -376,8 +484,8 @@
    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
    "url": "https://github.com/dbreunig/nesformer",
    "hn_url": "https://news.ycombinator.com/item?id=50306442",
-   "score": 164,
-   "comments": 104,
+   "score": 192,
+   "comments": 112,
    "author": "dbreunig",
    "time_iso": "2026-10-30T16:40:22+00:00",
    "history": [
@@ -388,6 +496,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 164
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 192
     }
    ]
   },
@@ -428,8 +540,8 @@
    "title": "My favourite PowerMac is a Nintendo Wii",
    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
    "hn_url": "https://news.ycombinator.com/item?id=50307190",
-   "score": 195,
-   "comments": 50,
+   "score": 246,
+   "comments": 65,
    "author": "DHowett",
    "time_iso": "2026-10-30T17:25:15+00:00",
    "history": [
@@ -440,6 +552,10 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 195
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 246
     }
    ]
   },
@@ -528,14 +644,18 @@
    "title": "Infinite Mac: BeOS",
    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
    "hn_url": "https://news.ycombinator.com/item?id=50309029",
-   "score": 67,
-   "comments": 14,
+   "score": 105,
+   "comments": 39,
    "author": "ecliptik",
    "time_iso": "2026-10-30T19:30:09+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 105
     }
    ]
   },
@@ -544,14 +664,18 @@
    "title": "The oldest ice disappears and the Stone Age emerges from it",
    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
    "hn_url": "https://news.ycombinator.com/item?id=50309266",
-   "score": 46,
-   "comments": 13,
+   "score": 92,
+   "comments": 33,
    "author": "dxs",
    "time_iso": "2026-10-30T19:51:33+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 92
     }
    ]
   },
@@ -560,14 +684,18 @@
    "title": "Jules Verne's Lost Novel",
    "url": "https://blue-continuum.com/verne-paris",
    "hn_url": "https://news.ycombinator.com/item?id=50309314",
-   "score": 50,
-   "comments": 12,
+   "score": 82,
+   "comments": 19,
    "author": "dnetesn",
    "time_iso": "2026-10-30T19:55:10+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 50
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 82
     }
    ]
   },
@@ -608,14 +736,18 @@
    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
    "hn_url": "https://news.ycombinator.com/item?id=50309647",
-   "score": 120,
-   "comments": 63,
+   "score": 209,
+   "comments": 125,
    "author": "apress",
    "time_iso": "2026-10-30T20:23:30+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 120
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 209
     }
    ]
   },
@@ -624,30 +756,38 @@
    "title": "AO3 Down for Maintenance",
    "url": "https://www.otwstatus.org",
    "hn_url": "https://news.ycombinator.com/item?id=50310258",
-   "score": 54,
-   "comments": 6,
+   "score": 92,
+   "comments": 22,
    "author": "idlewords",
    "time_iso": "2026-10-30T21:17:23+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 54
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 92
     }
    ]
   },
   {
    "id": "hn-50310398",
-   "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
    "url": "https://www.firezone.dev/blog/introducing-sanstun",
    "hn_url": "https://news.ycombinator.com/item?id=50310398",
-   "score": 26,
-   "comments": 1,
+   "score": 59,
+   "comments": 14,
    "author": "wh33zle",
    "time_iso": "2026-10-30T21:30:00+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 59
     }
    ]
   },
@@ -656,14 +796,18 @@
    "title": "Linode Security Incident",
    "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
    "hn_url": "https://news.ycombinator.com/item?id=50310687",
-   "score": 70,
-   "comments": 25,
+   "score": 147,
+   "comments": 78,
    "author": "lacoolj",
    "time_iso": "2026-10-30T21:57:40+00:00",
    "history": [
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 70
+    },
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 147
     }
    ]
   },
@@ -680,6 +824,22 @@
     {
      "t": "2026-10-31T06:54:28.572553+08:00",
      "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50311686",
+   "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+   "url": "https://tng.episodle.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50311686",
+   "score": 54,
+   "comments": 17,
+   "author": "francisofascii",
+   "time_iso": "2026-10-30T23:51:24+00:00",
+   "history": [
+    {
+     "t": "2026-10-31T09:59:58.551682+08:00",
+     "score": 54
     }
    ]
   }
