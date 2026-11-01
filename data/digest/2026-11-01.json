@@ -1,12 +1,60 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T07:04:20.081038+08:00",
+ "generated_at": "2026-11-01T12:22:43.969689+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
    "errors": [],
    "items": [
+    {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "meta": "+479 分 / 5.3 小时 · 现 ⭐ 914",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "meta": "+229 分 / 5.3 小时 · 现 ⭐ 234",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+     "meta": "+170 分 / 5.3 小时 · 现 ⭐ 401",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "It's the memory latency, stupid",
+     "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+     "meta": "+145 分 / 8.7 小时 · 现 ⭐ 158",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anthropic blocks users for anything touching training larger models",
+     "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+     "meta": "+140 分 / 5.3 小时 · 现 ⭐ 255",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jepsen: ParticleDB 1.1.4",
+     "url": "https://jepsen.io/analyses/particledb-1.1.4",
+     "meta": "+130 分 / 8.7 小时 · 现 ⭐ 227",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
@@ -16,25 +64,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "It's the Memory Latency, Stupid",
-     "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-     "meta": "+70 分 / 3.4 小时 · 现 ⭐ 83",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Jepsen: ParticleDB 1.1.4",
-     "url": "https://jepsen.io/analyses/particledb-1.1.4",
-     "meta": "+67 分 / 3.4 小时 · 现 ⭐ 164",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "The Duty of a Scholar",
      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-     "meta": "+49 分 / 3.4 小时 · 现 ⭐ 70",
+     "meta": "+78 分 / 8.7 小时 · 现 ⭐ 99",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -42,23 +74,7 @@
     {
      "title": "Simple circuits can create complex behaviors",
      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-     "meta": "+39 分 / 3.4 小时 · 现 ⭐ 200",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: A language model that lives in a boot sector",
-     "url": "https://github.com/kerlenton/bootgpt",
-     "meta": "+39 分 / 3.4 小时 · 现 ⭐ 42",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-     "url": "https://piefed.world/post/1503394",
-     "meta": "+32 分 / 3.4 小时 · 现 ⭐ 290",
+     "meta": "+65 分 / 8.7 小时 · 现 ⭐ 226",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -66,23 +82,7 @@
     {
      "title": "Much Ado About None: Sentinel Values in Python",
      "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
-     "meta": "+27 分 / 3.4 小时 · 现 ⭐ 33",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-     "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
-     "meta": "+24 分 / 3.4 小时 · 现 ⭐ 39",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Do the math: How we took over ChatGPT accounts",
-     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-     "meta": "+24 分 / 3.4 小时 · 现 ⭐ 293",
+     "meta": "+52 分 / 8.7 小时 · 现 ⭐ 58",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -232,7 +232,7 @@
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 4650 · TypeScript",
+     "meta": "⭐ 4776 · TypeScript",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -242,6 +242,14 @@
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
      "meta": "⭐ 4000 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "meta": "⭐ 3679 · JavaScript",
+     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -262,34 +270,34 @@
      "origin_source": "github_search"
     },
     {
-     "title": "heydamir/unslop",
-     "url": "https://github.com/heydamir/unslop",
-     "meta": "⭐ 3381 · JavaScript",
-     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+     "title": "deepseek-ai/dsh-superagent-prototype",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+     "meta": "⭐ 3443 · TypeScript",
+     "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "meta": "⭐ 2674 · Kotlin",
-     "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "meta": "⭐ 2907 · Kotlin",
+     "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "meta": "⭐ 2556 · C",
+     "meta": "⭐ 2697 · C",
      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "deepseek-ai/dsh-superagent-prototype",
-     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 2119 · TypeScript",
-     "summary": "Towards a More Autonomous Agent System",
+     "title": "paipiange/nvzhuang",
+     "url": "https://github.com/paipiange/nvzhuang",
+     "meta": "⭐ 1757 · Go",
+     "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -302,17 +310,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "paipiange/nvzhuang",
-     "url": "https://github.com/paipiange/nvzhuang",
-     "meta": "⭐ 1701 · Go",
-     "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "aschmelyun/print-my-profile-pic",
      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 1627",
+     "meta": "⭐ 1652",
      "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,23 +320,23 @@
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1585 · TypeScript",
+     "meta": "⭐ 1595 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "DenisSergeevitch/ex-ussr-kinship-research",
-     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-     "meta": "⭐ 1403 · Python",
-     "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "title": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "meta": "⭐ 1592 · JavaScript",
+     "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "lexifina/global-law",
      "url": "https://github.com/lexifina/global-law",
-     "meta": "⭐ 1390 · HTML",
+     "meta": "⭐ 1438 · HTML",
      "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
      "reason": null,
      "origin_source": "github_search"
@@ -349,6 +349,14 @@
    "errors": [],
    "items": [
     {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "meta": "⭐ 914 · 💬 286",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Serbia just elected the world's brainiest parliament",
      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
      "meta": "⭐ 720 · 💬 414",
@@ -357,9 +365,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "HackerTube: YouTube built from videos recommended by HN",
-     "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "⭐ 435 · 💬 167",
+     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+     "meta": "⭐ 401 · 💬 188",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +375,7 @@
     {
      "title": "Do the math: How we took over ChatGPT accounts",
      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-     "meta": "⭐ 293 · 💬 142",
+     "meta": "⭐ 312 · 💬 153",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,9 +397,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-     "meta": "⭐ 231 · 💬 109",
+     "title": "Anthropic blocks users for anything touching training larger models",
+     "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+     "meta": "⭐ 255 · 💬 134",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "meta": "⭐ 234 · 💬 67",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jepsen: ParticleDB 1.1.4",
+     "url": "https://jepsen.io/analyses/particledb-1.1.4",
+     "meta": "⭐ 227 · 💬 123",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -399,7 +423,7 @@
     {
      "title": "Simple circuits can create complex behaviors",
      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-     "meta": "⭐ 200 · 💬 65",
+     "meta": "⭐ 226 · 💬 73",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,33 +461,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Jepsen: ParticleDB 1.1.4",
-     "url": "https://jepsen.io/analyses/particledb-1.1.4",
-     "meta": "⭐ 164 · 💬 90",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Casio Watches of the 1980s",
-     "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-     "meta": "⭐ 155 · 💬 72",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-     "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-     "meta": "⭐ 143 · 💬 154",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Anthropic blocks users for anything touching training larger models",
-     "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-     "meta": "⭐ 115 · 💬 26",
+     "title": "It's the memory latency, stupid",
+     "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+     "meta": "⭐ 158 · 💬 42",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
