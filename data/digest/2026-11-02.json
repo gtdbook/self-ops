@@ -1,7 +1,94 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T01:38:08.468520+08:00",
+ "generated_at": "2026-11-02T05:41:13.467606+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+     "url": "https://hackerbooks.org",
+     "meta": "+439 分 / 4.1 小时 · 现 ⭐ 639",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Patrick Stewart taught us what good men do with power",
+     "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+     "meta": "+278 分 / 4.1 小时 · 现 ⭐ 284",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "meta": "+274 分 / 4.1 小时 · 现 ⭐ 2093",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+     "meta": "+140 分 / 4.1 小时 · 现 ⭐ 317",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Frontier Airlines Likely Breached",
+     "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+     "meta": "+106 分 / 4.1 小时 · 现 ⭐ 141",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "meta": "+82 分 / 4.1 小时 · 现 ⭐ 725",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+     "url": "https://github.com/ivankovic/omnidiff",
+     "meta": "+66 分 / 4.1 小时 · 现 ⭐ 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Copper – A minimal low-level programming language with OOP and generics",
+     "url": "https://tibleiz.net/copper/",
+     "meta": "+64 分 / 4.1 小时 · 现 ⭐ 95",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+     "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+     "meta": "+57 分 / 4.1 小时 · 现 ⭐ 110",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+     "meta": "+54 分 / 4.1 小时 · 现 ⭐ 667",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,7 +224,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 6548 · TypeScript",
+     "meta": "⭐ 6961 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +232,7 @@
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 5099 · TypeScript",
+     "meta": "⭐ 5123 · TypeScript",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "meta": "⭐ 4563 · JavaScript",
+     "meta": "⭐ 4747 · JavaScript",
      "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "meta": "⭐ 3682 · Kotlin",
+     "meta": "⭐ 3761 · Kotlin",
      "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "meta": "⭐ 3031 · C",
+     "meta": "⭐ 3138 · C",
      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,31 +264,31 @@
     {
      "title": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "meta": "⭐ 2383 · JavaScript",
+     "meta": "⭐ 2491 · JavaScript",
      "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "paipiange/nvzhuang",
-     "url": "https://github.com/paipiange/nvzhuang",
-     "meta": "⭐ 1858 · Go",
-     "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "meta": "⭐ 1787 · C++",
+     "meta": "⭐ 1919 · C++",
      "summary": "VERY experimental Nintendo Switch 2 emulator",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "paipiange/nvzhuang",
+     "url": "https://github.com/paipiange/nvzhuang",
+     "meta": "⭐ 1861 · Go",
+     "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "aschmelyun/print-my-profile-pic",
      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 1684",
+     "meta": "⭐ 1690",
      "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
      "reason": null,
      "origin_source": "github_search"
@@ -209,15 +296,23 @@
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1630 · TypeScript",
+     "meta": "⭐ 1633 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "haydenschmitty/floorplan",
+     "url": "https://github.com/haydenschmitty/floorplan",
+     "meta": "⭐ 1582 · JavaScript",
+     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "lexifina/global-law",
      "url": "https://github.com/lexifina/global-law",
-     "meta": "⭐ 1537 · HTML",
+     "meta": "⭐ 1573 · HTML",
      "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
      "reason": null,
      "origin_source": "github_search"
@@ -225,23 +320,15 @@
     {
      "title": "Motionsites-AI/claude-skill",
      "url": "https://github.com/Motionsites-AI/claude-skill",
-     "meta": "⭐ 1379 · Python",
+     "meta": "⭐ 1399 · Python",
      "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "haydenschmitty/floorplan",
-     "url": "https://github.com/haydenschmitty/floorplan",
-     "meta": "⭐ 1371 · JavaScript",
-     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "kevinraymond/florilegium",
      "url": "https://github.com/kevinraymond/florilegium",
-     "meta": "⭐ 1257 · Lua",
+     "meta": "⭐ 1277 · Lua",
      "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
      "reason": null,
      "origin_source": "github_search"
@@ -249,7 +336,7 @@
     {
      "title": "smithjohn78390/tongjiang-lab",
      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-     "meta": "⭐ 1249 · HTML",
+     "meta": "⭐ 1250 · HTML",
      "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +351,7 @@
     {
      "title": "HackerTube: YouTube built from videos recommended by HN",
      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "⭐ 1819 · 💬 473",
+     "meta": "⭐ 2093 · 💬 510",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -272,7 +359,7 @@
     {
      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-     "meta": "⭐ 643 · 💬 178",
+     "meta": "⭐ 725 · 💬 194",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,7 +367,15 @@
     {
      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-     "meta": "⭐ 613 · 💬 303",
+     "meta": "⭐ 667 · 💬 318",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+     "url": "https://hackerbooks.org",
+     "meta": "⭐ 639 · 💬 147",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -288,7 +383,15 @@
     {
      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-     "meta": "⭐ 374 · 💬 182",
+     "meta": "⭐ 406 · 💬 198",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+     "meta": "⭐ 317 · 💬 112",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -296,7 +399,23 @@
     {
      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-     "meta": "⭐ 247 · 💬 135",
+     "meta": "⭐ 293 · 💬 174",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Patrick Stewart taught us what good men do with power",
+     "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+     "meta": "⭐ 284 · 💬 195",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The AI cost of JavaScript frameworks",
+     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "meta": "⭐ 263 · 💬 189",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -310,33 +429,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
-     "url": "https://hackerbooks.org",
-     "meta": "⭐ 200 · 💬 63",
+     "title": "Frontier Airlines Likely Breached",
+     "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+     "meta": "⭐ 141 · 💬 40",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-     "meta": "⭐ 177 · 💬 70",
+     "title": "Mathematics has changed. Let's act like it",
+     "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+     "meta": "⭐ 131 · 💬 154",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Point your camera at a landscape to learn about its geology",
-     "url": "https://outcrop.rocks/",
-     "meta": "⭐ 91 · 💬 26",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Understanding Email Encryption",
-     "url": "https://www.fastmail.com/blog/email-encryption/",
-     "meta": "⭐ 84 · 💬 20",
+     "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+     "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+     "meta": "⭐ 110 · 💬 25",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -344,7 +455,7 @@
     {
      "title": "Radiation Map of the World",
      "url": "https://radiaverse.com/",
-     "meta": "⭐ 67 · 💬 27",
+     "meta": "⭐ 108 · 💬 30",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -352,31 +463,7 @@
     {
      "title": "One-minute frequency disturbances from synchronization in power systems",
      "url": "https://www.nature.com/articles/s41560-026-02144-0",
-     "meta": "⭐ 60 · 💬 22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Novellas with Groff",
-     "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-     "meta": "⭐ 60 · 💬 21",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-     "url": "https://arxiv.org/abs/2610.39302",
-     "meta": "⭐ 59 · 💬 28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-     "url": "https://www.ajupress.com/view/20261028171670308",
-     "meta": "⭐ 53 · 💬 5",
+     "meta": "⭐ 102 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -469,6 +556,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "StepGrab",
+     "url": "https://www.producthunt.com/products/stepgrab",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "Now on Windows, with redaction and a real editor",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "LumaFold: Screen Light",
      "url": "https://www.producthunt.com/products/lumafold-screen-light",
      "meta": "Product Hunt · 2026-10-26",
@@ -497,14 +592,6 @@
      "url": "https://www.producthunt.com/products/embage",
      "meta": "Product Hunt · 2026-10-30",
      "summary": "Build agent for your customers, run workflows, analyzed.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "ernd",
-     "url": "https://www.producthunt.com/products/ernd",
-     "meta": "Product Hunt · 2026-10-31",
-     "summary": "The credit card for the AI stack",
      "reason": null,
      "origin_source": "producthunt"
     }

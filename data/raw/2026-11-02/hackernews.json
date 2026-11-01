@@ -1,21 +1,41 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-02T01:38:06.745341+08:00",
- "count": 25,
+ "updated_at": "2026-11-02T05:41:11.181397+08:00",
+ "count": 32,
  "items": [
+  {
+   "id": "hn-50271106",
+   "title": "Tips for more effective fuzz testing with AFL++",
+   "url": "https://nullprogram.com/blog/2025/02/05/",
+   "hn_url": "https://news.ycombinator.com/item?id=50271106",
+   "score": 28,
+   "comments": 2,
+   "author": "luu",
+   "time_iso": "2026-10-28T09:46:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 28
+    }
+   ]
+  },
   {
    "id": "hn-50280131",
    "title": "Radiation Map of the World",
    "url": "https://radiaverse.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50280131",
-   "score": 67,
-   "comments": 27,
+   "score": 108,
+   "comments": 30,
    "author": "slater",
    "time_iso": "2026-10-28T20:06:27+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 67
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 108
     }
    ]
   },
@@ -52,18 +72,38 @@
    ]
   },
   {
+   "id": "hn-50299811",
+   "title": "Nibnib: Image compression with extreme decompression speed",
+   "url": "https://github.com/raphlinus/nibnib",
+   "hn_url": "https://news.ycombinator.com/item?id=50299811",
+   "score": 31,
+   "comments": 5,
+   "author": "raphlinus",
+   "time_iso": "2026-10-30T04:17:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
    "id": "hn-50308754",
    "title": "Copper – A minimal low-level programming language with OOP and generics",
    "url": "https://tibleiz.net/copper/",
    "hn_url": "https://news.ycombinator.com/item?id=50308754",
-   "score": 31,
-   "comments": 9,
+   "score": 95,
+   "comments": 54,
    "author": "bogdanoff_2",
    "time_iso": "2026-10-30T19:09:33+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 95
     }
    ]
   },
@@ -84,18 +124,38 @@
    ]
   },
   {
+   "id": "hn-50313227",
+   "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+   "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+   "hn_url": "https://news.ycombinator.com/item?id=50313227",
+   "score": 19,
+   "comments": 11,
+   "author": "colinprince",
+   "time_iso": "2026-10-31T04:31:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
    "id": "hn-50314508",
    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
    "url": "https://kevs3d.co.uk/phoria2/",
    "hn_url": "https://news.ycombinator.com/item?id=50314508",
-   "score": 37,
-   "comments": 5,
+   "score": 61,
+   "comments": 10,
    "author": "kevs3d",
    "time_iso": "2026-10-31T09:49:42+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 37
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 61
     }
    ]
   },
@@ -104,14 +164,18 @@
    "title": "One-minute frequency disturbances from synchronization in power systems",
    "url": "https://www.nature.com/articles/s41560-026-02144-0",
    "hn_url": "https://news.ycombinator.com/item?id=50314617",
-   "score": 60,
-   "comments": 22,
+   "score": 102,
+   "comments": 36,
    "author": "croes",
    "time_iso": "2026-10-31T10:14:08+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 102
     }
    ]
   },
@@ -120,14 +184,18 @@
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
    "hn_url": "https://news.ycombinator.com/item?id=50319143",
-   "score": 613,
-   "comments": 303,
+   "score": 667,
+   "comments": 318,
    "author": "oger",
    "time_iso": "2026-10-31T19:16:30+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 613
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 667
     }
    ]
   },
@@ -136,30 +204,38 @@
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
    "hn_url": "https://news.ycombinator.com/item?id=50319510",
-   "score": 1819,
-   "comments": 473,
+   "score": 2093,
+   "comments": 510,
    "author": "karpathy",
    "time_iso": "2026-10-31T19:56:53+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 1819
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 2093
     }
    ]
   },
   {
    "id": "hn-50319749",
-   "title": "Bidirectional Charging During Grid Outages",
+   "title": "Bidirectional charging during grid outages",
    "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
    "hn_url": "https://news.ycombinator.com/item?id=50319749",
-   "score": 32,
-   "comments": 38,
+   "score": 71,
+   "comments": 95,
    "author": "luu",
    "time_iso": "2026-10-31T20:21:55+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 32
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 71
     }
    ]
   },
@@ -168,14 +244,18 @@
    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
    "hn_url": "https://news.ycombinator.com/item?id=50320963",
-   "score": 643,
-   "comments": 178,
+   "score": 725,
+   "comments": 194,
    "author": "ecares",
    "time_iso": "2026-10-31T22:41:06+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 643
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 725
     }
    ]
   },
@@ -184,14 +264,18 @@
    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
    "hn_url": "https://news.ycombinator.com/item?id=50320995",
-   "score": 374,
-   "comments": 182,
+   "score": 406,
+   "comments": 198,
    "author": "guregodevo",
    "time_iso": "2026-10-31T22:46:12+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 374
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 406
     }
    ]
   },
@@ -200,14 +284,34 @@
    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
    "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
    "hn_url": "https://news.ycombinator.com/item?id=50322173",
-   "score": 247,
-   "comments": 135,
+   "score": 293,
+   "comments": 174,
    "author": "doodlesdev",
    "time_iso": "2026-11-01T02:19:53+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 247
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 293
+    }
+   ]
+  },
+  {
+   "id": "hn-50323088",
+   "title": "The AI cost of JavaScript frameworks",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50323088",
+   "score": 263,
+   "comments": 189,
+   "author": "luu",
+   "time_iso": "2026-11-01T06:06:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 263
     }
    ]
   },
@@ -232,14 +336,18 @@
    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
    "url": "https://github.com/ivankovic/omnidiff",
    "hn_url": "https://news.ycombinator.com/item?id=50325253",
-   "score": 30,
-   "comments": 16,
+   "score": 96,
+   "comments": 33,
    "author": "FabCH",
    "time_iso": "2026-11-01T13:02:30+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 30
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 96
     }
    ]
   },
@@ -248,14 +356,18 @@
    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
    "url": "https://arxiv.org/abs/2610.39302",
    "hn_url": "https://news.ycombinator.com/item?id=50325454",
-   "score": 59,
-   "comments": 28,
+   "score": 92,
+   "comments": 50,
    "author": "Anon84",
    "time_iso": "2026-11-01T13:24:49+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 59
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 92
     }
    ]
   },
@@ -264,14 +376,18 @@
    "title": "Novellas with Groff",
    "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
    "hn_url": "https://news.ycombinator.com/item?id=50325694",
-   "score": 60,
-   "comments": 21,
+   "score": 94,
+   "comments": 41,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-01T13:51:41+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 94
     }
    ]
   },
@@ -280,14 +396,18 @@
    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
    "hn_url": "https://news.ycombinator.com/item?id=50326099",
-   "score": 177,
-   "comments": 70,
+   "score": 317,
+   "comments": 112,
    "author": "entryleveljobsc",
    "time_iso": "2026-11-01T14:34:43+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 177
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 317
     }
    ]
   },
@@ -341,33 +461,41 @@
   },
   {
    "id": "hn-50326821",
-   "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
    "url": "https://hackerbooks.org",
    "hn_url": "https://news.ycombinator.com/item?id=50326821",
-   "score": 200,
-   "comments": 63,
+   "score": 639,
+   "comments": 147,
    "author": "roansh",
    "time_iso": "2026-11-01T15:58:28+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 200
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 639
     }
    ]
   },
   {
    "id": "hn-50327058",
-   "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-   "url": "https://www.ajupress.com/view/20261028171670308",
+   "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+   "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
    "hn_url": "https://news.ycombinator.com/item?id=50327058",
-   "score": 53,
-   "comments": 5,
+   "score": 110,
+   "comments": 25,
    "author": "gmays",
    "time_iso": "2026-11-01T16:23:26+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 110
     }
    ]
   },
@@ -376,14 +504,18 @@
    "title": "Frontier Airlines Likely Breached",
    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
    "hn_url": "https://news.ycombinator.com/item?id=50327266",
-   "score": 35,
-   "comments": 3,
+   "score": 141,
+   "comments": 40,
    "author": "999900000999",
    "time_iso": "2026-11-01T16:46:33+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 35
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 141
     }
    ]
   },
@@ -392,14 +524,66 @@
    "title": "Patrick Stewart taught us what good men do with power",
    "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
    "hn_url": "https://news.ycombinator.com/item?id=50327650",
-   "score": 6,
-   "comments": 0,
+   "score": 284,
+   "comments": 195,
    "author": "rhaynes",
    "time_iso": "2026-11-01T17:28:16+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 6
+    },
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 284
+    }
+   ]
+  },
+  {
+   "id": "hn-50328251",
+   "title": "Mathematics has changed. Let's act like it",
+   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+   "hn_url": "https://news.ycombinator.com/item?id=50328251",
+   "score": 131,
+   "comments": 154,
+   "author": "smilelamp",
+   "time_iso": "2026-11-01T18:28:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 131
+    }
+   ]
+  },
+  {
+   "id": "hn-50329707",
+   "title": "John Leeson (the voice of K9) has died",
+   "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50329707",
+   "score": 11,
+   "comments": 1,
+   "author": "slyrus",
+   "time_iso": "2026-11-01T20:48:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50330005",
+   "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
+   "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
+   "hn_url": "https://news.ycombinator.com/item?id=50330005",
+   "score": 13,
+   "comments": 0,
+   "author": "zdw",
+   "time_iso": "2026-11-01T21:20:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T05:41:11.181397+08:00",
+     "score": 13
     }
    ]
   }
