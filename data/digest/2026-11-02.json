@@ -1,0 +1,514 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T01:38:08.468520+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "OpenAI reportedly lowers funding target for new round",
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+     "meta": "TechCrunch AI · 2026-10-31",
+     "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+     "meta": "Ars Technica · 2026-10-30",
+     "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+     "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+     "meta": "Ars Technica · 2026-10-30",
+     "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+     "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+     "meta": "TechCrunch AI · 2026-10-30",
+     "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+     "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+     "meta": "TechCrunch AI · 2026-10-30",
+     "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+     "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+     "meta": "Ars Technica · 2026-10-30",
+     "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "meta": "OpenAI · 2026-10-27",
+     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "deepseek-ai/dsh-superagent-prototype",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+     "meta": "⭐ 6548 · TypeScript",
+     "summary": "Towards a More Autonomous Agent System",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "anhao/ai-pose-gallery-zh",
+     "url": "https://github.com/anhao/ai-pose-gallery-zh",
+     "meta": "⭐ 5099 · TypeScript",
+     "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "meta": "⭐ 4563 · JavaScript",
+     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wangzan101/Mika",
+     "url": "https://github.com/wangzan101/Mika",
+     "meta": "⭐ 3682 · Kotlin",
+     "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "valentderah/totk-pc-recomp",
+     "url": "https://github.com/valentderah/totk-pc-recomp",
+     "meta": "⭐ 3031 · C",
+     "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "meta": "⭐ 2383 · JavaScript",
+     "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "paipiange/nvzhuang",
+     "url": "https://github.com/paipiange/nvzhuang",
+     "meta": "⭐ 1858 · Go",
+     "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Djihads80/Eglantine",
+     "url": "https://github.com/Djihads80/Eglantine",
+     "meta": "⭐ 1787 · C++",
+     "summary": "VERY experimental Nintendo Switch 2 emulator",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "aschmelyun/print-my-profile-pic",
+     "url": "https://github.com/aschmelyun/print-my-profile-pic",
+     "meta": "⭐ 1684",
+     "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "andyhuo520/digital-human-koubo",
+     "url": "https://github.com/andyhuo520/digital-human-koubo",
+     "meta": "⭐ 1630 · TypeScript",
+     "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "lexifina/global-law",
+     "url": "https://github.com/lexifina/global-law",
+     "meta": "⭐ 1537 · HTML",
+     "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Motionsites-AI/claude-skill",
+     "url": "https://github.com/Motionsites-AI/claude-skill",
+     "meta": "⭐ 1379 · Python",
+     "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "haydenschmitty/floorplan",
+     "url": "https://github.com/haydenschmitty/floorplan",
+     "meta": "⭐ 1371 · JavaScript",
+     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kevinraymond/florilegium",
+     "url": "https://github.com/kevinraymond/florilegium",
+     "meta": "⭐ 1257 · Lua",
+     "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "smithjohn78390/tongjiang-lab",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab",
+     "meta": "⭐ 1249 · HTML",
+     "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "meta": "⭐ 1819 · 💬 473",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "meta": "⭐ 643 · 💬 178",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+     "meta": "⭐ 613 · 💬 303",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+     "meta": "⭐ 374 · 💬 182",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+     "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+     "meta": "⭐ 247 · 💬 135",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+     "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+     "meta": "⭐ 201 · 💬 51",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+     "url": "https://hackerbooks.org",
+     "meta": "⭐ 200 · 💬 63",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+     "meta": "⭐ 177 · 💬 70",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Point your camera at a landscape to learn about its geology",
+     "url": "https://outcrop.rocks/",
+     "meta": "⭐ 91 · 💬 26",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Understanding Email Encryption",
+     "url": "https://www.fastmail.com/blog/email-encryption/",
+     "meta": "⭐ 84 · 💬 20",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Radiation Map of the World",
+     "url": "https://radiaverse.com/",
+     "meta": "⭐ 67 · 💬 27",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "One-minute frequency disturbances from synchronization in power systems",
+     "url": "https://www.nature.com/articles/s41560-026-02144-0",
+     "meta": "⭐ 60 · 💬 22",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Novellas with Groff",
+     "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+     "meta": "⭐ 60 · 💬 21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+     "url": "https://arxiv.org/abs/2610.39302",
+     "meta": "⭐ 59 · 💬 28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+     "url": "https://www.ajupress.com/view/20261028171670308",
+     "meta": "⭐ 53 · 💬 5",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Knucklebop",
+     "url": "https://www.producthunt.com/products/knucklebop",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "tap your palm rest to control your Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Modelpeers",
+     "url": "https://www.producthunt.com/products/modelpeers",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Follow AI models and agents like you follow people",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AC Bridge",
+     "url": "https://www.producthunt.com/products/ac-bridge",
+     "meta": "Product Hunt · 2026-10-31",
+     "summary": "Your smart lights show when Claude Code or Codex needs you.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Scape",
+     "url": "https://www.producthunt.com/products/scape-4",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "An intelligent email inbox that works for you",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Canva Brush",
+     "url": "https://www.producthunt.com/products/canva",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "A vision-language model that edits your designs",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Flatbread",
+     "url": "https://www.producthunt.com/products/flatbread",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Share the whole agent run, not a screenshot",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Viggle JST-2",
+     "url": "https://www.producthunt.com/products/viggle-ai",
+     "meta": "Product Hunt · 2026-10-19",
+     "summary": "JST-2: 3D scenes, characters and motion from one model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Click",
+     "url": "https://www.producthunt.com/products/click-6",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Managed agents API that works with any model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "fastbrowse",
+     "url": "https://www.producthunt.com/products/fastbrowse",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "Fastest open source browser agent",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "StereoLift Live",
+     "url": "https://www.producthunt.com/products/stereolift-live",
+     "meta": "Product Hunt · 2026-10-25",
+     "summary": "your desktop in real 3D, live on your Quest",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "LumaFold: Screen Light",
+     "url": "https://www.producthunt.com/products/lumafold-screen-light",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Makeup Mirror & Color Effects for iPhone Duo",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Suno MCP",
+     "url": "https://www.producthunt.com/products/suno",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "The music layerfor your AI stack",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Riverside Agents",
+     "url": "https://www.producthunt.com/products/riverside-fm",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "A team of AI agents for video: produce, edit, clip, post",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Embage",
+     "url": "https://www.producthunt.com/products/embage",
+     "meta": "Product Hunt · 2026-10-30",
+     "summary": "Build agent for your customers, run workflows, analyzed.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ernd",
+     "url": "https://www.producthunt.com/products/ernd",
+     "meta": "Product Hunt · 2026-10-31",
+     "summary": "The credit card for the AI stack",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
