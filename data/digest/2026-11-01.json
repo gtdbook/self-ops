@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T12:22:43.969689+08:00",
+ "generated_at": "2026-11-01T19:40:13.858106+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,7 @@
     {
      "title": "HackerTube: YouTube built from videos recommended by HN",
      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "+479 分 / 5.3 小时 · 现 ⭐ 914",
+     "meta": "+996 分 / 12.6 小时 · 现 ⭐ 1431",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +18,7 @@
     {
      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-     "meta": "+229 分 / 5.3 小时 · 现 ⭐ 234",
+     "meta": "+479 分 / 12.6 小时 · 现 ⭐ 484",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +26,7 @@
     {
      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-     "meta": "+170 分 / 5.3 小时 · 现 ⭐ 401",
+     "meta": "+298 分 / 12.6 小时 · 现 ⭐ 529",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,7 +34,15 @@
     {
      "title": "It's the memory latency, stupid",
      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-     "meta": "+145 分 / 8.7 小时 · 现 ⭐ 158",
+     "meta": "+192 分 / 16.0 小时 · 现 ⭐ 205",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jepsen: ParticleDB 1.1.4",
+     "url": "https://jepsen.io/analyses/particledb-1.1.4",
+     "meta": "+179 分 / 16.0 小时 · 现 ⭐ 276",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -48,9 +56,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Jepsen: ParticleDB 1.1.4",
-     "url": "https://jepsen.io/analyses/particledb-1.1.4",
-     "meta": "+130 分 / 8.7 小时 · 现 ⭐ 227",
+     "title": "ChatGPT and Codex usage limits merging",
+     "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+     "meta": "+129 分 / 7.3 小时 · 现 ⭐ 156",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+     "meta": "+129 分 / 7.3 小时 · 现 ⭐ 260",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+     "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+     "meta": "+128 分 / 7.3 小时 · 现 ⭐ 148",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -59,30 +83,6 @@
      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
      "meta": "+105 分 / 3.4 小时 · 现 ⭐ 143",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The Duty of a Scholar",
-     "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-     "meta": "+78 分 / 8.7 小时 · 现 ⭐ 99",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Simple circuits can create complex behaviors",
-     "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-     "meta": "+65 分 / 8.7 小时 · 现 ⭐ 226",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Much Ado About None: Sentinel Values in Python",
-     "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
-     "meta": "+52 分 / 8.7 小时 · 现 ⭐ 58",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -230,10 +230,26 @@
      "origin_source": "github_search"
     },
     {
+     "title": "deepseek-ai/dsh-superagent-prototype",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+     "meta": "⭐ 5112 · TypeScript",
+     "summary": "Towards a More Autonomous Agent System",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 4776 · TypeScript",
+     "meta": "⭐ 4982 · TypeScript",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "meta": "⭐ 4107 · JavaScript",
+     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -242,14 +258,6 @@
      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
      "meta": "⭐ 4000 · Python",
      "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "heydamir/unslop",
-     "url": "https://github.com/heydamir/unslop",
-     "meta": "⭐ 3679 · JavaScript",
-     "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -270,17 +278,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "deepseek-ai/dsh-superagent-prototype",
-     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 3443 · TypeScript",
-     "summary": "Towards a More Autonomous Agent System",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "meta": "⭐ 2907 · Kotlin",
+     "meta": "⭐ 3296 · Kotlin",
      "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,15 +288,23 @@
     {
      "title": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "meta": "⭐ 2697 · C",
+     "meta": "⭐ 2873 · C",
      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "meta": "⭐ 1978 · JavaScript",
+     "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "meta": "⭐ 1757 · Go",
+     "meta": "⭐ 1827 · Go",
      "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +320,7 @@
     {
      "title": "aschmelyun/print-my-profile-pic",
      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 1652",
+     "meta": "⭐ 1673",
      "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,24 +328,16 @@
     {
      "title": "andyhuo520/digital-human-koubo",
      "url": "https://github.com/andyhuo520/digital-human-koubo",
-     "meta": "⭐ 1595 · TypeScript",
+     "meta": "⭐ 1611 · TypeScript",
      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "patch-gg/pixelfx",
-     "url": "https://github.com/patch-gg/pixelfx",
-     "meta": "⭐ 1592 · JavaScript",
-     "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "lexifina/global-law",
-     "url": "https://github.com/lexifina/global-law",
-     "meta": "⭐ 1438 · HTML",
-     "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+     "title": "Djihads80/Eglantine",
+     "url": "https://github.com/Djihads80/Eglantine",
+     "meta": "⭐ 1564 · C++",
+     "summary": "VERY experimental Nintendo Switch 2 emulator",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -351,7 +351,7 @@
     {
      "title": "HackerTube: YouTube built from videos recommended by HN",
      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "⭐ 914 · 💬 286",
+     "meta": "⭐ 1431 · 💬 387",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -367,7 +367,15 @@
     {
      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-     "meta": "⭐ 401 · 💬 188",
+     "meta": "⭐ 529 · 💬 245",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "meta": "⭐ 484 · 💬 148",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,6 +397,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Jepsen: ParticleDB 1.1.4",
+     "url": "https://jepsen.io/analyses/particledb-1.1.4",
+     "meta": "⭐ 276 · 💬 156",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+     "meta": "⭐ 260 · 💬 119",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Digital minimalism",
      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
      "meta": "⭐ 256 · 💬 189",
@@ -405,25 +429,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-     "meta": "⭐ 234 · 💬 67",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Jepsen: ParticleDB 1.1.4",
-     "url": "https://jepsen.io/analyses/particledb-1.1.4",
-     "meta": "⭐ 227 · 💬 123",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Simple circuits can create complex behaviors",
      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
      "meta": "⭐ 226 · 💬 73",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "It's the memory latency, stupid",
+     "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+     "meta": "⭐ 205 · 💬 63",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -451,22 +467,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
-    },
-    {
-     "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-     "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-     "meta": "⭐ 164 · 💬 38",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "It's the memory latency, stupid",
-     "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-     "meta": "⭐ 158 · 💬 42",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
     }
    ]
   },
@@ -480,6 +480,14 @@
      "url": "https://www.producthunt.com/products/knucklebop",
      "meta": "Product Hunt · 2026-10-28",
      "summary": "tap your palm rest to control your Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Modelpeers",
+     "url": "https://www.producthunt.com/products/modelpeers",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Follow AI models and agents like you follow people",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -540,6 +548,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Click",
+     "url": "https://www.producthunt.com/products/click-6",
+     "meta": "Product Hunt · 2026-10-20",
+     "summary": "Managed agents API that works with any model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Genie 4",
      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
      "meta": "Product Hunt · 2026-10-27",
@@ -576,22 +592,6 @@
      "url": "https://www.producthunt.com/products/stepgrab",
      "meta": "Product Hunt · 2026-10-29",
      "summary": "Now on Windows, with redaction and a real editor",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "iSurge",
-     "url": "https://www.producthunt.com/products/isurge",
-     "meta": "Product Hunt · 2026-10-29",
-     "summary": "Activity monitor, per-app volume, disk cleanup at your notch",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "LumaFold: Screen Light",
-     "url": "https://www.producthunt.com/products/lumafold-screen-light",
-     "meta": "Product Hunt · 2026-10-26",
-     "summary": "Makeup Mirror & Color Effects for iPhone Duo",
      "reason": null,
      "origin_source": "producthunt"
     }

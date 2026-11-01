@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-01T12:22:41.269852+08:00",
- "count": 49,
+ "updated_at": "2026-11-01T19:40:12.228750+08:00",
+ "count": 61,
  "items": [
   {
    "id": "hn-50260753",
@@ -96,6 +96,54 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50289711",
+   "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+   "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+   "hn_url": "https://news.ycombinator.com/item?id=50289711",
+   "score": 32,
+   "comments": 0,
+   "author": "gjvc",
+   "time_iso": "2026-10-29T14:30:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50290480",
+   "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+   "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+   "hn_url": "https://news.ycombinator.com/item?id=50290480",
+   "score": 45,
+   "comments": 33,
+   "author": "surprisetalk",
+   "time_iso": "2026-10-29T15:20:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50290533",
+   "title": "Show HN: Point your camera at a landscape to learn about its geology",
+   "url": "https://outcrop.rocks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50290533",
+   "score": 15,
+   "comments": 3,
+   "author": "headsupernova",
+   "time_iso": "2026-10-29T15:22:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 15
     }
    ]
   },
@@ -240,18 +288,86 @@
    ]
   },
   {
+   "id": "hn-50303984",
+   "title": "Running a bootstrapped SaaS for 20 years with my brother",
+   "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+   "hn_url": "https://news.ycombinator.com/item?id=50303984",
+   "score": 108,
+   "comments": 28,
+   "author": "whyleyc",
+   "time_iso": "2026-10-30T13:58:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 108
+    }
+   ]
+  },
+  {
+   "id": "hn-50304718",
+   "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+   "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+   "hn_url": "https://news.ycombinator.com/item?id=50304718",
+   "score": 49,
+   "comments": 4,
+   "author": "the-mitr",
+   "time_iso": "2026-10-30T14:46:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50309279",
+   "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+   "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+   "hn_url": "https://news.ycombinator.com/item?id=50309279",
+   "score": 51,
+   "comments": 9,
+   "author": "peter_d_sherman",
+   "time_iso": "2026-10-30T19:52:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 51
+    }
+   ]
+  },
+  {
+   "id": "hn-50310038",
+   "title": "Understanding Email Encryption",
+   "url": "https://www.fastmail.com/blog/email-encryption/",
+   "hn_url": "https://news.ycombinator.com/item?id=50310038",
+   "score": 24,
+   "comments": 6,
+   "author": "nmjenkins",
+   "time_iso": "2026-10-30T20:55:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 24
+    }
+   ]
+  },
+  {
    "id": "hn-50311045",
    "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
    "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
    "hn_url": "https://news.ycombinator.com/item?id=50311045",
-   "score": 53,
-   "comments": 14,
+   "score": 123,
+   "comments": 33,
    "author": "ohjeez",
    "time_iso": "2026-10-30T22:41:03+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 123
     }
    ]
   },
@@ -376,8 +492,8 @@
    "title": "Jepsen: ParticleDB 1.1.4",
    "url": "https://jepsen.io/analyses/particledb-1.1.4",
    "hn_url": "https://news.ycombinator.com/item?id=50316100",
-   "score": 227,
-   "comments": 123,
+   "score": 276,
+   "comments": 156,
    "author": "aphyr",
    "time_iso": "2026-10-31T13:39:52+00:00",
    "history": [
@@ -392,6 +508,26 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 227
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 276
+    }
+   ]
+  },
+  {
+   "id": "hn-50316117",
+   "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+   "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50316117",
+   "score": 4,
+   "comments": 5,
+   "author": "bookofjoe",
+   "time_iso": "2026-10-31T13:41:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 4
     }
    ]
   },
@@ -516,8 +652,8 @@
    "title": "It's the memory latency, stupid",
    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
    "hn_url": "https://news.ycombinator.com/item?id=50318720",
-   "score": 158,
-   "comments": 42,
+   "score": 205,
+   "comments": 63,
    "author": "ntur1337",
    "time_iso": "2026-10-31T18:38:16+00:00",
    "history": [
@@ -532,6 +668,10 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 158
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 205
     }
    ]
   },
@@ -584,14 +724,18 @@
    "title": "Electrification Could Cut Global Energy Use in Half",
    "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
    "hn_url": "https://news.ycombinator.com/item?id=50319110",
-   "score": 53,
-   "comments": 10,
+   "score": 124,
+   "comments": 58,
    "author": "toomuchtodo",
    "time_iso": "2026-10-31T19:13:34+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 124
     }
    ]
   },
@@ -600,8 +744,8 @@
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
    "hn_url": "https://news.ycombinator.com/item?id=50319143",
-   "score": 401,
-   "comments": 188,
+   "score": 529,
+   "comments": 245,
    "author": "oger",
    "time_iso": "2026-10-31T19:16:30+00:00",
    "history": [
@@ -612,6 +756,10 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 401
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 529
     }
    ]
   },
@@ -660,8 +808,8 @@
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
    "hn_url": "https://news.ycombinator.com/item?id=50319510",
-   "score": 914,
-   "comments": 286,
+   "score": 1431,
+   "comments": 387,
    "author": "karpathy",
    "time_iso": "2026-10-31T19:56:53+00:00",
    "history": [
@@ -672,6 +820,10 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 914
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 1431
     }
    ]
   },
@@ -680,8 +832,8 @@
    "title": "Surviving \"The Graduate\"",
    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
    "hn_url": "https://news.ycombinator.com/item?id=50319563",
-   "score": 79,
-   "comments": 24,
+   "score": 123,
+   "comments": 39,
    "author": "samizdis",
    "time_iso": "2026-10-31T20:02:06+00:00",
    "history": [
@@ -692,6 +844,10 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 79
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 123
     }
    ]
   },
@@ -732,14 +888,18 @@
    "title": "ChatGPT and Codex usage limits merging",
    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
    "hn_url": "https://news.ycombinator.com/item?id=50320588",
-   "score": 27,
-   "comments": 9,
+   "score": 156,
+   "comments": 97,
    "author": "Zariel",
    "time_iso": "2026-10-31T21:49:07+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 27
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 156
     }
    ]
   },
@@ -764,8 +924,8 @@
    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
    "hn_url": "https://news.ycombinator.com/item?id=50320963",
-   "score": 234,
-   "comments": 67,
+   "score": 484,
+   "comments": 148,
    "author": "ecares",
    "time_iso": "2026-10-31T22:41:06+00:00",
    "history": [
@@ -776,6 +936,10 @@
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 234
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 484
     }
    ]
   },
@@ -784,14 +948,18 @@
    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
    "hn_url": "https://news.ycombinator.com/item?id=50320995",
-   "score": 131,
-   "comments": 72,
+   "score": 260,
+   "comments": 119,
    "author": "guregodevo",
    "time_iso": "2026-10-31T22:46:12+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 131
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 260
     }
    ]
   },
@@ -800,14 +968,18 @@
    "title": "Altoids Project",
    "url": "https://uvdn7.github.io/altoids-project/",
    "hn_url": "https://news.ycombinator.com/item?id=50321048",
-   "score": 73,
-   "comments": 4,
+   "score": 116,
+   "comments": 6,
    "author": "uvdn7",
    "time_iso": "2026-10-31T22:54:55+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 73
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 116
     }
    ]
   },
@@ -861,17 +1033,21 @@
   },
   {
    "id": "hn-50322022",
-   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
    "url": "https://arxiv.org/abs/2409.02292",
    "hn_url": "https://news.ycombinator.com/item?id=50322022",
-   "score": 15,
-   "comments": 4,
+   "score": 93,
+   "comments": 48,
    "author": "hapax_legomena",
    "time_iso": "2026-11-01T01:46:29+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 93
     }
    ]
   },
@@ -880,14 +1056,82 @@
    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
    "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
    "hn_url": "https://news.ycombinator.com/item?id=50322173",
-   "score": 20,
-   "comments": 8,
+   "score": 148,
+   "comments": 59,
    "author": "doodlesdev",
    "time_iso": "2026-11-01T02:19:53+00:00",
    "history": [
     {
      "t": "2026-11-01T12:22:41.269852+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 148
+    }
+   ]
+  },
+  {
+   "id": "hn-50323088",
+   "title": "The AI cost of JavaScript frameworks",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50323088",
+   "score": 98,
+   "comments": 56,
+   "author": "luu",
+   "time_iso": "2026-11-01T06:06:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 98
+    }
+   ]
+  },
+  {
+   "id": "hn-50324118",
+   "title": "A tiny Pacific country rolls out universal basic income",
+   "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+   "hn_url": "https://news.ycombinator.com/item?id=50324118",
+   "score": 22,
+   "comments": 5,
+   "author": "motionlessveloc",
+   "time_iso": "2026-11-01T10:05:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50324371",
+   "title": "Domain hacks with unusual Unicode characters (2018)",
+   "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+   "hn_url": "https://news.ycombinator.com/item?id=50324371",
+   "score": 4,
+   "comments": 1,
+   "author": "n_plus_1_acc",
+   "time_iso": "2026-11-01T10:44:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50324388",
+   "title": "Norway makes shithouses great again",
+   "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+   "hn_url": "https://news.ycombinator.com/item?id=50324388",
+   "score": 89,
+   "comments": 33,
+   "author": "giuliomagnifico",
+   "time_iso": "2026-11-01T10:47:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-01T19:40:12.228750+08:00",
+     "score": 89
     }
    ]
   }
