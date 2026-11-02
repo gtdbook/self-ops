@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-02T05:41:12.072407+08:00",
- "count": 20,
+ "updated_at": "2026-11-02T09:15:37.904472+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1433904617",
@@ -102,7 +102,7 @@
    "id": "gh-1435672472",
    "title": "haydenschmitty/floorplan",
    "url": "https://github.com/haydenschmitty/floorplan",
-   "stars": 1582,
+   "stars": 1791,
    "language": "JavaScript",
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
    "created_at": "2026-10-27T12:03:01Z",
@@ -114,6 +114,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1582
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1791
     }
    ]
   },
@@ -121,7 +125,7 @@
    "id": "gh-1435695423",
    "title": "anhao/ai-pose-gallery-zh",
    "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "stars": 5123,
+   "stars": 5143,
    "language": "TypeScript",
    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
    "created_at": "2026-10-27T12:24:37Z",
@@ -133,6 +137,25 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 5123
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 5143
+    }
+   ]
+  },
+  {
+   "id": "gh-1435761182",
+   "title": "OpenBMB/MiniCPM-OCR",
+   "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+   "stars": 745,
+   "language": "TypeScript",
+   "description": "Fast, accurate OCR with correctness assessment.",
+   "created_at": "2026-10-27T13:22:00Z",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 745
     }
    ]
   },
@@ -140,7 +163,7 @@
    "id": "gh-1436254894",
    "title": "aschmelyun/print-my-profile-pic",
    "url": "https://github.com/aschmelyun/print-my-profile-pic",
-   "stars": 1690,
+   "stars": 1697,
    "language": "",
    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
    "created_at": "2026-10-27T20:40:05Z",
@@ -152,6 +175,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1690
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1697
     }
    ]
   },
@@ -159,7 +186,7 @@
    "id": "gh-1436598075",
    "title": "smithjohn78390/tongjiang-lab",
    "url": "https://github.com/smithjohn78390/tongjiang-lab",
-   "stars": 1250,
+   "stars": 1270,
    "language": "HTML",
    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
    "created_at": "2026-10-28T04:29:29Z",
@@ -171,6 +198,25 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1250
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1270
+    }
+   ]
+  },
+  {
+   "id": "gh-1436721854",
+   "title": "HRuiCcc/RuiC-PoseAtlas",
+   "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+   "stars": 968,
+   "language": "JavaScript",
+   "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+   "created_at": "2026-10-28T07:00:53Z",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 968
     }
    ]
   },
@@ -178,7 +224,7 @@
    "id": "gh-1437131455",
    "title": "lexifina/global-law",
    "url": "https://github.com/lexifina/global-law",
-   "stars": 1573,
+   "stars": 1593,
    "language": "HTML",
    "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
    "created_at": "2026-10-28T13:34:16Z",
@@ -190,6 +236,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1573
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1593
     }
    ]
   },
@@ -197,7 +247,7 @@
    "id": "gh-1437774066",
    "title": "Djihads80/Eglantine",
    "url": "https://github.com/Djihads80/Eglantine",
-   "stars": 1919,
+   "stars": 2001,
    "language": "C++",
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "created_at": "2026-10-29T00:25:18Z",
@@ -209,6 +259,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1919
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 2001
     }
    ]
   },
@@ -216,7 +270,7 @@
    "id": "gh-1438018242",
    "title": "paipiange/nvzhuang",
    "url": "https://github.com/paipiange/nvzhuang",
-   "stars": 1861,
+   "stars": 1869,
    "language": "Go",
    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
    "created_at": "2026-10-29T06:08:00Z",
@@ -228,6 +282,25 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1861
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1869
+    }
+   ]
+  },
+  {
+   "id": "gh-1438029127",
+   "title": "NiazMorshed2007/reanimate",
+   "url": "https://github.com/NiazMorshed2007/reanimate",
+   "stars": 739,
+   "language": "JavaScript",
+   "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+   "created_at": "2026-10-29T06:20:59Z",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 739
     }
    ]
   },
@@ -235,7 +308,7 @@
    "id": "gh-1438326535",
    "title": "BryceYuuu/RUN",
    "url": "https://github.com/BryceYuuu/RUN",
-   "stars": 1143,
+   "stars": 1169,
    "language": "Python",
    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
    "created_at": "2026-10-29T11:28:43Z",
@@ -247,6 +320,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1143
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1169
     }
    ]
   },
@@ -254,7 +331,7 @@
    "id": "gh-1438394948",
    "title": "valentderah/totk-pc-recomp",
    "url": "https://github.com/valentderah/totk-pc-recomp",
-   "stars": 3138,
+   "stars": 3216,
    "language": "C",
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
    "created_at": "2026-10-29T12:32:46Z",
@@ -266,6 +343,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 3138
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 3216
     }
    ]
   },
@@ -273,7 +354,7 @@
    "id": "gh-1438540053",
    "title": "wangzan101/Mika",
    "url": "https://github.com/wangzan101/Mika",
-   "stars": 3761,
+   "stars": 3872,
    "language": "Kotlin",
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "created_at": "2026-10-29T14:34:07Z",
@@ -285,6 +366,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 3761
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 3872
     }
    ]
   },
@@ -292,7 +377,7 @@
    "id": "gh-1438623288",
    "title": "heydamir/unslop",
    "url": "https://github.com/heydamir/unslop",
-   "stars": 4747,
+   "stars": 4884,
    "language": "JavaScript",
    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
    "created_at": "2026-10-29T15:41:21Z",
@@ -304,6 +389,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 4747
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 4884
     }
    ]
   },
@@ -311,7 +400,7 @@
    "id": "gh-1439372976",
    "title": "patch-gg/pixelfx",
    "url": "https://github.com/patch-gg/pixelfx",
-   "stars": 2491,
+   "stars": 2603,
    "language": "JavaScript",
    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
    "created_at": "2026-10-30T06:43:25Z",
@@ -323,6 +412,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 2491
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 2603
     }
    ]
   },
@@ -330,7 +423,7 @@
    "id": "gh-1439430391",
    "title": "kevinraymond/florilegium",
    "url": "https://github.com/kevinraymond/florilegium",
-   "stars": 1277,
+   "stars": 1294,
    "language": "Lua",
    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
    "created_at": "2026-10-30T07:49:05Z",
@@ -342,6 +435,25 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1277
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1294
+    }
+   ]
+  },
+  {
+   "id": "gh-1439522537",
+   "title": "elvarofficial/teardown",
+   "url": "https://github.com/elvarofficial/teardown",
+   "stars": 929,
+   "language": "JavaScript",
+   "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+   "created_at": "2026-10-30T09:29:01Z",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 929
     }
    ]
   },
@@ -349,7 +461,7 @@
    "id": "gh-1440160468",
    "title": "Arjun-Ingole/hop",
    "url": "https://github.com/Arjun-Ingole/hop",
-   "stars": 1179,
+   "stars": 1213,
    "language": "PowerShell",
    "description": "Install Linux next to Windows without a USB stick",
    "created_at": "2026-10-30T19:40:45Z",
@@ -361,6 +473,10 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 1179
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1213
     }
    ]
   },
@@ -368,7 +484,7 @@
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 6961,
+   "stars": 7486,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -380,6 +496,25 @@
     {
      "t": "2026-11-02T05:41:12.072407+08:00",
      "score": 6961
+    },
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 7486
+    }
+   ]
+  },
+  {
+   "id": "gh-1440956372",
+   "title": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "stars": 1123,
+   "language": "Rust",
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "created_at": "2026-10-31T14:50:00Z",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.904472+08:00",
+     "score": 1123
     }
    ]
   }

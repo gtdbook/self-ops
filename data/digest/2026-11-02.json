@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T05:41:13.467606+08:00",
+ "generated_at": "2026-11-02T09:15:39.516375+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,15 @@
     {
      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
      "url": "https://hackerbooks.org",
-     "meta": "+439 分 / 4.1 小时 · 现 ⭐ 639",
+     "meta": "+699 分 / 7.6 小时 · 现 ⭐ 899",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "meta": "+454 分 / 7.6 小时 · 现 ⭐ 2273",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,17 +32,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "HackerTube: YouTube built from videos recommended by HN",
-     "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "+274 分 / 4.1 小时 · 现 ⭐ 2093",
+     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+     "meta": "+212 分 / 7.6 小时 · 现 ⭐ 389",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-     "meta": "+140 分 / 4.1 小时 · 现 ⭐ 317",
+     "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+     "url": "https://github.com/ivankovic/omnidiff",
+     "meta": "+123 分 / 7.6 小时 · 现 ⭐ 153",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -48,6 +56,22 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Copper – A minimal low-level programming language with OOP and generics",
+     "url": "https://tibleiz.net/copper/",
+     "meta": "+93 分 / 7.6 小时 · 现 ⭐ 124",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Mathematics has changed. Let's act like it",
+     "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+     "meta": "+86 分 / 3.6 小时 · 现 ⭐ 217",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
      "meta": "+82 分 / 4.1 小时 · 现 ⭐ 725",
@@ -56,33 +80,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-     "url": "https://github.com/ivankovic/omnidiff",
-     "meta": "+66 分 / 4.1 小时 · 现 ⭐ 96",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Copper – A minimal low-level programming language with OOP and generics",
-     "url": "https://tibleiz.net/copper/",
-     "meta": "+64 分 / 4.1 小时 · 现 ⭐ 95",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-     "meta": "+57 分 / 4.1 小时 · 现 ⭐ 110",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-     "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-     "meta": "+54 分 / 4.1 小时 · 现 ⭐ 667",
+     "meta": "+82 分 / 7.6 小时 · 现 ⭐ 135",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -224,7 +224,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 6961 · TypeScript",
+     "meta": "⭐ 7486 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +232,7 @@
     {
      "title": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "meta": "⭐ 5123 · TypeScript",
+     "meta": "⭐ 5143 · TypeScript",
      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +240,7 @@
     {
      "title": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "meta": "⭐ 4747 · JavaScript",
+     "meta": "⭐ 4884 · JavaScript",
      "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +248,7 @@
     {
      "title": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "meta": "⭐ 3761 · Kotlin",
+     "meta": "⭐ 3872 · Kotlin",
      "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +256,7 @@
     {
      "title": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "meta": "⭐ 3138 · C",
+     "meta": "⭐ 3216 · C",
      "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +264,7 @@
     {
      "title": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "meta": "⭐ 2491 · JavaScript",
+     "meta": "⭐ 2603 · JavaScript",
      "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +272,7 @@
     {
      "title": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "meta": "⭐ 1919 · C++",
+     "meta": "⭐ 2001 · C++",
      "summary": "VERY experimental Nintendo Switch 2 emulator",
      "reason": null,
      "origin_source": "github_search"
@@ -280,15 +280,23 @@
     {
      "title": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "meta": "⭐ 1861 · Go",
+     "meta": "⭐ 1869 · Go",
      "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "haydenschmitty/floorplan",
+     "url": "https://github.com/haydenschmitty/floorplan",
+     "meta": "⭐ 1791 · JavaScript",
+     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "aschmelyun/print-my-profile-pic",
      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-     "meta": "⭐ 1690",
+     "meta": "⭐ 1697",
      "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
      "reason": null,
      "origin_source": "github_search"
@@ -302,17 +310,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "haydenschmitty/floorplan",
-     "url": "https://github.com/haydenschmitty/floorplan",
-     "meta": "⭐ 1582 · JavaScript",
-     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "lexifina/global-law",
      "url": "https://github.com/lexifina/global-law",
-     "meta": "⭐ 1573 · HTML",
+     "meta": "⭐ 1593 · HTML",
      "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +328,7 @@
     {
      "title": "kevinraymond/florilegium",
      "url": "https://github.com/kevinraymond/florilegium",
-     "meta": "⭐ 1277 · Lua",
+     "meta": "⭐ 1294 · Lua",
      "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +336,7 @@
     {
      "title": "smithjohn78390/tongjiang-lab",
      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-     "meta": "⭐ 1250 · HTML",
+     "meta": "⭐ 1270 · HTML",
      "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +351,15 @@
     {
      "title": "HackerTube: YouTube built from videos recommended by HN",
      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-     "meta": "⭐ 2093 · 💬 510",
+     "meta": "⭐ 2273 · 💬 538",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+     "url": "https://hackerbooks.org",
+     "meta": "⭐ 899 · 💬 177",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -373,14 +381,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-     "url": "https://hackerbooks.org",
-     "meta": "⭐ 639 · 💬 147",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
      "meta": "⭐ 406 · 💬 198",
@@ -391,7 +391,7 @@
     {
      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-     "meta": "⭐ 317 · 💬 112",
+     "meta": "⭐ 389 · 💬 139",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,6 +405,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "The AI cost of JavaScript frameworks",
+     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "meta": "⭐ 293 · 💬 228",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Patrick Stewart taught us what good men do with power",
      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
      "meta": "⭐ 284 · 💬 195",
@@ -413,9 +421,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The AI cost of JavaScript frameworks",
-     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-     "meta": "⭐ 263 · 💬 189",
+     "title": "Mathematics has changed. Let's act like it",
+     "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+     "meta": "⭐ 217 · 💬 236",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,41 +437,33 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+     "url": "https://github.com/ivankovic/omnidiff",
+     "meta": "⭐ 153 · 💬 39",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Point your camera at a landscape to learn about its geology",
+     "url": "https://outcrop.rocks/",
+     "meta": "⭐ 150 · 💬 37",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "meta": "⭐ 143 · 💬 117",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Frontier Airlines Likely Breached",
      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
      "meta": "⭐ 141 · 💬 40",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Mathematics has changed. Let's act like it",
-     "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-     "meta": "⭐ 131 · 💬 154",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-     "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-     "meta": "⭐ 110 · 💬 25",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Radiation Map of the World",
-     "url": "https://radiaverse.com/",
-     "meta": "⭐ 108 · 💬 30",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "One-minute frequency disturbances from synchronization in power systems",
-     "url": "https://www.nature.com/articles/s41560-026-02144-0",
-     "meta": "⭐ 102 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -520,6 +520,14 @@
      "url": "https://www.producthunt.com/products/flatbread",
      "meta": "Product Hunt · 2026-10-28",
      "summary": "Share the whole agent run, not a screenshot",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "sitesolide",
+     "url": "https://www.producthunt.com/products/sitesolide",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "Deploy your vibe-coded apps on your own server",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -584,14 +592,6 @@
      "url": "https://www.producthunt.com/products/riverside-fm",
      "meta": "Product Hunt · 2026-10-26",
      "summary": "A team of AI agents for video: produce, edit, clip, post",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Embage",
-     "url": "https://www.producthunt.com/products/embage",
-     "meta": "Product Hunt · 2026-10-30",
-     "summary": "Build agent for your customers, run workflows, analyzed.",
      "reason": null,
      "origin_source": "producthunt"
     }

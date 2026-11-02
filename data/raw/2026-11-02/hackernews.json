@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-02T05:41:11.181397+08:00",
- "count": 32,
+ "updated_at": "2026-11-02T09:15:37.159662+08:00",
+ "count": 39,
  "items": [
   {
    "id": "hn-50271106",
    "title": "Tips for more effective fuzz testing with AFL++",
    "url": "https://nullprogram.com/blog/2025/02/05/",
    "hn_url": "https://news.ycombinator.com/item?id=50271106",
-   "score": 28,
-   "comments": 2,
+   "score": 73,
+   "comments": 13,
    "author": "luu",
    "time_iso": "2026-10-28T09:46:12+00:00",
    "history": [
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 73
     }
    ]
   },
@@ -24,8 +28,8 @@
    "title": "Radiation Map of the World",
    "url": "https://radiaverse.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50280131",
-   "score": 108,
-   "comments": 30,
+   "score": 127,
+   "comments": 39,
    "author": "slater",
    "time_iso": "2026-10-28T20:06:27+00:00",
    "history": [
@@ -36,6 +40,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 108
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 127
     }
    ]
   },
@@ -60,14 +68,34 @@
    "title": "Show HN: Point your camera at a landscape to learn about its geology",
    "url": "https://outcrop.rocks/",
    "hn_url": "https://news.ycombinator.com/item?id=50290533",
-   "score": 91,
-   "comments": 26,
+   "score": 150,
+   "comments": 37,
    "author": "headsupernova",
    "time_iso": "2026-10-29T15:22:41+00:00",
    "history": [
     {
      "t": "2026-11-02T01:38:06.745341+08:00",
      "score": 91
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 150
+    }
+   ]
+  },
+  {
+   "id": "hn-50299427",
+   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+   "hn_url": "https://news.ycombinator.com/item?id=50299427",
+   "score": 39,
+   "comments": 21,
+   "author": "stevenalowe",
+   "time_iso": "2026-10-30T03:06:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 39
     }
    ]
   },
@@ -76,14 +104,34 @@
    "title": "Nibnib: Image compression with extreme decompression speed",
    "url": "https://github.com/raphlinus/nibnib",
    "hn_url": "https://news.ycombinator.com/item?id=50299811",
-   "score": 31,
-   "comments": 5,
+   "score": 90,
+   "comments": 12,
    "author": "raphlinus",
    "time_iso": "2026-10-30T04:17:06+00:00",
    "history": [
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 31
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "id": "hn-50303088",
+   "title": "Keeping Up Appearances – The women taking over the funeral industry",
+   "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+   "hn_url": "https://news.ycombinator.com/item?id=50303088",
+   "score": 18,
+   "comments": 2,
+   "author": "TMWNN",
+   "time_iso": "2026-10-30T12:40:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 18
     }
    ]
   },
@@ -92,8 +140,8 @@
    "title": "Copper – A minimal low-level programming language with OOP and generics",
    "url": "https://tibleiz.net/copper/",
    "hn_url": "https://news.ycombinator.com/item?id=50308754",
-   "score": 95,
-   "comments": 54,
+   "score": 124,
+   "comments": 74,
    "author": "bogdanoff_2",
    "time_iso": "2026-10-30T19:09:33+00:00",
    "history": [
@@ -104,6 +152,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 95
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 124
     }
    ]
   },
@@ -124,18 +176,38 @@
    ]
   },
   {
+   "id": "hn-50312408",
+   "title": "Postgres 19 is late, and it's AI's fault",
+   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50312408",
+   "score": 38,
+   "comments": 17,
+   "author": "soheilpro",
+   "time_iso": "2026-10-31T01:38:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 38
+    }
+   ]
+  },
+  {
    "id": "hn-50313227",
    "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
    "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
    "hn_url": "https://news.ycombinator.com/item?id=50313227",
-   "score": 19,
-   "comments": 11,
+   "score": 36,
+   "comments": 18,
    "author": "colinprince",
    "time_iso": "2026-10-31T04:31:06+00:00",
    "history": [
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 19
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 36
     }
    ]
   },
@@ -144,8 +216,8 @@
    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
    "url": "https://kevs3d.co.uk/phoria2/",
    "hn_url": "https://news.ycombinator.com/item?id=50314508",
-   "score": 61,
-   "comments": 10,
+   "score": 74,
+   "comments": 11,
    "author": "kevs3d",
    "time_iso": "2026-10-31T09:49:42+00:00",
    "history": [
@@ -156,6 +228,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 61
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 74
     }
    ]
   },
@@ -164,8 +240,8 @@
    "title": "One-minute frequency disturbances from synchronization in power systems",
    "url": "https://www.nature.com/articles/s41560-026-02144-0",
    "hn_url": "https://news.ycombinator.com/item?id=50314617",
-   "score": 102,
-   "comments": 36,
+   "score": 121,
+   "comments": 40,
    "author": "croes",
    "time_iso": "2026-10-31T10:14:08+00:00",
    "history": [
@@ -176,6 +252,26 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50318129",
+   "title": "The She-Wolves of Jülich",
+   "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+   "hn_url": "https://news.ycombinator.com/item?id=50318129",
+   "score": 13,
+   "comments": 1,
+   "author": "Thevet",
+   "time_iso": "2026-10-31T17:29:39+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 13
     }
    ]
   },
@@ -204,8 +300,8 @@
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
    "hn_url": "https://news.ycombinator.com/item?id=50319510",
-   "score": 2093,
-   "comments": 510,
+   "score": 2273,
+   "comments": 538,
    "author": "karpathy",
    "time_iso": "2026-10-31T19:56:53+00:00",
    "history": [
@@ -216,6 +312,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 2093
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 2273
     }
    ]
   },
@@ -224,8 +324,8 @@
    "title": "Bidirectional charging during grid outages",
    "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
    "hn_url": "https://news.ycombinator.com/item?id=50319749",
-   "score": 71,
-   "comments": 95,
+   "score": 84,
+   "comments": 122,
    "author": "luu",
    "time_iso": "2026-10-31T20:21:55+00:00",
    "history": [
@@ -236,6 +336,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 84
     }
    ]
   },
@@ -304,14 +408,18 @@
    "title": "The AI cost of JavaScript frameworks",
    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "hn_url": "https://news.ycombinator.com/item?id=50323088",
-   "score": 263,
-   "comments": 189,
+   "score": 293,
+   "comments": 228,
    "author": "luu",
    "time_iso": "2026-11-01T06:06:19+00:00",
    "history": [
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 263
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 293
     }
    ]
   },
@@ -336,8 +444,8 @@
    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
    "url": "https://github.com/ivankovic/omnidiff",
    "hn_url": "https://news.ycombinator.com/item?id=50325253",
-   "score": 96,
-   "comments": 33,
+   "score": 153,
+   "comments": 39,
    "author": "FabCH",
    "time_iso": "2026-11-01T13:02:30+00:00",
    "history": [
@@ -348,6 +456,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 153
     }
    ]
   },
@@ -356,8 +468,8 @@
    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
    "url": "https://arxiv.org/abs/2610.39302",
    "hn_url": "https://news.ycombinator.com/item?id=50325454",
-   "score": 92,
-   "comments": 50,
+   "score": 108,
+   "comments": 60,
    "author": "Anon84",
    "time_iso": "2026-11-01T13:24:49+00:00",
    "history": [
@@ -368,6 +480,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 92
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 108
     }
    ]
   },
@@ -376,8 +492,8 @@
    "title": "Novellas with Groff",
    "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
    "hn_url": "https://news.ycombinator.com/item?id=50325694",
-   "score": 94,
-   "comments": 41,
+   "score": 110,
+   "comments": 49,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-01T13:51:41+00:00",
    "history": [
@@ -388,6 +504,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 94
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 110
     }
    ]
   },
@@ -396,8 +516,8 @@
    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
    "hn_url": "https://news.ycombinator.com/item?id=50326099",
-   "score": 317,
-   "comments": 112,
+   "score": 389,
+   "comments": 139,
    "author": "entryleveljobsc",
    "time_iso": "2026-11-01T14:34:43+00:00",
    "history": [
@@ -408,6 +528,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 317
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 389
     }
    ]
   },
@@ -464,8 +588,8 @@
    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
    "url": "https://hackerbooks.org",
    "hn_url": "https://news.ycombinator.com/item?id=50326821",
-   "score": 639,
-   "comments": 147,
+   "score": 899,
+   "comments": 177,
    "author": "roansh",
    "time_iso": "2026-11-01T15:58:28+00:00",
    "history": [
@@ -476,6 +600,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 639
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 899
     }
    ]
   },
@@ -484,8 +612,8 @@
    "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
    "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
    "hn_url": "https://news.ycombinator.com/item?id=50327058",
-   "score": 110,
-   "comments": 25,
+   "score": 135,
+   "comments": 33,
    "author": "gmays",
    "time_iso": "2026-11-01T16:23:26+00:00",
    "history": [
@@ -496,6 +624,10 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 110
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 135
     }
    ]
   },
@@ -544,14 +676,34 @@
    "title": "Mathematics has changed. Let's act like it",
    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
    "hn_url": "https://news.ycombinator.com/item?id=50328251",
-   "score": 131,
-   "comments": 154,
+   "score": 217,
+   "comments": 236,
    "author": "smilelamp",
    "time_iso": "2026-11-01T18:28:42+00:00",
    "history": [
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 131
+    },
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 217
+    }
+   ]
+  },
+  {
+   "id": "hn-50328896",
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "url": "https://news.ycombinator.com/item?id=50328896",
+   "hn_url": "https://news.ycombinator.com/item?id=50328896",
+   "score": 127,
+   "comments": 231,
+   "author": "LecroJS",
+   "time_iso": "2026-11-01T19:35:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 127
     }
    ]
   },
@@ -584,6 +736,38 @@
     {
      "t": "2026-11-02T05:41:11.181397+08:00",
      "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50330456",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "hn_url": "https://news.ycombinator.com/item?id=50330456",
+   "score": 143,
+   "comments": 117,
+   "author": "throwoutway",
+   "time_iso": "2026-11-01T22:10:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 143
+    }
+   ]
+  },
+  {
+   "id": "hn-50331404",
+   "title": "America on Data Centers: 10k city council comments",
+   "url": "https://www.americansentiment.com/datacenters",
+   "hn_url": "https://news.ycombinator.com/item?id=50331404",
+   "score": 8,
+   "comments": 2,
+   "author": "afandrew",
+   "time_iso": "2026-11-02T00:17:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-02T09:15:37.159662+08:00",
+     "score": 8
     }
    ]
   }
