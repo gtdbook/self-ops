@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-03T09:59:36.783594+08:00",
- "count": 37,
+ "updated_at": "2026-11-03T17:24:53.688776+08:00",
+ "count": 50,
  "items": [
   {
    "id": "hn-50312408",
@@ -36,6 +36,70 @@
    ]
   },
   {
+   "id": "hn-50320904",
+   "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+   "url": "https://www.argmin.net/p/galactus-the-devourer",
+   "hn_url": "https://news.ycombinator.com/item?id=50320904",
+   "score": 35,
+   "comments": 17,
+   "author": "sebg",
+   "time_iso": "2026-10-31T22:31:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50321605",
+   "title": "Toit v2.0.0",
+   "url": "https://toit.io/blog/toit-v2-0-0/",
+   "hn_url": "https://news.ycombinator.com/item?id=50321605",
+   "score": 51,
+   "comments": 19,
+   "author": "floitsch",
+   "time_iso": "2026-11-01T00:25:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 51
+    }
+   ]
+  },
+  {
+   "id": "hn-50323123",
+   "title": "Resisting Cognitive Surrender",
+   "url": "https://knlb.dev/essays/surrender",
+   "hn_url": "https://news.ycombinator.com/item?id=50323123",
+   "score": 157,
+   "comments": 65,
+   "author": "knlb",
+   "time_iso": "2026-11-01T06:13:30+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 157
+    }
+   ]
+  },
+  {
+   "id": "hn-50326246",
+   "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+   "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+   "hn_url": "https://news.ycombinator.com/item?id=50326246",
+   "score": 63,
+   "comments": 7,
+   "author": "birdculture",
+   "time_iso": "2026-11-01T14:52:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 63
+    }
+   ]
+  },
+  {
    "id": "hn-50331957",
    "title": "Bones may release proteins that slow aging and extend life span",
    "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
@@ -48,6 +112,38 @@
     {
      "t": "2026-11-03T03:10:39.242110+08:00",
      "score": 288
+    }
+   ]
+  },
+  {
+   "id": "hn-50331988",
+   "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+   "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+   "hn_url": "https://news.ycombinator.com/item?id=50331988",
+   "score": 3,
+   "comments": 0,
+   "author": "gmays",
+   "time_iso": "2026-11-02T01:34:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 3
+    }
+   ]
+  },
+  {
+   "id": "hn-50334523",
+   "title": "European RISC-V Industrial Computing Initiative",
+   "url": "https://erici.eu",
+   "hn_url": "https://news.ycombinator.com/item?id=50334523",
+   "score": 95,
+   "comments": 49,
+   "author": "ymz5",
+   "time_iso": "2026-11-02T08:58:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 95
     }
    ]
   },
@@ -72,8 +168,8 @@
    "title": "If you love a website, back it up",
    "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
    "hn_url": "https://news.ycombinator.com/item?id=50336518",
-   "score": 408,
-   "comments": 94,
+   "score": 539,
+   "comments": 118,
    "author": "ingve",
    "time_iso": "2026-11-02T13:25:35+00:00",
    "history": [
@@ -84,6 +180,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 408
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 539
     }
    ]
   },
@@ -164,8 +264,8 @@
    "title": "Ask HN: Who is hiring? (November 2026)",
    "url": "https://news.ycombinator.com/item?id=50338728",
    "hn_url": "https://news.ycombinator.com/item?id=50338728",
-   "score": 176,
-   "comments": 144,
+   "score": 216,
+   "comments": 175,
    "author": "whoishiring",
    "time_iso": "2026-11-02T16:01:37+00:00",
    "history": [
@@ -176,6 +276,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 176
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 216
     }
    ]
   },
@@ -200,8 +304,8 @@
    "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
    "hn_url": "https://news.ycombinator.com/item?id=50339221",
-   "score": 218,
-   "comments": 36,
+   "score": 267,
+   "comments": 43,
    "author": "stared",
    "time_iso": "2026-11-02T16:25:26+00:00",
    "history": [
@@ -212,6 +316,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 218
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 267
     }
    ]
   },
@@ -220,8 +328,8 @@
    "title": "US boy names that became girl names and vice versa",
    "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
    "hn_url": "https://news.ycombinator.com/item?id=50339397",
-   "score": 295,
-   "comments": 314,
+   "score": 395,
+   "comments": 375,
    "author": "xoobdev",
    "time_iso": "2026-11-02T16:34:36+00:00",
    "history": [
@@ -232,6 +340,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 295
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 395
     }
    ]
   },
@@ -292,8 +404,8 @@
    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
    "url": "https://momentic.ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50339913",
-   "score": 124,
-   "comments": 80,
+   "score": 143,
+   "comments": 95,
    "author": "wuweiweiwu",
    "time_iso": "2026-11-02T17:05:25+00:00",
    "history": [
@@ -304,6 +416,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 124
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 143
     }
    ]
   },
@@ -312,8 +428,8 @@
    "title": "Show HN: Subvocal – Talk to your computer without making noise",
    "url": "https://news.ycombinator.com/item?id=50340088",
    "hn_url": "https://news.ycombinator.com/item?id=50340088",
-   "score": 556,
-   "comments": 302,
+   "score": 684,
+   "comments": 336,
    "author": "aarushyadav",
    "time_iso": "2026-11-02T17:16:17+00:00",
    "history": [
@@ -324,6 +440,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 556
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 684
     }
    ]
   },
@@ -332,14 +452,18 @@
    "title": "Polyend releases the Tracker firmware source code",
    "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
    "hn_url": "https://news.ycombinator.com/item?id=50340159",
-   "score": 84,
-   "comments": 18,
+   "score": 130,
+   "comments": 39,
    "author": "austinallegro",
    "time_iso": "2026-11-02T17:20:13+00:00",
    "history": [
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 130
     }
    ]
   },
@@ -380,14 +504,18 @@
    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
    "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
    "hn_url": "https://news.ycombinator.com/item?id=50340619",
-   "score": 99,
-   "comments": 27,
+   "score": 219,
+   "comments": 57,
    "author": "tomrod",
    "time_iso": "2026-11-02T17:47:40+00:00",
    "history": [
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 99
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 219
     }
    ]
   },
@@ -436,8 +564,8 @@
    "title": "Astra can read and write weights to improve Qwen",
    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
    "hn_url": "https://news.ycombinator.com/item?id=50341174",
-   "score": 1951,
-   "comments": 621,
+   "score": 2575,
+   "comments": 784,
    "author": "dbreunig",
    "time_iso": "2026-11-02T18:21:28+00:00",
    "history": [
@@ -448,6 +576,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 1951
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 2575
     }
    ]
   },
@@ -504,8 +636,8 @@
    "title": "Egoless Mathematics in the AI Era",
    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "hn_url": "https://news.ycombinator.com/item?id=50341736",
-   "score": 113,
-   "comments": 81,
+   "score": 158,
+   "comments": 116,
    "author": "smilelamp",
    "time_iso": "2026-11-02T18:54:44+00:00",
    "history": [
@@ -516,6 +648,10 @@
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 113
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 158
     }
    ]
   },
@@ -540,14 +676,18 @@
    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
    "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
    "hn_url": "https://news.ycombinator.com/item?id=50344224",
-   "score": 22,
-   "comments": 3,
+   "score": 73,
+   "comments": 8,
    "author": "gmays",
    "time_iso": "2026-11-02T21:42:25+00:00",
    "history": [
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 73
     }
    ]
   },
@@ -600,6 +740,22 @@
    ]
   },
   {
+   "id": "hn-50345924",
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai/",
+   "hn_url": "https://news.ycombinator.com/item?id=50345924",
+   "score": 217,
+   "comments": 122,
+   "author": "makeramen",
+   "time_iso": "2026-11-02T23:47:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 217
+    }
+   ]
+  },
+  {
    "id": "hn-50346153",
    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
    "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
@@ -636,14 +792,114 @@
    "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
    "hn_url": "https://news.ycombinator.com/item?id=50346849",
-   "score": 10,
-   "comments": 0,
+   "score": 185,
+   "comments": 45,
    "author": "bpierre",
    "time_iso": "2026-11-03T01:33:43+00:00",
    "history": [
     {
      "t": "2026-11-03T09:59:36.783594+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 185
+    }
+   ]
+  },
+  {
+   "id": "hn-50346981",
+   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+   "url": "https://hackertimes.ca/",
+   "hn_url": "https://news.ycombinator.com/item?id=50346981",
+   "score": 249,
+   "comments": 77,
+   "author": "polpenn",
+   "time_iso": "2026-11-03T01:53:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 249
+    }
+   ]
+  },
+  {
+   "id": "hn-50347464",
+   "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+   "url": "https://arxiv.org/abs/2608.25820",
+   "hn_url": "https://news.ycombinator.com/item?id=50347464",
+   "score": 30,
+   "comments": 3,
+   "author": "teleforce",
+   "time_iso": "2026-11-03T02:58:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
+   "id": "hn-50347552",
+   "title": "Show HN: I built a little browser game to practice Vim commands",
+   "url": "https://hjkl.duy.run",
+   "hn_url": "https://news.ycombinator.com/item?id=50347552",
+   "score": 27,
+   "comments": 24,
+   "author": "dh1011",
+   "time_iso": "2026-11-03T03:10:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50348740",
+   "title": "Show HN: ReBirth 338 in Browser",
+   "url": "https://margeux.com/rb338.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50348740",
+   "score": 17,
+   "comments": 8,
+   "author": "vegnus",
+   "time_iso": "2026-11-03T06:24:50+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50348962",
+   "title": "Nvidia – open-source auto-ontology",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "hn_url": "https://news.ycombinator.com/item?id=50348962",
+   "score": 45,
+   "comments": 4,
+   "author": "campervans",
+   "time_iso": "2026-11-03T07:04:50+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50349155",
+   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+   "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50349155",
+   "score": 61,
+   "comments": 18,
+   "author": "cornfieldlabs",
+   "time_iso": "2026-11-03T07:36:47+00:00",
+   "history": [
+    {
+     "t": "2026-11-03T17:24:53.688776+08:00",
+     "score": 61
     }
    ]
   }
