@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-11-04T01:31:58.360097+08:00",
- "count": 2404,
+ "updated_at": "2026-11-04T06:53:54.685480+08:00",
+ "count": 2408,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -11,6 +11,15 @@
    "published": "Fri, 27 Jun 2025 21:09:27 GMT",
    "published_iso": "2025-06-27T21:09:27+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-0018ea6e4618a3fe",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "feed_name": "TechCrunch AI",
+   "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+   "published_iso": "2026-11-03T19:34:43+00:00",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
   },
   {
    "id": "rss-005a369e59853676",
@@ -634,6 +643,15 @@
    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
   },
   {
+   "id": "rss-07fc4229243db39c",
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "url": "https://openai.com/ads/customers/evernote",
+   "feed_name": "OpenAI",
+   "published": "Wed, 28 Oct 2026 19:40:49 GMT",
+   "published_iso": "2026-10-28T19:40:49+00:00",
+   "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
+  },
+  {
    "id": "rss-080dec4a052bdc97",
    "title": "Navigating the challenges and opportunities of synthetic voices",
    "url": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices",
@@ -641,6 +659,15 @@
    "published": "Fri, 29 Mar 2024 00:00:00 GMT",
    "published_iso": "2024-03-29T00:00:00+00:00",
    "summary": "We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices."
+  },
+  {
+   "id": "rss-0835e4c1adb39f7f",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "feed_name": "TechCrunch AI",
+   "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+   "published_iso": "2026-11-03T21:43:08+00:00",
+   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
   },
   {
    "id": "rss-083b5505811e9c85",
@@ -1849,6 +1876,15 @@
    "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT."
   },
   {
+   "id": "rss-158693e545d71cb5",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "feed_name": "OpenAI",
+   "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "published_iso": "2026-11-03T00:00:00+00:00",
+   "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+  },
+  {
    "id": "rss-158871a550ee7fda",
    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
    "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
@@ -2666,42 +2702,6 @@
    "published": "Wed, 22 Jul 2026 12:00:00 GMT",
    "published_iso": "2026-07-22T12:00:00+00:00",
    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-  },
-  {
-   "id": "rss-1e3fe29a87a7af6d",
-   "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
-   "url": "https://huggingface.co/blog/pref-tuning",
-   "feed_name": "Hugging Face",
-   "published": "Thu, 18 Jan 2024 00:00:00 GMT",
-   "published_iso": "2024-01-18T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1ea8ff42a7988fd9",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "feed_name": "OpenAI",
-   "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-   "published_iso": "2026-10-14T00:00:00+00:00",
-   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-  },
-  {
-   "id": "rss-1ed301b1b45fa72d",
-   "title": "Learning sparse neural networks through L₀ regularization",
-   "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
-   "feed_name": "OpenAI",
-   "published": "Mon, 04 Dec 2017 08:00:00 GMT",
-   "published_iso": "2017-12-04T08:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1ef0e397131d6008",
-   "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-   "url": "https://huggingface.co/blog/ulysses-sp",
-   "feed_name": "Hugging Face",
-   "published": "Mon, 09 Mar 2026 00:00:00 GMT",
-   "published_iso": "2026-03-09T00:00:00+00:00",
-   "summary": ""
   }
  ]
 }
