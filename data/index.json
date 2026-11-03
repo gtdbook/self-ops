@@ -1,10 +1,11 @@
 {
- "updated_at": "2026-11-03T03:10:41.329631+08:00",
+ "updated_at": "2026-11-03T09:59:39.344671+08:00",
  "days": [
   {
    "date": "2026-11-03",
-   "total": 60,
+   "total": 70,
    "per_source": {
+    "rising": 10,
     "blog_rss": 15,
     "github_search": 15,
     "hackernews": 15,

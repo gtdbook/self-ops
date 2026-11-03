@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-03T03:10:40.050176+08:00",
- "count": 20,
+ "updated_at": "2026-11-03T09:59:37.649156+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1435475558",
@@ -67,7 +67,7 @@
    "id": "gh-1436598075",
    "title": "smithjohn78390/tongjiang-lab",
    "url": "https://github.com/smithjohn78390/tongjiang-lab",
-   "stars": 1433,
+   "stars": 1456,
    "language": "HTML",
    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
    "created_at": "2026-10-28T04:29:29Z",
@@ -75,6 +75,40 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1433
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1456
+    }
+   ]
+  },
+  {
+   "id": "gh-1436721854",
+   "title": "HRuiCcc/RuiC-PoseAtlas",
+   "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+   "stars": 1058,
+   "language": "JavaScript",
+   "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+   "created_at": "2026-10-28T07:00:53Z",
+   "history": [
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1058
+    }
+   ]
+  },
+  {
+   "id": "gh-1436834115",
+   "title": "jacke-pp/open-yoki",
+   "url": "https://github.com/jacke-pp/open-yoki",
+   "stars": 848,
+   "language": "JavaScript",
+   "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+   "created_at": "2026-10-28T08:58:27Z",
+   "history": [
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 848
     }
    ]
   },
@@ -82,7 +116,7 @@
    "id": "gh-1437131455",
    "title": "lexifina/global-law",
    "url": "https://github.com/lexifina/global-law",
-   "stars": 1685,
+   "stars": 1703,
    "language": "HTML",
    "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
    "created_at": "2026-10-28T13:34:16Z",
@@ -90,6 +124,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1685
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1703
     }
    ]
   },
@@ -97,7 +135,7 @@
    "id": "gh-1437774066",
    "title": "Djihads80/Eglantine",
    "url": "https://github.com/Djihads80/Eglantine",
-   "stars": 2367,
+   "stars": 2528,
    "language": "C++",
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "created_at": "2026-10-29T00:25:18Z",
@@ -105,6 +143,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 2367
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 2528
     }
    ]
   },
@@ -112,7 +154,7 @@
    "id": "gh-1438018242",
    "title": "paipiange/nvzhuang",
    "url": "https://github.com/paipiange/nvzhuang",
-   "stars": 2041,
+   "stars": 2045,
    "language": "Go",
    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
    "created_at": "2026-10-29T06:08:00Z",
@@ -120,6 +162,25 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 2041
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 2045
+    }
+   ]
+  },
+  {
+   "id": "gh-1438029127",
+   "title": "NiazMorshed2007/reanimate",
+   "url": "https://github.com/NiazMorshed2007/reanimate",
+   "stars": 962,
+   "language": "JavaScript",
+   "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+   "created_at": "2026-10-29T06:20:59Z",
+   "history": [
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 962
     }
    ]
   },
@@ -127,7 +188,7 @@
    "id": "gh-1438326535",
    "title": "BryceYuuu/RUN",
    "url": "https://github.com/BryceYuuu/RUN",
-   "stars": 1476,
+   "stars": 1569,
    "language": "Python",
    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
    "created_at": "2026-10-29T11:28:43Z",
@@ -135,6 +196,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1476
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1569
     }
    ]
   },
@@ -142,7 +207,7 @@
    "id": "gh-1438394948",
    "title": "valentderah/totk-pc-recomp",
    "url": "https://github.com/valentderah/totk-pc-recomp",
-   "stars": 3870,
+   "stars": 4041,
    "language": "C",
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
    "created_at": "2026-10-29T12:32:46Z",
@@ -150,6 +215,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 3870
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 4041
     }
    ]
   },
@@ -157,7 +226,7 @@
    "id": "gh-1438540053",
    "title": "wangzan101/Mika",
    "url": "https://github.com/wangzan101/Mika",
-   "stars": 5198,
+   "stars": 5363,
    "language": "Kotlin",
    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
    "created_at": "2026-10-29T14:34:07Z",
@@ -165,6 +234,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 5198
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 5363
     }
    ]
   },
@@ -172,7 +245,7 @@
    "id": "gh-1438623288",
    "title": "heydamir/unslop",
    "url": "https://github.com/heydamir/unslop",
-   "stars": 5979,
+   "stars": 6321,
    "language": "JavaScript",
    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
    "created_at": "2026-10-29T15:41:21Z",
@@ -180,6 +253,25 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 5979
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 6321
+    }
+   ]
+  },
+  {
+   "id": "gh-1438732649",
+   "title": "hyz317/HairDeck",
+   "url": "https://github.com/hyz317/HairDeck",
+   "stars": 738,
+   "language": "Python",
+   "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+   "created_at": "2026-10-29T17:16:13Z",
+   "history": [
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 738
     }
    ]
   },
@@ -187,7 +279,7 @@
    "id": "gh-1439372976",
    "title": "patch-gg/pixelfx",
    "url": "https://github.com/patch-gg/pixelfx",
-   "stars": 3409,
+   "stars": 3545,
    "language": "JavaScript",
    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
    "created_at": "2026-10-30T06:43:25Z",
@@ -195,6 +287,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 3409
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 3545
     }
    ]
   },
@@ -202,7 +298,7 @@
    "id": "gh-1439430391",
    "title": "kevinraymond/florilegium",
    "url": "https://github.com/kevinraymond/florilegium",
-   "stars": 1351,
+   "stars": 1373,
    "language": "Lua",
    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
    "created_at": "2026-10-30T07:49:05Z",
@@ -210,6 +306,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1351
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1373
     }
    ]
   },
@@ -217,7 +317,7 @@
    "id": "gh-1439522537",
    "title": "elvarofficial/teardown",
    "url": "https://github.com/elvarofficial/teardown",
-   "stars": 1192,
+   "stars": 1277,
    "language": "JavaScript",
    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
    "created_at": "2026-10-30T09:29:01Z",
@@ -225,6 +325,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1192
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1277
     }
    ]
   },
@@ -232,7 +336,7 @@
    "id": "gh-1440160468",
    "title": "Arjun-Ingole/hop",
    "url": "https://github.com/Arjun-Ingole/hop",
-   "stars": 1364,
+   "stars": 1390,
    "language": "PowerShell",
    "description": "Install Linux next to Windows without a USB stick",
    "created_at": "2026-10-30T19:40:45Z",
@@ -240,6 +344,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1364
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1390
     }
    ]
   },
@@ -247,7 +355,7 @@
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 12638,
+   "stars": 13419,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -255,6 +363,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 12638
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 13419
     }
    ]
   },
@@ -262,7 +374,7 @@
    "id": "gh-1440956372",
    "title": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "stars": 3432,
+   "stars": 4468,
    "language": "Rust",
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "created_at": "2026-10-31T14:50:00Z",
@@ -270,6 +382,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 3432
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 4468
     }
    ]
   },
@@ -277,7 +393,7 @@
    "id": "gh-1441272552",
    "title": "Verlintas/NOIR",
    "url": "https://github.com/Verlintas/NOIR",
-   "stars": 1210,
+   "stars": 1340,
    "language": "Kotlin",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "created_at": "2026-10-31T21:34:39Z",
@@ -285,6 +401,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1210
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1340
     }
    ]
   },
@@ -292,7 +412,7 @@
    "id": "gh-1441517767",
    "title": "caru-ini/stack-diagram",
    "url": "https://github.com/caru-ini/stack-diagram",
-   "stars": 1065,
+   "stars": 1220,
    "language": "TypeScript",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "created_at": "2026-11-01T05:35:12Z",
@@ -300,6 +420,10 @@
     {
      "t": "2026-11-03T03:10:40.050176+08:00",
      "score": 1065
+    },
+    {
+     "t": "2026-11-03T09:59:37.649156+08:00",
+     "score": 1220
     }
    ]
   }
