@@ -1,0 +1,21 @@
+{
+ "updated_at": "2026-11-05T08:24:45.610888+08:00",
+ "sources": {
+  "hackernews": 1.0,
+  "github_search": 1.0,
+  "blog_rss": 1.0,
+  "producthunt": 1.0,
+  "aihot": 1.0
+ },
+ "tokens": {
+  "weights": 0.5,
+  "models": 0.5,
+  "qwen": 0.5,
+  "hackertube": 0.5,
+  "stewart": 0.5,
+  "patrick": 0.5,
+  "debt": 0.5,
+  "off": 0.5
+ },
+ "seen_comment_ids": []
+}

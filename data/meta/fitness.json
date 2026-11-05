@@ -1,0 +1,45 @@
+{
+ "updated_at": "2026-11-05T08:24:45.610888+08:00",
+ "sources": {
+  "hackernews": {
+   "weight_hint": 1.0,
+   "streak_low": 0,
+   "enabled": true,
+   "fitness": 1.0,
+   "mean_items": 53.3,
+   "days_present": 7,
+   "error_days": 0,
+   "window_days": 7
+  },
+  "producthunt": {
+   "weight_hint": 1.0,
+   "streak_low": 0,
+   "enabled": true,
+   "fitness": 1.0,
+   "mean_items": 93.1,
+   "days_present": 7,
+   "error_days": 0,
+   "window_days": 7
+  },
+  "blog_rss": {
+   "weight_hint": 1.0,
+   "streak_low": 0,
+   "enabled": true,
+   "fitness": 1.0,
+   "mean_items": 2400.1,
+   "days_present": 7,
+   "error_days": 0,
+   "window_days": 7
+  },
+  "github_search": {
+   "weight_hint": 1.0,
+   "streak_low": 0,
+   "enabled": true,
+   "fitness": 1.0,
+   "mean_items": 26.1,
+   "days_present": 7,
+   "error_days": 0,
+   "window_days": 7
+  }
+ }
+}
