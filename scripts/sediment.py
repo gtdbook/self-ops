@@ -64,11 +64,18 @@ def git_commit(message):
     import subprocess
 
     def run(*args):
-        subprocess.run(["git", *args], cwd=REPO_ROOT, check=True, capture_output=True)
+        result = subprocess.run(
+            ["git", *args], cwd=REPO_ROOT, capture_output=True, text=True
+        )
+        if result.returncode != 0:
+            raise RuntimeError(
+                f"git {' '.join(args)} 失败: {(result.stderr or result.stdout or '').strip()[:300]}"
+            )
 
     run("config", "user.name", "self-ops-bot")
     run("config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
-    run("add", "data/sediment", "data/prefs.json", "README.md")
+    # 进化账本（sediment 决策留痕）一并提交，避免留下未暂存变更阻塞后续 rebase
+    run("add", "data/sediment", "data/prefs.json", "data/meta/evolution.json", "README.md")
     if subprocess.run(
         ["git", "diff", "--cached", "--quiet"], cwd=REPO_ROOT
     ).returncode == 0:
