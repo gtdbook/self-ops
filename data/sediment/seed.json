@@ -1,0 +1,1047 @@
+{
+ "source": "https://sediment-garden.pages.dev/static/contentIndex.json",
+ "fetched_at": "2026-11-05T08:58:15.809297+08:00",
+ "articles": 74,
+ "beds": {
+  "ai": 21,
+  "tech": 12,
+  "marketing": 7,
+  "indie": 7,
+  "crypto": 5,
+  "content": 7,
+  "growth": 8,
+  "life": 5,
+  "work": 2
+ },
+ "entries": [
+  {
+   "slug": "ai/ai写作去ai味与仿写方法",
+   "title": "AI写作去AI味与仿写方法",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "content"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai写作去ai味与仿写方法"
+  },
+  {
+   "slug": "ai/ai技能skill设计与迭代",
+   "title": "AI技能Skill设计与迭代",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "skill",
+    "agent",
+    "744/743/768"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai技能skill设计与迭代"
+  },
+  {
+   "slug": "ai/ai测试工程体系",
+   "title": "AI测试工程体系",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "work"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai测试工程体系"
+  },
+  {
+   "slug": "ai/ai浏览器回归测试passmark实测",
+   "title": "AI浏览器回归测试Passmark实测",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "playwright",
+    "llm应用"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai浏览器回归测试passmark实测"
+  },
+  {
+   "slug": "ai/ai浏览器自动化框架对比",
+   "title": "AI浏览器自动化框架对比",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "work",
+    "浏览器自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai浏览器自动化框架对比"
+  },
+  {
+   "slug": "ai/ai爬虫与网站克隆工具",
+   "title": "AI爬虫与网站克隆工具",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "tech"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/ai爬虫与网站克隆工具"
+  },
+  {
+   "slug": "ai/agent-skills生态与市场",
+   "title": "Agent-Skills生态与市场",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "skill",
+    "agent",
+    "工具生态"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/agent-skills生态与市场"
+  },
+  {
+   "slug": "ai/agent宿主openclaw与hermes实战",
+   "title": "Agent宿主OpenClaw与Hermes实战",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "agent",
+    "openclaw",
+    "hermes",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/agent宿主openclaw与hermes实战"
+  },
+  {
+   "slug": "ai/cua图形界面自动化实战",
+   "title": "CUA图形界面自动化实战",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "cua",
+    "自动化",
+    "gui"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/cua图形界面自动化实战"
+  },
+  {
+   "slug": "ai/claude-code使用与内部机制",
+   "title": "Claude-Code使用与内部机制",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "claude-code",
+    "harness"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/claude-code使用与内部机制"
+  },
+  {
+   "slug": "ai/harness工程与agents-md实践",
+   "title": "Harness工程与AGENTS-md实践",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "harness",
+    "agents-md",
+    "工程方法"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/harness工程与agents-md实践"
+  },
+  {
+   "slug": "ai/jev与systemone模型",
+   "title": "Jev与SystemOne模型",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "system-one",
+    "判断模型",
+    "模型选型"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/jev与systemone模型"
+  },
+  {
+   "slug": "ai/metamuse个人agent实测",
+   "title": "MetaMuse个人Agent实测",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "agent",
+    "产品分析",
+    "meta"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/metamuse个人agent实测"
+  },
+  {
+   "slug": "ai/openai兼容llm接入通用模式",
+   "title": "OpenAI兼容LLM接入通用模式",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "llm",
+    "api",
+    "sse"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/openai兼容llm接入通用模式"
+  },
+  {
+   "slug": "ai/opencode2迁移与免费模型",
+   "title": "OpenCode2迁移与免费模型",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "ai编程",
+    "工具迁移",
+    "免费资源"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/opencode2迁移与免费模型"
+  },
+  {
+   "slug": "ai/playwright-cli-方案详解",
+   "title": "Playwright CLI 方案详解",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "playwright",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/playwright-cli-方案详解"
+  },
+  {
+   "slug": "ai/prompt工程方法论",
+   "title": "Prompt工程方法论",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "prompt",
+    "方法论"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/prompt工程方法论"
+  },
+  {
+   "slug": "ai/rag与ai知识库搭建",
+   "title": "RAG与AI知识库搭建",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "rag",
+    "知识库",
+    "llm应用"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/rag与ai知识库搭建"
+  },
+  {
+   "slug": "ai/rpa浏览器自动化实操方法",
+   "title": "RPA浏览器自动化实操方法",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "tech",
+    "rpa",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/rpa浏览器自动化实操方法"
+  },
+  {
+   "slug": "ai/index",
+   "title": "ai",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/index"
+  },
+  {
+   "slug": "ai/个人agent自动化中台",
+   "title": "个人Agent自动化中台",
+   "bed": "ai",
+   "bed_name": "AI 与智能体",
+   "tags": [
+    "agent",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/ai/个人agent自动化中台"
+  },
+  {
+   "slug": "content/ai图文视频生产工作流",
+   "title": "AI图文视频生产工作流",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/ai图文视频生产工作流"
+  },
+  {
+   "slug": "content/youtube视频变现路径",
+   "title": "YouTube视频变现路径",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "indie",
+    "youtube",
+    "712/92"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/youtube视频变现路径"
+  },
+  {
+   "slug": "content/index",
+   "title": "content",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/index"
+  },
+  {
+   "slug": "content/公众号排版与反爬硬规则",
+   "title": "公众号排版与反爬硬规则",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "公众号",
+    "平台规则"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/公众号排版与反爬硬规则"
+  },
+  {
+   "slug": "content/公众号自动化内容流水线",
+   "title": "公众号自动化内容流水线",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "公众号",
+    "流水线",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/公众号自动化内容流水线"
+  },
+  {
+   "slug": "content/公众号运营规则与收益数据",
+   "title": "公众号运营规则与收益数据",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "公众号",
+    "平台规则",
+    "收益数据"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/公众号运营规则与收益数据"
+  },
+  {
+   "slug": "content/自媒体账号矩阵风控复盘",
+   "title": "自媒体账号矩阵风控复盘",
+   "bed": "content",
+   "bed_name": "内容创作",
+   "tags": [
+    "content",
+    "marketing",
+    "平台风控",
+    "youtube"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/content/自媒体账号矩阵风控复盘"
+  },
+  {
+   "slug": "crypto/ai加密研报流水线coinlens",
+   "title": "AI加密研报流水线CoinLens",
+   "bed": "crypto",
+   "bed_name": "加密货币",
+   "tags": [
+    "crypto",
+    "研究方法",
+    "流水线"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/crypto/ai加密研报流水线coinlens"
+  },
+  {
+   "slug": "crypto/ai量化平台-tradingagents与qlib",
+   "title": "AI量化平台-TradingAgents与Qlib",
+   "bed": "crypto",
+   "bed_name": "加密货币",
+   "tags": [
+    "crypto",
+    "多智能体"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/crypto/ai量化平台-tradingagents与qlib"
+  },
+  {
+   "slug": "crypto/index",
+   "title": "crypto",
+   "bed": "crypto",
+   "bed_name": "加密货币",
+   "tags": [
+    "crypto",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/crypto/index"
+  },
+  {
+   "slug": "crypto/免费加密数据源清单",
+   "title": "免费加密数据源清单",
+   "bed": "crypto",
+   "bed_name": "加密货币",
+   "tags": [
+    "crypto",
+    "数据源",
+    "api"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/crypto/免费加密数据源清单"
+  },
+  {
+   "slug": "crypto/量化因子研究模板-worldquantbrain",
+   "title": "量化因子研究模板-WorldQuantBRAIN",
+   "bed": "crypto",
+   "bed_name": "加密货币",
+   "tags": [
+    "crypto",
+    "work",
+    "研究方法"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/crypto/量化因子研究模板-worldquantbrain"
+  },
+  {
+   "slug": "growth/tea生产力框架",
+   "title": "TEA生产力框架",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "生产力框架",
+    "时间管理",
+    "精力管理",
+    "注意力管理"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/tea生产力框架"
+  },
+  {
+   "slug": "growth/index",
+   "title": "growth",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/index"
+  },
+  {
+   "slug": "growth/个人信息与知识工作流",
+   "title": "个人信息与知识工作流",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "知识管理",
+    "信息工作流",
+    "202/359"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/个人信息与知识工作流"
+  },
+  {
+   "slug": "growth/情绪与心理调节方法",
+   "title": "情绪与心理调节方法",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "情绪管理"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/情绪与心理调节方法"
+  },
+  {
+   "slug": "growth/方向与复盘操作系统",
+   "title": "方向与复盘操作系统",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "方向管理"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/方向与复盘操作系统"
+  },
+  {
+   "slug": "growth/时间管理与效能系统",
+   "title": "时间管理与效能系统",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "时间管理"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/时间管理与效能系统"
+  },
+  {
+   "slug": "growth/职业转型与副业起步",
+   "title": "职业转型与副业起步",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/职业转型与副业起步"
+  },
+  {
+   "slug": "growth/资料归档与知识库建设方法",
+   "title": "资料归档与知识库建设方法",
+   "bed": "growth",
+   "bed_name": "学习与成长",
+   "tags": [
+    "growth",
+    "知识管理",
+    "方法论"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/growth/资料归档与知识库建设方法"
+  },
+  {
+   "slug": "indie/index",
+   "title": "indie",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/index"
+  },
+  {
+   "slug": "indie/中国独立开发者项目库",
+   "title": "中国独立开发者项目库",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "竞品调研"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/中国独立开发者项目库"
+  },
+  {
+   "slug": "indie/出海导航站返佣变现模式",
+   "title": "出海导航站返佣变现模式",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "marketing",
+    "导航站"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/出海导航站返佣变现模式"
+  },
+  {
+   "slug": "indie/数字游民ai工作室资料库导读",
+   "title": "数字游民AI工作室资料库导读",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "crypto",
+    "资料库"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/数字游民ai工作室资料库导读"
+  },
+  {
+   "slug": "indie/独立产品变现案例分析",
+   "title": "独立产品变现案例分析",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/独立产品变现案例分析"
+  },
+  {
+   "slug": "indie/跨境收款方案对比",
+   "title": "跨境收款方案对比",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "payment",
+    "affiliate"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/跨境收款方案对比"
+  },
+  {
+   "slug": "indie/选品与需求挖掘方法",
+   "title": "选品与需求挖掘方法",
+   "bed": "indie",
+   "bed_name": "独立开发与出海",
+   "tags": [
+    "indie",
+    "需求挖掘"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/indie/选品与需求挖掘方法"
+  },
+  {
+   "slug": "life/index",
+   "title": "life",
+   "bed": "life",
+   "bed_name": "生活与家庭",
+   "tags": [
+    "life",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/life/index"
+  },
+  {
+   "slug": "life/子女教育-内驱力培养",
+   "title": "子女教育-内驱力培养",
+   "bed": "life",
+   "bed_name": "生活与家庭",
+   "tags": [
+    "life",
+    "教育方法"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/life/子女教育-内驱力培养"
+  },
+  {
+   "slug": "life/家庭自用工具开发清单",
+   "title": "家庭自用工具开发清单",
+   "bed": "life",
+   "bed_name": "生活与家庭",
+   "tags": [
+    "life"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/life/家庭自用工具开发清单"
+  },
+  {
+   "slug": "life/微信小游戏ai代玩实战复盘",
+   "title": "微信小游戏AI代玩实战复盘",
+   "bed": "life",
+   "bed_name": "生活与家庭",
+   "tags": [
+    "life"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/life/微信小游戏ai代玩实战复盘"
+  },
+  {
+   "slug": "life/运动打卡数据模型设计",
+   "title": "运动打卡数据模型设计",
+   "bed": "life",
+   "bed_name": "生活与家庭",
+   "tags": [
+    "life",
+    "数据建模"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/life/运动打卡数据模型设计"
+  },
+  {
+   "slug": "marketing/reddit自动化海外获客",
+   "title": "Reddit自动化海外获客",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "indie",
+    "自动化"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/reddit自动化海外获客"
+  },
+  {
+   "slug": "marketing/index",
+   "title": "marketing",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/index"
+  },
+  {
+   "slug": "marketing/联盟营销平台规则与坑",
+   "title": "联盟营销平台规则与坑",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "affiliate",
+    "平台风控",
+    "工具链"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/联盟营销平台规则与坑"
+  },
+  {
+   "slug": "marketing/联盟营销投放优化与案例基准",
+   "title": "联盟营销投放优化与案例基准",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "affiliate",
+    "投放优化",
+    "470/87/26/306"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/联盟营销投放优化与案例基准"
+  },
+  {
+   "slug": "marketing/联盟营销系统化工作流",
+   "title": "联盟营销系统化工作流",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "affiliate",
+    "工作流",
+    "方法论"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/联盟营销系统化工作流"
+  },
+  {
+   "slug": "marketing/联盟营销落地页工程与offer选型",
+   "title": "联盟营销落地页工程与Offer选型",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "affiliate",
+    "落地页",
+    "offer选型"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/联盟营销落地页工程与offer选型"
+  },
+  {
+   "slug": "marketing/订阅套利模式与投放铁律",
+   "title": "订阅套利模式与投放铁律",
+   "bed": "marketing",
+   "bed_name": "广告营销",
+   "tags": [
+    "marketing",
+    "affiliate",
+    "push流量"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/marketing/订阅套利模式与投放铁律"
+  },
+  {
+   "slug": "tech/csharp上位机与plc通信开发",
+   "title": "CSharp上位机与PLC通信开发",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "csharp",
+    "plc"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/csharp上位机与plc通信开发"
+  },
+  {
+   "slug": "tech/flutter离线应用构建与测试经验",
+   "title": "Flutter离线应用构建与测试经验",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "flutter",
+    "移动端"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/flutter离线应用构建与测试经验"
+  },
+  {
+   "slug": "tech/github-actions定时自动化模式",
+   "title": "GitHub-Actions定时自动化模式",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "github-actions",
+    "自动化",
+    "静态站"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/github-actions定时自动化模式"
+  },
+  {
+   "slug": "tech/github版本化备份与sqlite快照",
+   "title": "GitHub版本化备份与SQLite快照",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "github-api",
+    "sqlite"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/github版本化备份与sqlite快照"
+  },
+  {
+   "slug": "tech/rea与ai软件复刻实战",
+   "title": "REA与AI软件复刻实战",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "逆向工程",
+    "软件复刻"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/rea与ai软件复刻实战"
+  },
+  {
+   "slug": "tech/taro小程序跨端踩坑与规范",
+   "title": "Taro小程序跨端踩坑与规范",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "taro",
+    "小程序"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/taro小程序跨端踩坑与规范"
+  },
+  {
+   "slug": "tech/vps运维与监控工具箱",
+   "title": "VPS运维与监控工具箱",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "vps"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/vps运维与监控工具箱"
+  },
+  {
+   "slug": "tech/index",
+   "title": "tech",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/index"
+  },
+  {
+   "slug": "tech/老apk逆向复活方法论",
+   "title": "老APK逆向复活方法论",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "android",
+    "逆向工程",
+    "smali"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/老apk逆向复活方法论"
+  },
+  {
+   "slug": "tech/自建代理节点搭建（v2ray与mtproxy）",
+   "title": "自建代理节点搭建（V2ray与MTProxy）",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "network",
+    "selfhost"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/自建代理节点搭建（v2ray与mtproxy）"
+  },
+  {
+   "slug": "tech/软路由与家庭组网实战",
+   "title": "软路由与家庭组网实战",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "软路由",
+    "自托管",
+    "696/701"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/软路由与家庭组网实战"
+  },
+  {
+   "slug": "tech/零成本建站与部署实战",
+   "title": "零成本建站与部署实战",
+   "bed": "tech",
+   "bed_name": "技术工程",
+   "tags": [
+    "tech",
+    "vercel",
+    "github-pages",
+    "654-656"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/tech/零成本建站与部署实战"
+  },
+  {
+   "slug": "work/index",
+   "title": "work",
+   "bed": "work",
+   "bed_name": "工作方法",
+   "tags": [
+    "work",
+    "index"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/work/index"
+  },
+  {
+   "slug": "work/需求澄清与版本对比方法",
+   "title": "需求澄清与版本对比方法",
+   "bed": "work",
+   "bed_name": "工作方法",
+   "tags": [
+    "work",
+    "需求分析",
+    "测试管理",
+    "方法论"
+   ],
+   "url": "https://sediment-garden.pages.dev/#/work/需求澄清与版本对比方法"
+  }
+ ],
+ "bed_vocab": {
+  "ai": {
+   "agent": 6.3999999999999995,
+   "自动化": 5.0,
+   "skill": 2.35,
+   "playwright": 2.35,
+   "harness": 2.35,
+   "llm应用": 2.0,
+   "openclaw": 1.35,
+   "hermes": 1.35,
+   "cua": 1.35,
+   "llm": 1.35,
+   "prompt": 1.35,
+   "rag": 1.35,
+   "rpa": 1.35,
+   "744/743/768": 1.0,
+   "浏览器自动化": 1.0,
+   "工具生态": 1.0,
+   "gui": 1.0,
+   "claude-code": 1.0,
+   "agents-md": 1.0,
+   "工程方法": 1.0,
+   "system-one": 1.0,
+   "判断模型": 1.0,
+   "模型选型": 1.0,
+   "产品分析": 1.0,
+   "meta": 1.0,
+   "api": 1.0,
+   "sse": 1.0,
+   "ai编程": 1.0,
+   "工具迁移": 1.0,
+   "免费资源": 1.0,
+   "方法论": 1.0,
+   "知识库": 1.0,
+   "passmark": 0.35,
+   "skills": 0.35,
+   "code": 0.35,
+   "claude": 0.35,
+   "agents": 0.35,
+   "systemone": 0.35,
+   "jev": 0.35,
+   "metamuse": 0.35,
+   "openai": 0.35,
+   "opencode2": 0.35,
+   "cli": 0.35
+  },
+  "content": {
+   "公众号": 3.0,
+   "youtube": 2.35,
+   "平台规则": 2.0,
+   "712/92": 1.0,
+   "流水线": 1.0,
+   "自动化": 1.0,
+   "收益数据": 1.0,
+   "平台风控": 1.0
+  },
+  "crypto": {
+   "研究方法": 2.0,
+   "流水线": 1.0,
+   "多智能体": 1.0,
+   "数据源": 1.0,
+   "api": 1.0,
+   "coinlens": 0.35,
+   "tradingagents": 0.35,
+   "qlib": 0.35,
+   "worldquantbrain": 0.35
+  },
+  "growth": {
+   "时间管理": 2.0,
+   "知识管理": 2.0,
+   "生产力框架": 1.0,
+   "精力管理": 1.0,
+   "注意力管理": 1.0,
+   "信息工作流": 1.0,
+   "202/359": 1.0,
+   "情绪管理": 1.0,
+   "方向管理": 1.0,
+   "方法论": 1.0,
+   "tea": 0.35
+  },
+  "indie": {
+   "竞品调研": 1.0,
+   "导航站": 1.0,
+   "资料库": 1.0,
+   "payment": 1.0,
+   "affiliate": 1.0,
+   "需求挖掘": 1.0
+  },
+  "life": {
+   "教育方法": 1.0,
+   "数据建模": 1.0
+  },
+  "marketing": {
+   "affiliate": 5.0,
+   "自动化": 1.0,
+   "平台风控": 1.0,
+   "工具链": 1.0,
+   "投放优化": 1.0,
+   "470/87/26/306": 1.0,
+   "工作流": 1.0,
+   "方法论": 1.0,
+   "落地页": 1.0,
+   "offer选型": 1.0,
+   "push流量": 1.0,
+   "reddit": 0.35,
+   "offer": 0.35
+  },
+  "tech": {
+   "逆向工程": 2.0,
+   "csharp": 1.35,
+   "plc": 1.35,
+   "flutter": 1.35,
+   "sqlite": 1.35,
+   "taro": 1.35,
+   "vps": 1.35,
+   "移动端": 1.0,
+   "github-actions": 1.0,
+   "自动化": 1.0,
+   "静态站": 1.0,
+   "github-api": 1.0,
+   "软件复刻": 1.0,
+   "小程序": 1.0,
+   "android": 1.0,
+   "smali": 1.0,
+   "network": 1.0,
+   "selfhost": 1.0,
+   "软路由": 1.0,
+   "自托管": 1.0,
+   "696/701": 1.0,
+   "vercel": 1.0,
+   "github-pages": 1.0,
+   "654-656": 1.0,
+   "github": 0.7,
+   "actions": 0.35,
+   "rea": 0.35,
+   "apk": 0.35,
+   "v2ray": 0.35,
+   "mtproxy": 0.35
+  },
+  "work": {
+   "需求分析": 1.0,
+   "测试管理": 1.0,
+   "方法论": 1.0
+  }
+ },
+ "seed_tokens": {
+  "自动化": 0.9,
+  "agent": 0.82,
+  "affiliate": 0.8,
+  "方法论": 0.7,
+  "公众号": 0.65,
+  "skill": 0.62,
+  "playwright": 0.62,
+  "harness": 0.62,
+  "youtube": 0.62,
+  "llm应用": 0.6,
+  "api": 0.6,
+  "平台规则": 0.6,
+  "流水线": 0.6,
+  "平台风控": 0.6,
+  "研究方法": 0.6,
+  "时间管理": 0.6,
+  "知识管理": 0.6,
+  "逆向工程": 0.6
+ }
+}
