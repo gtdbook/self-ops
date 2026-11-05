@@ -1,0 +1,514 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T00:08:01.786030+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "LifeVal",
+     "url": "https://openai.com/index/lifeval",
+     "meta": "OpenAI · 2026-11-02",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "meta": "OpenAI · 2026-10-28",
+     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "meta": "OpenAI · 2026-10-27",
+     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "meta": "OpenAI · 2026-10-16",
+     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Bringing GPT-Rosalind to academic research labs",
+     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+     "meta": "OpenAI · 2026-10-15",
+     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "meta": "OpenAI · 2026-10-14",
+     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "deepseek-ai/dsh-superagent-prototype",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+     "meta": "⭐ 19340 · TypeScript",
+     "summary": "Towards a More Autonomous Agent System",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "storytold/craft-anything",
+     "url": "https://github.com/storytold/craft-anything",
+     "meta": "⭐ 14290 · Rust",
+     "summary": "Craft Anything: understand how any software works, and craft your own.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "meta": "⭐ 5182 · JavaScript",
+     "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "meta": "⭐ 3144 · TypeScript",
+     "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Verlintas/NOIR",
+     "url": "https://github.com/Verlintas/NOIR",
+     "meta": "⭐ 2403 · Kotlin",
+     "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "elvarofficial/teardown",
+     "url": "https://github.com/elvarofficial/teardown",
+     "meta": "⭐ 2114 · JavaScript",
+     "summary": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "meta": "⭐ 1931 · Python",
+     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "govijr/terminal-mac",
+     "url": "https://github.com/govijr/terminal-mac",
+     "meta": "⭐ 1859 · Swift",
+     "summary": "Entire MacOS running in your terminal.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "caru-ini/stack-diagram",
+     "url": "https://github.com/caru-ini/stack-diagram",
+     "meta": "⭐ 1844 · TypeScript",
+     "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zortos293/Lichii",
+     "url": "https://github.com/zortos293/Lichii",
+     "meta": "⭐ 1679 · C++",
+     "summary": "VERY experimental Nintendo Switch 2 emulator",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mromidev/claude-animated-shorts",
+     "url": "https://github.com/mromidev/claude-animated-shorts",
+     "meta": "⭐ 1661 · TypeScript",
+     "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Arjun-Ingole/hop",
+     "url": "https://github.com/Arjun-Ingole/hop",
+     "meta": "⭐ 1526 · PowerShell",
+     "summary": "Install Linux next to Windows without a USB stick",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wquguru/cicada",
+     "url": "https://github.com/wquguru/cicada",
+     "meta": "⭐ 1453 · Swift",
+     "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kevinraymond/florilegium",
+     "url": "https://github.com/kevinraymond/florilegium",
+     "meta": "⭐ 1436 · TeX",
+     "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "N1nEmAn/sapper-v2",
+     "url": "https://github.com/N1nEmAn/sapper-v2",
+     "meta": "⭐ 1257 · Python",
+     "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Residential proxies detected on White House network",
+     "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+     "meta": "⭐ 1212 · 💬 403",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Sshole",
+     "url": "https://sshhole.com",
+     "meta": "⭐ 1054 · 💬 297",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+     "meta": "⭐ 602 · 💬 173",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A thousand fewer paths to root",
+     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+     "meta": "⭐ 445 · 💬 328",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "meta": "⭐ 367 · 💬 189",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Images 2.6",
+     "url": "https://openai.com/index/introducing-images-2-6/",
+     "meta": "⭐ 364 · 💬 218",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+     "url": "https://www.ricursive.com/ripple",
+     "meta": "⭐ 324 · 💬 116",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lemmings CSS Animation",
+     "url": "https://markblah.github.io/lemmings/",
+     "meta": "⭐ 320 · 💬 64",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Spreading Liquid with Three.js",
+     "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+     "meta": "⭐ 191 · 💬 26",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Awesome repositories are no longer awesome",
+     "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+     "meta": "⭐ 173 · 💬 91",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Baidu released ERNIE 5.5 Flash Base",
+     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+     "meta": "⭐ 129 · 💬 73",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "So my ISP was hijacking my DNS",
+     "url": "https://www.karthihegde.dev/posts/dns_tampering",
+     "meta": "⭐ 121 · 💬 94",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+     "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+     "meta": "⭐ 121 · 💬 5",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6 Astra covertly underperforms on safety research",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+     "meta": "⭐ 119 · 💬 43",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "meta": "⭐ 103 · 💬 6",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Pushary for Teams",
+     "url": "https://www.producthunt.com/products/pushary",
+     "meta": "Product Hunt · 2026-11-01",
+     "summary": "See who said yes to your team’s AI agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ChatNest",
+     "url": "https://www.producthunt.com/products/chatnest-2",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Folders and a prompt library for your AI chats",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Okapi",
+     "url": "https://www.producthunt.com/products/okapi-2",
+     "meta": "Product Hunt · 2026-10-15",
+     "summary": "AI agents that fix API breaking changes in your repos",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Seamcult",
+     "url": "https://www.producthunt.com/products/seamcult",
+     "meta": "Product Hunt · 2026-11-03",
+     "summary": "A pattern design tool for the LLM era ('paper' for patterns)",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Living Brain",
+     "url": "https://www.producthunt.com/products/chatandbuild",
+     "meta": "Product Hunt · 2026-11-02",
+     "summary": "Interoperable, efficient memory layer for agentic AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Rungle",
+     "url": "https://www.producthunt.com/products/rungle",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Turn your running photos and clips into share-ready Reels",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Paws",
+     "url": "https://www.producthunt.com/products/paws",
+     "meta": "Product Hunt · 2026-11-01",
+     "summary": "Meet strangers through their cats, behind frosted glass",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dessn",
+     "url": "https://www.producthunt.com/products/dessn-2",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "The design canvas that runs your real code.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "LiveReacting for ChatGPT",
+     "url": "https://www.producthunt.com/products/livereacting",
+     "meta": "Product Hunt · 2026-11-03",
+     "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Deployed Yet?",
+     "url": "https://www.producthunt.com/products/deployed-yet",
+     "meta": "Product Hunt · 2026-11-03",
+     "summary": "See if your Vercel, Cloudflare and GitHub deploys shipped",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tencent Hy4",
+     "url": "https://www.producthunt.com/products/hunyuan-a13b",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Tencent’s flagship model learns to see and use a computer",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Bridge",
+     "url": "https://www.producthunt.com/products/meetonbridge",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Video conferencing for the agentic era",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Mellow Kids",
+     "url": "https://www.producthunt.com/products/mellow-kids",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Personalized sleep and development app for parents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Nock",
+     "url": "https://www.producthunt.com/products/nock-2",
+     "meta": "Product Hunt · 2026-11-01",
+     "summary": "A notch for Windows, in 1 MB of Rust",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Scrollsnacks",
+     "url": "https://www.producthunt.com/products/scrollsnacks",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Launch videos, broken down second by second",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
