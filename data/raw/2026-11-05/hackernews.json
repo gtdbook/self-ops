@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-05T08:59:47.190840+08:00",
- "count": 45,
+ "updated_at": "2026-11-05T15:42:13.062439+08:00",
+ "count": 51,
  "items": [
   {
    "id": "hn-50337225",
@@ -44,6 +44,54 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 60
+    }
+   ]
+  },
+  {
+   "id": "hn-50340195",
+   "title": "Partial Operator Precedence",
+   "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+   "hn_url": "https://news.ycombinator.com/item?id=50340195",
+   "score": 6,
+   "comments": 0,
+   "author": "tosh",
+   "time_iso": "2026-11-02T17:22:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50341576",
+   "title": "Spreading Liquid with Three.js",
+   "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50341576",
+   "score": 55,
+   "comments": 10,
+   "author": "mooreds",
+   "time_iso": "2026-11-02T18:45:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-50349165",
+   "title": "Future Maintenance of Mbed TLS",
+   "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+   "hn_url": "https://news.ycombinator.com/item?id=50349165",
+   "score": 17,
+   "comments": 1,
+   "author": "jonesjohnson",
+   "time_iso": "2026-11-03T07:39:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 17
     }
    ]
   },
@@ -200,8 +248,8 @@
    "title": "AI is forcing us to pay off 40 years of technical debt",
    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "hn_url": "https://news.ycombinator.com/item?id=50364336",
-   "score": 1044,
-   "comments": 624,
+   "score": 1161,
+   "comments": 669,
    "author": "pseudolus",
    "time_iso": "2026-11-04T11:52:17+00:00",
    "history": [
@@ -220,6 +268,26 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 1044
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 1161
+    }
+   ]
+  },
+  {
+   "id": "hn-50364860",
+   "title": "So my ISP was hijacking my DNS",
+   "url": "https://www.karthihegde.dev/posts/dns_tampering",
+   "hn_url": "https://news.ycombinator.com/item?id=50364860",
+   "score": 44,
+   "comments": 21,
+   "author": "frostbyte7",
+   "time_iso": "2026-11-04T12:51:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 44
     }
    ]
   },
@@ -284,8 +352,8 @@
    "title": "Ask HN: What's your current AI agentic setup?",
    "url": "https://news.ycombinator.com/item?id=50366117",
    "hn_url": "https://news.ycombinator.com/item?id=50366117",
-   "score": 102,
-   "comments": 114,
+   "score": 281,
+   "comments": 272,
    "author": "eggbrain",
    "time_iso": "2026-11-04T14:37:22+00:00",
    "history": [
@@ -300,6 +368,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 281
     }
    ]
   },
@@ -308,8 +380,8 @@
    "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
    "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
    "hn_url": "https://news.ycombinator.com/item?id=50366522",
-   "score": 248,
-   "comments": 181,
+   "score": 288,
+   "comments": 213,
    "author": "zenincognito",
    "time_iso": "2026-11-04T15:01:44+00:00",
    "history": [
@@ -328,6 +400,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 248
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 288
     }
    ]
   },
@@ -352,8 +428,8 @@
    "title": "A wave of plastic-free coffee pods and machines",
    "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
    "hn_url": "https://news.ycombinator.com/item?id=50366853",
-   "score": 39,
-   "comments": 62,
+   "score": 78,
+   "comments": 93,
    "author": "thunderbong",
    "time_iso": "2026-11-04T15:20:49+00:00",
    "history": [
@@ -368,6 +444,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 39
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 78
     }
    ]
   },
@@ -392,8 +472,8 @@
    "title": "OpenAI to acquire Pierre Computer Company",
    "url": "https://openai.com/index/openai-to-acquire-pierre/",
    "hn_url": "https://news.ycombinator.com/item?id=50366863",
-   "score": 171,
-   "comments": 55,
+   "score": 229,
+   "comments": 69,
    "author": "itunpredictable",
    "time_iso": "2026-11-04T15:21:21+00:00",
    "history": [
@@ -408,6 +488,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 171
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 229
     }
    ]
   },
@@ -448,8 +532,8 @@
    "title": "Kimi K3.1 Pro model weights are out",
    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
    "hn_url": "https://news.ycombinator.com/item?id=50366999",
-   "score": 354,
-   "comments": 95,
+   "score": 489,
+   "comments": 141,
    "author": "abrarthought",
    "time_iso": "2026-11-04T15:30:30+00:00",
    "history": [
@@ -468,6 +552,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 354
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 489
     }
    ]
   },
@@ -524,8 +612,8 @@
    "title": "Progress on provable inference for large language models",
    "url": "https://www.anthropic.com/research/provable-inference",
    "hn_url": "https://news.ycombinator.com/item?id=50368626",
-   "score": 173,
-   "comments": 83,
+   "score": 209,
+   "comments": 97,
    "author": "ltononro",
    "time_iso": "2026-11-04T17:17:46+00:00",
    "history": [
@@ -544,6 +632,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 173
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 209
     }
    ]
   },
@@ -552,8 +644,8 @@
    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
    "url": "https://news.ycombinator.com/item?id=50368804",
    "hn_url": "https://news.ycombinator.com/item?id=50368804",
-   "score": 69,
-   "comments": 26,
+   "score": 86,
+   "comments": 33,
    "author": "lukeigel",
    "time_iso": "2026-11-04T17:31:53+00:00",
    "history": [
@@ -572,6 +664,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 86
     }
    ]
   },
@@ -580,8 +676,8 @@
    "title": "A new Go API for JSON",
    "url": "https://go.dev/blog/jsonv2",
    "hn_url": "https://news.ycombinator.com/item?id=50369106",
-   "score": 214,
-   "comments": 93,
+   "score": 291,
+   "comments": 132,
    "author": "olexsmir",
    "time_iso": "2026-11-04T17:52:11+00:00",
    "history": [
@@ -600,6 +696,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 214
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 291
     }
    ]
   },
@@ -640,8 +740,8 @@
    "title": "Conductor is joining Meta",
    "url": "https://www.conductor.build/announcement",
    "hn_url": "https://news.ycombinator.com/item?id=50369503",
-   "score": 98,
-   "comments": 134,
+   "score": 163,
+   "comments": 177,
    "author": "kenrose",
    "time_iso": "2026-11-04T18:22:40+00:00",
    "history": [
@@ -656,6 +756,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 98
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 163
     }
    ]
   },
@@ -664,8 +768,8 @@
    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
    "url": "https://fireflyk64.github.io/wcmulti/",
    "hn_url": "https://news.ycombinator.com/item?id=50369895",
-   "score": 101,
-   "comments": 11,
+   "score": 161,
+   "comments": 21,
    "author": "daniel_rh",
    "time_iso": "2026-11-04T18:51:27+00:00",
    "history": [
@@ -680,6 +784,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 101
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 161
     }
    ]
   },
@@ -688,8 +796,8 @@
    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
    "url": "https://www.ricursive.com/ripple",
    "hn_url": "https://news.ycombinator.com/item?id=50369925",
-   "score": 210,
-   "comments": 75,
+   "score": 278,
+   "comments": 99,
    "author": "Philpax",
    "time_iso": "2026-11-04T18:53:29+00:00",
    "history": [
@@ -704,6 +812,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 210
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 278
     }
    ]
   },
@@ -712,8 +824,8 @@
    "title": "Insects don't swarm at LED lights",
    "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
    "hn_url": "https://news.ycombinator.com/item?id=50370610",
-   "score": 156,
-   "comments": 92,
+   "score": 229,
+   "comments": 124,
    "author": "speckx",
    "time_iso": "2026-11-04T19:50:23+00:00",
    "history": [
@@ -728,6 +840,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 156
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 229
     }
    ]
   },
@@ -736,8 +852,8 @@
    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
    "hn_url": "https://news.ycombinator.com/item?id=50370654",
-   "score": 94,
-   "comments": 41,
+   "score": 138,
+   "comments": 54,
    "author": "peter_d_sherman",
    "time_iso": "2026-11-04T19:55:14+00:00",
    "history": [
@@ -752,6 +868,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 94
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 138
     }
    ]
   },
@@ -784,8 +904,8 @@
    "title": "Residential proxies detected on White House network",
    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
    "hn_url": "https://news.ycombinator.com/item?id=50371246",
-   "score": 586,
-   "comments": 183,
+   "score": 944,
+   "comments": 283,
    "author": "Rasbora",
    "time_iso": "2026-11-04T20:45:18+00:00",
    "history": [
@@ -800,6 +920,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 586
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 944
     }
    ]
   },
@@ -828,8 +952,8 @@
    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
    "url": "https://icode4.coffee/?p=1746",
    "hn_url": "https://news.ycombinator.com/item?id=50372164",
-   "score": 49,
-   "comments": 2,
+   "score": 103,
+   "comments": 6,
    "author": "muricula",
    "time_iso": "2026-11-04T22:01:49+00:00",
    "history": [
@@ -844,6 +968,10 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 103
     }
    ]
   },
@@ -881,11 +1009,11 @@
   },
   {
    "id": "hn-50372929",
-   "title": "Local privilege escalation vulnerabilities in Linux",
+   "title": "A thousand fewer paths to root",
    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
    "hn_url": "https://news.ycombinator.com/item?id=50372929",
-   "score": 54,
-   "comments": 39,
+   "score": 285,
+   "comments": 179,
    "author": "dangelosaurus",
    "time_iso": "2026-11-04T23:33:14+00:00",
    "history": [
@@ -900,16 +1028,20 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 54
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 285
     }
    ]
   },
   {
    "id": "hn-50372945",
-   "title": "Introducing Images 2.6",
+   "title": "Images 2.6",
    "url": "https://openai.com/index/introducing-images-2-6/",
    "hn_url": "https://news.ycombinator.com/item?id=50372945",
-   "score": 59,
-   "comments": 37,
+   "score": 244,
+   "comments": 158,
    "author": "davidbarker",
    "time_iso": "2026-11-04T23:35:44+00:00",
    "history": [
@@ -924,22 +1056,62 @@
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 59
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 244
     }
    ]
   },
   {
    "id": "hn-50373308",
-   "title": "SpaceX – Starfall",
+   "title": "Starfall – Affordable, routine access to microgravity",
    "url": "https://www.spacex.com/starfall",
    "hn_url": "https://news.ycombinator.com/item?id=50373308",
-   "score": 3,
-   "comments": 0,
+   "score": 201,
+   "comments": 130,
    "author": "gmays",
    "time_iso": "2026-11-05T00:18:18+00:00",
    "history": [
     {
      "t": "2026-11-05T08:59:47.190840+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 201
+    }
+   ]
+  },
+  {
+   "id": "hn-50375354",
+   "title": "Lemmings CSS Animation",
+   "url": "https://markblah.github.io/lemmings/",
+   "hn_url": "https://news.ycombinator.com/item?id=50375354",
+   "score": 90,
+   "comments": 15,
+   "author": "MarkBlah",
+   "time_iso": "2026-11-05T04:54:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "id": "hn-50375653",
+   "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+   "url": "https://www.altera.com/newsroom/agilex-2x",
+   "hn_url": "https://news.ycombinator.com/item?id=50375653",
+   "score": 16,
+   "comments": 3,
+   "author": "gmays",
+   "time_iso": "2026-11-05T05:47:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-05T15:42:13.062439+08:00",
+     "score": 16
     }
    ]
   }
