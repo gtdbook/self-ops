@@ -116,6 +116,21 @@ def check_evolve():
     return True, f"进化账本正常（{len(ledger.get('entries', []))} 条决策，{len(prefs.get('tokens', {}))} 个关键词）"
 
 
+def check_sediment():
+    """沉淀环：种子新鲜度（>3 周未刷新视为断链）+ 沉淀库状态。"""
+    seed = load_json(DATA_DIR / "sediment" / "seed.json", {}) or {}
+    if not seed.get("fetched_at"):
+        return True, "沉淀种子未导入（环节待首跑）"
+    fetched = (seed.get("fetched_at") or "")[:10]
+    stale = (parse_day(now_tz().strftime("%Y-%m-%d")) - parse_day(fetched)).days
+    if stale > 21:
+        return False, f"沉淀园种子 {stale} 天未刷新（来源可能失效）"
+    idx = load_json(DATA_DIR / "sediment" / "index.json", {}) or {}
+    n = len(idx.get("entries") or {})
+    pending = len(idx.get("pending") or [])
+    return True, f"沉淀库 {n} 条（新芽 {pending}）· 种子 {seed.get('articles', 0)} 篇（{stale} 天前）"
+
+
 def self_heal(token, repo, pipeline_age_h, evolve_ok):
     """漏跑自愈：补触发停摆的 workflow。返回自愈说明行列表。"""
     notes = []
@@ -159,6 +174,7 @@ def main():
         "部署": check_pages(repo),
         "周报环": check_weekly(),
         "进化环": check_evolve(),
+        "沉淀环": check_sediment(),
     }
     heal_notes = self_heal(token, repo, age_h, checks["进化环"][0]) if not dry_run else []
 

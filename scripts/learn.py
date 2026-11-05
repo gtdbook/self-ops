@@ -189,6 +189,9 @@ def main():
         "sources": sources,
         "tokens": tokens,
         "seen_comment_ids": sorted(seen)[-1000:],
+        # 稳定先验层（沉淀园种子）原样保留，不参与衰减
+        "seed_tokens": prefs.get("seed_tokens", {}),
+        "seed_updated_at": prefs.get("seed_updated_at"),
     }
     (DATA_DIR / "prefs.json").write_text(
         json.dumps(prefs, ensure_ascii=False, indent=1), encoding="utf-8"

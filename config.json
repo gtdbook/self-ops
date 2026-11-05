@@ -34,6 +34,15 @@
     "daily_issue_keep_days": 8,
     "weekly_issue_keep_days": 35
   },
+  "sediment": {
+    "seed_url": "https://sediment-garden.pages.dev/static/contentIndex.json",
+    "lookback_weeks": 6,
+    "min_weeks": 2,
+    "max_new_entries": 12,
+    "obs_per_week": 3,
+    "min_cooccurrence": 2,
+    "max_seed_tokens": 40
+  },
   "sources": {
     "hackernews": {
       "enabled": true,

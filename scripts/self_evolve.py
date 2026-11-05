@@ -296,6 +296,9 @@ def main():
         "sources": prefs.get("sources", {}),
         "tokens": tokens,
         "seen_comment_ids": prefs.get("seen_comment_ids", []),
+        # 稳定先验层（沉淀园种子）原样保留，不参与衰减
+        "seed_tokens": prefs.get("seed_tokens", {}),
+        "seed_updated_at": prefs.get("seed_updated_at"),
     }
 
     changed = bool(src_decisions or promoted)

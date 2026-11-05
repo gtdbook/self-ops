@@ -281,6 +281,8 @@ def main():
     prefs = load_prefs()
     src_pref = prefs.get("sources", {})
     tokens = prefs.get("tokens", {})
+    # 稳定先验层：沉淀园种子兴趣词（不衰减），与动态学习词叠加生效
+    seed_tokens = prefs.get("seed_tokens", {})
 
     sections = {}
     resonance = build_resonance(raw_items, evolve)
@@ -315,10 +317,13 @@ def main():
         key=lambda k: -src_pref.get(k, 1.0) * fit_factor(k),
     ):
         items = list(raw_items[key])
-        if key in ("hackernews", "github_search") and tokens:
+        if key in ("hackernews", "github_search") and (tokens or seed_tokens):
             def boosted(it, _key=key):
                 base = _score_value(_key, it)
-                bonus = sum(tokens.get(t, 0) for t in set(tokenize_title(it.get("title", ""))))
+                toks = set(tokenize_title(it.get("title", "")))
+                bonus = sum(tokens.get(t, 0) for t in toks) + sum(
+                    seed_tokens.get(t, 0) for t in toks
+                )
                 return base + boost_factor * max(min(bonus, 5), -3)
 
             items.sort(key=boosted, reverse=True)
@@ -355,7 +360,11 @@ def main():
     print(
         f"日报 {day}：{len(sections)} 个板块，"
         f"共 {sum(len(s['items']) for s in sections.values())} 条"
-        + (f"（口味权重生效：{len(tokens)} 个 token）" if tokens else "")
+        + (
+            f"（口味权重生效：{len(tokens)} 个动态 token + {len(seed_tokens)} 个种子 token）"
+            if (tokens or seed_tokens)
+            else ""
+        )
     )
     print(f"索引：{len(index['days'])} 天；清理过期数据 {removed} 项")
 

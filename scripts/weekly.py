@@ -389,22 +389,8 @@ def render_report(title, report, monthly=False):
 
 def publish_issue(token, repo, week_key, report):
     title = f"🗓 每周洞察 · {week_key}"
-    for issue in gh_api(
-        f"/repos/{repo}/issues?state=all&labels={WEEKLY_LABEL}&per_page=30", token=token
-    ) or []:
-        if issue["title"] == title:
-            print(f"[skip] {title} 已发布 (#{issue['number']})")
-            return None
-    if gh_api(f"/repos/{repo}/labels/{WEEKLY_LABEL}", token=token) is None:
-        gh_api(
-            f"/repos/{repo}/labels",
-            token=token,
-            method="POST",
-            payload={"name": WEEKLY_LABEL, "color": "8250df", "description": "每周洞察周报"},
-        )
-
     body = render_report(title, report)
-    body += f"\n---\n\n🌐 [在线周报页]({SITE_URL}weekly.html) · [进化面板]({SITE_URL}evolution.html)\n"
+    body += f"\n---\n\n🌐 [在线周报页]({SITE_URL}weekly.html) · [进化面板]({SITE_URL}evolution.html) · [沉淀库]({SITE_URL}sediment.html)\n"
     # 给 Top 条目附带投票映射（口味学习同样处理周报投票）
     votemap = {
         str(i): {"source": it.get("origin_source", ""), "title": it["title"]}
@@ -416,6 +402,26 @@ def publish_issue(token, repo, week_key, report):
             "<!--votemap\n"
             + json.dumps(votemap, ensure_ascii=False).replace("--", "—")
             + "\n-->"
+        )
+    # 幂等但可更新：同周重跑（如周中手动触发后周一补全）时更新正文而非跳过
+    for issue in gh_api(
+        f"/repos/{repo}/issues?state=all&labels={WEEKLY_LABEL}&per_page=30", token=token
+    ) or []:
+        if issue["title"] == title:
+            gh_api(
+                f"/repos/{repo}/issues/{issue['number']}",
+                token=token,
+                method="PATCH",
+                payload={"body": body},
+            )
+            print(f"[ok] {title} 已存在 (#{issue['number']})，正文已更新")
+            return issue["number"]
+    if gh_api(f"/repos/{repo}/labels/{WEEKLY_LABEL}", token=token) is None:
+        gh_api(
+            f"/repos/{repo}/labels",
+            token=token,
+            method="POST",
+            payload={"name": WEEKLY_LABEL, "color": "8250df", "description": "每周洞察周报"},
         )
     created = gh_api(
         f"/repos/{repo}/issues",

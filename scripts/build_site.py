@@ -78,9 +78,10 @@ PAGE = """<!DOCTYPE html>
 <div class="wrap">
 <header>
   <h1>📡 self-ops 情报站</h1>
-  <div class="sub">自动抓取 · 自动处理 · 自动部署 · 自我进化 ——
+  <div class="sub">自动抓取 · 自动处理 · 自动部署 · 自我进化 · 自我沉淀 ——
   <a href="evolution.html">🧬 进化面板</a> ·
   <a href="weekly.html">🗓 每周洞察</a> ·
+  <a href="sediment.html">🌿 沉淀库</a> ·
   <a href="feed.xml">RSS 订阅</a></div>
 </header>
 {body}
@@ -379,6 +380,102 @@ def render_weekly_section(rep, full=True):
     return "".join(parts)
 
 
+# ---------------------------------------------------------------- 沉淀库
+
+
+STATUS_CLASS = {"常青": "ok", "活跃": "warn", "休眠": ""}
+_sediment_links = {}
+
+
+def render_sediment_entry(token, e):
+    cls = STATUS_CLASS.get(e.get("status", ""), "")
+    obs_html = []
+    for o in (e.get("observations") or [])[-3:]:
+        obs_html.append(
+            f'<div class="samples">· <a href="{esc(o.get("url", ""))}" target="_blank" rel="noopener">'
+            f'{esc(o.get("title", ""))[:64]}</a>（{esc(o.get("source", ""))} · {esc(o.get("date", ""))}）</div>'
+        )
+    related = "、".join(
+        f'<a href="sediment.html#{esc(t)}">{esc(t)}</a>'
+        for t in sorted(_sediment_links.get(token, {}), key=lambda x: -_sediment_links[token][x])[:4]
+    ) or "（暂无——不为孤立页强行连线）"
+    md_url = f"https://github.com/gtdbook/self-ops/blob/main/data/sediment/{token}.md"
+    return (
+        f'<div class="item" id="{esc(token)}"><div class="body">'
+        f'<a class="title" href="{md_url}" target="_blank" rel="noopener">{esc(token)}</a> '
+        f'<span class="{cls}">{esc(e.get("status", ""))}</span>'
+        f'<div class="meta">{esc(e.get("bed", ""))} · 追踪 {e.get("weeks", 0)} 周 · '
+        f'累计 {e.get("hits", 0)} 次 · {esc(e.get("first_week", ""))} → {esc(e.get("last_week", ""))}</div>'
+        + "".join(obs_html)
+        + f'<div class="samples">双链：{related}</div>'
+        f"</div></div>"
+    )
+
+
+def render_sediment_section(title, tokens, entries):
+    if not tokens:
+        return ""
+    items = "".join(render_sediment_entry(t, entries[t]) for t in tokens if t in entries)
+    return f'<section><h2>{esc(title)}</h2>{items}</section>' if items else ""
+
+
+def build_sediment_page():
+    global _sediment_links
+    idx = load_json(DATA_DIR / "sediment" / "index.json", {}) or {}
+    seed = load_json(DATA_DIR / "sediment" / "seed.json", {}) or {}
+    entries = idx.get("entries") or {}
+    _sediment_links = idx.get("links") or {}
+
+    n_links = sum(len(v) for v in _sediment_links.values()) // 2
+    chips = (
+        f'<div class="chips">'
+        f'<span class="chip">沉淀 {len(entries)} 条</span>'
+        f'<span class="chip">园圃 {len(idx.get("beds") or {})}</span>'
+        f'<span class="chip">新芽 {len(idx.get("pending") or [])}</span>'
+        f'<span class="chip">双链 {n_links}</span>'
+        f'<span class="chip">兴趣词 {len(seed.get("seed_tokens") or {})}</span>'
+        f"</div>"
+    )
+    intro = (
+        '<section><h2>🌿 沉淀库</h2>'
+        "<p>流动的情报按「跨 ≥2 周反复出现」沉淀为永久知识条目：观察记录只进不改、矛盾并存，"
+        "每条带原文出处；双链只连真实共同出现的主题。方法论与园圃分类法源自 "
+        f'<a href="https://sediment-garden.pages.dev/" target="_blank" rel="noopener">沉淀园 · Sediment Garden</a>'
+        f"（本库种子：{seed.get('articles', 0)} 篇 · 摄于 {esc((seed.get('fetched_at') or '')[:10])}）。</p></section>"
+    )
+
+    parts = [chips, intro]
+    beds = idx.get("beds") or {}
+    for bed, toks in sorted(beds.items(), key=lambda x: -len(x[1])):
+        sec = render_sediment_section(f"🪴 {bed}", toks, entries)
+        if sec:
+            parts.append(sec)
+    pending = (idx.get("pending") or [])
+    if pending:
+        chips_pending = "".join(
+            f'<span class="chip">{esc(p["token"])}（{p["weight"]}）</span>' for p in pending[:20]
+        )
+        parts.append(
+            f'<section><h2>🌱 新芽圃（出现 1 周，未达沉淀判据，不硬造条目）</h2>'
+            f'<div class="chips">{chips_pending}</div></section>'
+        )
+    seed_tokens = sorted((seed.get("seed_tokens") or {}).items(), key=lambda x: -x[1])[:20]
+    if seed_tokens:
+        chips_seed = "".join(f'<span class="chip">{esc(t)} {v:+.1f}</span>' for t, v in seed_tokens)
+        parts.append(
+            f'<section><h2>🧭 来自沉淀园的兴趣先验（稳定权重，不衰减）</h2>'
+            f'<div class="chips">{chips_seed}</div></section>'
+        )
+
+    page = PAGE.format(
+        title="沉淀库 · self-ops 情报站",
+        css=CSS,
+        body='<p><a class="back" href="index.html">← 返回首页</a></p>' + "".join(parts),
+        updated=esc(now_tz().strftime("%Y-%m-%d %H:%M")),
+    )
+    atomic_write_text(SITE_DIR / "sediment.html", page)
+
+
 def build_weekly_page():
     weekly_dir = DATA_DIR / "weekly"
     files = sorted(weekly_dir.glob("*.json"), reverse=True) if weekly_dir.exists() else []
@@ -428,10 +525,13 @@ def build():
     ledger = load_json(DATA_DIR / "meta" / "evolution.json", {}) or {}
     garden = load_json(DATA_DIR / "garden.json", {}) or {}
     weekly_glob = list((DATA_DIR / "weekly").glob("*.json")) if (DATA_DIR / "weekly").exists() else []
+    sediment_idx = load_json(DATA_DIR / "sediment" / "index.json", {}) or {}
+    n_sediment = len(sediment_idx.get("entries") or {})
     panel_nav = (
         '<section><h2>🧭 体系面板</h2><nav class="days">'
         '<a href="evolution.html">🧬 进化面板</a>'
         '<a href="weekly.html">🗓 每周洞察</a>'
+        '<a href="sediment.html">🌿 沉淀库</a>'
         '<a href="feed.xml">📡 RSS 订阅</a>'
         "</nav></section>"
     )
@@ -446,6 +546,7 @@ def build():
         f'<span class="chip">进化决策 {len(ledger.get("entries") or [])} 条</span>'
         f'<span class="chip">追踪主题 {len(garden.get("themes") or {})}</span>'
         f'<span class="chip">周报 {len(weekly_glob)} 期</span>'
+        f'<span class="chip">沉淀 {n_sediment} 条</span>'
         f"</div>"
     )
     archive = '<nav class="days">' + "".join(
@@ -490,8 +591,9 @@ def build():
 
     build_evolution_page()
     build_weekly_page()
+    build_sediment_page()
     print(
-        f"站点构建完成：{len(days)} 天日报 + feed.xml + 进化面板 + 周报页，输出到 _site/"
+        f"站点构建完成：{len(days)} 天日报 + feed.xml + 进化面板 + 周报页 + 沉淀库，输出到 _site/"
     )
 
 
