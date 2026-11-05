@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-05T02:27:25.521425+08:00",
- "count": 20,
+ "updated_at": "2026-11-05T08:09:00.907686+08:00",
+ "count": 28,
  "items": [
   {
    "id": "gh-1437774066",
@@ -124,10 +124,40 @@
    ]
   },
   {
+   "id": "gh-1439244319",
+   "title": "ramenvr/autopilot",
+   "url": "https://github.com/ramenvr/autopilot",
+   "stars": 713,
+   "language": "Python",
+   "description": "Play any game",
+   "created_at": "2026-10-30T03:47:28Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 713
+    }
+   ]
+  },
+  {
+   "id": "gh-1439308037",
+   "title": "alchaincyf/huashu-bird-sticker",
+   "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+   "stars": 646,
+   "language": "",
+   "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+   "created_at": "2026-10-30T05:19:33Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 646
+    }
+   ]
+  },
+  {
    "id": "gh-1439372976",
    "title": "patch-gg/pixelfx",
    "url": "https://github.com/patch-gg/pixelfx",
-   "stars": 4622,
+   "stars": 4707,
    "language": "JavaScript",
    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
    "created_at": "2026-10-30T06:43:25Z",
@@ -135,6 +165,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 4622
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 4707
     }
    ]
   },
@@ -142,7 +176,7 @@
    "id": "gh-1439430391",
    "title": "kevinraymond/florilegium",
    "url": "https://github.com/kevinraymond/florilegium",
-   "stars": 1424,
+   "stars": 1426,
    "language": "TeX",
    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
    "created_at": "2026-10-30T07:49:05Z",
@@ -150,6 +184,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1424
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1426
     }
    ]
   },
@@ -157,7 +195,7 @@
    "id": "gh-1439522537",
    "title": "elvarofficial/teardown",
    "url": "https://github.com/elvarofficial/teardown",
-   "stars": 1869,
+   "stars": 1907,
    "language": "JavaScript",
    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
    "created_at": "2026-10-30T09:29:01Z",
@@ -165,6 +203,40 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1869
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1907
+    }
+   ]
+  },
+  {
+   "id": "gh-1439885901",
+   "title": "N1nEmAn/sapper-v2",
+   "url": "https://github.com/N1nEmAn/sapper-v2",
+   "stars": 838,
+   "language": "Python",
+   "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, ",
+   "created_at": "2026-10-30T15:12:35Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 838
+    }
+   ]
+  },
+  {
+   "id": "gh-1440151033",
+   "title": "anthropics/FlashProve",
+   "url": "https://github.com/anthropics/FlashProve",
+   "stars": 785,
+   "language": "Lean",
+   "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+   "created_at": "2026-10-30T19:29:59Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 785
     }
    ]
   },
@@ -172,7 +244,7 @@
    "id": "gh-1440160468",
    "title": "Arjun-Ingole/hop",
    "url": "https://github.com/Arjun-Ingole/hop",
-   "stars": 1503,
+   "stars": 1506,
    "language": "PowerShell",
    "description": "Install Linux next to Windows without a USB stick",
    "created_at": "2026-10-30T19:40:45Z",
@@ -180,6 +252,25 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1503
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1506
+    }
+   ]
+  },
+  {
+   "id": "gh-1440406663",
+   "title": "joeblau/subvox",
+   "url": "https://github.com/joeblau/subvox",
+   "stars": 728,
+   "language": "Swift",
+   "description": "",
+   "created_at": "2026-10-31T01:48:19Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 728
     }
    ]
   },
@@ -187,7 +278,7 @@
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 18443,
+   "stars": 18545,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -195,6 +286,25 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 18443
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 18545
+    }
+   ]
+  },
+  {
+   "id": "gh-1440927503",
+   "title": "zortos293/Lichii",
+   "url": "https://github.com/zortos293/Lichii",
+   "stars": 773,
+   "language": "C++",
+   "description": "VERY experimental Nintendo Switch 2 emulator",
+   "created_at": "2026-10-31T14:17:26Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 773
     }
    ]
   },
@@ -202,7 +312,7 @@
    "id": "gh-1440956372",
    "title": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "stars": 10914,
+   "stars": 11653,
    "language": "Rust",
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "created_at": "2026-10-31T14:50:00Z",
@@ -210,6 +320,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 10914
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 11653
     }
    ]
   },
@@ -217,7 +331,7 @@
    "id": "gh-1441272552",
    "title": "Verlintas/NOIR",
    "url": "https://github.com/Verlintas/NOIR",
-   "stars": 1986,
+   "stars": 2019,
    "language": "Kotlin",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "created_at": "2026-10-31T21:34:39Z",
@@ -225,6 +339,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1986
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 2019
     }
    ]
   },
@@ -232,7 +350,7 @@
    "id": "gh-1441517767",
    "title": "caru-ini/stack-diagram",
    "url": "https://github.com/caru-ini/stack-diagram",
-   "stars": 1730,
+   "stars": 1745,
    "language": "TypeScript",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "created_at": "2026-11-01T05:35:12Z",
@@ -240,6 +358,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1730
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1745
     }
    ]
   },
@@ -247,7 +369,7 @@
    "id": "gh-1441521221",
    "title": "wquguru/cicada",
    "url": "https://github.com/wquguru/cicada",
-   "stars": 1063,
+   "stars": 1124,
    "language": "Swift",
    "description": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
    "created_at": "2026-11-01T05:41:23Z",
@@ -255,6 +377,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1063
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1124
     }
    ]
   },
@@ -262,7 +388,7 @@
    "id": "gh-1441526188",
    "title": "mromidev/claude-animated-shorts",
    "url": "https://github.com/mromidev/claude-animated-shorts",
-   "stars": 1464,
+   "stars": 1512,
    "language": "TypeScript",
    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
    "created_at": "2026-11-01T05:50:38Z",
@@ -270,6 +396,40 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1464
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1512
+    }
+   ]
+  },
+  {
+   "id": "gh-1442223451",
+   "title": "UncensoredLabs/uncensored-ai-api",
+   "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+   "stars": 682,
+   "language": "JavaScript",
+   "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+   "created_at": "2026-11-01T20:53:34Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 682
+    }
+   ]
+  },
+  {
+   "id": "gh-1442356805",
+   "title": "AssassinCreator/steam-stash-value-report-card",
+   "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+   "stars": 748,
+   "language": "Python",
+   "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+   "created_at": "2026-11-02T00:40:47Z",
+   "history": [
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 748
     }
    ]
   },
@@ -277,7 +437,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 1315,
+   "stars": 1501,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -285,6 +445,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 1315
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 1501
     }
    ]
   },
@@ -292,7 +456,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 2359,
+   "stars": 2463,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -300,6 +464,10 @@
     {
      "t": "2026-11-05T02:27:25.521425+08:00",
      "score": 2359
+    },
+    {
+     "t": "2026-11-05T08:09:00.907686+08:00",
+     "score": 2463
     }
    ]
   }

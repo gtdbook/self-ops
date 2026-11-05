@@ -1,7 +1,78 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T02:27:28.797816+08:00",
+ "generated_at": "2026-11-05T08:09:02.250166+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "AI is forcing us to pay off 40 years of technical debt",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+     "meta": "+288 分 / 5.7 小时 · 现 ⭐ 1019",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "meta": "+202 分 / 5.7 小时 · 现 ⭐ 206",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+     "meta": "+178 分 / 5.7 小时 · 现 ⭐ 337",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tencent Hy4",
+     "url": "https://hy.tencent.ai/research/hy4",
+     "meta": "+118 分 / 5.7 小时 · 现 ⭐ 170",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+     "meta": "+111 分 / 5.7 小时 · 现 ⭐ 584",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Progress on provable inference for large language models",
+     "url": "https://www.anthropic.com/research/provable-inference",
+     "meta": "+100 分 / 5.7 小时 · 现 ⭐ 167",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+     "meta": "+96 分 / 5.7 小时 · 现 ⭐ 244",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+     "url": "https://news.ycombinator.com/item?id=50368804",
+     "meta": "+51 分 / 5.7 小时 · 现 ⭐ 66",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,7 +208,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 18443 · TypeScript",
+     "meta": "⭐ 18545 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +216,7 @@
     {
      "title": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "meta": "⭐ 10914 · Rust",
+     "meta": "⭐ 11653 · Rust",
      "summary": "Craft Anything: understand how any software works, and craft your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +248,7 @@
     {
      "title": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "meta": "⭐ 4622 · JavaScript",
+     "meta": "⭐ 4707 · JavaScript",
      "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,7 +272,7 @@
     {
      "title": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 2359 · TypeScript",
+     "meta": "⭐ 2463 · TypeScript",
      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +288,7 @@
     {
      "title": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "meta": "⭐ 1986 · Kotlin",
+     "meta": "⭐ 2019 · Kotlin",
      "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +296,7 @@
     {
      "title": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "meta": "⭐ 1869 · JavaScript",
+     "meta": "⭐ 1907 · JavaScript",
      "summary": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +304,7 @@
     {
      "title": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "meta": "⭐ 1730 · TypeScript",
+     "meta": "⭐ 1745 · TypeScript",
      "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "reason": null,
      "origin_source": "github_search"
@@ -247,10 +318,10 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Arjun-Ingole/hop",
-     "url": "https://github.com/Arjun-Ingole/hop",
-     "meta": "⭐ 1503 · PowerShell",
-     "summary": "Install Linux next to Windows without a USB stick",
+     "title": "mromidev/claude-animated-shorts",
+     "url": "https://github.com/mromidev/claude-animated-shorts",
+     "meta": "⭐ 1512 · TypeScript",
+     "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -262,6 +333,14 @@
    "errors": [],
    "items": [
     {
+     "title": "AI is forcing us to pay off 40 years of technical debt",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+     "meta": "⭐ 1019 · 💬 614",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
      "meta": "⭐ 756 · 💬 228",
@@ -270,9 +349,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "AI is forcing us to pay off 40 years of technical debt",
-     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-     "meta": "⭐ 731 · 💬 453",
+     "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+     "meta": "⭐ 584 · 💬 267",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Residential proxies detected on White House network",
+     "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+     "meta": "⭐ 512 · 💬 151",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -281,14 +368,6 @@
      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
      "url": "https://news.ycombinator.com/item?id=50363461",
      "meta": "⭐ 487 · 💬 127",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-     "meta": "⭐ 473 · 💬 205",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -310,9 +389,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+     "meta": "⭐ 337 · 💬 88",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Kitty 0.50",
      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
      "meta": "⭐ 313 · 💬 200",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+     "meta": "⭐ 244 · 💬 176",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -334,49 +429,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "meta": "⭐ 206 · 💬 88",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+     "url": "https://www.ricursive.com/ripple",
+     "meta": "⭐ 201 · 💬 68",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Verification Is Not Knowledge: Science needs more than answers",
      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
      "meta": "⭐ 183 · 💬 104",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Kimi K3.1 Pro model weights are out",
-     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "meta": "⭐ 159 · 💬 33",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-     "meta": "⭐ 148 · 💬 83",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Debian apt security update (man-in-the-middle)",
-     "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
-     "meta": "⭐ 92 · 💬 20",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Progress on provable inference for large language models",
-     "url": "https://www.anthropic.com/research/provable-inference",
-     "meta": "⭐ 67 · 💬 23",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Evergreen: A Provably Safe Systems Language",
-     "url": "https://evergreenlang.net",
-     "meta": "⭐ 64 · 💬 49",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,10 +484,26 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Calendarly",
+     "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
+     "meta": "Product Hunt · 2026-11-02",
+     "summary": "Your calendar and tasks, right on your iPhone Lock Screen",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Rungle",
      "url": "https://www.producthunt.com/products/rungle",
      "meta": "Product Hunt · 2026-11-04",
      "summary": "Turn your running photos and clips into share-ready Reels",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Widgeteer",
+     "url": "https://www.producthunt.com/products/widgeteer",
+     "meta": "Product Hunt · 2026-10-30",
+     "summary": "Describe a widget, get a working one on your site",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -469,6 +556,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "VinSage",
+     "url": "https://www.producthunt.com/products/vinsage",
+     "meta": "Product Hunt · 2026-11-01",
+     "summary": "Free used-car check in Chrome's side panel, US & CA",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Testifly",
      "url": "https://www.producthunt.com/products/testifly-launch",
      "meta": "Product Hunt · 2026-10-28",
@@ -481,30 +576,6 @@
      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
      "meta": "Product Hunt · 2026-10-28",
      "summary": "Real or not? Check files before your AI trusts them.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "OpenMail",
-     "url": "https://www.producthunt.com/products/openmail",
-     "meta": "Product Hunt · 2026-10-20",
-     "summary": "Give your AI agents an identity through email",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Fedora Linux 45",
-     "url": "https://www.producthunt.com/products/fedora-linux-45",
-     "meta": "Product Hunt · 2026-11-04",
-     "summary": "GNOME 51: Wayland fixes, oo7 keys, and modern toolchains.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Cedric AI for Meetings",
-     "url": "https://www.producthunt.com/products/cedric",
-     "meta": "Product Hunt · 2026-10-27",
-     "summary": "The first AI agent to present your slides and attend for you",
      "reason": null,
      "origin_source": "producthunt"
     }
