@@ -1,0 +1,222 @@
+{
+ "themes": {
+  "code": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 21,
+   "samples": [
+    {
+     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+     "title": "The federated code forge",
+     "url": "https://tangled.org/blog/forge/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "gpt": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 16,
+   "samples": [
+    {
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    },
+    {
+     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+     "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "gemini": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 15,
+   "samples": [
+    {
+     "title": "Gemini 4 Carbon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "carbon": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 15,
+   "samples": [
+    {
+     "title": "Gemini 4 Carbon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "model": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 14,
+   "samples": [
+    {
+     "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+     "url": "https://github.com/SheepSeb/tinyworldformer"
+    },
+    {
+     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "scale": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+     "url": "https://www.circuithub.com/post/unveiling-the-grid"
+    },
+    {
+     "title": "Mac at Any Scale",
+     "url": "https://namespace.so/blog/mac-at-any-scale"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "openai": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "OpenAI's agents talked to each other through the CPU Cache",
+     "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+    },
+    {
+     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+     "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "our": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "astra": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "Astra can read and write weights to improve Qwen",
+     "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    {
+     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "weights": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "We're releasing the weights of Mistral Large 4",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    },
+    {
+     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+     "url": "https://github.com/dbreunig/nesformer"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "open": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 12,
+   "samples": [
+    {
+     "title": "Breaking the open web won't stop the bad bots",
+     "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/"
+    },
+    {
+     "title": "Stringman, an $800 open-source room scale gripper robot",
+     "url": "https://neufangled.com/"
+    }
+   ],
+   "last_week": "2026-W45"
+  },
+  "research": {
+   "first_week": "2026-W45",
+   "weeks": [
+    "2026-W45"
+   ],
+   "hits": 12,
+   "samples": [
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak"
+    },
+    {
+     "title": "DenisSergeevitch/ex-ussr-kinship-research",
+     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+    }
+   ],
+   "last_week": "2026-W45"
+  }
+ },
+ "updated_at": "2026-11-05T08:54:55.344153+08:00",
+ "week": "2026-W45"
+}

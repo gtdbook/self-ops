@@ -1,0 +1,291 @@
+{
+ "month": "2026-10",
+ "days": [
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09",
+  "2026-10-10",
+  "2026-10-11",
+  "2026-10-12",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16",
+  "2026-10-17",
+  "2026-10-18",
+  "2026-10-19",
+  "2026-10-20",
+  "2026-10-21",
+  "2026-10-22",
+  "2026-10-23",
+  "2026-10-24",
+  "2026-10-25",
+  "2026-10-26",
+  "2026-10-27",
+  "2026-10-28",
+  "2026-10-29",
+  "2026-10-30",
+  "2026-10-31"
+ ],
+ "generated_at": "2026-11-05T08:54:55.368767+08:00",
+ "themes": [
+  {
+   "token": "model",
+   "weight": 63,
+   "days": 24,
+   "samples": [
+    {
+     "title": "Build your own decision model",
+     "url": "https://nishtahir.com/build-your-own-decision-model/"
+    },
+    {
+     "title": "Krea 3 – An image model built for editing at scale",
+     "url": "https://www.krea.ai/krea-3"
+    }
+   ]
+  },
+  {
+   "token": "openai",
+   "weight": 63,
+   "days": 25,
+   "samples": [
+    {
+     "title": "OpenAI withdraws three mathematical results",
+     "url": "https://twitter.com/danintheory/status/2108065033070789090"
+    },
+    {
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    }
+   ]
+  },
+  {
+   "token": "agents",
+   "weight": 58,
+   "days": 22,
+   "samples": [
+    {
+     "title": "Five months treating bugs like patients and coding agents like a medical team",
+     "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"
+    },
+    {
+     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "url": "https://arxiv.org/abs/2610.18861"
+    }
+   ]
+  },
+  {
+   "token": "code",
+   "weight": 49,
+   "days": 24,
+   "samples": [
+    {
+     "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+     "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+    },
+    {
+     "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+     "url": "https://news.ycombinator.com/item?id=50151036"
+    }
+   ]
+  },
+  {
+   "token": "claude",
+   "weight": 47,
+   "days": 22,
+   "samples": [
+    {
+     "title": "Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5"
+    },
+    {
+     "title": "Claude Duet",
+     "url": "https://claude.com/product/claude-duet"
+    }
+   ]
+  },
+  {
+   "token": "open",
+   "weight": 37,
+   "days": 15,
+   "samples": [
+    {
+     "title": "Muse Spark Open",
+     "url": "https://research.meta.ai/blog/muse-spark-open"
+    },
+    {
+     "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+     "url": "https://typeof.net/Iosevka/"
+    }
+   ]
+  },
+  {
+   "token": "gpt",
+   "weight": 36,
+   "days": 23,
+   "samples": [
+    {
+     "title": "GPT‑6 and Intelligent UI for everyone",
+     "url": "https://openai.com/index/gpt-6-for-everyone/"
+    },
+    {
+     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    }
+   ]
+  },
+  {
+   "token": "google",
+   "weight": 35,
+   "days": 18,
+   "samples": [
+    {
+     "title": "Google is illegaly cutting forest to build data centers",
+     "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
+    },
+    {
+     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+     "url": "https://github.com/google-pytorch/torch_tpu"
+    }
+   ]
+  }
+ ],
+ "top_items": [
+  {
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "url": "https://openai.com/index/pollo-ai",
+   "meta": "本周出现 18 天 · OpenAI · 2026-10-08",
+   "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+   "reason": null,
+   "origin_source": "blog_rss",
+   "_score": 90.0
+  },
+  {
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "meta": "本周出现 17 天 · Hugging Face · 2026-10-03",
+   "summary": "",
+   "reason": null,
+   "origin_source": "blog_rss",
+   "_score": 85.0
+  },
+  {
+   "title": "Run full iOS 16.5 firmware on Android Devices",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "meta": "本周出现 5 天 · +328 分 / 18.2 小时 · 现 ⭐ 460",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "deepseek-ai/DeepInfer",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "meta": "本周出现 4 天 · ⭐ 7541 · Python",
+   "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+   "reason": null,
+   "origin_source": "github_search",
+   "_score": 75.0
+  },
+  {
+   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+   "url": "https://edjefferson.com/localwiki/",
+   "meta": "本周出现 4 天 · +479 分 / 5.5 小时 · 现 ⭐ 557",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 75.0
+  },
+  {
+   "title": "Living off-grid: Hundred Rabbits",
+   "url": "https://100r.ca/site/home.html",
+   "meta": "本周出现 2 天 · +204 分 / 7.5 小时 · 现 ⭐ 210",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 69.0
+  },
+  {
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "meta": "本周出现 2 天 · +180 分 / 9.1 小时 · 现 ⭐ 248",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 69.0
+  },
+  {
+   "title": "Patrick Stewart has died",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "meta": "本周出现 1 天 · +1729 分 / 9.9 小时 · 现 ⭐ 2760",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 68.0
+  },
+  {
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "url": "https://github.com/dbreunig/nesformer",
+   "meta": "本周出现 1 天 · +178 分 / 20.0 小时 · 现 ⭐ 271",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 68.0
+  },
+  {
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "meta": "本周出现 1 天 · +177 分 / 9.4 小时 · 现 ⭐ 297",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 68.0
+  },
+  {
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "meta": "本周出现 13 天 · OpenAI · 2026-10-01",
+   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "reason": null,
+   "origin_source": "blog_rss",
+   "_score": 65.0
+  },
+  {
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "meta": "本周出现 13 天 · OpenAI · 2026-09-25",
+   "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+   "reason": null,
+   "origin_source": "blog_rss",
+   "_score": 65.0
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "meta": "本周出现 13 天 · Google DeepMind · 2026-09-24",
+   "summary": "",
+   "reason": null,
+   "origin_source": "blog_rss",
+   "_score": 65.0
+  },
+  {
+   "title": "openai/math",
+   "url": "https://github.com/openai/math",
+   "meta": "本周出现 7 天 · ⭐ 6519 · Lean",
+   "summary": "",
+   "reason": null,
+   "origin_source": "github_search",
+   "_score": 65.0
+  },
+  {
+   "title": "alchaincyf/huashu-art-motion",
+   "url": "https://github.com/alchaincyf/huashu-art-motion",
+   "meta": "本周出现 7 天 · ⭐ 1125 · JavaScript",
+   "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+   "reason": null,
+   "origin_source": "github_search",
+   "_score": 65.0
+  }
+ ],
+ "total_digest_items": 1752
+}
