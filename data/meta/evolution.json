@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T08:58:15.366171+08:00",
+ "updated_at": "2026-11-05T11:28:43.141972+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -84,6 +84,12 @@
    "kind": "sediment_new",
    "target": "apple",
    "detail": "跨 4 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-05T11:28:43.141972+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "weights(10次→+1.00)、models(6次→+1.00)、qwen(6次→+1.00)、hackertube(6次→+1.00)、patrick(6次→+1.00)、stewart(6次→+1.00)、debt(4次→+1.00)、off(4次→+1.00)"
   }
  ]
 }
