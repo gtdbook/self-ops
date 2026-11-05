@@ -30,6 +30,14 @@ def load_config():
         return json.load(f)
 
 
+def load_json(path, default=None):
+    """容错读取 JSON 文件，失败返回 default。"""
+    try:
+        return json.loads(Path(path).read_text(encoding="utf-8"))
+    except Exception:
+        return default
+
+
 def now_tz(tz_name="Asia/Shanghai"):
     from zoneinfo import ZoneInfo
 
@@ -215,6 +223,7 @@ _STOPWORDS = {
     "best", "top", "all", "get", "gets", "set", "sets", "day", "days", "week",
     "year", "first", "one", "two", "her", "his", "their", "they", "them",
     "was", "were", "has", "have", "had", "than", "then", "when", "who", "what",
+    "show", "just", "one", "two", "things", "way", "use", "used", "make", "made",
 }
 
 

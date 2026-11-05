@@ -1,6 +1,7 @@
 name: heartbeat
 
-# 每日晨间自检：流水线 / 数据 / 部署 三项健康检查 + issue 告警闭环
+# 每日晨间自检 + 自愈看门狗：五项健康检查（流水线/数据/部署/周报/进化）+ issue 告警闭环；
+# 流水线漏跑或进化环停摆时自动 workflow_dispatch 补触发
 on:
   schedule:
     - cron: "30 22 * * *" # UTC 22:30 = 北京时间 06:30
@@ -9,7 +10,7 @@ on:
 permissions:
   issues: write
   contents: read
-  actions: read
+  actions: write # 漏跑自愈：允许补触发 pipeline / evolve
 
 jobs:
   check:

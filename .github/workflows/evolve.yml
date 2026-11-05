@@ -1,7 +1,7 @@
 name: evolve
 
 # 每天早晨（北京 07:10）发布昨日日报 issue（邮件通知 + 口味投票载体），
-# 然后学习所有未处理的投票评论，更新 data/prefs.json 提交回仓库。
+# 然后学习所有未处理的投票评论，再做内生进化：源适应度评估、主题自学、进化账本。
 on:
   schedule:
     - cron: "10 23 * * *" # UTC 23:10 = 北京时间 07:10
@@ -34,3 +34,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/learn.py
+
+      - name: 内生进化（源适应度 + 主题自学 + 进化账本）
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/self_evolve.py

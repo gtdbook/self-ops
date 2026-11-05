@@ -10,7 +10,16 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 sys.path.insert(0, os.path.dirname(__file__))
-from common import DIGEST_DIR, SITE_DIR, SITE_URL, atomic_write_text, load_config, now_tz  # noqa: E402
+from common import (  # noqa: E402
+    DATA_DIR,
+    DIGEST_DIR,
+    SITE_DIR,
+    SITE_URL,
+    atomic_write_text,
+    load_config,
+    load_json,
+    now_tz,
+)
 
 CSS = """
 :root{--bg:#f6f7f9;--card:#ffffff;--text:#1a1d21;--muted:#6b7280;--accent:#0969da;
@@ -43,6 +52,13 @@ text-align:right;font-size:13px;padding-top:3px}
 .item .reason{color:var(--accent);font-size:12.5px;margin-top:3px}
 nav.days a{display:inline-block;margin:0 10px 8px 0;color:var(--accent);
 text-decoration:none;font-size:13.5px}
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:10px}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--border)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.fitbar{color:var(--accent);letter-spacing:1px}
+.samples{color:var(--muted);font-size:12.5px}
+.ledgerts{color:var(--rank);font-size:12.5px;min-width:96px;white-space:nowrap}
+.ok{color:#1a7f37}.warn{color:#9a6700}.bad{color:#d1242f}
 footer{color:var(--muted);font-size:12.5px;text-align:center;margin-top:34px;
 line-height:1.9}
 footer a{color:var(--muted)}
@@ -62,7 +78,10 @@ PAGE = """<!DOCTYPE html>
 <div class="wrap">
 <header>
   <h1>📡 self-ops 情报站</h1>
-  <div class="sub">自动抓取 · 自动处理 · 自动部署 —— 由 GitHub Actions 驱动，每小时更新</div>
+  <div class="sub">自动抓取 · 自动处理 · 自动部署 · 自我进化 ——
+  <a href="evolution.html">🧬 进化面板</a> ·
+  <a href="weekly.html">🗓 每周洞察</a> ·
+  <a href="feed.xml">RSS 订阅</a></div>
 </header>
 {body}
 <footer>
@@ -157,6 +176,236 @@ def build_feed(latest, max_items=80):
     return "\n".join(parts)
 
 
+# ---------------------------------------------------------------- 进化面板
+
+
+FIT_BAR_FULL = 5
+LEDGER_EMOJI = {
+    "source_demote": "📉",
+    "source_disable": "⛔",
+    "source_probe": "🧪",
+    "source_reenable": "✅",
+    "source_heal": "🌱",
+    "token_promote": "🏷️",
+}
+SOURCE_NAMES = {
+    "hackernews": "Hacker News",
+    "github_search": "GitHub 新星",
+    "blog_rss": "博客 RSS",
+    "producthunt": "Product Hunt",
+    "aihot": "AIHOT",
+}
+
+
+def fit_bar(v):
+    n = max(0, min(FIT_BAR_FULL, round(v * FIT_BAR_FULL)))
+    return "▰" * n + "▱" * (FIT_BAR_FULL - n)
+
+
+def render_fitness_section(fitness):
+    sources = fitness.get("sources") or {}
+    rows = []
+    for key, m in sorted(sources.items(), key=lambda x: -x[1].get("fitness", 0)):
+        f = m.get("fitness", 0)
+        if m.get("enabled") is False:
+            status, cls = f'⛔ 禁用 · 探针 {m.get("probe_at", "?")}', "bad"
+        elif m.get("weight_hint", 1.0) < 1.0:
+            status, cls = f'📉 降权 ×{m.get("weight_hint")}', "warn"
+        else:
+            status, cls = "✅ 启用", "ok"
+        rows.append(
+            f'<tr><td>{esc(SOURCE_NAMES.get(key, key))}</td>'
+            f'<td class="num">{f:.2f} <span class="fitbar">{fit_bar(f)}</span></td>'
+            f'<td class="num">{m.get("mean_items", 0)}/天</td>'
+            f'<td class="num">{m.get("days_present", 0)}/{m.get("window_days", 7)} 天</td>'
+            f'<td class="num">{m.get("error_days", 0)}</td>'
+            f'<td class="{cls}">{status}</td></tr>'
+        )
+    body = (
+        '<table><tr><th>数据源</th><th class="num">适应度</th><th class="num">产量</th>'
+        '<th class="num">在场</th><th class="num">报错</th><th>状态</th></tr>'
+        + "".join(rows)
+        + "</table>"
+        if rows
+        else "<p>适应度评估尚未产出（evolve 环首跑后生成）。</p>"
+    )
+    return f'<section><h2>🧬 数据源适应度（7 日窗口 · 自动降权/禁用/探针复活）</h2>{body}</section>'
+
+
+def render_prefs_section(prefs):
+    tokens = sorted((prefs.get("tokens") or {}).items(), key=lambda x: -abs(x[1]))[:15]
+    if not tokens:
+        inner = "<p>偏好库尚空：暂无投票，也没有新高频主题。</p>"
+    else:
+        inner = '<div class="chips">' + "".join(
+            f'<span class="chip">{esc(t)} {v:+.1f}</span>' for t, v in tokens
+        ) + "</div>"
+    return f'<section><h2>🏷️ 自动学到的偏好关键词（每日衰减 + 主题提升 + 投票学习）</h2>{inner}</section>'
+
+
+def render_garden_section(garden):
+    themes = garden.get("themes") or {}
+    if not themes:
+        return '<section><h2>🌸 知识花园</h2><p>花园尚未播种（周报首跑后生长）。</p></section>'
+    rows = []
+    for tok, v in sorted(themes.items(), key=lambda x: -x[1].get("hits", 0))[:24]:
+        weeks = len(v.get("weeks", []))
+        flower = "🌸 " if weeks >= 3 else ""
+        samples = v.get("samples") or []
+        rep = " / ".join(
+            f'<a href="{esc(s.get("url", ""))}" target="_blank" rel="noopener">{esc(s.get("title", ""))[:40]}</a>'
+            for s in samples[:1]
+            if s.get("url")
+        ) or esc((samples[0].get("title", "") if samples else "")[:44])
+        rows.append(
+            f'<div class="item"><div class="body"><a class="title">{flower}{esc(tok)}</a>'
+            f'<div class="meta">追踪 {weeks} 周 · 累计 {v.get("hits", 0)} 次 · 首见 {esc(v.get("first_week", "?"))}</div>'
+            f'<div class="samples">{rep}</div></div></div>'
+        )
+    return (
+        f'<section><h2>🌸 知识花园 · 累计 {len(themes)} 个主题（≥3 周重现即常青）</h2>'
+        + "".join(rows)
+        + "</section>"
+    )
+
+
+def render_ledger_section(ledger):
+    entries = list(reversed(ledger.get("entries") or []))[:60]
+    if not entries:
+        return '<section><h2>🧾 进化日志</h2><p>暂无自动进化决策。</p></section>'
+    rows = []
+    for e in entries:
+        ts = (e.get("ts") or "")[:16].replace("T", " ")
+        emoji = LEDGER_EMOJI.get(e.get("kind"), "⚙")
+        rows.append(
+            f'<div class="item"><div class="ledgerts">{esc(ts)}</div><div class="body">'
+            f'<a class="title">{emoji} {esc(e.get("target", ""))}</a>'
+            f'<div class="summary">{esc(e.get("detail", ""))}</div></div></div>'
+        )
+    total = len(ledger.get("entries") or [])
+    return (
+        f'<section><h2>🧾 进化日志 · 最新 {len(entries)} / 共 {total} 条自动决策</h2>'
+        + "".join(rows)
+        + "</section>"
+    )
+
+
+def build_evolution_page():
+    fitness = load_json(DATA_DIR / "meta" / "fitness.json", {}) or {}
+    prefs = load_json(DATA_DIR / "prefs.json", {}) or {}
+    garden = load_json(DATA_DIR / "garden.json", {}) or {}
+    ledger = load_json(DATA_DIR / "meta" / "evolution.json", {}) or {}
+    body = (
+        render_fitness_section(fitness)
+        + render_prefs_section(prefs)
+        + render_garden_section(garden)
+        + render_ledger_section(ledger)
+    )
+    page = PAGE.format(
+        title="进化面板 · self-ops 情报站",
+        css=CSS,
+        body='<p><a class="back" href="index.html">← 返回首页</a></p>' + body,
+        updated=esc(now_tz().strftime("%Y-%m-%d %H:%M")),
+    )
+    atomic_write_text(SITE_DIR / "evolution.html", page)
+
+
+# ---------------------------------------------------------------- 周报页
+
+
+def render_themes_block(themes):
+    lines = []
+    for th in themes:
+        rep = " / ".join(
+            f'<a href="{esc(s.get("url", ""))}" target="_blank" rel="noopener">{esc(s.get("title", ""))}</a>'
+            if s.get("url")
+            else esc(s.get("title", ""))
+            for s in th.get("samples", [])[:2]
+        )
+        lines.append(
+            f'<div class="item"><div class="body"><a class="title">🌱 {esc(th["token"])}</a>'
+            f'<div class="meta">权重 {th.get("weight", 0)} · 出现 {th.get("days", 0)} 天</div>'
+            + (f'<div class="samples">{rep}</div>' if rep else "")
+            + "</div></div>"
+        )
+    return "".join(lines)
+
+
+def render_stats_table(stats):
+    if not stats:
+        return ""
+    rows = []
+    for key, s in stats.items():
+        arrow = "↑" if s.get("delta", 0) > 0 else ("↓" if s.get("delta", 0) < 0 else "→")
+        rows.append(
+            f'<tr><td>{esc(SOURCE_NAMES.get(key, key))}</td>'
+            f'<td class="num">{s.get("mean", 0)}/天</td>'
+            f'<td class="num">{s.get("prev_mean", 0)}/天</td>'
+            f'<td class="num">{arrow}{abs(s.get("delta", 0))}</td>'
+            f'<td class="num">{s.get("error_days", 0)}</td></tr>'
+        )
+    return (
+        '<table><tr><th>源</th><th class="num">本周日均</th><th class="num">上周日均</th>'
+        '<th class="num">变化</th><th class="num">报错天数</th></tr>'
+        + "".join(rows)
+        + "</table>"
+    )
+
+
+def render_weekly_section(rep, full=True):
+    g = rep.get("garden") or {}
+    chips = (
+        f'<div class="chips">'
+        f'<span class="chip">主题 {len(rep.get("themes") or [])} 个</span>'
+        f'<span class="chip">Top {len(rep.get("top_items") or [])} 条</span>'
+        + (f'<span class="chip">花园 {g.get("total_themes", 0)} 主题（常青 {g.get("evergreen", 0)}）</span>' if g else "")
+        + "</div>"
+    )
+    parts = [chips]
+    if rep.get("themes"):
+        parts.append(render_themes_block(rep["themes"]))
+    if rep.get("top_items"):
+        items = rep["top_items"] if full else rep["top_items"][:3]
+        parts.append("".join(render_item(i, it) for i, it in enumerate(items, 1)))
+    stats_html = render_stats_table(rep.get("stats") or {})
+    if stats_html:
+        parts.append(stats_html)
+    if rep.get("evolution_lines"):
+        parts.append(
+            '<div class="samples">🧬 '
+            + esc("；".join(rep["evolution_lines"][:5]))
+            + "</div>"
+        )
+    return "".join(parts)
+
+
+def build_weekly_page():
+    weekly_dir = DATA_DIR / "weekly"
+    files = sorted(weekly_dir.glob("*.json"), reverse=True) if weekly_dir.exists() else []
+    monthly_dir = DATA_DIR / "monthly"
+    mfiles = sorted(monthly_dir.glob("*.json"), reverse=True) if monthly_dir.exists() else []
+    if not files and not mfiles:
+        body = '<section><h2>🗓 每周洞察</h2><p>周报尚未产出（每周一早晨合成）。</p></section>'
+    else:
+        parts = []
+        for i, f in enumerate(files[:12]):
+            rep = load_json(f, {}) or {}
+            title = f'🗓 每周洞察 · {rep.get("week", f.stem)}'
+            parts.append(f'<section><h2>{esc(title)}</h2>{render_weekly_section(rep, full=(i == 0))}</section>')
+        for f in mfiles[:6]:
+            rep = load_json(f, {}) or {}
+            title = f'🗓 月度回顾 · {rep.get("month", f.stem)}'
+            parts.append(f'<section><h2>{esc(title)}</h2>{render_weekly_section(rep, full=False)}</section>')
+        body = "".join(parts)
+    page = PAGE.format(
+        title="每周洞察 · self-ops 情报站",
+        css=CSS,
+        body='<p><a class="back" href="index.html">← 返回首页</a></p>' + body,
+        updated=esc(now_tz().strftime("%Y-%m-%d %H:%M")),
+    )
+    atomic_write_text(SITE_DIR / "weekly.html", page)
+
+
 def build():
     cfg = load_config()
     max_days = cfg.get("site_max_days", 60)
@@ -176,14 +425,27 @@ def build():
     total_all = sum(
         sum(len(s["items"]) for s in d["sources"].values()) for d in days
     )
+    ledger = load_json(DATA_DIR / "meta" / "evolution.json", {}) or {}
+    garden = load_json(DATA_DIR / "garden.json", {}) or {}
+    weekly_glob = list((DATA_DIR / "weekly").glob("*.json")) if (DATA_DIR / "weekly").exists() else []
+    panel_nav = (
+        '<section><h2>🧭 体系面板</h2><nav class="days">'
+        '<a href="evolution.html">🧬 进化面板</a>'
+        '<a href="weekly.html">🗓 每周洞察</a>'
+        '<a href="feed.xml">📡 RSS 订阅</a>'
+        "</nav></section>"
+    )
 
-    # 首页：统计 + 最新一天全文 + 归档导航
+    # 首页：统计 + 面板导航 + 最新一天全文 + 归档导航
     chips = (
         f'<div class="chips">'
         f'<span class="chip">收录 {len(days)} 天</span>'
         f'<span class="chip">累计 {total_all} 条</span>'
         f'<span class="chip">最新 {esc(days[0]["date"])}</span>'
         f'<span class="chip">数据源 {len(days[0]["sources"])} 个</span>'
+        f'<span class="chip">进化决策 {len(ledger.get("entries") or [])} 条</span>'
+        f'<span class="chip">追踪主题 {len(garden.get("themes") or {})}</span>'
+        f'<span class="chip">周报 {len(weekly_glob)} 期</span>'
         f"</div>"
     )
     archive = '<nav class="days">' + "".join(
@@ -197,7 +459,7 @@ def build():
     index_html = PAGE.format(
         title="self-ops 情报站",
         css=CSS,
-        body=chips + render_digest(days[0]) + archive_section,
+        body=chips + panel_nav + render_digest(days[0]) + archive_section,
         updated=updated,
     )
     atomic_write_text(SITE_DIR / "index.html", index_html)
@@ -225,7 +487,12 @@ def build():
         ),
     )
     atomic_write_text(SITE_DIR / "feed.xml", build_feed(days[0]))
-    print(f"站点构建完成：{len(days)} 天日报 + feed.xml，输出到 _site/")
+
+    build_evolution_page()
+    build_weekly_page()
+    print(
+        f"站点构建完成：{len(days)} 天日报 + feed.xml + 进化面板 + 周报页，输出到 _site/"
+    )
 
 
 if __name__ == "__main__":

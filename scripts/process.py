@@ -20,6 +20,7 @@ from common import (  # noqa: E402
     atomic_write_text,
     format_meta,
     load_config,
+    load_json,
     now_tz,
     parse_day,
     strip_html,
@@ -301,11 +302,17 @@ def main():
         }
         print(f"[i] 飙升榜：{len(rising)} 条")
 
-    # 各源板块：按口味权重排序板块；HN/GitHub 条目按 (原始分 + 关键词加成) 重排
+    # 各源板块：按 (口味权重 × 进化适应度) 排序板块；HN/GitHub 条目按 (原始分 + 关键词加成) 重排
+    fitness = (load_json(DATA_DIR / "meta" / "fitness.json", {}) or {}).get("sources") or {}
+
+    def fit_factor(k):
+        m = fitness.get(k) or {}
+        return 0.5 + 0.5 * min(1.0, m.get("fitness", 1.0))
+
     boost_factor = evolve.get("boost_factor", 40)
     for key in sorted(
         (k for k in raw_items if k in SOURCE_META and k not in ("resonance", "rising")),
-        key=lambda k: -src_pref.get(k, 1.0),
+        key=lambda k: -src_pref.get(k, 1.0) * fit_factor(k),
     ):
         items = list(raw_items[key])
         if key in ("hackernews", "github_search") and tokens:

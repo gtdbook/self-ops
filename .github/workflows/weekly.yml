@@ -1,0 +1,31 @@
+name: weekly
+
+# 每周一早晨（北京 07:40）把过去 7 天日报合成为「每周洞察」：
+# 主题聚类 + Top 条目 + 源产量对比 + 知识花园生长 + 进化回顾，
+# 发布周报 issue，并把过期日报/周报 issue 自动归档关闭。
+on:
+  schedule:
+    - cron: "40 23 * * 0" # UTC 周日 23:40 = 北京时间周一 07:40
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  weekly:
+    name: 周度合成与知识花园
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 合成周报与月度回顾
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/weekly.py

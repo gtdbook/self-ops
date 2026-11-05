@@ -111,8 +111,15 @@ def main():
     delta_tokens = defaultdict(float)
     new_votes = 0
 
-    issues = gh_api(f"/repos/{repo}/issues?state=all&labels=daily&per_page=30", token=token) or []
+    issues = gh_api(f"/repos/{repo}/issues?state=all&per_page=100", token=token) or []
     for issue in issues:
+        if issue.get("pull_request"):
+            continue
+        # 日报与周报的投票都参与口味学习
+        if not any(
+            l.get("name") in ("daily", "weekly") for l in issue.get("labels", [])
+        ):
+            continue
         votemap = extract_votemap(issue.get("body"))
         if not votemap:
             continue

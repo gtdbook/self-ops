@@ -16,11 +16,13 @@ from urllib.parse import quote, urlencode
 
 sys.path.insert(0, os.path.dirname(__file__))
 from common import (  # noqa: E402
+    DATA_DIR,
     RAW_DIR,
     atomic_write_json,
     get_json,
     http_get,
     load_config,
+    load_json,
     md5_key,
     now_tz,
     strip_html,
@@ -304,8 +306,22 @@ def main():
     cfg = load_config()
     day = today_key(cfg)
     enabled = {k: v for k, v in cfg["sources"].items() if v.get("enabled")}
-    ok_count = 0
+
+    # 内生进化联动：适应度已禁用的源跳过抓取（探针日自动重试），失败源不再空转
+    fitness = load_json(DATA_DIR / "meta" / "fitness.json", {}) or {}
+    running, skipped = {}, []
     for key, scfg in enabled.items():
+        st = (fitness.get("sources") or {}).get(key) or {}
+        if st.get("enabled") is False:
+            probe_at = st.get("probe_at") or ""
+            if day < probe_at:
+                skipped.append(key)
+                continue
+            print(f"[probe] {key}: 禁用期满（{probe_at}），今日探针重试")
+        running[key] = scfg
+
+    ok_count = 0
+    for key, scfg in running.items():
         fetcher = FETCHERS.get(key)
         if not fetcher:
             print(f"[warn] {key}: 未注册的抓取器，跳过")
@@ -318,10 +334,13 @@ def main():
         except Exception as e:
             merge_and_save(day, key, [], error=str(e))
             print(f"[warn] {key}: 抓取失败 - {e}")
-    if enabled and ok_count == 0:
+    if running and ok_count == 0:
         print("[fatal] 所有启用源均失败")
         sys.exit(1)
-    print(f"完成：{ok_count}/{len(enabled)} 个源成功，日期 {day}")
+    msg = f"完成：{ok_count}/{len(running)} 个源成功，日期 {day}"
+    if skipped:
+        msg += f"（进化禁用跳过 {len(skipped)} 个源：{'、'.join(skipped)}）"
+    print(msg)
 
 
 if __name__ == "__main__":

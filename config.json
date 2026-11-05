@@ -12,7 +12,27 @@
     "rising_top_n": 10,
     "boost_factor": 40,
     "vote_positive": ["like", "赞", "👍"],
-    "vote_negative": ["dislike", "踩", "👎"]
+    "vote_negative": ["dislike", "踩", "👎"],
+    "token_daily_decay": 0.95,
+    "token_promote_min_freq": 3,
+    "token_promote_boost": 0.5,
+    "token_promote_top": 8,
+    "fitness": {
+      "window_days": 7,
+      "disable_below": 0.25,
+      "disable_streak": 3,
+      "probe_days": 7,
+      "heal_above": 0.6
+    }
+  },
+  "weekly": {
+    "theme_min_weight": 4,
+    "theme_top": 12,
+    "top_items": 10,
+    "monthly_top": 15,
+    "garden_prune_weeks": 8,
+    "daily_issue_keep_days": 8,
+    "weekly_issue_keep_days": 35
   },
   "sources": {
     "hackernews": {
