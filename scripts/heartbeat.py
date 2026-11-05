@@ -28,7 +28,9 @@ from common import (  # noqa: E402
     upsert_alert_issue,
 )
 
-PIPELINE_MAX_QUIET_HOURS = 26
+PIPELINE_MAX_QUIET_HOURS = 26 # 告警阈值：安静超过此值开告警 issue
+PIPELINE_HEAL_HOURS = 6      # 自愈阈值：GitHub hourly cron 实际常跳度（实测每天只随机触发 2-4 次），
+                             # 安静超过此值就 workflow_dispatch 补触发，保证每天至少两次稳定流水线
 EVOLVE_MAX_QUIET_HOURS = 30
 DATA_MAX_STALE_DAYS = 2
 WEEKLY_MAX_STALE_DAYS = 9
@@ -132,9 +134,9 @@ def check_sediment():
 
 
 def self_heal(token, repo, pipeline_age_h, evolve_ok):
-    """漏跑自愈：补触发停摆的 workflow。返回自愈说明行列表。"""
+    """漏跑自愈：补触发停摆的 workflow。返回自愈说明行列表（仅提示，不算异常）。"""
     notes = []
-    if pipeline_age_h > PIPELINE_MAX_QUIET_HOURS:
+    if pipeline_age_h > PIPELINE_HEAL_HOURS:
         try:
             gh_api(
                 f"/repos/{repo}/actions/workflows/pipeline.yml/dispatches",
@@ -142,7 +144,9 @@ def self_heal(token, repo, pipeline_age_h, evolve_ok):
                 method="POST",
                 payload={"ref": "main"},
             )
-            notes.append(f"🛠 已自动补触发 pipeline（距上次成功 {pipeline_age_h:.0f}h）")
+            notes.append(
+                f"🛠 自愈：距上次成功流水线 {pipeline_age_h:.0f}h（> {PIPELINE_HEAL_HOURS}h），已补触发 pipeline"
+            )
         except Exception as e:
             notes.append(f"🛠 补触发 pipeline 失败：{e}")
     if not evolve_ok:
@@ -187,8 +191,7 @@ def main():
             bad.append(f"{name}: {detail}")
     for note in heal_notes:
         lines.append(f"- {note}")
-    if heal_notes:
-        bad.append("已触发自愈补跑（见上）")
+    # 自愈是常态补救（GitHub cron 跳度频繁），不算异常、不触发告警 issue
 
     if dry_run:
         print("\n".join(lines))

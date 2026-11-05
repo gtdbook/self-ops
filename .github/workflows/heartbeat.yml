@@ -4,7 +4,8 @@ name: heartbeat
 # 流水线漏跑或进化环停摆时自动 workflow_dispatch 补触发
 on:
   schedule:
-    - cron: "30 22 * * *" # UTC 22:30 = 北京时间 06:30
+    - cron: "30 22 * * *" # UTC 22:30 = 北京时间 06:30（晨检）
+    - cron: "30 10 * * *" # UTC 10:30 = 北京时间 18:30（午检——两次看门狗兜住 cron 跳度）
   workflow_dispatch:
 
 permissions:
