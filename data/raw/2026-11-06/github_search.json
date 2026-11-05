@@ -1,13 +1,13 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-06T00:14:34.310458+08:00",
- "count": 20,
+ "updated_at": "2026-11-06T06:31:57.877744+08:00",
+ "count": 21,
  "items": [
   {
    "id": "gh-1439372976",
    "title": "patch-gg/pixelfx",
    "url": "https://github.com/patch-gg/pixelfx",
-   "stars": 5184,
+   "stars": 5245,
    "language": "JavaScript",
    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
    "created_at": "2026-10-30T06:43:25Z",
@@ -19,6 +19,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 5184
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 5245
     }
    ]
   },
@@ -26,9 +30,9 @@
    "id": "gh-1439430391",
    "title": "kevinraymond/florilegium",
    "url": "https://github.com/kevinraymond/florilegium",
-   "stars": 1436,
+   "stars": 1442,
    "language": "TeX",
-   "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+   "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
    "created_at": "2026-10-30T07:49:05Z",
    "history": [
     {
@@ -38,6 +42,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1436
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1442
     }
    ]
   },
@@ -45,7 +53,7 @@
    "id": "gh-1439522537",
    "title": "elvarofficial/teardown",
    "url": "https://github.com/elvarofficial/teardown",
-   "stars": 2115,
+   "stars": 2166,
    "language": "JavaScript",
    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
    "created_at": "2026-10-30T09:29:01Z",
@@ -57,6 +65,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 2115
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 2166
     }
    ]
   },
@@ -64,7 +76,7 @@
    "id": "gh-1439885901",
    "title": "N1nEmAn/sapper-v2",
    "url": "https://github.com/N1nEmAn/sapper-v2",
-   "stars": 1258,
+   "stars": 1323,
    "language": "Python",
    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, ",
    "created_at": "2026-10-30T15:12:35Z",
@@ -76,6 +88,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1258
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1323
     }
    ]
   },
@@ -83,7 +99,7 @@
    "id": "gh-1440151033",
    "title": "anthropics/FlashProve",
    "url": "https://github.com/anthropics/FlashProve",
-   "stars": 895,
+   "stars": 907,
    "language": "Lean",
    "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
    "created_at": "2026-10-30T19:29:59Z",
@@ -95,6 +111,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 895
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 907
     }
    ]
   },
@@ -102,7 +122,7 @@
    "id": "gh-1440160468",
    "title": "Arjun-Ingole/hop",
    "url": "https://github.com/Arjun-Ingole/hop",
-   "stars": 1526,
+   "stars": 1528,
    "language": "PowerShell",
    "description": "Install Linux next to Windows without a USB stick",
    "created_at": "2026-10-30T19:40:45Z",
@@ -114,6 +134,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1526
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1528
     }
    ]
   },
@@ -121,7 +145,7 @@
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 19343,
+   "stars": 19447,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -133,6 +157,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 19343
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 19447
     }
    ]
   },
@@ -140,7 +168,7 @@
    "id": "gh-1440927503",
    "title": "zortos293/Lichii",
    "url": "https://github.com/zortos293/Lichii",
-   "stars": 1683,
+   "stars": 2129,
    "language": "C++",
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "created_at": "2026-10-31T14:17:26Z",
@@ -152,6 +180,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1683
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 2129
     }
    ]
   },
@@ -159,7 +191,7 @@
    "id": "gh-1440956372",
    "title": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "stars": 14294,
+   "stars": 14821,
    "language": "Rust",
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "created_at": "2026-10-31T14:50:00Z",
@@ -171,6 +203,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 14294
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 14821
     }
    ]
   },
@@ -178,7 +214,7 @@
    "id": "gh-1441272552",
    "title": "Verlintas/NOIR",
    "url": "https://github.com/Verlintas/NOIR",
-   "stars": 2404,
+   "stars": 2447,
    "language": "Kotlin",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "created_at": "2026-10-31T21:34:39Z",
@@ -190,6 +226,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 2404
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 2447
     }
    ]
   },
@@ -197,7 +237,7 @@
    "id": "gh-1441517767",
    "title": "caru-ini/stack-diagram",
    "url": "https://github.com/caru-ini/stack-diagram",
-   "stars": 1845,
+   "stars": 1863,
    "language": "TypeScript",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "created_at": "2026-11-01T05:35:12Z",
@@ -209,6 +249,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1845
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1863
     }
    ]
   },
@@ -216,7 +260,7 @@
    "id": "gh-1441521221",
    "title": "wquguru/cicada",
    "url": "https://github.com/wquguru/cicada",
-   "stars": 1453,
+   "stars": 1477,
    "language": "Swift",
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "created_at": "2026-11-01T05:41:23Z",
@@ -228,6 +272,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1453
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1477
     }
    ]
   },
@@ -235,7 +283,7 @@
    "id": "gh-1441526188",
    "title": "mromidev/claude-animated-shorts",
    "url": "https://github.com/mromidev/claude-animated-shorts",
-   "stars": 1662,
+   "stars": 1718,
    "language": "TypeScript",
    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
    "created_at": "2026-11-01T05:50:38Z",
@@ -247,6 +295,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1662
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1718
     }
    ]
   },
@@ -254,7 +306,7 @@
    "id": "gh-1441897000",
    "title": "s1dashu/quiet-md",
    "url": "https://github.com/s1dashu/quiet-md",
-   "stars": 1006,
+   "stars": 1046,
    "language": "Rust",
    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
    "created_at": "2026-11-01T14:22:53Z",
@@ -266,6 +318,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1006
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1046
     }
    ]
   },
@@ -273,7 +329,7 @@
    "id": "gh-1442223451",
    "title": "UncensoredLabs/uncensored-ai-api",
    "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-   "stars": 819,
+   "stars": 844,
    "language": "JavaScript",
    "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
    "created_at": "2026-11-01T20:53:34Z",
@@ -285,6 +341,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 819
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 844
     }
    ]
   },
@@ -311,7 +371,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 1860,
+   "stars": 1935,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -323,6 +383,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1860
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1935
     }
    ]
   },
@@ -330,7 +394,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 3146,
+   "stars": 3217,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -342,6 +406,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 3146
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 3217
     }
    ]
   },
@@ -349,7 +417,7 @@
    "id": "gh-1444372497",
    "title": "Minireel/HGhub",
    "url": "https://github.com/Minireel/HGhub",
-   "stars": 1070,
+   "stars": 1095,
    "language": "TypeScript",
    "description": "YellowFruit third-party client",
    "created_at": "2026-11-03T14:04:27Z",
@@ -361,6 +429,25 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1070
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 1095
+    }
+   ]
+  },
+  {
+   "id": "gh-1444635695",
+   "title": "andrew-babo/muse4ai",
+   "url": "https://github.com/andrew-babo/muse4ai",
+   "stars": 804,
+   "language": "TypeScript",
+   "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+   "created_at": "2026-11-03T17:45:18Z",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 804
     }
    ]
   },
@@ -368,7 +455,7 @@
    "id": "gh-1445802355",
    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "stars": 1939,
+   "stars": 2266,
    "language": "Python",
    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
    "created_at": "2026-11-04T14:54:56Z",
@@ -380,6 +467,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 1939
+    },
+    {
+     "t": "2026-11-06T06:31:57.877744+08:00",
+     "score": 2266
     }
    ]
   }

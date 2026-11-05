@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-06T00:14:33.210831+08:00",
- "count": 26,
+ "updated_at": "2026-11-06T06:31:57.220868+08:00",
+ "count": 43,
  "items": [
   {
    "id": "hn-50337586",
@@ -64,6 +64,22 @@
    ]
   },
   {
+   "id": "hn-50349667",
+   "title": "The Lisp curse, now coming to your ecosystem",
+   "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50349667",
+   "score": 184,
+   "comments": 134,
+   "author": "marcolinux",
+   "time_iso": "2026-11-03T08:59:31+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 184
+    }
+   ]
+  },
+  {
    "id": "hn-50364860",
    "title": "So my ISP was hijacking my DNS",
    "url": "https://www.karthihegde.dev/posts/dns_tampering",
@@ -116,6 +132,22 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 604
+    }
+   ]
+  },
+  {
+   "id": "hn-50368208",
+   "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+   "url": "https://www.linum.ai/field-notes/pjit-21k",
+   "hn_url": "https://news.ycombinator.com/item?id=50368208",
+   "score": 114,
+   "comments": 12,
+   "author": "schopra909",
+   "time_iso": "2026-11-04T16:45:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 114
     }
    ]
   },
@@ -264,8 +296,8 @@
    "title": "GPT-6 Astra covertly underperforms on safety research",
    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "hn_url": "https://news.ycombinator.com/item?id=50376313",
-   "score": 124,
-   "comments": 45,
+   "score": 256,
+   "comments": 138,
    "author": "lucrbvi",
    "time_iso": "2026-11-05T07:44:30+00:00",
    "history": [
@@ -276,6 +308,10 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 124
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 256
     }
    ]
   },
@@ -324,8 +360,8 @@
    "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
    "hn_url": "https://news.ycombinator.com/item?id=50377976",
-   "score": 123,
-   "comments": 6,
+   "score": 225,
+   "comments": 11,
    "author": "selckin",
    "time_iso": "2026-11-05T11:40:30+00:00",
    "history": [
@@ -336,16 +372,20 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 123
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 225
     }
    ]
   },
   {
    "id": "hn-50378228",
-   "title": "Sshole",
+   "title": "sshole",
    "url": "https://sshhole.com",
    "hn_url": "https://news.ycombinator.com/item?id=50378228",
-   "score": 1081,
-   "comments": 306,
+   "score": 2146,
+   "comments": 539,
    "author": "josemrb",
    "time_iso": "2026-11-05T12:19:02+00:00",
    "history": [
@@ -356,6 +396,10 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 1081
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 2146
     }
    ]
   },
@@ -380,8 +424,8 @@
    "title": "Obscure audio codec is a perfect fit for the N64",
    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
    "hn_url": "https://news.ycombinator.com/item?id=50378508",
-   "score": 65,
-   "comments": 3,
+   "score": 166,
+   "comments": 19,
    "author": "frostbyte7",
    "time_iso": "2026-11-05T12:51:48+00:00",
    "history": [
@@ -392,6 +436,10 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 65
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 166
     }
    ]
   },
@@ -400,8 +448,8 @@
    "title": "Download your favourite YouTube videos",
    "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
    "hn_url": "https://news.ycombinator.com/item?id=50378571",
-   "score": 72,
-   "comments": 35,
+   "score": 234,
+   "comments": 110,
    "author": "surprisetalk",
    "time_iso": "2026-11-05T13:00:11+00:00",
    "history": [
@@ -412,6 +460,26 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 72
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 234
+    }
+   ]
+  },
+  {
+   "id": "hn-50378942",
+   "title": "I wish tech companies knew more about me",
+   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+   "hn_url": "https://news.ycombinator.com/item?id=50378942",
+   "score": 249,
+   "comments": 229,
+   "author": "freetonik",
+   "time_iso": "2026-11-05T13:40:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 249
     }
    ]
   },
@@ -420,8 +488,8 @@
    "title": "MCP Explained",
    "url": "https://mcp-explained.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50379249",
-   "score": 100,
-   "comments": 44,
+   "score": 210,
+   "comments": 108,
    "author": "rwilinski",
    "time_iso": "2026-11-05T14:08:35+00:00",
    "history": [
@@ -432,6 +500,10 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 100
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 210
     }
    ]
   },
@@ -440,8 +512,8 @@
    "title": "September in Servo: <progress>, rounded rectangles, and more",
    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
    "hn_url": "https://news.ycombinator.com/item?id=50379576",
-   "score": 45,
-   "comments": 8,
+   "score": 162,
+   "comments": 37,
    "author": "iamnothere",
    "time_iso": "2026-11-05T14:34:18+00:00",
    "history": [
@@ -452,16 +524,20 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 45
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 162
     }
    ]
   },
   {
    "id": "hn-50379704",
-   "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
    "hn_url": "https://news.ycombinator.com/item?id=50379704",
-   "score": 109,
-   "comments": 6,
+   "score": 521,
+   "comments": 105,
    "author": "pantalaimon",
    "time_iso": "2026-11-05T14:44:20+00:00",
    "history": [
@@ -472,6 +548,10 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 521
     }
    ]
   },
@@ -512,6 +592,230 @@
     {
      "t": "2026-11-06T00:14:33.210831+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50380810",
+   "title": "Motorola Signature 27 with GrapheneOS support",
+   "url": "https://motorolanews.com/motorola-signature-27-2/",
+   "hn_url": "https://news.ycombinator.com/item?id=50380810",
+   "score": 344,
+   "comments": 251,
+   "author": "monneyboi",
+   "time_iso": "2026-11-05T16:01:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 344
+    }
+   ]
+  },
+  {
+   "id": "hn-50380979",
+   "title": "The Stacks Project, Formalized in Lean",
+   "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+   "hn_url": "https://news.ycombinator.com/item?id=50380979",
+   "score": 57,
+   "comments": 11,
+   "author": "namanbnsl",
+   "time_iso": "2026-11-05T16:16:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 57
+    }
+   ]
+  },
+  {
+   "id": "hn-50381033",
+   "title": "My psychophysics as a bilateral cochlear implant user",
+   "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+   "hn_url": "https://news.ycombinator.com/item?id=50381033",
+   "score": 146,
+   "comments": 43,
+   "author": "mi-rae",
+   "time_iso": "2026-11-05T16:21:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 146
+    }
+   ]
+  },
+  {
+   "id": "hn-50381383",
+   "title": "Window Sweaters",
+   "url": "https://github.com/saragordic/window-sweaters",
+   "hn_url": "https://news.ycombinator.com/item?id=50381383",
+   "score": 191,
+   "comments": 67,
+   "author": "nickswalker",
+   "time_iso": "2026-11-05T16:50:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 191
+    }
+   ]
+  },
+  {
+   "id": "hn-50381512",
+   "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+   "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+   "hn_url": "https://news.ycombinator.com/item?id=50381512",
+   "score": 1,
+   "comments": 0,
+   "author": "rooppal",
+   "time_iso": "2026-11-05T17:01:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50381687",
+   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+   "url": "https://github.com/rivet-dev/rivet",
+   "hn_url": "https://news.ycombinator.com/item?id=50381687",
+   "score": 63,
+   "comments": 30,
+   "author": "NathanFlurry",
+   "time_iso": "2026-11-05T17:17:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 63
+    }
+   ]
+  },
+  {
+   "id": "hn-50383057",
+   "title": "The Hackintosh Reborn",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "hn_url": "https://news.ycombinator.com/item?id=50383057",
+   "score": 130,
+   "comments": 44,
+   "author": "rubatuga",
+   "time_iso": "2026-11-05T19:08:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 130
+    }
+   ]
+  },
+  {
+   "id": "hn-50383294",
+   "title": "Introducing Pangram Image 1.0",
+   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+   "hn_url": "https://news.ycombinator.com/item?id=50383294",
+   "score": 21,
+   "comments": 1,
+   "author": "gmays",
+   "time_iso": "2026-11-05T19:27:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50383739",
+   "title": "Goodbye from Salon",
+   "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+   "hn_url": "https://news.ycombinator.com/item?id=50383739",
+   "score": 265,
+   "comments": 97,
+   "author": "mkeeter",
+   "time_iso": "2026-11-05T20:03:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 265
+    }
+   ]
+  },
+  {
+   "id": "hn-50383740",
+   "title": "Kagi Search for Everyone",
+   "url": "https://kagi.com/changelog",
+   "hn_url": "https://news.ycombinator.com/item?id=50383740",
+   "score": 257,
+   "comments": 132,
+   "author": "elashri",
+   "time_iso": "2026-11-05T20:03:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 257
+    }
+   ]
+  },
+  {
+   "id": "hn-50383877",
+   "title": "The Cost of Blogging",
+   "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+   "hn_url": "https://news.ycombinator.com/item?id=50383877",
+   "score": 26,
+   "comments": 16,
+   "author": "speckx",
+   "time_iso": "2026-11-05T20:14:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50383963",
+   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+   "hn_url": "https://news.ycombinator.com/item?id=50383963",
+   "score": 47,
+   "comments": 1,
+   "author": "gmays",
+   "time_iso": "2026-11-05T20:21:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 47
+    }
+   ]
+  },
+  {
+   "id": "hn-50384233",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "hn_url": "https://news.ycombinator.com/item?id=50384233",
+   "score": 139,
+   "comments": 40,
+   "author": "kuberwastaken",
+   "time_iso": "2026-11-05T20:43:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 139
+    }
+   ]
+  },
+  {
+   "id": "hn-50384822",
+   "title": "$2.5T has been wiped from US stocks",
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50384822",
+   "score": 36,
+   "comments": 17,
+   "author": "madihaa",
+   "time_iso": "2026-11-05T21:39:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T06:31:57.220868+08:00",
+     "score": 36
     }
    ]
   }

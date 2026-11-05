@@ -1,12 +1,91 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T00:14:35.939587+08:00",
+ "generated_at": "2026-11-06T06:31:59.227139+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "sshole",
+     "url": "https://sshhole.com",
+     "meta": "+1092 分 / 6.4 小时 · 现 ⭐ 2146",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "meta": "+418 分 / 6.4 小时 · 现 ⭐ 521",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Download your favourite YouTube videos",
+     "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+     "meta": "+166 分 / 6.4 小时 · 现 ⭐ 234",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6 Astra covertly underperforms on safety research",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+     "meta": "+137 分 / 6.4 小时 · 现 ⭐ 256",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "September in Servo: <progress>, rounded rectangles, and more",
+     "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+     "meta": "+119 分 / 6.4 小时 · 现 ⭐ 162",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "MCP Explained",
+     "url": "https://mcp-explained.com/",
+     "meta": "+113 分 / 6.4 小时 · 现 ⭐ 210",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Obscure audio codec is a perfect fit for the N64",
+     "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+     "meta": "+106 分 / 6.4 小时 · 现 ⭐ 166",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+     "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+     "meta": "+104 分 / 6.4 小时 · 现 ⭐ 225",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+     "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+     "meta": "TechCrunch AI · 2026-11-05",
+     "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
@@ -118,14 +197,6 @@
      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Amp puts AI agents to work beyond code with OpenAI models",
-     "url": "https://openai.com/index/amp-beyond-coding",
-     "meta": "OpenAI · 2026-10-14",
-     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -137,7 +208,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 19343 · TypeScript",
+     "meta": "⭐ 19447 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +216,7 @@
     {
      "title": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "meta": "⭐ 14294 · Rust",
+     "meta": "⭐ 14821 · Rust",
      "summary": "Craft Anything: understand how any software works, and craft your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +224,7 @@
     {
      "title": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "meta": "⭐ 5184 · JavaScript",
+     "meta": "⭐ 5245 · JavaScript",
      "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +232,7 @@
     {
      "title": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 3146 · TypeScript",
+     "meta": "⭐ 3217 · TypeScript",
      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
      "reason": null,
      "origin_source": "github_search"
@@ -169,31 +240,39 @@
     {
      "title": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "meta": "⭐ 2404 · Kotlin",
+     "meta": "⭐ 2447 · Kotlin",
      "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "elvarofficial/teardown",
-     "url": "https://github.com/elvarofficial/teardown",
-     "meta": "⭐ 2115 · JavaScript",
-     "summary": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "meta": "⭐ 1939 · Python",
+     "meta": "⭐ 2266 · Python",
      "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "elvarofficial/teardown",
+     "url": "https://github.com/elvarofficial/teardown",
+     "meta": "⭐ 2166 · JavaScript",
+     "summary": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "zortos293/Lichii",
+     "url": "https://github.com/zortos293/Lichii",
+     "meta": "⭐ 2129 · C++",
+     "summary": "VERY experimental Nintendo Switch 2 emulator",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "meta": "⭐ 1860 · Swift",
+     "meta": "⭐ 1935 · Swift",
      "summary": "Entire MacOS running in your terminal.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,23 +280,15 @@
     {
      "title": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "meta": "⭐ 1845 · TypeScript",
+     "meta": "⭐ 1863 · TypeScript",
      "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "zortos293/Lichii",
-     "url": "https://github.com/zortos293/Lichii",
-     "meta": "⭐ 1683 · C++",
-     "summary": "VERY experimental Nintendo Switch 2 emulator",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "meta": "⭐ 1662 · TypeScript",
+     "meta": "⭐ 1718 · TypeScript",
      "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +296,7 @@
     {
      "title": "Arjun-Ingole/hop",
      "url": "https://github.com/Arjun-Ingole/hop",
-     "meta": "⭐ 1526 · PowerShell",
+     "meta": "⭐ 1528 · PowerShell",
      "summary": "Install Linux next to Windows without a USB stick",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +304,7 @@
     {
      "title": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "meta": "⭐ 1453 · Swift",
+     "meta": "⭐ 1477 · Swift",
      "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "reason": null,
      "origin_source": "github_search"
@@ -241,15 +312,15 @@
     {
      "title": "kevinraymond/florilegium",
      "url": "https://github.com/kevinraymond/florilegium",
-     "meta": "⭐ 1436 · TeX",
-     "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+     "meta": "⭐ 1442 · TeX",
+     "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "N1nEmAn/sapper-v2",
      "url": "https://github.com/N1nEmAn/sapper-v2",
-     "meta": "⭐ 1258 · Python",
+     "meta": "⭐ 1323 · Python",
      "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
      "reason": null,
      "origin_source": "github_search"
@@ -262,6 +333,14 @@
    "errors": [],
    "items": [
     {
+     "title": "sshole",
+     "url": "https://sshhole.com",
+     "meta": "⭐ 2146 · 💬 539",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
      "meta": "⭐ 1214 · 💬 404",
@@ -270,17 +349,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Sshole",
-     "url": "https://sshhole.com",
-     "meta": "⭐ 1081 · 💬 306",
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+     "meta": "⭐ 604 · 💬 173",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Kimi K3.1 Pro model weights are out",
-     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "meta": "⭐ 604 · 💬 173",
+     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "meta": "⭐ 521 · 💬 105",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -318,6 +397,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Motorola Signature 27 with GrapheneOS support",
+     "url": "https://motorolanews.com/motorola-signature-27-2/",
+     "meta": "⭐ 344 · 💬 251",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
      "url": "https://www.ricursive.com/ripple",
      "meta": "⭐ 325 · 💬 116",
@@ -334,33 +421,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Spreading Liquid with Three.js",
-     "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-     "meta": "⭐ 192 · 💬 26",
+     "title": "Goodbye from Salon",
+     "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+     "meta": "⭐ 265 · 💬 97",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Awesome repositories are no longer awesome",
-     "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-     "meta": "⭐ 176 · 💬 91",
+     "title": "Download your favourite YouTube videos",
+     "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+     "meta": "⭐ 234 · 💬 110",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Baidu released ERNIE 5.5 Flash Base",
-     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-     "meta": "⭐ 132 · 💬 73",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "So my ISP was hijacking my DNS",
-     "url": "https://www.karthihegde.dev/posts/dns_tampering",
-     "meta": "⭐ 125 · 💬 95",
+     "title": "Kagi Search for Everyone",
+     "url": "https://kagi.com/changelog",
+     "meta": "⭐ 257 · 💬 132",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -368,15 +447,7 @@
     {
      "title": "GPT-6 Astra covertly underperforms on safety research",
      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-     "meta": "⭐ 124 · 💬 45",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-     "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-     "meta": "⭐ 123 · 💬 6",
+     "meta": "⭐ 256 · 💬 138",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
