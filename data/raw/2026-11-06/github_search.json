@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-06T06:31:57.877744+08:00",
- "count": 21,
+ "updated_at": "2026-11-06T08:55:32.072629+08:00",
+ "count": 26,
  "items": [
   {
    "id": "gh-1439372976",
@@ -142,10 +142,25 @@
    ]
   },
   {
+   "id": "gh-1440406663",
+   "title": "joeblau/subvox",
+   "url": "https://github.com/joeblau/subvox",
+   "stars": 747,
+   "language": "Swift",
+   "description": "",
+   "created_at": "2026-10-31T01:48:19Z",
+   "history": [
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 747
+    }
+   ]
+  },
+  {
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 19447,
+   "stars": 19491,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -161,6 +176,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 19447
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 19491
     }
    ]
   },
@@ -168,7 +187,7 @@
    "id": "gh-1440927503",
    "title": "zortos293/Lichii",
    "url": "https://github.com/zortos293/Lichii",
-   "stars": 2129,
+   "stars": 2280,
    "language": "C++",
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "created_at": "2026-10-31T14:17:26Z",
@@ -184,6 +203,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 2129
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 2280
     }
    ]
   },
@@ -191,7 +214,7 @@
    "id": "gh-1440956372",
    "title": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "stars": 14821,
+   "stars": 15035,
    "language": "Rust",
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "created_at": "2026-10-31T14:50:00Z",
@@ -207,6 +230,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 14821
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 15035
     }
    ]
   },
@@ -214,7 +241,7 @@
    "id": "gh-1441272552",
    "title": "Verlintas/NOIR",
    "url": "https://github.com/Verlintas/NOIR",
-   "stars": 2447,
+   "stars": 2486,
    "language": "Kotlin",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "created_at": "2026-10-31T21:34:39Z",
@@ -230,6 +257,25 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 2447
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 2486
+    }
+   ]
+  },
+  {
+   "id": "gh-1441494479",
+   "title": "Minglink/dsh-jailbreak-workflow",
+   "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+   "stars": 678,
+   "language": "TypeScript",
+   "description": "DSH 破甲词制作作工作流",
+   "created_at": "2026-11-01T04:50:41Z",
+   "history": [
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 678
     }
    ]
   },
@@ -237,7 +283,7 @@
    "id": "gh-1441517767",
    "title": "caru-ini/stack-diagram",
    "url": "https://github.com/caru-ini/stack-diagram",
-   "stars": 1863,
+   "stars": 1867,
    "language": "TypeScript",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "created_at": "2026-11-01T05:35:12Z",
@@ -253,6 +299,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1863
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1867
     }
    ]
   },
@@ -260,7 +310,7 @@
    "id": "gh-1441521221",
    "title": "wquguru/cicada",
    "url": "https://github.com/wquguru/cicada",
-   "stars": 1477,
+   "stars": 1487,
    "language": "Swift",
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "created_at": "2026-11-01T05:41:23Z",
@@ -276,6 +326,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1477
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1487
     }
    ]
   },
@@ -283,7 +337,7 @@
    "id": "gh-1441526188",
    "title": "mromidev/claude-animated-shorts",
    "url": "https://github.com/mromidev/claude-animated-shorts",
-   "stars": 1718,
+   "stars": 1753,
    "language": "TypeScript",
    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
    "created_at": "2026-11-01T05:50:38Z",
@@ -299,6 +353,25 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1718
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1753
+    }
+   ]
+  },
+  {
+   "id": "gh-1441849727",
+   "title": "Gezine/CivSwitch",
+   "url": "https://github.com/Gezine/CivSwitch",
+   "stars": 612,
+   "language": "JavaScript",
+   "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+   "created_at": "2026-11-01T13:30:59Z",
+   "history": [
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 612
     }
    ]
   },
@@ -306,7 +379,7 @@
    "id": "gh-1441897000",
    "title": "s1dashu/quiet-md",
    "url": "https://github.com/s1dashu/quiet-md",
-   "stars": 1046,
+   "stars": 1056,
    "language": "Rust",
    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
    "created_at": "2026-11-01T14:22:53Z",
@@ -322,6 +395,25 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1046
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1056
+    }
+   ]
+  },
+  {
+   "id": "gh-1442056769",
+   "title": "Balanov/uncut",
+   "url": "https://github.com/Balanov/uncut",
+   "stars": 608,
+   "language": "Go",
+   "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+   "created_at": "2026-11-01T17:19:30Z",
+   "history": [
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 608
     }
    ]
   },
@@ -329,7 +421,7 @@
    "id": "gh-1442223451",
    "title": "UncensoredLabs/uncensored-ai-api",
    "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-   "stars": 844,
+   "stars": 854,
    "language": "JavaScript",
    "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
    "created_at": "2026-11-01T20:53:34Z",
@@ -345,6 +437,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 844
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 854
     }
    ]
   },
@@ -352,7 +448,7 @@
    "id": "gh-1442356805",
    "title": "AssassinCreator/steam-stash-value-report-card",
    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-   "stars": 795,
+   "stars": 810,
    "language": "Python",
    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
    "created_at": "2026-11-02T00:40:47Z",
@@ -364,6 +460,10 @@
     {
      "t": "2026-11-06T00:14:34.310458+08:00",
      "score": 795
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 810
     }
    ]
   },
@@ -371,7 +471,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 1935,
+   "stars": 1959,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -387,6 +487,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1935
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1959
     }
    ]
   },
@@ -394,7 +498,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 3217,
+   "stars": 3234,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -410,6 +514,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 3217
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 3234
     }
    ]
   },
@@ -417,7 +525,7 @@
    "id": "gh-1444372497",
    "title": "Minireel/HGhub",
    "url": "https://github.com/Minireel/HGhub",
-   "stars": 1095,
+   "stars": 1119,
    "language": "TypeScript",
    "description": "YellowFruit third-party client",
    "created_at": "2026-11-03T14:04:27Z",
@@ -433,6 +541,25 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 1095
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 1119
+    }
+   ]
+  },
+  {
+   "id": "gh-1444569395",
+   "title": "brightsongwrath/personal-data-deletor-osint",
+   "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+   "stars": 650,
+   "language": "JavaScript",
+   "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+   "created_at": "2026-11-03T16:47:18Z",
+   "history": [
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 650
     }
    ]
   },
@@ -440,7 +567,7 @@
    "id": "gh-1444635695",
    "title": "andrew-babo/muse4ai",
    "url": "https://github.com/andrew-babo/muse4ai",
-   "stars": 804,
+   "stars": 818,
    "language": "TypeScript",
    "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
    "created_at": "2026-11-03T17:45:18Z",
@@ -448,6 +575,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 804
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 818
     }
    ]
   },
@@ -455,7 +586,7 @@
    "id": "gh-1445802355",
    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "stars": 2266,
+   "stars": 2353,
    "language": "Python",
    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
    "created_at": "2026-11-04T14:54:56Z",
@@ -471,6 +602,10 @@
     {
      "t": "2026-11-06T06:31:57.877744+08:00",
      "score": 2266
+    },
+    {
+     "t": "2026-11-06T08:55:32.072629+08:00",
+     "score": 2353
     }
    ]
   }

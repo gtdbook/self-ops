@@ -1,12 +1,14 @@
 {
- "updated_at": "2026-11-06T06:31:59.233980+08:00",
+ "updated_at": "2026-11-06T08:55:53.975424+08:00",
  "days": [
   {
    "date": "2026-11-06",
-   "total": 68,
+   "total": 86,
    "per_source": {
-    "rising": 8,
+    "resonance": 1,
+    "rising": 10,
     "blog_rss": 15,
+    "cn_rss": 15,
     "github_search": 15,
     "hackernews": 15,
     "producthunt": 15
