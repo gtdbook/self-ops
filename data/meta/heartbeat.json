@@ -1,0 +1,30 @@
+{
+ "updated_at": "2026-11-07T01:26:27.179700+08:00",
+ "checks": {
+  "流水线": {
+   "ok": true,
+   "detail": "上次成功流水线 5.6 小时前 (run #150)"
+  },
+  "数据": {
+   "ok": true,
+   "detail": "最新数据 2026-11-06（87 条）"
+  },
+  "部署": {
+   "ok": true,
+   "detail": "Pages 正常 (https://gtdbook.github.io/self-ops/)"
+  },
+  "周报环": {
+   "ok": true,
+   "detail": "最新周报 2026-W45（2 天前）"
+  },
+  "进化环": {
+   "ok": true,
+   "detail": "进化账本正常（17 条决策，13 个关键词）"
+  },
+  "沉淀环": {
+   "ok": true,
+   "detail": "沉淀库 12 条（新芽 0）· 种子 74 篇（2 天前）"
+  }
+ },
+ "heal_notes": []
+}
