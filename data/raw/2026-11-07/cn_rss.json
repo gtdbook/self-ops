@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-07T02:53:15.398821+08:00",
- "count": 167,
+ "updated_at": "2026-11-07T07:39:02.769282+08:00",
+ "count": 183,
  "items": [
   {
    "id": "rss-005bdceb685a6d88",
@@ -20,6 +20,15 @@
    "published": "Mon, 02 Nov 2026 13:37:56 +0800",
    "published_iso": "2026-11-02T05:37:56+00:00",
    "summary": "CloudDM 是一款免费且开源的团队化数据库管理工具，提供统一 Web 数据库访问、权限控制、数据脱敏、SQL 审核、流程协同和数据库 CI/CD 等能力。 亮点 新增团队化审批节点，解决单个审批环节只能设定一个人的问题。 内置团队设置，不强依赖外部钉钉、企业微信、飞书等三方应用，解决复杂配置、可能的网络依赖等问题。 新增..."
+  },
+  {
+   "id": "rss-04d98ad2ab00c2b7",
+   "title": "[生活] 看一些视频流泪的原因",
+   "url": "https://www.v2ex.com/t/1255103#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T14:59:13Z",
+   "published_iso": "2026-11-06T14:59:13+00:00",
+   "summary": "作为一个成年人，如果总是被某些短视频的某些内容弄的流泪，是不是内心深处一直藏着某些自己都没有意识到的苦痛，然后在某些场景下被激发了，而且开关一旦打开，在类似的场景下，还是会被反复打开，而且这个范围会慢慢泛滥开，是不是也因为这样，唤醒这个已经麻木的心呢。"
   },
   {
    "id": "rss-058c5fd213f8f8c1",
@@ -643,6 +652,15 @@
    "summary": "Jync v1.13.0 Redis 缓存投影与 MySQL 5.7 自动适配 新增 Redis 作为实时同步的目标：项目页的「目标类型」可选 Redis，源端 CDC 持续把每一行的变化投影到缓存。Redis 是目标端专属能力，不是新的 DatabaseType，不出现在源端下拉、ETL 引擎列表与数据库能力矩阵里。 Redis 目标连接：连接管理页新增「Redis 目标」标签..."
   },
   {
+   "id": "rss-68c25043233523e9",
+   "title": "[Apple] 现在入手 M6 MacBook Pro 还是等几个月后的 M7 版？",
+   "url": "https://www.v2ex.com/t/1255116#reply9",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T17:18:13Z",
+   "published_iso": "2026-11-06T17:18:13+00:00",
+   "summary": "其实现在以旧换新的价格我已经能接受，但是据说 M7 版本要换模具了，重量轻半斤，还会上信仰灯和灵动岛！ 然后查了最新消息，大概是明年上半年会发布，我有点想等等了，大家怎么看？"
+  },
+  {
    "id": "rss-6a38e2d40f575f47",
    "title": "Cordonix 0.0.5 发布：新增原生手机工具与 Windows 进程查询",
    "url": "https://www.oschina.net/news/503354",
@@ -650,6 +668,15 @@
    "published": "Mon, 02 Nov 2026 20:47:49 +0800",
    "published_iso": "2026-11-02T12:47:49+00:00",
    "summary": "Cordonix 0.0.5 已发布。Cordonix（简称 cdx）是面向 AI 编程代理的原生本地工具运行时，使用 C11 实现，通过 MCP stdio 服务和 JSON 命令行接口提供本地程序执行、内存文件工作区、严格编码处理、目录与路径查询，以及外部 Git/ripgrep 的结构化适配。 本次正式版本于 2026 年 11 月 2 日发布，增加 Windows 原生手机工..."
+  },
+  {
+   "id": "rss-6b1337781fb31601",
+   "title": "[分享创造] ConvertPixel：浏览器本地处理的图片工具箱",
+   "url": "https://www.v2ex.com/t/1255124#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T22:00:02Z",
+   "published_iso": "2026-11-06T22:00:02+00:00",
+   "summary": "ConvertPixel 是一套免费图片工具：截图二维码识别、按目标 KB 压缩、HEIC/WebP 等格式转换、多平台图标、人像去背、打码和二维码模板。无需注册，图片处理在浏览器内完成。 两个具体用途：手机不在身边时，选入电脑上的二维码截图直接读出网址；做应用时，用同一个 Logo 生成 Android、iOS、macOS 等平台图标。 站内目录有 71 个入口，其中包含共用工作台的格式快捷入口和 10 篇格式对比指南，不是 71 套"
   },
   {
    "id": "rss-6b1d262f0148b767",
@@ -668,6 +695,15 @@
    "published": "2026-11-06T14:23:08Z",
    "published_iso": "2026-11-06T14:23:08+00:00",
    "summary": "最近做了一个 Chrome 插件，叫 LookRecipe （照样拍同款） ，已经上架 Chrome 商店，来 V 站分享一下。 它想解决一个具体的问题：看到一张喜欢的照片，想知道它的光线、构图和配色是怎么回事，再把这些特点用到自己的创作里。 我把网页选图、图片分析、编辑提示词和 AI 生图串成了一个流程。 安装后，在普通网页上点击插件图标，选择图片或框选区域，就可以分析。结果会按主体、构图、镜头、光线、色调等维度拆成“摄影配方”，可以"
+  },
+  {
+   "id": "rss-6d09256ae04dc7c3",
+   "title": "[分享创造] 做了个 Claude Code CLI 侧边栏",
+   "url": "https://www.v2ex.com/t/1255111#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:40:11Z",
+   "published_iso": "2026-11-06T15:40:11+00:00",
+   "summary": "Claude 的桌面 App 很好用，但日常工作手持两个账号，得 App 和 CLI 一起用。CLI 里没有 App 那样的侧边栏，能看的信息太少，就做了这个插件，先满足一些个人需求。 效果如图： 展示当前会话的： 目录、分支、模型，上下文和 5h / 周额度 子 Agent 的状态、耗时、token 会话里碰过的 PR / Issue ，带实时状态 你贴的、工具产出的链接 持续迭代中... Repo： https://github.c"
   },
   {
    "id": "rss-6dfea273239689d7",
@@ -758,6 +794,15 @@
    "published": "2026-11-06T10:23:49Z",
    "published_iso": "2026-11-06T10:23:49+00:00",
    "summary": "点击链接注册 API 中转站即可随机领取 2-5 美刀鸡蛋 Midalo API 中转站注册地址： https://agent.midalo.ai/ （一定要用这个地址注册，不然拿不到赠送额度） Midalo API 官方 QQ 群：1030748124 （注册后进群发送账户 ID 即可随机领取测试额度鸡蛋，24 小时内到账） 客服 QQ：3809674723"
+  },
+  {
+   "id": "rss-7d4ee6f5ce1d534c",
+   "title": "[天黑以后] 20261107 午夜俱乐部",
+   "url": "https://www.v2ex.com/t/1255119#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T18:57:39Z",
+   "published_iso": "2026-11-06T18:57:39+00:00",
+   "summary": "又失眠了，这次因为一只蚊子，开了蚊香也没用，抓也抓不到。这周失眠了好几次，每次都是到三点多才睡，白天又是生物钟九点前就醒。不喜欢睡不着导致整个人白天没什么精神，加上每次睡不着脑子又有不好的想法。"
   },
   {
    "id": "rss-7d8a8e42e251db12",
@@ -931,6 +976,15 @@
    "summary": "一直没有用过香水，男士香水有推荐么？计划双十一入手香奈儿蔚蓝款"
   },
   {
+   "id": "rss-9753da5144ebd8c0",
+   "title": "[推广] 凌晨 3 点 你还在努力吗？",
+   "url": "https://www.v2ex.com/t/1255121#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T19:58:30Z",
+   "published_iso": "2026-11-06T19:58:30+00:00",
+   "summary": "我在赶项目： https://farflung.cc 你呢"
+  },
+  {
    "id": "rss-9958e2ea4cc5a0c6",
    "title": "Nginx 配置没人敢动？这台服务器的 SSL 证书续期，我终于不用手动了",
    "url": "https://www.oschina.net/news/503375",
@@ -974,6 +1028,24 @@
    "published": "2026-11-06T10:22:33Z",
    "published_iso": "2026-11-06T10:22:33+00:00",
    "summary": "各位 V 友好，目前大四，想找一份远程开发工作。 有开发实习经历，做过 Agent 相关项目和全栈开发，日常可稳定使用 Claude 辅助开发。希望寻找 Agent、AI 应用或全栈开发方向的机会。 有合适岗位的朋友，欢迎在评论区留言交流，感谢！"
+  },
+  {
+   "id": "rss-9ed954d56b15a54e",
+   "title": "[git] 请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
+   "url": "https://www.v2ex.com/t/1255105#reply15",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:07:01Z",
+   "published_iso": "2026-11-06T15:07:01+00:00",
+   "summary": "我有一台甲骨文 ARM 4 核 24G 满配服务器，一台绿云 GreenCloud 。我想尽可能保存所有 GitHub 账户所有仓库所有数据 请问大家有什么要注意的"
+  },
+  {
+   "id": "rss-9fca9eedf7df5bbe",
+   "title": "[问与答] 出圈的 ai 短剧持械入宋算是 ai 短剧代表么？",
+   "url": "https://www.v2ex.com/t/1255123#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T20:54:55Z",
+   "published_iso": "2026-11-06T20:54:55+00:00",
+   "summary": "今天花了 2 小时刷完，本质上就是 ai 场景小品剧 运镜，演出，人物调度基本没有 台词全是 1.25 倍，赶的一逼 表演都是 ai 典型的夸张表情。微表情想都不要想 bgm 凑合吧，能听 剧本应该是有人打磨，倒是没有特别大的 ai 味 作为免费剧，打发时间看个乐呵吧 相比之下已经变成烂剧的 outlander 都比这个强不知道多少倍啊 以现在 token 烧法和模型演进速度，是不是可能 2-3 年之后能实现精确的场景/指令遵循，能做到"
   },
   {
    "id": "rss-a17ab1551abf416d",
@@ -1046,6 +1118,15 @@
    "published": "Fri, 06 Nov 2026 05:26:24 +0000",
    "published_iso": "2026-11-06T05:26:24+00:00",
    "summary": "真正重要的产品，往往以充满争议的姿态出现。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-ab5679457a9bab9c",
+   "title": "[程序员] 关于 gemini 用不了之后的戒断反应",
+   "url": "https://www.v2ex.com/t/1255069#reply14",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T10:22:49Z",
+   "published_iso": "2026-11-06T10:22:49+00:00",
+   "summary": "平时反代接 hermes 里用，虽然有时候感觉挺谄媚的，但是今天突然被风控后，尝试换了好几个其他的模型，都感觉没有那种说人话的味道，开始有戒断反应了.. 想请教下各位，有没有能力上和 gemini 3.8 flash 差不多，量大管饱的且说人话的模型方案，ds 4.1f 试了下感觉也不怎么说人话的样子"
   },
   {
    "id": "rss-b04937e080bd6fe5",
@@ -1127,6 +1208,15 @@
    "published": "Fri, 06 Nov 2026 13:45:44 +0800",
    "published_iso": "2026-11-06T05:45:44+00:00",
    "summary": "微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要通过 Microsoft Store 官方应用商店下载修正后的版本，Windows Update 尚未推送新版本。"
+  },
+  {
+   "id": "rss-c2dc51077fec6e59",
+   "title": "[Claude] Claude 安卓 App 无法登录。",
+   "url": "https://www.v2ex.com/t/1255120#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T19:18:50Z",
+   "published_iso": "2026-11-06T19:18:50+00:00",
+   "summary": "我用的 BlueStack 模拟器，大概 10 月底开始，就无法登录了，提示 Could not be verified 。 好像是某种 play 商店的保护机制过不去。怎么办？"
   },
   {
    "id": "rss-c5e6c3288c91f3a9",
@@ -1327,6 +1417,24 @@
    "summary": "开发者自荐：我是波波抖音内容运营助手的开发者，下面讲怎么做、怎么用，不讲流量保证。 ### 1. 痛点：抖音日常运营，重复动作太多 做抖音号，每天都要刷推荐流、找对标视频、回评论、盯意向客户。动作本身不难，难在每天重复、耗时，而且人工一累就容易漏掉真正想买的人。 ### 2. 它是怎么做到的 - 跑在 Chrome / Edge 的抖音网页版里，不用输入抖音账号密码，也不用导 Cookie ，在你已登录的官方页面里执行。 - 推荐流挂机"
   },
   {
+   "id": "rss-de7058827c8a55f4",
+   "title": "[Google Gemini] 反重力 Antigravity 这几天好像不同账号流畅度不一样，和节点无关",
+   "url": "https://www.v2ex.com/t/1255108#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:14:41Z",
+   "published_iso": "2026-11-06T15:14:41+00:00",
+   "summary": "我发现，我同一个节点。有 gemini4 的账号使用很慢。没有的使用很快。就这几天这样。 你们是不是这样，你们解决了吗"
+  },
+  {
+   "id": "rss-e0c0a41b777fbb36",
+   "title": "[分享创造] 做了一个开源的 YouTube 桌面客户端 Lumtub：原生播放，推荐在本地跑，支持 Windows / Linux / macOS",
+   "url": "https://www.v2ex.com/t/1255117#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T17:27:34Z",
+   "published_iso": "2026-11-06T17:27:34+00:00",
+   "summary": "Lumtub：免费开源的 YouTube 桌面客户端 大家好！分享一个我做的开源软件 Lumtub 。它是一个 YouTube 桌面客户端，支持 Windows、macOS 和 Linux， 免费、没有付费版，基于 GPL-3.0 完全开源 。 🎞️ 一分钟宣传片 ： https://github.com/0x696c757a696f/lumtub/raw/main/docs/promo/promo-en.mp4 为什么做它 我每天在 "
+  },
+  {
    "id": "rss-e25cba6dfc879e19",
    "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
    "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -1381,6 +1489,15 @@
    "summary": "一位天才车手的圆梦之旅。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-ed4e14714b699230",
+   "title": "[程序员] 很久没开 JetBrains 家产品了",
+   "url": "https://www.v2ex.com/t/1255109#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:14:58Z",
+   "published_iso": "2026-11-06T15:14:58+00:00",
+   "summary": "16 年发 wb 说等有钱了就买 IDEA ，结果现在有钱了也不用买了，变成了买 token 了。打败 IDEA(JetBrains)的不是比它更优秀的编译器，而是 AI"
+  },
+  {
    "id": "rss-ee4a47a0b4736c9e",
    "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
    "url": "https://sspai.com/post/117713",
@@ -1426,6 +1543,15 @@
    "summary": "前几天我发文感慨了一下现在的 Ai 写 Admin 类的项目简直是夸张的帖子，但是作为一名纯粹的前端码农其实内心还是有挣扎的，所以我不信邪的业务时间认真搞了一下，现在得出结论是：现在已经能够百分百淘汰 Admin 类业务的前端。 不过淘汰归淘汰，其实要想一个非前端打磨好细节其实还是有一点难度的，作为一个专职前端我自己也亲力亲为的折腾了一些时间去打磨 ui, ux 的细节，也花了差不多 4-5 天的业余时间去跑 Ai 任务。 但是，这也是"
   },
   {
+   "id": "rss-f428f4664787da09",
+   "title": "[问与答] 兄弟们每个月在 Ai 上花多少钱？",
+   "url": "https://www.v2ex.com/t/1255088#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T13:50:39Z",
+   "published_iso": "2026-11-06T13:50:39+00:00",
+   "summary": "不编程，Claude code 接 DeepSeek api 50 块够了"
+  },
+  {
    "id": "rss-f6a0e7c48af1f3e7",
    "title": "[分享发现] 分析了下我小程序的盈利情况,亏了￥ 1659.71",
    "url": "https://www.v2ex.com/t/1255058#reply9",
@@ -1433,6 +1559,15 @@
    "published": "2026-11-06T09:38:53Z",
    "published_iso": "2026-11-06T09:38:53+00:00",
    "summary": "数据总览 收入 日活截屏 成本 cdn: 接入了 3d 模型,和前期没优化,流量消耗贼大。 服务器:￥ 43.52 扩容下硬盘。 成本￥ 805 第一步核算 我只放开屏广告,其他广告 ecpm 低要死,看不上。 之前开屏广告的 ecpm 是 4.x 的,慢慢降到 1.x 。 亏钱:￥ 805(cdn 等支出) - ￥ 485.29(流量主) = ￥ 319.71 。 光是服务器资源,就亏 319,还有其他的。 第二项成本 活动支持 我觉"
+  },
+  {
+   "id": "rss-f6bcc8d24c51b702",
+   "title": "[分享创造] 倒行逆施 - 纯文字校友社区 - 时光校友圈",
+   "url": "https://www.v2ex.com/t/1255079#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T11:34:56Z",
+   "published_iso": "2026-11-06T11:34:56+00:00",
+   "summary": "受 V2EX 启发，短视频时代，不见得文字内容没有机会。 时光校友圈，欢迎大家体验！ https://xiaoyouquan.com"
   },
   {
    "id": "rss-f76956bc62311e25",
@@ -1460,6 +1595,15 @@
    "published": "Fri, 06 Nov 2026 14:01:57 +0800",
    "published_iso": "2026-11-06T06:01:57+00:00",
    "summary": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,"
+  },
+  {
+   "id": "rss-f9edc3bae6939266",
+   "title": "[macOS] Dozer 能在 macOS 27 在运行了",
+   "url": "https://www.v2ex.com/t/1255106#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:09:06Z",
+   "published_iso": "2026-11-06T15:09:06+00:00",
+   "summary": "刚把 mac min 升级到 macOS 27.2 ，也把 Dozer 升级到 5.1 ，可以在 27.2 下运行了。 https://github.com/lylehust/Dozer"
   },
   {
    "id": "rss-fb33d1ba7b7ce533",

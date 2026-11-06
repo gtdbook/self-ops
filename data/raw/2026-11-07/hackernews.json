@@ -1,8 +1,56 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-07T02:53:06.704239+08:00",
- "count": 36,
+ "updated_at": "2026-11-07T07:38:53.825132+08:00",
+ "count": 52,
  "items": [
+  {
+   "id": "hn-50354308",
+   "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+   "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+   "hn_url": "https://news.ycombinator.com/item?id=50354308",
+   "score": 102,
+   "comments": 82,
+   "author": "wondersky",
+   "time_iso": "2026-11-03T16:43:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 102
+    }
+   ]
+  },
+  {
+   "id": "hn-50368291",
+   "title": "Annie Ernaux still feels like an outsider",
+   "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50368291",
+   "score": 5,
+   "comments": 0,
+   "author": "Caiero",
+   "time_iso": "2026-11-04T16:51:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50379221",
+   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+   "url": "https://github.com/piercefreeman/waymark",
+   "hn_url": "https://news.ycombinator.com/item?id=50379221",
+   "score": 27,
+   "comments": 7,
+   "author": "icyfox",
+   "time_iso": "2026-11-05T14:06:31+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 27
+    }
+   ]
+  },
   {
    "id": "hn-50382958",
    "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
@@ -60,14 +108,18 @@
    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
    "hn_url": "https://news.ycombinator.com/item?id=50388001",
-   "score": 104,
-   "comments": 106,
+   "score": 250,
+   "comments": 205,
    "author": "ChrisArchitect",
    "time_iso": "2026-11-06T04:00:28+00:00",
    "history": [
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 104
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 250
     }
    ]
   },
@@ -148,6 +200,22 @@
    ]
   },
   {
+   "id": "hn-50389570",
+   "title": "Chomsky and the two cultures of statistical learning (2011)",
+   "url": "https://www.norvig.com/chomsky.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50389570",
+   "score": 90,
+   "comments": 76,
+   "author": "andsoitis",
+   "time_iso": "2026-11-06T08:18:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
    "id": "hn-50389990",
    "title": "AI for scientific discovery: How researchers use Claude",
    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
@@ -224,14 +292,18 @@
    "title": "Tesla to wind down Cybertruck production",
    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
    "hn_url": "https://news.ycombinator.com/item?id=50391456",
-   "score": 452,
-   "comments": 1090,
+   "score": 780,
+   "comments": 1611,
    "author": "PLenz",
    "time_iso": "2026-11-06T12:13:51+00:00",
    "history": [
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 452
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 780
     }
    ]
   },
@@ -240,8 +312,8 @@
    "title": "Gemini Omni 1.2 Flash",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "hn_url": "https://news.ycombinator.com/item?id=50392118",
-   "score": 228,
-   "comments": 174,
+   "score": 283,
+   "comments": 212,
    "author": "thisisauserid",
    "time_iso": "2026-11-06T13:35:27+00:00",
    "history": [
@@ -252,6 +324,26 @@
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 228
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 283
+    }
+   ]
+  },
+  {
+   "id": "hn-50392348",
+   "title": "How octopuses squeeze through too small gaps",
+   "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+   "hn_url": "https://news.ycombinator.com/item?id=50392348",
+   "score": 41,
+   "comments": 12,
+   "author": "bookofjoe",
+   "time_iso": "2026-11-06T13:57:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 41
     }
    ]
   },
@@ -396,8 +488,8 @@
    "title": "Deus Ex",
    "url": "https://www.filfre.net/2026/11/deus-ex/",
    "hn_url": "https://news.ycombinator.com/item?id=50393758",
-   "score": 238,
-   "comments": 118,
+   "score": 322,
+   "comments": 161,
    "author": "cybersoyuz",
    "time_iso": "2026-11-06T15:44:36+00:00",
    "history": [
@@ -408,6 +500,10 @@
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 238
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 322
     }
    ]
   },
@@ -456,8 +552,8 @@
    "title": "First steps in bare-metal programming using UEFI",
    "url": "https://kevinboone.me/efitest_index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50394855",
-   "score": 81,
-   "comments": 5,
+   "score": 164,
+   "comments": 30,
    "author": "LaSombra",
    "time_iso": "2026-11-06T16:50:29+00:00",
    "history": [
@@ -468,6 +564,42 @@
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 81
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 164
+    }
+   ]
+  },
+  {
+   "id": "hn-50394906",
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "hn_url": "https://news.ycombinator.com/item?id=50394906",
+   "score": 196,
+   "comments": 439,
+   "author": "dgellow",
+   "time_iso": "2026-11-06T16:54:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 196
+    }
+   ]
+  },
+  {
+   "id": "hn-50394977",
+   "title": "PyLings: Solve Exercises and Learn Python",
+   "url": "https://github.com/thesayfulla/pylings",
+   "hn_url": "https://news.ycombinator.com/item?id=50394977",
+   "score": 42,
+   "comments": 2,
+   "author": "thesayfulla",
+   "time_iso": "2026-11-06T16:59:40+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 42
     }
    ]
   },
@@ -504,6 +636,10 @@
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 1
     }
    ]
   },
@@ -512,14 +648,18 @@
    "title": "Devvm.dev: One VM for every project",
    "url": "https://devvm.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50395450",
-   "score": 18,
-   "comments": 6,
+   "score": 88,
+   "comments": 45,
    "author": "luispa",
    "time_iso": "2026-11-06T17:30:22+00:00",
    "history": [
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 18
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 88
     }
    ]
   },
@@ -560,14 +700,18 @@
    "title": "Size-It-Up (Game)",
    "url": "https://magnitudle.com/size-it-up",
    "hn_url": "https://news.ycombinator.com/item?id=50395869",
-   "score": 17,
-   "comments": 6,
+   "score": 60,
+   "comments": 22,
    "author": "whoishiding",
    "time_iso": "2026-11-06T17:59:59+00:00",
    "history": [
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 17
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 60
     }
    ]
   },
@@ -592,14 +736,18 @@
    "title": "Memorilla: Latent Semantic Memory for LLMs",
    "url": "https://arxiv.org/abs/2610.21375",
    "hn_url": "https://news.ycombinator.com/item?id=50395919",
-   "score": 11,
-   "comments": 1,
+   "score": 75,
+   "comments": 5,
    "author": "handfuloflight",
    "time_iso": "2026-11-06T18:03:33+00:00",
    "history": [
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 75
     }
    ]
   },
@@ -632,6 +780,150 @@
     {
      "t": "2026-11-07T02:53:06.704239+08:00",
      "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50396108",
+   "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+   "url": "https://halfnarp.events.ccc.de",
+   "hn_url": "https://news.ycombinator.com/item?id=50396108",
+   "score": 37,
+   "comments": 7,
+   "author": "hanemile",
+   "time_iso": "2026-11-06T18:16:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 37
+    }
+   ]
+  },
+  {
+   "id": "hn-50396834",
+   "title": "Replit rebuilt its sandbox engine with microVMs",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "hn_url": "https://news.ycombinator.com/item?id=50396834",
+   "score": 47,
+   "comments": 13,
+   "author": "gaplong",
+   "time_iso": "2026-11-06T19:06:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 47
+    }
+   ]
+  },
+  {
+   "id": "hn-50397017",
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "hn_url": "https://news.ycombinator.com/item?id=50397017",
+   "score": 69,
+   "comments": 26,
+   "author": "fiej",
+   "time_iso": "2026-11-06T19:19:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50397219",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "hn_url": "https://news.ycombinator.com/item?id=50397219",
+   "score": 135,
+   "comments": 68,
+   "author": "SerCe",
+   "time_iso": "2026-11-06T19:33:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 135
+    }
+   ]
+  },
+  {
+   "id": "hn-50397429",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "hn_url": "https://news.ycombinator.com/item?id=50397429",
+   "score": 264,
+   "comments": 56,
+   "author": "theanomaly",
+   "time_iso": "2026-11-06T19:48:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 264
+    }
+   ]
+  },
+  {
+   "id": "hn-50397711",
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "hn_url": "https://news.ycombinator.com/item?id=50397711",
+   "score": 21,
+   "comments": 2,
+   "author": "rexbee",
+   "time_iso": "2026-11-06T20:09:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50397994",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50397994",
+   "score": 153,
+   "comments": 104,
+   "author": "yurivish",
+   "time_iso": "2026-11-06T20:27:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 153
+    }
+   ]
+  },
+  {
+   "id": "hn-50399569",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "hn_url": "https://news.ycombinator.com/item?id=50399569",
+   "score": 31,
+   "comments": 7,
+   "author": "Aldipower",
+   "time_iso": "2026-11-06T22:50:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-50399657",
+   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+   "hn_url": "https://news.ycombinator.com/item?id=50399657",
+   "score": 34,
+   "comments": 12,
+   "author": "doener",
+   "time_iso": "2026-11-06T23:00:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T07:38:53.825132+08:00",
+     "score": 34
     }
    ]
   }

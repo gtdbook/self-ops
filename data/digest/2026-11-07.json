@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T02:53:15.930490+08:00",
+ "generated_at": "2026-11-07T07:39:03.033998+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,9 +8,49 @@
    "errors": [],
    "items": [
     {
+     "title": "Tesla to wind down Cybertruck production",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "meta": "+328 分 / 4.8 小时 · 现 ⭐ 780",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Deus Ex",
      "url": "https://www.filfre.net/2026/11/deus-ex/",
-     "meta": "+68 分 / 1.4 小时 · 现 ⭐ 238",
+     "meta": "+152 分 / 6.2 小时 · 现 ⭐ 322",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "First steps in bare-metal programming using UEFI",
+     "url": "https://kevinboone.me/efitest_index.html",
+     "meta": "+150 分 / 6.2 小时 · 现 ⭐ 164",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "meta": "+146 分 / 4.8 小时 · 现 ⭐ 250",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "meta": "+84 分 / 6.2 小时 · 现 ⭐ 283",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Devvm.dev: One VM for every project",
+     "url": "https://devvm.dev/",
+     "meta": "+70 分 / 4.8 小时 · 现 ⭐ 88",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -24,9 +64,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "First steps in bare-metal programming using UEFI",
-     "url": "https://kevinboone.me/efitest_index.html",
-     "meta": "+67 分 / 1.4 小时 · 现 ⭐ 81",
+     "title": "Memorilla: Latent Semantic Memory for LLMs",
+     "url": "https://arxiv.org/abs/2610.21375",
+     "meta": "+64 分 / 4.8 小时 · 现 ⭐ 75",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,33 +80,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-     "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-     "meta": "+42 分 / 1.4 小时 · 现 ⭐ 574",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-     "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-     "meta": "+37 分 / 1.4 小时 · 现 ⭐ 275",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Gemini Omni 1.2 Flash",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "meta": "+29 分 / 1.4 小时 · 现 ⭐ 228",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
-     "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-     "meta": "+24 分 / 1.4 小时 · 现 ⭐ 34",
+     "title": "Size-It-Up (Game)",
+     "url": "https://magnitudle.com/size-it-up",
+     "meta": "+43 分 / 4.8 小时 · 现 ⭐ 60",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -208,7 +224,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 20184 · TypeScript",
+     "meta": "⭐ 20229 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -216,31 +232,31 @@
     {
      "title": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "meta": "⭐ 17586 · Rust",
+     "meta": "⭐ 17972 · Rust",
      "summary": "Craft Anything: understand how any software works, and craft your own.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "KKKKhazix/agent-autoloop",
-     "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 3634 · TypeScript",
-     "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "meta": "⭐ 3597 · C++",
+     "meta": "⭐ 3910 · C++",
      "summary": "VERY experimental Nintendo Switch 2 emulator",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "meta": "⭐ 3669 · TypeScript",
+     "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "meta": "⭐ 2842 · Python",
+     "meta": "⭐ 2877 · Python",
      "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +264,7 @@
     {
      "title": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "meta": "⭐ 2739 · Kotlin",
+     "meta": "⭐ 2746 · Kotlin",
      "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +272,7 @@
     {
      "title": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "meta": "⭐ 2110 · Swift",
+     "meta": "⭐ 2144 · Swift",
      "summary": "Entire MacOS running in your terminal.",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +280,7 @@
     {
      "title": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "meta": "⭐ 1996 · TypeScript",
+     "meta": "⭐ 2026 · TypeScript",
      "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +288,7 @@
     {
      "title": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "meta": "⭐ 1931 · TypeScript",
+     "meta": "⭐ 1949 · TypeScript",
      "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +296,7 @@
     {
      "title": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "meta": "⭐ 1563 · TypeScript",
+     "meta": "⭐ 1611 · TypeScript",
      "summary": "YellowFruit third-party client",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +304,7 @@
     {
      "title": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "meta": "⭐ 1549 · Swift",
+     "meta": "⭐ 1554 · Swift",
      "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +312,7 @@
     {
      "title": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "meta": "⭐ 1170 · Rust",
+     "meta": "⭐ 1177 · Rust",
      "summary": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "reason": null,
      "origin_source": "github_search"
@@ -310,18 +326,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "andrew-babo/muse4ai",
-     "url": "https://github.com/andrew-babo/muse4ai",
-     "meta": "⭐ 946 · TypeScript",
-     "summary": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+     "title": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "meta": "⭐ 950 · TypeScript",
+     "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "livliv-dev/player",
-     "url": "https://github.com/livliv-dev/player",
-     "meta": "⭐ 916 · TypeScript",
-     "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "title": "andrew-babo/muse4ai",
+     "url": "https://github.com/andrew-babo/muse4ai",
+     "meta": "⭐ 946 · TypeScript",
+     "summary": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -336,6 +352,14 @@
      "title": "Claude Code sends your email address to websites",
      "url": "https://github.com/anthropics/claude-code/issues/107757",
      "meta": "⭐ 1479 · 💬 462",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tesla to wind down Cybertruck production",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "meta": "⭐ 780 · 💬 1611",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -365,9 +389,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Tesla to wind down Cybertruck production",
-     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "meta": "⭐ 452 · 💬 1090",
+     "title": "Deus Ex",
+     "url": "https://www.filfre.net/2026/11/deus-ex/",
+     "meta": "⭐ 322 · 💬 161",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "meta": "⭐ 264 · 💬 56",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "meta": "⭐ 283 · 💬 212",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -389,17 +429,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Deus Ex",
-     "url": "https://www.filfre.net/2026/11/deus-ex/",
-     "meta": "⭐ 238 · 💬 118",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Gemini Omni 1.2 Flash",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "meta": "⭐ 228 · 💬 174",
+     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "meta": "⭐ 250 · 💬 205",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -413,41 +445,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-     "url": "https://worldstrike.fun/",
-     "meta": "⭐ 146 · 💬 92",
+     "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+     "meta": "⭐ 196 · 💬 439",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-     "url": "https://jhr.pensoft.net/articles.php?id=9096",
-     "meta": "⭐ 136 · 💬 43",
+     "title": "First steps in bare-metal programming using UEFI",
+     "url": "https://kevinboone.me/efitest_index.html",
+     "meta": "⭐ 164 · 💬 30",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Ask HN: What in the world is taking Ubuntu so long?",
-     "url": "https://news.ycombinator.com/item?id=50393105",
-     "meta": "⭐ 102 · 💬 50",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "meta": "⭐ 104 · 💬 106",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "We've built an open-source feature flag server for 11 years",
-     "url": "https://github.com/Unleash/unleash",
-     "meta": "⭐ 103 · 💬 65",
+     "title": "AI is dramatically accelerating AI research",
+     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+     "meta": "⭐ 153 · 💬 104",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -587,10 +603,58 @@
    "errors": [],
    "items": [
     {
+     "title": "[分享创造] ConvertPixel：浏览器本地处理的图片工具箱",
+     "url": "https://www.v2ex.com/t/1255124#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "ConvertPixel 是一套免费图片工具：截图二维码识别、按目标 KB 压缩、HEIC/WebP 等格式转换、多平台图标、人像去背、打码和二维码模板。无需注册，图片处理在浏览器内完成。 两个具体用途：手机不在身边时，选入电脑上的二维码截图直接读出网址；做应用时，用同一个 Logo 生成 Android、iOS、macOS 等平台图标。 站内目录有 71 个入口，其中包含共用工作台的格式快捷入口",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 出圈的 ai 短剧持械入宋算是 ai 短剧代表么？",
+     "url": "https://www.v2ex.com/t/1255123#reply1",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "今天花了 2 小时刷完，本质上就是 ai 场景小品剧 运镜，演出，人物调度基本没有 台词全是 1.25 倍，赶的一逼 表演都是 ai 典型的夸张表情。微表情想都不要想 bgm 凑合吧，能听 剧本应该是有人打磨，倒是没有特别大的 ai 味 作为免费剧，打发时间看个乐呵吧 相比之下已经变成烂剧的 outlander 都比这个强不知道多少倍啊 以现在 token 烧法和模型演进速度，是不是可能 2-3 ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 凌晨 3 点 你还在努力吗？",
+     "url": "https://www.v2ex.com/t/1255121#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "我在赶项目： https://farflung.cc 你呢",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] Claude 安卓 App 无法登录。",
+     "url": "https://www.v2ex.com/t/1255120#reply1",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "我用的 BlueStack 模拟器，大概 10 月底开始，就无法登录了，提示 Could not be verified 。 好像是某种 play 商店的保护机制过不去。怎么办？",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[天黑以后] 20261107 午夜俱乐部",
+     "url": "https://www.v2ex.com/t/1255119#reply8",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "又失眠了，这次因为一只蚊子，开了蚊香也没用，抓也抓不到。这周失眠了好几次，每次都是到三点多才睡，白天又是生物钟九点前就醒。不喜欢睡不着导致整个人白天没什么精神，加上每次睡不着脑子又有不好的想法。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[程序员] 刚刷到的，很好奇他到底给这家公司发了啥🤣",
      "url": "https://www.v2ex.com/t/1255118#reply0",
      "meta": "V2EX · 2026-11-06",
      "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了一个开源的 YouTube 桌面客户端 Lumtub：原生播放，推荐在本地跑，支持 Windows / Linux / macOS",
+     "url": "https://www.v2ex.com/t/1255117#reply1",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "Lumtub：免费开源的 YouTube 桌面客户端 大家好！分享一个我做的开源软件 Lumtub 。它是一个 YouTube 桌面客户端，支持 Windows、macOS 和 Linux， 免费、没有付费版，基于 GPL-3.0 完全开源 。 🎞️ 一分钟宣传片 ： https://github.com/0x696c757a696f/lumtub/raw/main/docs/promo/prom",
      "reason": null,
      "origin_source": "cn_rss"
     },
@@ -613,6 +677,14 @@
     {
      "title": "[Apple] 现在入手 M6 MacBook Pro 还是等几个月后的 M7 版？",
      "url": "https://www.v2ex.com/t/1255116#reply1",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "其实现在以旧换新的价格我已经能接受，但是据说 M7 版本要换模具了，重量轻半斤，还会上信仰灯和灵动岛！ 然后查了最新消息，大概是明年上半年会发布，我有点想等等了，大家怎么看？",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] 现在入手 M6 MacBook Pro 还是等几个月后的 M7 版？",
+     "url": "https://www.v2ex.com/t/1255116#reply9",
      "meta": "V2EX · 2026-11-06",
      "summary": "其实现在以旧换新的价格我已经能接受，但是据说 M7 版本要换模具了，重量轻半斤，还会上信仰灯和灵动岛！ 然后查了最新消息，大概是明年上半年会发布，我有点想等等了，大家怎么看？",
      "reason": null,
@@ -647,62 +719,6 @@
      "url": "https://www.v2ex.com/t/1255112#reply9",
      "meta": "V2EX · 2026-11-06",
      "summary": "看看各位 v 友的高见",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个 Claude Code CLI 侧边栏",
-     "url": "https://www.v2ex.com/t/1255111#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "Claude 的桌面 App 很好用，但日常工作手持两个账号，得 App 和 CLI 一起用。CLI 里没有 App 那样的侧边栏，能看的信息太少，就做了这个插件，先满足一些个人需求。 效果如图： 展示当前会话的： 目录、分支、模型，上下文和 5h / 周额度 子 Agent 的状态、耗时、token 会话里碰过的 PR / Issue ，带实时状态 你贴的、工具产出的链接 持续迭代中... Re",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个 Claude Code CLI 侧边栏",
-     "url": "https://www.v2ex.com/t/1255111#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "Claude 的桌面 App 很好用，但日常工作手持两个账号，得 App 和 CLI 一起用。CLI 里没有 App 那样的侧边栏，能看的信息太少，就做了这个插件，先满足一些个人需求。 效果如图： 展示当前会话的： 目录、分支、模型，上下文和 5h / 周额度 子 Agent 的状态、耗时、token 会话里碰过的 PR / Issue ，带实时状态 你贴的、工具产出的链接 持续迭代中... Re",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 阿里云国内的轻量云 上线了“学术加速” 按钮",
-     "url": "https://www.v2ex.com/t/1255110#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "开启会提示还是内测功能，然后继续开启就会出现报错。 有的时候很困扰，阿里云如果关闭了 22 端口还会出现安全提醒。 内测的功能直接放在主页上。 咋想的",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 阿里云国内的轻量云 上线了“学术加速” 按钮",
-     "url": "https://www.v2ex.com/t/1255110#reply2",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "开启会提示还是内测功能，然后继续开启就会出现报错。 有的时候很困扰，阿里云如果关闭了 22 端口还会出现安全提醒。 内测的功能直接放在主页上。 咋想的",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "特斯拉将停产 Cyber​​truck",
-     "url": "https://www.solidot.org/story?sid=85819",
-     "meta": "Solidot · 2026-11-06",
-     "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。然而 Cyber​​truck 研发比特斯拉的其它车型更",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 很久没开 JetBrains 家产品了",
-     "url": "https://www.v2ex.com/t/1255109#reply2",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "16 年发 wb 说等有钱了就买 IDEA ，结果现在有钱了也不用买了，变成了买 token 了。打败 IDEA(JetBrains)的不是比它更优秀的编译器，而是 AI",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 很久没开 JetBrains 家产品了",
-     "url": "https://www.v2ex.com/t/1255109#reply3",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "16 年发 wb 说等有钱了就买 IDEA ，结果现在有钱了也不用买了，变成了买 token 了。打败 IDEA(JetBrains)的不是比它更优秀的编译器，而是 AI",
      "reason": null,
      "origin_source": "cn_rss"
     }

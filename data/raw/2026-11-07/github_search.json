@@ -1,13 +1,13 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-07T02:53:07.354757+08:00",
+ "updated_at": "2026-11-07T07:38:54.444110+08:00",
  "count": 23,
  "items": [
   {
    "id": "gh-1440406663",
    "title": "joeblau/subvox",
    "url": "https://github.com/joeblau/subvox",
-   "stars": 767,
+   "stars": 773,
    "language": "Swift",
    "description": "",
    "created_at": "2026-10-31T01:48:19Z",
@@ -19,6 +19,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 767
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 773
     }
    ]
   },
@@ -26,7 +30,7 @@
    "id": "gh-1440705679",
    "title": "deepseek-ai/dsh-superagent-prototype",
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "stars": 20184,
+   "stars": 20229,
    "language": "TypeScript",
    "description": "Towards a More Autonomous Agent System",
    "created_at": "2026-10-31T09:32:46Z",
@@ -38,6 +42,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 20184
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 20229
     }
    ]
   },
@@ -45,7 +53,7 @@
    "id": "gh-1440927503",
    "title": "zortos293/Lichii",
    "url": "https://github.com/zortos293/Lichii",
-   "stars": 3597,
+   "stars": 3910,
    "language": "C++",
    "description": "VERY experimental Nintendo Switch 2 emulator",
    "created_at": "2026-10-31T14:17:26Z",
@@ -57,6 +65,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 3597
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 3910
     }
    ]
   },
@@ -64,7 +76,7 @@
    "id": "gh-1440956372",
    "title": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "stars": 17586,
+   "stars": 17972,
    "language": "Rust",
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "created_at": "2026-10-31T14:50:00Z",
@@ -76,6 +88,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 17586
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 17972
     }
    ]
   },
@@ -83,7 +99,7 @@
    "id": "gh-1441272552",
    "title": "Verlintas/NOIR",
    "url": "https://github.com/Verlintas/NOIR",
-   "stars": 2739,
+   "stars": 2746,
    "language": "Kotlin",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "created_at": "2026-10-31T21:34:39Z",
@@ -95,6 +111,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 2739
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 2746
     }
    ]
   },
@@ -102,7 +122,7 @@
    "id": "gh-1441494479",
    "title": "Minglink/dsh-jailbreak-workflow",
    "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
-   "stars": 710,
+   "stars": 712,
    "language": "TypeScript",
    "description": "DSH 破甲词制作作工作流",
    "created_at": "2026-11-01T04:50:41Z",
@@ -114,6 +134,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 710
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 712
     }
    ]
   },
@@ -121,7 +145,7 @@
    "id": "gh-1441517767",
    "title": "caru-ini/stack-diagram",
    "url": "https://github.com/caru-ini/stack-diagram",
-   "stars": 1931,
+   "stars": 1949,
    "language": "TypeScript",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
    "created_at": "2026-11-01T05:35:12Z",
@@ -133,6 +157,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 1931
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 1949
     }
    ]
   },
@@ -140,7 +168,7 @@
    "id": "gh-1441521221",
    "title": "wquguru/cicada",
    "url": "https://github.com/wquguru/cicada",
-   "stars": 1549,
+   "stars": 1554,
    "language": "Swift",
    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
    "created_at": "2026-11-01T05:41:23Z",
@@ -152,6 +180,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 1549
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 1554
     }
    ]
   },
@@ -159,7 +191,7 @@
    "id": "gh-1441526188",
    "title": "mromidev/claude-animated-shorts",
    "url": "https://github.com/mromidev/claude-animated-shorts",
-   "stars": 1996,
+   "stars": 2026,
    "language": "TypeScript",
    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
    "created_at": "2026-11-01T05:50:38Z",
@@ -171,6 +203,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 1996
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 2026
     }
    ]
   },
@@ -193,7 +229,7 @@
    "id": "gh-1441849727",
    "title": "Gezine/CivSwitch",
    "url": "https://github.com/Gezine/CivSwitch",
-   "stars": 627,
+   "stars": 630,
    "language": "JavaScript",
    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
    "created_at": "2026-11-01T13:30:59Z",
@@ -201,6 +237,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 627
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 630
     }
    ]
   },
@@ -208,7 +248,7 @@
    "id": "gh-1441897000",
    "title": "s1dashu/quiet-md",
    "url": "https://github.com/s1dashu/quiet-md",
-   "stars": 1170,
+   "stars": 1177,
    "language": "Rust",
    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
    "created_at": "2026-11-01T14:22:53Z",
@@ -220,6 +260,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 1170
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 1177
     }
    ]
   },
@@ -227,7 +271,7 @@
    "id": "gh-1441959881",
    "title": "chadyi/StudyOnTV",
    "url": "https://github.com/chadyi/StudyOnTV",
-   "stars": 692,
+   "stars": 696,
    "language": "Kotlin",
    "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
    "created_at": "2026-11-01T15:31:22Z",
@@ -235,6 +279,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 692
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 696
     }
    ]
   },
@@ -257,7 +305,7 @@
    "id": "gh-1442356805",
    "title": "AssassinCreator/steam-stash-value-report-card",
    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-   "stars": 785,
+   "stars": 786,
    "language": "Python",
    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
    "created_at": "2026-11-02T00:40:47Z",
@@ -269,6 +317,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 785
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 786
     }
    ]
   },
@@ -276,7 +328,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 2110,
+   "stars": 2144,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -288,6 +340,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 2110
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 2144
     }
    ]
   },
@@ -295,7 +351,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 3634,
+   "stars": 3669,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -307,6 +363,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 3634
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 3669
     }
    ]
   },
@@ -314,7 +374,7 @@
    "id": "gh-1444005452",
    "title": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 721,
+   "stars": 778,
    "language": "HTML",
    "description": "3D modeling in Python, built for LLMs.",
    "created_at": "2026-11-03T08:23:03Z",
@@ -322,6 +382,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 721
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 778
     }
    ]
   },
@@ -329,7 +393,7 @@
    "id": "gh-1444372497",
    "title": "Minireel/HGhub",
    "url": "https://github.com/Minireel/HGhub",
-   "stars": 1563,
+   "stars": 1611,
    "language": "TypeScript",
    "description": "YellowFruit third-party client",
    "created_at": "2026-11-03T14:04:27Z",
@@ -341,6 +405,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 1563
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 1611
     }
    ]
   },
@@ -363,7 +431,7 @@
    "id": "gh-1445112696",
    "title": "livliv-dev/player",
    "url": "https://github.com/livliv-dev/player",
-   "stars": 916,
+   "stars": 950,
    "language": "TypeScript",
    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
    "created_at": "2026-11-04T03:28:33Z",
@@ -375,6 +443,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 916
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 950
     }
    ]
   },
@@ -382,7 +454,7 @@
    "id": "gh-1445802355",
    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "stars": 2842,
+   "stars": 2877,
    "language": "Python",
    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
    "created_at": "2026-11-04T14:54:56Z",
@@ -394,6 +466,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 2842
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 2877
     }
    ]
   },
@@ -401,7 +477,7 @@
    "id": "gh-1446548114",
    "title": "mmdoctor/google-pro-helper",
    "url": "https://github.com/mmdoctor/google-pro-helper",
-   "stars": 796,
+   "stars": 869,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-05T04:52:28Z",
@@ -413,6 +489,10 @@
     {
      "t": "2026-11-07T02:53:07.354757+08:00",
      "score": 796
+    },
+    {
+     "t": "2026-11-07T07:38:54.444110+08:00",
+     "score": 869
     }
    ]
   }
