@@ -108,6 +108,7 @@ data/
 | GitHub Search | 近 7 天新建且 ⭐>30 的仓库 | 按 star 排序，等价轻量 Trending |
 | Product Hunt | 当前策展新品 + AI 分类 | 官方 Atom feed，展示 tagline 与发布日 |
 | 博客 RSS | OpenAI / DeepMind / Google AI / Hugging Face / TechCrunch AI / Ars Technica | 标题+摘要+链接 |
+| 中文技术圈 | 阮一峰周刊 / 少数派 / Solidot / 爱范儿 / V2EX / OSCHINA | 独立板块，与沉淀园兴趣词同语态 |
 
 在 `config.json` 中即可增删源：加 RSS 只需在 `feeds` 里追加一行；
 `aihot` 源已内置但默认关闭——AIHOT 条款（<https://aihot.news/terms>）规定
