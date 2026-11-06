@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-11-06T11:09:02.397446+08:00",
- "count": 2422,
+ "updated_at": "2026-11-06T19:48:40.348475+08:00",
+ "count": 2423,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -434,6 +434,15 @@
    "published": "Tue, 05 May 2026 10:00:00 GMT",
    "published_iso": "2026-05-05T10:00:00+00:00",
    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+  },
+  {
+   "id": "rss-0626389f477c076f",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "feed_name": "Hugging Face",
+   "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+   "published_iso": "2026-11-06T00:00:00+00:00",
+   "summary": ""
   },
   {
    "id": "rss-0663faec43616c69",
@@ -2692,15 +2701,6 @@
    "feed_name": "Hugging Face",
    "published": "Mon, 09 Mar 2026 00:00:00 GMT",
    "published_iso": "2026-03-09T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1f1a5dd0fa4ffc43",
-   "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
-   "url": "https://huggingface.co/blog/snowball-fight",
-   "feed_name": "Hugging Face",
-   "published": "Thu, 02 Dec 2021 00:00:00 GMT",
-   "published_iso": "2021-12-02T00:00:00+00:00",
    "summary": ""
   }
  ]

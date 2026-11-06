@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T11:09:08.359880+08:00",
+ "generated_at": "2026-11-06T19:48:50.431378+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -14,6 +14,14 @@
      "summary": "另见：百度发布最新基座模型 ERNIE 5.5 Flash Base：效率、开源、高性价比",
      "reason": null,
      "origin_source": "hackernews"
+    },
+    {
+     "title": "Fedora Linux 45 正式发布，安装系统时支持配置企业级存储",
+     "url": "https://www.oschina.net/news/503434/fedora-linux-45",
+     "meta": "中文技术圈 · Product Hunt 新品",
+     "summary": "Fedora Linux 45 发布了。这次的头号变化不在桌面，在安装器——Anaconda 直接集成了 Stratis 存储支持。 如果你不熟悉 Stratis，可以这么理解：它把设备映射（device-mapper）、XFS 和 LUKS 包在一个更好用的接口里，给本地存储带来企业级特性——精简配置（thin pr",
+     "reason": null,
+     "origin_source": "cn_rss"
     }
    ]
   },
@@ -25,7 +33,15 @@
     {
      "title": "sshole",
      "url": "https://sshhole.com",
-     "meta": "+1331 分 / 11.0 小时 · 现 ⭐ 2385",
+     "meta": "+1690 分 / 19.7 小时 · 现 ⭐ 2744",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Code sends your email address to websites",
+     "url": "https://github.com/anthropics/claude-code/issues/107757",
+     "meta": "+811 分 / 10.9 小时 · 现 ⭐ 1220",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -39,9 +55,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "MS Paint Remote Code Execution Vulnerability",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+     "meta": "+428 分 / 13.3 小时 · 现 ⭐ 567",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Search for everyone",
      "url": "https://kagi.com/changelog#11820",
      "meta": "+316 分 / 4.6 小时 · 现 ⭐ 573",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+     "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+     "meta": "+313 分 / 10.9 小时 · 现 ⭐ 366",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -55,17 +87,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "MS Paint Remote Code Execution Vulnerability",
-     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-     "meta": "+207 分 / 4.6 小时 · 现 ⭐ 346",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Claude Code sends your email address to websites",
-     "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "meta": "+205 分 / 2.2 小时 · 现 ⭐ 614",
+     "title": "September in Servo: <progress>, rounded rectangles, and more",
+     "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+     "meta": "+204 分 / 19.7 小时 · 现 ⭐ 247",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -79,25 +103,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "GPT-6 Astra covertly underperforms on safety research",
-     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-     "meta": "+192 分 / 11.0 小时 · 现 ⭐ 311",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "MCP Explained",
-     "url": "https://mcp-explained.com/",
-     "meta": "+157 分 / 11.0 小时 · 现 ⭐ 254",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "September in Servo: <progress>, rounded rectangles, and more",
-     "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-     "meta": "+152 分 / 11.0 小时 · 现 ⭐ 195",
+     "title": "I wish tech companies knew more about me",
+     "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+     "meta": "+196 分 / 13.3 小时 · 现 ⭐ 445",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -109,6 +117,14 @@
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
@@ -220,141 +236,6 @@
      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Bringing GPT-Rosalind to academic research labs",
-     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-     "meta": "OpenAI · 2026-10-15",
-     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    }
-   ]
-  },
-  "cn_rss": {
-   "title": "中文技术圈",
-   "emoji": "🏮",
-   "errors": [],
-   "items": [
-    {
-     "title": "[程序员] 为了充实虚无的人生，开始第三次尝试学吉他。。。",
-     "url": "https://www.v2ex.com/t/1254933#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "10 年前买过一把民谣吉他，但是没坚持下去，海鲜市场卖了 4 年前疫情整天在家无聊，又打了鸡血买了一把雅马哈静音吉他，又是没坚持下去，去年卖了 最近刷抖 y ，看电吉他又上头，然后又买了把电的加入门 音箱。。希望能坚持下去吧",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] V2EX Polish 插件今天更新是不是被投毒了，浏览器高 cpu 占用",
-     "url": "https://www.v2ex.com/t/1254931#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "浏览器出现冻结情况无法拖动，任务管理器进程发现浏览器高 cpu 占用，开关 V2EX Polish 插件确认是这个插件，看更新日期今天更新。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 🎁周末福利！原生纯净住宅 IP ✅自选国家，免费领用",
-     "url": "https://www.v2ex.com/t/1254930#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "Zooproxy 全球住宅 IP 站内福利来啦 ✅ 免费测试额度，先测质量再决定 ✅ 新用户五折优惠，长期有效 ⭐动态 $0.38/GB 起 ⭐静态 $0.9/IP/周起 🎁200MB 动态住宅 IP 兑换码 TTDA-X2WG-9DQL J82U-9J2Y-Z99A M8PU-GTJ7-WY9F ET8R-JTVX-XPS7 YAVW-Q7C8-SQAX 3HBK-PCLF-SWA9 QKEL-",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[生活] 现在有什么可以完成论文撰写全流程的方式吗，总感觉直接让 codex 干还是一坨",
-     "url": "https://www.v2ex.com/t/1254929#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 哪个 ai 复刻网站做的比较好",
-     "url": "https://www.v2ex.com/t/1254928#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "现在用 TRAE ，感觉里面的 ai 都不太聪明，让他 100%复刻，也是搞的乱七八遭的",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] Jio 18 个月的 Gemini Pro 被封了",
-     "url": "https://www.v2ex.com/t/1254927#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "之前买个 两个， 绑定到我的两个老号上面， 然后通过 sub2api 反代出来。 感觉还不错， 用了大概 1 个多月了。今天忽然间显示 违规封禁， 但是我的 google 号并没有被封， 我看了一下， 也没有被送中。 就是 gemini 没法用了。 邮箱里面也没有任何邮件， 各位碰到类似的问题吗？ 这种情况下怎么处理？ 我那两个 google 号还能再重新自己订阅 gemini pro 吗？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] ai 配音开源推荐",
-     "url": "https://www.v2ex.com/t/1254926#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "有没有好用的 ai 配音软件的开源项目推荐啊，最好是支持本地部署的。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 写了个轻量的 YouTube 音视频提取工具，免登录，欢迎体验拍砖",
-     "url": "https://www.v2ex.com/t/1254925#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "平时经常需要把 YouTube 上的一些公开技术教程、播客或者视频参考素材保存下来，转成 MP3 通勤路上听，或者存成 MP4 离线看。 之前用了一圈搜索排名前面的在线转换站，体验实在有点折磨：要么满屏都是伪装成“Download”的诱导按钮，点一下弹出好几个莫名其妙的广告页；要么把高画质和高音质锁死，强制要求注册或下载客户端。 索性自己动手做了一个干净的在线转换工具： YTConversion ",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] macOS 那坨上百 GB 的「系统数据」，终于能点开清了",
-     "url": "https://www.v2ex.com/t/1254924#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "macOS 「储存空间」里那坨灰色的「系统数据」一直点不开，动辄几十上百 GB 。我实测了菜单栏工具 SysData （ GitHub：Jarvis322/macos-sysdata ）：一次完整扫描约 180 项、18 个分组，每项带真实体积和 Safe / Review / Manual 安全标签，挂在菜单栏上点选清理； Review 类默认进废纸篓，30 天内还能反悔。 安装：brew in",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] [送码] 内购定价是 6 元，免费送一批码。",
-     "url": "https://www.v2ex.com/t/1254923#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "app 预览效果图 小程序码；活动口令“GNYFKJUYX8”，每个微信 ID 限领取 1 枚兑换码。 昨天的帖子在这里。 https://www.v2ex.com/t/1254703",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 给女儿做的小玩具：环宇寻声",
-     "url": "https://www.v2ex.com/t/1254922#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "前阵子在 V 站看到 RoamDial ，想到多年前看到 Radio Garden 时就想做个实体版，AI 将这个事情做到了零门槛，特此制作并分享。 环宇寻声：实体万向地球仪 + 维特智能 BWT901BLECL 蓝牙姿态传感器 + Python Web / 微信小程序。 转动真实地球仪，自动感知球顶朝向，收听当地电台，或让小萌宠用自然绘本语音给孩子讲世界故事！ 预留了充电孔和触控开关，整个地球仪",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 找 claude 给 gpt 写了段自定义指令（提示词），不说人话的问题主观上好了不少",
-     "url": "https://www.v2ex.com/t/1254921#reply1",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "claude 的吐槽： 具体原因我只能猜，OpenAI 内部怎么训的我不知道，不过有几个比较合理的解释： 训练奖励偏爱\"看起来严谨\"的回答。 打分的人（或奖励模型）倾向于给\"全面、不绝对、考虑到各种情况\"的回答高分。\"不等于\"”并非\"”不能仅凭\"这类句式，天然显得周全、不武断，于是被一路强化。 对\"误解\"的过度防御。 模型被训练得很怕曲解用户、怕说过头、怕被挑错，所以养成了先排除一个没人提出过的稻",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 大佬们，亚马逊 200 积分的活动被反薅了，发送了退款申请请求，退钱的可能性大吗",
-     "url": "https://www.v2ex.com/t/1254919#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "EC2 资源忘记关了，信用卡被扣费了",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] “那 qwen 模型是骚”",
-     "url": "https://www.v2ex.com/t/1254918#reply0",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "https://img.remit.ee/view/cB067kekilCr",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] workbuddy 的 hy4 属于什么水平了？",
-     "url": "https://www.v2ex.com/t/1254917#reply5",
-     "meta": "V2EX · 2026-11-06",
-     "summary": "我看现在免费，比 ds 4.1 flash 和 glm 5.3 flash 这两个低价的水平如何？",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   },
@@ -366,7 +247,7 @@
     {
      "title": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "meta": "⭐ 19618 · TypeScript",
+     "meta": "⭐ 19990 · TypeScript",
      "summary": "Towards a More Autonomous Agent System",
      "reason": null,
      "origin_source": "github_search"
@@ -374,7 +255,7 @@
     {
      "title": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "meta": "⭐ 15395 · Rust",
+     "meta": "⭐ 16566 · Rust",
      "summary": "Craft Anything: understand how any software works, and craft your own.",
      "reason": null,
      "origin_source": "github_search"
@@ -390,32 +271,32 @@
     {
      "title": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 3309 · TypeScript",
+     "meta": "⭐ 3474 · TypeScript",
      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Verlintas/NOIR",
-     "url": "https://github.com/Verlintas/NOIR",
-     "meta": "⭐ 2531 · Kotlin",
-     "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "meta": "⭐ 2468 · Python",
-     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "meta": "⭐ 2452 · C++",
+     "meta": "⭐ 2980 · C++",
      "summary": "VERY experimental Nintendo Switch 2 emulator",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "meta": "⭐ 2747 · Python",
+     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Verlintas/NOIR",
+     "url": "https://github.com/Verlintas/NOIR",
+     "meta": "⭐ 2679 · Kotlin",
+     "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -430,24 +311,32 @@
     {
      "title": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "meta": "⭐ 1978 · Swift",
+     "meta": "⭐ 2033 · Swift",
      "summary": "Entire MacOS running in your terminal.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "caru-ini/stack-diagram",
-     "url": "https://github.com/caru-ini/stack-diagram",
-     "meta": "⭐ 1876 · TypeScript",
-     "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "meta": "⭐ 1792 · TypeScript",
+     "meta": "⭐ 1931 · TypeScript",
      "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "caru-ini/stack-diagram",
+     "url": "https://github.com/caru-ini/stack-diagram",
+     "meta": "⭐ 1900 · TypeScript",
+     "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wquguru/cicada",
+     "url": "https://github.com/wquguru/cicada",
+     "meta": "⭐ 1534 · Swift",
+     "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -460,14 +349,6 @@
      "origin_source": "github_search"
     },
     {
-     "title": "wquguru/cicada",
-     "url": "https://github.com/wquguru/cicada",
-     "meta": "⭐ 1503 · Swift",
-     "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "kevinraymond/florilegium",
      "url": "https://github.com/kevinraymond/florilegium",
      "meta": "⭐ 1442 · TeX",
@@ -476,10 +357,10 @@
      "origin_source": "github_search"
     },
     {
-     "title": "N1nEmAn/sapper-v2",
-     "url": "https://github.com/N1nEmAn/sapper-v2",
-     "meta": "⭐ 1323 · Python",
-     "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
+     "title": "Minireel/HGhub",
+     "url": "https://github.com/Minireel/HGhub",
+     "meta": "⭐ 1358 · TypeScript",
+     "summary": "YellowFruit third-party client",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -493,7 +374,15 @@
     {
      "title": "sshole",
      "url": "https://sshhole.com",
-     "meta": "⭐ 2385 · 💬 587",
+     "meta": "⭐ 2744 · 💬 664",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Code sends your email address to websites",
+     "url": "https://github.com/anthropics/claude-code/issues/107757",
+     "meta": "⭐ 1220 · 💬 385",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -515,17 +404,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Claude Code sends your email address to websites",
-     "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "meta": "⭐ 614 · 💬 209",
+     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "meta": "⭐ 599 · 💬 128",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-     "meta": "⭐ 599 · 💬 128",
+     "title": "MS Paint Remote Code Execution Vulnerability",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+     "meta": "⭐ 567 · 💬 206",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -539,9 +428,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Goodbye from Salon",
-     "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-     "meta": "⭐ 466 · 💬 171",
+     "title": "Motorola Signature 27 with GrapheneOS support",
+     "url": "https://motorolanews.com/motorola-signature-27-2/",
+     "meta": "⭐ 497 · 💬 350",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -555,6 +444,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Goodbye from Salon",
+     "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+     "meta": "⭐ 466 · 💬 171",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "A thousand fewer paths to root",
      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
      "meta": "⭐ 449 · 💬 328",
@@ -563,9 +460,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Motorola Signature 27 with GrapheneOS support",
-     "url": "https://motorolanews.com/motorola-signature-27-2/",
-     "meta": "⭐ 408 · 💬 308",
+     "title": "I wish tech companies knew more about me",
+     "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+     "meta": "⭐ 445 · 💬 372",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -579,33 +476,17 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+     "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+     "meta": "⭐ 366 · 💬 177",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Images 2.6",
      "url": "https://openai.com/index/introducing-images-2-6/",
      "meta": "⭐ 365 · 💬 218",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "MS Paint Remote Code Execution Vulnerability",
-     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-     "meta": "⭐ 346 · 💬 131",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-     "url": "https://www.ricursive.com/ripple",
-     "meta": "⭐ 325 · 💬 116",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Lemmings CSS Animation",
-     "url": "https://markblah.github.io/lemmings/",
-     "meta": "⭐ 325 · 💬 64",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -626,10 +507,50 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Wisp",
+     "url": "https://www.producthunt.com/products/wisp-9",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Wisp is a little AI fairy who lives on your desktop",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "TraceX",
+     "url": "https://www.producthunt.com/products/tracex",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "The AI engineer for your production issues",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Turnstone",
+     "url": "https://www.producthunt.com/products/turnstone",
+     "meta": "Product Hunt · 2026-08-20",
+     "summary": "Grok Bot alternative that runs on your AI, completely free",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "ChatNest",
      "url": "https://www.producthunt.com/products/chatnest-2",
      "meta": "Product Hunt · 2026-11-04",
      "summary": "Folders and a prompt library for your AI chats",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Pressure",
+     "url": "https://www.producthunt.com/products/pressure",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Need a second opinion? Have two agents debate your topic",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tobira Site Agent",
+     "url": "https://www.producthunt.com/products/tobira-ai",
+     "meta": "Product Hunt · 2026-10-24",
+     "summary": "Turn your website into an AI agent that sells to AI agents",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -650,10 +571,42 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Letterpress-1",
+     "url": "https://www.producthunt.com/products/letterpress-1",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "One script install to automate growth for your website",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Living Brain",
      "url": "https://www.producthunt.com/products/chatandbuild",
      "meta": "Product Hunt · 2026-11-02",
      "summary": "Interoperable, efficient memory layer for agentic AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Make0 Brain OSS",
+     "url": "https://www.producthunt.com/products/make0-brain",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "Sync context across all your agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "AudioCentral",
+     "url": "https://www.producthunt.com/products/audiocentral",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Control every app’s audio from your Mac’s menu bar.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "crystl",
+     "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "multitasking terminal for AI coding agents, built for macOS",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -664,78 +617,133 @@
      "summary": "Turn your running photos and clips into share-ready Reels",
      "reason": null,
      "origin_source": "producthunt"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[分享创造] 倒行逆施 - 纯文字校友社区 - 时光校友圈",
+     "url": "https://www.v2ex.com/t/1255079#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "受 V2EX 启发，短视频时代，不见得文字内容没有机会。 时光校友圈，欢迎大家体验！ https://xiaoyouquan.com",
+     "reason": null,
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Paws",
-     "url": "https://www.producthunt.com/products/paws",
-     "meta": "Product Hunt · 2026-11-01",
-     "summary": "Meet strangers through their cats, behind frosted glass",
+     "title": "[OpenAI] tibo 还不会重置，都 6 天了，等一个重置",
+     "url": "https://www.v2ex.com/t/1255078#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "如题，openai 是换帅了吗？ 11 月这么多天了也不重置下",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Dessn",
-     "url": "https://www.producthunt.com/products/dessn-2",
-     "meta": "Product Hunt · 2026-10-21",
-     "summary": "The design canvas that runs your real code.",
+     "title": "[分享创造] 做了一个 Android 扫码工具，无广告、无需注册，支持批量制码和标签打印",
+     "url": "https://www.v2ex.com/t/1255077#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "大家好，分享一下自己做的 Android 应用 QR & Barcode Scan 。 除了日常扫描二维码和条形码，也做了图片识码、二维码生成和批量标签功能，适合需要保存扫码记录、分享 Wi-Fi ，或者给物品打印标签的场景。 目前支持： - 相机扫码、图片识码：可以从相册导入图片，支持裁剪、旋转；扫描到网址后先展示结果，由你决定是否打开。 - 生成二维码和条形码：支持网址、Wi-Fi 、联系人等",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "LiveReacting for ChatGPT",
-     "url": "https://www.producthunt.com/products/livereacting",
-     "meta": "Product Hunt · 2026-11-03",
-     "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+     "title": "[分享发现] 空气炸锅并不费电，冬天适合烤红薯",
+     "url": "https://www.v2ex.com/t/1255076#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "之前一直以为空气炸锅很费电，实际测试了下并不是这样的。 测试设备: 苏泊尔 2000W 空气炸锅(温度范围 80-200 度)，电量计插座 开 80 度: 30W 开 180 度: 功率会先升到 1800W ，大概过了 15-30 秒降到 28W 炉灯: 38W(炉灯功率单独算出来的，上面两个数据已经减去炉灯功率了，这个空气炸锅可以单独开关炉灯) 这比功耗算下来比之前想的要低多了，之前我还以为烤个",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Deployed Yet?",
-     "url": "https://www.producthunt.com/products/deployed-yet",
-     "meta": "Product Hunt · 2026-11-03",
-     "summary": "See if your Vercel, Cloudflare and GitHub deploys shipped",
+     "title": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
+     "url": "https://www.oschina.net/news/503457",
+     "meta": "OSCHINA · 2026-11-06",
+     "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT...",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Tencent Hy4",
-     "url": "https://www.producthunt.com/products/hunyuan-a13b",
-     "meta": "Product Hunt · 2026-11-04",
-     "summary": "Tencent’s flagship model learns to see and use a computer",
+     "title": "[分享发现] 分享一个我的小程序广告收入， ecpm 最高到过 670",
+     "url": "https://www.v2ex.com/t/1255075#reply2",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Bridge",
-     "url": "https://www.producthunt.com/products/meetonbridge",
-     "meta": "Product Hunt · 2026-10-28",
-     "summary": "Video conferencing for the agentic era",
+     "title": "2026 开源行业解决方案创新赛「开源智能硬件解决方案赛道」决赛名单公布",
+     "url": "https://www.oschina.net/news/503456",
+     "meta": "OSCHINA · 2026-11-06",
+     "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源智能硬件解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 代码仓库链接 Blockless 科创教育 AI 嵌入式软件开发平台 辛瑞莉 https:...",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Mellow Kids",
-     "url": "https://www.producthunt.com/products/mellow-kids",
-     "meta": "Product Hunt · 2026-10-26",
-     "summary": "Personalized sleep and development app for parents",
+     "title": "[推广] 给小孩做了个游戏 15 分钟搞定了",
+     "url": "https://www.v2ex.com/t/1255073#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "https://plaingame.games",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Nock",
-     "url": "https://www.producthunt.com/products/nock-2",
-     "meta": "Product Hunt · 2026-11-01",
-     "summary": "A notch for Windows, in 1 MB of Rust",
+     "title": "[问与答] PPT 生成软件哪个好？",
+     "url": "https://www.v2ex.com/t/1255072#reply2",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "在国内工作，日常工作中需要生成 ppt ，请问用哪个软件好？ 1 、workbuddy 2 、chatgpt 3 、trae 4 、其他推荐",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
     },
     {
-     "title": "Scrollsnacks",
-     "url": "https://www.producthunt.com/products/scrollsnacks",
-     "meta": "Product Hunt · 2026-11-04",
-     "summary": "Launch videos, broken down second by second",
+     "title": "[程序员] Windows terminal 终端的地位也岌岌可危",
+     "url": "https://www.v2ex.com/t/1255071#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "每个人都想写个 SSH 终端，有 rust 的,go 的和 nodejs 的，而且功能全，界面美观，迭代快，还有 AI 功能。 微软去年发布的带 AI 的 Windows terminal ，没激起一点水花。 想当年 Windows terminal 发布的时候是何等惊艳，现在变成牛夫人。",
      "reason": null,
-     "origin_source": "producthunt"
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] [周末限时福利] 免费白嫖 claude-opus-5-5, gpt-6.1-sol、 grok-4.7、deepseek-v4.1-flash",
+     "url": "https://www.v2ex.com/t/1255070#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "点击链接注册 API 中转站即可随机领取 2-5 美刀鸡蛋 Midalo API 中转站注册地址： https://agent.midalo.ai/ （一定要用这个地址注册，不然拿不到赠送额度） Midalo API 官方 QQ 群：1030748124 （注册后进群发送账户 ID 即可随机领取测试额度鸡蛋，24 小时内到账） 客服 QQ：3809674723",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 关于 gemini 用不了之后的戒断反应",
+     "url": "https://www.v2ex.com/t/1255069#reply6",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "平时反代接 hermes 里用，虽然有时候感觉挺谄媚的，但是今天突然被风控后，尝试换了好几个其他的模型，都感觉没有那种说人话的味道，开始有戒断反应了.. 想请教下各位，有没有能力上和 gemini 3.8 flash 差不多，量大管饱的且说人话的模型方案，ds 4.1f 试了下感觉也不怎么说人话的样子",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[求职] [远程求职] 大四，有实习经验，做过 Agent 和全栈开发",
+     "url": "https://www.v2ex.com/t/1255068#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "各位 V 友好，目前大四，想找一份远程开发工作。 有开发实习经历，做过 Agent 相关项目和全栈开发，日常可稳定使用 Claude 辅助开发。希望寻找 Agent、AI 应用或全栈开发方向的机会。 有合适岗位的朋友，欢迎在评论区留言交流，感谢！",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 快上车，趁还能玩：用这个 Skill 生成特斯拉车机涂装",
+     "url": "https://www.v2ex.com/t/1255067#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "最近折腾 2025 款焕新 Model Y 的车机自定义涂装，反复遇到图标倒置、侧面图案横着躺、面板被裁掉、PNG 超过 1 MB 等问题，干脆把这些经验整理成了一个可复用的 Agent Skill 。 GitHub： https://github.com/albert-lv/tesla-wrap-workflow 前段时间看到 社区在讨论国内自定义涂装后续可能受限 。我没查到 Tesla 官方统",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[生活] 双十一香水推荐",
+     "url": "https://www.v2ex.com/t/1255066#reply0",
+     "meta": "V2EX · 2026-11-06",
+     "summary": "一直没有用过香水，男士香水有推荐么？计划双十一入手香奈儿蔚蓝款",
+     "reason": null,
+     "origin_source": "cn_rss"
     }
    ]
   }

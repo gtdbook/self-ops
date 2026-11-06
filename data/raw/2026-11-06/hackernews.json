@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-06T11:09:00.680759+08:00",
- "count": 49,
+ "updated_at": "2026-11-06T19:48:38.953120+08:00",
+ "count": 61,
  "items": [
   {
    "id": "hn-50337586",
@@ -140,8 +140,8 @@
    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
    "url": "https://www.linum.ai/field-notes/pjit-21k",
    "hn_url": "https://news.ycombinator.com/item?id=50368208",
-   "score": 161,
-   "comments": 15,
+   "score": 241,
+   "comments": 22,
    "author": "schopra909",
    "time_iso": "2026-11-04T16:45:11+00:00",
    "history": [
@@ -156,6 +156,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 161
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 241
     }
    ]
   },
@@ -408,8 +412,8 @@
    "title": "sshole",
    "url": "https://sshhole.com",
    "hn_url": "https://news.ycombinator.com/item?id=50378228",
-   "score": 2385,
-   "comments": 587,
+   "score": 2744,
+   "comments": 664,
    "author": "josemrb",
    "time_iso": "2026-11-05T12:19:02+00:00",
    "history": [
@@ -432,6 +436,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 2385
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 2744
     }
    ]
   },
@@ -516,8 +524,8 @@
    "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
    "url": "https://firenook.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50378643",
-   "score": 46,
-   "comments": 10,
+   "score": 126,
+   "comments": 17,
    "author": "sanjevirau",
    "time_iso": "2026-11-05T13:07:29+00:00",
    "history": [
@@ -528,6 +536,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 126
     }
    ]
   },
@@ -536,8 +548,8 @@
    "title": "I wish tech companies knew more about me",
    "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
    "hn_url": "https://news.ycombinator.com/item?id=50378942",
-   "score": 320,
-   "comments": 290,
+   "score": 445,
+   "comments": 372,
    "author": "freetonik",
    "time_iso": "2026-11-05T13:40:52+00:00",
    "history": [
@@ -552,6 +564,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 320
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 445
     }
    ]
   },
@@ -588,8 +604,8 @@
    "title": "September in Servo: <progress>, rounded rectangles, and more",
    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
    "hn_url": "https://news.ycombinator.com/item?id=50379576",
-   "score": 195,
-   "comments": 48,
+   "score": 247,
+   "comments": 62,
    "author": "iamnothere",
    "time_iso": "2026-11-05T14:34:18+00:00",
    "history": [
@@ -612,6 +628,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 195
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 247
     }
    ]
   },
@@ -692,8 +712,8 @@
    "title": "Motorola Signature 27 with GrapheneOS support",
    "url": "https://motorolanews.com/motorola-signature-27-2/",
    "hn_url": "https://news.ycombinator.com/item?id=50380810",
-   "score": 408,
-   "comments": 308,
+   "score": 497,
+   "comments": 350,
    "author": "monneyboi",
    "time_iso": "2026-11-05T16:01:34+00:00",
    "history": [
@@ -708,6 +728,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 408
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 497
     }
    ]
   },
@@ -752,8 +776,8 @@
    "title": "Window Sweaters",
    "url": "https://github.com/saragordic/window-sweaters",
    "hn_url": "https://news.ycombinator.com/item?id=50381383",
-   "score": 265,
-   "comments": 83,
+   "score": 365,
+   "comments": 111,
    "author": "nickswalker",
    "time_iso": "2026-11-05T16:50:14+00:00",
    "history": [
@@ -768,6 +792,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 265
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 365
     }
    ]
   },
@@ -800,8 +828,8 @@
    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
    "url": "https://github.com/rivet-dev/rivet",
    "hn_url": "https://news.ycombinator.com/item?id=50381687",
-   "score": 76,
-   "comments": 43,
+   "score": 102,
+   "comments": 53,
    "author": "NathanFlurry",
    "time_iso": "2026-11-05T17:17:42+00:00",
    "history": [
@@ -816,6 +844,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 76
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 102
     }
    ]
   },
@@ -824,8 +856,8 @@
    "title": "The Hackintosh Reborn",
    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
    "hn_url": "https://news.ycombinator.com/item?id=50383057",
-   "score": 224,
-   "comments": 106,
+   "score": 325,
+   "comments": 182,
    "author": "rubatuga",
    "time_iso": "2026-11-05T19:08:22+00:00",
    "history": [
@@ -840,6 +872,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 224
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 325
     }
    ]
   },
@@ -960,8 +996,8 @@
    "title": "MS Paint Remote Code Execution Vulnerability",
    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
    "hn_url": "https://news.ycombinator.com/item?id=50384233",
-   "score": 346,
-   "comments": 131,
+   "score": 567,
+   "comments": 206,
    "author": "kuberwastaken",
    "time_iso": "2026-11-05T20:43:42+00:00",
    "history": [
@@ -976,6 +1012,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 346
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 567
     }
    ]
   },
@@ -1000,8 +1040,8 @@
    "title": "Claude Code sends your email address to websites",
    "url": "https://github.com/anthropics/claude-code/issues/107757",
    "hn_url": "https://news.ycombinator.com/item?id=50385272",
-   "score": 614,
-   "comments": 209,
+   "score": 1220,
+   "comments": 385,
    "author": "motoroco",
    "time_iso": "2026-11-05T22:17:15+00:00",
    "history": [
@@ -1012,6 +1052,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 614
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 1220
     }
    ]
   },
@@ -1020,8 +1064,8 @@
    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "hn_url": "https://news.ycombinator.com/item?id=50385870",
-   "score": 145,
-   "comments": 62,
+   "score": 366,
+   "comments": 177,
    "author": "randycupertino",
    "time_iso": "2026-11-05T23:09:57+00:00",
    "history": [
@@ -1032,6 +1076,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 145
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 366
     }
    ]
   },
@@ -1060,8 +1108,8 @@
    "title": "Inkling 2 Small",
    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
    "hn_url": "https://news.ycombinator.com/item?id=50386338",
-   "score": 88,
-   "comments": 39,
+   "score": 215,
+   "comments": 70,
    "author": "Philpax",
    "time_iso": "2026-11-06T00:00:24+00:00",
    "history": [
@@ -1072,6 +1120,10 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 88
+    },
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 215
     }
    ]
   },
@@ -1088,6 +1140,198 @@
     {
      "t": "2026-11-06T11:09:00.680759+08:00",
      "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50387738",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "hn_url": "https://news.ycombinator.com/item?id=50387738",
+   "score": 85,
+   "comments": 22,
+   "author": "gkapur",
+   "time_iso": "2026-11-06T03:16:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 85
+    }
+   ]
+  },
+  {
+   "id": "hn-50387796",
+   "title": "Pwn.college",
+   "url": "https://pwn.college/",
+   "hn_url": "https://news.ycombinator.com/item?id=50387796",
+   "score": 174,
+   "comments": 22,
+   "author": "tripdout",
+   "time_iso": "2026-11-06T03:27:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 174
+    }
+   ]
+  },
+  {
+   "id": "hn-50388122",
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "hn_url": "https://news.ycombinator.com/item?id=50388122",
+   "score": 115,
+   "comments": 40,
+   "author": "jonbaer",
+   "time_iso": "2026-11-06T04:17:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 115
+    }
+   ]
+  },
+  {
+   "id": "hn-50388513",
+   "title": "I struggle to believe that AI R&D is ingenious",
+   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "hn_url": "https://news.ycombinator.com/item?id=50388513",
+   "score": 120,
+   "comments": 101,
+   "author": "porridgeraisin",
+   "time_iso": "2026-11-06T05:19:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 120
+    }
+   ]
+  },
+  {
+   "id": "hn-50389222",
+   "title": "Britain to make salary disclosure in job ads mandatory",
+   "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+   "hn_url": "https://news.ycombinator.com/item?id=50389222",
+   "score": 238,
+   "comments": 229,
+   "author": "1659447091",
+   "time_iso": "2026-11-06T07:22:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 238
+    }
+   ]
+  },
+  {
+   "id": "hn-50389260",
+   "title": "Hardcoded credentials and other issues in Tata Motors App",
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+   "hn_url": "https://news.ycombinator.com/item?id=50389260",
+   "score": 38,
+   "comments": 6,
+   "author": "qtqtqt",
+   "time_iso": "2026-11-06T07:28:39+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50389333",
+   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+   "url": "https://github.com/ppmpreetham/BUI",
+   "hn_url": "https://news.ycombinator.com/item?id=50389333",
+   "score": 262,
+   "comments": 105,
+   "author": "ppmpreetham",
+   "time_iso": "2026-11-06T07:40:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 262
+    }
+   ]
+  },
+  {
+   "id": "hn-50389370",
+   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+   "url": "https://apps.metaebene.me/en/kugelblitz",
+   "hn_url": "https://news.ycombinator.com/item?id=50389370",
+   "score": 102,
+   "comments": 24,
+   "author": "luoc",
+   "time_iso": "2026-11-06T07:47:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 102
+    }
+   ]
+  },
+  {
+   "id": "hn-50389420",
+   "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+   "url": "https://worldstrike.fun/",
+   "hn_url": "https://news.ycombinator.com/item?id=50389420",
+   "score": 64,
+   "comments": 45,
+   "author": "n4ze3m",
+   "time_iso": "2026-11-06T07:55:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50389448",
+   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+   "url": "https://obelisk.club/research/app-store-2026",
+   "hn_url": "https://news.ycombinator.com/item?id=50389448",
+   "score": 49,
+   "comments": 44,
+   "author": "Peter216",
+   "time_iso": "2026-11-06T07:59:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50390124",
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "hn_url": "https://news.ycombinator.com/item?id=50390124",
+   "score": 130,
+   "comments": 76,
+   "author": "microtonal",
+   "time_iso": "2026-11-06T09:27:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 130
+    }
+   ]
+  },
+  {
+   "id": "hn-50390525",
+   "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+   "url": "https://jhr.pensoft.net/articles.php?id=9096",
+   "hn_url": "https://news.ycombinator.com/item?id=50390525",
+   "score": 39,
+   "comments": 9,
+   "author": "hitekker",
+   "time_iso": "2026-11-06T10:21:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-06T19:48:38.953120+08:00",
+     "score": 39
     }
    ]
   }
