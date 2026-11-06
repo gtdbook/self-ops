@@ -37,7 +37,7 @@ META_DIR = DATA_DIR / "meta"
 LEDGER_MAX = 200
 TOKEN_CLAMP = 5.0
 TOKEN_DROP = 0.15
-REAL_SOURCES = ("hackernews", "github_search", "blog_rss", "producthunt", "aihot")
+REAL_SOURCES = ("hackernews", "github_search", "blog_rss", "cn_rss", "producthunt", "aihot")
 
 LEDGER_EMOJI = {
     "source_demote": "📉",

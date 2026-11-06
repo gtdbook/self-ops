@@ -240,7 +240,7 @@ def format_meta(source_key, item):
     if source_key == "github_search":
         lang = item.get("language") or ""
         return f"⭐ {item.get('stars', 0)}" + (f" · {lang}" if lang else "")
-    if source_key == "blog_rss":
+    if source_key in ("blog_rss", "cn_rss"):
         pub = (item.get("published_iso") or "")[:10]
         return item.get("feed_name", "") + (f" · {pub}" if pub else "")
     if source_key == "producthunt":

@@ -32,6 +32,7 @@ SOURCE_META = {
     "hackernews": {"title": "Hacker News 热榜", "emoji": "💬"},
     "github_search": {"title": "GitHub 新星榜", "emoji": "🚀"},
     "blog_rss": {"title": "博客与技术媒体", "emoji": "📰"},
+    "cn_rss": {"title": "中文技术圈", "emoji": "🏮"},
     "producthunt": {"title": "Product Hunt 新品", "emoji": "🎯"},
     "aihot": {"title": "AIHOT 精选", "emoji": "🔥"},
     "resonance": {"title": "多源共振", "emoji": "🔗"},
@@ -39,7 +40,7 @@ SOURCE_META = {
 }
 
 # 参与跨源共振聚类的源（github 仓库名与新闻标题形态差异太大，不参与）
-RESONANCE_SOURCES = ("hackernews", "blog_rss", "producthunt", "aihot")
+RESONANCE_SOURCES = ("hackernews", "blog_rss", "cn_rss", "producthunt", "aihot")
 
 
 def _score_value(key, item):
@@ -55,7 +56,7 @@ def _sort_key(key, item):
         return item.get("score", 0)
     if key == "github_search":
         return item.get("stars", 0)
-    if key == "blog_rss":
+    if key in ("blog_rss", "cn_rss"):
         return item.get("published_iso") or ""
     return ""
 

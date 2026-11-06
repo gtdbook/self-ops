@@ -44,7 +44,7 @@ jobs:
             echo "本轮无数据变更，跳过提交"
           else
             git commit -m "data: 自动抓取与处理 $(date -u '+%Y-%m-%d %H:%M') UTC"
-            git push
+            git push || { echo "push 被拒（GitHub 偶发 5xx），30s 后重试一次"; sleep 30; git push; }
           fi
 
       - name: 失败即时告警

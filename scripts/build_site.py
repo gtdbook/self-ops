@@ -193,6 +193,7 @@ SOURCE_NAMES = {
     "hackernews": "Hacker News",
     "github_search": "GitHub 新星",
     "blog_rss": "博客 RSS",
+    "cn_rss": "中文技术圈",
     "producthunt": "Product Hunt",
     "aihot": "AIHOT",
 }

@@ -65,6 +65,17 @@
         { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index" }
       ]
     },
+    "cn_rss": {
+      "enabled": true,
+      "feeds": [
+        { "name": "阮一峰周刊", "url": "https://www.ruanyifeng.com/blog/atom.xml" },
+        { "name": "少数派", "url": "https://sspai.com/feed" },
+        { "name": "Solidot", "url": "https://www.solidot.org/index.rss" },
+        { "name": "爱范儿", "url": "https://www.ifanr.com/feed" },
+        { "name": "V2EX", "url": "https://www.v2ex.com/index.xml" },
+        { "name": "OSCHINA", "url": "https://www.oschina.net/news/rss" }
+      ]
+    },
     "producthunt": {
       "enabled": true,
       "feeds": [

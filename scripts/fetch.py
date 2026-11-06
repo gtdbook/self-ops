@@ -249,6 +249,7 @@ FETCHERS = {
     "hackernews": fetch_hackernews,
     "github_search": fetch_github_search,
     "blog_rss": fetch_blog_rss,
+    "cn_rss": fetch_blog_rss,  # 中文技术圈：同一 RSS 解析器，独立板块与适应度
     "producthunt": fetch_producthunt,
     "aihot": fetch_aihot,
 }
