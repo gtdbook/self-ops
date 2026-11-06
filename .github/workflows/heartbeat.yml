@@ -10,7 +10,7 @@ on:
 
 permissions:
   issues: write
-  contents: read
+  contents: write # 自检状态落盘 data/meta/heartbeat.json（站点运行面板数据源）
   actions: write # 漏跑自愈：允许补触发 pipeline / evolve
 
 jobs:

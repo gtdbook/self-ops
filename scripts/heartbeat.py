@@ -9,6 +9,7 @@
 
 import json
 import os
+import subprocess
 import sys
 import urllib.error
 from datetime import datetime, timezone
@@ -17,7 +18,9 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(__file__))
 from common import (  # noqa: E402
     DATA_DIR,
+    REPO_ROOT,
     append_panel_comment,
+    atomic_write_json,
     gh_api,
     http_get,
     load_config,
@@ -163,6 +166,25 @@ def self_heal(token, repo, pipeline_age_h, evolve_ok):
     return notes
 
 
+def commit_status(payload):
+    """自检结果落盘 data/meta/heartbeat.json 并提交——实验室站点直接读它渲染运行面板。"""
+    atomic_write_json(DATA_DIR / "meta" / "heartbeat.json", payload)
+
+    def run(*args):
+        subprocess.run(["git", *args], cwd=REPO_ROOT, capture_output=True, text=True)
+
+    run("config", "user.name", "self-ops-bot")
+    run("config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
+    run("add", "data/meta/heartbeat.json")
+    if subprocess.run(
+        ["git", "diff", "--cached", "--quiet"], cwd=REPO_ROOT
+    ).returncode == 0:
+        return
+    run("commit", "-m", "heartbeat: 自检状态落盘（站点运行面板数据源）")
+    run("pull", "--rebase", "origin", "main")
+    run("push")
+
+
 def main():
     dry_run = "--dry-run" in sys.argv
     token = os.environ.get("GH_TOKEN")
@@ -196,6 +218,16 @@ def main():
     if dry_run:
         print("\n".join(lines))
         return
+
+    # 自检状态落盘并提交——实验室站点「运行面板」的数据源
+    try:
+        commit_status({
+            "updated_at": now_tz().isoformat(),
+            "checks": {name: {"ok": ok, "detail": detail} for name, (ok, detail) in checks.items()},
+            "heal_notes": heal_notes,
+        })
+    except Exception as e:
+        print(f"[warn] 自检状态落盘失败（不影响告警闭环）: {e}")
 
     if bad:
         body = "\n".join(lines) + "\n\n> 此 issue 由自检自动创建/更新，恢复后将自动关闭。"
