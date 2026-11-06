@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-07T01:26:15.848528+08:00",
- "count": 25,
+ "updated_at": "2026-11-07T02:53:06.704239+08:00",
+ "count": 36,
  "items": [
   {
    "id": "hn-50382958",
    "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
    "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
    "hn_url": "https://news.ycombinator.com/item?id=50382958",
-   "score": 50,
-   "comments": 1,
+   "score": 64,
+   "comments": 2,
    "author": "NaOH",
    "time_iso": "2026-11-05T18:59:37+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 50
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 64
     }
    ]
   },
@@ -52,18 +56,38 @@
    ]
   },
   {
+   "id": "hn-50388001",
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "hn_url": "https://news.ycombinator.com/item?id=50388001",
+   "score": 104,
+   "comments": 106,
+   "author": "ChrisArchitect",
+   "time_iso": "2026-11-06T04:00:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 104
+    }
+   ]
+  },
+  {
    "id": "hn-50388122",
    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
    "hn_url": "https://news.ycombinator.com/item?id=50388122",
-   "score": 238,
-   "comments": 80,
+   "score": 275,
+   "comments": 87,
    "author": "jonbaer",
    "time_iso": "2026-11-06T04:17:49+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 238
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 275
     }
    ]
   },
@@ -72,14 +96,18 @@
    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
    "url": "https://github.com/ppmpreetham/BUI",
    "hn_url": "https://news.ycombinator.com/item?id=50389333",
-   "score": 532,
-   "comments": 208,
+   "score": 575,
+   "comments": 235,
    "author": "ppmpreetham",
    "time_iso": "2026-11-06T07:40:35+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 532
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 575
     }
    ]
   },
@@ -88,14 +116,18 @@
    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
    "url": "https://apps.metaebene.me/en/kugelblitz",
    "hn_url": "https://news.ycombinator.com/item?id=50389370",
-   "score": 208,
-   "comments": 54,
+   "score": 227,
+   "comments": 60,
    "author": "luoc",
    "time_iso": "2026-11-06T07:47:38+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 208
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 227
     }
    ]
   },
@@ -136,14 +168,18 @@
    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
    "hn_url": "https://news.ycombinator.com/item?id=50390124",
-   "score": 532,
-   "comments": 332,
+   "score": 574,
+   "comments": 356,
    "author": "microtonal",
    "time_iso": "2026-11-06T09:27:12+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 532
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 574
     }
    ]
   },
@@ -152,14 +188,18 @@
    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
    "url": "https://jhr.pensoft.net/articles.php?id=9096",
    "hn_url": "https://news.ycombinator.com/item?id=50390525",
-   "score": 122,
-   "comments": 42,
+   "score": 136,
+   "comments": 43,
    "author": "hitekker",
    "time_iso": "2026-11-06T10:21:15+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 122
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 136
     }
    ]
   },
@@ -180,18 +220,38 @@
    ]
   },
   {
+   "id": "hn-50391456",
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "hn_url": "https://news.ycombinator.com/item?id=50391456",
+   "score": 452,
+   "comments": 1090,
+   "author": "PLenz",
+   "time_iso": "2026-11-06T12:13:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 452
+    }
+   ]
+  },
+  {
    "id": "hn-50392118",
    "title": "Gemini Omni 1.2 Flash",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "hn_url": "https://news.ycombinator.com/item?id=50392118",
-   "score": 199,
-   "comments": 154,
+   "score": 228,
+   "comments": 174,
    "author": "thisisauserid",
    "time_iso": "2026-11-06T13:35:27+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 199
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 228
     }
    ]
   },
@@ -216,14 +276,18 @@
    "title": "MTG-I2 First Images",
    "url": "https://www.eumetsat.int/mtg-i2-first-images",
    "hn_url": "https://news.ycombinator.com/item?id=50392787",
-   "score": 24,
-   "comments": 3,
+   "score": 43,
+   "comments": 8,
    "author": "N19PEDL2",
    "time_iso": "2026-11-06T14:35:29+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 43
     }
    ]
   },
@@ -232,7 +296,7 @@
    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
    "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
    "hn_url": "https://news.ycombinator.com/item?id=50393089",
-   "score": 24,
+   "score": 37,
    "comments": 1,
    "author": "goopthink",
    "time_iso": "2026-11-06T14:57:16+00:00",
@@ -240,6 +304,10 @@
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 37
     }
    ]
   },
@@ -328,14 +396,18 @@
    "title": "Deus Ex",
    "url": "https://www.filfre.net/2026/11/deus-ex/",
    "hn_url": "https://news.ycombinator.com/item?id=50393758",
-   "score": 170,
-   "comments": 77,
+   "score": 238,
+   "comments": 118,
    "author": "cybersoyuz",
    "time_iso": "2026-11-06T15:44:36+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 170
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 238
     }
    ]
   },
@@ -344,14 +416,18 @@
    "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
    "hn_url": "https://news.ycombinator.com/item?id=50394292",
-   "score": 10,
-   "comments": 3,
+   "score": 34,
+   "comments": 13,
    "author": "sshah03",
    "time_iso": "2026-11-06T16:15:03+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 34
     }
    ]
   },
@@ -360,14 +436,18 @@
    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
    "url": "https://github.com/anomalyco/rune",
    "hn_url": "https://news.ycombinator.com/item?id=50394569",
-   "score": 4,
-   "comments": 0,
+   "score": 71,
+   "comments": 41,
    "author": "mik3y",
    "time_iso": "2026-11-06T16:31:32+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 71
     }
    ]
   },
@@ -376,14 +456,34 @@
    "title": "First steps in bare-metal programming using UEFI",
    "url": "https://kevinboone.me/efitest_index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50394855",
-   "score": 14,
-   "comments": 0,
+   "score": 81,
+   "comments": 5,
    "author": "LaSombra",
    "time_iso": "2026-11-06T16:50:29+00:00",
    "history": [
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 81
+    }
+   ]
+  },
+  {
+   "id": "hn-50394991",
+   "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+   "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+   "hn_url": "https://news.ycombinator.com/item?id=50394991",
+   "score": 6,
+   "comments": 0,
+   "author": "adityawebde",
+   "time_iso": "2026-11-06T17:00:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 6
     }
    ]
   },
@@ -400,6 +500,138 @@
     {
      "t": "2026-11-07T01:26:15.848528+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50395450",
+   "title": "Devvm.dev: One VM for every project",
+   "url": "https://devvm.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50395450",
+   "score": 18,
+   "comments": 6,
+   "author": "luispa",
+   "time_iso": "2026-11-06T17:30:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50395747",
+   "title": "Flawless UI-UX Skill 1.0.0",
+   "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0",
+   "hn_url": "https://news.ycombinator.com/item?id=50395747",
+   "score": 12,
+   "comments": 6,
+   "author": "99lcccss",
+   "time_iso": "2026-11-06T17:52:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50395866",
+   "title": "Perplexity launches AI agents for work",
+   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+   "hn_url": "https://news.ycombinator.com/item?id=50395866",
+   "score": 16,
+   "comments": 11,
+   "author": "cybermango",
+   "time_iso": "2026-11-06T17:59:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50395869",
+   "title": "Size-It-Up (Game)",
+   "url": "https://magnitudle.com/size-it-up",
+   "hn_url": "https://news.ycombinator.com/item?id=50395869",
+   "score": 17,
+   "comments": 6,
+   "author": "whoishiding",
+   "time_iso": "2026-11-06T17:59:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50395905",
+   "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+   "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+   "hn_url": "https://news.ycombinator.com/item?id=50395905",
+   "score": 30,
+   "comments": 8,
+   "author": "Analemma_",
+   "time_iso": "2026-11-06T18:02:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
+   "id": "hn-50395919",
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "url": "https://arxiv.org/abs/2610.21375",
+   "hn_url": "https://news.ycombinator.com/item?id=50395919",
+   "score": 11,
+   "comments": 1,
+   "author": "handfuloflight",
+   "time_iso": "2026-11-06T18:03:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50395933",
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+   "hn_url": "https://news.ycombinator.com/item?id=50395933",
+   "score": 32,
+   "comments": 6,
+   "author": "brazukadev",
+   "time_iso": "2026-11-06T18:04:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50396064",
+   "title": "We Know 15,579 Websites Are Infected. How Do We Tell Them?",
+   "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+   "hn_url": "https://news.ycombinator.com/item?id=50396064",
+   "score": 17,
+   "comments": 11,
+   "author": "speckx",
+   "time_iso": "2026-11-06T18:13:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T02:53:06.704239+08:00",
+     "score": 17
     }
    ]
   }

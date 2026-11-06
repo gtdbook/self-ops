@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-07T01:26:25.375814+08:00",
- "count": 153,
+ "updated_at": "2026-11-07T02:53:15.398821+08:00",
+ "count": 167,
  "items": [
   {
    "id": "rss-005bdceb685a6d88",
@@ -130,6 +130,24 @@
    "summary": ""
   },
   {
+   "id": "rss-12aa1cb323197e34",
+   "title": "[分享发现] 分析了下我小程序的盈利情况,亏了￥ 1659.71",
+   "url": "https://www.v2ex.com/t/1255058#reply10",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T09:38:53Z",
+   "published_iso": "2026-11-06T09:38:53+00:00",
+   "summary": "数据总览 收入 日活截屏 成本 cdn: 接入了 3d 模型,和前期没优化,流量消耗贼大。 服务器:￥ 43.52 扩容下硬盘。 成本￥ 805 第一步核算 我只放开屏广告,其他广告 ecpm 低要死,看不上。 之前开屏广告的 ecpm 是 4.x 的,慢慢降到 1.x 。 亏钱:￥ 805(cdn 等支出) - ￥ 485.29(流量主) = ￥ 319.71 。 光是服务器资源,就亏 319,还有其他的。 第二项成本 活动支持 我觉"
+  },
+  {
+   "id": "rss-156baf945eeb5c60",
+   "title": "[求职] [远程求职] 大四，有实习经验，做过 Agent 和全栈开发",
+   "url": "https://www.v2ex.com/t/1255068#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T10:22:33Z",
+   "published_iso": "2026-11-06T10:22:33+00:00",
+   "summary": "各位 V 友好，目前大四，想找一份远程开发工作。 有开发实习经历，做过 Agent 相关项目和全栈开发，日常可稳定使用 Claude 辅助开发。希望寻找 Agent、AI 应用或全栈开发方向的机会。 有合适岗位的朋友，欢迎在评论区留言交流，感谢！"
+  },
+  {
    "id": "rss-1575d7f70792fc2b",
    "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
    "url": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -220,6 +238,15 @@
    "summary": "在国内工作，日常工作中需要生成 ppt ，请问用哪个软件好？ 1 、workbuddy 2 、chatgpt 3 、trae 4 、其他推荐"
   },
   {
+   "id": "rss-24fe698c9fa2e924",
+   "title": "[分享创造] 做了个 Claude Code CLI 侧边栏",
+   "url": "https://www.v2ex.com/t/1255111#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:40:11Z",
+   "published_iso": "2026-11-06T15:40:11+00:00",
+   "summary": "Claude 的桌面 App 很好用，但日常工作手持两个账号，得 App 和 CLI 一起用。CLI 里没有 App 那样的侧边栏，能看的信息太少，就做了这个插件，先满足一些个人需求。 效果如图： 展示当前会话的： 目录、分支、模型，上下文和 5h / 周额度 子 Agent 的状态、耗时、token 会话里碰过的 PR / Issue ，带实时状态 你贴的、工具产出的链接 持续迭代中... Repo： https://github.c"
+  },
+  {
    "id": "rss-260d22100d23dd92",
    "title": "[分享创造] 倒行逆施 - 纯文字校友社区 - 时光校友圈",
    "url": "https://www.v2ex.com/t/1255079#reply0",
@@ -283,6 +310,24 @@
    "summary": "Yeah Music 8.0.0 版本即将来啦~~~ 各位大佬还记得 YeahMusic 吗，这个是基于我个人使用场景孵化的跨平台播放器，主要是简单、纯粹的音乐播放器，没有广告，不搞花里胡哨的东西，依然专注听歌体验。 目前支持 Android 、Linux 、Mac 、Windows 平台，还没适配 iOS ，主要功能包括： musical_note: 本地音乐扫描与播放 memo: 音乐元信息查看与编辑 microphone: 歌词、"
   },
   {
+   "id": "rss-29a7fd62ded5e4ad",
+   "title": "[Visual Studio Code] VSCode 中的 Gemini、antigravity 这两个插件的区别是什么？以及……",
+   "url": "https://www.v2ex.com/t/1255098#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T14:43:20Z",
+   "published_iso": "2026-11-06T14:43:20+00:00",
+   "summary": "以及为什么这两个插件的评论量很少的感觉，道理上谷歌也是大厂，这两个插件似乎不怎么受欢迎。 看评分不高，评论不多。"
+  },
+  {
+   "id": "rss-29be265a051e8a1e",
+   "title": "[分享创造] vibe 了一个压缩图片到指定大小的工具",
+   "url": "https://www.v2ex.com/t/1255100#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T14:52:06Z",
+   "published_iso": "2026-11-06T14:52:06+00:00",
+   "summary": "https://imgcap.vercel.app/ 有些网站上传图片会限制大小，这个工具可以压缩图片到指定的大小，例如: 10mb -> 500kb 这也是一个 npm 包可以集成到你的项目上传组件中,省去了让用户手动调整的麻烦： import imgcap from 'imgcap' // Social media avatar (500KB limit) const avatar = await imgcap(file, { ta"
+  },
+  {
    "id": "rss-2a18eb27039ea65c",
    "title": "[程序员] 很久没开 JetBrains 家产品了",
    "url": "https://www.v2ex.com/t/1255109#reply2",
@@ -335,6 +380,15 @@
    "published": "Thu, 05 Nov 2026 19:39:18 +0800",
    "published_iso": "2026-11-05T11:39:18+00:00",
    "summary": "11 月 5 日，百度正式开源最新基座模型文心 5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。 据介绍，ERNIE 5.5 Flash Base 没有经过任何中..."
+  },
+  {
+   "id": "rss-365d50df1d3c47cd",
+   "title": "[git] 请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
+   "url": "https://www.v2ex.com/t/1255105#reply12",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:07:01Z",
+   "published_iso": "2026-11-06T15:07:01+00:00",
+   "summary": "我有一台甲骨文 ARM 4 核 24G 满配服务器，一台绿云 GreenCloud 。我想尽可能保存所有 GitHub 账户所有仓库所有数据 请问大家有什么要注意的"
   },
   {
    "id": "rss-390a8e5f0415ac8a",
@@ -409,6 +463,15 @@
    "summary": "ApiGoo 是 ApiGo 的go语言版本，是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入。支持接入（mysql、oracle、达梦、TiDB、DolphinDB、DuckDB ）等 SQL 或 NoSQL 数据源，在线可视化编写 SQL 快速发布接口，支持接口上下线、接口管..."
   },
   {
+   "id": "rss-4b46c3db51f3f3b4",
+   "title": "[Apple] 现在入手 M6 MacBook Pro 还是等几个月后的 M7 版？",
+   "url": "https://www.v2ex.com/t/1255116#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T17:18:13Z",
+   "published_iso": "2026-11-06T17:18:13+00:00",
+   "summary": "其实现在以旧换新的价格我已经能接受，但是据说 M7 版本要换模具了，重量轻半斤，还会上信仰灯和灵动岛！ 然后查了最新消息，大概是明年上半年会发布，我有点想等等了，大家怎么看？"
+  },
+  {
    "id": "rss-4d7b431451455666",
    "title": "Anthropic微微发力，AI中转站的天就要塌了？",
    "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -463,6 +526,15 @@
    "summary": "开启会提示还是内测功能，然后继续开启就会出现报错。 有的时候很困扰，阿里云如果关闭了 22 端口还会出现安全提醒。 内测的功能直接放在主页上。 咋想的"
   },
   {
+   "id": "rss-53806614c4b92579",
+   "title": "[程序员] 很久没开 JetBrains 家产品了",
+   "url": "https://www.v2ex.com/t/1255109#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:14:58Z",
+   "published_iso": "2026-11-06T15:14:58+00:00",
+   "summary": "16 年发 wb 说等有钱了就买 IDEA ，结果现在有钱了也不用买了，变成了买 token 了。打败 IDEA(JetBrains)的不是比它更优秀的编译器，而是 AI"
+  },
+  {
    "id": "rss-539a0ec30cca4fd1",
    "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
    "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -508,6 +580,15 @@
    "summary": "项目介绍 真正的 AI 大屏来了，一句话描述需求，AI 自动生成数据大屏与仪表盘，支持对话式修改优化 :sparkles: 积木报表是一款免费的数据可视化报表工具，像搭积木一样完全在线设计。分三大模块：JimuReport 主攻复杂报表与打印，JimuBI 专注数据大屏与仪表盘可视化，JimuChatBI 提供对话式智能数据分析。 AI 智能生成：..."
   },
   {
+   "id": "rss-59124e6ae35c58e8",
+   "title": "[问与答] 阿里云国内的轻量云 上线了“学术加速” 按钮",
+   "url": "https://www.v2ex.com/t/1255110#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T15:36:07Z",
+   "published_iso": "2026-11-06T15:36:07+00:00",
+   "summary": "开启会提示还是内测功能，然后继续开启就会出现报错。 有的时候很困扰，阿里云如果关闭了 22 端口还会出现安全提醒。 内测的功能直接放在主页上。 咋想的"
+  },
+  {
    "id": "rss-5a13e45a3d880d13",
    "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
    "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -533,6 +614,15 @@
    "published": "Fri, 06 Nov 2026 19:23:16 +0800",
    "published_iso": "2026-11-06T11:23:16+00:00",
    "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT..."
+  },
+  {
+   "id": "rss-6399218f0b242051",
+   "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+   "url": "https://www.solidot.org/story?sid=85820",
+   "feed_name": "Solidot",
+   "published": "Sat, 07 Nov 2026 01:20:39 +0800",
+   "published_iso": "2026-11-06T17:20:39+00:00",
+   "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员工则通过合同承担义务，按照管理者分配的任务开展工作。员工劳动所创造的产品归公司所有，公司负责为产品定价、管理销售交易，支"
   },
   {
    "id": "rss-678a5a401c2d66ad",
@@ -677,6 +767,15 @@
    "published": "Fri, 06 Nov 2026 14:56:41 +0800",
    "published_iso": "2026-11-06T06:56:41+00:00",
    "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。 查看全文"
+  },
+  {
+   "id": "rss-7e5b9d416d01c67c",
+   "title": "[分享创造] 倒行逆施 - 纯文字校友社区 - 时光校友圈",
+   "url": "https://www.v2ex.com/t/1255079#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T11:34:56Z",
+   "published_iso": "2026-11-06T11:34:56+00:00",
+   "summary": "受 V2EX 启发，短视频时代，不见得文字内容没有机会。 时光校友圈，欢迎大家体验！ https://xiaoyouquan.com"
   },
   {
    "id": "rss-7ecc0d2401a9bf63",
@@ -1102,6 +1201,15 @@
    "summary": "越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 "
   },
   {
+   "id": "rss-cce4b2a97c9837af",
+   "title": "[OpenAI] tibo 还不会重置，都 6 天了，等一个重置",
+   "url": "https://www.v2ex.com/t/1255078#reply11",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T11:33:07Z",
+   "published_iso": "2026-11-06T11:33:07+00:00",
+   "summary": "如题，openai 是换帅了吗？ 11 月这么多天了也不重置下"
+  },
+  {
    "id": "rss-cf1d6030e8d12135",
    "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
    "url": "https://sspai.com/post/118546",
@@ -1145,6 +1253,15 @@
    "published": "Thu, 05 Nov 2026 12:39:38 +0000",
    "published_iso": "2026-11-05T12:39:38+00:00",
    "summary": "经典回归。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-d0cdee55e050fea3",
+   "title": "[程序员] 刚刷到的，很好奇他到底给这家公司发了啥🤣",
+   "url": "https://www.v2ex.com/t/1255118#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T17:43:53Z",
+   "published_iso": "2026-11-06T17:43:53+00:00",
+   "summary": ""
   },
   {
    "id": "rss-d0e2b71de8413696",
@@ -1217,6 +1334,15 @@
    "published": "Thu, 05 Nov 2026 10:00:23 +0000",
    "published_iso": "2026-11-05T10:00:23+00:00",
    "summary": "为什么 AI 成了搜索的 「必选项」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-e46e5b7d2baa7c19",
+   "title": "[分享创造] 做了一个开源的 YouTube 桌面客户端 Lumtub：原生播放，推荐在本地跑，支持 Windows / Linux / macOS",
+   "url": "https://www.v2ex.com/t/1255117#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-06T17:27:34Z",
+   "published_iso": "2026-11-06T17:27:34+00:00",
+   "summary": "Lumtub：免费开源的 YouTube 桌面客户端 大家好！分享一个我做的开源软件 Lumtub 。它是一个 YouTube 桌面客户端，支持 Windows、macOS 和 Linux， 免费、没有付费版，基于 GPL-3.0 完全开源 。 🎞️ 一分钟宣传片 ： https://github.com/0x696c757a696f/lumtub/raw/main/docs/promo/promo-en.mp4 为什么做它 我每天在 "
   },
   {
    "id": "rss-e5a3078e9666f05e",
