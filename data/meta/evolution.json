@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T11:28:43.141972+08:00",
+ "updated_at": "2026-11-06T11:24:26.956080+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -90,6 +90,18 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "weights(10次→+1.00)、models(6次→+1.00)、qwen(6次→+1.00)、hackertube(6次→+1.00)、patrick(6次→+1.00)、stewart(6次→+1.00)、debt(4次→+1.00)、off(4次→+1.00)"
+  },
+  {
+   "ts": "2026-11-06T11:24:26.956080+08:00",
+   "kind": "source_demote",
+   "target": "cn_rss",
+   "detail": "fitness=0.143 偏低，权重降至 0.95"
+  },
+  {
+   "ts": "2026-11-06T11:24:26.956080+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "code(8次→+0.50)、weights(8次→+1.45)、videos(6次→+0.50)、youtube(6次→+0.50)、astra(6次→+0.50)、ask(6次→+0.50)、models(6次→+1.45)、qwen(6次→+1.45)"
   }
  ]
 }

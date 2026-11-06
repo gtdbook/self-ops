@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T11:28:43.141972+08:00",
+ "updated_at": "2026-11-06T11:24:26.956080+08:00",
  "sources": {
   "hackernews": 1.0,
   "github_search": 1.0,
@@ -8,14 +8,19 @@
   "aihot": 1.0
  },
  "tokens": {
-  "weights": 1.0,
-  "models": 1.0,
-  "qwen": 1.0,
-  "hackertube": 1.0,
-  "stewart": 1.0,
-  "patrick": 1.0,
-  "debt": 1.0,
-  "off": 1.0
+  "weights": 1.45,
+  "models": 1.45,
+  "qwen": 1.45,
+  "hackertube": 0.95,
+  "stewart": 0.95,
+  "patrick": 0.95,
+  "debt": 0.95,
+  "off": 0.95,
+  "code": 0.5,
+  "videos": 0.5,
+  "youtube": 0.5,
+  "astra": 0.5,
+  "ask": 0.5
  },
  "seen_comment_ids": [],
  "seed_tokens": {
