@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T11:24:26.956080+08:00",
+ "updated_at": "2026-11-07T10:45:59.831704+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -102,6 +102,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "code(8次→+0.50)、weights(8次→+1.45)、videos(6次→+0.50)、youtube(6次→+0.50)、astra(6次→+0.50)、ask(6次→+0.50)、models(6次→+1.45)、qwen(6次→+1.45)"
+  },
+  {
+   "ts": "2026-11-07T10:45:59.831704+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "linux(7次→+0.50)、videos(6次→+0.97)、youtube(6次→+0.97)、weights(6次→+1.88)、ask(6次→+0.97)、models(6次→+1.88)、hackertube(6次→+1.40)、flash(5次→+0.50)"
   }
  ]
 }

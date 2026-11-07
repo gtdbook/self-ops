@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T11:24:26.956080+08:00",
+ "updated_at": "2026-11-07T10:45:59.831704+08:00",
  "sources": {
   "hackernews": {
    "weight_hint": 1.0,
@@ -16,7 +16,7 @@
    "streak_low": 0,
    "enabled": true,
    "fitness": 1.0,
-   "mean_items": 90.6,
+   "mean_items": 95.7,
    "days_present": 7,
    "error_days": 0,
    "window_days": 7
@@ -26,7 +26,7 @@
    "streak_low": 0,
    "enabled": true,
    "fitness": 1.0,
-   "mean_items": 2404.9,
+   "mean_items": 2409.3,
    "days_present": 7,
    "error_days": 0,
    "window_days": 7
@@ -43,11 +43,11 @@
   },
   "cn_rss": {
    "weight_hint": 0.95,
-   "streak_low": 1,
+   "streak_low": 0,
    "enabled": true,
-   "fitness": 0.143,
-   "mean_items": 204.0,
-   "days_present": 1,
+   "fitness": 0.286,
+   "mean_items": 230.5,
+   "days_present": 2,
    "error_days": 0,
    "window_days": 7
   }
