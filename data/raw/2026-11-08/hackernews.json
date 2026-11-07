@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-08T01:25:00.791589+08:00",
- "count": 25,
+ "updated_at": "2026-11-08T05:26:38.796644+08:00",
+ "count": 41,
  "items": [
   {
    "id": "hn-50352791",
@@ -88,14 +88,18 @@
    "title": "Text.js: Build full-stack React apps that render inside console.log",
    "url": "https://textjs.org/",
    "hn_url": "https://news.ycombinator.com/item?id=50361657",
-   "score": 22,
-   "comments": 8,
+   "score": 68,
+   "comments": 39,
    "author": "nateb2022",
    "time_iso": "2026-11-04T04:59:36+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 68
     }
    ]
   },
@@ -132,6 +136,22 @@
    ]
   },
   {
+   "id": "hn-50370787",
+   "title": "The typo generation is damaging literature",
+   "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+   "hn_url": "https://news.ycombinator.com/item?id=50370787",
+   "score": 44,
+   "comments": 56,
+   "author": "bryanrasmussen",
+   "time_iso": "2026-11-04T20:05:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 44
+    }
+   ]
+  },
+  {
    "id": "hn-50377613",
    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
    "url": "https://github.com/hyphatech/spindle",
@@ -144,6 +164,22 @@
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50380134",
+   "title": "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
+   "url": "https://unfix.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50380134",
+   "score": 9,
+   "comments": 0,
+   "author": "u-pump",
+   "time_iso": "2026-11-05T15:15:32+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 9
     }
    ]
   },
@@ -216,14 +252,18 @@
    "title": "Libghostty 1.0",
    "url": "https://mitchellh.com/writing/libghostty-1-0",
    "hn_url": "https://news.ycombinator.com/item?id=50399933",
-   "score": 910,
-   "comments": 149,
+   "score": 983,
+   "comments": 173,
    "author": "mfiguiere",
    "time_iso": "2026-11-06T23:30:52+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 910
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 983
     }
    ]
   },
@@ -240,6 +280,38 @@
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 163
+    }
+   ]
+  },
+  {
+   "id": "hn-50401740",
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+   "hn_url": "https://news.ycombinator.com/item?id=50401740",
+   "score": 185,
+   "comments": 173,
+   "author": "benbreen",
+   "time_iso": "2026-11-07T04:54:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 185
+    }
+   ]
+  },
+  {
+   "id": "hn-50401867",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "hn_url": "https://news.ycombinator.com/item?id=50401867",
+   "score": 271,
+   "comments": 223,
+   "author": "ackyshake",
+   "time_iso": "2026-11-07T05:20:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 271
     }
    ]
   },
@@ -264,14 +336,18 @@
    "title": "Need for Speed Underground 2 online in the browser",
    "url": "https://nfsu2.xyz/",
    "hn_url": "https://news.ycombinator.com/item?id=50403052",
-   "score": 491,
-   "comments": 155,
+   "score": 682,
+   "comments": 199,
    "author": "fluxusars",
    "time_iso": "2026-11-07T09:36:36+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 491
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 682
     }
    ]
   },
@@ -280,14 +356,18 @@
    "title": "Running a law firm on Free software",
    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
    "hn_url": "https://news.ycombinator.com/item?id=50403066",
-   "score": 132,
-   "comments": 63,
+   "score": 206,
+   "comments": 90,
    "author": "DeepLogin",
    "time_iso": "2026-11-07T09:39:06+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 132
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 206
     }
    ]
   },
@@ -296,14 +376,34 @@
    "title": "Every Mac comes with an (undocumented) family member classifier",
    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
    "hn_url": "https://news.ycombinator.com/item?id=50403097",
-   "score": 407,
-   "comments": 234,
+   "score": 509,
+   "comments": 299,
    "author": "infwhispers",
    "time_iso": "2026-11-07T09:46:03+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 407
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 509
+    }
+   ]
+  },
+  {
+   "id": "hn-50403507",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "hn_url": "https://news.ycombinator.com/item?id=50403507",
+   "score": 135,
+   "comments": 152,
+   "author": "thunderbong",
+   "time_iso": "2026-11-07T11:11:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 135
     }
    ]
   },
@@ -312,14 +412,18 @@
    "title": "The $8 Linux Computer (2022)",
    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
    "hn_url": "https://news.ycombinator.com/item?id=50404599",
-   "score": 105,
-   "comments": 46,
+   "score": 174,
+   "comments": 79,
    "author": "zenincognito",
    "time_iso": "2026-11-07T14:00:20+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 105
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 174
     }
    ]
   },
@@ -360,14 +464,34 @@
    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
    "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
    "hn_url": "https://news.ycombinator.com/item?id=50405263",
-   "score": 3,
-   "comments": 0,
+   "score": 42,
+   "comments": 10,
    "author": "jiant",
    "time_iso": "2026-11-07T15:16:01+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 3
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50405674",
+   "title": "Terry Pratchett's Study",
+   "url": "https://www.sussi.dk/terry-pratchetts-study",
+   "hn_url": "https://news.ycombinator.com/item?id=50405674",
+   "score": 51,
+   "comments": 12,
+   "author": "ColinWright",
+   "time_iso": "2026-11-07T16:05:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 51
     }
    ]
   },
@@ -376,30 +500,198 @@
    "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
    "url": "https://kevinboone.me/tpwin.html",
    "hn_url": "https://news.ycombinator.com/item?id=50405678",
-   "score": 46,
-   "comments": 27,
+   "score": 159,
+   "comments": 89,
    "author": "andsoitis",
    "time_iso": "2026-11-07T16:06:27+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 46
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 159
+    }
+   ]
+  },
+  {
+   "id": "hn-50405782",
+   "title": "Every processor die anyone has photographed and given away",
+   "url": "https://sheets.works/data-viz/cpu-dies",
+   "hn_url": "https://news.ycombinator.com/item?id=50405782",
+   "score": 52,
+   "comments": 12,
+   "author": "user_7832",
+   "time_iso": "2026-11-07T16:21:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 52
     }
    ]
   },
   {
    "id": "hn-50405789",
-   "title": "How Long Can Life Wait?",
+   "title": "How long can life wait?",
    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
    "hn_url": "https://news.ycombinator.com/item?id=50405789",
-   "score": 22,
-   "comments": 5,
+   "score": 96,
+   "comments": 53,
    "author": "Ariarule",
    "time_iso": "2026-11-07T16:22:59+00:00",
    "history": [
     {
      "t": "2026-11-08T01:25:00.791589+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
+   "id": "hn-50406111",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "hn_url": "https://news.ycombinator.com/item?id=50406111",
+   "score": 211,
+   "comments": 133,
+   "author": "user_7832",
+   "time_iso": "2026-11-07T17:06:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 211
+    }
+   ]
+  },
+  {
+   "id": "hn-50406222",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "hn_url": "https://news.ycombinator.com/item?id=50406222",
+   "score": 117,
+   "comments": 30,
+   "author": "antiuniverse",
+   "time_iso": "2026-11-07T17:19:00+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 117
+    }
+   ]
+  },
+  {
+   "id": "hn-50406292",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "url": "https://github.com/hedgerow-dev/coldframe",
+   "hn_url": "https://news.ycombinator.com/item?id=50406292",
+   "score": 133,
+   "comments": 31,
+   "author": "hedgerow-dev",
+   "time_iso": "2026-11-07T17:27:30+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 133
+    }
+   ]
+  },
+  {
+   "id": "hn-50406319",
+   "title": "Five memorable books about programming (2008)",
+   "url": "https://prog21.dadgum.com/19.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50406319",
+   "score": 52,
+   "comments": 25,
+   "author": "andsoitis",
+   "time_iso": "2026-11-07T17:30:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50406502",
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "hn_url": "https://news.ycombinator.com/item?id=50406502",
+   "score": 22,
+   "comments": 3,
+   "author": "andsoitis",
+   "time_iso": "2026-11-07T17:54:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50406563",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "url": "https://hunch.net/?p=13764006",
+   "hn_url": "https://news.ycombinator.com/item?id=50406563",
+   "score": 233,
+   "comments": 132,
+   "author": "srean",
+   "time_iso": "2026-11-07T18:02:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 233
+    }
+   ]
+  },
+  {
+   "id": "hn-50406670",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "url": "https://blog.bosscher.ch/posts/openstick/",
+   "hn_url": "https://news.ycombinator.com/item?id=50406670",
+   "score": 169,
+   "comments": 36,
+   "author": "LaurensBER",
+   "time_iso": "2026-11-07T18:12:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 169
+    }
+   ]
+  },
+  {
+   "id": "hn-50408082",
+   "title": "Show HN: Where Were We",
+   "url": "https://wherewerewe.app/",
+   "hn_url": "https://news.ycombinator.com/item?id=50408082",
+   "score": 7,
+   "comments": 1,
+   "author": "zkiihne",
+   "time_iso": "2026-11-07T21:08:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50408104",
+   "title": "Shadow of the Sun",
+   "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+   "hn_url": "https://news.ycombinator.com/item?id=50408104",
+   "score": 3,
+   "comments": 2,
+   "author": "andsoitis",
+   "time_iso": "2026-11-07T21:11:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T05:26:38.796644+08:00",
+     "score": 3
     }
    ]
   }

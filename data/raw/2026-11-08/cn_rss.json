@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-08T01:25:11.054413+08:00",
- "count": 153,
+ "updated_at": "2026-11-08T05:26:49.349322+08:00",
+ "count": 169,
  "items": [
   {
    "id": "rss-0340d3b9746b0dfb",
@@ -56,6 +56,15 @@
    "published": "2026-11-07T07:59:16Z",
    "published_iso": "2026-11-07T07:59:16+00:00",
    "summary": "终端里的信息流聚合阅读器——知乎、X （ Twitter ）、Reddit 、Hacker News 、V2EX 、RSS 与 Telegram 频道，一个终端全看。持续优化中，很适合上班的时候摸鱼，别人以为你在用大模型 cli 写代码，实际可以是在刷 V2EX ， https://github.com/howardli/FeedScope"
+  },
+  {
+   "id": "rss-09e92fd3d8182088",
+   "title": "[OpenAI] 为什么我觉得在 claude code 里面使用 openai 模型，比 codex 里面使用 openai 效果要好，速度也更快呢",
+   "url": "https://www.v2ex.com/t/1255280#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T16:30:38Z",
+   "published_iso": "2026-11-07T16:30:38+00:00",
+   "summary": "不知道是不是错觉 但感觉 codex 太慢了，而且经常模型加载不出来，然后废话连篇，不说人话 用 claude code 接入了一下，发觉改善不少（但使用 opus 是最好的），不知道是不是错觉，还是真的就这样"
   },
   {
    "id": "rss-0b573bcd531f21ee",
@@ -157,6 +166,15 @@
    "summary": "付费无广告搜索引擎 Kagi 宣布了最新更新，向所有人开放搜索，但免费用户搜索次数有限额。现在任何人无需注册账号可搜索 50 次，注册账号之后再增加 100 次。Kagi 还抨击了 Google 最近的一项决定：如果美国学校选择禁用 AI 那么它的搜索引擎也将会对学校关闭。Kagi 认为：教育不应沦为广告公司的人质，应当停止将企业利润置于教育学生这一核心使命之上。它呼吁美国学校可选择包括 Kagi 在内的其它搜索引擎。"
   },
   {
+   "id": "rss-198704b7d852789f",
+   "title": "[Google] 封号解封之后，登录卡在验证手机号怎么办",
+   "url": "https://www.v2ex.com/t/1255239#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T11:10:42Z",
+   "published_iso": "2026-11-07T11:10:42+00:00",
+   "summary": "11 月 3 日，10 年老号开通土区 u 5x.开通时用的国区手机号验证。到最后在 agy 里对话时提示发短信验证，用的美国手机号发送短信 今天早上用脏的土耳其节点登录了一下，直接秒封.申诉。 12 小时后提示解封，让我去登录 登录后进入验证身份页面，提示验证手机号，号码是国区手机号 一旦点击发送，就提示“无法验证您的电话号码” 在任何页面点击“试试其他方法”都还是只展示当前页的信息 现在没办法登录。怎么办"
+  },
+  {
    "id": "rss-199e605cf5763929",
    "title": "Bazzite 45 释出",
    "url": "https://www.solidot.org/story?sid=85805",
@@ -200,6 +218,15 @@
    "published": "Mon, 02 Nov 2026 10:28:14 +0800",
    "published_iso": "2026-11-02T02:28:14+00:00",
    "summary": "PostgreSQL 19 要迟到了，大概率拖到 11 月才发。过去十年它的发布节奏准得像钟表——不早于 9 月中，不晚于 10 月中——今年破了例。 更反常的是今年在测试阶段后期，一些相当重要的功能被撤销：UPDATE/DELETE FOR PORTION OF、SQL Property Graph Queries（SQL/PGQ）、ALTER TABLE … MERGE/SPLIT PARTITION，全部在 ..."
+  },
+  {
+   "id": "rss-225875bc3f9cb843",
+   "title": "[OpenAI] ChatGPT 额度用完之后，用 Dots 加上 Pro 可以继续开发",
+   "url": "https://www.v2ex.com/t/1255279#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T16:30:26Z",
+   "published_iso": "2026-11-07T16:30:26+00:00",
+   "summary": "RT ，刚好把最近给的两张重置卡都用完了，今天发现 dots 可以继续进行开发，结合 Pro 去出方案，这样比 sol 或者 astra 开发更快，体感不错"
   },
   {
    "id": "rss-2434377907749088",
@@ -256,6 +283,15 @@
    "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。然而 Cyber​​truck 研发比特斯拉的其它车型更坎坷，为量产还修改了底盘结构，而 25 "
   },
   {
+   "id": "rss-2e18934f1895800a",
+   "title": "[反馈] 站内打赏没有显示",
+   "url": "https://www.v2ex.com/t/1255284#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T17:26:54Z",
+   "published_iso": "2026-11-07T17:26:54+00:00",
+   "summary": "这个是交易： https://solscan.io/tx/2kjVm6fwCvesFpfYdxbnBNK9WLtAvtexUynxpEY9BnyBVtvQTe2zgLm9PN4v66s8sq3yNmWAvYKrVdetjBGx9Hrb 这个是源 post： https://edge.v2ex.com/t/1249321#reply396 点了 50 的打赏-》phantom 付款弹出-〉按钮变确认中-》按钮恢复-〉然后就没有然后了，什么"
+  },
+  {
    "id": "rss-2f659c2a2d987d69",
    "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
    "url": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -301,6 +337,15 @@
    "summary": ""
   },
   {
+   "id": "rss-35090a32c29004eb",
+   "title": "[推广] 做了个在线 AI 母带处理：免费试用，不用注册，不用绑卡",
+   "url": "https://www.v2ex.com/t/1255287#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T20:05:01Z",
+   "published_iso": "2026-11-07T20:05:01+00:00",
+   "summary": "分享一下这两天上线的 MasteringKit： https://masteringkit.com/zh 起因：自己做歌，最后一步总是“这首到底能不能发”。市面上的在线母带工具大多要先注册或先绑卡才让你听效果，我想反过来：免费试用，不用注册，不用信用卡，先听再决定。 现在的做法： - 拖一首混音进去（ WAV / MP3 / FLAC / AIFF / M4A / OGG ，最大 1.5 GB 、22 分 30 秒），不用注册，大约一分"
+  },
+  {
    "id": "rss-35889259fc6b7301",
    "title": "[OpenAI] 为什么我觉得在 claude code 里面使用 openai 模型，比 codex 里面使用 openai 效果要好，速度也更快呢",
    "url": "https://www.v2ex.com/t/1255280#reply2",
@@ -326,6 +371,24 @@
    "published": "2026-11-07T09:22:58Z",
    "published_iso": "2026-11-07T09:22:58+00:00",
    "summary": "收 az gpt、awsb、claude、openai、gemini key 小时计算，源头、大台子优先，量大价格好谈 联系： [qk05375 / TG: https://t.me/nokpe ]"
+  },
+  {
+   "id": "rss-3a6f1e1eceaf2124",
+   "title": "[程序员] 在 agent 时代，深度还是广度更重要？",
+   "url": "https://www.v2ex.com/t/1255253#reply12",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T12:30:15Z",
+   "published_iso": "2026-11-07T12:30:15+00:00",
+   "summary": "指知识、经验与技能的深度与广度。以及，如果只能选一个的话，什么是最重要的领域？"
+  },
+  {
+   "id": "rss-3bec6fd57b648275",
+   "title": "[广州] 这大环境看来是很差了",
+   "url": "https://www.v2ex.com/t/1255285#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T18:19:52Z",
+   "published_iso": "2026-11-07T18:19:52+00:00",
+   "summary": "前两天入职了一家公司，干的广州黄埔某国企外包深圳融创项目，新入职的一共几个人。早上开完会，下午去现场，这边一个叶姓领导去联系那边领路开门。 / 到了门口等了十几分钟门没开，电话里问他到底联系对地方没有、确认下情况，结果这哥们张嘴就 TMTM 地说话。 / 我反驳了几句，让他就事论事，不要拿情绪说话。我才第一天进来，就见过一眼，这哥们就搁那儿喷。我翻开他的钉钉职位一看，副经理。难怪对第一面、第一天入职的人都这么横。果不其然，第二天就被穿小"
   },
   {
    "id": "rss-3f0a3f65c457ba1b",
@@ -365,7 +428,7 @@
   },
   {
    "id": "rss-4360b8a285607330",
-   "title": "[分享创造] 做了个小站，把自己放进「第一次去高级咖啡馆」的梗里",
+   "title": "[推广] 做了个小站，把自己放进「第一次去高级咖啡馆」的梗里",
    "url": "https://www.v2ex.com/t/1255241#reply3",
    "feed_name": "V2EX",
    "published": "2026-11-07T11:35:31Z",
@@ -499,6 +562,15 @@
    "summary": "大家好，禅道开源版22.7发布！本次发布补充了禅道对象的通知渠道，让更多业务对象的动态都能及时触达干系人；优化系统通知文案，消息提示更加准确清晰，方便用户快速知晓后续如何处理。 新版本将为用户带来更好的使用体验和更高的工作效率，感谢大家一直以来的支持和反馈，我们将继续努力提供更优秀的产品和服务！ 安装包..."
   },
   {
+   "id": "rss-56b5b21a45cfc383",
+   "title": "[分享创造] Herdr 的终端界面能把事情做好。Shepi 让你在 Mac 上用得更愉快。",
+   "url": "https://www.v2ex.com/t/1255246#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T12:11:33Z",
+   "published_iso": "2026-11-07T12:11:33+00:00",
+   "summary": "同时让几个 AI 编程 agent 做事，难点不只在于怎么给任务。一个在本机改接口，一个在检查测试，服务器上还有一个处理数据。你得不断切回终端，确认谁还在工作，谁正等着你。 我做的 Shepi ，是 Herdr 的原生 Mac 客户端，与 Herdr TUI 实时共享同一套工作空间、标签页和 agents ，并支持简体中文、英文和日文。它不是另建一份桌面会话，也不需要你迁移现有工作。Herdr 负责维持 AI 编程 agent 的终端会"
+  },
+  {
    "id": "rss-5a13e45a3d880d13",
    "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
    "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -587,6 +659,15 @@
    "published": "Mon, 02 Nov 2026 20:47:49 +0800",
    "published_iso": "2026-11-02T12:47:49+00:00",
    "summary": "Cordonix 0.0.5 已发布。Cordonix（简称 cdx）是面向 AI 编程代理的原生本地工具运行时，使用 C11 实现，通过 MCP stdio 服务和 JSON 命令行接口提供本地程序执行、内存文件工作区、严格编码处理、目录与路径查询，以及外部 Git/ripgrep 的结构化适配。 本次正式版本于 2026 年 11 月 2 日发布，增加 Windows 原生手机工..."
+  },
+  {
+   "id": "rss-6e2f287bdabffb7d",
+   "title": "[Linux] 网易 UU 远程 Linux 终于来啦",
+   "url": "https://www.v2ex.com/t/1255261#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T13:38:35Z",
+   "published_iso": "2026-11-07T13:38:35+00:00",
+   "summary": ""
   },
   {
    "id": "rss-716f1b0b624c4257",
@@ -704,6 +785,15 @@
    "published": "Fri, 06 Nov 2026 14:56:41 +0800",
    "published_iso": "2026-11-06T06:56:41+00:00",
    "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。 查看全文"
+  },
+  {
+   "id": "rss-7e9f511888d14b50",
+   "title": "[推广] 做了个浏览器里的实时 AI 换脸工具 LiveSwap，打开摄像头就能变成另一个人",
+   "url": "https://www.v2ex.com/t/1255276#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T16:25:19Z",
+   "published_iso": "2026-11-07T16:25:19+00:00",
+   "summary": "一个人在做出海工具站。最近做了 https://liveswap.ai/ ，想请大家帮忙试试、提提意见。 它是干啥的 在浏览器里打开摄像头，选一个角色，画面里的你就会实时变成那个角色。不用装软件，也不用先录好视频再处理。 目前能做的 实时换脸、实时虚拟试衣、实时风格化（比如变成动漫风） 内置 159 个角色，有真人、动漫、宠物和各种创意风格，点一下就能切换 可以用 OBS 抓窗口推到 Twitch 、YouTube ，也可以开 OBS "
   },
   {
    "id": "rss-7eff966c7a884cef",
@@ -859,6 +949,24 @@
    "summary": "这两天优化了自己在用的开发工作流，好处是比 OpenSpec 的上下文维护轻量得多，但不丢框架深度和交付细节。 经过测试，在较短的开发周期下，已经能体现较 OpenSpec 超过 -30% 的 token 成本、-48% 的 cache-read 以及 -51% 的文档维护。仓库里还放了一次单会话的开放任务 A/B，方向和这个一致（模型成本 −29.9%、输入+输出 tokens −36.2%、cache-read −48.6%、留存文"
   },
   {
+   "id": "rss-9522f9929268002d",
+   "title": "[分享创造] 我把 slimppt 开源了，支持 skill 生成，并计划做整套 office，目前文档和表格还在规划中",
+   "url": "https://www.v2ex.com/t/1255283#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T17:05:24Z",
+   "published_iso": "2026-11-07T17:05:24+00:00",
+   "summary": "一款浏览器端的 Office 套件。你可以在任何平台上使用相同的 Office 体验。开源。 github 传送门 官网体验 slimppt.com 锐普的动画 ppt 演示 不得不说，锐普是真强！"
+  },
+  {
+   "id": "rss-95bf3c0fb13ca031",
+   "title": "[问与答] TidyMac：用 AI 写了个 CleanMyMac 的免费平替",
+   "url": "https://www.v2ex.com/t/1255254#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T12:35:32Z",
+   "published_iso": "2026-11-07T12:35:32+00:00",
+   "summary": "代码和下载都在 Github 上，需要的自取： 项目： https://github.com/welefen/TidyMac 下载： https://github.com/welefen/TidyMac/tree/main/updates"
+  },
+  {
    "id": "rss-9626fae409f46792",
    "title": "2026 开源行业解决方案创新赛「开源智能硬件解决方案赛道」决赛名单公布",
    "url": "https://www.oschina.net/news/503456",
@@ -886,6 +994,15 @@
    "summary": "代码和下载都在 Github 上，需要的自取： 项目： https://github.com/welefen/TidyMac 下载： https://github.com/welefen/TidyMac/tree/main/updates"
   },
   {
+   "id": "rss-9c4a41cc19b6cbc3",
+   "title": "[OpenAI] 现在 GPT 注册新号是不是很难啊？",
+   "url": "https://www.v2ex.com/t/1255237#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T10:44:25Z",
+   "published_iso": "2026-11-07T10:44:25+00:00",
+   "summary": "以前就一个号，最近想注册个新小号，总是失败，不知道为啥？"
+  },
+  {
    "id": "rss-9c8bd01a1495947e",
    "title": "新玩意 255｜少数派的编辑们最近买了啥？",
    "url": "https://sspai.com/post/118541",
@@ -911,6 +1028,15 @@
    "published": "2026-11-07T15:24:59Z",
    "published_iso": "2026-11-07T15:24:59+00:00",
    "summary": "平时都是写俩 bat 脚本开启俩黑窗口，还是挺繁琐的，所以我用 winUI3 做了一个 llama-server 的 GUI 壳子，更加贴合 Windows11 风格的 UI ，可以最小化到托盘，这样任务栏就干净了。 github： https://github.com/ckcool6/llama_starter"
+  },
+  {
+   "id": "rss-a2cda16607140e91",
+   "title": "[问与答] Tibo 一换岗 ChatGpt 就大面积封号？",
+   "url": "https://www.v2ex.com/t/1255265#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T13:48:59Z",
+   "published_iso": "2026-11-07T13:48:59+00:00",
+   "summary": "社区集中反馈，昨晚至今天 ChatGPT 中文区，出现大规模封号现象。 ChatGPT 今日规模封号原因出来了：疑似来自未支持国家 难道 OpenAI 也要学 Anthropic 拿封号来创收了？"
   },
   {
    "id": "rss-a5500ae0f6b9ff10",
@@ -985,6 +1111,15 @@
    "summary": "base64 链接：aHR0cHM6Ly9hZHMucWNsb3VkLmNvbS9qN1hqY1NmZA=="
   },
   {
+   "id": "rss-aa13b6c73af10b88",
+   "title": "[VPS] 咸鱼云",
+   "url": "https://www.v2ex.com/t/1255286#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T18:32:24Z",
+   "published_iso": "2026-11-07T18:32:24+00:00",
+   "summary": "收个 saltyfish 咸鱼云的机 有没有不需要的大佬"
+  },
+  {
    "id": "rss-abdbfcbaee1daba3",
    "title": "[推广] [机场推荐] 你的机场代理多少钱买的？",
    "url": "https://www.v2ex.com/t/1255221#reply0",
@@ -1010,6 +1145,15 @@
    "published": "Sun, 08 Nov 2026 00:05:40 +0800",
    "published_iso": "2026-11-07T16:05:40+00:00",
    "summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Br"
+  },
+  {
+   "id": "rss-b8b4edf3c973ac0f",
+   "title": "[程序员] AI 时代，并行开发多项目，感觉电脑配置不够了",
+   "url": "https://www.v2ex.com/t/1255255#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-07T12:53:50Z",
+   "published_iso": "2026-11-07T12:53:50+00:00",
+   "summary": "自动用上了 AI ，每天的想法很多，虽然很多都是没什么用的东西，但是架不住开发效率太高了 ，常常并行开发好几个项目，明显电脑卡了很多（台式机），但是最近换电脑又不划算，有什么办法么 有时候甚至想 vibe 一个应用，自动去云服务商开抢占式实例，关闭的时候自动保存快照，开启的时候自动加载对应的快照，后面都在云上开发了。"
   },
   {
    "id": "rss-bbdc40f1f456cd92",

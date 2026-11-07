@@ -1,7 +1,86 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T01:25:11.278332+08:00",
+ "generated_at": "2026-11-08T05:26:49.562842+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "meta": "+191 分 / 4.0 小时 · 现 ⭐ 682",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+     "url": "https://kevinboone.me/tpwin.html",
+     "meta": "+113 分 / 4.0 小时 · 现 ⭐ 159",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Every Mac comes with an (undocumented) family member classifier",
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "meta": "+102 分 / 4.0 小时 · 现 ⭐ 509",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Running a law firm on Free software",
+     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+     "meta": "+74 分 / 4.0 小时 · 现 ⭐ 206",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How long can life wait?",
+     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+     "meta": "+74 分 / 4.0 小时 · 现 ⭐ 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Libghostty 1.0",
+     "url": "https://mitchellh.com/writing/libghostty-1-0",
+     "meta": "+73 分 / 4.0 小时 · 现 ⭐ 983",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The $8 Linux Computer (2022)",
+     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+     "meta": "+69 分 / 4.0 小时 · 现 ⭐ 174",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Text.js: Build full-stack React apps that render inside console.log",
+     "url": "https://textjs.org/",
+     "meta": "+46 分 / 4.0 小时 · 现 ⭐ 68",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+     "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+     "meta": "+39 分 / 4.0 小时 · 现 ⭐ 42",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,7 +216,7 @@
     {
      "title": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 3928 · TypeScript",
+     "meta": "⭐ 3943 · TypeScript",
      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
      "reason": null,
      "origin_source": "github_search"
@@ -145,7 +224,7 @@
     {
      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "meta": "⭐ 3025 · Python",
+     "meta": "⭐ 3044 · Python",
      "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "reason": null,
      "origin_source": "github_search"
@@ -153,55 +232,55 @@
     {
      "title": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "meta": "⭐ 2222 · Swift",
+     "meta": "⭐ 2234 · Swift",
      "summary": "Entire MacOS running in your terminal.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "mromidev/claude-animated-shorts",
-     "url": "https://github.com/mromidev/claude-animated-shorts",
-     "meta": "⭐ 2179 · TypeScript",
-     "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "meta": "⭐ 2167 · TypeScript",
+     "meta": "⭐ 2227 · TypeScript",
      "summary": "YellowFruit third-party client",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mromidev/claude-animated-shorts",
+     "url": "https://github.com/mromidev/claude-animated-shorts",
+     "meta": "⭐ 2207 · TypeScript",
+     "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "meta": "⭐ 2045 · TypeScript",
+     "meta": "⭐ 2058 · TypeScript",
      "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "wquguru/cicada",
-     "url": "https://github.com/wquguru/cicada",
-     "meta": "⭐ 1613 · Swift",
-     "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 1579 · JavaScript",
+     "meta": "⭐ 1632 · JavaScript",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "wquguru/cicada",
+     "url": "https://github.com/wquguru/cicada",
+     "meta": "⭐ 1615 · Swift",
+     "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "meta": "⭐ 1306 · C++",
+     "meta": "⭐ 1608 · C++",
      "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +288,7 @@
     {
      "title": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "meta": "⭐ 1261 · Rust",
+     "meta": "⭐ 1264 · Rust",
      "summary": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +296,7 @@
     {
      "title": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "meta": "⭐ 1157 · TypeScript",
+     "meta": "⭐ 1187 · TypeScript",
      "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "reason": null,
      "origin_source": "github_search"
@@ -225,7 +304,7 @@
     {
      "title": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "meta": "⭐ 1120 · Python",
+     "meta": "⭐ 1131 · Python",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -233,7 +312,7 @@
     {
      "title": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "meta": "⭐ 985 · HTML",
+     "meta": "⭐ 1027 · HTML",
      "summary": "3D modeling in Python, built for LLMs.",
      "reason": null,
      "origin_source": "github_search"
@@ -241,16 +320,16 @@
     {
      "title": "chadyi/StudyOnTV",
      "url": "https://github.com/chadyi/StudyOnTV",
-     "meta": "⭐ 832 · Kotlin",
+     "meta": "⭐ 837 · Kotlin",
      "summary": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions fro",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "AssassinCreator/steam-stash-value-report-card",
-     "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-     "meta": "⭐ 790 · Python",
-     "summary": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+     "title": "voyager-so/vork",
+     "url": "https://github.com/voyager-so/vork",
+     "meta": "⭐ 834 · Rust",
+     "summary": "Headless 3D and VFX engine for agents. Research preview.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -272,7 +351,15 @@
     {
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "meta": "⭐ 910 · 💬 149",
+     "meta": "⭐ 983 · 💬 173",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "meta": "⭐ 682 · 💬 199",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -286,17 +373,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "meta": "⭐ 491 · 💬 155",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "meta": "⭐ 407 · 💬 234",
+     "meta": "⭐ 509 · 💬 299",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -310,9 +389,57 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Asahi Linux Progress Linux 7.3",
+     "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+     "meta": "⭐ 271 · 💬 223",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Firecracker VM Escape: PwnEscape Part 2",
      "url": "https://pwn.ai/blog/firecracker-escape",
      "meta": "⭐ 268 · 💬 115",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "url": "https://hunch.net/?p=13764006",
+     "meta": "⭐ 233 · 💬 132",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+     "meta": "⭐ 211 · 💬 133",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Running a law firm on Free software",
+     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+     "meta": "⭐ 206 · 💬 90",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The $8 Linux Computer (2022)",
+     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+     "meta": "⭐ 174 · 💬 79",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+     "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+     "meta": "⭐ 185 · 💬 173",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -326,57 +453,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-     "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-     "meta": "⭐ 163 · 💬 127",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The Components of Agent Memory",
-     "url": "https://www.anthropic.com/research/components-of-agent-memory",
-     "meta": "⭐ 112 · 💬 62",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Running a law firm on Free software",
-     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "meta": "⭐ 132 · 💬 63",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The $8 Linux Computer (2022)",
-     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-     "meta": "⭐ 105 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-     "url": "https://news.ycombinator.com/item?id=50405250",
-     "meta": "⭐ 39 · 💬 24",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "PostgreSQL Internals [pdf] (2023)",
-     "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
-     "meta": "⭐ 73 · 💬 7",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "ToothPaste",
-     "url": "https://brisk4t.github.io/blog/toothpaste/",
-     "meta": "⭐ 68 · 💬 14",
+     "title": "What I run on my $10 USD OpenStick homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "meta": "⭐ 169 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -501,10 +580,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "chalk",
-     "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
-     "meta": "Product Hunt · 2026-10-29",
-     "summary": "learn anything, anywhere",
+     "title": "Openroster",
+     "url": "https://www.producthunt.com/products/openroster",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Which \"Open\" companies are actually open source",
      "reason": null,
      "origin_source": "producthunt"
     }
@@ -516,8 +595,48 @@
    "errors": [],
    "items": [
     {
+     "title": "[推广] 做了个在线 AI 母带处理：免费试用，不用注册，不用绑卡",
+     "url": "https://www.v2ex.com/t/1255287#reply0",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "分享一下这两天上线的 MasteringKit： https://masteringkit.com/zh 起因：自己做歌，最后一步总是“这首到底能不能发”。市面上的在线母带工具大多要先注册或先绑卡才让你听效果，我想反过来：免费试用，不用注册，不用信用卡，先听再决定。 现在的做法： - 拖一首混音进去（ WAV / MP3 / FLAC / AIFF / M4A / OGG ，最大 1.5 GB 、",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[VPS] 咸鱼云",
+     "url": "https://www.v2ex.com/t/1255286#reply2",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "收个 saltyfish 咸鱼云的机 有没有不需要的大佬",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[广州] 这大环境看来是很差了",
+     "url": "https://www.v2ex.com/t/1255285#reply8",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "前两天入职了一家公司，干的广州黄埔某国企外包深圳融创项目，新入职的一共几个人。早上开完会，下午去现场，这边一个叶姓领导去联系那边领路开门。 / 到了门口等了十几分钟门没开，电话里问他到底联系对地方没有、确认下情况，结果这哥们张嘴就 TMTM 地说话。 / 我反驳了几句，让他就事论事，不要拿情绪说话。我才第一天进来，就见过一眼，这哥们就搁那儿喷。我翻开他的钉钉职位一看，副经理。难怪对第一面、第一天入",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[反馈] 站内打赏没有显示",
+     "url": "https://www.v2ex.com/t/1255284#reply0",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "这个是交易： https://solscan.io/tx/2kjVm6fwCvesFpfYdxbnBNK9WLtAvtexUynxpEY9BnyBVtvQTe2zgLm9PN4v66s8sq3yNmWAvYKrVdetjBGx9Hrb 这个是源 post： https://edge.v2ex.com/t/1249321#reply396 点了 50 的打赏-》phantom 付款弹出-〉按钮变确认",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[分享创造] 我把 slimppt 开源了，支持 skill 生成，并计划做整套 office，目前文档和表格还在规划中",
      "url": "https://www.v2ex.com/t/1255283#reply0",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "一款浏览器端的 Office 套件。你可以在任何平台上使用相同的 Office 体验。开源。 github 传送门 官网体验 slimppt.com 锐普的动画 ppt 演示 不得不说，锐普是真强！",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 我把 slimppt 开源了，支持 skill 生成，并计划做整套 office，目前文档和表格还在规划中",
+     "url": "https://www.v2ex.com/t/1255283#reply1",
      "meta": "V2EX · 2026-11-07",
      "summary": "一款浏览器端的 Office 套件。你可以在任何平台上使用相同的 Office 体验。开源。 github 传送门 官网体验 slimppt.com 锐普的动画 ppt 演示 不得不说，锐普是真强！",
      "reason": null,
@@ -541,9 +660,25 @@
     },
     {
      "title": "[OpenAI] 为什么我觉得在 claude code 里面使用 openai 模型，比 codex 里面使用 openai 效果要好，速度也更快呢",
+     "url": "https://www.v2ex.com/t/1255280#reply3",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "不知道是不是错觉 但感觉 codex 太慢了，而且经常模型加载不出来，然后废话连篇，不说人话 用 claude code 接入了一下，发觉改善不少（但使用 opus 是最好的），不知道是不是错觉，还是真的就这样",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[OpenAI] 为什么我觉得在 claude code 里面使用 openai 模型，比 codex 里面使用 openai 效果要好，速度也更快呢",
      "url": "https://www.v2ex.com/t/1255280#reply2",
      "meta": "V2EX · 2026-11-07",
      "summary": "不知道是不是错觉 但感觉 codex 太慢了，而且经常模型加载不出来，然后废话连篇，不说人话 用 claude code 接入了一下，发觉改善不少（但使用 opus 是最好的），不知道是不是错觉，还是真的就这样",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[OpenAI] ChatGPT 额度用完之后，用 Dots 加上 Pro 可以继续开发",
+     "url": "https://www.v2ex.com/t/1255279#reply1",
+     "meta": "V2EX · 2026-11-07",
+     "summary": "RT ，刚好把最近给的两张重置卡都用完了，今天发现 dots 可以继续进行开发，结合 Pro 去出方案，这样比 sol 或者 astra 开发更快，体感不错",
      "reason": null,
      "origin_source": "cn_rss"
     },
@@ -572,66 +707,10 @@
      "origin_source": "cn_rss"
     },
     {
-     "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
-     "url": "https://www.solidot.org/story?sid=85825",
-     "meta": "Solidot · 2026-11-07",
-     "summary": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "FAA 计划到 2028 年淘汰软盘",
-     "url": "https://www.solidot.org/story?sid=85824",
-     "meta": "Solidot · 2026-11-07",
-     "summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] Kimi k3.1 pro 实际使用体验如何",
-     "url": "https://www.v2ex.com/t/1255274#reply1",
+     "title": "[推广] 做了个浏览器里的实时 AI 换脸工具 LiveSwap，打开摄像头就能变成另一个人",
+     "url": "https://www.v2ex.com/t/1255276#reply1",
      "meta": "V2EX · 2026-11-07",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了一个 llama-server 的多开工具",
-     "url": "https://www.v2ex.com/t/1255272#reply0",
-     "meta": "V2EX · 2026-11-07",
-     "summary": "平时都是写俩 bat 脚本开启俩黑窗口，还是挺繁琐的，所以我用 winUI3 做了一个 llama-server 的 GUI 壳子，更加贴合 Windows11 风格的 UI ，可以最小化到托盘，这样任务栏就干净了。 github： https://github.com/ckcool6/llama_starter",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 类似微软 pro intellimouse 鼠标品质手感的推荐？",
-     "url": "https://www.v2ex.com/t/1255271#reply0",
-     "meta": "V2EX · 2026-11-07",
-     "summary": "用了十几年的微软这一系的鼠标，一开始是 ie3 ，后来是 pro intellimouse ，手放上面用电脑一天都不会有酸累感，至今一直都没用过蓝牙鼠标，中间买过罗技的 750.手烙的难受马上退货了。最近右键感觉有点问题，搜了下发现微软 23 年居然把这系的鼠标停产了，今天市场上握着舒服的都是游戏鼠标，但都更追求轻量而不是品质，问了下 ai ，给我推荐了雷蛇炼狱 v3 有线版，才 50 多 g ，",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] Antigravity Remote Agents 服务器 很舍得， Google 大善人！",
-     "url": "https://www.v2ex.com/t/1255270#reply2",
-     "meta": "V2EX · 2026-11-07",
-     "summary": "对当前服务器进行了全面的多维度基准测速，涵盖 CPU 算力、内存吞吐、磁盘 I/O （绕过缓存直写与 IOPS ）、外网网络延迟与下载带宽、JDK 27 堆外存储引擎应用层实测 。 🖥️ 服务器基础规格 CPU 型号 ：Intel(R) Xeon(R) Platinum 8481C (Sapphire Rapids 第四代至强可扩展处理器) vCPU 核心 ：2 vCPUs 系统内存 ：7.8 G",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 现在农村还有住草房窝棚的吗？",
-     "url": "https://www.v2ex.com/t/1255269#reply10",
-     "meta": "V2EX · 2026-11-07",
-     "summary": "我东大都 top2 了，草房窝棚应该已经被消灭了吧？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[云计算] KKCE： 400+在线节点的网站测速平台，提提意见",
-     "url": "https://www.v2ex.com/t/1255268#reply0",
-     "meta": "V2EX · 2026-11-07",
-     "summary": "KKCE(快快测)面向站长、运维人员和开发者提供网站测速工具与域名测速工具，支持 IPv4/IPv6 多节点云拨测，可通过网站测速检测、多地 Ping 与在线 Ping 测试、TCPing 检测、DNS 查询、DNS 污染检测、SSL 证书检测及 Whois 查询交叉排查网站访问与域名问题。节点和运营商的可用范围以当前检测页面为准。 官网： https://www.kkce.com/ QQ 群：5",
+     "summary": "一个人在做出海工具站。最近做了 https://liveswap.ai/ ，想请大家帮忙试试、提提意见。 它是干啥的 在浏览器里打开摄像头，选一个角色，画面里的你就会实时变成那个角色。不用装软件，也不用先录好视频再处理。 目前能做的 实时换脸、实时虚拟试衣、实时风格化（比如变成动漫风） 内置 159 个角色，有真人、动漫、宠物和各种创意风格，点一下就能切换 可以用 OBS 抓窗口推到 Twitch",
      "reason": null,
      "origin_source": "cn_rss"
     }
