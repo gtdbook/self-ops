@@ -1,8 +1,40 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-07T07:38:53.825132+08:00",
- "count": 52,
+ "updated_at": "2026-11-07T12:38:17.678353+08:00",
+ "count": 66,
  "items": [
+  {
+   "id": "hn-50352701",
+   "title": "The Flash C Compiler",
+   "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+   "hn_url": "https://news.ycombinator.com/item?id=50352701",
+   "score": 5,
+   "comments": 0,
+   "author": "AlexeyBrin",
+   "time_iso": "2026-11-03T14:49:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50354097",
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+   "hn_url": "https://news.ycombinator.com/item?id=50354097",
+   "score": 58,
+   "comments": 2,
+   "author": "ntur1337",
+   "time_iso": "2026-11-03T16:30:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 58
+    }
+   ]
+  },
   {
    "id": "hn-50354308",
    "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
@@ -20,6 +52,54 @@
    ]
   },
   {
+   "id": "hn-50355009",
+   "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+   "url": "https://github.com/andrewboldi/tmux-restore",
+   "hn_url": "https://news.ycombinator.com/item?id=50355009",
+   "score": 19,
+   "comments": 6,
+   "author": "boldi",
+   "time_iso": "2026-11-03T17:25:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50356722",
+   "title": "Panthera: Ampere's CPU Performance Model",
+   "url": "https://github.com/AmpereComputing/panthera",
+   "hn_url": "https://news.ycombinator.com/item?id=50356722",
+   "score": 19,
+   "comments": 4,
+   "author": "mshockwave",
+   "time_iso": "2026-11-03T19:12:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50360810",
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+   "hn_url": "https://news.ycombinator.com/item?id=50360810",
+   "score": 50,
+   "comments": 4,
+   "author": "derbOac",
+   "time_iso": "2026-11-04T02:19:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 50
+    }
+   ]
+  },
+  {
    "id": "hn-50368291",
    "title": "Annie Ernaux still feels like an outsider",
    "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html",
@@ -32,6 +112,22 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50374287",
+   "title": "How tall can you build with 54 Jenga blocks?",
+   "url": "https://johnjwang.com/post/2026/10/25/tallest-jenga-tower",
+   "hn_url": "https://news.ycombinator.com/item?id=50374287",
+   "score": 8,
+   "comments": 4,
+   "author": "johnjwang",
+   "time_iso": "2026-11-05T02:19:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 8
     }
    ]
   },
@@ -88,6 +184,22 @@
    ]
   },
   {
+   "id": "hn-50384263",
+   "title": "What do the next 4000 emoji look like?",
+   "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+   "hn_url": "https://news.ycombinator.com/item?id=50384263",
+   "score": 16,
+   "comments": 5,
+   "author": "lacieargyle",
+   "time_iso": "2026-11-05T20:46:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 16
+    }
+   ]
+  },
+  {
    "id": "hn-50385272",
    "title": "Claude Code sends your email address to websites",
    "url": "https://github.com/anthropics/claude-code/issues/107757",
@@ -108,8 +220,8 @@
    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
    "hn_url": "https://news.ycombinator.com/item?id=50388001",
-   "score": 250,
-   "comments": 205,
+   "score": 301,
+   "comments": 243,
    "author": "ChrisArchitect",
    "time_iso": "2026-11-06T04:00:28+00:00",
    "history": [
@@ -120,6 +232,10 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 250
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 301
     }
    ]
   },
@@ -292,8 +408,8 @@
    "title": "Tesla to wind down Cybertruck production",
    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
    "hn_url": "https://news.ycombinator.com/item?id=50391456",
-   "score": 780,
-   "comments": 1611,
+   "score": 914,
+   "comments": 1770,
    "author": "PLenz",
    "time_iso": "2026-11-06T12:13:51+00:00",
    "history": [
@@ -304,6 +420,10 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 780
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 914
     }
    ]
   },
@@ -312,8 +432,8 @@
    "title": "Gemini Omni 1.2 Flash",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "hn_url": "https://news.ycombinator.com/item?id=50392118",
-   "score": 283,
-   "comments": 212,
+   "score": 307,
+   "comments": 221,
    "author": "thisisauserid",
    "time_iso": "2026-11-06T13:35:27+00:00",
    "history": [
@@ -328,6 +448,10 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 283
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 307
     }
    ]
   },
@@ -552,8 +676,8 @@
    "title": "First steps in bare-metal programming using UEFI",
    "url": "https://kevinboone.me/efitest_index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50394855",
-   "score": 164,
-   "comments": 30,
+   "score": 205,
+   "comments": 37,
    "author": "LaSombra",
    "time_iso": "2026-11-06T16:50:29+00:00",
    "history": [
@@ -568,6 +692,10 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 164
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 205
     }
    ]
   },
@@ -644,12 +772,28 @@
    ]
   },
   {
+   "id": "hn-50395183",
+   "title": "Notes on San Marino",
+   "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+   "hn_url": "https://news.ycombinator.com/item?id=50395183",
+   "score": 27,
+   "comments": 2,
+   "author": "yorwba",
+   "time_iso": "2026-11-06T17:12:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
    "id": "hn-50395450",
    "title": "Devvm.dev: One VM for every project",
    "url": "https://devvm.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50395450",
-   "score": 88,
-   "comments": 45,
+   "score": 134,
+   "comments": 54,
    "author": "luispa",
    "time_iso": "2026-11-06T17:30:22+00:00",
    "history": [
@@ -660,6 +804,10 @@
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 88
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 134
     }
    ]
   },
@@ -820,14 +968,34 @@
    "title": "Restaurant Delivery Payment-Skimming Campaign",
    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
    "hn_url": "https://news.ycombinator.com/item?id=50397017",
-   "score": 69,
-   "comments": 26,
+   "score": 105,
+   "comments": 55,
    "author": "fiej",
    "time_iso": "2026-11-06T19:19:27+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 105
+    }
+   ]
+  },
+  {
+   "id": "hn-50397099",
+   "title": "GitHub's new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "hn_url": "https://news.ycombinator.com/item?id=50397099",
+   "score": 92,
+   "comments": 17,
+   "author": "DAlperin",
+   "time_iso": "2026-11-06T19:24:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 92
     }
    ]
   },
@@ -836,14 +1004,18 @@
    "title": "Firecracker VM Escape: PwnEscape Part 2",
    "url": "https://pwn.ai/blog/firecracker-escape",
    "hn_url": "https://news.ycombinator.com/item?id=50397219",
-   "score": 135,
-   "comments": 68,
+   "score": 196,
+   "comments": 95,
    "author": "SerCe",
    "time_iso": "2026-11-06T19:33:38+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 135
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 196
     }
    ]
   },
@@ -852,14 +1024,18 @@
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
    "hn_url": "https://news.ycombinator.com/item?id=50397429",
-   "score": 264,
-   "comments": 56,
+   "score": 392,
+   "comments": 87,
    "author": "theanomaly",
    "time_iso": "2026-11-06T19:48:51+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 264
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 392
     }
    ]
   },
@@ -868,14 +1044,18 @@
    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
    "hn_url": "https://news.ycombinator.com/item?id=50397711",
-   "score": 21,
-   "comments": 2,
+   "score": 55,
+   "comments": 9,
    "author": "rexbee",
    "time_iso": "2026-11-06T20:09:14+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 55
     }
    ]
   },
@@ -884,14 +1064,18 @@
    "title": "AI is dramatically accelerating AI research",
    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "hn_url": "https://news.ycombinator.com/item?id=50397994",
-   "score": 153,
-   "comments": 104,
+   "score": 238,
+   "comments": 182,
    "author": "yurivish",
    "time_iso": "2026-11-06T20:27:23+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 153
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 238
     }
    ]
   },
@@ -913,17 +1097,101 @@
   },
   {
    "id": "hn-50399657",
-   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
    "hn_url": "https://news.ycombinator.com/item?id=50399657",
-   "score": 34,
-   "comments": 12,
+   "score": 150,
+   "comments": 70,
    "author": "doener",
    "time_iso": "2026-11-06T23:00:46+00:00",
    "history": [
     {
      "t": "2026-11-07T07:38:53.825132+08:00",
      "score": 34
+    },
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 150
+    }
+   ]
+  },
+  {
+   "id": "hn-50399933",
+   "title": "Libghostty 1.0",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "hn_url": "https://news.ycombinator.com/item?id=50399933",
+   "score": 374,
+   "comments": 61,
+   "author": "mfiguiere",
+   "time_iso": "2026-11-06T23:30:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 374
+    }
+   ]
+  },
+  {
+   "id": "hn-50399991",
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "hn_url": "https://news.ycombinator.com/item?id=50399991",
+   "score": 66,
+   "comments": 26,
+   "author": "raybb",
+   "time_iso": "2026-11-06T23:37:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 66
+    }
+   ]
+  },
+  {
+   "id": "hn-50400597",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "url": "https://josef.cn/blog/unitree",
+   "hn_url": "https://news.ycombinator.com/item?id=50400597",
+   "score": 68,
+   "comments": 42,
+   "author": "josefchen",
+   "time_iso": "2026-11-07T01:05:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
+   "id": "hn-50401029",
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+   "hn_url": "https://news.ycombinator.com/item?id=50401029",
+   "score": 22,
+   "comments": 5,
+   "author": "hubraumhugo",
+   "time_iso": "2026-11-07T02:20:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50401414",
+   "title": "Lighting the Skies",
+   "url": "https://computer.rip/2026-10-25-searchlights.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50401414",
+   "score": 8,
+   "comments": 1,
+   "author": "dverlaeckt80",
+   "time_iso": "2026-11-07T03:40:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-07T12:38:17.678353+08:00",
+     "score": 8
     }
    ]
   }
