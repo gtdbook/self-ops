@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-08T05:26:39.324570+08:00",
- "count": 20,
+ "updated_at": "2026-11-08T09:04:21.581239+08:00",
+ "count": 26,
  "items": [
   {
    "id": "gh-1441494479",
@@ -133,6 +133,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 791
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 791
     }
    ]
   },
@@ -140,7 +144,7 @@
    "id": "gh-1442375804",
    "title": "Leviidev/Henge",
    "url": "https://github.com/Leviidev/Henge",
-   "stars": 740,
+   "stars": 780,
    "language": "C",
    "description": "Emulate macOS on iOS and iPadOS",
    "created_at": "2026-11-02T01:13:51Z",
@@ -152,6 +156,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 740
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 780
     }
    ]
   },
@@ -159,7 +167,7 @@
    "id": "gh-1443186633",
    "title": "libracoder/kiri",
    "url": "https://github.com/libracoder/kiri",
-   "stars": 794,
+   "stars": 852,
    "language": "Rust",
    "description": "A small, fast container runtime for macOS, Windows and Linux",
    "created_at": "2026-11-02T16:11:30Z",
@@ -171,6 +179,40 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 794
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 852
+    }
+   ]
+  },
+  {
+   "id": "gh-1443650212",
+   "title": "shanselman/gputaskman",
+   "url": "https://github.com/shanselman/gputaskman",
+   "stars": 525,
+   "language": "Python",
+   "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+   "created_at": "2026-11-03T00:49:34Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 525
+    }
+   ]
+  },
+  {
+   "id": "gh-1443699236",
+   "title": "CzJam/gjgjxweb",
+   "url": "https://github.com/CzJam/gjgjxweb",
+   "stars": 735,
+   "language": "HTML",
+   "description": "《搞机工具箱》Web移植版",
+   "created_at": "2026-11-03T02:00:54Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 735
     }
    ]
   },
@@ -178,7 +220,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 2234,
+   "stars": 2245,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -190,6 +232,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 2234
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 2245
     }
    ]
   },
@@ -197,7 +243,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 3943,
+   "stars": 3960,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -209,6 +255,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 3943
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 3960
     }
    ]
   },
@@ -216,7 +266,7 @@
    "id": "gh-1444005452",
    "title": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 1027,
+   "stars": 1056,
    "language": "HTML",
    "description": "3D modeling in Python, built for LLMs.",
    "created_at": "2026-11-03T08:23:03Z",
@@ -228,6 +278,25 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 1027
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 1056
+    }
+   ]
+  },
+  {
+   "id": "gh-1444112593",
+   "title": "sarpstar/cinecode",
+   "url": "https://github.com/sarpstar/cinecode",
+   "stars": 801,
+   "language": "Python",
+   "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+   "created_at": "2026-11-03T10:08:16Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 801
     }
    ]
   },
@@ -235,7 +304,7 @@
    "id": "gh-1444372497",
    "title": "Minireel/HGhub",
    "url": "https://github.com/Minireel/HGhub",
-   "stars": 2227,
+   "stars": 2321,
    "language": "TypeScript",
    "description": "YellowFruit third-party client",
    "created_at": "2026-11-03T14:04:27Z",
@@ -247,6 +316,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 2227
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 2321
     }
    ]
   },
@@ -254,7 +327,7 @@
    "id": "gh-1445112696",
    "title": "livliv-dev/player",
    "url": "https://github.com/livliv-dev/player",
-   "stars": 1187,
+   "stars": 1201,
    "language": "TypeScript",
    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
    "created_at": "2026-11-04T03:28:33Z",
@@ -266,6 +339,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 1187
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 1201
     }
    ]
   },
@@ -273,7 +350,7 @@
    "id": "gh-1445695976",
    "title": "egoist/mygo-music",
    "url": "https://github.com/egoist/mygo-music",
-   "stars": 732,
+   "stars": 767,
    "language": "Go",
    "description": "A native music player you extend with plugins",
    "created_at": "2026-11-04T13:27:14Z",
@@ -285,6 +362,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 732
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 767
     }
    ]
   },
@@ -292,7 +373,7 @@
    "id": "gh-1445802355",
    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "stars": 3044,
+   "stars": 3056,
    "language": "Python",
    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
    "created_at": "2026-11-04T14:54:56Z",
@@ -304,6 +385,25 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 3044
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 3056
+    }
+   ]
+  },
+  {
+   "id": "gh-1446515117",
+   "title": "WoYun520/gif-factory",
+   "url": "https://github.com/WoYun520/gif-factory",
+   "stars": 624,
+   "language": "Python",
+   "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+   "created_at": "2026-11-05T04:08:24Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 624
     }
    ]
   },
@@ -311,7 +411,7 @@
    "id": "gh-1446548114",
    "title": "mmdoctor/google-pro-helper",
    "url": "https://github.com/mmdoctor/google-pro-helper",
-   "stars": 1131,
+   "stars": 1140,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-05T04:52:28Z",
@@ -323,6 +423,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 1131
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 1140
     }
    ]
   },
@@ -330,7 +434,7 @@
    "id": "gh-1446962520",
    "title": "NotRexed/Hookshot",
    "url": "https://github.com/NotRexed/Hookshot",
-   "stars": 1608,
+   "stars": 1841,
    "language": "C++",
    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
    "created_at": "2026-11-05T12:18:58Z",
@@ -342,6 +446,25 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 1608
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 1841
+    }
+   ]
+  },
+  {
+   "id": "gh-1447145240",
+   "title": "JosssphZhou/poki",
+   "url": "https://github.com/JosssphZhou/poki",
+   "stars": 510,
+   "language": "JavaScript",
+   "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+   "created_at": "2026-11-05T15:04:31Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 510
     }
    ]
   },
@@ -349,7 +472,7 @@
    "id": "gh-1447586025",
    "title": "voyager-so/vork",
    "url": "https://github.com/voyager-so/vork",
-   "stars": 834,
+   "stars": 878,
    "language": "Rust",
    "description": "Headless 3D and VFX engine for agents. Research preview.",
    "created_at": "2026-11-05T22:37:07Z",
@@ -361,6 +484,10 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 834
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 878
     }
    ]
   },
@@ -368,7 +495,7 @@
    "id": "gh-1448068371",
    "title": "JenkinWoo/sheeridVerify",
    "url": "https://github.com/JenkinWoo/sheeridVerify",
-   "stars": 1632,
+   "stars": 1670,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-11-06T09:28:09Z",
@@ -380,6 +507,25 @@
     {
      "t": "2026-11-08T05:26:39.324570+08:00",
      "score": 1632
+    },
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 1670
+    }
+   ]
+  },
+  {
+   "id": "gh-1448807268",
+   "title": "sostenesfreitas/ocarina-recomp",
+   "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+   "stars": 795,
+   "language": "C",
+   "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+   "created_at": "2026-11-06T22:24:03Z",
+   "history": [
+    {
+     "t": "2026-11-08T09:04:21.581239+08:00",
+     "score": 795
     }
    ]
   }
