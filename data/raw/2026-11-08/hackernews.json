@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-08T16:35:19.126723+08:00",
- "count": 59,
+ "updated_at": "2026-11-08T23:46:52.566576+08:00",
+ "count": 72,
  "items": [
   {
    "id": "hn-50351640",
@@ -32,6 +32,22 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 29
+    }
+   ]
+  },
+  {
+   "id": "hn-50352518",
+   "title": "Quadrillion-parameter transformers and how to train them",
+   "url": "https://qlabs.sh/research/parameters",
+   "hn_url": "https://news.ycombinator.com/item?id=50352518",
+   "score": 42,
+   "comments": 32,
+   "author": "frozenseven",
+   "time_iso": "2026-11-03T14:37:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 42
     }
    ]
   },
@@ -192,18 +208,38 @@
    ]
   },
   {
+   "id": "hn-50366821",
+   "title": "Porting Android 16 to my blind mother's keypad phone",
+   "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+   "hn_url": "https://news.ycombinator.com/item?id=50366821",
+   "score": 68,
+   "comments": 17,
+   "author": "z1xus",
+   "time_iso": "2026-11-04T15:18:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
    "id": "hn-50366902",
    "title": "Clj.rs – a Clojure dialect implemented in Rust",
    "url": "https://clj.rs/",
    "hn_url": "https://news.ycombinator.com/item?id=50366902",
-   "score": 15,
-   "comments": 0,
+   "score": 105,
+   "comments": 42,
    "author": "simonpure",
    "time_iso": "2026-11-04T15:23:16+00:00",
    "history": [
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 105
     }
    ]
   },
@@ -240,6 +276,22 @@
    ]
   },
   {
+   "id": "hn-50371360",
+   "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+   "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+   "hn_url": "https://news.ycombinator.com/item?id=50371360",
+   "score": 33,
+   "comments": 11,
+   "author": "bryanrasmussen",
+   "time_iso": "2026-11-04T20:53:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 33
+    }
+   ]
+  },
+  {
    "id": "hn-50377613",
    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
    "url": "https://github.com/hyphatech/spindle",
@@ -260,8 +312,8 @@
    "title": "Uranium cubes reveal why the German nuclear project failed",
    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
    "hn_url": "https://news.ycombinator.com/item?id=50377661",
-   "score": 122,
-   "comments": 78,
+   "score": 178,
+   "comments": 115,
    "author": "rbanffy",
    "time_iso": "2026-11-05T10:52:04+00:00",
    "history": [
@@ -272,6 +324,42 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 122
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 178
+    }
+   ]
+  },
+  {
+   "id": "hn-50378974",
+   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+   "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+   "hn_url": "https://news.ycombinator.com/item?id=50378974",
+   "score": 49,
+   "comments": 10,
+   "author": "speckx",
+   "time_iso": "2026-11-05T13:44:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50380051",
+   "title": "Mizu – zero-copy parallel R and Python over shared memory",
+   "url": "https://github.com/shikokuchuo/pymizu",
+   "hn_url": "https://news.ycombinator.com/item?id=50380051",
+   "score": 51,
+   "comments": 3,
+   "author": "cscheid",
+   "time_iso": "2026-11-05T15:09:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 51
     }
    ]
   },
@@ -288,6 +376,22 @@
     {
      "t": "2026-11-08T05:26:38.796644+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50387381",
+   "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+   "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+   "hn_url": "https://news.ycombinator.com/item?id=50387381",
+   "score": 36,
+   "comments": 28,
+   "author": "mooreds",
+   "time_iso": "2026-11-06T02:27:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 36
     }
    ]
   },
@@ -448,8 +552,8 @@
    "title": "Need for Speed Underground 2 online in the browser",
    "url": "https://nfsu2.xyz/",
    "hn_url": "https://news.ycombinator.com/item?id=50403052",
-   "score": 955,
-   "comments": 247,
+   "score": 1071,
+   "comments": 270,
    "author": "fluxusars",
    "time_iso": "2026-11-07T09:36:36+00:00",
    "history": [
@@ -468,6 +572,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 955
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 1071
     }
    ]
   },
@@ -496,8 +604,8 @@
    "title": "Every Mac comes with an (undocumented) family member classifier",
    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
    "hn_url": "https://news.ycombinator.com/item?id=50403097",
-   "score": 703,
-   "comments": 373,
+   "score": 784,
+   "comments": 422,
    "author": "infwhispers",
    "time_iso": "2026-11-07T09:46:03+00:00",
    "history": [
@@ -516,6 +624,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 703
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 784
     }
    ]
   },
@@ -524,8 +636,8 @@
    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
    "hn_url": "https://news.ycombinator.com/item?id=50403507",
-   "score": 308,
-   "comments": 269,
+   "score": 389,
+   "comments": 391,
    "author": "thunderbong",
    "time_iso": "2026-11-07T11:11:15+00:00",
    "history": [
@@ -540,6 +652,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 308
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 389
     }
    ]
   },
@@ -752,8 +868,8 @@
    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
    "hn_url": "https://news.ycombinator.com/item?id=50406222",
-   "score": 291,
-   "comments": 79,
+   "score": 349,
+   "comments": 98,
    "author": "antiuniverse",
    "time_iso": "2026-11-07T17:19:00+00:00",
    "history": [
@@ -768,6 +884,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 291
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 349
     }
    ]
   },
@@ -868,8 +988,8 @@
    "title": "What I run on my $10 USD OpenStick homelab",
    "url": "https://blog.bosscher.ch/posts/openstick/",
    "hn_url": "https://news.ycombinator.com/item?id=50406670",
-   "score": 542,
-   "comments": 104,
+   "score": 673,
+   "comments": 123,
    "author": "LaurensBER",
    "time_iso": "2026-11-07T18:12:12+00:00",
    "history": [
@@ -884,6 +1004,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 542
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 673
     }
    ]
   },
@@ -892,8 +1016,8 @@
    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "hn_url": "https://news.ycombinator.com/item?id=50407882",
-   "score": 363,
-   "comments": 250,
+   "score": 488,
+   "comments": 351,
    "author": "shmulc",
    "time_iso": "2026-11-07T20:45:32+00:00",
    "history": [
@@ -904,6 +1028,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 363
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 488
     }
    ]
   },
@@ -960,8 +1088,8 @@
    "title": "Making any integer with four 2s (2025)",
    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
    "hn_url": "https://news.ycombinator.com/item?id=50408713",
-   "score": 129,
-   "comments": 29,
+   "score": 172,
+   "comments": 46,
    "author": "germanrabbit",
    "time_iso": "2026-11-07T22:38:58+00:00",
    "history": [
@@ -972,6 +1100,10 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 129
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 172
     }
    ]
   },
@@ -1052,14 +1184,18 @@
    "title": "Consumer brain wave headsets threaten privacy",
    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
    "hn_url": "https://news.ycombinator.com/item?id=50409856",
-   "score": 34,
-   "comments": 12,
+   "score": 96,
+   "comments": 63,
    "author": "maxall4",
    "time_iso": "2026-11-08T02:02:38+00:00",
    "history": [
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 34
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 96
     }
    ]
   },
@@ -1068,14 +1204,18 @@
    "title": "Goodbye Claude, Hello Pi",
    "url": "https://caleb.software/posts/claude-to-pi.html",
    "hn_url": "https://news.ycombinator.com/item?id=50410107",
-   "score": 226,
-   "comments": 136,
+   "score": 501,
+   "comments": 326,
    "author": "karagenit",
    "time_iso": "2026-11-08T03:11:48+00:00",
    "history": [
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 226
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 501
     }
    ]
   },
@@ -1084,14 +1224,18 @@
    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
    "url": "https://github.com/dmunozv04/isponsorblocktv",
    "hn_url": "https://news.ycombinator.com/item?id=50410249",
-   "score": 24,
-   "comments": 2,
+   "score": 87,
+   "comments": 35,
    "author": "xnx",
    "time_iso": "2026-11-08T03:47:19+00:00",
    "history": [
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 87
     }
    ]
   },
@@ -1108,6 +1252,118 @@
     {
      "t": "2026-11-08T16:35:19.126723+08:00",
      "score": 33
+    }
+   ]
+  },
+  {
+   "id": "hn-50411467",
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+   "hn_url": "https://news.ycombinator.com/item?id=50411467",
+   "score": 101,
+   "comments": 78,
+   "author": "mthines",
+   "time_iso": "2026-11-08T08:40:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
+   "id": "hn-50411961",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "hn_url": "https://news.ycombinator.com/item?id=50411961",
+   "score": 132,
+   "comments": 40,
+   "author": "joshcsimmons",
+   "time_iso": "2026-11-08T10:22:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 132
+    }
+   ]
+  },
+  {
+   "id": "hn-50412067",
+   "title": "Writing as a Thinking Tool",
+   "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50412067",
+   "score": 42,
+   "comments": 5,
+   "author": "jruohonen",
+   "time_iso": "2026-11-08T10:41:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 42
+    }
+   ]
+  },
+  {
+   "id": "hn-50412072",
+   "title": "JIT bitmap text rendering for microcontrollers",
+   "url": "https://linebender.org/blog/jit-bitmap-text/",
+   "hn_url": "https://news.ycombinator.com/item?id=50412072",
+   "score": 56,
+   "comments": 9,
+   "author": "dmit",
+   "time_iso": "2026-11-08T10:42:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 56
+    }
+   ]
+  },
+  {
+   "id": "hn-50412152",
+   "title": "Petered (what happens after the Peter Principle)",
+   "url": "https://aworkinglibrary.com/writing/petered",
+   "hn_url": "https://news.ycombinator.com/item?id=50412152",
+   "score": 99,
+   "comments": 62,
+   "author": "adrianhoward",
+   "time_iso": "2026-11-08T10:56:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 99
+    }
+   ]
+  },
+  {
+   "id": "hn-50412318",
+   "title": "Person of Interest",
+   "url": "https://krthr.co/person-of-interest/",
+   "hn_url": "https://news.ycombinator.com/item?id=50412318",
+   "score": 207,
+   "comments": 129,
+   "author": "krthr",
+   "time_iso": "2026-11-08T11:23:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 207
+    }
+   ]
+  },
+  {
+   "id": "hn-50413822",
+   "title": "OpenAI Raises $11B at a $1.25T Valuation",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+   "hn_url": "https://news.ycombinator.com/item?id=50413822",
+   "score": 19,
+   "comments": 7,
+   "author": "armcat",
+   "time_iso": "2026-11-08T14:49:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T23:46:52.566576+08:00",
+     "score": 19
     }
    ]
   }
