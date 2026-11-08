@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T10:45:59.831704+08:00",
+ "updated_at": "2026-11-08T10:25:02.097159+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -108,6 +108,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "linux(7次→+0.50)、videos(6次→+0.97)、youtube(6次→+0.97)、weights(6次→+1.88)、ask(6次→+0.97)、models(6次→+1.88)、hackertube(6次→+1.40)、flash(5次→+0.50)"
+  },
+  {
+   "ts": "2026-11-08T10:25:02.097159+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "ask(8次→+1.43)、linux(7次→+0.97)、weights(6次→+2.28)、flash(5次→+0.97)、speed(4次→+0.50)、every(4次→+0.50)、mac(4次→+0.50)、research(4次→+0.50)"
   }
  ]
 }
