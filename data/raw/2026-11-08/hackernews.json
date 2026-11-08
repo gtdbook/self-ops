@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-08T09:04:21.068219+08:00",
- "count": 52,
+ "updated_at": "2026-11-08T16:35:19.126723+08:00",
+ "count": 59,
  "items": [
   {
    "id": "hn-50351640",
@@ -16,6 +16,22 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50351954",
+   "title": "Amsterdam School",
+   "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50351954",
+   "score": 29,
+   "comments": 6,
+   "author": "bondarchuk",
+   "time_iso": "2026-11-03T13:50:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 29
     }
    ]
   },
@@ -69,17 +85,21 @@
   },
   {
    "id": "hn-50358337",
-   "title": "Turning Every Radio into a Radar",
+   "title": "Turning every radio into a radar",
    "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
    "hn_url": "https://news.ycombinator.com/item?id=50358337",
-   "score": 22,
-   "comments": 5,
+   "score": 61,
+   "comments": 13,
    "author": "hasley",
    "time_iso": "2026-11-03T21:18:48+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 61
     }
    ]
   },
@@ -172,6 +192,22 @@
    ]
   },
   {
+   "id": "hn-50366902",
+   "title": "Clj.rs – a Clojure dialect implemented in Rust",
+   "url": "https://clj.rs/",
+   "hn_url": "https://news.ycombinator.com/item?id=50366902",
+   "score": 15,
+   "comments": 0,
+   "author": "simonpure",
+   "time_iso": "2026-11-04T15:23:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 15
+    }
+   ]
+  },
+  {
    "id": "hn-50369283",
    "title": "8088 Domination Post-Mortem",
    "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
@@ -224,14 +260,18 @@
    "title": "Uranium cubes reveal why the German nuclear project failed",
    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
    "hn_url": "https://news.ycombinator.com/item?id=50377661",
-   "score": 55,
-   "comments": 16,
+   "score": 122,
+   "comments": 78,
    "author": "rbanffy",
    "time_iso": "2026-11-05T10:52:04+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 55
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 122
     }
    ]
   },
@@ -372,14 +412,18 @@
    "title": "Asahi Linux Progress Linux 7.3",
    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
    "hn_url": "https://news.ycombinator.com/item?id=50401867",
-   "score": 271,
-   "comments": 223,
+   "score": 368,
+   "comments": 317,
    "author": "ackyshake",
    "time_iso": "2026-11-07T05:20:18+00:00",
    "history": [
     {
      "t": "2026-11-08T05:26:38.796644+08:00",
      "score": 271
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 368
     }
    ]
   },
@@ -404,8 +448,8 @@
    "title": "Need for Speed Underground 2 online in the browser",
    "url": "https://nfsu2.xyz/",
    "hn_url": "https://news.ycombinator.com/item?id=50403052",
-   "score": 797,
-   "comments": 225,
+   "score": 955,
+   "comments": 247,
    "author": "fluxusars",
    "time_iso": "2026-11-07T09:36:36+00:00",
    "history": [
@@ -420,6 +464,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 797
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 955
     }
    ]
   },
@@ -448,8 +496,8 @@
    "title": "Every Mac comes with an (undocumented) family member classifier",
    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
    "hn_url": "https://news.ycombinator.com/item?id=50403097",
-   "score": 587,
-   "comments": 341,
+   "score": 703,
+   "comments": 373,
    "author": "infwhispers",
    "time_iso": "2026-11-07T09:46:03+00:00",
    "history": [
@@ -464,6 +512,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 587
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 703
     }
    ]
   },
@@ -472,8 +524,8 @@
    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
    "hn_url": "https://news.ycombinator.com/item?id=50403507",
-   "score": 208,
-   "comments": 206,
+   "score": 308,
+   "comments": 269,
    "author": "thunderbong",
    "time_iso": "2026-11-07T11:11:15+00:00",
    "history": [
@@ -484,6 +536,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 208
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 308
     }
    ]
   },
@@ -492,8 +548,8 @@
    "title": "The $8 Linux Computer (2022)",
    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
    "hn_url": "https://news.ycombinator.com/item?id=50404599",
-   "score": 194,
-   "comments": 84,
+   "score": 228,
+   "comments": 87,
    "author": "zenincognito",
    "time_iso": "2026-11-07T14:00:20+00:00",
    "history": [
@@ -508,6 +564,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 194
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 228
     }
    ]
   },
@@ -620,8 +680,8 @@
    "title": "Every processor die anyone has photographed and given away",
    "url": "https://sheets.works/data-viz/cpu-dies",
    "hn_url": "https://news.ycombinator.com/item?id=50405782",
-   "score": 71,
-   "comments": 16,
+   "score": 119,
+   "comments": 22,
    "author": "user_7832",
    "time_iso": "2026-11-07T16:21:36+00:00",
    "history": [
@@ -632,6 +692,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 119
     }
    ]
   },
@@ -664,8 +728,8 @@
    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
    "hn_url": "https://news.ycombinator.com/item?id=50406111",
-   "score": 339,
-   "comments": 227,
+   "score": 451,
+   "comments": 284,
    "author": "user_7832",
    "time_iso": "2026-11-07T17:06:36+00:00",
    "history": [
@@ -676,6 +740,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 339
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 451
     }
    ]
   },
@@ -684,8 +752,8 @@
    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
    "hn_url": "https://news.ycombinator.com/item?id=50406222",
-   "score": 188,
-   "comments": 55,
+   "score": 291,
+   "comments": 79,
    "author": "antiuniverse",
    "time_iso": "2026-11-07T17:19:00+00:00",
    "history": [
@@ -696,6 +764,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 188
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 291
     }
    ]
   },
@@ -704,8 +776,8 @@
    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
    "url": "https://github.com/hedgerow-dev/coldframe",
    "hn_url": "https://news.ycombinator.com/item?id=50406292",
-   "score": 187,
-   "comments": 39,
+   "score": 228,
+   "comments": 54,
    "author": "hedgerow-dev",
    "time_iso": "2026-11-07T17:27:30+00:00",
    "history": [
@@ -716,6 +788,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 187
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 228
     }
    ]
   },
@@ -724,8 +800,8 @@
    "title": "Five memorable books about programming (2008)",
    "url": "https://prog21.dadgum.com/19.html",
    "hn_url": "https://news.ycombinator.com/item?id=50406319",
-   "score": 83,
-   "comments": 52,
+   "score": 113,
+   "comments": 71,
    "author": "andsoitis",
    "time_iso": "2026-11-07T17:30:49+00:00",
    "history": [
@@ -736,6 +812,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 83
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 113
     }
    ]
   },
@@ -764,8 +844,8 @@
    "title": "The end of Microsoft Research's AI Frontiers group",
    "url": "https://hunch.net/?p=13764006",
    "hn_url": "https://news.ycombinator.com/item?id=50406563",
-   "score": 364,
-   "comments": 208,
+   "score": 449,
+   "comments": 270,
    "author": "srean",
    "time_iso": "2026-11-07T18:02:17+00:00",
    "history": [
@@ -776,6 +856,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 364
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 449
     }
    ]
   },
@@ -784,8 +868,8 @@
    "title": "What I run on my $10 USD OpenStick homelab",
    "url": "https://blog.bosscher.ch/posts/openstick/",
    "hn_url": "https://news.ycombinator.com/item?id=50406670",
-   "score": 318,
-   "comments": 80,
+   "score": 542,
+   "comments": 104,
    "author": "LaurensBER",
    "time_iso": "2026-11-07T18:12:12+00:00",
    "history": [
@@ -796,6 +880,10 @@
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 318
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 542
     }
    ]
   },
@@ -804,14 +892,18 @@
    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "hn_url": "https://news.ycombinator.com/item?id=50407882",
-   "score": 153,
-   "comments": 107,
+   "score": 363,
+   "comments": 250,
    "author": "shmulc",
    "time_iso": "2026-11-07T20:45:32+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 153
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 363
     }
    ]
   },
@@ -868,14 +960,18 @@
    "title": "Making any integer with four 2s (2025)",
    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
    "hn_url": "https://news.ycombinator.com/item?id=50408713",
-   "score": 49,
-   "comments": 8,
+   "score": 129,
+   "comments": 29,
    "author": "germanrabbit",
    "time_iso": "2026-11-07T22:38:58+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 129
     }
    ]
   },
@@ -900,14 +996,18 @@
    "title": "GitHub New pull request overview page in public preview",
    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
    "hn_url": "https://news.ycombinator.com/item?id=50408931",
-   "score": 42,
-   "comments": 27,
+   "score": 127,
+   "comments": 84,
    "author": "xiaoyu2006",
    "time_iso": "2026-11-07T23:09:40+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 127
     }
    ]
   },
@@ -916,14 +1016,98 @@
    "title": "Commodore PET – The Worlds First Personal Computer",
    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
    "hn_url": "https://news.ycombinator.com/item?id=50408961",
-   "score": 7,
-   "comments": 0,
+   "score": 50,
+   "comments": 17,
    "author": "andsoitis",
    "time_iso": "2026-11-07T23:15:34+00:00",
    "history": [
     {
      "t": "2026-11-08T09:04:21.068219+08:00",
      "score": 7
+    },
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 50
+    }
+   ]
+  },
+  {
+   "id": "hn-50409855",
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "url": "https://github.com/crmne/zapfast",
+   "hn_url": "https://news.ycombinator.com/item?id=50409855",
+   "score": 65,
+   "comments": 44,
+   "author": "handfuloflight",
+   "time_iso": "2026-11-08T02:02:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
+   "id": "hn-50409856",
+   "title": "Consumer brain wave headsets threaten privacy",
+   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+   "hn_url": "https://news.ycombinator.com/item?id=50409856",
+   "score": 34,
+   "comments": 12,
+   "author": "maxall4",
+   "time_iso": "2026-11-08T02:02:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 34
+    }
+   ]
+  },
+  {
+   "id": "hn-50410107",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50410107",
+   "score": 226,
+   "comments": 136,
+   "author": "karagenit",
+   "time_iso": "2026-11-08T03:11:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 226
+    }
+   ]
+  },
+  {
+   "id": "hn-50410249",
+   "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+   "url": "https://github.com/dmunozv04/isponsorblocktv",
+   "hn_url": "https://news.ycombinator.com/item?id=50410249",
+   "score": 24,
+   "comments": 2,
+   "author": "xnx",
+   "time_iso": "2026-11-08T03:47:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 24
+    }
+   ]
+  },
+  {
+   "id": "hn-50410359",
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50410359",
+   "score": 33,
+   "comments": 4,
+   "author": "joebig",
+   "time_iso": "2026-11-08T04:14:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-08T16:35:19.126723+08:00",
+     "score": 33
     }
    ]
   }
