@@ -1,0 +1,641 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T04:11:10.044529+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+     "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+     "meta": "Ars Technica · 2026-11-06",
+     "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+     "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+     "meta": "TechCrunch AI · 2026-11-05",
+     "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "LifeVal",
+     "url": "https://openai.com/index/lifeval",
+     "meta": "OpenAI · 2026-11-02",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "meta": "OpenAI · 2026-10-28",
+     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "meta": "OpenAI · 2026-10-27",
+     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "meta": "OpenAI · 2026-10-22",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "meta": "Hugging Face · 2026-10-21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "meta": "OpenAI · 2026-10-20",
+     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "meta": "⭐ 4087 · TypeScript",
+     "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "meta": "⭐ 3229 · Python",
+     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Minireel/HGhub",
+     "url": "https://github.com/Minireel/HGhub",
+     "meta": "⭐ 3163 · TypeScript",
+     "summary": "YellowFruit third-party client",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "NotRexed/Hookshot",
+     "url": "https://github.com/NotRexed/Hookshot",
+     "meta": "⭐ 2770 · C++",
+     "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "govijr/terminal-mac",
+     "url": "https://github.com/govijr/terminal-mac",
+     "meta": "⭐ 2371 · Swift",
+     "summary": "Entire MacOS running in your terminal.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "JenkinWoo/sheeridVerify",
+     "url": "https://github.com/JenkinWoo/sheeridVerify",
+     "meta": "⭐ 1856 · JavaScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "sarpstar/cinecode",
+     "url": "https://github.com/sarpstar/cinecode",
+     "meta": "⭐ 1518 · Python",
+     "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Sandflow-ai/sand3d",
+     "url": "https://github.com/Sandflow-ai/sand3d",
+     "meta": "⭐ 1352 · HTML",
+     "summary": "3D modeling in Python, built for LLMs.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "meta": "⭐ 1322 · TypeScript",
+     "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "meta": "⭐ 1231 · Python",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "CzJam/gjgjxweb",
+     "url": "https://github.com/CzJam/gjgjxweb",
+     "meta": "⭐ 1200 · HTML",
+     "summary": "《搞机工具箱》Web移植版",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "libracoder/kiri",
+     "url": "https://github.com/libracoder/kiri",
+     "meta": "⭐ 1165 · Rust",
+     "summary": "A small, fast container runtime for macOS, Windows and Linux",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "tangerineturtle1/NX2navi",
+     "url": "https://github.com/tangerineturtle1/NX2navi",
+     "meta": "⭐ 1112 · C",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "voyager-so/vork",
+     "url": "https://github.com/voyager-so/vork",
+     "meta": "⭐ 1094 · Rust",
+     "summary": "Headless 3D and VFX engine for agents. Research preview.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Leviidev/Henge",
+     "url": "https://github.com/Leviidev/Henge",
+     "meta": "⭐ 1074 · C",
+     "summary": "Emulate macOS on iOS and iPadOS",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "What I run on my $10 USD OpenStick homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "meta": "⭐ 735 · 💬 129",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Goodbye Claude, hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "meta": "⭐ 612 · 💬 392",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "meta": "⭐ 531 · 💬 381",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "url": "https://github.com/synchopate/llama-modchip",
+     "meta": "⭐ 289 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "meta": "⭐ 243 · 💬 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Writing as a thinking tool",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "meta": "⭐ 195 · 💬 68",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Agent memory needs its OpenTelemetry moment",
+     "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+     "meta": "⭐ 149 · 💬 100",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Clj.rs – a Clojure dialect implemented in Rust",
+     "url": "https://clj.rs/",
+     "meta": "⭐ 139 · 💬 52",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Porting Android 16 to my blind mother's keypad phone",
+     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+     "meta": "⭐ 118 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Vegetable Gardening for Engineers",
+     "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+     "meta": "⭐ 83 · 💬 18",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "JIT bitmap text rendering for microcontrollers",
+     "url": "https://linebender.org/blog/jit-bitmap-text/",
+     "meta": "⭐ 81 · 💬 14",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+     "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+     "meta": "⭐ 41 · 💬 14",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Declarative Dragging",
+     "url": "https://declarative-dragging.github.io/",
+     "meta": "⭐ 73 · 💬 2",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Reconstruction of Torn Documents",
+     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+     "meta": "⭐ 66 · 💬 40",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "url": "https://goldstein.lol/posts/deno-security/",
+     "meta": "⭐ 55 · 💬 22",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "NoMac",
+     "url": "https://www.producthunt.com/products/nomac",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Your AI agent's own Mac, billed per minute. No subscription",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Deduplication",
+     "url": "https://www.producthunt.com/products/hacker-noon",
+     "meta": "Product Hunt · 2026-11-03",
+     "summary": "Which Meaning Owns the Word?",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Wisp",
+     "url": "https://www.producthunt.com/products/wisp-9",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Wisp is a little AI fairy who lives on your desktop",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "TraceX",
+     "url": "https://www.producthunt.com/products/tracex",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "The AI engineer for your production issues",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Turnstone",
+     "url": "https://www.producthunt.com/products/turnstone",
+     "meta": "Product Hunt · 2026-08-20",
+     "summary": "Grok Bot alternative that runs on your AI, completely free",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ChatNest",
+     "url": "https://www.producthunt.com/products/chatnest-2",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Folders and a prompt library for your AI chats",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Pressure",
+     "url": "https://www.producthunt.com/products/pressure",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Need a second opinion? Have two agents debate your topic",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tobira Site Agent",
+     "url": "https://www.producthunt.com/products/tobira-ai",
+     "meta": "Product Hunt · 2026-10-24",
+     "summary": "Turn your website into an AI agent that sells to AI agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "DocsAlot for customer support",
+     "url": "https://www.producthunt.com/products/docsalot-2",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Slack and Discord bot that answers your customers questions",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Zigzag Browser",
+     "url": "https://www.producthunt.com/products/zigzag-browser",
+     "meta": "Product Hunt · 2026-11-07",
+     "summary": "The polished, native Mac browser for life after Arc",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Make0 Brain OSS",
+     "url": "https://www.producthunt.com/products/make0-brain",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "Sync context across all your agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Inkling 2 Small",
+     "url": "https://www.producthunt.com/products/tinker-2",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "A model that can see and refine what it builds",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "OrgSync",
+     "url": "https://www.producthunt.com/products/orgsync-2",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Company brain for Claude, ChatGPT & Codex teams",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Dino Kids",
+     "url": "https://www.producthunt.com/products/dino-kids",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "Free, ad-free learning app for kids 3+ in five languages",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "chalk",
+     "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
+     "meta": "Product Hunt · 2026-10-29",
+     "summary": "learn anything, anywhere",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music",
+     "url": "https://www.v2ex.com/t/1255411#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "利益相关：我是 useapi.net 的维护者。 useapi.net 是第三方 API ，与 Google 无关联。 Google AI 套餐（ Plus / Pro / Ultra ）每月带的 Flow 积分、Vids 、NotebookLM 和 Flow Music 额度，本来只能在网页里用。 useapi.net 把它们变成 REST API：绑定你自己的 Google 账号，生成消耗的是",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[VPS] 基于大佬的脚本写了一个 vps 测速脚本",
+     "url": "https://www.v2ex.com/t/1255409#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "有兴趣的朋友可以试一下呀 仓库地址在这里 链接 # 这是大佬的脚本 很好用 用了好多年了 wget -qO- git.io/superbench.sh | bash # vibe coding 然后测试了我自己的几个 vps 都没毛病 curl -fsSL https://raw.githubusercontent.com/Helloyryr/vps-bench-script/main/super",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 01Router：一个 API 接入视频、图片、音频和聊天模型",
+     "url": "https://www.v2ex.com/t/1255408#reply1",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "最近在做多媒体 AI 产品集成，发现不同模型和供应商的接口差异会增加维护成本。 01Router 提供一个统一 API ，可接入视频、图片、音频和聊天模型，也可以按预算和质量选择模型与供应商。对需要快速试用不同模型的开发者，可能会更方便。 产品同时提供 Web Studio 和 API 接入，定价模式为 freemium ，最低价格为 $10 / 1,000 credits 。 官网： 01Rou",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[宽带症候群] 阿里云香港/腾讯云香港 往广东电信 163 高峰期简单测试",
+     "url": "https://www.v2ex.com/t/1255407#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "本文主要是探究一下阿里/腾讯的 163 带宽区别，给建站的同学一些参考。 腾讯云香港到广东电信是走 163 回程，这点大家都知道了。但是阿里云有些特殊，我们都知道阿里云跟联通合作比较深，但是阿里云其实也是有采购香港 163 带宽的。 阿里云香港往广东电信的绝大部分 IP 都是由香港联通转入广东联通再转电信 163 的，但是也存在部分少数 IP 是直接走香港电信的 163 骨干网回来的，我恰好有条件",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] vibe 了一个管理 kindle 的摘录和笔记 ( my clippings.txt ) 的网站",
+     "url": "https://www.v2ex.com/t/1255405#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "直达： https://kindleclippings.pages.dev/ - 纯前端运行的网页，使用 localStorage 存储，数据托管在本地浏览器。 - 支持在线编辑、删除书名以及摘录内容， 同时支持将修改后的笔记导出为.md 文件方便在本地查看整理。 - 支持导出.json 文件管理备份并支持导入备份文件恢复。 - 再次上传 my clippings 文件时，之前的修改/删除的内容不",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] app 上架内置动态开关屏蔽部分内容是常见做法吗？",
+     "url": "https://www.v2ex.com/t/1255404#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "开发了 app ，有些内容过审有点问题，考虑增加动态开关在审核期间做屏蔽。AI 的说法是这种不靠谱，说上架之后应用还会被审核，如果抽查到会被严厉处罚。 想问问各位有经验的开发者，增加评审期间的屏蔽这种操作可以搞么",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] [分享创造] 一张图转 PPT 到底省多少时间，我记了十几张的实际耗时",
+     "url": "https://www.v2ex.com/t/1255403#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "很多人问这个工具到底能省多少时间，我干脆按自己的使用场景记了一下。 一张中等复杂度的信息图，手动重画大概是这个流程：量位置、画框、打字、调字号、对齐、改配色。文字少的时候二十来分钟，文字多的时候四十多分钟，而且改一次稿就要再走一遍。 丢进去转，等待时间看图的复杂度，一般几分钟。拿到手之后主要做两件事：核对有没有漏字、把明显的字号和间距修一遍。这两步快的话两三分钟。 所以省下来的不是“打字的几分钟”",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] [iOS] 分享创造：票册 Passory——把纸质登机牌收成一本相册",
+     "url": "https://www.v2ex.com/t/1255402#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "各位好，分享一个刚上架的个人作品。 起因很土：清理抽屉翻出一堆登机牌，褪色的褪色，丢的丢，有一张完全想不起来是去哪的。市面上的航班类 App 都在做追踪、延误、里程兑换，没有一个是用来「收藏」票本身的，所以自己写了一个。 票册 Passory，iOS 18+，原生开发。 做的事情很简单： 拍照扫描纸质登机牌，自动校正成平整干净的票面（歪拍、折痕、反光都能处理），航班/机场/座位自动识别填写，也支持",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 想要 Claude Code 控制 Codex， Deepseek 控制 Claude Code, Grob Bot 控制一切，用这个， So easy",
+     "url": "https://www.v2ex.com/t/1255401#reply3",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "介绍一下： https://github.com/chenhg5/myco 现在使用云端 Claude ，云端 Codex ，Grok Bot 。老是要我去中间当传声筒，叫 Grok Bot 去整理东西给 Claude 大哥。我在想，有没有一种办法，能让他们互相知道，互相能唤醒呢。这样我只要跟一个 agent 聊 ，他就能帮我去找任何一个 agent ，让他们干活。 于是我做了，myco 。 使用",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[VXNA] 申请重新收录",
+     "url": "https://www.v2ex.com/t/1255400#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "https://z.arlmy.me/atom.xml 之前好像 xml 文件编译错了，已修正",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "LG 因其智能电视监视用户面临法律诉讼",
+     "url": "https://www.solidot.org/story?sid=85829",
+     "meta": "Solidot · 2026-11-08",
+     "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[职场话题] 怎么才能稳定的副业搞点钱 ？",
+     "url": "https://www.v2ex.com/t/1255399#reply3",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "怎么才能稳定的副业搞点钱？靠谱的；",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了个中国城市历史时间轴， 32 座城，拖着看",
+     "url": "https://www.v2ex.com/t/1255398#reply2",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "https://fangzhi.defiabell.com 选一座城，拖下面的画轴或者点播放，从远古走到今天。左边全国图的疆域跟着朝代变，右边城市图的辖区和古河道跟着年份变，旁边列着那几年城里的事。 几个我觉得有意思的入口 苏州 1500 年，同一时间别的城市在干嘛 https://fangzhi.defiabell.com/?c=suzhou&y=1500&same=1 大运河，从春秋的邗沟一站",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[职场话题] v2 友们。请教下华为 od 学历差审批能过吗",
+     "url": "https://www.v2ex.com/t/1255397#reply2",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "现在是终面过了。但是我是民本。目前有个中软国际的银行外包 offer 。周一要给答复。不知道还要不要等华为 od 。佬们能给个建议吗",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 国内 ChatGPT 代充平台测评：小羊 Plus 支持 Account ID 吗？支付方式与售后体验",
+     "url": "https://www.v2ex.com/t/1255396#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "国内 ChatGPT 代充平台测评：小羊 Plus 支持 Account ID 吗？支付方式与售后体验 国内用户寻找 ChatGPT Plus 、Pro 订阅服务时，经常会遇到一个问题：网上能找到的平台不少，但真正需要比较的并不只是价格。 有些平台需要提供账号密码，有些需要验证码，还有一些支持 Account ID 方式。付款之后能否查询订单、订阅失败如何处理、有没有明确的退款规则，这些细节往往比",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  }
+ }
+}
