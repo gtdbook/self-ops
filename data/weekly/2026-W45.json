@@ -1,15 +1,15 @@
 {
  "week": "2026-W45",
  "days": [
-  "2026-10-29",
-  "2026-10-30",
-  "2026-10-31",
-  "2026-11-01",
   "2026-11-02",
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05",
+  "2026-11-06",
+  "2026-11-07",
+  "2026-11-08"
  ],
- "generated_at": "2026-11-05T08:58:10.321622+08:00",
+ "generated_at": "2026-11-09T10:58:08.778309+08:00",
  "themes": [
   {
    "token": "code",
@@ -17,108 +17,93 @@
    "days": 7,
    "samples": [
     {
-     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+     "title": "Claude Code sends your email address to websites",
+     "url": "https://github.com/anthropics/claude-code/issues/107757"
     },
     {
-     "title": "The federated code forge",
-     "url": "https://tangled.org/blog/forge/"
+     "title": "MS Paint Remote Code Execution Vulnerability",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+    }
+   ]
+  },
+  {
+   "token": "claude",
+   "weight": 19,
+   "days": 5,
+   "samples": [
+    {
+     "title": "Claude Code sends your email address to websites",
+     "url": "https://github.com/anthropics/claude-code/issues/107757"
+    },
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    }
+   ]
+  },
+  {
+   "token": "ask",
+   "weight": 17,
+   "days": 6,
+   "samples": [
+    {
+     "title": "Ask HN: Which TV do you recommend for privacy?",
+     "url": "https://news.ycombinator.com/item?id=50328896"
+    },
+    {
+     "title": "Ask HN: Who is hiring? (November 2026)",
+     "url": "https://news.ycombinator.com/item?id=50338728"
     }
    ]
   },
   {
    "token": "gpt",
-   "weight": 16,
+   "weight": 17,
    "days": 7,
    "samples": [
     {
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     {
-     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-     "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
-    }
-   ]
-  },
-  {
-   "token": "gemini",
-   "weight": 15,
-   "days": 7,
-   "samples": [
-    {
-     "title": "Gemini 4 Carbon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    },
-    {
-     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-    }
-   ]
-  },
-  {
-   "token": "carbon",
-   "weight": 15,
-   "days": 7,
-   "samples": [
-    {
-     "title": "Gemini 4 Carbon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    },
-    {
-     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-    }
-   ]
-  },
-  {
-   "token": "model",
-   "weight": 14,
-   "days": 7,
-   "samples": [
-    {
-     "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-     "url": "https://github.com/SheepSeb/tinyworldformer"
-    },
-    {
-     "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-    }
-   ]
-  },
-  {
-   "token": "scale",
-   "weight": 13,
-   "days": 6,
-   "samples": [
-    {
-     "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-     "url": "https://www.circuithub.com/post/unveiling-the-grid"
-    },
-    {
-     "title": "Mac at Any Scale",
-     "url": "https://namespace.so/blog/mac-at-any-scale"
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
     }
    ]
   },
   {
    "token": "openai",
-   "weight": 13,
+   "weight": 16,
    "days": 7,
    "samples": [
     {
-     "title": "OpenAI's agents talked to each other through the CPU Cache",
-     "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+     "title": "OpenAI reportedly lowers funding target for new round",
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
     },
     {
-     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-     "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+    }
+   ]
+  },
+  {
+   "token": "research",
+   "weight": 16,
+   "days": 7,
+   "samples": [
+    {
+     "title": "AI is dramatically accelerating AI research",
+     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+    },
+    {
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "url": "https://hunch.net/?p=13764006"
     }
    ]
   },
   {
    "token": "our",
-   "weight": 13,
+   "weight": 14,
    "days": 7,
    "samples": [
     {
@@ -147,105 +132,93 @@
    ]
   },
   {
-   "token": "weights",
+   "token": "brain",
    "weight": 13,
-   "days": 4,
+   "days": 7,
    "samples": [
     {
-     "title": "We're releasing the weights of Mistral Large 4",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
     },
     {
-     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-     "url": "https://github.com/dbreunig/nesformer"
+     "title": "Living Brain",
+     "url": "https://www.producthunt.com/products/chatandbuild"
     }
    ]
   },
   {
-   "token": "open",
-   "weight": 12,
-   "days": 5,
-   "samples": [
-    {
-     "title": "Breaking the open web won't stop the bad bots",
-     "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/"
-    },
-    {
-     "title": "Stringman, an $800 open-source room scale gripper robot",
-     "url": "https://neufangled.com/"
-    }
-   ]
-  },
-  {
-   "token": "research",
+   "token": "model",
    "weight": 12,
    "days": 7,
    "samples": [
     {
-     "title": "How Check Point accelerates vulnerability research with Daybreak",
-     "url": "https://openai.com/index/check-point-daybreak"
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
-     "title": "DenisSergeevitch/ex-ussr-kinship-research",
-     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    }
+   ]
+  },
+  {
+   "token": "gemini",
+   "weight": 12,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    }
+   ]
+  },
+  {
+   "token": "api",
+   "weight": 12,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2"
     }
    ]
   }
  ],
  "top_items": [
   {
+   "title": "Kimi K3.1 Pro model weights are out",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "meta": "本周出现 2 天 · +330 分 / 13.2 小时 · 现 ⭐ 489",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 85.0
+  },
+  {
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "meta": "本周出现 2 天 · +811 分 / 10.9 小时 · 现 ⭐ 1220",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.4
+  },
+  {
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-   "meta": "本周出现 2 天 · +996 分 / 12.6 小时 · 现 ⭐ 1431",
+   "meta": "本周出现 1 天 · +712 分 / 15.2 小时 · 现 ⭐ 2531",
    "summary": "",
    "reason": null,
    "origin_source": "hackernews",
-   "_score": 69.0
-  },
-  {
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-   "meta": "本周出现 2 天 · +129 分 / 7.3 小时 · 现 ⭐ 260",
-   "summary": "",
-   "reason": null,
-   "origin_source": "hackernews",
-   "_score": 69.0
-  },
-  {
-   "title": "Patrick Stewart has died",
-   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-   "meta": "本周出现 1 天 · +1729 分 / 9.9 小时 · 现 ⭐ 2760",
-   "summary": "",
-   "reason": null,
-   "origin_source": "hackernews",
-   "_score": 68.0
-  },
-  {
-   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-   "url": "https://github.com/dbreunig/nesformer",
-   "meta": "本周出现 1 天 · +178 分 / 20.0 小时 · 现 ⭐ 271",
-   "summary": "",
-   "reason": null,
-   "origin_source": "hackernews",
-   "_score": 68.0
-  },
-  {
-   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-   "meta": "本周出现 1 天 · +177 分 / 9.4 小时 · 现 ⭐ 297",
-   "summary": "",
-   "reason": null,
-   "origin_source": "hackernews",
-   "_score": 68.0
-  },
-  {
-   "title": "Patrick Stewart taught us what good men do with power",
-   "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "meta": "本周出现 1 天 · +278 分 / 4.1 小时 · 现 ⭐ 284",
-   "summary": "",
-   "reason": null,
-   "origin_source": "hackernews",
-   "_score": 68.0
+   "_score": 80.0
   },
   {
    "title": "Astra can read and write weights to improve Qwen",
@@ -254,7 +227,7 @@
    "summary": "",
    "reason": null,
    "origin_source": "hackernews",
-   "_score": 68.0
+   "_score": 80.0
   },
   {
    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
@@ -263,73 +236,119 @@
    "summary": "",
    "reason": null,
    "origin_source": "hackernews",
-   "_score": 68.0
+   "_score": 80.0
   },
   {
-   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "meta": "本周出现 2 天 · ⭐ 387 · 💬 89",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "meta": "本周出现 1 天 · +335 分 / 14.7 小时 · 现 ⭐ 488",
    "summary": "",
    "reason": null,
    "origin_source": "hackernews",
-   "_score": 65.0
+   "_score": 80.0
   },
   {
-   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-   "meta": "本周出现 2 天 · +479 分 / 12.6 小时 · 现 ⭐ 484",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "meta": "本周出现 2 天 · +196 分 / 7.6 小时 · 现 ⭐ 281",
    "summary": "",
    "reason": null,
    "origin_source": "hackernews",
-   "_score": 65.0
+   "_score": 79.8
+  },
+  {
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "meta": "本周出现 2 天 · +233 分 / 11.8 小时 · 现 ⭐ 497",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 79.8
+  },
+  {
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "url": "https://news.ycombinator.com/item?id=50328896",
+   "meta": "本周出现 1 天 · +212 分 / 7.6 小时 · 现 ⭐ 339",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 74.8
+  },
+  {
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50338728",
+   "meta": "本周出现 1 天 · +107 分 / 14.2 小时 · 现 ⭐ 216",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 74.8
   }
  ],
  "stats": {
   "blog_rss": {
-   "mean": 2396.6,
-   "prev_mean": 2371.3,
-   "delta": 25.3,
+   "mean": 2413.7,
+   "prev_mean": 2386.1,
+   "delta": 27.6,
+   "error_days": 0
+  },
+  "cn_rss": {
+   "mean": 282.7,
+   "prev_mean": 0.0,
+   "delta": 282.7,
    "error_days": 0
   },
   "github_search": {
-   "mean": 25.6,
-   "prev_mean": 27.6,
-   "delta": -2.0,
+   "mean": 27.6,
+   "prev_mean": 27.4,
+   "delta": 0.1,
    "error_days": 0
   },
   "hackernews": {
-   "mean": 58.6,
-   "prev_mean": 65.7,
+   "mean": 57.9,
+   "prev_mean": 65.0,
    "delta": -7.1,
    "error_days": 0
   },
   "producthunt": {
-   "mean": 96.6,
-   "prev_mean": 101.1,
-   "delta": -4.6,
+   "mean": 101.9,
+   "prev_mean": 101.6,
+   "delta": 0.3,
    "error_days": 0
   }
  },
  "evolution_lines": [
-  "prefs.tokens：weights(10次→+0.50)、models(6次→+0.50)、qwen(6次→+0.50)、hackertube(6次→+0.50)、stewart(6次→+0.50)、patrick(6次→+0.50)、debt(4次→+0.50)、off(4次→+0.50)"
+  "google：跨 5 周重现，沉淀入「未归类」圃",
+  "agent：跨 5 周重现，沉淀入「AI 与智能体」圃",
+  "out：跨 5 周重现，沉淀入「未归类」圃",
+  "apple：跨 4 周重现，沉淀入「未归类」圃",
+  "prefs.tokens：weights(10次→+1.00)、models(6次→+1.00)、qwen(6次→+1.00)、hackertube(6次→+1.00)、patrick(6次→+1.00)、stewart(6次→+1.00)、debt(4次→+1.00)、off(4次→+1.00)",
+  "cn_rss：fitness=0.143 偏低，权重降至 0.95",
+  "prefs.tokens：code(8次→+0.50)、weights(8次→+1.45)、videos(6次→+0.50)、youtube(6次→+0.50)、astra(6次→+0.50)、ask(6次→+0.50)、models(6次→+1.45)、qwen(6次→+1.45)",
+  "prefs.tokens：linux(7次→+0.50)、videos(6次→+0.97)、youtube(6次→+0.97)、weights(6次→+1.88)、ask(6次→+0.97)、models(6次→+1.88)、hackertube(6次→+1.40)、flash(5次→+0.50)",
+  "prefs.tokens：ask(8次→+1.43)、linux(7次→+0.97)、weights(6次→+2.28)、flash(5次→+0.97)、speed(4次→+0.50)、every(4次→+0.50)、mac(4次→+0.50)、research(4次→+0.50)",
+  "prefs.tokens：claude(12次→+0.50)、code(10次→+0.93)、ask(10次→+1.85)、goodbye(6次→+0.50)、every(6次→+0.97)、weights(6次→+2.67)、flash(5次→+1.43)、email(4次→+0.50)"
  ],
  "garden": {
-  "total_themes": 12,
+  "total_themes": 16,
   "evergreen": 0,
-  "new_this_week": 12,
+  "new_this_week": 16,
   "top": [
-   "code（追踪 1 周 · 累计 42 次）",
-   "gpt（追踪 1 周 · 累计 32 次）",
-   "gemini（追踪 1 周 · 累计 30 次）",
+   "code（追踪 1 周 · 累计 63 次）",
+   "gpt（追踪 1 周 · 累计 49 次）",
+   "gemini（追踪 1 周 · 累计 42 次）",
+   "openai（追踪 1 周 · 累计 42 次）",
+   "model（追踪 1 周 · 累计 40 次）",
+   "our（追踪 1 周 · 累计 40 次）",
+   "research（追踪 1 周 · 累计 40 次）",
+   "astra（追踪 1 周 · 累计 39 次）",
    "carbon（追踪 1 周 · 累计 30 次）",
-   "model（追踪 1 周 · 累计 28 次）",
    "scale（追踪 1 周 · 累计 26 次）",
-   "openai（追踪 1 周 · 累计 26 次）",
-   "our（追踪 1 周 · 累计 26 次）",
-   "astra（追踪 1 周 · 累计 26 次）",
    "weights（追踪 1 周 · 累计 26 次）",
    "open（追踪 1 周 · 累计 24 次）",
-   "research（追踪 1 周 · 累计 24 次）"
+   "claude（追踪 1 周 · 累计 19 次）",
+   "ask（追踪 1 周 · 累计 17 次）",
+   "brain（追踪 1 周 · 累计 13 次）",
+   "api（追踪 1 周 · 累计 12 次）"
   ]
  }
 }
