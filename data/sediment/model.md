@@ -3,15 +3,15 @@ type: theme
 token: model
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 72
+last_week: 2026-W46
+weeks: 6
+hits: 77
 status: 常青
 ---
 
 # model
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -40,14 +40,17 @@ status: 常青
 - [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) — 飙升榜 · 2026-11-05
 - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) — 飙升榜 · 2026-11-05
 - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) — 博客与技术媒体 · 2026-11-02
+### 2026-W46
+
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) — 博客与技术媒体 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[frontier]]（共同出现 12 条）
-- [[carbon]]（共同出现 10 条）
-- [[gemini]]（共同出现 10 条）
-- [[our]]（共同出现 10 条）
+- [[frontier]]（共同出现 16 条）
+- [[carbon]]（共同出现 14 条）
+- [[gemini]]（共同出现 14 条）
+- [[our]]（共同出现 14 条）
+- [[next]]（共同出现 12 条）
 - [[level]]（共同出现 9 条）
 - [[results]]（共同出现 9 条）
-- [[next]]（共同出现 8 条）
 - [[built]]（共同出现 5 条）

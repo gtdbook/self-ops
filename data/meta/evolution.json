@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T10:38:48.255972+08:00",
+ "updated_at": "2026-11-09T10:58:19.413235+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -120,6 +120,90 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "claude(12次→+0.50)、code(10次→+0.93)、ask(10次→+1.85)、goodbye(6次→+0.50)、every(6次→+0.97)、weights(6次→+2.67)、flash(5次→+1.43)、email(4次→+0.50)"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_seed",
+   "target": "prefs.seed_tokens",
+   "detail": "导入沉淀园 74 篇，植入 18 个稳定兴趣词"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "research",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "deepseek",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "our",
+   "detail": "跨 4 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "build",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "data",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "level",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "chatgpt",
+   "detail": "跨 5 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "next",
+   "detail": "跨 6 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "brain",
+   "detail": "跨 4 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "astra",
+   "detail": "跨 5 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "beyond",
+   "detail": "跨 5 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_new",
+   "target": "security",
+   "detail": "跨 4 周重现，沉淀入「未归类」圃"
+  },
+  {
+   "ts": "2026-11-09T10:58:19.413235+08:00",
+   "kind": "sediment_update",
+   "target": "openai、code、model、claude、gpt、open、google、agent",
+   "detail": "追加 2026-W46 周观察记录"
   }
  ]
 }

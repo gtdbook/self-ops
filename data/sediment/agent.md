@@ -3,15 +3,15 @@ type: theme
 token: agent
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 34
+last_week: 2026-W46
+weeks: 6
+hits: 46
 status: 常青
 ---
 
 # agent
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -39,6 +39,11 @@ status: 常青
 
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) — GitHub 新星榜 · 2026-11-05
 - [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) — 博客与技术媒体 · 2026-11-03
+### 2026-W46
+
+- [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) — GitHub 新星榜 · 2026-11-09
+- [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format) — Hacker News 热榜 · 2026-11-09
+- [Tobira Site Agent](https://www.producthunt.com/products/tobira-ai) — Product Hunt 新品 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 

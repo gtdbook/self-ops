@@ -3,15 +3,15 @@ type: theme
 token: gemini
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 38
+last_week: 2026-W46
+weeks: 6
+hits: 46
 status: 常青
 ---
 
 # gemini
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -35,13 +35,16 @@ status: 常青
 
 - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) — 博客与技术媒体 · 2026-11-02
 - [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) — Hacker News 热榜 · 2026-11-05
+### 2026-W46
+
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) — 博客与技术媒体 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[carbon]]（共同出现 13 条）
-- [[live]]（共同出现 13 条）
-- [[frontier]]（共同出现 10 条）
-- [[model]]（共同出现 10 条）
-- [[next]]（共同出现 8 条）
-- [[our]]（共同出现 8 条）
+- [[carbon]]（共同出现 17 条）
+- [[frontier]]（共同出现 14 条）
+- [[model]]（共同出现 14 条）
+- [[next]]（共同出现 12 条）
+- [[our]]（共同出现 12 条）
+- [[flash]]（共同出现 2 条）
 - [[google]]（共同出现 2 条）

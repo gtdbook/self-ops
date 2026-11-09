@@ -3,15 +3,15 @@ type: theme
 token: storytold
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W45
+last_week: 2026-W46
 weeks: 3
-hits: 39
+hits: 41
 status: 常青
 ---
 
 # storytold
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -31,4 +31,4 @@ status: 常青
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[anything]]（共同出现 4 条）
+- [[anything]]（共同出现 6 条）

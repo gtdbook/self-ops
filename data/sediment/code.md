@@ -3,15 +3,15 @@ type: theme
 token: code
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 57
+last_week: 2026-W46
+weeks: 6
+hits: 79
 status: 常青
 ---
 
 # code
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -39,14 +39,19 @@ status: 常青
 
 - [Anthropic VS code extension on Cursor backdoored for nearly 12 hours](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/) — 博客与技术媒体 · 2026-11-02
 - [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) — 博客与技术媒体 · 2026-11-02
+### 2026-W46
+
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) — 飙升榜 · 2026-11-09
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) — 飙升榜 · 2026-11-09
+- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) — 博客与技术媒体 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[beyond]]（共同出现 22 条）
+- [[beyond]]（共同出现 26 条）
+- [[claude]]（共同出现 19 条）
+- [[review]]（共同出现 15 条）
+- [[astra]]（共同出现 14 条）
+- [[bug]]（共同出现 14 条）
+- [[gpt]]（共同出现 14 条）
 - [[openai]]（共同出现 12 条）
-- [[puts]]（共同出现 12 条）
-- [[review]]（共同出现 11 条）
-- [[astra]]（共同出现 10 条）
-- [[gpt]]（共同出现 10 条）
-- [[claude]]（共同出现 9 条）
-- [[anthropic]]（共同出现 4 条）
+- [[ask]]（共同出现 6 条）

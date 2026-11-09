@@ -3,15 +3,15 @@ type: theme
 token: google
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 36
+last_week: 2026-W46
+weeks: 6
+hits: 47
 status: 常青
 ---
 
 # google
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -35,14 +35,19 @@ status: 常青
 ### 2026-W45
 
 - [Schools that block Google’s A.I. will lose student access to its search engine](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) — Hacker News 热榜 · 2026-11-04
+### 2026-W46
+
+- [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) — GitHub 新星榜 · 2026-11-09
+- [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) — GitHub 新星榜 · 2026-11-09
+- [[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music](https://www.v2ex.com/t/1255411#reply0) — 中文技术圈 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 
+- [[pro]]（共同出现 8 条）
 - [[run]]（共同出现 5 条）
+- [[android]]（共同出现 4 条）
 - [[build]]（共同出现 4 条）
 - [[data]]（共同出现 4 条）
-- [[android]]（共同出现 3 条）
+- [[says]]（共同出现 2 条）
 - [[open]]（共同出现 2 条）
 - [[carbon]]（共同出现 2 条）
-- [[frontier]]（共同出现 2 条）
-- [[gemini]]（共同出现 2 条）

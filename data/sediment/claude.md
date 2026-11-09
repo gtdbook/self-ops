@@ -3,15 +3,15 @@ type: theme
 token: claude
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W45
-weeks: 5
-hits: 49
+last_week: 2026-W46
+weeks: 6
+hits: 75
 status: 常青
 ---
 
 # claude
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W45
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
 
 ## 观察记录
 
@@ -39,9 +39,17 @@ status: 常青
 
 - [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) — GitHub 新星榜 · 2026-11-02
 - [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) — GitHub 新星榜 · 2026-11-05
+### 2026-W46
+
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) — 飙升榜 · 2026-11-09
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) — 飙升榜 · 2026-11-09
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) — 飙升榜 · 2026-11-09
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[code]]（共同出现 9 条）
+- [[code]]（共同出现 19 条）
 - [[open]]（共同出现 5 条）
+- [[ask]]（共同出现 4 条）
 - [[skill]]（共同出现 3 条）
+- [[deepseek]]（共同出现 2 条）
+- [[gpt]]（共同出现 2 条）

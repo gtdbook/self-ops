@@ -11,8 +11,11 @@
 - 🚨 告警闭环：异常自动开 issue（label `self-ops-alert`），恢复后自动评论并关闭
 
 <!-- sediment:start -->
-**🌿 沉淀库**（自动维护区，勿手改）
-- 沉淀条目 0 条
+**🌿 沉淀库**（自动维护区，勿手改）· 更新于 2026-11-09
+- 沉淀条目 **24** 条（未归类 20 · AI 与智能体 4）
+- 新芽候选 0 个 · 双链 82 条
+- 沉淀园种子：74 篇 · 兴趣词 18 个（[sediment-garden](https://sediment-garden.pages.dev/)）
+- 知识版图见在线站点 [🌿 沉淀库](https://gtdbook.github.io/self-ops/sediment.html)
 <!-- sediment:end -->
 
 ## 体系架构：五条自循环
