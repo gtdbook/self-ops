@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-09T04:11:00.360480+08:00",
- "count": 20,
+ "updated_at": "2026-11-09T08:31:39.424807+08:00",
+ "count": 22,
  "items": [
   {
    "id": "gh-1442375804",
@@ -37,7 +37,7 @@
    "id": "gh-1443650212",
    "title": "shanselman/gputaskman",
    "url": "https://github.com/shanselman/gputaskman",
-   "stars": 869,
+   "stars": 1015,
    "language": "Python",
    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
    "created_at": "2026-11-03T00:49:34Z",
@@ -45,6 +45,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 869
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1015
     }
    ]
   },
@@ -52,7 +56,7 @@
    "id": "gh-1443699236",
    "title": "CzJam/gjgjxweb",
    "url": "https://github.com/CzJam/gjgjxweb",
-   "stars": 1200,
+   "stars": 1217,
    "language": "HTML",
    "description": "《搞机工具箱》Web移植版",
    "created_at": "2026-11-03T02:00:54Z",
@@ -60,6 +64,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1200
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1217
     }
    ]
   },
@@ -67,7 +75,7 @@
    "id": "gh-1443759946",
    "title": "govijr/terminal-mac",
    "url": "https://github.com/govijr/terminal-mac",
-   "stars": 2371,
+   "stars": 2389,
    "language": "Swift",
    "description": "Entire MacOS running in your terminal.",
    "created_at": "2026-11-03T03:22:56Z",
@@ -75,6 +83,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 2371
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 2389
     }
    ]
   },
@@ -82,7 +94,7 @@
    "id": "gh-1443985070",
    "title": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 4087,
+   "stars": 4101,
    "language": "TypeScript",
    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
    "created_at": "2026-11-03T08:02:11Z",
@@ -90,6 +102,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 4087
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 4101
     }
    ]
   },
@@ -97,7 +113,7 @@
    "id": "gh-1444005452",
    "title": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 1352,
+   "stars": 1389,
    "language": "HTML",
    "description": "3D modeling in Python, built for LLMs.",
    "created_at": "2026-11-03T08:23:03Z",
@@ -105,6 +121,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1352
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1389
     }
    ]
   },
@@ -112,7 +132,7 @@
    "id": "gh-1444112593",
    "title": "sarpstar/cinecode",
    "url": "https://github.com/sarpstar/cinecode",
-   "stars": 1518,
+   "stars": 1591,
    "language": "Python",
    "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
    "created_at": "2026-11-03T10:08:16Z",
@@ -120,6 +140,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1518
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1591
     }
    ]
   },
@@ -127,7 +151,7 @@
    "id": "gh-1444372497",
    "title": "Minireel/HGhub",
    "url": "https://github.com/Minireel/HGhub",
-   "stars": 3163,
+   "stars": 3276,
    "language": "TypeScript",
    "description": "YellowFruit third-party client",
    "created_at": "2026-11-03T14:04:27Z",
@@ -135,6 +159,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 3163
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 3276
     }
    ]
   },
@@ -142,7 +170,7 @@
    "id": "gh-1445112696",
    "title": "livliv-dev/player",
    "url": "https://github.com/livliv-dev/player",
-   "stars": 1322,
+   "stars": 1331,
    "language": "TypeScript",
    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
    "created_at": "2026-11-04T03:28:33Z",
@@ -150,6 +178,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1322
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1331
     }
    ]
   },
@@ -157,7 +189,7 @@
    "id": "gh-1445695976",
    "title": "egoist/mygo-music",
    "url": "https://github.com/egoist/mygo-music",
-   "stars": 963,
+   "stars": 973,
    "language": "Go",
    "description": "A native music player you extend with plugins",
    "created_at": "2026-11-04T13:27:14Z",
@@ -165,6 +197,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 963
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 973
     }
    ]
   },
@@ -172,7 +208,7 @@
    "id": "gh-1445802355",
    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "stars": 3229,
+   "stars": 3259,
    "language": "Python",
    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
    "created_at": "2026-11-04T14:54:56Z",
@@ -180,6 +216,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 3229
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 3259
     }
    ]
   },
@@ -187,7 +227,7 @@
    "id": "gh-1446515117",
    "title": "WoYun520/gif-factory",
    "url": "https://github.com/WoYun520/gif-factory",
-   "stars": 822,
+   "stars": 842,
    "language": "Python",
    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
    "created_at": "2026-11-05T04:08:24Z",
@@ -195,6 +235,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 822
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 842
     }
    ]
   },
@@ -202,7 +246,7 @@
    "id": "gh-1446548114",
    "title": "mmdoctor/google-pro-helper",
    "url": "https://github.com/mmdoctor/google-pro-helper",
-   "stars": 1231,
+   "stars": 1246,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-05T04:52:28Z",
@@ -210,6 +254,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1231
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1246
     }
    ]
   },
@@ -217,7 +265,7 @@
    "id": "gh-1446962520",
    "title": "NotRexed/Hookshot",
    "url": "https://github.com/NotRexed/Hookshot",
-   "stars": 2770,
+   "stars": 3077,
    "language": "C++",
    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
    "created_at": "2026-11-05T12:18:58Z",
@@ -225,6 +273,25 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 2770
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 3077
+    }
+   ]
+  },
+  {
+   "id": "gh-1447227957",
+   "title": "IainKay/ram-altman",
+   "url": "https://github.com/IainKay/ram-altman",
+   "stars": 754,
+   "language": "Shell",
+   "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+   "created_at": "2026-11-05T16:16:41Z",
+   "history": [
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 754
     }
    ]
   },
@@ -232,7 +299,7 @@
    "id": "gh-1447586025",
    "title": "voyager-so/vork",
    "url": "https://github.com/voyager-so/vork",
-   "stars": 1094,
+   "stars": 1118,
    "language": "Rust",
    "description": "Headless 3D and VFX engine for agents. Research preview.",
    "created_at": "2026-11-05T22:37:07Z",
@@ -240,6 +307,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1094
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1118
     }
    ]
   },
@@ -247,7 +318,7 @@
    "id": "gh-1448068371",
    "title": "JenkinWoo/sheeridVerify",
    "url": "https://github.com/JenkinWoo/sheeridVerify",
-   "stars": 1856,
+   "stars": 1862,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-11-06T09:28:09Z",
@@ -255,6 +326,25 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1856
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1862
+    }
+   ]
+  },
+  {
+   "id": "gh-1448515937",
+   "title": "DIYgod/pinky",
+   "url": "https://github.com/DIYgod/pinky",
+   "stars": 801,
+   "language": "Go",
+   "description": "Let AI agents use your phone, with you in the loop.",
+   "created_at": "2026-11-06T16:53:14Z",
+   "history": [
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 801
     }
    ]
   },
@@ -262,7 +352,7 @@
    "id": "gh-1448807268",
    "title": "sostenesfreitas/ocarina-recomp",
    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-   "stars": 943,
+   "stars": 963,
    "language": "C",
    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
    "created_at": "2026-11-06T22:24:03Z",
@@ -270,6 +360,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 943
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 963
     }
    ]
   },
@@ -277,7 +371,7 @@
    "id": "gh-1449231124",
    "title": "tangerineturtle1/NX2navi",
    "url": "https://github.com/tangerineturtle1/NX2navi",
-   "stars": 1112,
+   "stars": 1296,
    "language": "C",
    "description": "",
    "created_at": "2026-11-07T10:01:23Z",
@@ -285,6 +379,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 1112
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 1296
     }
    ]
   },
@@ -292,7 +390,7 @@
    "id": "gh-1449518822",
    "title": "Th0rgal/satmux",
    "url": "https://github.com/Th0rgal/satmux",
-   "stars": 902,
+   "stars": 931,
    "language": "Python",
    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
    "created_at": "2026-11-07T16:09:41Z",
@@ -300,6 +398,10 @@
     {
      "t": "2026-11-09T04:11:00.360480+08:00",
      "score": 902
+    },
+    {
+     "t": "2026-11-09T08:31:39.424807+08:00",
+     "score": 931
     }
    ]
   }

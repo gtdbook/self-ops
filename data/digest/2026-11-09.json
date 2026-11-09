@@ -1,7 +1,94 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T04:11:10.044529+08:00",
+ "generated_at": "2026-11-09T08:31:47.654185+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "meta": "+319 分 / 4.3 小时 · 现 ⭐ 562",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Declarative Dragging",
+     "url": "https://declarative-dragging.github.io/",
+     "meta": "+235 分 / 4.3 小时 · 现 ⭐ 308",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "meta": "+172 分 / 4.3 小时 · 现 ⭐ 213",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/",
+     "meta": "+148 分 / 4.3 小时 · 现 ⭐ 178",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Goodbye Claude, hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "meta": "+77 分 / 4.3 小时 · 现 ⭐ 689",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Vegetable Gardening for Engineers",
+     "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+     "meta": "+74 分 / 4.3 小时 · 现 ⭐ 157",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Writing as a thinking tool",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "meta": "+67 分 / 4.3 小时 · 现 ⭐ 262",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "url": "https://github.com/synchopate/llama-modchip",
+     "meta": "+61 分 / 4.3 小时 · 现 ⭐ 350",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+     "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+     "meta": "+58 分 / 4.3 小时 · 现 ⭐ 64",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "meta": "+51 分 / 4.3 小时 · 现 ⭐ 582",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -137,31 +224,31 @@
     {
      "title": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "meta": "⭐ 4087 · TypeScript",
+     "meta": "⭐ 4101 · TypeScript",
      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "meta": "⭐ 3229 · Python",
-     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "meta": "⭐ 3163 · TypeScript",
+     "meta": "⭐ 3276 · TypeScript",
      "summary": "YellowFruit third-party client",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "meta": "⭐ 3259 · Python",
+     "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "meta": "⭐ 2770 · C++",
+     "meta": "⭐ 3077 · C++",
      "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "meta": "⭐ 2371 · Swift",
+     "meta": "⭐ 2389 · Swift",
      "summary": "Entire MacOS running in your terminal.",
      "reason": null,
      "origin_source": "github_search"
@@ -177,7 +264,7 @@
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 1856 · JavaScript",
+     "meta": "⭐ 1862 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -185,7 +272,7 @@
     {
      "title": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "meta": "⭐ 1518 · Python",
+     "meta": "⭐ 1591 · Python",
      "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +280,7 @@
     {
      "title": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "meta": "⭐ 1352 · HTML",
+     "meta": "⭐ 1389 · HTML",
      "summary": "3D modeling in Python, built for LLMs.",
      "reason": null,
      "origin_source": "github_search"
@@ -201,15 +288,23 @@
     {
      "title": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "meta": "⭐ 1322 · TypeScript",
+     "meta": "⭐ 1331 · TypeScript",
      "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "tangerineturtle1/NX2navi",
+     "url": "https://github.com/tangerineturtle1/NX2navi",
+     "meta": "⭐ 1296 · C",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "meta": "⭐ 1231 · Python",
+     "meta": "⭐ 1246 · Python",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -217,7 +312,7 @@
     {
      "title": "CzJam/gjgjxweb",
      "url": "https://github.com/CzJam/gjgjxweb",
-     "meta": "⭐ 1200 · HTML",
+     "meta": "⭐ 1217 · HTML",
      "summary": "《搞机工具箱》Web移植版",
      "reason": null,
      "origin_source": "github_search"
@@ -231,17 +326,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "tangerineturtle1/NX2navi",
-     "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 1112 · C",
-     "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "meta": "⭐ 1094 · Rust",
+     "meta": "⭐ 1118 · Rust",
      "summary": "Headless 3D and VFX engine for agents. Research preview.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +359,7 @@
     {
      "title": "Goodbye Claude, hello Pi",
      "url": "https://caleb.software/posts/claude-to-pi.html",
-     "meta": "⭐ 612 · 💬 392",
+     "meta": "⭐ 689 · 💬 424",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -280,7 +367,23 @@
     {
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "meta": "⭐ 531 · 💬 381",
+     "meta": "⭐ 582 · 💬 394",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "meta": "⭐ 562 · 💬 338",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+     "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "meta": "⭐ 357 · 💬 274",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -288,15 +391,23 @@
     {
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "meta": "⭐ 289 · 💬 103",
+     "meta": "⭐ 350 · 💬 145",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "meta": "⭐ 243 · 💬 150",
+     "title": "Declarative Dragging",
+     "url": "https://declarative-dragging.github.io/",
+     "meta": "⭐ 308 · 💬 37",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+     "meta": "⭐ 281 · 💬 278",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -304,7 +415,15 @@
     {
      "title": "Writing as a thinking tool",
      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "meta": "⭐ 195 · 💬 68",
+     "meta": "⭐ 262 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "meta": "⭐ 213 · 💬 169",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -318,17 +437,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Clj.rs – a Clojure dialect implemented in Rust",
-     "url": "https://clj.rs/",
-     "meta": "⭐ 139 · 💬 52",
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/",
+     "meta": "⭐ 178 · 💬 57",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Porting Android 16 to my blind mother's keypad phone",
-     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-     "meta": "⭐ 118 · 💬 36",
+     "title": "Ask HN: What are you working on? (November 2026)",
+     "url": "https://news.ycombinator.com/item?id=50417407",
+     "meta": "⭐ 100 · 💬 384",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -336,47 +455,15 @@
     {
      "title": "Show HN: Vegetable Gardening for Engineers",
      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-     "meta": "⭐ 83 · 💬 18",
+     "meta": "⭐ 157 · 💬 31",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "JIT bitmap text rendering for microcontrollers",
-     "url": "https://linebender.org/blog/jit-bitmap-text/",
-     "meta": "⭐ 81 · 💬 14",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-     "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-     "meta": "⭐ 41 · 💬 14",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Declarative Dragging",
-     "url": "https://declarative-dragging.github.io/",
-     "meta": "⭐ 73 · 💬 2",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The Reconstruction of Torn Documents",
-     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-     "meta": "⭐ 66 · 💬 40",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I'm not a fan of Deno's security model (2024)",
-     "url": "https://goldstein.lol/posts/deno-security/",
-     "meta": "⭐ 55 · 💬 22",
+     "title": "Porting Android 16 to my blind mother's keypad phone",
+     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+     "meta": "⭐ 149 · 💬 46",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -461,6 +548,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Living Brain",
+     "url": "https://www.producthunt.com/products/chatandbuild",
+     "meta": "Product Hunt · 2026-11-02",
+     "summary": "Interoperable, efficient memory layer for agentic AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Zigzag Browser",
      "url": "https://www.producthunt.com/products/zigzag-browser",
      "meta": "Product Hunt · 2026-11-07",
@@ -499,14 +594,6 @@
      "summary": "Free, ad-free learning app for kids 3+ in five languages",
      "reason": null,
      "origin_source": "producthunt"
-    },
-    {
-     "title": "chalk",
-     "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
-     "meta": "Product Hunt · 2026-10-29",
-     "summary": "learn anything, anywhere",
-     "reason": null,
-     "origin_source": "producthunt"
     }
    ]
   },
@@ -515,6 +602,86 @@
    "emoji": "🏮",
    "errors": [],
    "items": [
+    {
+     "title": "[分享创造] 把 DeepSeek Harness 搬上云端：免本地配置、持续在线的 miuAgent [V 友送 1 个月会员]",
+     "url": "https://www.v2ex.com/t/1255421#reply0",
+     "meta": "V2EX · 2026-11-09",
+     "summary": "各位 V 友大家好！ 大家可能听说过 DeepSeek Harness 这个开源项目。它自带独立 Linux 运行时环境（基于沙箱），能够自主编写代码、跑 Bash 、调用工具并自动完成复杂的长链路任务。 但在本地跑 Agent 常常有些痛点：关了电脑就断、需要长时间跑的任务得一直守在屏幕前、定时自动化也很难全天候待命。我相信 Agent 的形态应该是 云端持续在线、全天候待命 的，于是我做了一个",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 收集了 100 多家老牌机场, 整理成文档分享了",
+     "url": "https://www.v2ex.com/t/1255420#reply5",
+     "meta": "V2EX · 2026-11-09",
+     "summary": "因为众所周知的原因, 中转都干爬下了, 对延迟敏感, 不得不寻找新机场了. 从网上各大机场推荐扒的, 还有 v 站的 aff man, 关闭注册/无效的机场已去除. 文档地址: 404ms.com/vpn",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 🎁ChatGPT Plus/Pro 长期稳定 直充账户",
+     "url": "https://www.v2ex.com/t/1255419#reply0",
+     "meta": "V2EX · 2026-11-09",
+     "summary": "🎁 ChatGPT Plus/Pro 长期稳定充值 直充账户 (可开票) ChatGPT Plus -> 125 ChatGPT 10x -> 660 ChatGPT 20x -> 1150 现在 ChatGPT Pro 订阅额度翻倍 ，Pro5x 目前最具性价比，是 10 倍 plus 用量了 欢迎 v 友咨询，已服务 100+ v 友 可以 +v(备注 v2) : Y2F0Y2hhZG1pbg",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] [送码] 好看又好用的 iOS V2EX 客户端历经一个月终于上架了，送些码看看反馈",
+     "url": "https://www.v2ex.com/t/1255418#reply3",
+     "meta": "V2EX · 2026-11-09",
+     "summary": "#### 前情提要 [吹出去的牛逼] 首先是基于爱好，小白做了自用，啥都不懂，希望大家温柔一点。 之前吹了一顿牛逼，然后新手小白从入会，到上 TF ，到上架，驳回三次，差点放弃。 ### 新手口喷了最好看最好用的 iOS V2EX 客户端，帮我看看值得上架 App Store 吗？ https://v2ex.com/t/1247152 ### 最好看最好用的 iOS V2EX 客户端过审了，欢迎 ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 各位还记得自己第一台手机什么品牌型号吗",
+     "url": "https://www.v2ex.com/t/1255417#reply10",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "我的第一台是西门子 2128 ，2002 年的一款夜光壳手机，夜里会发光，d 记得电视广告是在海洋馆拍的，a 手机会发淡绿色很神奇",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] 重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
+     "url": "https://www.v2ex.com/t/1255416#reply5",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "做了几个月，发上来给大家鉴定鉴定。 TiviMini 跟常见的 IPTV 播放器不太一样的地方： 没用 FFmpeg 。TS 拆包、DASH （.mpd ）解析和 fMP4 拆包、码流分析都是自己用 Rust 写的，解完直接交给芯片硬解，界面是各平台原生控件（ UIKit / AppKit / Android View ） 起播快：从点击到画面动起来约 0.26 秒，系统播放器同一个源大概 1.1",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 周一新闻：英伟达黄仁勋出轨----《至公司全体的一封信》",
+     "url": "https://www.v2ex.com/t/1255415#reply3",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "中英对照 https://imgur.com/GD3uKsS",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "派早报：特斯拉将停产 Cybertruck",
+     "url": "https://sspai.com/post/118805",
+     "meta": "少数派 · 2026-11-08",
+     "summary": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售，大量建设项目被取消 京津冀三地消协组织敦促航司、平台规范机票退改签 FBI 警告冰柜网络安全攻击风险 广电总局部署开展新一轮微短剧专项治理工作 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[投资] 黄仁勋承认出轨 英伟达董事会正在展开对黄仁勋是否成为间谍目标的调查",
+     "url": "https://www.v2ex.com/t/1255414#reply5",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity?srnd=homepage-americas 大的要来了，周一的美股又要腥风血雨了吗",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 有没有视觉设计平面设计比较好的模型推荐",
+     "url": "https://www.v2ex.com/t/1255413#reply0",
+     "meta": "V2EX · 2026-11-08",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
     {
      "title": "[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music",
      "url": "https://www.v2ex.com/t/1255411#reply0",
@@ -552,86 +719,6 @@
      "url": "https://www.v2ex.com/t/1255405#reply0",
      "meta": "V2EX · 2026-11-08",
      "summary": "直达： https://kindleclippings.pages.dev/ - 纯前端运行的网页，使用 localStorage 存储，数据托管在本地浏览器。 - 支持在线编辑、删除书名以及摘录内容， 同时支持将修改后的笔记导出为.md 文件方便在本地查看整理。 - 支持导出.json 文件管理备份并支持导入备份文件恢复。 - 再次上传 my clippings 文件时，之前的修改/删除的内容不",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] app 上架内置动态开关屏蔽部分内容是常见做法吗？",
-     "url": "https://www.v2ex.com/t/1255404#reply0",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "开发了 app ，有些内容过审有点问题，考虑增加动态开关在审核期间做屏蔽。AI 的说法是这种不靠谱，说上架之后应用还会被审核，如果抽查到会被严厉处罚。 想问问各位有经验的开发者，增加评审期间的屏蔽这种操作可以搞么",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] [分享创造] 一张图转 PPT 到底省多少时间，我记了十几张的实际耗时",
-     "url": "https://www.v2ex.com/t/1255403#reply0",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "很多人问这个工具到底能省多少时间，我干脆按自己的使用场景记了一下。 一张中等复杂度的信息图，手动重画大概是这个流程：量位置、画框、打字、调字号、对齐、改配色。文字少的时候二十来分钟，文字多的时候四十多分钟，而且改一次稿就要再走一遍。 丢进去转，等待时间看图的复杂度，一般几分钟。拿到手之后主要做两件事：核对有没有漏字、把明显的字号和间距修一遍。这两步快的话两三分钟。 所以省下来的不是“打字的几分钟”",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] [iOS] 分享创造：票册 Passory——把纸质登机牌收成一本相册",
-     "url": "https://www.v2ex.com/t/1255402#reply0",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "各位好，分享一个刚上架的个人作品。 起因很土：清理抽屉翻出一堆登机牌，褪色的褪色，丢的丢，有一张完全想不起来是去哪的。市面上的航班类 App 都在做追踪、延误、里程兑换，没有一个是用来「收藏」票本身的，所以自己写了一个。 票册 Passory，iOS 18+，原生开发。 做的事情很简单： 拍照扫描纸质登机牌，自动校正成平整干净的票面（歪拍、折痕、反光都能处理），航班/机场/座位自动识别填写，也支持",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 想要 Claude Code 控制 Codex， Deepseek 控制 Claude Code, Grob Bot 控制一切，用这个， So easy",
-     "url": "https://www.v2ex.com/t/1255401#reply3",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "介绍一下： https://github.com/chenhg5/myco 现在使用云端 Claude ，云端 Codex ，Grok Bot 。老是要我去中间当传声筒，叫 Grok Bot 去整理东西给 Claude 大哥。我在想，有没有一种办法，能让他们互相知道，互相能唤醒呢。这样我只要跟一个 agent 聊 ，他就能帮我去找任何一个 agent ，让他们干活。 于是我做了，myco 。 使用",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[VXNA] 申请重新收录",
-     "url": "https://www.v2ex.com/t/1255400#reply0",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "https://z.arlmy.me/atom.xml 之前好像 xml 文件编译错了，已修正",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "LG 因其智能电视监视用户面临法律诉讼",
-     "url": "https://www.solidot.org/story?sid=85829",
-     "meta": "Solidot · 2026-11-08",
-     "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[职场话题] 怎么才能稳定的副业搞点钱 ？",
-     "url": "https://www.v2ex.com/t/1255399#reply3",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "怎么才能稳定的副业搞点钱？靠谱的；",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个中国城市历史时间轴， 32 座城，拖着看",
-     "url": "https://www.v2ex.com/t/1255398#reply2",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "https://fangzhi.defiabell.com 选一座城，拖下面的画轴或者点播放，从远古走到今天。左边全国图的疆域跟着朝代变，右边城市图的辖区和古河道跟着年份变，旁边列着那几年城里的事。 几个我觉得有意思的入口 苏州 1500 年，同一时间别的城市在干嘛 https://fangzhi.defiabell.com/?c=suzhou&y=1500&same=1 大运河，从春秋的邗沟一站",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[职场话题] v2 友们。请教下华为 od 学历差审批能过吗",
-     "url": "https://www.v2ex.com/t/1255397#reply2",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "现在是终面过了。但是我是民本。目前有个中软国际的银行外包 offer 。周一要给答复。不知道还要不要等华为 od 。佬们能给个建议吗",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 国内 ChatGPT 代充平台测评：小羊 Plus 支持 Account ID 吗？支付方式与售后体验",
-     "url": "https://www.v2ex.com/t/1255396#reply0",
-     "meta": "V2EX · 2026-11-08",
-     "summary": "国内 ChatGPT 代充平台测评：小羊 Plus 支持 Account ID 吗？支付方式与售后体验 国内用户寻找 ChatGPT Plus 、Pro 订阅服务时，经常会遇到一个问题：网上能找到的平台不少，但真正需要比较的并不只是价格。 有些平台需要提供账号密码，有些需要验证码，还有一些支持 Account ID 方式。付款之后能否查询订单、订阅失败如何处理、有没有明确的退款规则，这些细节往往比",
      "reason": null,
      "origin_source": "cn_rss"
     }
