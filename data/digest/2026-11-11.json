@@ -1,0 +1,641 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T01:29:15.029604+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Polestar has a new look with its Formula 2030 concept",
+     "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+     "meta": "Ars Technica · 2026-11-10",
+     "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "meta": "TechCrunch AI · 2026-11-10",
+     "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "meta": "Google AI Blog · 2026-11-10",
+     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+     "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+     "meta": "Ars Technica · 2026-11-09",
+     "summary": "\"*sshole\" poses a serious threat to Internet security.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+     "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+     "meta": "TechCrunch AI · 2026-11-09",
+     "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "meta": "OpenAI · 2026-11-09",
+     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "LifeVal",
+     "url": "https://openai.com/index/lifeval",
+     "meta": "OpenAI · 2026-11-02",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "meta": "OpenAI · 2026-10-28",
+     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How Check Point accelerates vulnerability research with Daybreak",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "meta": "OpenAI · 2026-10-27",
+     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+     "url": "https://openai.com/index/greptile-code-review-codex-astra",
+     "meta": "OpenAI · 2026-10-26",
+     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Our newest AI Quest: Mapping the human brain",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "meta": "Google AI Blog · 2026-10-26",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "NotRexed/Hookshot",
+     "url": "https://github.com/NotRexed/Hookshot",
+     "meta": "⭐ 6203 · C++",
+     "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "huamidev/GestaltX",
+     "url": "https://github.com/huamidev/GestaltX",
+     "meta": "⭐ 4483 · Swift",
+     "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "tangerineturtle1/NX2navi",
+     "url": "https://github.com/tangerineturtle1/NX2navi",
+     "meta": "⭐ 2734 · C",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "jhaizhou-ops/S2Arm",
+     "url": "https://github.com/jhaizhou-ops/S2Arm",
+     "meta": "⭐ 2342 · C#",
+     "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "JenkinWoo/sheeridVerify",
+     "url": "https://github.com/JenkinWoo/sheeridVerify",
+     "meta": "⭐ 2005 · JavaScript",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "IainKay/ram-altman",
+     "url": "https://github.com/IainKay/ram-altman",
+     "meta": "⭐ 1763 · Shell",
+     "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "DIYgod/pinky",
+     "url": "https://github.com/DIYgod/pinky",
+     "meta": "⭐ 1644 · Go",
+     "summary": "Let AI agents use your phone, with you in the loop.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "meta": "⭐ 1611 · Python",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "jamesondh/chimera-vocal-synth",
+     "url": "https://github.com/jamesondh/chimera-vocal-synth",
+     "meta": "⭐ 1554 · Rust",
+     "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "meta": "⭐ 1448 · TypeScript",
+     "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "voyager-so/vork",
+     "url": "https://github.com/voyager-so/vork",
+     "meta": "⭐ 1349 · Rust",
+     "summary": "Headless 3D and VFX engine for agents. Research preview.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "egoist/mygo-music",
+     "url": "https://github.com/egoist/mygo-music",
+     "meta": "⭐ 1186 · Go",
+     "summary": "A native music player you extend with plugins",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "WoYun520/gif-factory",
+     "url": "https://github.com/WoYun520/gif-factory",
+     "meta": "⭐ 1082 · Python",
+     "summary": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "sostenesfreitas/ocarina-recomp",
+     "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+     "meta": "⭐ 1076 · C",
+     "summary": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Th0rgal/satmux",
+     "url": "https://github.com/Th0rgal/satmux",
+     "meta": "⭐ 1027 · Python",
+     "summary": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "meta": "⭐ 819 · 💬 950",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb",
+     "meta": "⭐ 705 · 💬 368",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+     "meta": "⭐ 591 · 💬 210",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AlphaProof Code",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "meta": "⭐ 435 · 💬 142",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Your TV can see through walls (2025)",
+     "url": "https://maurycyz.com/projects/fading/",
+     "meta": "⭐ 240 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "meta": "⭐ 176 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Blender 5.3 released with Gaussian Splat support",
+     "url": "https://www.blender.org/download/releases/5-3/",
+     "meta": "⭐ 170 · 💬 25",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Queens Public library under ransomware attack e-borrowing suspended",
+     "url": "https://connect.queenslibrary.org/",
+     "meta": "⭐ 152 · 💬 99",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": ".name Grandfathered",
+     "url": "https://neil.fraser.name/news/2026/11/10/",
+     "meta": "⭐ 131 · 💬 16",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What's new in the .NET 11 runtime",
+     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+     "meta": "⭐ 117 · 💬 65",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+     "url": "https://text.npr.org/nx-s1-6029641",
+     "meta": "⭐ 109 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Hardest Tarball?",
+     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "meta": "⭐ 102 · 💬 9",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+     "meta": "⭐ 85 · 💬 37",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Ghanaian street games you can play in the browser",
+     "url": "https://www.ghanastreetgames.com/",
+     "meta": "⭐ 85 · 💬 17",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "meta": "⭐ 74 · 💬 34",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "NoMac",
+     "url": "https://www.producthunt.com/products/nomac",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Your AI agent's own Mac, billed per minute. No subscription",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tokens by UI Colors",
+     "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Build your product’s visual language with design tokens",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Obsiva",
+     "url": "https://www.producthunt.com/products/obsiva",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Turn site pics + voice notes into a PDF inspection report",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "CollaboTokyo",
+     "url": "https://www.producthunt.com/products/collabotokyo",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Explore a virtual Tokyo to network, market, and collaborate",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Clive",
+     "url": "https://www.producthunt.com/products/clive",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "Let Claude and other AIs set your iPhone alarms",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Watchflows",
+     "url": "https://www.producthunt.com/products/watchflows",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Visual automation for your Mac, with AI built in",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "LotusQ",
+     "url": "https://www.producthunt.com/products/lotusq",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Talk instead of type, in any app",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Inkling 2 Small",
+     "url": "https://www.producthunt.com/products/tinker-2",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "A model that can see and refine what it builds",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "VeilCC",
+     "url": "https://www.producthunt.com/products/veilcc",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "Ship code AI can't reverse engineer",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Alsona",
+     "url": "https://www.producthunt.com/products/alsona",
+     "meta": "Product Hunt · 2026-10-21",
+     "summary": "AI agents that turn buying signals into booked sales calls",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Arcjet AI security models",
+     "url": "https://www.producthunt.com/products/arcjet",
+     "meta": "Product Hunt · 2026-11-06",
+     "summary": "A family of custom-trained security models for coding agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Latch.ai",
+     "url": "https://www.producthunt.com/products/latch-ai-2",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Automate complex accounting work without a single prompt",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "SideKick By Open",
+     "url": "https://www.producthunt.com/products/open-for-sales",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "“Claude, but for your product” is here.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ClipsPal",
+     "url": "https://www.producthunt.com/products/clipspal",
+     "meta": "Product Hunt · 2026-11-08",
+     "summary": "AI video editor that edits your talking-head videos",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "QuotedPart",
+     "url": "https://www.producthunt.com/products/quotedpart",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "AI quoting for CNC and sheet metal job shops",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[分享创造] 宁的账号被封禁啦",
+     "url": "https://www.v2ex.com/t/1256006#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "做了个视频 个人感觉还不错 可惜不想投流了 发出来给大家看看 现在 aigc 流量权都在平台手里 哎 [ [ Claude 原创 MV ] 宁的账号已经被封啦！| 克劳德小剧场-哔哩哔哩] https://b23.tv/q5LvkHC",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] Anthropic 上市，值得买入并持有吗",
+     "url": "https://www.v2ex.com/t/1256004#reply1",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "Anthropic 上市，这个估值感觉市场会有分析，如果是你，你会买入吗，这个是一次难得的投资机会，还是大坑。如何看待 Anthropic ，应该就说对未来 ai 发展方向的判断了，还蛮有意思了。五年后再再来看！",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] 使用 gestaltx 添加境外 esim 后，插槽 2 的实体卡不显示了",
+     "url": "https://www.v2ex.com/t/1256003#reply2",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "添加的时候提示：将替换插槽 2 的 sim 卡，我以为添加之后至少在设置里可以关闭 esim，开启实体 sim（两者不同时开启） 但是添加了之后，插槽 2 的 sim 卡直接不显示了是什么鬼。。。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] Harness 跑分比赛， FrontierHarness benchmark v1.1 直播",
+     "url": "https://www.v2ex.com/t/1256002#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "感觉还挺有意思的 FrontierHarness Eval v1.1 直播跑分，21 harness × 5 model × 62 task × 4 次尝试：总计 26,040 次运行，比此前的 v1.0 360 次的有大幅提升（规模扩大了 72 倍） https://x.com/guanlan/status/2120192585235046712",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了一个纯浏览器端的 GPS 轨迹文件转换工具： FIT / GPX / TCX / KML 互转，文件不上传服务器",
+     "url": "https://www.v2ex.com/t/1256001#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "跑步骑行几年，手里的轨迹文件越来越多，经常遇到这种小麻烦：Garmin 导出的 FIT 想传到别的平台不认、两个活动想合并、FIT 文件损坏打不开……在线工具大多要把文件上传到陌生服务器，轨迹里可是完整的出行记录，想想还是不踏实。 所以做了这个： GPX Converter —— https://gpxconverter.com 所有解析和转换都在浏览器本地用 JS 完成，没有上传这一步（断网也能",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[技术栈] 写了个 Claude Code skill：每天自动抓 AI 编程资讯出推文草稿，我确认后才发到 X",
+     "url": "https://www.v2ex.com/t/1256000#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "在做一个 API 中转（ origincoder.com ）。在推特上发了三个月内容，每天要找素材、写文案、核对链接，很耗时间，所以把这套流程写成了一个 Claude Code skill ，叫 x-daily-post 。 先说清楚它是什么、不是什么： 它不是自动发推机器人。 它只负责「抓取 + 出草稿」，发不发由我在对话里明确说了才算。 流程 抓取 ：先抓 Hacker News 和官方博客 ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[游戏] 做了个可以一直玩的地理地图小游戏，想请大家帮忙测测选国体验",
+     "url": "https://www.v2ex.com/t/1255999#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "最近在尝试做面向海外的小游戏独立站。看到一些地理猜谜游戏每天只能玩一轮，就做了一个有每日题、也能反复玩的地图游戏。 每轮有 5 道题，分别涉及国界、海域、山脉、河流和国名。可以直接点地图，也可以搜索国家；地图支持缩放和拖动，方便选面积小的国家。符合题目的国家不止一个，通常越冷门的答案分数越高。分数是预设规则，不是实时玩家统计。 目前免费、无需注册，英文界面。它是独立游戏 地址： https://f",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[反馈] V2EX 英汉词典似乎被 Google 大量索引 /d/*",
+     "url": "https://www.v2ex.com/t/1255998#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "例如 URL： https://www.v2ex.com/d/nuclear%20magneton",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+     "url": "https://www.solidot.org/story?sid=85850",
+     "meta": "Solidot · 2026-11-10",
+     "summary": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[酷工作] remote DSP／ AdX 交付运营//DSP 运营（国内&海外）// 社群与粉丝运营//海外社媒运营//活动策划与增长// H5 游戏开发工程师（海外社区方向）//海外社区运营（游戏社区方向）//AI 研发工程师",
+     "url": "https://www.v2ex.com/t/1255996#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "一 ，DSP ／ AdX 交付运营（面议） 岗位职责 协助流量接入：对接 SSP 、广告网络和流量方客户经理，跟进测试流程，维护流量规模、广告格式、竞价字段及起投价等资料。 流量源评估：按规模、质量、成本和稳定性比较流量源，建立合作、暂停和淘汰标准。 广告数据分析：每日监控展示、点击、转化、消耗和 ROI ，分析 CPM 、胜率、点击率及转化率，输出日报、周报和优化建议。 转化回传与对账：协助接入",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 🚨Gemini 4 Carbon 已经可以在 Antigravity 中使用",
+     "url": "https://www.v2ex.com/t/1255995#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "由于是刚发布，使用感受上比 Gemini 4 Argon 快多了。但目前好像仅适用于 Ultra 计划。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[独立开发者 👨‍💻] 做了个电商 AI 工具目录站，做工具的兄弟来交换 dofollow",
+     "url": "https://www.v2ex.com/t/1255994#reply0",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "先说背景。 我做电商挺多年了。这两年 AI 工具一下子出来太多，想挑一个能用的，得翻几十个站、看一堆评测，特别费劲。跟同行聊发现大家都有这个问题——不是没工具，是不知道哪些真能用在电商上、哪个适合自己。 所以把这几年选工具的经验总结了一下，做了套工作流去抓常用工具的信息，把有价值的部分提出来——解决什么问题、适合什么规模的店、什么情况下别用——整理成了个网站： ecomagenttools.com",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+     "url": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-10",
+     "summary": "4K 像素最快 10 秒生成 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "波士顿动力为其人形机器人加入了轮子",
+     "url": "https://www.solidot.org/story?sid=85849",
+     "meta": "Solidot · 2026-11-10",
+     "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 各位觉得 Fable 5.2 的实际表现相比 Opus 5.5 如何？",
+     "url": "https://www.v2ex.com/t/1255992#reply3",
+     "meta": "V2EX · 2026-11-10",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  }
+ }
+}
