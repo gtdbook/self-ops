@@ -1,8 +1,17 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-11T01:29:14.688026+08:00",
- "count": 153,
+ "updated_at": "2026-11-11T06:49:41.624585+08:00",
+ "count": 169,
  "items": [
+  {
+   "id": "rss-03616552e8ff4e17",
+   "title": "[问与答] GROK 是否有故障了？聊天记录全没，新对话会上隐私锁无法查看",
+   "url": "https://www.v2ex.com/t/1256011#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T20:17:11Z",
+   "published_iso": "2026-11-10T20:17:11+00:00",
+   "summary": ""
+  },
   {
    "id": "rss-08cdbbc355963383",
    "title": "社区速递 165 | 透明工牌与派友十月购物清单",
@@ -238,6 +247,15 @@
    "summary": "分享个今天刚上线的站： https://chinese-typing-practice.com 项目目前的定位是给学中文的老外用的打字练习工具，目前专注于五笔输入法。 五笔板块的核心功能就是在打字的时候，每个汉字会实时拆解成笔画和字根， 能看到“这一笔为什么在这个键上”。 比如首页演示：左边\"欢迎\"用五笔（欢迎两个字各按什么键、字根是怎么拆）， 右边\"你好\"用拼音（ ni hao 的按键和注音对照）。 项目背景是偶然发现了一个开源笔画数"
   },
   {
+   "id": "rss-2b2c2af9f918225d",
+   "title": "[OpenAI] 有没有大佬用的 Linux 桌面端的 Codex，咨询下 Dots 能否直连 Linux ？",
+   "url": "https://www.v2ex.com/t/1255959#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T12:52:50Z",
+   "published_iso": "2026-11-10T12:52:50+00:00",
+   "summary": "我自己有一台 Ubuntu Server 22.4 ，目前只能让 Dots 通过 Mac 中转 然后 ssh 访问我的 Ubuntu 。这样就得保证我的 Mac 一直在线。 我希望我的 Dots 能直连我的 Mac （目前设备列表看不到 Ubuntu ，因为我用的 codex cli ） 而 OpenAI 官方目前只支持 Ubuntu 24.04 和 26.04 的桌面版，但我不确定的是升级到这个版本的桌面端，就能让 Dots 直连了吗"
+  },
+  {
    "id": "rss-2cfc63817675003e",
    "title": "[Claude] 天才程序员陨落，活了 11 天的 Claude 封号了 🐶",
    "url": "https://www.v2ex.com/t/1255949#reply3",
@@ -418,6 +436,15 @@
    "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议。 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文..."
   },
   {
+   "id": "rss-491d37781438d593",
+   "title": "[问与答] Anthropic 上市，值得买入并持有吗",
+   "url": "https://www.v2ex.com/t/1256004#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T16:58:55Z",
+   "published_iso": "2026-11-10T16:58:55+00:00",
+   "summary": "Anthropic 上市，这个估值感觉市场会有分析，如果是你，你会买入吗，这个是一次难得的投资机会，还是大坑。如何看待 Anthropic ，应该就说对未来 ai 发展方向的判断了，还蛮有意思了。五年后再再来看！"
+  },
+  {
    "id": "rss-4a7ba42e69d983c6",
    "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
    "url": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -497,6 +524,15 @@
    "published": "2026-11-10T13:47:15Z",
    "published_iso": "2026-11-10T13:47:15+00:00",
    "summary": "了解到 iOS27 和 MacOS27 开始镜像功能可以在一些特定的 app 把画面拉伸到宽屏（类似 iPad）模式，但我的 13mini 在类似邮件天气等支持的 app 并不能拉伸，只能等比例缩放，是机型太老吗？"
+  },
+  {
+   "id": "rss-5c4b0f757bfb4728",
+   "title": "[分享创造] 写了一个可以清理 claude code 和 codex 会话存储的工具: cc-clean",
+   "url": "https://www.v2ex.com/t/1256010#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T18:28:01Z",
+   "published_iso": "2026-11-10T18:28:01+00:00",
+   "summary": "一键使用: npx cc-clean@latest 背景大概就是，我同时在用 Claude 和 Codex ，用久了以后，session 会话实在太多了。而我的磁盘又不太够用，一直在疯狂挪东西，又不敢删。 然后自己仔细研究过它们的底层设计，发现有些冗余字段其实是可以清理的。就是在不影响 resume 的前提下，尽可能保留会话，把里面多余的字段移除掉。 其中占用很大的一块，就是会话里的图片。比如你给它发一张图，告诉它要改哪里，这张图就会以"
   },
   {
    "id": "rss-5cdd606a7680f478",
@@ -605,6 +641,15 @@
    "published": "Mon, 09 Nov 2026 22:54:06 +0000",
    "published_iso": "2026-11-09T22:54:06+00:00",
    "summary": "全球最强模型再次易主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-67bcd3c874b71f37",
+   "title": "微软宣布 .NET 11",
+   "url": "https://www.solidot.org/story?sid=85851",
+   "feed_name": "Solidot",
+   "published": "Wed, 11 Nov 2026 00:50:48 +0800",
+   "published_iso": "2026-11-10T16:50:48+00:00",
+   "summary": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR "
   },
   {
    "id": "rss-68a15c7e03828ac5",
@@ -733,6 +778,15 @@
    "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「“地心飞行”AIGC创作赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 视频链接 地心脉动 王剑歌 https://www.bilibili.com/video/BV1qz4i6iEv..."
   },
   {
+   "id": "rss-8638d7b18d8ad159",
+   "title": "[Apple] 使用 gestaltx 添加境外 esim 后，插槽 2 的实体卡不显示了",
+   "url": "https://www.v2ex.com/t/1256003#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T16:58:40Z",
+   "published_iso": "2026-11-10T16:58:40+00:00",
+   "summary": "添加的时候提示：将替换插槽 2 的 sim 卡，我以为添加之后至少在设置里可以关闭 esim，开启实体 sim（两者不同时开启） 但是添加了之后，插槽 2 的 sim 卡直接不显示了是什么鬼。。。"
+  },
+  {
    "id": "rss-87e3081afd82dc7a",
    "title": "ModStart v12.0.0 图形化安装、安全加固与后台体验全面升级",
    "url": "https://www.oschina.net/news/503435",
@@ -767,6 +821,15 @@
    "published": "Mon, 09 Nov 2026 07:56:58 +0000",
    "published_iso": "2026-11-09T07:56:58+00:00",
    "summary": "终于不是后空翻、跳舞、跑步了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-8a2ec471254c3042",
+   "title": "[求职] 现在全栈简历怎么写啊?",
+   "url": "https://www.v2ex.com/t/1256007#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T17:53:24Z",
+   "published_iso": "2026-11-10T17:53:24+00:00",
+   "summary": "[ V 站发的简历 ] 全栈东西多, 加上我本身什么都干. 想突出自己做出海落地经验丰富, 再加上自己的比较喜欢搞技术能自驱学习, 但是感觉可能 hr 不看这个? 最近问我什么的都有, 又说我不是简历上精通 PHP 的吗? 又说我没有重点不知道干什么的. 又说不知道能让我干什么. AI 真就只排了一下版, 整理了一下能力部分最后一条 (想的是堆点关键词方便 hr 对照)."
   },
   {
    "id": "rss-8cad250ccaace7af",
@@ -821,6 +884,15 @@
    "published": "2026-10-23T00:06:16Z",
    "published_iso": "2026-10-23T00:06:16+00:00",
    "summary": "这里记录每周值得分享的科技内容，周五发布。..."
+  },
+  {
+   "id": "rss-960e0933ffec0659",
+   "title": "[推广] DBVibe 完全免费了，不用再花 Token 自己造数据库管理工具",
+   "url": "https://www.v2ex.com/t/1256009#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T18:25:09Z",
+   "published_iso": "2026-11-10T18:25:09+00:00",
+   "summary": "最近更新了数据库管理工具 DBVibe ，决定完全免费开放，不再需要许可证或激活码。 DBVibe 不仅具备传统数据库管理工具的常用功能，可以满足日常数据库开发和维护需求，还针对 AI 时代增加了一些新的能力： Agent ：通过 AI Agent 自动执行数据库开发和维护任务。 MCP ：支持 AI Coding Agent 连接数据库并执行操作。 Skills ：让 AI 掌握数据库相关的操作流程和使用能力。 实时可视化 ：可以实时"
   },
   {
    "id": "rss-9626fae409f46792",
@@ -922,6 +994,15 @@
    "summary": "之前没什么感觉，最近新业务经常有微信语音，总是得等到呼叫失败了才弹一个通知。搬砖又不能总是揣个手机在身上 有什么解决方法吗"
   },
   {
+   "id": "rss-ab0a1cfaa07538cc",
+   "title": "[Claude] Fable5.2 确实很强",
+   "url": "https://www.v2ex.com/t/1255980#reply9",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T14:37:08Z",
+   "published_iso": "2026-11-10T14:37:08+00:00",
+   "summary": "任务的完成度比 opus5.5 效果还好，基本可以一步到位无需修改了。但是用量的消耗速度感觉得有 opus5.5 同样思考强度的十倍了，两轮对话下去五小时限额就没了"
+  },
+  {
    "id": "rss-ab712bb13c12b611",
    "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
    "url": "https://www.solidot.org/story?sid=85846",
@@ -938,6 +1019,15 @@
    "published": "Tue, 10 Nov 2026 12:45:02 +0800",
    "published_iso": "2026-11-10T04:45:02+00:00",
    "summary": "想做一套设备管理系统，权限报表真的要自己写吗 给智能硬件客户搭一套设备管理后台，或者把自己团队的传感器、网关管起来，需求方开口往往只有三句话：要有设备台账、能看到在线状态、能导出报表。字段听起来都简单，真正动手之后你会发现，难的地方不在设备表里。 这篇文章写给三类读者： 需要为客户交付设备/资产管理后..."
+  },
+  {
+   "id": "rss-b0ede66e468f64cf",
+   "title": "[iPhone] 第一次用 iPhone 有被 app store 震惊到",
+   "url": "https://www.v2ex.com/t/1255974#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T14:06:57Z",
+   "published_iso": "2026-11-10T14:06:57+00:00",
+   "summary": "国区 app store 能直接下载 X youtube facebook 等各种不存在的软件，之前在安卓折腾 google play 像傻子一样修 fcm"
   },
   {
    "id": "rss-b0fd6837739ff1b1",
@@ -965,6 +1055,15 @@
    "published": "Mon, 09 Nov 2026 17:04:39 +0800",
    "published_iso": "2026-11-09T09:04:39+00:00",
    "summary": "uniTerm 是一款轻量级一站式开源终端软件。整合终端、文件传输、远程桌面、数据库客户端、容器等 5 大类协议于一身，覆盖 32 种协议，安装包不到 20 MB；内置可自主执行的 AI Agent，能规划并执行多轮 Shell 命令。 v1.12 最重要的几项更新：Docker Web 多租户部署——uniTerm 可作为浏览器访问的服务部署，每位用户拥有..."
+  },
+  {
+   "id": "rss-b51979013badf7bd",
+   "title": "[Claude] 天才程序员陨落，活了 11 天的 Claude 封号了 🐶",
+   "url": "https://www.v2ex.com/t/1255949#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T11:34:06Z",
+   "published_iso": "2026-11-10T11:34:06+00:00",
+   "summary": "热乎的，刚刚还在写代码，然后 Claude 桌面版 直接退出了。"
   },
   {
    "id": "rss-b585ef2009f1e44f",
@@ -1165,6 +1264,15 @@
    "summary": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研"
   },
   {
+   "id": "rss-dad4f1634af6eb18",
+   "title": "[问与答] 你们有没有有牙周问题？",
+   "url": "https://www.v2ex.com/t/1255951#reply18",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T11:36:34Z",
+   "published_iso": "2026-11-10T11:36:34+00:00",
+   "summary": "我经常刷牙出血，不痛不痒，没当回事，前段时间去医院检查，说有牙周炎，还说严重到一定程度会导致牙齿脱落，所以做了全口刮治，花了 3000 来块，后续要每天刷两次牙，牙线，也得用上，还要定期洗牙甚至刮治，牙齿这东西真是不省心啊"
+  },
+  {
    "id": "rss-dd0702be827042c6",
    "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
    "url": "https://www.solidot.org/story?sid=85843",
@@ -1172,6 +1280,15 @@
    "published": "Tue, 10 Nov 2026 14:35:14 +0800",
    "published_iso": "2026-11-10T06:35:14+00:00",
    "summary": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发"
+  },
+  {
+   "id": "rss-dda3599f2d8d367d",
+   "title": "[问与答] 你对 AI 说的最多的一句话是什么？",
+   "url": "https://www.v2ex.com/t/1255953#reply23",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T11:48:18Z",
+   "published_iso": "2026-11-10T11:48:18+00:00",
+   "summary": "对 AI 是的话： 按照你的建议实现 评估一下，确保能理解需求（功能）"
   },
   {
    "id": "rss-dddf36794ebf7351",
@@ -1192,6 +1309,15 @@
    "summary": "研发用 Claude，业务测试 GPT，内容团队接入 Gemini——模型越来越多，账号、接口、API Key 和账单却越来越分散。 Midalo 米搭为企业提供统一的多模型 API 入口： ✅ 一套 API 接入 Claude、GPT、Gemini、DeepSeek 等主流模型 ✅ 兼容 OpenAI、Anthropic、Gemini 原生协议，减少重复适配 ✅ 支 持模型与线路选择，按量计费，无强制月费 ✅ 集中管理 API Key"
   },
   {
+   "id": "rss-e018eef7955a8560",
+   "title": "[分享创造] 宁的账号被封禁啦",
+   "url": "https://www.v2ex.com/t/1256006#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T17:24:12Z",
+   "published_iso": "2026-11-10T17:24:12+00:00",
+   "summary": "做了个视频 个人感觉还不错 可惜不想投流了 发出来给大家看看 现在 aigc 流量权都在平台手里 哎 [ [ Claude 原创 MV ] 宁的账号已经被封啦！| 克劳德小剧场-哔哩哔哩] https://b23.tv/q5LvkHC"
+  },
+  {
    "id": "rss-e185117b8e30e94b",
    "title": "zlang v0.12.14.1 发布，支持中文编程、支持 Web 开发/桌面应用开发的国产全自研编程语言",
    "url": "https://www.oschina.net/news/503469",
@@ -1208,6 +1334,15 @@
    "published": "Mon, 09 Nov 2026 20:50:32 +0800",
    "published_iso": "2026-11-09T12:50:32+00:00",
    "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议，免费且不限制商业使用。 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显..."
+  },
+  {
+   "id": "rss-e576670be84b76b5",
+   "title": "[Claude] Anthropic 计划以约 1 万亿美元估值 IPO， 11 月 19 日开始交易",
+   "url": "https://www.v2ex.com/t/1255963#reply10",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T13:14:10Z",
+   "published_iso": "2026-11-10T13:14:10+00:00",
+   "summary": "Anthropic 最新披露，计划在 IPO 中实现约 1 万亿美元的估值。 预计 11 月 18 日（下周三）确定发行价，11 月 19 日（下周四）开始交易。 截至 10 月 31 日，Anthropic 的年化收入约 810 亿美元，一个月内增加了 100 亿美元。 AMD 、博通、谷歌、美光、微软、英伟达和台积电的合作伙伴还将通过私募配售，认购价值 260 亿美元的 Anthropic 股票。"
   },
   {
    "id": "rss-e610cb6a77a8dfeb",
@@ -1280,6 +1415,15 @@
    "published": "2026-11-10T11:05:50Z",
    "published_iso": "2026-11-10T11:05:50+00:00",
    "summary": "想起什么说什么,基本是要做微信小游戏就需要了解的. iOS 上微信小游戏能用的内存有上限：整个微信进程内存和显存共用大约 1G 到 1.4G(具体看手机内存)，超过就会被系统杀掉；另外 5 秒内收到两次内存警告，微信也会直接销毁小游戏。 别以为你游戏资源包只有几百 MB 就没事。PNG 、JPG 只是文件小，进显存要解开成原始像素，每个像素 4 字节，小游戏占用只看分辨率：一张 2048×2048 的图不管文件多小，都占 16MB ，开"
+  },
+  {
+   "id": "rss-f22da49f4c12fe7e",
+   "title": "[推广] 做了一个 MiniMax H3 Image 在线生图工具，支持文字生成和参考图编辑",
+   "url": "https://www.v2ex.com/t/1256012#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-10T22:14:43Z",
+   "published_iso": "2026-11-10T22:14:43+00:00",
+   "summary": "最近做了一个 MiniMax H3 Image 在线生图站，想放到推广节点和大家分享。 目前可以直接在网页上输入提示词生成图片，也可以添加参考图，描述希望如何修改。生成前可设置画面比例、1K/2K/4K 分辨率、质量和张数。站里还整理了一些可浏览的提示词示例，方便找灵感或调整自己的描述。 网站： https://minimaxh3img.com/ 提示词库： https://minimaxh3img.com/prompts 欢迎反馈～"
   },
   {
    "id": "rss-f23fcd07900a8022",
