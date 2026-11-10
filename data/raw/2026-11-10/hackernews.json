@@ -1,21 +1,41 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-10T09:52:54.952623+08:00",
- "count": 25,
+ "updated_at": "2026-11-10T17:14:52.232750+08:00",
+ "count": 38,
  "items": [
   {
    "id": "hn-50386246",
    "title": "A primer on GPUs and kernel optimization",
    "url": "https://www.nabo.dev/blogs/kernel-primer",
    "hn_url": "https://news.ycombinator.com/item?id=50386246",
-   "score": 89,
-   "comments": 10,
+   "score": 145,
+   "comments": 14,
    "author": "nomi_uw",
    "time_iso": "2026-11-05T23:48:04+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 89
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 145
+    }
+   ]
+  },
+  {
+   "id": "hn-50392733",
+   "title": "How hard is it to check for whitespace?",
+   "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+   "hn_url": "https://news.ycombinator.com/item?id=50392733",
+   "score": 5,
+   "comments": 0,
+   "author": "theanonymousone",
+   "time_iso": "2026-11-06T14:31:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 5
     }
    ]
   },
@@ -31,6 +51,22 @@
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50405611",
+   "title": "A failed experiment in laptop cooling",
+   "url": "https://kevinboone.me/failed_cooling.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50405611",
+   "score": 32,
+   "comments": 30,
+   "author": "andsoitis",
+   "time_iso": "2026-11-07T15:57:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
      "score": 32
     }
    ]
@@ -104,14 +140,18 @@
    "title": "Foldable Flight: The Best Paper Airplanes",
    "url": "https://www.foldableflight.com",
    "hn_url": "https://news.ycombinator.com/item?id=50424581",
-   "score": 852,
-   "comments": 136,
+   "score": 1007,
+   "comments": 149,
    "author": "vismit2000",
    "time_iso": "2026-11-09T12:19:22+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 852
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 1007
     }
    ]
   },
@@ -120,14 +160,34 @@
    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
    "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
    "hn_url": "https://news.ycombinator.com/item?id=50426175",
-   "score": 277,
-   "comments": 177,
+   "score": 312,
+   "comments": 206,
    "author": "speckx",
    "time_iso": "2026-11-09T14:31:39+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 277
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 312
+    }
+   ]
+  },
+  {
+   "id": "hn-50426681",
+   "title": "On Being an Engineer in 2026",
+   "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+   "hn_url": "https://news.ycombinator.com/item?id=50426681",
+   "score": 99,
+   "comments": 144,
+   "author": "talboren",
+   "time_iso": "2026-11-09T15:07:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 99
     }
    ]
   },
@@ -136,14 +196,18 @@
    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
    "hn_url": "https://news.ycombinator.com/item?id=50427362",
-   "score": 467,
-   "comments": 256,
+   "score": 528,
+   "comments": 284,
    "author": "ocd",
    "time_iso": "2026-11-09T16:00:45+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 467
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 528
     }
    ]
   },
@@ -168,30 +232,54 @@
    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
    "url": "https://www.watched.earth",
    "hn_url": "https://news.ycombinator.com/item?id=50428907",
-   "score": 229,
-   "comments": 42,
+   "score": 338,
+   "comments": 59,
    "author": "a585gupt",
    "time_iso": "2026-11-09T17:51:31+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 229
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 338
     }
    ]
   },
   {
    "id": "hn-50429024",
-   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "title": "Muse Ember: Our smallest, most efficient model",
    "url": "https://research.meta.ai/blog/muse-ember",
    "hn_url": "https://news.ycombinator.com/item?id=50429024",
-   "score": 246,
-   "comments": 102,
+   "score": 296,
+   "comments": 121,
    "author": "dvaplima",
    "time_iso": "2026-11-09T17:58:46+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 246
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 296
+    }
+   ]
+  },
+  {
+   "id": "hn-50429068",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "hn_url": "https://news.ycombinator.com/item?id=50429068",
+   "score": 552,
+   "comments": 776,
+   "author": "lairv",
+   "time_iso": "2026-11-09T18:01:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 552
     }
    ]
   },
@@ -200,30 +288,38 @@
    "title": "Google Gemini routes personal Drive files and emails to human annotators",
    "url": "https://github.com/thisisme6598/gemini_files/",
    "hn_url": "https://news.ycombinator.com/item?id=50429426",
-   "score": 408,
-   "comments": 103,
+   "score": 585,
+   "comments": 128,
    "author": "gf74918",
    "time_iso": "2026-11-09T18:24:38+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 408
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 585
     }
    ]
   },
   {
    "id": "hn-50429430",
-   "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+   "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
    "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
    "hn_url": "https://news.ycombinator.com/item?id=50429430",
-   "score": 101,
-   "comments": 60,
+   "score": 136,
+   "comments": 72,
    "author": "sshah03",
    "time_iso": "2026-11-09T18:25:01+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 101
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 136
     }
    ]
   },
@@ -248,14 +344,18 @@
    "title": "E-means: Outperforming k-means in one-tenth the epochs",
    "url": "https://e-means.github.io/",
    "hn_url": "https://news.ycombinator.com/item?id=50429734",
-   "score": 273,
-   "comments": 20,
+   "score": 396,
+   "comments": 37,
    "author": "porridgeraisin",
    "time_iso": "2026-11-09T18:45:43+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 273
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 396
     }
    ]
   },
@@ -312,14 +412,18 @@
    "title": "USPS now offers official ZIP Code boundary polygons",
    "url": "https://postalpro.usps.com/zcb",
    "hn_url": "https://news.ycombinator.com/item?id=50431058",
-   "score": 474,
-   "comments": 235,
+   "score": 613,
+   "comments": 308,
    "author": "munro",
    "time_iso": "2026-11-09T19:58:59+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 474
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 613
     }
    ]
   },
@@ -376,14 +480,18 @@
    "title": "Fable 5.2 one-shotted my nephew's dream game",
    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
    "hn_url": "https://news.ycombinator.com/item?id=50433659",
-   "score": 129,
-   "comments": 98,
+   "score": 385,
+   "comments": 266,
    "author": "lexandstuff",
    "time_iso": "2026-11-09T23:08:13+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 129
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 385
     }
    ]
   },
@@ -392,14 +500,162 @@
    "title": "Horible public key tricks",
    "url": "https://maurycyz.com/projects/badcert/",
    "hn_url": "https://news.ycombinator.com/item?id=50434264",
-   "score": 24,
-   "comments": 8,
+   "score": 158,
+   "comments": 47,
    "author": "Curiositry",
    "time_iso": "2026-11-10T00:07:17+00:00",
    "history": [
     {
      "t": "2026-11-10T09:52:54.952623+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 158
+    }
+   ]
+  },
+  {
+   "id": "hn-50434310",
+   "title": "Locating the source of a mysterious beep",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "hn_url": "https://news.ycombinator.com/item?id=50434310",
+   "score": 170,
+   "comments": 75,
+   "author": "bigwheels",
+   "time_iso": "2026-11-10T00:10:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50435105",
+   "title": "Formalizing CPython",
+   "url": "https://broyojo.com/python-formalization/",
+   "hn_url": "https://news.ycombinator.com/item?id=50435105",
+   "score": 62,
+   "comments": 26,
+   "author": "carnevalem",
+   "time_iso": "2026-11-10T01:56:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 62
+    }
+   ]
+  },
+  {
+   "id": "hn-50435660",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50435660",
+   "score": 139,
+   "comments": 100,
+   "author": "lxm",
+   "time_iso": "2026-11-10T03:20:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 139
+    }
+   ]
+  },
+  {
+   "id": "hn-50435898",
+   "title": "Ultorg: The User Interface for Relational Databases",
+   "url": "https://www.ultorg.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50435898",
+   "score": 59,
+   "comments": 15,
+   "author": "Ivoah",
+   "time_iso": "2026-11-10T03:59:39+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50436410",
+   "title": "Your TV can see through walls",
+   "url": "https://maurycyz.com/projects/fading/",
+   "hn_url": "https://news.ycombinator.com/item?id=50436410",
+   "score": 86,
+   "comments": 26,
+   "author": "Curiositry",
+   "time_iso": "2026-11-10T05:24:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 86
+    }
+   ]
+  },
+  {
+   "id": "hn-50436640",
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "hn_url": "https://news.ycombinator.com/item?id=50436640",
+   "score": 236,
+   "comments": 76,
+   "author": "aloukissas",
+   "time_iso": "2026-11-10T06:01:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 236
+    }
+   ]
+  },
+  {
+   "id": "hn-50436706",
+   "title": "ClickHouse Acquires Xata",
+   "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+   "hn_url": "https://news.ycombinator.com/item?id=50436706",
+   "score": 17,
+   "comments": 2,
+   "author": "mebcitto",
+   "time_iso": "2026-11-10T06:14:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
+   "id": "hn-50437106",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "hn_url": "https://news.ycombinator.com/item?id=50437106",
+   "score": 18,
+   "comments": 4,
+   "author": "werrett",
+   "time_iso": "2026-11-10T07:19:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50437242",
+   "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+   "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+   "hn_url": "https://news.ycombinator.com/item?id=50437242",
+   "score": 39,
+   "comments": 14,
+   "author": "sorokod",
+   "time_iso": "2026-11-10T07:40:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-10T17:14:52.232750+08:00",
+     "score": 39
     }
    ]
   }
