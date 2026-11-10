@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T10:58:19.413235+08:00",
+ "updated_at": "2026-11-10T12:36:57.239904+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -204,6 +204,18 @@
    "kind": "sediment_update",
    "target": "openai、code、model、claude、gpt、open、google、agent",
    "detail": "追加 2026-W46 周观察记录"
+  },
+  {
+   "ts": "2026-11-10T12:36:57.239904+08:00",
+   "kind": "source_heal",
+   "target": "cn_rss",
+   "detail": "fitness=0.714 恢复健康，权重回升至 1.0"
+  },
+  {
+   "ts": "2026-11-10T12:36:57.239904+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "claude(10次→+0.97)、code(8次→+1.38)、open(6次→+0.50)、source(6次→+0.50)、goodbye(6次→+0.97)、every(6次→+1.43)、ask(6次→+2.26)、flash(5次→+1.85)"
   }
  ]
 }
