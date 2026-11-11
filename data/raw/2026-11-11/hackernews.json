@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-11T10:31:43.845312+08:00",
- "count": 52,
+ "updated_at": "2026-11-11T18:19:23.426551+08:00",
+ "count": 62,
  "items": [
   {
    "id": "hn-50382401",
@@ -16,6 +16,22 @@
     {
      "t": "2026-11-11T01:29:06.616871+08:00",
      "score": 15
+    }
+   ]
+  },
+  {
+   "id": "hn-50393070",
+   "title": "Why Amstrad chose the 3\" drives",
+   "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+   "hn_url": "https://news.ycombinator.com/item?id=50393070",
+   "score": 38,
+   "comments": 8,
+   "author": "Skyfall106",
+   "time_iso": "2026-11-06T14:56:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 38
     }
    ]
   },
@@ -40,14 +56,18 @@
    "title": "Hacking the Meta Ray-Ban smartglasses",
    "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
    "hn_url": "https://news.ycombinator.com/item?id=50406224",
-   "score": 51,
-   "comments": 16,
+   "score": 113,
+   "comments": 41,
    "author": "moooooky",
    "time_iso": "2026-11-07T17:19:02+00:00",
    "history": [
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 51
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 113
     }
    ]
   },
@@ -148,6 +168,38 @@
    ]
   },
   {
+   "id": "hn-50414657",
+   "title": "A Compendium of Abandoned Greenhouses",
+   "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+   "hn_url": "https://news.ycombinator.com/item?id=50414657",
+   "score": 46,
+   "comments": 2,
+   "author": "ohjeez",
+   "time_iso": "2026-11-08T16:30:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50424188",
+   "title": "Plane lifted into back garden as bunker takes shape",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
+   "hn_url": "https://news.ycombinator.com/item?id=50424188",
+   "score": 3,
+   "comments": 0,
+   "author": "edward",
+   "time_iso": "2026-11-09T11:35:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 3
+    }
+   ]
+  },
+  {
    "id": "hn-50426294",
    "title": "Taking another shot at the cheap IP camera, part 2",
    "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
@@ -164,6 +216,22 @@
    ]
   },
   {
+   "id": "hn-50427107",
+   "title": "Why I wrote the BEAM book (2025)",
+   "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+   "hn_url": "https://news.ycombinator.com/item?id=50427107",
+   "score": 90,
+   "comments": 14,
+   "author": "zenincognito",
+   "time_iso": "2026-11-09T15:41:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
    "id": "hn-50429068",
    "title": "Claude Fable 5.2 and Mythos 5.2",
    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -176,6 +244,22 @@
     {
      "t": "2026-11-11T01:29:06.616871+08:00",
      "score": 819
+    }
+   ]
+  },
+  {
+   "id": "hn-50429210",
+   "title": "A ZIP-style Prolog VM for trilog",
+   "url": "https://github.com/no382001/zipc",
+   "hn_url": "https://news.ycombinator.com/item?id=50429210",
+   "score": 16,
+   "comments": 4,
+   "author": "triska",
+   "time_iso": "2026-11-09T18:10:30+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 16
     }
    ]
   },
@@ -284,14 +368,18 @@
    "title": "AI usage generates a fragile codebase",
    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "hn_url": "https://news.ycombinator.com/item?id=50438318",
-   "score": 316,
-   "comments": 369,
+   "score": 554,
+   "comments": 525,
    "author": "plun9",
    "time_iso": "2026-11-10T10:25:58+00:00",
    "history": [
     {
      "t": "2026-11-11T06:49:31.500551+08:00",
      "score": 316
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 554
     }
    ]
   },
@@ -300,8 +388,8 @@
    "title": "AlphaProof Code",
    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
    "hn_url": "https://news.ycombinator.com/item?id=50439193",
-   "score": 582,
-   "comments": 178,
+   "score": 636,
+   "comments": 185,
    "author": "ilreb",
    "time_iso": "2026-11-10T12:11:12+00:00",
    "history": [
@@ -316,6 +404,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 582
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 636
     }
    ]
   },
@@ -436,8 +528,8 @@
    "title": "Smart home devices should work without the internet",
    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
    "hn_url": "https://news.ycombinator.com/item?id=50441707",
-   "score": 728,
-   "comments": 259,
+   "score": 949,
+   "comments": 340,
    "author": "skittleson",
    "time_iso": "2026-11-10T15:25:20+00:00",
    "history": [
@@ -452,6 +544,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 728
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 949
     }
    ]
   },
@@ -528,8 +624,8 @@
    "title": ".name Grandfathered",
    "url": "https://neil.fraser.name/news/2026/11/10/",
    "hn_url": "https://news.ycombinator.com/item?id=50442736",
-   "score": 695,
-   "comments": 162,
+   "score": 843,
+   "comments": 184,
    "author": "p4bl0",
    "time_iso": "2026-11-10T16:37:44+00:00",
    "history": [
@@ -544,6 +640,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 695
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 843
     }
    ]
   },
@@ -576,8 +676,8 @@
    "title": "Val Town is winding down",
    "url": "https://blog.val.town/winding-down",
    "hn_url": "https://news.ycombinator.com/item?id=50443427",
-   "score": 313,
-   "comments": 82,
+   "score": 385,
+   "comments": 95,
    "author": "tosh",
    "time_iso": "2026-11-10T17:31:14+00:00",
    "history": [
@@ -588,6 +688,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 313
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 385
     }
    ]
   },
@@ -628,14 +732,18 @@
    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
    "hn_url": "https://news.ycombinator.com/item?id=50443716",
-   "score": 132,
-   "comments": 103,
+   "score": 231,
+   "comments": 162,
    "author": "Yorothegoat",
    "time_iso": "2026-11-10T17:55:07+00:00",
    "history": [
     {
      "t": "2026-11-11T06:49:31.500551+08:00",
      "score": 132
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 231
     }
    ]
   },
@@ -644,8 +752,8 @@
    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "url": "https://github.com/GoogleChrome/modern-web-guidance",
    "hn_url": "https://news.ycombinator.com/item?id=50443812",
-   "score": 271,
-   "comments": 79,
+   "score": 368,
+   "comments": 111,
    "author": "paulirish",
    "time_iso": "2026-11-10T18:01:15+00:00",
    "history": [
@@ -656,6 +764,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 271
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 368
     }
    ]
   },
@@ -664,8 +776,8 @@
    "title": "Synaptics patent claims stop work on DisplayLink drivers",
    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
    "hn_url": "https://news.ycombinator.com/item?id=50443824",
-   "score": 305,
-   "comments": 166,
+   "score": 400,
+   "comments": 229,
    "author": "speckx",
    "time_iso": "2026-11-10T18:02:02+00:00",
    "history": [
@@ -676,6 +788,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 305
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 400
     }
    ]
   },
@@ -684,14 +800,18 @@
    "title": "Starlink Mini 2",
    "url": "https://starlink.com/mini-2",
    "hn_url": "https://news.ycombinator.com/item?id=50444129",
-   "score": 261,
-   "comments": 265,
+   "score": 416,
+   "comments": 416,
    "author": "robertjfclarke",
    "time_iso": "2026-11-10T18:22:32+00:00",
    "history": [
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 261
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 416
     }
    ]
   },
@@ -756,8 +876,8 @@
    "title": "Scion is back and is going to sell a kei truck in America",
    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
    "hn_url": "https://news.ycombinator.com/item?id=50445401",
-   "score": 344,
-   "comments": 256,
+   "score": 476,
+   "comments": 316,
    "author": "NaOH",
    "time_iso": "2026-11-10T19:50:46+00:00",
    "history": [
@@ -768,6 +888,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 344
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 476
     }
    ]
   },
@@ -793,11 +917,11 @@
   },
   {
    "id": "hn-50446246",
-   "title": "Six Math Essentials by Terence Tao",
+   "title": "Six Math Essentials",
    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
    "hn_url": "https://news.ycombinator.com/item?id=50446246",
-   "score": 140,
-   "comments": 26,
+   "score": 246,
+   "comments": 44,
    "author": "digital55",
    "time_iso": "2026-11-10T20:58:44+00:00",
    "history": [
@@ -808,6 +932,26 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 140
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 246
+    }
+   ]
+  },
+  {
+   "id": "hn-50446520",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "hn_url": "https://news.ycombinator.com/item?id=50446520",
+   "score": 253,
+   "comments": 212,
+   "author": "linolevan",
+   "time_iso": "2026-11-10T21:25:03+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 253
     }
    ]
   },
@@ -845,11 +989,11 @@
   },
   {
    "id": "hn-50447074",
-   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
    "hn_url": "https://news.ycombinator.com/item?id=50447074",
-   "score": 265,
-   "comments": 112,
+   "score": 400,
+   "comments": 192,
    "author": "panic",
    "time_iso": "2026-11-10T22:17:56+00:00",
    "history": [
@@ -860,6 +1004,10 @@
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 265
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 400
     }
    ]
   },
@@ -900,14 +1048,18 @@
    "title": "LLMs Play Zachtronics' TIS-100",
    "url": "https://tis-100.wincon.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50448340",
-   "score": 10,
-   "comments": 0,
+   "score": 71,
+   "comments": 11,
    "author": "fairestvalue",
    "time_iso": "2026-11-11T00:37:05+00:00",
    "history": [
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 10
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 71
     }
    ]
   },
@@ -916,14 +1068,82 @@
    "title": "A great old-timey game-programming hack (2013)",
    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
    "hn_url": "https://news.ycombinator.com/item?id=50448921",
-   "score": 11,
-   "comments": 0,
+   "score": 163,
+   "comments": 31,
    "author": "palsecam",
    "time_iso": "2026-11-11T01:56:31+00:00",
    "history": [
     {
      "t": "2026-11-11T10:31:43.845312+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 163
+    }
+   ]
+  },
+  {
+   "id": "hn-50449275",
+   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+   "hn_url": "https://news.ycombinator.com/item?id=50449275",
+   "score": 101,
+   "comments": 62,
+   "author": "Metacelsus",
+   "time_iso": "2026-11-11T02:57:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
+   "id": "hn-50449748",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "hn_url": "https://news.ycombinator.com/item?id=50449748",
+   "score": 199,
+   "comments": 72,
+   "author": "js2",
+   "time_iso": "2026-11-11T04:28:57+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 199
+    }
+   ]
+  },
+  {
+   "id": "hn-50449891",
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "hn_url": "https://news.ycombinator.com/item?id=50449891",
+   "score": 21,
+   "comments": 2,
+   "author": "adrbn",
+   "time_iso": "2026-11-11T04:56:47+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50450007",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "hn_url": "https://news.ycombinator.com/item?id=50450007",
+   "score": 71,
+   "comments": 34,
+   "author": "d3Xt3r",
+   "time_iso": "2026-11-11T05:25:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-11T18:19:23.426551+08:00",
+     "score": 71
     }
    ]
   }

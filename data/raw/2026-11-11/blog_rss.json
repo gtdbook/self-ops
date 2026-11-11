@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-11-11T10:31:45.599974+08:00",
- "count": 2439,
+ "updated_at": "2026-11-11T18:19:25.267033+08:00",
+ "count": 2443,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -2227,6 +2227,15 @@
    "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
   },
   {
+   "id": "rss-191d65fd7b158491",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "feed_name": "OpenAI",
+   "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+   "published_iso": "2026-11-10T00:00:00+00:00",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+  },
+  {
    "id": "rss-192335266dc05c83",
    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
@@ -2279,6 +2288,15 @@
    "published": "Fri, 22 Mar 2024 00:00:00 GMT",
    "published_iso": "2024-03-22T00:00:00+00:00",
    "summary": ""
+  },
+  {
+   "id": "rss-19892041069d942d",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "feed_name": "OpenAI",
+   "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "published_iso": "2026-11-10T08:00:00+00:00",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
   },
   {
    "id": "rss-19983350be0000b4",
@@ -2684,24 +2702,6 @@
    "published": "Tue, 03 Mar 2026 16:50:49 GMT",
    "published_iso": "2026-03-03T16:50:49+00:00",
    "summary": ""
-  },
-  {
-   "id": "rss-1d66f35fb06cceea",
-   "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-   "url": "https://huggingface.co/blog/async-rl-training-landscape",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-   "published_iso": "2026-03-10T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1dc472c1198db6b9",
-   "title": "Our commitment to community safety",
-   "url": "https://openai.com/index/our-commitment-to-community-safety",
-   "feed_name": "OpenAI",
-   "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-   "published_iso": "2026-04-28T00:00:00+00:00",
-   "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
   }
  ]
 }

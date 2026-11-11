@@ -1,7 +1,22 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T10:31:51.788153+08:00",
+ "generated_at": "2026-11-11T18:19:33.161486+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "[推广] 做了一个 MiniMax H3 Image 在线生图工具，支持文字生成和参考图编辑",
+     "url": "https://www.v2ex.com/t/1256012#reply0",
+     "meta": "中文技术圈 · Product Hunt 新品",
+     "summary": "最近做了一个 MiniMax H3 Image 在线生图站，想放到推广节点和大家分享。 目前可以直接在网页上输入提示词生成图片，也可以添加参考图，描述希望如何修改。生成前可设置画面比例、1K/2K/4K 分辨率、质量和张数。站里还整理了一些可浏览的提示词示例，方便找灵感或调整自己的描述。 网站： https://min",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,7 @@
     {
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "meta": "+654 分 / 9.0 小时 · 现 ⭐ 728",
+     "meta": "+875 分 / 16.8 小时 · 现 ⭐ 949",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,15 +33,31 @@
     {
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "meta": "+564 分 / 9.0 小时 · 现 ⭐ 695",
+     "meta": "+712 分 / 16.8 小时 · 现 ⭐ 843",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+     "title": "Tracking Anthropic-discovered vulnerabilities",
      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "meta": "+255 分 / 3.7 小时 · 现 ⭐ 265",
+     "meta": "+390 分 / 11.5 小时 · 现 ⭐ 400",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "meta": "+318 分 / 11.5 小时 · 现 ⭐ 476",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI usage generates a fragile codebase",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "meta": "+238 分 / 11.5 小时 · 现 ⭐ 554",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,9 +71,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "meta": "+186 分 / 3.7 小时 · 现 ⭐ 344",
+     "title": "AlphaProof Code",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "meta": "+201 分 / 16.8 小时 · 现 ⭐ 636",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Six Math Essentials",
+     "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+     "meta": "+185 分 / 11.5 小时 · 现 ⭐ 246",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -56,33 +95,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-     "url": "https://tinyvalencia.com/",
-     "meta": "+157 分 / 9.0 小时 · 现 ⭐ 200",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "AlphaProof Code",
-     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "meta": "+147 分 / 9.0 小时 · 现 ⭐ 582",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What's new in the .NET 11 runtime",
-     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-     "meta": "+103 分 / 5.3 小时 · 现 ⭐ 220",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Six Math Essentials by Terence Tao",
-     "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "meta": "+79 分 / 3.7 小时 · 现 ⭐ 140",
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "meta": "+164 分 / 11.5 小时 · 现 ⭐ 400",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -131,6 +146,22 @@
      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
      "meta": "Google AI Blog · 2026-11-10",
      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -197,22 +228,6 @@
      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Gemini 4 Carbon: Our next frontier model",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-     "meta": "Google DeepMind · 2026-10-28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Check Point accelerates vulnerability research with Daybreak",
-     "url": "https://openai.com/index/check-point-daybreak",
-     "meta": "OpenAI · 2026-10-27",
-     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -224,7 +239,7 @@
     {
      "title": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "meta": "⭐ 6645 · C++",
+     "meta": "⭐ 7008 · C++",
      "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "reason": null,
      "origin_source": "github_search"
@@ -232,7 +247,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 4986 · Swift",
+     "meta": "⭐ 5670 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +255,7 @@
     {
      "title": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 2916 · C",
+     "meta": "⭐ 3030 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +263,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2410 · C#",
+     "meta": "⭐ 2522 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -256,7 +271,7 @@
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 2010 · JavaScript",
+     "meta": "⭐ 2017 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -264,7 +279,7 @@
     {
      "title": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "meta": "⭐ 1829 · Shell",
+     "meta": "⭐ 1860 · Shell",
      "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +287,7 @@
     {
      "title": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "meta": "⭐ 1716 · Rust",
+     "meta": "⭐ 1817 · Rust",
      "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +295,7 @@
     {
      "title": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "meta": "⭐ 1707 · Go",
+     "meta": "⭐ 1800 · Go",
      "summary": "Let AI agents use your phone, with you in the loop.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +303,7 @@
     {
      "title": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "meta": "⭐ 1653 · Python",
+     "meta": "⭐ 1693 · Python",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -304,8 +319,16 @@
     {
      "title": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "meta": "⭐ 1359 · Rust",
+     "meta": "⭐ 1373 · Rust",
      "summary": "Headless 3D and VFX engine for agents. Research preview.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Kianuni/Erosion-CN",
+     "url": "https://github.com/Kianuni/Erosion-CN",
+     "meta": "⭐ 1343 · Swift",
+     "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -318,17 +341,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Kianuni/Erosion-CN",
-     "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1107 · Swift",
-     "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "WoYun520/gif-factory",
      "url": "https://github.com/WoYun520/gif-factory",
-     "meta": "⭐ 1092 · Python",
+     "meta": "⭐ 1118 · Python",
      "summary": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +351,7 @@
     {
      "title": "sostenesfreitas/ocarina-recomp",
      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-     "meta": "⭐ 1092 · C",
+     "meta": "⭐ 1110 · C",
      "summary": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
      "reason": null,
      "origin_source": "github_search"
@@ -349,9 +364,25 @@
    "errors": [],
    "items": [
     {
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "meta": "⭐ 949 · 💬 340",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
      "meta": "⭐ 819 · 💬 950",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": ".name Grandfathered",
+     "url": "https://neil.fraser.name/news/2026/11/10/",
+     "meta": "⭐ 843 · 💬 184",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -365,25 +396,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Smart home devices should work without the internet",
-     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "meta": "⭐ 728 · 💬 259",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": ".name Grandfathered",
-     "url": "https://neil.fraser.name/news/2026/11/10/",
-     "meta": "⭐ 695 · 💬 162",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "meta": "⭐ 582 · 💬 178",
+     "meta": "⭐ 636 · 💬 185",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -397,6 +412,38 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "AI usage generates a fragile codebase",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "meta": "⭐ 554 · 💬 525",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "meta": "⭐ 476 · 💬 316",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+     "url": "https://github.com/GoogleChrome/modern-web-guidance",
+     "meta": "⭐ 368 · 💬 111",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Starlink Mini 2",
+     "url": "https://starlink.com/mini-2",
+     "meta": "⭐ 416 · 💬 416",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Blender 5.3 released with Gaussian Splat support",
      "url": "https://www.blender.org/download/releases/5-3/",
      "meta": "⭐ 390 · 💬 53",
@@ -405,25 +452,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "meta": "⭐ 344 · 💬 256",
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "meta": "⭐ 400 · 💬 229",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-     "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "meta": "⭐ 271 · 💬 79",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "AI usage generates a fragile codebase",
-     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-     "meta": "⭐ 316 · 💬 369",
+     "title": "Tracking Anthropic-discovered vulnerabilities",
+     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "meta": "⭐ 400 · 💬 192",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -431,39 +470,15 @@
     {
      "title": "Val Town is winding down",
      "url": "https://blog.val.town/winding-down",
-     "meta": "⭐ 313 · 💬 82",
+     "meta": "⭐ 385 · 💬 95",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "meta": "⭐ 305 · 💬 166",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Ableton Live 13",
-     "url": "https://www.ableton.com/en/live/",
-     "meta": "⭐ 278 · 💬 301",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "meta": "⭐ 265 · 💬 112",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Starlink Mini 2",
-     "url": "https://starlink.com/mini-2",
-     "meta": "⭐ 261 · 💬 265",
+     "title": "Apple has new Mac app coming to make running local AI models easy",
+     "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+     "meta": "⭐ 253 · 💬 212",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -492,10 +507,34 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Binqo",
+     "url": "https://www.producthunt.com/products/binqo",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "A tiny friend in your Mac's notch",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Scribe v3 by ElevenLabs",
+     "url": "https://www.producthunt.com/products/elevenlabs",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "Speech to text with 27% fewer errors in 90+ languages",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Obsiva",
      "url": "https://www.producthunt.com/products/obsiva",
      "meta": "Product Hunt · 2026-11-09",
      "summary": "Turn site pics + voice notes into a PDF inspection report",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "nizima ACTION!!",
+     "url": "https://www.producthunt.com/products/nizima-action-by-live2d",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "Powerful editing, expressive characters, zero installs.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -520,6 +559,14 @@
      "url": "https://www.producthunt.com/products/watchflows",
      "meta": "Product Hunt · 2026-10-28",
      "summary": "Visual automation for your Mac, with AI built in",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Seedream 5.5 by ByteDance",
+     "url": "https://www.producthunt.com/products/seedream-4-0",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "ByteDance's AI image model built for 100-round editing",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -556,42 +603,10 @@
      "origin_source": "producthunt"
     },
     {
-     "title": "Arcjet AI security models",
-     "url": "https://www.producthunt.com/products/arcjet",
-     "meta": "Product Hunt · 2026-11-06",
-     "summary": "A family of custom-trained security models for coding agents",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Latch.ai",
-     "url": "https://www.producthunt.com/products/latch-ai-2",
-     "meta": "Product Hunt · 2026-10-28",
-     "summary": "Automate complex accounting work without a single prompt",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "SideKick By Open",
-     "url": "https://www.producthunt.com/products/open-for-sales",
-     "meta": "Product Hunt · 2026-11-09",
-     "summary": "“Claude, but for your product” is here.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "ClipsPal",
-     "url": "https://www.producthunt.com/products/clipspal",
-     "meta": "Product Hunt · 2026-11-08",
-     "summary": "AI video editor that edits your talking-head videos",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "QuotedPart",
-     "url": "https://www.producthunt.com/products/quotedpart",
-     "meta": "Product Hunt · 2026-11-09",
-     "summary": "AI quoting for CNC and sheet metal job shops",
+     "title": "Xolace",
+     "url": "https://www.producthunt.com/products/xolace",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "For the bad days you wouldn’t call a mental health problem",
      "reason": null,
      "origin_source": "producthunt"
     }
@@ -603,122 +618,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[问与答] 🇸🇬云自己搭建🪜，在家里网络延迟有 300 多，在公司用只有 70 左右，这个能怎么优化？",
-     "url": "https://www.v2ex.com/t/1256078#reply0",
+     "title": "[Claude] 求助： nodeseek400 元买的 Claude 解封号，目前 Free，想通过 Google Play + GoPay 订阅 Max，有什么风险？",
+     "url": "https://www.v2ex.com/t/1256257#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "tr ，用的 sing-box vless ；是运营商的原因导致的吗？有什么办法把延迟降先去？家里是电信",
+     "summary": "各位大佬好，想咨询一下 Claude 账号订阅的问题。 目前账号情况： 在 NodeSeek 花了 400 元购买的 Claude 解封号。 账号之前充值、使用过 Pro，支持免 KYC。目前账号状态显示为 Free 现在想升级订阅 Claude Max，考虑通过 Google Play + GoPay 的方式付款。 准备用 dumi 的 ISP 家宽环境注册 有几个问题想请教： 这种曾经被封禁、",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[买买买] 双 11 价格没啥优惠 是不是意味着企业不倦了",
-     "url": "https://www.v2ex.com/t/1256076#reply0",
+     "title": "[分享创造] 紫微斗数算命网站",
+     "url": "https://www.v2ex.com/t/1256256#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "企业不倦了 是不是对打工人有益处。 另一种想法：经济下行，买的人少了，价格再低也没人买，不如不降价，或者少降价。",
+     "summary": "简介： 昨天测了一下用克劳德算命，还挺准，今天自己用它的提示词做了个网站，填写自己的 key 和基本信息就能生成报告啦，大家试试看吧 网站地址： https://61fe8c0a.pinme.dev/#/",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Claude] 现在续订 Claude 弹 KYC 的概率大么？",
-     "url": "https://www.v2ex.com/t/1256075#reply0",
+     "title": "[中转站] 上新 bug cursor 0.15 倍率 可用高智商 fable5.2 gpt 高缓不降智 0.09 倍率，官 key0.28 倍率 DS0.09 倍率 包稳不烧心",
+     "url": "https://www.v2ex.com/t/1256255#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "有点用不下去 Gemini 了，从这周一开始 Gemini 4 Argon 变的又慢又蠢。偶尔还要 retry 。Gemini 3.8 Flash 感觉也变蠢了不少。 手上还有个因为 Apple ID 被封，掉订阅的 Free 账号。想换个新的美区 Apple ID 订阅了",
+     "summary": "上新 bug cursor 0.15 倍率 高智商 fable5.2, GPT 高缓不降智低至 0.09 倍率，官 key0.28 倍率，国模 DS 0.09 倍率，满血 ccmax1.1 倍率 包稳不烧心，用了都说好 varai.top",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 推广一下做的 AI 工具集， AI 图片/视频功能相关，后续还会继续开发更多的功能",
-     "url": "https://www.v2ex.com/t/1256072#reply0",
+     "title": "[Apple] Apple tv youtube Stash 分流规则，哪位大佬可以分享下， Stash 调试多次都不对",
+     "url": "https://www.v2ex.com/t/1256254#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "大部分工具想赚刀乐儿（小菜鸡根本赚不到(´∀｀；)），有两个处理照片水印和视频水印的可以免费使用，文章由 DS4.1 总结，咋调都一股味儿 一、One Hub All AI One Hub All AI：把散落的创作工具收进一个账号 https://onehuballai.com/ 这是我的工具集合网站，后续开发的工具都会收录这里。 做内容的人，工具通常是东拼西凑的：AI 出片的站在 A，剪视频的",
+     "summary": "之前一直用 Clash，Apple TV 上的 YouTube 播放很正常。今天换成了 Stash，用 Grok 调整了分流规则后，主界面能看到预览，但进入视频就会报错；如果开启全局代理，加载转圈很久才能播放模糊画面，且底部控制按钮也显示不出来。求大佬分享一份适用于 Stash 的有效分流规则，十分感谢！",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 自建 Coding Agent Workbench：支持 Remote，手机可接管",
-     "url": "https://www.v2ex.com/t/1256070#reply0",
+     "title": "[分享创造] 两个工具站：一个域名佬和一个设计佬的小众私藏。",
+     "url": "https://www.v2ex.com/t/1256253#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "分享下我自己搭的 Coding Agent Workbench 前后花了三个月，总算把想要的 Coding Agent Workbench 做出来了。 对我而言最核心的需求就是 Remote 能力，手机上也能随时接起 Agent 的任务、跟进进度。 之前长期在用 CloudCLI ，但一直用得别扭，像消息队列这种很基础的队列能力迟迟没补上。刚好那段时间有空，索性决定从头自己写一套。 一开始目标很简",
+     "summary": "https://yee.cx 精心为域名佬设计的域名查询小站，查询历史功能中嵌入域名导出功能。 https://puff.ee 把你的设计放进真实设备里。31 款 iPhone / iPad / Mac / Apple Watch 样机，5 种布局，一键导出高清 PNG 或动态 WebM ，全程浏览器本地渲染，图片设计只在本地。 自行运营，欢迎使用和支持！",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Claude] fable5.2 一个问答消耗的用量",
-     "url": "https://www.v2ex.com/t/1256068#reply0",
+     "title": "[分享创造] 做了个能装插件的 Homelab 导航页 Genkan",
+     "url": "https://www.v2ex.com/t/1256251#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "https://imgur.com/a/5nPiR9A 五小时限额等于 25%周限额，也就是说 20 小时就能打完所有的 fable 限额",
+     "summary": "分享一个自己在用的 NAS / Homelab 导航页： Genkan （玄関） 。目标就三个：轻、好看、能扩展。 插件系统（重点） 一个插件就是一个 JS / TS 文件，能做的事情有： 桌面小组件：可以拖拽、调大小，支持图表、进度条、待办、便签 壁纸源：Bing 、NASA 每日一图，或者你自己的图源 搜索插件和后台定时任务 内置了 17 款插件，像天气、Pi-hole 、RSS 、GitHu",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
-     "url": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "title": "[问与答] 封号，我让你封尼玛",
+     "url": "https://www.v2ex.com/t/1256250#reply0",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "我今有一计，不知各位看官意下如何： 在本地用虚拟环境虚拟一个完全干净的环境，包住 CC 。 虚拟环境可以打通本机文件系统操作。 虚拟环境流量全劫持到海外家宽节点。 为啥这么搞： 虚拟环境完全模拟干净合规的本地 OS+硬件环境（机型、OS 、时区、语言等所有可收集的软/硬环境特征）。 去除反代节点，进一步避免特征检测（ IP 分离等）。 打通本地操作，比远程虚拟机更方便。 各位佬来交流一下？ 有没有",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] iPhone air 添加 voxi esim 失败了",
+     "url": "https://www.v2ex.com/t/1256249#reply1",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "今天 尝试了 GestaltX 确实解锁了 esim 限制，可以添加 新的 esim 了，自己也订阅了一个 voxi 的 esim ，激活成功了，但是没有服务，没有信号，经过跟客服沟通，它必须现在英国本土激活才行，有没有推荐其它卡 esim 可以在国内激活的呢",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[酷工作] [全远程｜硅谷背景美资小团队] 资深全栈工程师｜ AI 广告创意 SaaS 产品｜亚太时区",
+     "url": "https://www.v2ex.com/t/1256247#reply0",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "[全远程｜硅谷背景美资小团队] 资深全栈工程师｜ AI 广告创意 SaaS 产品｜亚太时区 弹性远程，大厂背景团队，直接参与产品技术决策✨ 关于团队 硅谷背景美资的行业头部广告创意 SaaS 平台，依托 AI 能力赋能营销团队，完成广告调研、创意生产、效果数据分析，服务海内外大量品牌与代理商。 团队为全远程模式，核心成员均来自腾讯、字节、微软、亚马逊等一线大厂，内部主要中文协作，跨国业务会用到基础",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 四博小黄鸭 MicroDuck 原生态出演，可以自然语言交流、意图理解、视觉、手势和翻跟头",
+     "url": "https://www.v2ex.com/t/1256246#reply0",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "效果视频： https://www.bilibili.com/video/BV17uWy6EENM/ 代码： https://github.com/doit-open-org/DoitDuck",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[AI Agent 智能体] 开源了我们的「多 Agent 调度平台」",
+     "url": "https://www.v2ex.com/t/1256245#reply0",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "https://milletcode.com https://github.com/milletcode/milletcode 这款产品在我们内部已经使用了一段时间，也已经正式商用。 我们想了想决定还是开源出去，让更多人感受下 多 Agent 并行工作的核爆威力。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[生活] 兄弟们，房贷终于要还清了！",
+     "url": "https://www.v2ex.com/t/1256244#reply7",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "本月房贷终于要还清了，卡里备好的 4.7 万静静躺着，等那天银行自动划走就好。 回想 2022 年初刚背上这 35 万贷款那会儿，压力大到喘不过气。真得谢谢老婆，之前她把彩礼钱拿出来帮我还贷，前前后后提前还了五六次，愣是把一大笔债磨成了现在这点零头。 四年，从 2022 到 2026 ，35 万清零。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[求职] Kaon AI 招人｜ AI Platform 工程师",
+     "url": "https://www.v2ex.com/t/1256243#reply3",
+     "meta": "V2EX · 2026-11-11",
+     "summary": "Kaon AI 招人｜ AI Platform 工程师 大家好，我是 Kaon AI （ Emochi 、FlowGPT ）的 AI Platform 负责人。我们正在寻找热爱 AI 、有想法、愿意一起把产品做好的伙伴。 我们正在解决人类长期个性化主观偏好对齐的问题，希望让 AI 更懂不同的人。自研模型经过一年的迭代，在我们业务场景的 A/B 测试中，表现优于 Claude 、Gemini 等闭源",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
+     "url": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
      "meta": "爱范儿 · 2026-11-11",
-     "summary": "买情怀，送耳机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "summary": "微型小车正在集体变大。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[中转站] [中转站源头] cheapai.info 双十一：充 100 起加赠 11.11%｜ GPT 低至 0.06｜充值 1 元=1 刀｜接下游",
-     "url": "https://www.v2ex.com/t/1256065#reply0",
+     "title": "[推广] 做了个多模型网关：价格公开、部分模型官方 0.6 折起，支持统一接口接入",
+     "url": "https://www.v2ex.com/t/1256242#reply0",
      "meta": "V2EX · 2026-11-11",
-     "summary": "站： cheapai.info 自己做 GPT 通道，偏源头这边，不是层层加价那种二道。个人长期用量和下游面板 / 聚合都能接。 双十一充值加赠进行中：选预设档位， 100 美元 起每个档位加赠 11.11% 额度。首充和复购同一套规则，不再另叠加首充或新用户赠额。 到账是这样： 充 100 美元 ，加赠 11.11 美元 ，到账 111.11 美元 充 200 美元 ，加赠 22.22 美元 ，",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 给 DeepSeek Harness 做了一层天气：雨、雪、炉火",
-     "url": "https://www.v2ex.com/t/1256064#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "在 DSH（DeepSeek Harness，DeepSeek 的桌面 / Web 工作台）里写代码，界面太安静了，就给它做了一层天气。叫「檐下」，MIT，自己写的，代码在这里： https://github.com/ifer47/dsh-theme-shelter 三种场景： 雨：每根雨丝有自己的直径和距离，落地会溅开水花 雪：两种晶型穿过同一个风场，底边的积雪随落雪慢慢长高 火：底部暖光、上浮",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] unclebob 的 ub-mode 技能有用过的没有？实际落地效果如何 ？之前用的 ponytail 都被我干掉了",
-     "url": "https://www.v2ex.com/t/1256063#reply1",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] Claude Code Tun 疑惑",
-     "url": "https://www.v2ex.com/t/1256062#reply3",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "原来我系统就使用的 Tun ，但是我还设置了 Powershell profile 的 https proxy ，所以在 v2rayN 里，能看到 api.anthropic.com ，然后大家说如果存在系统代理，claude 会识别到，反正开了 Tun ，所以就把这个代理环境变量去掉了。 目前就发现在 v2rayN 里 找不到 api.anthropic.com 的日志了，只在启用 claude",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Android] 白标 bilibili，没开更新，居然被强制同版本号后台更新",
-     "url": "https://www.v2ex.com/t/1256061#reply2",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "昨天发现 play 版 B 站在没开自动更新的情况下被自动更新了，更新后版本号还是 3.20.4（8230800）。 强制更新后，每次打开 B 站都会跳转到如下页面，可以点击右上角叉掉继续使用，但不定时还是会跳转。 没登录 imgur，图片不显示还是放链接吧， https://i.imgur.com/a/nBrBnDS.png 严重影响观看，就使用之前特意提取的安装包（3.20.4）可以直接无缝覆",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[买买买] 双十一该还给光棍节了",
-     "url": "https://www.v2ex.com/t/1256060#reply2",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "今年双十一安静得像普通周二：没人晒单、没人蹲点、没人算满减，朋友圈连吐槽都少了。是大家真没钱了，还是促销疲劳到连“买买买”都懒得演了？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[OpenAI] GPT Image 2.6 Sunburst，中转站太多了，有没有性价比高且靠谱稳妥的啊？",
-     "url": "https://www.v2ex.com/t/1256059#reply7",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "眼花缭乱，想找有口碑的好难",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个数字合并小游戏「点点合数」，欢迎大家体验下，无广告，无内购",
-     "url": "https://www.v2ex.com/t/1256058#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "大家好，最近做了一个微信小游戏，叫「点点合数」，发出来请大家试试。 这是一个数字合成类的休闲小游戏，目前没有广告，打开就能玩。 玩法介绍 游戏在一个 5×5 的棋盘上进行。 点击任意一格，这个格子的数字就会加一。当三个及以上相同数字横向或纵向连在一起时，就会合成一个更大的数字。 合并后，上方的方块会落下，空位会自动补齐，有时候还会继续触发连锁合并。 每局开始有 5 次点击机会： 每点击一次，消耗 ",
+     "summary": "最近做了一个多模型 API 中转站——维索 API ，主要面向个人开发者、AI 工具接入和需要控制调用成本的团队： 官网： https://vsoui.com/ 注册页面： https://vsoui.com/sign-up?aff=5OSI 做这个项目主要想解决三个问题：调用贵、多家平台接入麻烦、模型异常时切换不方便。 价格公开，重点控制长期调用成本 所有模型可以在价格页面查看，按实际模型和用量",
      "reason": null,
      "origin_source": "cn_rss"
     }
