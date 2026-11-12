@@ -1,12 +1,99 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T01:55:08.611927+08:00",
+ "generated_at": "2026-11-13T07:12:52.970151+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Jensen Huang resigns",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "meta": "+1112 分 / 5.3 小时 · 现 ⭐ 2673",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "meta": "+171 分 / 5.3 小时 · 现 ⭐ 775",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "meta": "+162 分 / 5.3 小时 · 现 ⭐ 253",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "meta": "+98 分 / 5.3 小时 · 现 ⭐ 229",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+     "url": "https://pron.github.io/posts/correctness-and-complexity",
+     "meta": "+68 分 / 5.3 小时 · 现 ⭐ 343",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+     "meta": "+67 分 / 5.3 小时 · 现 ⭐ 173",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+     "url": "https://github.com/chocoford/ExcalidrawZ",
+     "meta": "+53 分 / 5.3 小时 · 现 ⭐ 98",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+     "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
@@ -102,30 +189,6 @@
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Evernote turns AI-driven discovery into paid subscriptions",
-     "url": "https://openai.com/ads/customers/evernote",
-     "meta": "OpenAI · 2026-10-28",
-     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "Gemini 4 Carbon: Our next frontier model",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-     "meta": "Google DeepMind · 2026-10-28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Check Point accelerates vulnerability research with Daybreak",
-     "url": "https://openai.com/index/check-point-daybreak",
-     "meta": "OpenAI · 2026-10-27",
-     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -134,6 +197,86 @@
    "emoji": "🏮",
    "errors": [],
    "items": [
+    {
+     "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+     "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-12",
+     "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] codex tibo 说重置，我还没收到，你们呢？",
+     "url": "https://www.v2ex.com/t/1256652#reply2",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[宽带症候群] 微软挂了吗？ 都挂了哪些服务？ Live 邮箱不能用",
+     "url": "https://www.v2ex.com/t/1256651#reply2",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "这应该是历史头一回吧",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 半小时前死了",
+     "url": "https://www.v2ex.com/t/1256649#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "三天前刚经过一次 kyc ，当时用的是护照。半小时前弹门户 kyc ，然后提交护照后马上死了。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 推荐一个新的 Linux 输入法，好用!",
+     "url": "https://www.v2ex.com/t/1256648#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "很久以前用的是搜狗输入法，后面搜狗输入法不再兼容 ubuntu22.04 后的系统 于是换成了 rime+雾凇拼音，但是这个输入法的配置比较复杂，麻烦，而且拼音也不是很好用。 最近发现了一个新的输入法，脚本一键安装，响应速度很快，支持离线语音输入，推荐给使用 linux 的用户。 https://github.com/Gloridust/WowType",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 有什么靠谱 opus fable 中转站吗？",
+     "url": "https://www.v2ex.com/t/1256647#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Google Gemini] jio 会员突然被封了",
+     "url": "https://www.v2ex.com/t/1256646#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "“ This service has been disabled in this account for violation of Terms of Service. Please submit an appeal to continue using this product. ” 没有反代，antigravity 版本 2.31.2 (1019359392)正常使用的....不知道为啥突然显示这",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 番茄钟上架招募 Google Play 测试人员，可互测",
+     "url": "https://www.v2ex.com/t/1256644#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "求各位大大帮忙测一下「禅意番茄钟 Zen Tomato 」，一个离线番茄钟，无广告。应用原本收费，测试可以免费领取兑换码，不用付款。 加入步骤： 加入测试群组，点击“加入群组”即可，无需等待审批： https://groups.google.com/g/zen-tomato-testers 加入 Google Play 封测。用手机 Play 商店的同一个 Google 账号打开下面链接，点击“成",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Google Gemini] Gemini 4 Hydrogen 替换了 3.8Flash 位置",
+     "url": "https://www.v2ex.com/t/1256643#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "又涨价了，具体看它自己介绍： Google 放弃了原有的 Pro / Flash 后缀，改用化学元素命名产品线——其中 Carbon （碳） 和 Argon （氩） 对标原 Pro 旗舰推理模型，而 Hydrogen （氢） 则承接了原 Flash 的高速与高频调用定位。 相比上一代的 3.8 Flash ，Gemini 4 Hydrogen 的任务完成速度提升了 2.5 倍，智能与编程能力大幅跃",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[酷工作] 杭州 AI 短剧初创招人 算法-agent-全栈",
+     "url": "https://www.v2ex.com/t/1256642#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "[ 全职] 目前 2 个人加 1 个实习生扛着 AI 视频生产线，想再找几个爱折腾的人 先说现状：我们是一个 AI 短剧初创团队，已经做了一年多了，目前自动化短剧跑的挺好，目前算法这边两个正式加一个实习。要做的想做的有点多，所以来发帖招些人。 我们在做什么 AI 影视内容的生产工具链，从剧本一路到成片： 剧本结构化 CLI ：把 txt / docx / 视频 / PDF 漫画转成结构化剧本，支持",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
     {
      "title": "[分享创造] 专为 V2EX 设计的内嵌式域名查询脚本❤️",
      "url": "https://www.v2ex.com/t/1256641#reply0",
@@ -152,6 +295,14 @@
     },
     {
      "title": "[游戏] 用海马云电脑玩《影之零刃》的体验：一坨",
+     "url": "https://www.v2ex.com/t/1256639#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "《影之零刃》官方建议把游戏装在 SSD 盘 然而这家他们把这个游戏装在 HHD 盘了，着色器编译龟速运行。然后本机有 SSD 分区，故意不显示，我尝试把游戏搬到 SSD 里，等待龟速搬运进度条的时候正当觉得自己很聪明的时候突然发现我 TM 为什么要花钱干这事，全都是我花钱买的时长啊，然后关机退出了。 我还开了一个月的会员；此刻非常想退钱",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[游戏] 用海马云电脑玩《影之零刃》的体验：一坨",
      "url": "https://www.v2ex.com/t/1256639#reply0",
      "meta": "V2EX · 2026-11-12",
      "summary": "《影之零刃》官方建议把游戏装在 SSD 盘 然而这家他们把这个游戏装在 HHD 盘了，着色器编译龟速运行。然后本机有 SSD 分区，故意不显示，我尝试把游戏搬到 SSD 里，等待龟速搬运进度条的时候正当觉得自己很聪明的时候突然发现我 TM 为什么要花钱干这事，全都是我花钱买的时长啊，然后关机退出了。 我还开了一个月的会员；此刻非常想退钱",
@@ -160,97 +311,9 @@
     },
     {
      "title": "[求职] # 今天找工作差点被骗了，大家小心",
-     "url": "https://www.v2ex.com/t/1256638#reply0",
+     "url": "https://www.v2ex.com/t/1256638#reply1",
      "meta": "V2EX · 2026-11-12",
      "summary": "先说下原因哈，java 后端。9 月份初离职后找不到工作后续海投简历没有响应。 今天邮箱突然收到一份上市公司招聘邮件。聊了半天后去腾讯会议聊具体工作职位和要求到深圳面试 报销路费，让你现在买票然后报销 和你说财务在乐博投屏开会，让你去哪找他报销机票 在这个 app 里边会有一个共享投屏，他会让你把收款码投出来。 但是默认时付款码，一旦不注意当前绑定的微信或支付宝里边的钱就都会被转走。大家小心 顺便",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 想问一下怎么找到一些日常小活的兼职",
-     "url": "https://www.v2ex.com/t/1256637#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "唉, 生活好累, 经济上有一些困难, 现在的收入不太够, 压力很大很焦虑, 想问一下各位朋友哪里或者什么平台, 可以找到一些日常可以有点小活干, 类似数据标注这种多劳多得的兼职. 提前谢谢各位朋友",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] 弹 KYC 的朋友，其实你可以选择删除账号再注册，然后你会发现 KYC 不见了",
-     "url": "https://www.v2ex.com/t/1256636#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "随然我不知道有什么影响，但是对于 free 账号来说至少能对话了",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] Claude 走 Apple 账号现在要手机号验证了？",
-     "url": "https://www.v2ex.com/t/1256635#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "今天被弹 KYC 了 新注册了两个新 Apple ID 来创建 Claude 账号，两次都要海外手机号验证，且一个手机号只能绑定一个账号... 我记得之前创建账号是不用手机验证码的，怎么现在又要了，是风控升级了？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[剧集] 2026 快结束了，今年看的剧集中，个人认为可称之为艺术品的有两部",
-     "url": "https://www.v2ex.com/t/1256634#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "百年孤独。完全是我看书时想象中的世界，找不出缺点 伟大的长征。一开始看到于和伟是拒绝的，和教员外形气质完全不搭，不理解为啥不让王仁君演。看前两集还是受不了于和伟，等到两三集渐入佳境，各方面的优秀让我忽略并习惯了于和伟，只看到了教员和一群伟大的人。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Google Gemini] gemini 反带 这种情况是不是翻车了？？",
-     "url": "https://www.v2ex.com/t/1256633#reply2",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "大佬们，之前接码注册的，现在又要发短信手机验证，要不然不给登录，是不是这个号就翻车了啊？还有办法吗？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个视频转文字和字幕的小工具",
-     "url": "https://www.v2ex.com/t/1256632#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "我做了 Media to Words ，想把视频里的口语整理成文字和字幕这件事做得简单一点：需要笔记时拿 TXT ，需要带时间码的字幕时拿 SRT ，不用先注册账号。 一个具体用法：整理自己拍的一段讲解视频，选择本地文件和讲话语言，生成后对照声音改掉人名、数字或听错的词，再导出 SRT 放回剪辑软件。想保留文字笔记就导出 TXT 。自动识别仍需要复听，尤其是背景音乐重的片段。 也可以贴公开的 In",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 快手 app 有个很烦人的功能：修改 iPhone 屏幕亮度",
-     "url": "https://www.v2ex.com/t/1256631#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "我已经把他开关关闭（设置-通用设置-只能亮度调节），但每次打开总是把我的屏幕亮度调到很亮。这种脑残功能也就他有吧，我自己屏幕亮度自己不会调节吗？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 🔥Crab AI｜ OpenAI 官渠 - Cheap 渠道倍率低至 0.07x｜开启高缓低价超性价比 ｜ 试用额度免费领",
-     "url": "https://www.v2ex.com/t/1256629#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "🔥 Crab AI ｜高缓存，低价格！ **OpenAI 官渠 - Cheap 渠道缓存率 92%+**，现已面向 Crab AI 全体用户 开放！ 其他渠道缓存率更高 👉 官网： crab-ai.net 本站专注于提供 高可用、高性价比 的渠道服务， 5 元起充 ，轻松开启 AI 体验。 0.07x 分组也给力！ 对稳定性有更高要求的用户，还可选择本站其他高可用稳定分组。 🎁 留下站内 ID ，",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] Gemini 你终于王者归来啦 (*^^)/",
-     "url": "https://www.v2ex.com/t/1256628#reply3",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "Gemini 4 Carbon 开放，重回 T1 级别 coding 能力的 Gemini 太香了。反正我是被那个不说人话的 GPT/CODEX 恶心了好几个月了，终于可以换回 Gemini 咯。文本能力太优秀了。 就是价格有点高，但还是第一时间退订了 GPT ，开上了 Gemini Ultra 。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[OpenAI] 现在 200 刀的套餐是 20 个 plus 吗",
-     "url": "https://www.v2ex.com/t/1256627#reply3",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "预计总费用 $1386.28 ，怎么感觉还是 10 个呢。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] mac mini m4 通过拓展坞插入 usb 鼠标经常休眠后断电",
-     "url": "https://www.v2ex.com/t/1256626#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "RT ， 用的绿联的拓展坞，有 3usb 接口，1hdmi 接口，1pd 接口。 1. 之前在拓展坞上插蓝牙收发器，鼠标也是经常收不到信号，听朋友说有信号干扰，然后现在换成了直插； 2. 现在是过一段时间 usb 鼠标就不通电了，需要 reboot 一下之后又有点了，问了 ds 说有可能是供电问题；断电之后于是试着用家人支持 pd 的 65w 的安克充电器，发现还是不行。 情况是这么个情况，hdm",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -264,7 +327,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 6885 · Swift",
+     "meta": "⭐ 6926 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +335,7 @@
     {
      "title": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 3470 · C",
+     "meta": "⭐ 3552 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +343,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2748 · C#",
+     "meta": "⭐ 2755 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +351,7 @@
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 2077 · JavaScript",
+     "meta": "⭐ 2080 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +359,7 @@
     {
      "title": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "meta": "⭐ 1989 · Go",
+     "meta": "⭐ 1997 · Go",
      "summary": "Let AI agents use your phone, with you in the loop.",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +367,7 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1714 · Swift",
+     "meta": "⭐ 1722 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +375,7 @@
     {
      "title": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "meta": "⭐ 1288 · Python",
+     "meta": "⭐ 1302 · Python",
      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
      "reason": null,
      "origin_source": "github_search"
@@ -326,18 +389,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
-     "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
-     "meta": "⭐ 1207 · HTML",
-     "summary": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+     "title": "hembramneeraj3-create/aida-64-extreme",
+     "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+     "meta": "⭐ 1208 · HTML",
+     "summary": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "hembramneeraj3-create/aida-64-extreme",
-     "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+     "title": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+     "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
      "meta": "⭐ 1207 · HTML",
-     "summary": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+     "summary": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -389,9 +452,9 @@
    "errors": [],
    "items": [
     {
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-     "meta": "⭐ 1561 · 💬 1646",
+     "title": "Jensen Huang resigns",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "meta": "⭐ 2673 · 💬 2560",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +470,7 @@
     {
      "title": "Anthropic IPO",
      "url": "https://ipo.anthropic.com/us/",
-     "meta": "⭐ 604 · 💬 616",
+     "meta": "⭐ 775 · 💬 767",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,6 +492,30 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "meta": "⭐ 413 · 💬 278",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "meta": "⭐ 380 · 💬 371",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+     "url": "https://pron.github.io/posts/correctness-and-complexity",
+     "meta": "⭐ 343 · 💬 164",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
      "meta": "⭐ 333 · 💬 172",
@@ -445,41 +532,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Why Writing Correct Software Is Hard",
-     "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "meta": "⭐ 275 · 💬 118",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-     "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-     "meta": "⭐ 83 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "meta": "⭐ 131 · 💬 46",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Libreagi – Save OSS Models",
-     "url": "https://libreagi.com/",
-     "meta": "⭐ 70 · 💬 16",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "meta": "⭐ 106 · 💬 1",
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "meta": "⭐ 277 · 💬 132",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -487,23 +542,31 @@
     {
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "meta": "⭐ 91 · 💬 24",
+     "meta": "⭐ 253 · 💬 86",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-     "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-     "meta": "⭐ 80 · 💬 37",
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "meta": "⭐ 252 · 💬 103",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-     "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-     "meta": "⭐ 40 · 💬 17",
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "meta": "⭐ 229 · 💬 78",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "meta": "⭐ 217 · 💬 57",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -612,6 +675,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Latch.ai",
+     "url": "https://www.producthunt.com/products/latch-ai-2",
+     "meta": "Product Hunt · 2026-10-28",
+     "summary": "Automate complex accounting work without a single prompt",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "SideKick By Open",
      "url": "https://www.producthunt.com/products/open-for-sales",
      "meta": "Product Hunt · 2026-11-09",
@@ -624,14 +695,6 @@
      "url": "https://www.producthunt.com/products/wizardnote",
      "meta": "Product Hunt · 2026-11-11",
      "summary": "Voice notes your phone transcribes, saved as markdown",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "three.dev",
-     "url": "https://www.producthunt.com/products/three-dev",
-     "meta": "Product Hunt · 2026-11-10",
-     "summary": "Find out how your AI agent fails. Before your users do.",
      "reason": null,
      "origin_source": "producthunt"
     }

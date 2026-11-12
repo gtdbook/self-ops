@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-13T01:55:08.369920+08:00",
- "count": 153,
+ "updated_at": "2026-11-13T07:12:52.680749+08:00",
+ "count": 170,
  "items": [
   {
    "id": "rss-02d637fa74514a74",
@@ -148,6 +148,15 @@
    "summary": "在 LG 电视监视用户的报道引发广泛关注之后，The Verge 联系了亚马逊、苹果、Google、海信、LG、松下、Roku、三星、索尼、TCL 和 Vizio 等机顶盒和电视厂商，询问了相同的问题，其中海信、松下等无任何回应，TCL 等厂商很多问题也没有直接回应，而 LG 即便被发现监视用户但其代表在回应时基本上完全予以否认。举例来说，电视是否会在用户观看内容时收集屏幕截图、录制视频或音频——即使用自动内容识别（Automatic "
   },
   {
+   "id": "rss-15a4423a4a8277b0",
+   "title": "[分享发现] 弹 KYC 的朋友，其实你可以选择删除账号再注册，然后你会发现 KYC 不见了",
+   "url": "https://www.v2ex.com/t/1256636#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T16:38:58Z",
+   "published_iso": "2026-11-12T16:38:58+00:00",
+   "summary": "随然我不知道有什么影响，但是对于 free 账号来说至少能对话了"
+  },
+  {
    "id": "rss-1640668880909859",
    "title": "比大更大，塞进 7 个座位的领克 900L，在等一个「上桌吃饭」的时间",
    "url": "https://www.ifanr.com/1688954?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -155,6 +164,33 @@
    "published": "Tue, 10 Nov 2026 15:50:31 +0000",
    "published_iso": "2026-11-10T15:50:31+00:00",
    "summary": "领克得加快脚步了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-182ab532e16e37c9",
+   "title": "[程序员] codex tibo 说重置，我还没收到，你们呢？",
+   "url": "https://www.v2ex.com/t/1256652#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T22:36:29Z",
+   "published_iso": "2026-11-12T22:36:29+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-184ee10bf9f1d427",
+   "title": "[游戏] 用海马云电脑玩《影之零刃》的体验：一坨",
+   "url": "https://www.v2ex.com/t/1256639#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T17:25:57Z",
+   "published_iso": "2026-11-12T17:25:57+00:00",
+   "summary": "《影之零刃》官方建议把游戏装在 SSD 盘 然而这家他们把这个游戏装在 HHD 盘了，着色器编译龟速运行。然后本机有 SSD 分区，故意不显示，我尝试把游戏搬到 SSD 里，等待龟速搬运进度条的时候正当觉得自己很聪明的时候突然发现我 TM 为什么要花钱干这事，全都是我花钱买的时长啊，然后关机退出了。 我还开了一个月的会员；此刻非常想退钱"
+  },
+  {
+   "id": "rss-1a946160da3c4f7d",
+   "title": "[问与答] 有什么靠谱 opus fable 中转站吗？",
+   "url": "https://www.v2ex.com/t/1256647#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T20:53:32Z",
+   "published_iso": "2026-11-12T20:53:32+00:00",
+   "summary": ""
   },
   {
    "id": "rss-1b7e5dac43fadd1b",
@@ -211,6 +247,15 @@
    "summary": "游戏外设制造商罗技推出了罗技游戏日（Logi Game Day），为公司全部 7000 名员工提供了额外的一天带薪假期，让他们能在 11 月 19 日《GTA 6》发布时尽情畅玩。员工和实习生可在未来一年内的任意时间使用这一假期。罗技认为应当摒弃玩游戏是浪费时间的旧观念。作为一家生产游戏外设的企业，罗技持有这种观点并不令人意外，但首席执行官 Hanneke Faber 指出，公司观察到“在某一领域的投入，能促进在另一领域的表现”。罗技希"
   },
   {
+   "id": "rss-1ef4e60fd461b9ca",
+   "title": "[问与答] 怎么快速定位系统内所有使用了 mklink 进行链接的目录和映射关系？",
+   "url": "https://www.v2ex.com/t/1256620#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T15:37:50Z",
+   "published_iso": "2026-11-12T15:37:50+00:00",
+   "summary": "为了节约分区空间，我采用了 Windows 的 mklink 进行目录迁移。 但是迁移后，很多目录我都不知道源目录到底在哪儿了。 怎么快速找到所有采用了 mklink 的目录的映射关系？"
+  },
+  {
    "id": "rss-2019ac21545140f3",
    "title": "[问与答] 也说阿里云 200Mbps 的机器只能跑 1Mbps：我也遇到了，果断让 Codex 帮我迁走全部机器",
    "url": "https://www.v2ex.com/t/1256578#reply7",
@@ -220,6 +265,15 @@
    "summary": "看到帖子 https://www.v2ex.com/t/1256568 想起来前段时间我也买了台号称峰值 200Mbps 的机器。一开始还想着阿里这不错啊，带宽给的蛮足的。结果用两天才发现，呵，用来小丑竟是我自己。 结果也差不多只能跑 1Mbps 。 还不如之前版本的轻量云厚道。（之前是 30Mbps + 流量 2T 还是多少） 虽然宣传 200Mbps 确实写的是峰值，但阿里这样子实际经常连 1Mbps 跑不到的情况，绝对能算得上玩文"
   },
   {
+   "id": "rss-210736f7c56985db",
+   "title": "[Claude] ios 已经在订阅着的现在还稳吗？",
+   "url": "https://www.v2ex.com/t/1256586#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T12:43:30Z",
+   "published_iso": "2026-11-12T12:43:30+00:00",
+   "summary": "这波 kyc 封号体感全面下沉到 pro 用户了，以前就 max 严格点，现在手里的 pro 和 5x 号全部阵亡， 但发现有个朋友 ios 之前订阅着的还活着，不知道买个这样存量带订阅的 ios 账号靠不靠谱？不知道会不会到下一个扣费日弹 kyc 呢 这波 kyc 国内是不是没有一点办法了？"
+  },
+  {
    "id": "rss-22e96a033f9e1609",
    "title": "26.99 万元起！腾势 N8 上市，内饰最美的比亚迪来了",
    "url": "https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -227,6 +281,15 @@
    "published": "Thu, 12 Nov 2026 13:39:12 +0000",
    "published_iso": "2026-11-12T13:39:12+00:00",
    "summary": "这还是熟悉的比亚迪吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-23f4a44cc080520c",
+   "title": "[职场话题] OPC 办公问题",
+   "url": "https://www.v2ex.com/t/1256592#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T13:20:48Z",
+   "published_iso": "2026-11-12T13:20:48+00:00",
+   "summary": "想知道 OPC （一人公司）如何办公？ 说实话已经一人干了三五年了，而且收入也相较开始稳定不少。 现在的困境是一个人在家，有点小抑郁了，接触不到人...晚上就去公园散散步，感觉还是想去有人的地方。 所以想和大家探讨下这个问题..."
   },
   {
    "id": "rss-243eddb105ac8143",
@@ -301,6 +364,15 @@
    "summary": "qOntology 本体建模平台开源版 v1.1.2 围绕系统交互规范、详情页面完善和列表展示优化进行了更新。 本次版本统一调整了批量操作、数据启用状态下的操作限制及无数据页面展示，同时对项目管理、数据源、模型市场、建模目标等业务页面进行了优化。 此外，本次更新还修复了从建模目标详情页面返回后出现空白页面，以及 AI 辅..."
   },
   {
+   "id": "rss-31c161a3d438e702",
+   "title": "[酷工作] 杭州 AI 短剧初创招人 算法-agent-全栈",
+   "url": "https://www.v2ex.com/t/1256642#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T18:25:34Z",
+   "published_iso": "2026-11-12T18:25:34+00:00",
+   "summary": "[ 全职] 目前 2 个人加 1 个实习生扛着 AI 视频生产线，想再找几个爱折腾的人 先说现状：我们是一个 AI 短剧初创团队，已经做了一年多了，目前自动化短剧跑的挺好，目前算法这边两个正式加一个实习。要做的想做的有点多，所以来发帖招些人。 我们在做什么 AI 影视内容的生产工具链，从剧本一路到成片： 剧本结构化 CLI ：把 txt / docx / 视频 / PDF 漫画转成结构化剧本，支持本地查询、校验、原子修改和带版本冲突检测"
+  },
+  {
    "id": "rss-3267e93d467341cb",
    "title": "[分享创造] Manta 浏览器",
    "url": "https://www.v2ex.com/t/1256617#reply0",
@@ -310,6 +382,15 @@
    "summary": "团队做了个指纹浏览器：Manta 浏览器，有需求或者有兴趣的可以下载看看： Manta 浏览器"
   },
   {
+   "id": "rss-33c0203c5c9161b4",
+   "title": "[Claude] 半小时前死了",
+   "url": "https://www.v2ex.com/t/1256649#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T21:27:12Z",
+   "published_iso": "2026-11-12T21:27:12+00:00",
+   "summary": "三天前刚经过一次 kyc ，当时用的是护照。半小时前弹门户 kyc ，然后提交护照后马上死了。"
+  },
+  {
    "id": "rss-33c097265617168f",
    "title": ":fire::fire::fire:vmr 0.8.1 发布 ：一款可扩展跨平台 SDK 超级版本管理工具",
    "url": "https://www.oschina.net/news/503496",
@@ -317,6 +398,15 @@
    "published": "Tue, 10 Nov 2026 10:30:22 +0800",
    "published_iso": "2026-11-10T02:30:22+00:00",
    "summary": "近日，跨平台 SDK 版本管理工具 vmr (Version Manager) 迎来重要更新。作为一款专为现代开发者设计的轻量级工具，vmr 致力于解决开发者在同一台机器上管理多套开发工具（如 Go、Node.js、Python、JDK、Rust、Lua 等）版本的痛点，实现“一条命令装、切、卸”，无需管理员权限，绝不污染系统目录。 :star2: 核心亮点 智能..."
+  },
+  {
+   "id": "rss-33fdee7a790c3553",
+   "title": "[Google Gemini] Gemini 4 Hydrogen 替换了 3.8Flash 位置",
+   "url": "https://www.v2ex.com/t/1256643#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T18:49:07Z",
+   "published_iso": "2026-11-12T18:49:07+00:00",
+   "summary": "又涨价了，具体看它自己介绍： Google 放弃了原有的 Pro / Flash 后缀，改用化学元素命名产品线——其中 Carbon （碳） 和 Argon （氩） 对标原 Pro 旗舰推理模型，而 Hydrogen （氢） 则承接了原 Flash 的高速与高频调用定位。 相比上一代的 3.8 Flash ，Gemini 4 Hydrogen 的任务完成速度提升了 2.5 倍，智能与编程能力大幅跃升（多项基准甚至反超了早先发布的旗舰模型"
   },
   {
    "id": "rss-397dc021241f2a72",
@@ -344,6 +434,15 @@
    "published": "Sat, 07 Nov 2026 08:59:08 +0800",
    "published_iso": "2026-11-07T00:59:08+00:00",
    "summary": "Jync v1.14.0 新增 应用内 HTTPS：「系统配置」可直接上传 PKCS#12 / JKS 密钥库或 PEM 证书链与私钥，由 Jync 自己提供 HTTPS，不必再改 nginx 或环境变量。 证书与加密后的密钥库口令存放在 ./data/tls，不进元数据库、不进配置包；私钥与叶子证书用签名探测校验，加密私钥与 SEC1 格式明确拒绝。 HTTPS 连接器在启动时..."
+  },
+  {
+   "id": "rss-3fdfb203d697d9c2",
+   "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+   "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Thu, 12 Nov 2026 23:11:11 +0000",
+   "published_iso": "2026-11-12T23:11:11+00:00",
+   "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-4441b94725a43e08",
@@ -407,6 +506,15 @@
    "published": "Tue, 10 Nov 2026 11:07:06 +0800",
    "published_iso": "2026-11-10T03:07:06+00:00",
    "summary": "qOntology 本体工程平台开源版 v1.1.0 围绕本体工程中的知识整理、模型维护与图谱探索进行更新，重点增强 AI 辅助建模和知识图谱多视图能力，同时补充项目版本管理、约束规则配置，并对本体应用及基础管理页面进行调整。 本次更新关注的是本体建设过程中的几个具体环节： 如何从业务材料中整理建模候选，如何通过不同视图..."
+  },
+  {
+   "id": "rss-5415a381269a41eb",
+   "title": "[Google Gemini] jio 会员突然被封了",
+   "url": "https://www.v2ex.com/t/1256646#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T20:32:27Z",
+   "published_iso": "2026-11-12T20:32:27+00:00",
+   "summary": "“ This service has been disabled in this account for violation of Terms of Service. Please submit an appeal to continue using this product. ” 没有反代，antigravity 版本 2.31.2 (1019359392)正常使用的....不知道为啥突然显示这个"
   },
   {
    "id": "rss-546fdae905333581",
@@ -616,6 +724,15 @@
    "summary": "FlowPlay 是一款免费的私人媒体播放器。可以导入本地视频、连接自己的 Emby 服务器，支持苹果 cms json xml 链接。以及按类型、年份和形态浏览媒体库。 mac ios 还在审核 下载： https://github.com/heiyuan0801/FlowPlay/releases/tag/v0.1.0"
   },
   {
+   "id": "rss-7b4502bb489cb73e",
+   "title": "[宽带症候群] 微软挂了吗？ 都挂了哪些服务？ Live 邮箱不能用",
+   "url": "https://www.v2ex.com/t/1256651#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T21:52:14Z",
+   "published_iso": "2026-11-12T21:52:14+00:00",
+   "summary": "这应该是历史头一回吧"
+  },
+  {
    "id": "rss-7bc19fb8f3c92c15",
    "title": "[分享创造] 大家好，最近上线了一个自己写的 Android App，叫「知己」。",
    "url": "https://www.v2ex.com/t/1256621#reply0",
@@ -704,6 +821,15 @@
    "published": "2026-11-12T14:33:11Z",
    "published_iso": "2026-11-12T14:33:11+00:00",
    "summary": "怎么复制都不行，桌面十分卡顿。看任务管理器占用也不高。系统负载不到 30%,打开个记事本就要卡一会。"
+  },
+  {
+   "id": "rss-8ca56b4d440e8517",
+   "title": "[求职] # 今天找工作差点被骗了，大家小心",
+   "url": "https://www.v2ex.com/t/1256638#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T17:01:24Z",
+   "published_iso": "2026-11-12T17:01:24+00:00",
+   "summary": "先说下原因哈，java 后端。9 月份初离职后找不到工作后续海投简历没有响应。 今天邮箱突然收到一份上市公司招聘邮件。聊了半天后去腾讯会议聊具体工作职位和要求到深圳面试 报销路费，让你现在买票然后报销 和你说财务在乐博投屏开会，让你去哪找他报销机票 在这个 app 里边会有一个共享投屏，他会让你把收款码投出来。 但是默认时付款码，一旦不注意当前绑定的微信或支付宝里边的钱就都会被转走。大家小心 顺便求个职，10 年 java 求捞 高中学"
   },
   {
    "id": "rss-8fe3a1c79bc48c87",
@@ -839,6 +965,15 @@
    "published": "2026-11-12T16:19:55Z",
    "published_iso": "2026-11-12T16:19:55+00:00",
    "summary": "我做了 Media to Words ，想把视频里的口语整理成文字和字幕这件事做得简单一点：需要笔记时拿 TXT ，需要带时间码的字幕时拿 SRT ，不用先注册账号。 一个具体用法：整理自己拍的一段讲解视频，选择本地文件和讲话语言，生成后对照声音改掉人名、数字或听错的词，再导出 SRT 放回剪辑软件。想保留文字笔记就导出 TXT 。自动识别仍需要复听，尤其是背景音乐重的片段。 也可以贴公开的 Instagram Reel 或视频帖链接。"
+  },
+  {
+   "id": "rss-a0d19532e1b4d1c6",
+   "title": "[分享发现] 推荐一个新的 Linux 输入法，好用!",
+   "url": "https://www.v2ex.com/t/1256648#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T21:02:30Z",
+   "published_iso": "2026-11-12T21:02:30+00:00",
+   "summary": "很久以前用的是搜狗输入法，后面搜狗输入法不再兼容 ubuntu22.04 后的系统 于是换成了 rime+雾凇拼音，但是这个输入法的配置比较复杂，麻烦，而且拼音也不是很好用。 最近发现了一个新的输入法，脚本一键安装，响应速度很快，支持离线语音输入，推荐给使用 linux 的用户。 https://github.com/Gloridust/WowType"
   },
   {
    "id": "rss-a18c935f273ffad5",
@@ -1318,6 +1453,15 @@
    "summary": "AI编程工具是汽车，Token是汽油，CC4G是你的汽车车库。 cc4g主要为了解决两个问题： 多人共用一套环境，手机也能接着用。它是一个用 Go 开发的 Web 版AI编程引擎集成平台平台，把 AI 编程引擎装进浏览器——纯 Go 编译出的单文件程序，跑在你自己的电脑或服务器上，装好之后打开浏览器就能干活。 支持在线安装nodejs、C..."
   },
   {
+   "id": "rss-eef4c9f4f71e4cc5",
+   "title": "[推广] 番茄钟上架招募 Google Play 测试人员，可互测",
+   "url": "https://www.v2ex.com/t/1256644#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T19:08:05Z",
+   "published_iso": "2026-11-12T19:08:05+00:00",
+   "summary": "求各位大大帮忙测一下「禅意番茄钟 Zen Tomato 」，一个离线番茄钟，无广告。应用原本收费，测试可以免费领取兑换码，不用付款。 加入步骤： 加入测试群组，点击“加入群组”即可，无需等待审批： https://groups.google.com/g/zen-tomato-testers 加入 Google Play 封测。用手机 Play 商店的同一个 Google 账号打开下面链接，点击“成为测试者”，直到页面显示 You are"
+  },
+  {
    "id": "rss-f23fcd07900a8022",
    "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
    "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
@@ -1343,6 +1487,15 @@
    "published": "Mon, 09 Nov 2026 15:01:16 +0800",
    "published_iso": "2026-11-09T07:01:16+00:00",
    "summary": "FcDesigner 是基于 Vue 的低代码可视化 AI 表单设计器。用自然语言描述业务即可生成表单结构，也可以拖拽组件并导出 JSON，再由渲染器还原成可交互表单，适合政务、OA、ERP、电商和流程审批。 源码地址: Github | Gitee | 文档 | 在线演示 核心功能 内置表单多语言体系，轻松打破语言隔阂。 提供 30+ 常用组件，涵盖表单..."
+  },
+  {
+   "id": "rss-fa5449929c539b12",
+   "title": "[Visual Studio Code] vscode 安装好已经 1 个 G 了，各位有什么好的替代吗",
+   "url": "https://www.v2ex.com/t/1256624#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T15:52:43Z",
+   "published_iso": "2026-11-12T15:52:43+00:00",
+   "summary": "大部分时间是用来 ssh 远程 vibe Zed 在 windows 下不好，而且 zed 也很大。"
   },
   {
    "id": "rss-fba46166c7416970",
