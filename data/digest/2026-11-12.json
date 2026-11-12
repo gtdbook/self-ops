@@ -1,12 +1,107 @@
 {
  "date": "2026-11-12",
- "generated_at": "2026-11-12T02:22:23.378302+08:00",
+ "generated_at": "2026-11-12T09:18:15.654067+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Tim Peters has died",
+     "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+     "meta": "+667 分 / 6.9 小时 · 现 ⭐ 846",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "meta": "+236 分 / 6.9 小时 · 现 ⭐ 404",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "My AI agents found an unmapped Maya site?",
+     "url": "https://pietromiotti.com/latest/maya-site",
+     "meta": "+146 分 / 6.9 小时 · 现 ⭐ 921",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "url": "https://av.github.io/safe-sand/",
+     "meta": "+130 分 / 6.9 小时 · 现 ⭐ 303",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+     "url": "https://github.com/FrigadeHQ/yogurt",
+     "meta": "+127 分 / 6.9 小时 · 现 ⭐ 167",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Faster Retrieval for Better, More Efficient RAG",
+     "url": "https://machinelearning.apple.com/research/faster-retrieval",
+     "meta": "+110 分 / 6.9 小时 · 现 ⭐ 150",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Atuin Threads: All your agent sessions on every machine",
+     "url": "https://blog.atuin.sh/threads-agent-sessions/",
+     "meta": "+74 分 / 6.9 小时 · 现 ⭐ 190",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "url": "https://nathan.rs/posts/weight-space-lp/",
+     "meta": "+63 分 / 6.9 小时 · 现 ⭐ 240",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+     "url": "https://news.ycombinator.com/item?id=50455811",
+     "meta": "+33 分 / 6.9 小时 · 现 ⭐ 48",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The hardest notes to find on the guitar",
+     "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+     "meta": "+29 分 / 6.9 小时 · 现 ⭐ 51",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+     "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+     "meta": "Ars Technica · 2026-11-11",
+     "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Apple is shuttering its 28-year-old online community forum",
      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
@@ -118,14 +213,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Check Point accelerates vulnerability research with Daybreak",
-     "url": "https://openai.com/index/check-point-daybreak",
-     "meta": "OpenAI · 2026-10-27",
-     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -145,7 +232,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 6098 · Swift",
+     "meta": "⭐ 6257 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -153,7 +240,7 @@
     {
      "title": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 3148 · C",
+     "meta": "⭐ 3260 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -161,7 +248,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2576 · C#",
+     "meta": "⭐ 2593 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -169,7 +256,7 @@
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 2027 · JavaScript",
+     "meta": "⭐ 2036 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -193,7 +280,7 @@
     {
      "title": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "meta": "⭐ 1850 · Go",
+     "meta": "⭐ 1870 · Go",
      "summary": "Let AI agents use your phone, with you in the loop.",
      "reason": null,
      "origin_source": "github_search"
@@ -209,7 +296,7 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1480 · Swift",
+     "meta": "⭐ 1546 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
@@ -219,6 +306,14 @@
      "url": "https://github.com/voyager-so/vork",
      "meta": "⭐ 1411 · Rust",
      "summary": "Headless 3D and VFX engine for agents. Research preview.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "mahmoudtawfik1998/secure-pdf-document-processor",
+     "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+     "meta": "⭐ 1305 · HTML",
+     "summary": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -239,14 +334,6 @@
      "origin_source": "github_search"
     },
     {
-     "title": "mahmoudtawfik1998/secure-pdf-document-processor",
-     "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
-     "meta": "⭐ 1304 · HTML",
-     "summary": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "AleRibeiro44/archicad-desktop-setup",
      "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
      "meta": "⭐ 1301 · HTML",
@@ -262,9 +349,41 @@
    "errors": [],
    "items": [
     {
-     "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-     "url": "https://pietromiotti.com/latest/maya-site/?maya",
-     "meta": "⭐ 775 · 💬 288",
+     "title": "My AI agents found an unmapped Maya site?",
+     "url": "https://pietromiotti.com/latest/maya-site",
+     "meta": "⭐ 921 · 💬 335",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tim Peters has died",
+     "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+     "meta": "⭐ 846 · 💬 93",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AWS emulator",
+     "url": "https://github.com/aws/aws-emulator",
+     "meta": "⭐ 653 · 💬 215",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "meta": "⭐ 463 · 💬 677",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "meta": "⭐ 404 · 💬 202",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -278,6 +397,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "meta": "⭐ 338 · 💬 321",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
      "meta": "⭐ 256 · 💬 143",
@@ -286,9 +413,41 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "url": "https://av.github.io/safe-sand/",
+     "meta": "⭐ 303 · 💬 64",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Atuin Threads: All your agent sessions on every machine",
      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-     "meta": "⭐ 116 · 💬 41",
+     "meta": "⭐ 190 · 💬 71",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "meta": "⭐ 259 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "url": "https://nathan.rs/posts/weight-space-lp/",
+     "meta": "⭐ 240 · 💬 36",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+     "url": "https://github.com/FrigadeHQ/yogurt",
+     "meta": "⭐ 167 · 💬 73",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -305,78 +464,6 @@
      "title": "Using voltage glitching to unleash the A100 in my mining card",
      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
      "meta": "⭐ 191 · 💬 65",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Tim Peters has died",
-     "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "meta": "⭐ 179 · 💬 22",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "meta": "⭐ 177 · 💬 29",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Hyper-Realistic Sand with WebGL2",
-     "url": "https://av.github.io/safe-sand/",
-     "meta": "⭐ 173 · 💬 36",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "meta": "⭐ 168 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "We need more goat sacrifices",
-     "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-     "meta": "⭐ 116 · 💬 75",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-     "url": "https://github.com/OpenTSLM/TimeNet",
-     "meta": "⭐ 8 · 💬 1",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Pharo in the Browser with WebAssembly",
-     "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-     "meta": "⭐ 95 · 💬 24",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-     "url": "https://github.com/klad-app/klad",
-     "meta": "⭐ 38 · 💬 13",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-     "url": "https://github.com/FrigadeHQ/yogurt",
-     "meta": "⭐ 40 · 💬 22",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -453,6 +540,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "LotusQ",
+     "url": "https://www.producthunt.com/products/lotusq",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Talk instead of type, in any app",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "VeilCC",
      "url": "https://www.producthunt.com/products/veilcc",
      "meta": "Product Hunt · 2026-11-06",
@@ -499,14 +594,6 @@
      "summary": "Turn your MacBook trackpad edges into controls",
      "reason": null,
      "origin_source": "producthunt"
-    },
-    {
-     "title": "QuotedPart",
-     "url": "https://www.producthunt.com/products/quotedpart",
-     "meta": "Product Hunt · 2026-11-09",
-     "summary": "AI quoting for CNC and sheet metal job shops",
-     "reason": null,
-     "origin_source": "producthunt"
     }
    ]
   },
@@ -516,122 +603,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[酷工作] [求职] 24 届非科班 / 全栈实战派 / 寻找上海 AI 产品与落地岗",
-     "url": "https://www.v2ex.com/t/1256310#reply1",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "各位 V 站的大佬、创业老板好。 个人背景：24 届 传播学 本科。目前在上海做留学运营。平时主要靠写代码和做工具解决真实业务痛点。 来 V 站求职。先上我业余时间手搓的真实项目和体验链接： 1. 小红书图文排版工作台（ Electron 桌面端）‌ • 背景：市面排版 SaaS 数据隐私难保证，长文手动排版耗时过长。 • 实现：接入了 DeepSeek API 。支持全自动、半自动、全手动三种模",
+     "title": "[生活] 31 岁男前来讨教 V 吧老哥备孕秘籍",
+     "url": "https://www.v2ex.com/t/1256329#reply2",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] [分享] 一句话让 AI Agent 把网课视频变成讲义 PDF（开源 · 全程本地 · 零 API Key）",
-     "url": "https://www.v2ex.com/t/1256309#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "备考的人应该都懂：强化班几十讲，做错一道题想回看对应知识点，只能凭记忆拖进度条。视频没法检索、没法打印，这个痛贯穿我整个备考期。 所以做了个开源技能 chalkpress——不是又一个「视频转文字」工具，而是把课程视频压缩成一册讲义 PDF：每页一个关键帧画面 + 该时间窗的字幕，文字层可检索可复制。 用法就是给 agent 发一句话（ ChatGPT / Claude Code 等客户端，任何能",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Apple] 18pm 25w 实测能用吗？",
-     "url": "https://www.v2ex.com/t/1256308#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "不知道今年的 18pm 换国外 25w 无线充电器还能用不",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个 X / Twitter GIF 下载工具，支持导出真 GIF",
-     "url": "https://www.v2ex.com/t/1256306#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "最近做了个小工具： X GIF Downloader 粘贴公开的 X / Twitter 帖子链接，可以： 预览动图 转换并下载 .gif 下载画质更好的原始 MP4 X 实际上会把 GIF 存成 MP4 ，所以 GIF 转换是在浏览器本地完成的。网站不保存提交的链接，目前只支持公开帖子。 第一版刚上线，欢迎试用和反馈。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Wunder] V2EX 的首页的热帖这个 tab 现在也可以通过 RSS 订阅或是按照日期查询",
-     "url": "https://www.v2ex.com/t/1256305#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "https://hub.v2core.com/p/0ffe9d3a81f9f3b9fabfb603ed2fe18eefc27fb6f66d8b9227e3ed365060c712?lang=zh",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 淘宝怎么在美区 App Store 不见了？",
-     "url": "https://www.v2ex.com/t/1256304#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "请勿粘贴 AI 生成内容造成账号被封 请勿粘贴 AI 生成内容造成账号被封 请勿粘贴 AI 生成内容造成账号被封 刚刚准备踩住双十一的尾巴大干一场，我打开购物车发现里面有个 AI 帮抢价格要便宜几块钱，我想小把戏了肯定我用这个后不一会儿肯定就通知我帮抢成功，可是我点了预约帮抢成功后才发现不知道在哪里能找到这个功能，问它它说在我的淘宝/帮抢/订购里面但是我点我的淘宝没看到对应功能，我就在想是不是我没",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了一个 AI 语音降噪工具 Denoise Audio，欢迎体验和提建议",
-     "url": "https://www.v2ex.com/t/1256303#reply0",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "音频降噪，真去找个顺手的工具还挺费劲。桌面端的要么像 Audacity ，先采噪声再调参数，来回试听；要么绑在 DAW 里，得整套流程都在里面才用得顺。在线那批又不太敢传。 干脆自己写了个： https://denoiseaudio.com/ 扔个 MP3 、WAV 或 M4A 进去，五分钟以内就能得到处理结果，欢迎大家体验～",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 如何判断一个 skill 是真正有用还是 slop？",
-     "url": "https://www.v2ex.com/t/1256302#reply1",
-     "meta": "V2EX · 2026-11-11",
+     "title": "[分享发现] codex 貌似要重置了",
+     "url": "https://www.v2ex.com/t/1256328#reply0",
+     "meta": "V2EX · 2026-11-12",
      "summary": "",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] Shizuku + Canta 一加的 ace6t 不能用吗?",
-     "url": "https://www.v2ex.com/t/1256301#reply1",
+     "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+     "url": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-12",
+     "summary": "黄仁勋的至暗时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 请问，有没有人把 magpie 的作者 yetone 的自动生产工作流研究出来呢。",
+     "url": "https://www.v2ex.com/t/1256327#reply4",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "看 twitter 上说，这个作者开发的 magpie 这软件，是全自动的。 先让 AI 生成一个软件，推广出去后，让 AI 定时去获取网络上的评论与 BUG 之类的信息，然后让 AI 继续分析这些反馈，最后让 AI 自动修复代码生成并重新发布出去。这样循环着。 但我也只了解一下大概，请问哪位大佬，是否已经有研究出相似的工作流，求文章学习一下。谢谢。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 感觉两台 16g 的 macmini，不如一台 32g 的 macmini",
+     "url": "https://www.v2ex.com/t/1256326#reply5",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "因为我几乎什么软件都没开，就已经占用 8g 多了好像",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Surge] 最新版支持 vless 了，大家还买吗？",
+     "url": "https://www.v2ex.com/t/1256325#reply7",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "好像是传言有人有 ai 解了授权并且新增了 vless 协议支持，然后 surge 马上发布支持了 vless ，界面都还没来得及加，这波是违背祖训了，万人血书好几年不加 vless ，被 ai 教育了。 https://manual.nssurge.com/policies/vless.html",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] Claude 没被封，谷歌账号被封了，还能继续使用 Claude 吗？",
+     "url": "https://www.v2ex.com/t/1256322#reply5",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "谷歌账号最近 ip 变动频繁被封了，申诉不通过，对应的 Claude 账号还在正常使用，之后不退出能一直用吗？或者谷歌账号还能抢救一下吗？",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+     "url": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-12",
+     "summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[iPhone] 感觉微信和抖音不打算适配 iPhone duo 了",
+     "url": "https://www.v2ex.com/t/1256321#reply7",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "真后悔买这个手机 微信 抖音 美团 拼多多都没法用，这些 APP 功能复杂适配起来确实麻烦。 这手机以后卖二手都没法卖",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 小米 17 在拼多多上比京东便宜了 400，靠谱吗",
+     "url": "https://www.v2ex.com/t/1256319#reply9",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[职场话题] 网传腾讯要向社会输送大量人才",
+     "url": "https://www.v2ex.com/t/1256318#reply7",
      "meta": "V2EX · 2026-11-11",
-     "summary": "一直说 adb 权限受限, 怎么弄啊!!! 请问怎么刷氧???",
+     "summary": "真的假的，有没有内部小伙伴消息。 https://i.imgur.com/yecWXSN.jpeg",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] 大家看看我写的 rust 版本的 agent,名字 rpi，我实测 30 个进程实际使用内存占用极低",
-     "url": "https://www.v2ex.com/t/1256300#reply6",
+     "title": "[OpenAI] 有没有办法在 Codex 里用 API 额度",
+     "url": "https://www.v2ex.com/t/1256317#reply4",
      "meta": "V2EX · 2026-11-11",
-     "summary": "无聊测试了一下内存占用，感觉可以考虑发展下 nas 和 边缘设备上使用，现在已经支持 musl 编译运行，欢迎体验 项目： pi-rust",
+     "summary": "前这日子 openai 赠送了 api 额度， 有没有办法在 codex 里用上啊",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "假如地球没有诞生生命？",
-     "url": "https://www.solidot.org/story?sid=85862",
-     "meta": "Solidot · 2026-11-11",
-     "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺乏氧气外，其地表温度与液态水量竟然与我们今天的真实地球相差无几。在天文学的定义中",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] gemini-4-carbon 免费一天",
-     "url": "https://www.v2ex.com/t/1256297#reply0",
+     "title": "[Apple] surge 6.0 已开始支持 vless",
+     "url": "https://www.v2ex.com/t/1256316#reply5",
      "meta": "V2EX · 2026-11-11",
-     "summary": "https://api.apichatgpt.org/ 想登的切换全模型白嫖分组就行 限制 1 并发 免费玩一天",
+     "summary": "前段时间有人逆向加入了 vless macOS 不需要再转接",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
-     "url": "https://www.solidot.org/story?sid=85861",
-     "meta": "Solidot · 2026-11-11",
-     "summary": "Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后者则是独立的付费订阅服务，可同时在五台设备上使用。Firefox 内置 VPN 服务尚未向全球推广，",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] Claude IOS 订阅风控再升级",
-     "url": "https://www.v2ex.com/t/1256296#reply0",
+     "title": "[创业组队] 有项目想做？寻找 AI 开发与创业合作伙伴？",
+     "url": "https://www.v2ex.com/t/1256315#reply2",
      "meta": "V2EX · 2026-11-11",
-     "summary": "已经过了 KYC 的帐号，再订阅的话，还是有会不到帐的情况",
+     "summary": "有项目想做？寻找 AI 开发与创业合作伙伴？ 你有好的产品想法，却缺少技术资源？正在开发 SaaS、AI 应用、软件或游戏，希望找到靠谱的技术合作伙伴？ 也许我们可以一起做点有意思的事情。 我是一名常驻美洲的独立软件工程师，拥有丰富的软件开发方向和 AI 辅助开发能力，可以在当地合规自由地使用 Claude、OpenAI Codex 等先进 AI 开发工具。 我能提供的技术支持： 全栈 Web 开",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] LingoManga：整章漫画 AI 翻译，免费预览整章再付费下载高清 ZIP",
-     "url": "https://www.v2ex.com/t/1256295#reply0",
+     "title": "[问与答] 请问上海正常价格能给 Apple Watch se 换电池并上胶防水途径？",
+     "url": "https://www.v2ex.com/t/1256314#reply1",
      "meta": "V2EX · 2026-11-11",
-     "summary": "项目概述 LingoManga 是一个面向漫画读者的整章翻译工具：把 raw / 生肉漫画的 ZIP 或 CBZ 上传，选目标语言，先免费看完整章低清带水印预览，确认效果后 $4.90 下载整章高清无水印 ZIP 。 https://lingomanga.com 核心功能 整章处理：3–60 页，自动自然排序，双页跨页保持为一页 免费整章预览：低清 + 水印，看完再决定付不付款 按章付费：一次 $",
+     "summary": "同事小孩 2020 一直带着 Apple Watch Se 蜂窝的非国行手表，最近发现电池不行了。 因为蜂窝功能和 FaceTime audio （包括对讲机）同时是刚需，而内地运营商不再给非国行 Apple Watch 提供 eSIM 独立终端服务，使得手表无法去内地或香港的苹果直营店换电池。 目前同事想到的解决方案是找靠谱的商家换电池并因为现在每周都需要戴着游泳，故需要换电池时上胶防水。 不知",
      "reason": null,
      "origin_source": "cn_rss"
     }

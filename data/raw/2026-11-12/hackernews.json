@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-12T02:22:12.584391+08:00",
- "count": 25,
+ "updated_at": "2026-11-12T09:18:07.340544+08:00",
+ "count": 40,
  "items": [
+  {
+   "id": "hn-50422216",
+   "title": "Making the Iron Giant Live",
+   "url": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
+   "hn_url": "https://news.ycombinator.com/item?id=50422216",
+   "score": 10,
+   "comments": 0,
+   "author": "vinhnx",
+   "time_iso": "2026-11-09T07:26:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 10
+    }
+   ]
+  },
   {
    "id": "hn-50427153",
    "title": "Show HN: 3D to 2D, point clouds flattening (geometry images)",
@@ -16,6 +32,38 @@
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50433042",
+   "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+   "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+   "hn_url": "https://news.ycombinator.com/item?id=50433042",
+   "score": 45,
+   "comments": 24,
+   "author": "rmason",
+   "time_iso": "2026-11-09T22:15:13+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 45
+    }
+   ]
+  },
+  {
+   "id": "hn-50435240",
+   "title": "A Brief History of Sierra Online (2017)",
+   "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+   "hn_url": "https://news.ycombinator.com/item?id=50435240",
+   "score": 21,
+   "comments": 1,
+   "author": "freshtake",
+   "time_iso": "2026-11-10T02:12:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 21
     }
    ]
   },
@@ -72,14 +120,18 @@
    "title": "Tim Peters has died",
    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
    "hn_url": "https://news.ycombinator.com/item?id=50450488",
-   "score": 179,
-   "comments": 22,
+   "score": 846,
+   "comments": 93,
    "author": "ayhanfuat",
    "time_iso": "2026-11-11T07:03:17+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 179
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 846
     }
    ]
   },
@@ -117,17 +169,21 @@
   },
   {
    "id": "hn-50452455",
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "url": "https://pietromiotti.com/latest/maya-site/?maya",
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
    "hn_url": "https://news.ycombinator.com/item?id=50452455",
-   "score": 775,
-   "comments": 288,
+   "score": 921,
+   "comments": 335,
    "author": "eyvindn",
    "time_iso": "2026-11-11T12:05:22+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 775
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 921
     }
    ]
   },
@@ -152,14 +208,18 @@
    "title": "Can a Linear Program Do Weight-Space Programming?",
    "url": "https://nathan.rs/posts/weight-space-lp/",
    "hn_url": "https://news.ycombinator.com/item?id=50452655",
-   "score": 177,
-   "comments": 29,
+   "score": 240,
+   "comments": 36,
    "author": "emschwartz",
    "time_iso": "2026-11-11T12:30:17+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 177
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 240
     }
    ]
   },
@@ -216,14 +276,18 @@
    "title": "Hyper-Realistic Sand with WebGL2",
    "url": "https://av.github.io/safe-sand/",
    "hn_url": "https://news.ycombinator.com/item?id=50453288",
-   "score": 173,
-   "comments": 36,
+   "score": 303,
+   "comments": 64,
    "author": "everlier",
    "time_iso": "2026-11-11T13:39:29+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 173
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 303
     }
    ]
   },
@@ -264,14 +328,18 @@
    "title": "Atuin Threads: All your agent sessions on every machine",
    "url": "https://blog.atuin.sh/threads-agent-sessions/",
    "hn_url": "https://news.ycombinator.com/item?id=50453637",
-   "score": 116,
-   "comments": 41,
+   "score": 190,
+   "comments": 71,
    "author": "linsomniac",
    "time_iso": "2026-11-11T14:10:46+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 116
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 190
     }
    ]
   },
@@ -296,14 +364,18 @@
    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
    "url": "https://github.com/FrigadeHQ/yogurt",
    "hn_url": "https://news.ycombinator.com/item?id=50454625",
-   "score": 40,
-   "comments": 22,
+   "score": 167,
+   "comments": 73,
    "author": "brownrout",
    "time_iso": "2026-11-11T15:33:06+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 40
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 167
     }
    ]
   },
@@ -341,17 +413,21 @@
   },
   {
    "id": "hn-50454995",
-   "title": "The hardest notes to find on the guitar fretboard",
+   "title": "The hardest notes to find on the guitar",
    "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
    "hn_url": "https://news.ycombinator.com/item?id=50454995",
-   "score": 22,
-   "comments": 15,
+   "score": 51,
+   "comments": 61,
    "author": "udit99",
    "time_iso": "2026-11-11T16:05:18+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 22
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 51
     }
    ]
   },
@@ -360,14 +436,18 @@
    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
    "hn_url": "https://news.ycombinator.com/item?id=50455394",
-   "score": 168,
-   "comments": 84,
+   "score": 404,
+   "comments": 202,
    "author": "mbac32768",
    "time_iso": "2026-11-11T16:38:44+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 168
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 404
     }
    ]
   },
@@ -376,30 +456,230 @@
    "title": "Faster Retrieval for Better, More Efficient RAG",
    "url": "https://machinelearning.apple.com/research/faster-retrieval",
    "hn_url": "https://news.ycombinator.com/item?id=50455633",
-   "score": 40,
-   "comments": 1,
+   "score": 150,
+   "comments": 24,
    "author": "zerop",
    "time_iso": "2026-11-11T16:57:45+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 40
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 150
     }
    ]
   },
   {
    "id": "hn-50455811",
    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-   "url": "https://pomerado.ai/",
+   "url": "https://news.ycombinator.com/item?id=50455811",
    "hn_url": "https://news.ycombinator.com/item?id=50455811",
-   "score": 15,
-   "comments": 7,
+   "score": 48,
+   "comments": 38,
    "author": "alanjm23",
    "time_iso": "2026-11-11T17:11:56+00:00",
    "history": [
     {
      "t": "2026-11-12T02:22:12.584391+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50456631",
+   "title": "AWS emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "hn_url": "https://news.ycombinator.com/item?id=50456631",
+   "score": 653,
+   "comments": 215,
+   "author": "super_linear",
+   "time_iso": "2026-11-11T18:21:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 653
+    }
+   ]
+  },
+  {
+   "id": "hn-50456791",
+   "title": "Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "hn_url": "https://news.ycombinator.com/item?id=50456791",
+   "score": 259,
+   "comments": 80,
+   "author": "iamdelirium",
+   "time_iso": "2026-11-11T18:32:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 259
+    }
+   ]
+  },
+  {
+   "id": "hn-50457230",
+   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+   "url": "https://termsheetplease.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50457230",
+   "score": 164,
+   "comments": 74,
+   "author": "bolau",
+   "time_iso": "2026-11-11T19:12:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 164
+    }
+   ]
+  },
+  {
+   "id": "hn-50457618",
+   "title": "The Utah Teapot",
+   "url": "https://graphics.cs.utah.edu/teapot/",
+   "hn_url": "https://news.ycombinator.com/item?id=50457618",
+   "score": 68,
+   "comments": 15,
+   "author": "cobbal",
+   "time_iso": "2026-11-11T19:45:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
+   "id": "hn-50458166",
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "url": "https://github.com/huawei-csl/MACaQ",
+   "hn_url": "https://news.ycombinator.com/item?id=50458166",
+   "score": 57,
+   "comments": 18,
+   "author": "thefox96",
+   "time_iso": "2026-11-11T20:23:57+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 57
+    }
+   ]
+  },
+  {
+   "id": "hn-50458208",
+   "title": "Emacs in the Age of Magic",
+   "url": "https://commandlinesystems.com/magic.txt",
+   "hn_url": "https://news.ycombinator.com/item?id=50458208",
+   "score": 141,
+   "comments": 49,
+   "author": "ggcr",
+   "time_iso": "2026-11-11T20:26:32+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 141
+    }
+   ]
+  },
+  {
+   "id": "hn-50458900",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "hn_url": "https://news.ycombinator.com/item?id=50458900",
+   "score": 338,
+   "comments": 321,
+   "author": "herpderperator",
+   "time_iso": "2026-11-11T21:24:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 338
+    }
+   ]
+  },
+  {
+   "id": "hn-50459321",
+   "title": "Jensen Huang said to have had relationship with executive who reports to him",
+   "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50459321",
+   "score": 175,
+   "comments": 151,
+   "author": "louiereederson",
+   "time_iso": "2026-11-11T22:03:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 175
+    }
+   ]
+  },
+  {
+   "id": "hn-50459485",
+   "title": "Lock Your GitHub Actions",
+   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "hn_url": "https://news.ycombinator.com/item?id=50459485",
+   "score": 109,
+   "comments": 19,
+   "author": "gslin",
+   "time_iso": "2026-11-11T22:16:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 109
+    }
+   ]
+  },
+  {
+   "id": "hn-50459703",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "hn_url": "https://news.ycombinator.com/item?id=50459703",
+   "score": 463,
+   "comments": 677,
+   "author": "jbredeche",
+   "time_iso": "2026-11-11T22:31:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 463
+    }
+   ]
+  },
+  {
+   "id": "hn-50459745",
+   "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+   "url": "https://www.mcmillen.dev/sigbovik/",
+   "hn_url": "https://news.ycombinator.com/item?id=50459745",
+   "score": 117,
+   "comments": 19,
+   "author": "zenincognito",
+   "time_iso": "2026-11-11T22:34:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 117
+    }
+   ]
+  },
+  {
+   "id": "hn-50460154",
+   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+   "url": "https://github.com/tylertms/Stela",
+   "hn_url": "https://news.ycombinator.com/item?id=50460154",
+   "score": 40,
+   "comments": 11,
+   "author": "iceboundrock",
+   "time_iso": "2026-11-11T23:02:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-12T09:18:07.340544+08:00",
+     "score": 40
     }
    ]
   }

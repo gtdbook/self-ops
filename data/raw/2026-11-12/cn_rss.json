@@ -1,8 +1,17 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-12T02:22:22.995182+08:00",
- "count": 153,
+ "updated_at": "2026-11-12T09:18:15.323430+08:00",
+ "count": 180,
  "items": [
+  {
+   "id": "rss-02bfa718437d00c0",
+   "title": "[程序员] 感觉两台 16g 的 macmini，不如一台 32g 的 macmini",
+   "url": "https://www.v2ex.com/t/1256326#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:53:51Z",
+   "published_iso": "2026-11-12T00:53:51+00:00",
+   "summary": "因为我几乎什么软件都没开，就已经占用 8g 多了好像"
+  },
   {
    "id": "rss-02d637fa74514a74",
    "title": "YuanQi（UIEIP）低代码平台 v1.0 开源：一个 Go 单文件，装下建模、表单、权限、流程与 AI 知识库（MIT）",
@@ -76,6 +85,15 @@
    "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ... 查看全文"
   },
   {
+   "id": "rss-0fdade80ae6adec1",
+   "title": "[分享发现] 小米牛 B，直播间抽奖不发然后小红书发帖吐槽一直被举报限流",
+   "url": "https://www.v2ex.com/t/1256276#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T11:54:09Z",
+   "published_iso": "2026-11-11T11:54:09+00:00",
+   "summary": "简单来说就是，我在小米京东自营直播间买了个电视，抽奖中了 300 ，然后现在说审核不通过不发给我。找京东，最后京东垫付给我补偿了，京东👍。 我是 10 月 14 日在直播间下的定金单，问了直播间的人说定金单也可以抽，然后抽中了，也有截图。 然后是 10 月 15 日付的尾款，前几天收到的货，去问才说不发。 理由是： 1. 说我是 AI 直播间下的单。听到这个理由真的给我气炸了，踏马 ai 直播间下的单都来了。我明明就是直播的时候点直播间"
+  },
+  {
    "id": "rss-122e10a454d56ac1",
    "title": "[分享创造] 做了个恐怖维基",
    "url": "https://www.v2ex.com/t/1256265#reply6",
@@ -110,6 +128,15 @@
    "published": "Wed, 11 Nov 2026 00:23:20 +0800",
    "published_iso": "2026-11-10T16:23:20+00:00",
    "summary": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促"
+  },
+  {
+   "id": "rss-1b20b3903698aea3",
+   "title": "[创业组队] 有项目想做？寻找 AI 开发与创业合作伙伴？",
+   "url": "https://www.v2ex.com/t/1256315#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T19:52:19Z",
+   "published_iso": "2026-11-11T19:52:19+00:00",
+   "summary": "有项目想做？寻找 AI 开发与创业合作伙伴？ 你有好的产品想法，却缺少技术资源？正在开发 SaaS、AI 应用、软件或游戏，希望找到靠谱的技术合作伙伴？ 也许我们可以一起做点有意思的事情。 我是一名常驻美洲的独立软件工程师，拥有丰富的软件开发方向和 AI 辅助开发能力，可以在当地合规自由地使用 Claude、OpenAI Codex 等先进 AI 开发工具。 我能提供的技术支持： 全栈 Web 开发：前端、后端、API、数据库及 Saa"
   },
   {
    "id": "rss-1b7e5dac43fadd1b",
@@ -148,6 +175,15 @@
    "summary": "4K 像素最快 10 秒生成 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-253d518823eecdc3",
+   "title": "[Hermes Agent] 各位 hermes-agent 都用什么模型？",
+   "url": "https://www.v2ex.com/t/1256307#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T16:26:11Z",
+   "published_iso": "2026-11-11T16:26:11+00:00",
+   "summary": "七月份在本地部署了个 hermes ，接的 deepseek 干点自动分析作图的活，结果有点糙。后来接了 gpt plus ，质量倒是高了点，但五小时限额实在是不够用。尤其是换了 6.1sol ，又慢额度又少，但穷学生又开不起 pro ，一个月 700 多比我工资还高！😭 请问大佬们还能接啥模型呢？或者有啥更好点的渠道呢？ ps.要是 plus 和 pro 之间还有一档不那么贵的就好了"
+  },
+  {
    "id": "rss-25546f5c0d08b94f",
    "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
    "url": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -164,6 +200,15 @@
    "published": "Mon, 09 Nov 2026 14:20:16 +0800",
    "published_iso": "2026-11-09T06:20:16+00:00",
    "summary": "一、痛点：内网项目里那张「Node 门票」 过去一年我参与的几个项目都有同一个特征：服务器在内网、离线、镜像体积有硬指标，但业务上确实需要几个 Vue 页面。每次迭代的流程都很别扭——外网机器装 Node、npm install 一坨依赖、build 出 dist、再把产物拷进内网。一旦线上要改个按钮文案，就得走一遍完整的前端构建链。..."
+  },
+  {
+   "id": "rss-25cec19034f166c7",
+   "title": "[程序员] 在 cursor 里选择 Opus5.5 和在 Claude code 里使用，效果一样吗？",
+   "url": "https://www.v2ex.com/t/1256274#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T11:41:54Z",
+   "published_iso": "2026-11-11T11:41:54+00:00",
+   "summary": "是不是除了速度慢一点，智力是一样的吗？"
   },
   {
    "id": "rss-26228758f0c82685",
@@ -218,6 +263,15 @@
    "published": "Wed, 11 Nov 2026 18:43:22 +0800",
    "published_iso": "2026-11-11T10:43:22+00:00",
    "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员难以理解 AI 生成的代码库，一家企业依赖 AI 生成代码库的时间越长，真正理解代码库的程序员就越少；AI 产出速度太快，无法维持高质量标准"
+  },
+  {
+   "id": "rss-300c768cfe99ee8c",
+   "title": "[分享创造] 做了个在线去人声的工具，从原曲里拆出伴奏和人声两轨",
+   "url": "https://www.v2ex.com/t/1256286#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T13:36:05Z",
+   "published_iso": "2026-11-11T13:36:05+00:00",
+   "summary": "KTV 伴奏大多是重新翻录的，跟原版听着差不少。想要原版的伴奏，就只能从原曲里把人声去掉，所以做了这个。人声也单独给一轨，可以拿来对歌词、听换气。 https://www.voiceremover.app/ 前端是 TypeScript + React + TanStack Start ，整个跑在 Cloudflare Workers 上，D1 存数据，R2 放文件，排队用 Queues 。分离模型用的 htdemucs ，跑在 fal"
   },
   {
    "id": "rss-308dca15677b6db9",
@@ -281,6 +335,15 @@
    "published": "2026-11-11T13:16:37Z",
    "published_iso": "2026-11-11T13:16:37+00:00",
    "summary": "在🐟上收了个二手的 macbook 打算走面交 到时候应该怎么验机 担心遇到扩容机，监管机之类的"
+  },
+  {
+   "id": "rss-38a83624c6f29a6f",
+   "title": "[OpenAI] 有没有办法在 Codex 里用 API 额度",
+   "url": "https://www.v2ex.com/t/1256317#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T23:34:28Z",
+   "published_iso": "2026-11-11T23:34:28+00:00",
+   "summary": "前这日子 openai 赠送了 api 额度， 有没有办法在 codex 里用上啊"
   },
   {
    "id": "rss-3925285e93af5f41",
@@ -355,6 +418,15 @@
    "summary": "Jync v1.14.0 新增 应用内 HTTPS：「系统配置」可直接上传 PKCS#12 / JKS 密钥库或 PEM 证书链与私钥，由 Jync 自己提供 HTTPS，不必再改 nginx 或环境变量。 证书与加密后的密钥库口令存放在 ./data/tls，不进元数据库、不进配置包；私钥与叶子证书用签名探测校验，加密私钥与 SEC1 格式明确拒绝。 HTTPS 连接器在启动时..."
   },
   {
+   "id": "rss-3fec7366bc52bd00",
+   "title": "[macOS] 受够了 Mac App Store 里充斥的流氓按周订阅，我花两周整理了一份纯净的 Safari 买断制与开源扩展清单",
+   "url": "https://www.v2ex.com/t/1256281#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T13:10:37Z",
+   "published_iso": "2026-11-11T13:10:37+00:00",
+   "summary": "各位 V 友，好， 作为一个日常主力用 Safari 的 Mac 用户，最近这两年在 App Store 找插件真的被恶心坏了：很多扩展标着“免费下载”，点开弹窗必须强制勾选“每周 38 元扣费”；或者明明一个几十 KB 就能搞定的功能，包体臃肿还塞满了第三方追踪。 Chrome 上的 uBlock Origin 、Tampermonkey 、Dark Reader 虽然生态好，但移植到 Mac 耗电和发热严重。而 Safari 原生其"
+  },
+  {
    "id": "rss-41661174ece44150",
    "title": "[分享创造] 我用 10 天，把 Super-agent 架构做成了一个 7×24 小时在线的产品",
    "url": "https://www.v2ex.com/t/1256266#reply0",
@@ -400,6 +472,15 @@
    "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议。 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文..."
   },
   {
+   "id": "rss-48e045b704d73cb5",
+   "title": "[问与答] 请问上海正常价格能给 Apple Watch se 换电池并上胶防水途径？",
+   "url": "https://www.v2ex.com/t/1256314#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T19:42:00Z",
+   "published_iso": "2026-11-11T19:42:00+00:00",
+   "summary": "同事小孩 2020 一直带着 Apple Watch Se 蜂窝的非国行手表，最近发现电池不行了。 因为蜂窝功能和 FaceTime audio （包括对讲机）同时是刚需，而内地运营商不再给非国行 Apple Watch 提供 eSIM 独立终端服务，使得手表无法去内地或香港的苹果直营店换电池。 目前同事想到的解决方案是找靠谱的商家换电池并因为现在每周都需要戴着游泳，故需要换电池时上胶防水。 不知道上海市区内有哪些靠谱一点的，正规收费且"
+  },
+  {
    "id": "rss-4d56e6a85ca97797",
    "title": "刚果埃博拉病例突破 1.1 万例",
    "url": "https://www.solidot.org/story?sid=85858",
@@ -436,6 +517,24 @@
    "summary": "一个本该永远无法登录的账号，只要输入超过 256 个字符的任意密码，就能进去。这个漏洞在 musl libc 里躺了十四年——从 2012 年埋下，到 2026 年才被发现。 发现者 Özgün Kültekin 给它起了个名字：*sshole。他还做了个网站 sshhole.com，把这个 bug 的来龙去脉从 1980 年一路讲到今天。 先看这个漏洞怎么形成的 19..."
   },
   {
+   "id": "rss-52abf71397d2e8ff",
+   "title": "[分享发现] codex 貌似要重置了",
+   "url": "https://www.v2ex.com/t/1256328#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T01:09:58Z",
+   "published_iso": "2026-11-12T01:09:58+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-53ee979cf6d5b3e8",
+   "title": "[推广] [分享] 一句话让 AI Agent 把网课视频变成讲义 PDF（开源 · 全程本地 · 零 API Key）",
+   "url": "https://www.v2ex.com/t/1256309#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T17:12:20Z",
+   "published_iso": "2026-11-11T17:12:20+00:00",
+   "summary": "备考的人应该都懂：强化班几十讲，做错一道题想回看对应知识点，只能凭记忆拖进度条。视频没法检索、没法打印，这个痛贯穿我整个备考期。 所以做了个开源技能 chalkpress——不是又一个「视频转文字」工具，而是把课程视频压缩成一册讲义 PDF：每页一个关键帧画面 + 该时间窗的字幕，文字层可检索可复制。 用法就是给 agent 发一句话（ ChatGPT / Claude Code 等客户端，任何能执行命令的都行）： 用这个技能把我的网课"
+  },
+  {
    "id": "rss-58355ab327c7763b",
    "title": "[分享创造] 写了个本地安全提取 ChatGPT Account ID 的油猴脚本，避免直接复制 /api/auth/session 泄露完整 Token",
    "url": "https://www.v2ex.com/t/1256285#reply0",
@@ -443,6 +542,15 @@
    "published": "2026-11-11T13:28:22Z",
    "published_iso": "2026-11-11T13:28:22+00:00",
    "summary": "身边有朋友在处理 ChatGPT 订阅异常或者核对账户标识时，习惯直接打开 chatgpt.com/api/auth/session 把整个页面返回的 JSON 复制出去。 看过这个接口返回结构的应该都知道，最底部直接明文带着当前会话的 accessToken （JWT 格式）。只要在有效期内，拿到这个字段就等同于拿到了完整的登录态，可以绕过密码和 2FA 直接调接口或操作账户。 实际上用来区分账户归属的只是 account.id 字段"
+  },
+  {
+   "id": "rss-58f391a79600c7cf",
+   "title": "[问与答] Claude 没被封，谷歌账号被封了，还能继续使用 Claude 吗？",
+   "url": "https://www.v2ex.com/t/1256322#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:29:57Z",
+   "published_iso": "2026-11-12T00:29:57+00:00",
+   "summary": "谷歌账号最近 ip 变动频繁被封了，申诉不通过，对应的 Claude 账号还在正常使用，之后不退出能一直用吗？或者谷歌账号还能抢救一下吗？"
   },
   {
    "id": "rss-5cdd606a7680f478",
@@ -535,6 +643,15 @@
    "summary": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR "
   },
   {
+   "id": "rss-69a62d8c6d3b900f",
+   "title": "[English] 给大家推荐一位加拿大的英语老师，以前跟她练过几个月口语，提高很快",
+   "url": "https://www.v2ex.com/t/1256287#reply15",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T13:43:39Z",
+   "published_iso": "2026-11-11T13:43:39+00:00",
+   "summary": "时不时看见 v 站有人问英语口语训练。 其实找个口语老师纠正常见的发音错误然后练一段时间就能提高很多。 很多年前我跟这个老师练过，提高非常快。 这是她在小红书上的帖子， https://xhslink.cn/o/AUo3vsrGeI2 她首次课大概收费 50 元，之后 150 。"
+  },
+  {
    "id": "rss-6b513a6bdff9b174",
    "title": "[Apple] 许愿开发时代了，有比 Surge 好用的免费代理软件不，真心求问",
    "url": "https://www.v2ex.com/t/1256288#reply4",
@@ -542,6 +659,24 @@
    "published": "2026-11-11T13:55:01Z",
    "published_iso": "2026-11-11T13:55:01+00:00",
    "summary": "感觉很多代理软件都像上个年代的，UI 丑，难用，稳定性差。 跟许愿开发时代风格不匹配啊，有没人许愿一个好用的呢。Surge 虽好用，但大模型时代不太想花这个钱。"
+  },
+  {
+   "id": "rss-6e1f9bcfee0b161d",
+   "title": "[Surge] 最新版支持 vless 了，大家还买吗？",
+   "url": "https://www.v2ex.com/t/1256325#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:46:02Z",
+   "published_iso": "2026-11-12T00:46:02+00:00",
+   "summary": "好像是传言有人有 ai 解了授权并且新增了 vless 协议支持，然后 surge 马上发布支持了 vless ，界面都还没来得及加，这波是违背祖训了，万人血书好几年不加 vless ，被 ai 教育了。 https://manual.nssurge.com/policies/vless.html"
+  },
+  {
+   "id": "rss-730d30d66c0bb51b",
+   "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+   "url": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Thu, 12 Nov 2026 00:24:22 +0000",
+   "published_iso": "2026-11-12T00:24:22+00:00",
+   "summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-7a72f203deb1e1f4",
@@ -670,6 +805,15 @@
    "summary": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑"
   },
   {
+   "id": "rss-896ebea3c41a0929",
+   "title": "[Apple] 国行 apple 智能到底有啥用",
+   "url": "https://www.v2ex.com/t/1256277#reply12",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T11:54:43Z",
+   "published_iso": "2026-11-11T11:54:43+00:00",
+   "summary": "除了图片清除作用还有啥用"
+  },
+  {
    "id": "rss-89ffb58bdf73fdbf",
    "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
    "url": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -731,6 +875,15 @@
    "published": "Tue, 10 Nov 2026 19:04:32 +0800",
    "published_iso": "2026-11-10T11:04:32+00:00",
    "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多"
+  },
+  {
+   "id": "rss-9163c563299a903b",
+   "title": "[Apple] 苹果宣布官方社区永久关闭，为啥呢？",
+   "url": "https://www.v2ex.com/t/1256293#reply12",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T14:17:23Z",
+   "published_iso": "2026-11-11T14:17:23+00:00",
+   "summary": "企业社区不是和用户交流的一个友好途径吗，苹果为什么要关闭呢，隔壁微软社区看起来也蛮活跃的阿 苹果社区反应确实是慢，这不是官方不上心吗码嘛，以后要是反应开发者方面的问题，还有什么替代途径吗？"
   },
   {
    "id": "rss-91d8d2e4c6058008",
@@ -859,6 +1012,15 @@
    "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。 查看全文"
   },
   {
+   "id": "rss-9ebfc6018eb948be",
+   "title": "[问与答] 小米 17 在拼多多上比京东便宜了 400，靠谱吗",
+   "url": "https://www.v2ex.com/t/1256319#reply9",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:02:27Z",
+   "published_iso": "2026-11-12T00:02:27+00:00",
+   "summary": ""
+  },
+  {
    "id": "rss-9f0150aaadc9a447",
    "title": "🔥🔥ApiGo 5.5 发布，新增数据行列级权限",
    "url": "https://www.oschina.net/news/503488",
@@ -985,6 +1147,15 @@
    "summary": "涉及产品：积木报表（JimuReport）、积木 BI 大屏 / 仪表盘（JimuBI）、Chat2BI 统计时间：2026 年 9 月 11 日 – 11 月 3 日 推荐版本：积木报表 / 积木 BI 2.5.6.1，JeecgBoot v3.9.6 先说结论：积木报表、积木 BI 已知的安全公告已全部处理完，待处理数为 0。请所有用户尽快升级到 2.5.6.1，升级后可以放心使用。 9 ..."
   },
   {
+   "id": "rss-b19e515c761c7d12",
+   "title": "[生活] 31 岁男前来讨教 V 吧老哥备孕秘籍",
+   "url": "https://www.v2ex.com/t/1256329#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T01:12:46Z",
+   "published_iso": "2026-11-12T01:12:46+00:00",
+   "summary": "如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。"
+  },
+  {
    "id": "rss-b35f01524de4a899",
    "title": "千星达成！开源终端 uniTerm v1.12 发布：Docker 多租户部署、本地服务、终端录制与批量执行齐上线",
    "url": "https://www.oschina.net/news/503487",
@@ -1004,7 +1175,7 @@
   },
   {
    "id": "rss-b769791e2326aad1",
-   "title": "[Kubernetes] 北京 MaaS 急招/组内直推 - 运维(k8s) /后端开发（go) ^^",
+   "title": "[酷工作] 北京 MaaS 急招/组内直推 - 运维(k8s) /后端开发（go) ^^",
    "url": "https://www.v2ex.com/t/1256268#reply2",
    "feed_name": "V2EX",
    "published": "2026-11-11T11:10:02Z",
@@ -1019,6 +1190,24 @@
    "published": "2026-11-11T14:36:00Z",
    "published_iso": "2026-11-11T14:36:00+00:00",
    "summary": "https://api.apichatgpt.org/ 想登的切换全模型白嫖分组就行 限制 1 并发 免费玩一天"
+  },
+  {
+   "id": "rss-b9d01c7388dad366",
+   "title": "[职场话题] 网传腾讯要向社会输送大量人才",
+   "url": "https://www.v2ex.com/t/1256318#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T23:44:15Z",
+   "published_iso": "2026-11-11T23:44:15+00:00",
+   "summary": "真的假的，有没有内部小伙伴消息。 https://i.imgur.com/yecWXSN.jpeg"
+  },
+  {
+   "id": "rss-ba81c9a62c562964",
+   "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+   "url": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Thu, 12 Nov 2026 00:55:03 +0000",
+   "published_iso": "2026-11-12T00:55:03+00:00",
+   "summary": "黄仁勋的至暗时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-bb040fde221f9b37",
@@ -1102,6 +1291,15 @@
    "summary": "我自用 8 个月的号刚才弹 KYC 了，现在通过以后继续用。"
   },
   {
+   "id": "rss-c5f9f4f2dad99b7f",
+   "title": "[Apple] surge 6.0 已开始支持 vless",
+   "url": "https://www.v2ex.com/t/1256316#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T23:18:26Z",
+   "published_iso": "2026-11-11T23:18:26+00:00",
+   "summary": "前段时间有人逆向加入了 vless macOS 不需要再转接"
+  },
+  {
    "id": "rss-c8be95ff60a93b06",
    "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
    "url": "https://sspai.com/post/118175",
@@ -1165,6 +1363,15 @@
    "summary": "FormCreate 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的表单生成组件。支持8个UI框架，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 帮助文档 | 源码下载 3.3.6 版本及近期主要更..."
   },
   {
+   "id": "rss-d21cf7f063b863e8",
+   "title": "[分享创造] 刷到了一个关于易经的短视频，做了一个起卦的应用",
+   "url": "https://www.v2ex.com/t/1256312#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T19:35:02Z",
+   "published_iso": "2026-11-11T19:35:02+00:00",
+   "summary": "之前一直想体验一下 Flutter 开发，可是没有什么想法。 github release ps：我是完全不相信这些东西的。文字怎么解释完全是随意的。"
+  },
+  {
    "id": "rss-d3342c8da89a8a71",
    "title": "[程序员] 大家看看我写的 rust 版本的 agent,名字 rpi，我实测 30 个进程实际使用内存占用极低",
    "url": "https://www.v2ex.com/t/1256300#reply6",
@@ -1190,6 +1397,15 @@
    "published": "Tue, 10 Nov 2026 00:47:46 +0000",
    "published_iso": "2026-11-10T00:47:46+00:00",
    "summary": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-dcdcb7cd13dca112",
+   "title": "[iPhone] 感觉微信和抖音不打算适配 iPhone duo 了",
+   "url": "https://www.v2ex.com/t/1256321#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:15:39Z",
+   "published_iso": "2026-11-12T00:15:39+00:00",
+   "summary": "真后悔买这个手机 微信 抖音 美团 拼多多都没法用，这些 APP 功能复杂适配起来确实麻烦。 这手机以后卖二手都没法卖"
   },
   {
    "id": "rss-dd0702be827042c6",
@@ -1264,6 +1480,15 @@
    "summary": "不知道今年的 18pm 换国外 25w 无线充电器还能用不"
   },
   {
+   "id": "rss-ead09bc114e82389",
+   "title": "[随想] 当贡献社区和利益相关发生冲突时，有多少人会毫不犹豫贡献给社区",
+   "url": "https://www.v2ex.com/t/1256313#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T19:39:34Z",
+   "published_iso": "2026-11-11T19:39:34+00:00",
+   "summary": "一个月前在站里发过的发现 前不久跟着 AI 反编译全世界的浪潮终于被人看到并 提交给了社区 但这个 tweak 开始广泛流传之后我反而有点后悔： 如果 Apple 后续加强 countryd 或者 eligibled 处理的范围，把原来修改 MobileGestalt 的功能变成需要 Hook 系统 App / 框架等越狱后才能实现的修改，那我不是也没得玩了 （尽管我还钉死在 iOS 18 ，下台手机估计也不会买国行了但拼夕夕价格是真的"
+  },
+  {
    "id": "rss-ec6ab09fb455f18f",
    "title": "玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产",
    "url": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -1280,6 +1505,24 @@
    "published": "2026-11-11T10:09:28Z",
    "published_iso": "2026-11-11T10:09:28+00:00",
    "summary": "分享一个自己在用的 NAS / Homelab 导航页： Genkan （玄関） 。目标就三个：轻、好看、能扩展。 插件系统（重点） 一个插件就是一个 JS / TS 文件，能做的事情有： 桌面小组件：可以拖拽、调大小，支持图表、进度条、待办、便签 壁纸源：Bing 、NASA 每日一图，或者你自己的图源 搜索插件和后台定时任务 内置了 17 款插件，像天气、Pi-hole 、RSS 、GitHub Stars 这些，点一下就能装。还有"
+  },
+  {
+   "id": "rss-edc1eaa5dbbd4fdf",
+   "title": "[问与答] 请问，有没有人把 magpie 的作者 yetone 的自动生产工作流研究出来呢。",
+   "url": "https://www.v2ex.com/t/1256327#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-12T00:53:52Z",
+   "published_iso": "2026-11-12T00:53:52+00:00",
+   "summary": "看 twitter 上说，这个作者开发的 magpie 这软件，是全自动的。 先让 AI 生成一个软件，推广出去后，让 AI 定时去获取网络上的评论与 BUG 之类的信息，然后让 AI 继续分析这些反馈，最后让 AI 自动修复代码生成并重新发布出去。这样循环着。 但我也只了解一下大概，请问哪位大佬，是否已经有研究出相似的工作流，求文章学习一下。谢谢。"
+  },
+  {
+   "id": "rss-f1661137e0046384",
+   "title": "[问与答] Shizuku + Canta 一加的 ace6t 不能用吗?",
+   "url": "https://www.v2ex.com/t/1256301#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-11T15:26:24Z",
+   "published_iso": "2026-11-11T15:26:24+00:00",
+   "summary": "一直说 adb 权限受限, 怎么弄啊!!! 请问怎么刷氧???"
   },
   {
    "id": "rss-f176700a7d49a0c5",
