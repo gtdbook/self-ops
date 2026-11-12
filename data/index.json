@@ -1,16 +1,17 @@
 {
- "updated_at": "2026-11-12T09:18:15.662627+08:00",
+ "updated_at": "2026-11-12T17:16:52.201811+08:00",
  "days": [
   {
    "date": "2026-11-12",
-   "total": 85,
+   "total": 86,
    "per_source": {
+    "resonance": 1,
     "rising": 10,
     "blog_rss": 15,
+    "cn_rss": 15,
     "github_search": 15,
     "hackernews": 15,
-    "producthunt": 15,
-    "cn_rss": 15
+    "producthunt": 15
    }
   },
   {

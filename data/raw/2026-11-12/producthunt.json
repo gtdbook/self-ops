@@ -1,8 +1,26 @@
 {
  "source": "producthunt",
- "updated_at": "2026-11-12T09:18:15.532380+08:00",
- "count": 71,
+ "updated_at": "2026-11-12T17:16:52.085903+08:00",
+ "count": 107,
  "items": [
+  {
+   "id": "ph-034d1d4b867f9d93",
+   "title": "Blendra",
+   "url": "https://www.producthunt.com/products/blendra",
+   "tagline": "Record a flow once and get a Playwright test project you own",
+   "published": "2026-11-11T16:28:59-08:00",
+   "published_iso": "2026-11-12T00:28:59+00:00",
+   "summary": "Record a flow once and get a Playwright test project you own"
+  },
+  {
+   "id": "ph-083edb6fe2a5114c",
+   "title": "Toki Matter",
+   "url": "https://www.producthunt.com/products/toki-ai",
+   "tagline": "The Al agent that advances your matters",
+   "published": "2026-11-03T23:06:17-08:00",
+   "published_iso": "2026-11-04T07:06:17+00:00",
+   "summary": "The Al agent that advances your matters"
+  },
   {
    "id": "ph-0acf08f18517c333",
    "title": "Tokens by UI Colors",
@@ -11,6 +29,24 @@
    "published": "2026-11-09T09:29:48-08:00",
    "published_iso": "2026-11-09T17:29:48+00:00",
    "summary": "Build your product’s visual language with design tokens"
+  },
+  {
+   "id": "ph-0eac6e0627d75d3a",
+   "title": "CanyonOS",
+   "url": "https://www.producthunt.com/products/canyon-code",
+   "tagline": "The One Platform for Scaling your Agentic Apps",
+   "published": "2026-11-03T12:30:53-08:00",
+   "published_iso": "2026-11-03T20:30:53+00:00",
+   "summary": "The One Platform for Scaling your Agentic Apps"
+  },
+  {
+   "id": "ph-14b37f55730a0f33",
+   "title": "Gnista",
+   "url": "https://www.producthunt.com/products/gnista",
+   "tagline": "Run more coding agents, watch none of them",
+   "published": "2026-11-09T03:16:01-08:00",
+   "published_iso": "2026-11-09T11:16:01+00:00",
+   "summary": "Run more coding agents, watch none of them"
   },
   {
    "id": "ph-171a2ef03f0b3d99",
@@ -112,6 +148,15 @@
    "summary": "For the bad days you wouldn’t call a mental health problem"
   },
   {
+   "id": "ph-2c7e1f146e15509f",
+   "title": "Oxagen",
+   "url": "https://www.producthunt.com/products/oxagen",
+   "tagline": "Mission control for agents to share + maintain context",
+   "published": "2026-11-11T18:12:33-08:00",
+   "published_iso": "2026-11-12T02:12:33+00:00",
+   "summary": "Mission control for agents to share + maintain context"
+  },
+  {
    "id": "ph-2ef626dc23dace5a",
    "title": "Latch.ai",
    "url": "https://www.producthunt.com/products/latch-ai-2",
@@ -130,6 +175,33 @@
    "summary": "“Claude, but for your product” is here."
   },
   {
+   "id": "ph-2f89adbf64768e76",
+   "title": "WizardNote",
+   "url": "https://www.producthunt.com/products/wizardnote",
+   "tagline": "Voice notes your phone transcribes, saved as markdown",
+   "published": "2026-11-11T13:09:46-08:00",
+   "published_iso": "2026-11-11T21:09:46+00:00",
+   "summary": "Voice notes your phone transcribes, saved as markdown"
+  },
+  {
+   "id": "ph-2f8bc01d76209a20",
+   "title": "three.dev",
+   "url": "https://www.producthunt.com/products/three-dev",
+   "tagline": "Find out how your AI agent fails. Before your users do.",
+   "published": "2026-11-10T08:51:51-08:00",
+   "published_iso": "2026-11-10T16:51:51+00:00",
+   "summary": "Find out how your AI agent fails. Before your users do."
+  },
+  {
+   "id": "ph-328395811f9c6b3c",
+   "title": "Yogurt",
+   "url": "https://www.producthunt.com/products/yogurt",
+   "tagline": "Free, private, open-source alternative to Granola",
+   "published": "2026-11-10T13:16:55-08:00",
+   "published_iso": "2026-11-10T21:16:55+00:00",
+   "summary": "Free, private, open-source alternative to Granola"
+  },
+  {
    "id": "ph-3578cfdc0ad38a93",
    "title": "Padrail",
    "url": "https://www.producthunt.com/products/padrail",
@@ -139,6 +211,15 @@
    "summary": "Turn your MacBook trackpad edges into controls"
   },
   {
+   "id": "ph-3685fd3579ff8890",
+   "title": "Nameshot",
+   "url": "https://www.producthunt.com/products/nameshot-2",
+   "tagline": "Your screenshots named automatically",
+   "published": "2026-11-11T16:16:31-08:00",
+   "published_iso": "2026-11-12T00:16:31+00:00",
+   "summary": "Your screenshots named automatically"
+  },
+  {
    "id": "ph-3bbd30a4b6130389",
    "title": "QuotedPart",
    "url": "https://www.producthunt.com/products/quotedpart",
@@ -146,6 +227,15 @@
    "published": "2026-11-08T16:04:46-08:00",
    "published_iso": "2026-11-09T00:04:46+00:00",
    "summary": "AI quoting for CNC and sheet metal job shops"
+  },
+  {
+   "id": "ph-4165a380865bee08",
+   "title": "Sendr V4: Lovable for GTM",
+   "url": "https://www.producthunt.com/products/sendr",
+   "tagline": "Your AI GTM engineer to build signal based go-to-market",
+   "published": "2026-10-01T12:46:45-07:00",
+   "published_iso": "2026-10-01T19:46:45+00:00",
+   "summary": "Your AI GTM engineer to build signal based go-to-market"
   },
   {
    "id": "ph-41eb2f6fda1d49b1",
@@ -184,6 +274,15 @@
    "summary": "Read the whole repository with the agent that built it"
   },
   {
+   "id": "ph-47db48a6701966fc",
+   "title": "Didit MCP",
+   "url": "https://www.producthunt.com/products/didit-3",
+   "tagline": "The MCP server for identity verification and fraud checks",
+   "published": "2026-11-11T23:50:55-08:00",
+   "published_iso": "2026-11-12T07:50:55+00:00",
+   "summary": "The MCP server for identity verification and fraud checks"
+  },
+  {
    "id": "ph-4b1881608dab193a",
    "title": "TK by Medium",
    "url": "https://www.producthunt.com/products/medium",
@@ -191,6 +290,15 @@
    "published": "2026-11-05T06:33:24-08:00",
    "published_iso": "2026-11-05T14:33:24+00:00",
    "summary": "An agentic notebook to build your best thinking"
+  },
+  {
+   "id": "ph-4cd8726e2096bec7",
+   "title": "Harness Memory",
+   "url": "https://www.producthunt.com/products/epsilla",
+   "tagline": "Long-term memory for agents, across every harness",
+   "published": "2026-11-11T00:31:32-08:00",
+   "published_iso": "2026-11-11T08:31:32+00:00",
+   "summary": "Long-term memory for agents, across every harness"
   },
   {
    "id": "ph-4f859d952168b72e",
@@ -202,6 +310,15 @@
    "summary": "Learn languages while having fun!"
   },
   {
+   "id": "ph-5020d229ca512ec8",
+   "title": "Grok Bot 1.0",
+   "url": "https://www.producthunt.com/products/grok",
+   "tagline": "Bots work together alongside your team",
+   "published": "2026-11-11T11:38:45-08:00",
+   "published_iso": "2026-11-11T19:38:45+00:00",
+   "summary": "Bots work together alongside your team"
+  },
+  {
    "id": "ph-5498a622979e3bc2",
    "title": "Gesso",
    "url": "https://www.producthunt.com/products/gesso-2",
@@ -211,6 +328,24 @@
    "summary": "Ask ChatGPT or Claude to design, then edit every layer"
   },
   {
+   "id": "ph-5d70414025109544",
+   "title": "Klang",
+   "url": "https://www.producthunt.com/products/klang",
+   "tagline": "Team memory of meetings and calls, on our own speech models",
+   "published": "2026-11-10T04:36:08-08:00",
+   "published_iso": "2026-11-10T12:36:08+00:00",
+   "summary": "Team memory of meetings and calls, on our own speech models"
+  },
+  {
+   "id": "ph-5dff14d3df147904",
+   "title": "LeaseWire",
+   "url": "https://www.producthunt.com/products/leasewire",
+   "tagline": "Lease abstraction, wired to your model.",
+   "published": "2026-11-11T12:10:27-08:00",
+   "published_iso": "2026-11-11T20:10:27+00:00",
+   "summary": "Lease abstraction, wired to your model."
+  },
+  {
    "id": "ph-5e57606b6d7ab565",
    "title": "Muse Ember by Meta",
    "url": "https://www.producthunt.com/products/meta-ai",
@@ -218,6 +353,15 @@
    "published": "2026-11-09T14:14:58-08:00",
    "published_iso": "2026-11-09T22:14:58+00:00",
    "summary": "Meta's low-cost AI model for high-volume agent tasks"
+  },
+  {
+   "id": "ph-5eed9a475b5a5fdc",
+   "title": "⌘+L",
+   "url": "https://www.producthunt.com/products/l",
+   "tagline": "Edit your website like Figma!",
+   "published": "2026-11-11T01:27:27-08:00",
+   "published_iso": "2026-11-11T09:27:27+00:00",
+   "summary": "Edit your website like Figma!"
   },
   {
    "id": "ph-609d65db6a5a3afd",
@@ -256,6 +400,33 @@
    "summary": "Your AI product team, with expert workflows built in"
   },
   {
+   "id": "ph-62081e9611c340ea",
+   "title": "Sluice",
+   "url": "https://www.producthunt.com/products/sluice-2",
+   "tagline": "Room to build on your Mac, even with 20 agents at once",
+   "published": "2026-11-11T09:23:51-08:00",
+   "published_iso": "2026-11-11T17:23:51+00:00",
+   "summary": "Room to build on your Mac, even with 20 agents at once"
+  },
+  {
+   "id": "ph-642bcfe448989dfc",
+   "title": "Hoy for Mac",
+   "url": "https://www.producthunt.com/products/hoy-for-mac",
+   "tagline": "Walkie-talkie meets AirDrop meets Messages",
+   "published": "2026-11-11T22:29:56-08:00",
+   "published_iso": "2026-11-12T06:29:56+00:00",
+   "summary": "Walkie-talkie meets AirDrop meets Messages"
+  },
+  {
+   "id": "ph-66540c394ace2621",
+   "title": "Customer.io Fall Release",
+   "url": "https://www.producthunt.com/products/customer-io",
+   "tagline": "Smarter marketing through Agent-recommended experiments",
+   "published": "2026-11-03T12:58:12-08:00",
+   "published_iso": "2026-11-03T20:58:12+00:00",
+   "summary": "Smarter marketing through Agent-recommended experiments"
+  },
+  {
    "id": "ph-68c7fda9864eb3c7",
    "title": "RigSpark",
    "url": "https://www.producthunt.com/products/rigspark",
@@ -263,6 +434,15 @@
    "published": "2026-11-10T17:26:24-08:00",
    "published_iso": "2026-11-11T01:26:24+00:00",
    "summary": "Know which AI to run on your own computer"
+  },
+  {
+   "id": "ph-6a6924303f83d375",
+   "title": "YouArt Desktop App",
+   "url": "https://www.producthunt.com/products/youart",
+   "tagline": "Codex for creative team",
+   "published": "2026-11-07T18:11:55-08:00",
+   "published_iso": "2026-11-08T02:11:55+00:00",
+   "summary": "Codex for creative team"
   },
   {
    "id": "ph-6fc252072e103870",
@@ -274,6 +454,15 @@
    "summary": "AI-native IDE: agents code with human review"
   },
   {
+   "id": "ph-6ff8a057a63ddc4c",
+   "title": "Skysoon",
+   "url": "https://www.producthunt.com/products/skysoon",
+   "tagline": "Beautiful weather timelines and countdowns to what's next.",
+   "published": "2026-11-11T12:59:20-08:00",
+   "published_iso": "2026-11-11T20:59:20+00:00",
+   "summary": "Beautiful weather timelines and countdowns to what's next."
+  },
+  {
    "id": "ph-74647a4eee28cd39",
    "title": "Relay",
    "url": "https://www.producthunt.com/products/relaytoai",
@@ -281,6 +470,15 @@
    "published": "2026-11-03T17:29:16-08:00",
    "published_iso": "2026-11-04T01:29:16+00:00",
    "summary": "DocSend for AI agents: send and receive docs with context"
+  },
+  {
+   "id": "ph-7af642e4be71c72d",
+   "title": "Neura HQ",
+   "url": "https://www.producthunt.com/products/neura-4",
+   "tagline": "The agentic conversational storefront for consumer brands",
+   "published": "2026-11-04T03:07:16-08:00",
+   "published_iso": "2026-11-04T11:07:16+00:00",
+   "summary": "The agentic conversational storefront for consumer brands"
   },
   {
    "id": "ph-7bc7247af11e8a97",
@@ -337,6 +535,24 @@
    "summary": "A Mac browser that stays out of your screen shares"
   },
   {
+   "id": "ph-91b3b838036614d6",
+   "title": "Jot 2.0",
+   "url": "https://www.producthunt.com/products/jot-2-0",
+   "tagline": "Select text, tap Shift twice, it's a markdown file",
+   "published": "2026-11-11T14:13:57-08:00",
+   "published_iso": "2026-11-11T22:13:57+00:00",
+   "summary": "Select text, tap Shift twice, it's a markdown file"
+  },
+  {
+   "id": "ph-91cf89269db23198",
+   "title": "Plurai Simulation",
+   "url": "https://www.producthunt.com/products/plurai",
+   "tagline": "A simulated world that makes your agent improve on every run",
+   "published": "2026-11-05T11:33:30-08:00",
+   "published_iso": "2026-11-05T19:33:30+00:00",
+   "summary": "A simulated world that makes your agent improve on every run"
+  },
+  {
    "id": "ph-93257fe652e36414",
    "title": "FigSchema",
    "url": "https://www.producthunt.com/products/figschema",
@@ -353,6 +569,15 @@
    "published": "2026-11-10T22:12:05-08:00",
    "published_iso": "2026-11-11T06:12:05+00:00",
    "summary": "Product pages that collect subreddit sentiment"
+  },
+  {
+   "id": "ph-9b77b2aec1a14312",
+   "title": "Foxpit",
+   "url": "https://www.producthunt.com/products/foxpit",
+   "tagline": "Run Claude Code, Codex & OpenCode as one AI team",
+   "published": "2026-11-11T12:10:39-08:00",
+   "published_iso": "2026-11-11T20:10:39+00:00",
+   "summary": "Run Claude Code, Codex & OpenCode as one AI team"
   },
   {
    "id": "ph-9fc1c2ba32c4960e",
@@ -436,6 +661,33 @@
    "summary": "Give your AI agents access to your personal phone line"
   },
   {
+   "id": "ph-acfe3a0879908d28",
+   "title": "Omnigraph",
+   "url": "https://www.producthunt.com/products/omnigraph",
+   "tagline": "Open source graph database for your AI agents",
+   "published": "2026-10-30T07:36:05-07:00",
+   "published_iso": "2026-10-30T14:36:05+00:00",
+   "summary": "Open source graph database for your AI agents"
+  },
+  {
+   "id": "ph-b0cbdb5ff09c868e",
+   "title": "mang.sh",
+   "url": "https://www.producthunt.com/products/mang-sh",
+   "tagline": "Natural Language to Terminal Commands",
+   "published": "2026-11-10T09:35:14-08:00",
+   "published_iso": "2026-11-10T17:35:14+00:00",
+   "summary": "Natural Language to Terminal Commands"
+  },
+  {
+   "id": "ph-b147d169ee80eedb",
+   "title": "Adobe AI Assistant",
+   "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+   "tagline": "Create and edit faster with AI across Adobe apps",
+   "published": "2026-11-10T10:55:39-08:00",
+   "published_iso": "2026-11-10T18:55:39+00:00",
+   "summary": "Create and edit faster with AI across Adobe apps"
+  },
+  {
    "id": "ph-b493fb6f1f984bac",
    "title": "Seldon",
    "url": "https://www.producthunt.com/products/seldon",
@@ -475,10 +727,10 @@
    "id": "ph-b7bcab7837d3bb36",
    "title": "CALL-E",
    "url": "https://www.producthunt.com/products/call-e",
-   "tagline": "The phone line for AI agents",
+   "tagline": "Make phone calls with your AI agent (Muse, ChatGPT, Claude)",
    "published": "2026-10-28T11:49:25-07:00",
    "published_iso": "2026-10-28T18:49:25+00:00",
-   "summary": "The phone line for AI agents"
+   "summary": "Make phone calls with your AI agent (Muse, ChatGPT, Claude)"
   },
   {
    "id": "ph-ba8e906c5f28ffc6",
@@ -497,6 +749,24 @@
    "published": "2026-10-15T00:32:33-07:00",
    "published_iso": "2026-10-15T07:32:33+00:00",
    "summary": "Open Source AI Agent to Run Your Subscription Billing"
+  },
+  {
+   "id": "ph-c13138237e311466",
+   "title": "Marqly 7.0",
+   "url": "https://www.producthunt.com/products/marqly",
+   "tagline": "Bookmarks you can query to find the things you saved",
+   "published": "2026-11-11T09:31:09-08:00",
+   "published_iso": "2026-11-11T17:31:09+00:00",
+   "summary": "Bookmarks you can query to find the things you saved"
+  },
+  {
+   "id": "ph-c39804a03a9795db",
+   "title": "Offstage Cloud",
+   "url": "https://www.producthunt.com/products/offstage-cloud",
+   "tagline": "On-demand macOS sandboxes for AI agents",
+   "published": "2026-11-11T18:29:51-08:00",
+   "published_iso": "2026-11-12T02:29:51+00:00",
+   "summary": "On-demand macOS sandboxes for AI agents"
   },
   {
    "id": "ph-c575d9bb2601e3ca",
@@ -524,6 +794,15 @@
    "published": "2026-11-10T03:14:30-08:00",
    "published_iso": "2026-11-10T11:14:30+00:00",
    "summary": "Multi-camera videos with the phones you already own"
+  },
+  {
+   "id": "ph-caba14862fd51703",
+   "title": "Infinite Drive",
+   "url": "https://www.producthunt.com/products/infinite-drive",
+   "tagline": "A cloud drive you stream to give your laptop infinite space",
+   "published": "2026-11-11T12:40:33-08:00",
+   "published_iso": "2026-11-11T20:40:33+00:00",
+   "summary": "A cloud drive you stream to give your laptop infinite space"
   },
   {
    "id": "ph-cacad0167667ff3e",
@@ -571,13 +850,22 @@
    "summary": "Cold email infrastructure for AI agents"
   },
   {
+   "id": "ph-d8624c05c476e259",
+   "title": "Insight7 Voice AI Agents",
+   "url": "https://www.producthunt.com/products/insight7",
+   "tagline": "AI voice agents that call your customers for you",
+   "published": "2026-11-11T05:19:50-08:00",
+   "published_iso": "2026-11-11T13:19:50+00:00",
+   "summary": "AI voice agents that call your customers for you"
+  },
+  {
    "id": "ph-db0e76466dc21fce",
-   "title": "MuJoCo 4",
+   "title": "Gemini Decisions API",
    "url": "https://www.producthunt.com/products/google",
-   "tagline": "A physics engine for robots with its own studio",
-   "published": "2026-11-09T22:23:09-08:00",
-   "published_iso": "2026-11-10T06:23:09+00:00",
-   "summary": "A physics engine for robots with its own studio"
+   "tagline": "Fast, calibrated multimodal decisions",
+   "published": "2026-11-11T11:44:51-08:00",
+   "published_iso": "2026-11-11T19:44:51+00:00",
+   "summary": "Fast, calibrated multimodal decisions"
   },
   {
    "id": "ph-dcb419c0c328216d",
@@ -587,6 +875,15 @@
    "published": "2026-11-09T07:17:34-08:00",
    "published_iso": "2026-11-09T15:17:34+00:00",
    "summary": "Let your team change your custom site without touching code"
+  },
+  {
+   "id": "ph-dffbfea5c08048fc",
+   "title": "Cloudways Velocity",
+   "url": "https://www.producthunt.com/products/cloudways",
+   "tagline": "Managed Node.js hosting. Always warm, never off.",
+   "published": "2026-11-09T07:01:22-08:00",
+   "published_iso": "2026-11-09T15:01:22+00:00",
+   "summary": "Managed Node.js hosting. Always warm, never off."
   },
   {
    "id": "ph-e528e5e3630a37ed",
@@ -616,6 +913,24 @@
    "summary": "Read PDFs and EPUBs on iPhone Duo"
   },
   {
+   "id": "ph-eca0f10005136bd5",
+   "title": "Crossfade",
+   "url": "https://www.producthunt.com/products/crossfade",
+   "tagline": "Let your coding agent design in your open Figma file",
+   "published": "2026-11-11T18:56:39-08:00",
+   "published_iso": "2026-11-12T02:56:39+00:00",
+   "summary": "Let your coding agent design in your open Figma file"
+  },
+  {
+   "id": "ph-ee99d8c78c650df6",
+   "title": "AirWave",
+   "url": "https://www.producthunt.com/products/airwave-2",
+   "tagline": "Internet radio, at home on every Apple device",
+   "published": "2026-11-09T04:29:26-08:00",
+   "published_iso": "2026-11-09T12:29:26+00:00",
+   "summary": "Internet radio, at home on every Apple device"
+  },
+  {
    "id": "ph-efe260db106bbd52",
    "title": "Lottie AI",
    "url": "https://www.producthunt.com/products/lottiefiles",
@@ -623,6 +938,15 @@
    "published": "2026-11-09T00:16:41-08:00",
    "published_iso": "2026-11-09T08:16:41+00:00",
    "summary": "Editable vector animations from a text prompt"
+  },
+  {
+   "id": "ph-f2423242f80a9480",
+   "title": "Spacefast by Automattic",
+   "url": "https://www.producthunt.com/products/spacefast-by-automattic",
+   "tagline": "Give your AI agents a place to build, run, and ship",
+   "published": "2026-11-09T14:40:16-08:00",
+   "published_iso": "2026-11-09T22:40:16+00:00",
+   "summary": "Give your AI agents a place to build, run, and ship"
   },
   {
    "id": "ph-f39ab677e05b15f8",

@@ -1,7 +1,22 @@
 {
  "date": "2026-11-12",
- "generated_at": "2026-11-12T09:18:15.654067+08:00",
+ "generated_at": "2026-11-12T17:16:52.195129+08:00",
  "sources": {
+  "resonance": {
+   "title": "多源共振",
+   "emoji": "🔗",
+   "errors": [],
+   "items": [
+    {
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "meta": "Hacker News 热榜 · Product Hunt 新品",
+     "summary": "另见：Gemini Decisions API",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "rising": {
    "title": "飙升榜",
    "emoji": "📈",
@@ -10,7 +25,15 @@
     {
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "meta": "+667 分 / 6.9 小时 · 现 ⭐ 846",
+     "meta": "+985 分 / 14.9 小时 · 现 ⭐ 1164",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "meta": "+522 分 / 8.0 小时 · 现 ⭐ 985",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +41,15 @@
     {
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "meta": "+236 分 / 6.9 小时 · 现 ⭐ 404",
+     "meta": "+318 分 / 14.9 小时 · 现 ⭐ 486",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "93% of paint splatters are valid Perl programs (2019)",
+     "url": "https://www.mcmillen.dev/sigbovik/",
+     "meta": "+294 分 / 8.0 小时 · 现 ⭐ 411",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +57,15 @@
     {
      "title": "My AI agents found an unmapped Maya site?",
      "url": "https://pietromiotti.com/latest/maya-site",
-     "meta": "+146 分 / 6.9 小时 · 现 ⭐ 921",
+     "meta": "+210 分 / 14.9 小时 · 现 ⭐ 985",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "meta": "+208 分 / 8.0 小时 · 现 ⭐ 546",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,55 +73,31 @@
     {
      "title": "Hyper-Realistic Sand with WebGL2",
      "url": "https://av.github.io/safe-sand/",
-     "meta": "+130 分 / 6.9 小时 · 现 ⭐ 303",
+     "meta": "+200 分 / 14.9 小时 · 现 ⭐ 373",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-     "url": "https://github.com/FrigadeHQ/yogurt",
-     "meta": "+127 分 / 6.9 小时 · 现 ⭐ 167",
+     "title": "AWS emulator",
+     "url": "https://github.com/aws/aws-emulator",
+     "meta": "+180 分 / 8.0 小时 · 现 ⭐ 833",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Faster Retrieval for Better, More Efficient RAG",
-     "url": "https://machinelearning.apple.com/research/faster-retrieval",
-     "meta": "+110 分 / 6.9 小时 · 现 ⭐ 150",
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "meta": "+162 分 / 8.0 小时 · 现 ⭐ 421",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Atuin Threads: All your agent sessions on every machine",
-     "url": "https://blog.atuin.sh/threads-agent-sessions/",
-     "meta": "+74 分 / 6.9 小时 · 现 ⭐ 190",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "meta": "+63 分 / 6.9 小时 · 现 ⭐ 240",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-     "url": "https://news.ycombinator.com/item?id=50455811",
-     "meta": "+33 分 / 6.9 小时 · 现 ⭐ 48",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The hardest notes to find on the guitar",
-     "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-     "meta": "+29 分 / 6.9 小时 · 现 ⭐ 51",
+     "title": "Lock Your GitHub Actions",
+     "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+     "meta": "+139 分 / 8.0 小时 · 现 ⭐ 248",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -216,6 +231,133 @@
     }
    ]
   },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[推广] GPT plus 会员官方正版订阅代充值，欢迎 V 友咨询",
+     "url": "https://www.v2ex.com/t/1256537#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "充您自己的帐号，可以续费，不绑定任何 ID 和卡。 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅代充值 139 元/月，半小时内充好，可开正规公司发票。 (正版 plus 订阅代充，不需要的话请嘴下留情) GPT pro10x 和 pro20x 订阅也可以代充。 可联系绿色软件:big825 已帮 V 友代充超过 100 例，无任何一例发生售后。 可沉浸式全程",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] qwen4 max preview 怎么样？",
+     "url": "https://www.v2ex.com/t/1256534#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "有没有试过的大佬评价一下",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 裁员这件事情，是一定要的，因为鲁迅说过：",
+     "url": "https://www.v2ex.com/t/1256533#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "鲁迅说过： 中国人的性情是总喜欢调和，折中的。譬如你说，这屋子太暗，须在这里开一个窗，大家一定不允许的。但如果你主张拆掉屋顶，他们就会来调和，愿意开窗了。 ——鲁迅《无声的中国》 “裁员 50%”的传闻还不知道真假，但假如先让大家听到这个数字，之后再公布一个低一些的比例，原本难以接受的消息，可能就变成了“还好，没有那么多”。 屋顶保住了，窗户也就好开了。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 海边玩家的工具，想听听你的想法！",
+     "url": "https://www.v2ex.com/t/1256531#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "先把身份说清楚，免得被当成广告号：白天上班，晚上回家改 bug 的一个人，没团队、没预算、没运营。这个小程序是自己做的，运行了也有 2、3 年了，现在还活着，也有人真在用。 发帖不是为了刷屏推广(有些友们已经用过，看过，见过)，就三个问题：它现在哪里不行、还缺什么、需要什么。 它是什么 潮汐表表，一个微信小程序，查潮汐和天气的。 打开就是当前定位（也能手选城市）：一条潮汐曲线，涨落潮时间、潮高变化",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[职场话题] 我很痛苦，有点无病呻吟，但真的痛苦",
+     "url": "https://www.v2ex.com/t/1256529#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "我在广州外企，年入 55+，工作相对之前互联网很轻松，但相对同事比较忙。在 it 部门负责公司最核心的唯一的 app ，所有的展业基本都在上面，但由于 it 和业务互为竞争关系，斗的不行，我负责的 app 很重要，不能出问题，但由于都是给业务做工作，做了大量的工作只是给两个高绩效，涨薪别人三自己四这样，然后身边的人都升级，当然他们升级后才和我平级，薪水也比我低 5k-10k ，身边很多年龄大我 5",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] [送码] 波波抖音助手 7 天 VIP 体验码 10 个：推荐流挂机 + AI 神评，先到先得",
+     "url": "https://www.v2ex.com/t/1256526#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "大家好，我是波波抖音助手的开发者。 波波抖音助手是一个跑在抖音网页版上的 Chrome / Edge 扩展，主要做三件事： 推荐流自动浏览挂机，不用一直守着刷； 关键词搜索获客，在评论区找意向客户； 云端 AI 神评，评论自动生成，不用自己憋文案。 免费版每天有试用额度。这次放出 10 个 7 天 VIP 体验码，激活后 7 天内专业版功能随便用，先到先得。 ** [ 7 天 VIP 体验码] *",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 被领导叫去涨薪了",
+     "url": "https://www.v2ex.com/t/1256525#reply25",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "虽然只加了 2K ，但是也很开心啊 最近 V 站工作贴一片灰暗，给 V 友一些希望",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[深圳] 求租，深圳西丽周边的 3 房",
+     "url": "https://www.v2ex.com/t/1256524#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "现在住西丽珠光公寓两房两厅租金 5600 ，明年 4 月份到期打算搬个 3 房的，后面打算二胎家里来老人也要住，预算可以提高 1000 左右，太高就有点接受不了了",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 烧了 2000 万做电商系统，公司清算，复盘几个坑，也想听听这套东西还有没有残余价值",
+     "url": "https://www.v2ex.com/t/1256523#reply10",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "背景：公司做电商，投资人投了 2000 多万，系统完整做出来了：C 端商城（包含完整的会员，营销）、C 端 AI 导购、B 端商家端、商家入驻、平台管理端。运营没跑通，公司倒闭清算。我是合伙人，不卖东西，想复盘，也想听听懂行的人对这套资产残余价值的判断。 几个判断错的地方： 一、多商户入驻体系在冷启动阶段是纯负担。一开始就做平台梦，入驻审核、分账、结算全成了维护成本，商家都招不满。重来的话，单商户",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 写了个维基百科 Timeline 插件，可以逐年查看页面人物年龄变化并生成人物卡片",
+     "url": "https://www.v2ex.com/t/1256522#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "写了个维基百科 Timeline 插件 https://timeview.at/zh ，可以看拖动年份页面上的人物年龄变化、生成人物年龄动态卡片，喜欢的可以试一下。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Android] 国行刷港版及其他（S23U）",
+     "url": "https://www.v2ex.com/t/1256518#reply2",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "最近小米等手机因 systemhelp 闹得纷纷扬扬。刚巧十一假期闲着无事，把服役 3 年多的国行 S23U 刷成了港版，月初已经升级到 oneui9.0 ，刷机升级毫无波澜，也就那样。 简单说说一些港版本地化问题： 一是通话录音，港版 S23U 是自带通话录音的，但每次要手动开启，便利性跟国行没法比。 二是权限问题，国行有禁止读取应用程序列表功能，港版没有。 三是禁止联网功能。港版没有，虽然 o",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 开源一个 AI 中转站管理工具 Ferrydeck：一站式管理上下游、查账单、看异常",
+     "url": "https://www.v2ex.com/t/1256517#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "各位中转站的站长，我做了一个叫 Ferrydeck 的开源 Mac 桌面工具，给使用 new-api / sub2api 建站的 AI 中转站站长用，一次性把下面的痛点全部解决。 # 管理中转站的过程中有几个痛点 1 、不知道上游的余额，上游突然清零，用户请求中断半夜呼叫 2 、不知道哪个上游分组突然出故障，用户可能没有找你，但是信任没有了 3 、不知道上游的真实的成本、延迟、缓存情况 4 、对接",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 受给电驴装监控老哥的启发，我用 AI 搞了个手机哨兵！",
+     "url": "https://www.v2ex.com/t/1256516#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "在天网加持下，有人脸照片时，帽子叔叔找回物品难度大大降低。因此，用 ai 也搞了一个类似的，当有人捡到你的 iphone 把玩的时候，可以悄悄拍照、定位回传。 报警速度快的话，交给帽子叔叔，应该能在手机抵达华强北成为零件之前找到你的爱机。 https://find.655567.xyz/",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] Claude 号被封了？ 30 秒重新接入 Claude Code",
+     "url": "https://www.v2ex.com/t/1256515#reply0",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "刚给 Claude 充了 Max 就收到停用通知？！天塌了，好几个任务都做到一半，这怎么继续搞啊！？ 😡 换邮箱、换支付渠道、重新注册，然后去学习“保号攻略”，发现需要研究的知识点可太多了：挑网络、查 IP 、改时区。。。有人说“新号必须得先“养”几天，还有人建议别把付费额度用完。。。保号攻略却越看越多，越看头越大，越看越没底😧。。。 与其继续把时间花在研究怎么不被封号，不如先把手头的任务继续做下",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 我把历史事件做成了开卡包抽卡游戏",
+     "url": "https://www.v2ex.com/t/1256514#reply1",
+     "meta": "V2EX · 2026-11-12",
+     "summary": "之前做了历史上的今天 https://www.v2ex.com/t/1251569?p=1#reply13 后来觉得这些数据可以用来做更多事，于是做了一个开卡包抽卡游戏 抽一张卡，穿越回历史的某一天 每一次抽卡，都是一次穿越。 在「历史奇遇」里，你会随机抽到真实发生过的历史事件，可能是一场改变命运的战役，可能是一项影响至今的发明，也可能是某个平凡日子里悄悄写进史书的瞬间。 把抽到的历史事件收集成卡",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  },
   "github_search": {
    "title": "GitHub 新星榜",
    "emoji": "🚀",
@@ -232,7 +374,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 6257 · Swift",
+     "meta": "⭐ 6663 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -240,7 +382,7 @@
     {
      "title": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 3260 · C",
+     "meta": "⭐ 3363 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -248,7 +390,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2593 · C#",
+     "meta": "⭐ 2690 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -256,8 +398,16 @@
     {
      "title": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "meta": "⭐ 2036 · JavaScript",
+     "meta": "⭐ 2045 · JavaScript",
      "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "DIYgod/pinky",
+     "url": "https://github.com/DIYgod/pinky",
+     "meta": "⭐ 1929 · Go",
+     "summary": "Let AI agents use your phone, with you in the loop.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -278,14 +428,6 @@
      "origin_source": "github_search"
     },
     {
-     "title": "DIYgod/pinky",
-     "url": "https://github.com/DIYgod/pinky",
-     "meta": "⭐ 1870 · Go",
-     "summary": "Let AI agents use your phone, with you in the loop.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
      "meta": "⭐ 1717 · Python",
@@ -296,7 +438,7 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1546 · Swift",
+     "meta": "⭐ 1654 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
@@ -349,25 +491,17 @@
    "errors": [],
    "items": [
     {
-     "title": "My AI agents found an unmapped Maya site?",
-     "url": "https://pietromiotti.com/latest/maya-site",
-     "meta": "⭐ 921 · 💬 335",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "meta": "⭐ 846 · 💬 93",
+     "meta": "⭐ 1164 · 💬 130",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "AWS emulator",
-     "url": "https://github.com/aws/aws-emulator",
-     "meta": "⭐ 653 · 💬 215",
+     "title": "My AI agents found an unmapped Maya site?",
+     "url": "https://pietromiotti.com/latest/maya-site",
+     "meta": "⭐ 985 · 💬 358",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -375,7 +509,23 @@
     {
      "title": "Nvidia is preparing to oust Jensen Huang",
      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "meta": "⭐ 463 · 💬 677",
+     "meta": "⭐ 985 · 💬 1329",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AWS emulator",
+     "url": "https://github.com/aws/aws-emulator",
+     "meta": "⭐ 833 · 💬 233",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "meta": "⭐ 546 · 💬 535",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -383,7 +533,31 @@
     {
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "meta": "⭐ 404 · 💬 202",
+     "meta": "⭐ 486 · 💬 236",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "meta": "⭐ 421 · 💬 126",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "93% of paint splatters are valid Perl programs (2019)",
+     "url": "https://www.mcmillen.dev/sigbovik/",
+     "meta": "⭐ 411 · 💬 54",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "url": "https://av.github.io/safe-sand/",
+     "meta": "⭐ 373 · 💬 71",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -397,25 +571,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "meta": "⭐ 338 · 💬 321",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
      "meta": "⭐ 256 · 💬 143",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Hyper-Realistic Sand with WebGL2",
-     "url": "https://av.github.io/safe-sand/",
-     "meta": "⭐ 303 · 💬 64",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,17 +587,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Gemini Decisions API",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "meta": "⭐ 259 · 💬 80",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "meta": "⭐ 240 · 💬 36",
+     "title": "Lock Your GitHub Actions",
+     "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+     "meta": "⭐ 248 · 💬 47",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -453,17 +603,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Apple is killing its Support Community forum next week",
-     "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-     "meta": "⭐ 203 · 💬 111",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Using voltage glitching to unleash the A100 in my mining card",
-     "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-     "meta": "⭐ 191 · 💬 65",
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "url": "https://nathan.rs/posts/weight-space-lp/",
+     "meta": "⭐ 240 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -476,10 +618,42 @@
    "errors": [],
    "items": [
     {
+     "title": "Blendra",
+     "url": "https://www.producthunt.com/products/blendra",
+     "meta": "Product Hunt · 2026-11-12",
+     "summary": "Record a flow once and get a Playwright test project you own",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Toki Matter",
+     "url": "https://www.producthunt.com/products/toki-ai",
+     "meta": "Product Hunt · 2026-11-04",
+     "summary": "The Al agent that advances your matters",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Tokens by UI Colors",
      "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
      "meta": "Product Hunt · 2026-11-09",
      "summary": "Build your product’s visual language with design tokens",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "CanyonOS",
+     "url": "https://www.producthunt.com/products/canyon-code",
+     "meta": "Product Hunt · 2026-11-03",
+     "summary": "The One Platform for Scaling your Agentic Apps",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Gnista",
+     "url": "https://www.producthunt.com/products/gnista",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Run more coding agents, watch none of them",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -562,165 +736,6 @@
      "summary": "AI agents that turn buying signals into booked sales calls",
      "reason": null,
      "origin_source": "producthunt"
-    },
-    {
-     "title": "Xolace",
-     "url": "https://www.producthunt.com/products/xolace",
-     "meta": "Product Hunt · 2026-11-10",
-     "summary": "For the bad days you wouldn’t call a mental health problem",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Latch.ai",
-     "url": "https://www.producthunt.com/products/latch-ai-2",
-     "meta": "Product Hunt · 2026-10-28",
-     "summary": "Automate complex accounting work without a single prompt",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "SideKick By Open",
-     "url": "https://www.producthunt.com/products/open-for-sales",
-     "meta": "Product Hunt · 2026-11-09",
-     "summary": "“Claude, but for your product” is here.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Padrail",
-     "url": "https://www.producthunt.com/products/padrail",
-     "meta": "Product Hunt · 2026-11-10",
-     "summary": "Turn your MacBook trackpad edges into controls",
-     "reason": null,
-     "origin_source": "producthunt"
-    }
-   ]
-  },
-  "cn_rss": {
-   "title": "中文技术圈",
-   "emoji": "🏮",
-   "errors": [],
-   "items": [
-    {
-     "title": "[生活] 31 岁男前来讨教 V 吧老哥备孕秘籍",
-     "url": "https://www.v2ex.com/t/1256329#reply2",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] codex 貌似要重置了",
-     "url": "https://www.v2ex.com/t/1256328#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-     "url": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
-     "meta": "爱范儿 · 2026-11-12",
-     "summary": "黄仁勋的至暗时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 请问，有没有人把 magpie 的作者 yetone 的自动生产工作流研究出来呢。",
-     "url": "https://www.v2ex.com/t/1256327#reply4",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "看 twitter 上说，这个作者开发的 magpie 这软件，是全自动的。 先让 AI 生成一个软件，推广出去后，让 AI 定时去获取网络上的评论与 BUG 之类的信息，然后让 AI 继续分析这些反馈，最后让 AI 自动修复代码生成并重新发布出去。这样循环着。 但我也只了解一下大概，请问哪位大佬，是否已经有研究出相似的工作流，求文章学习一下。谢谢。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 感觉两台 16g 的 macmini，不如一台 32g 的 macmini",
-     "url": "https://www.v2ex.com/t/1256326#reply5",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "因为我几乎什么软件都没开，就已经占用 8g 多了好像",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Surge] 最新版支持 vless 了，大家还买吗？",
-     "url": "https://www.v2ex.com/t/1256325#reply7",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "好像是传言有人有 ai 解了授权并且新增了 vless 协议支持，然后 surge 马上发布支持了 vless ，界面都还没来得及加，这波是违背祖训了，万人血书好几年不加 vless ，被 ai 教育了。 https://manual.nssurge.com/policies/vless.html",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] Claude 没被封，谷歌账号被封了，还能继续使用 Claude 吗？",
-     "url": "https://www.v2ex.com/t/1256322#reply5",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "谷歌账号最近 ip 变动频繁被封了，申诉不通过，对应的 Claude 账号还在正常使用，之后不退出能一直用吗？或者谷歌账号还能抢救一下吗？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
-     "url": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
-     "meta": "爱范儿 · 2026-11-12",
-     "summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[iPhone] 感觉微信和抖音不打算适配 iPhone duo 了",
-     "url": "https://www.v2ex.com/t/1256321#reply7",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "真后悔买这个手机 微信 抖音 美团 拼多多都没法用，这些 APP 功能复杂适配起来确实麻烦。 这手机以后卖二手都没法卖",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 小米 17 在拼多多上比京东便宜了 400，靠谱吗",
-     "url": "https://www.v2ex.com/t/1256319#reply9",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[职场话题] 网传腾讯要向社会输送大量人才",
-     "url": "https://www.v2ex.com/t/1256318#reply7",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "真的假的，有没有内部小伙伴消息。 https://i.imgur.com/yecWXSN.jpeg",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[OpenAI] 有没有办法在 Codex 里用 API 额度",
-     "url": "https://www.v2ex.com/t/1256317#reply4",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "前这日子 openai 赠送了 api 额度， 有没有办法在 codex 里用上啊",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Apple] surge 6.0 已开始支持 vless",
-     "url": "https://www.v2ex.com/t/1256316#reply5",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "前段时间有人逆向加入了 vless macOS 不需要再转接",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[创业组队] 有项目想做？寻找 AI 开发与创业合作伙伴？",
-     "url": "https://www.v2ex.com/t/1256315#reply2",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "有项目想做？寻找 AI 开发与创业合作伙伴？ 你有好的产品想法，却缺少技术资源？正在开发 SaaS、AI 应用、软件或游戏，希望找到靠谱的技术合作伙伴？ 也许我们可以一起做点有意思的事情。 我是一名常驻美洲的独立软件工程师，拥有丰富的软件开发方向和 AI 辅助开发能力，可以在当地合规自由地使用 Claude、OpenAI Codex 等先进 AI 开发工具。 我能提供的技术支持： 全栈 Web 开",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 请问上海正常价格能给 Apple Watch se 换电池并上胶防水途径？",
-     "url": "https://www.v2ex.com/t/1256314#reply1",
-     "meta": "V2EX · 2026-11-11",
-     "summary": "同事小孩 2020 一直带着 Apple Watch Se 蜂窝的非国行手表，最近发现电池不行了。 因为蜂窝功能和 FaceTime audio （包括对讲机）同时是刚需，而内地运营商不再给非国行 Apple Watch 提供 eSIM 独立终端服务，使得手表无法去内地或香港的苹果直营店换电池。 目前同事想到的解决方案是找靠谱的商家换电池并因为现在每周都需要戴着游泳，故需要换电池时上胶防水。 不知",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   }
