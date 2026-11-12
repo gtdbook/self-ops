@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T10:45:10.629104+08:00",
+ "updated_at": "2026-11-12T11:47:13.959286+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -222,6 +222,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "code(12次→+1.81)、claude(10次→+1.43)、every(8次→+1.85)、goodbye(6次→+1.43)、ask(6次→+2.65)、released(5次→+0.50)、flash(5次→+2.26)、without(4次→+0.50)"
+  },
+  {
+   "ts": "2026-11-12T11:47:13.959286+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "code(12次→+2.22)、every(10次→+2.26)、claude(10次→+1.85)、source(6次→+0.95)、open(6次→+0.95)、goodbye(6次→+1.85)、released(5次→+0.97)、flash(5次→+2.65)"
   }
  ]
 }
