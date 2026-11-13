@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-13T07:12:39.311455+08:00",
- "count": 43,
+ "updated_at": "2026-11-13T13:01:56.316277+08:00",
+ "count": 52,
  "items": [
   {
    "id": "hn-50425017",
@@ -136,14 +136,18 @@
    "title": "Relax: JIT compiler for Rust to reduce build times",
    "url": "https://makepad.github.io/relax/",
    "hn_url": "https://news.ycombinator.com/item?id=50458849",
-   "score": 87,
-   "comments": 39,
+   "score": 138,
+   "comments": 59,
    "author": "adamnemecek",
    "time_iso": "2026-11-11T21:20:01+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 87
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 138
     }
    ]
   },
@@ -176,6 +180,22 @@
     {
      "t": "2026-11-13T01:54:59.173100+08:00",
      "score": 548
+    }
+   ]
+  },
+  {
+   "id": "hn-50460263",
+   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+   "url": "https://github.com/jjba23/sift",
+   "hn_url": "https://news.ycombinator.com/item?id=50460263",
+   "score": 32,
+   "comments": 3,
+   "author": "jjba23",
+   "time_iso": "2026-11-11T23:09:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 32
     }
    ]
   },
@@ -236,8 +256,8 @@
    "title": "Anthropic IPO",
    "url": "https://ipo.anthropic.com/us/",
    "hn_url": "https://news.ycombinator.com/item?id=50465829",
-   "score": 775,
-   "comments": 767,
+   "score": 864,
+   "comments": 830,
    "author": "josephljohnston",
    "time_iso": "2026-11-12T11:46:41+00:00",
    "history": [
@@ -248,6 +268,10 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 775
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 864
     }
    ]
   },
@@ -256,14 +280,18 @@
    "title": "Adapting CPython for Yk",
    "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
    "hn_url": "https://news.ycombinator.com/item?id=50466410",
-   "score": 34,
-   "comments": 1,
+   "score": 61,
+   "comments": 2,
    "author": "frostbyte7",
    "time_iso": "2026-11-12T12:51:38+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 34
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 61
     }
    ]
   },
@@ -272,8 +300,8 @@
    "title": "Jensen Huang resigns",
    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
    "hn_url": "https://news.ycombinator.com/item?id=50467087",
-   "score": 2673,
-   "comments": 2560,
+   "score": 3176,
+   "comments": 2959,
    "author": "lldb",
    "time_iso": "2026-11-12T13:52:29+00:00",
    "history": [
@@ -284,6 +312,10 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 2673
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 3176
     }
    ]
   },
@@ -324,8 +356,8 @@
    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
    "hn_url": "https://news.ycombinator.com/item?id=50467460",
-   "score": 173,
-   "comments": 2,
+   "score": 205,
+   "comments": 3,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-12T14:12:37+00:00",
    "history": [
@@ -336,6 +368,10 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 173
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 205
     }
    ]
   },
@@ -344,8 +380,8 @@
    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
    "hn_url": "https://news.ycombinator.com/item?id=50467618",
-   "score": 229,
-   "comments": 78,
+   "score": 252,
+   "comments": 91,
    "author": "klaussilveira",
    "time_iso": "2026-11-12T14:18:49+00:00",
    "history": [
@@ -356,6 +392,10 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 229
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 252
     }
    ]
   },
@@ -412,8 +452,8 @@
    "title": "I'm making LLMs work on small and old devices",
    "url": "https://github.com/hyperionaidev/smolmaxxing/",
    "hn_url": "https://news.ycombinator.com/item?id=50468888",
-   "score": 253,
-   "comments": 86,
+   "score": 308,
+   "comments": 103,
    "author": "mrashad74",
    "time_iso": "2026-11-12T15:23:10+00:00",
    "history": [
@@ -424,6 +464,10 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 253
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 308
     }
    ]
   },
@@ -484,14 +528,18 @@
    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
    "url": "https://github.com/simpsoka/zigzag",
    "hn_url": "https://news.ycombinator.com/item?id=50470488",
-   "score": 252,
-   "comments": 103,
+   "score": 406,
+   "comments": 155,
    "author": "simpsoka",
    "time_iso": "2026-11-12T17:02:42+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 252
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 406
     }
    ]
   },
@@ -548,14 +596,18 @@
    "title": "Gemini 4 Hydrogen",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
    "hn_url": "https://news.ycombinator.com/item?id=50471431",
-   "score": 413,
-   "comments": 278,
+   "score": 494,
+   "comments": 315,
    "author": "dvaplima",
    "time_iso": "2026-11-12T18:01:48+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 413
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 494
     }
    ]
   },
@@ -580,30 +632,38 @@
    "title": "Service degradation on Microsoft 365",
    "url": "https://status.cloud.microsoft/",
    "hn_url": "https://news.ycombinator.com/item?id=50471731",
-   "score": 380,
-   "comments": 371,
+   "score": 649,
+   "comments": 609,
    "author": "dkpk",
    "time_iso": "2026-11-12T18:20:48+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 380
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 649
     }
    ]
   },
   {
    "id": "hn-50471761",
-   "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
    "hn_url": "https://news.ycombinator.com/item?id=50471761",
-   "score": 115,
-   "comments": 13,
+   "score": 158,
+   "comments": 29,
    "author": "ozirus",
    "time_iso": "2026-11-12T18:22:22+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 115
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 158
     }
    ]
   },
@@ -612,14 +672,18 @@
    "title": "Rust 1.100",
    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
    "hn_url": "https://news.ycombinator.com/item?id=50472038",
-   "score": 277,
-   "comments": 132,
+   "score": 531,
+   "comments": 218,
    "author": "mbStavola",
    "time_iso": "2026-11-12T18:39:05+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 277
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 531
     }
    ]
   },
@@ -628,14 +692,18 @@
    "title": "Gemini 4 Hydrogen and Orchestrator",
    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
    "hn_url": "https://news.ycombinator.com/item?id=50472260",
-   "score": 217,
-   "comments": 57,
+   "score": 351,
+   "comments": 94,
    "author": "jonbaer",
    "time_iso": "2026-11-12T18:52:01+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 217
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 351
     }
    ]
   },
@@ -644,14 +712,18 @@
    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
    "hn_url": "https://news.ycombinator.com/item?id=50472490",
-   "score": 159,
-   "comments": 69,
+   "score": 234,
+   "comments": 107,
    "author": "cybermango",
    "time_iso": "2026-11-12T19:05:33+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 159
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 234
     }
    ]
   },
@@ -672,18 +744,54 @@
    ]
   },
   {
+   "id": "hn-50473190",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "hn_url": "https://news.ycombinator.com/item?id=50473190",
+   "score": 164,
+   "comments": 208,
+   "author": "jbredeche",
+   "time_iso": "2026-11-12T19:51:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 164
+    }
+   ]
+  },
+  {
+   "id": "hn-50473888",
+   "title": "Announcement: Conductor Is Back",
+   "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+   "hn_url": "https://news.ycombinator.com/item?id=50473888",
+   "score": 25,
+   "comments": 15,
+   "author": "jahala",
+   "time_iso": "2026-11-12T20:37:55+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
    "id": "hn-50474311",
    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
    "hn_url": "https://news.ycombinator.com/item?id=50474311",
-   "score": 33,
-   "comments": 24,
+   "score": 137,
+   "comments": 126,
    "author": "anigbrowl",
    "time_iso": "2026-11-12T21:09:49+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 137
     }
    ]
   },
@@ -692,14 +800,34 @@
    "title": "Foundation Models framework",
    "url": "https://developer.apple.com/foundation-models-framework/",
    "hn_url": "https://news.ycombinator.com/item?id=50474361",
-   "score": 70,
-   "comments": 9,
+   "score": 169,
+   "comments": 22,
    "author": "kermatt",
    "time_iso": "2026-11-12T21:13:26+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 70
+    },
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 169
+    }
+   ]
+  },
+  {
+   "id": "hn-50474586",
+   "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+   "url": "https://github.com/KoljaB/RealtimeVAD",
+   "hn_url": "https://news.ycombinator.com/item?id=50474586",
+   "score": 8,
+   "comments": 0,
+   "author": "koljab",
+   "time_iso": "2026-11-12T21:30:57+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 8
     }
    ]
   },
@@ -716,6 +844,86 @@
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 56
+    }
+   ]
+  },
+  {
+   "id": "hn-50475713",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "hn_url": "https://news.ycombinator.com/item?id=50475713",
+   "score": 145,
+   "comments": 35,
+   "author": "sroussey",
+   "time_iso": "2026-11-12T23:06:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 145
+    }
+   ]
+  },
+  {
+   "id": "hn-50477231",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "hn_url": "https://news.ycombinator.com/item?id=50477231",
+   "score": 257,
+   "comments": 210,
+   "author": "lavendermon",
+   "time_iso": "2026-11-13T02:16:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 257
+    }
+   ]
+  },
+  {
+   "id": "hn-50477649",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "url": "https://brave.com/blog/search-api-agentic-payments/",
+   "hn_url": "https://news.ycombinator.com/item?id=50477649",
+   "score": 9,
+   "comments": 1,
+   "author": "sjdh76",
+   "time_iso": "2026-11-13T03:08:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50477714",
+   "title": "Switcher (2004)",
+   "url": "https://folklore.org/Switcher.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50477714",
+   "score": 48,
+   "comments": 8,
+   "author": "sammatilda",
+   "time_iso": "2026-11-13T03:14:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50477993",
+   "title": "Show HN: I built a Rick and Morty explainer video generator",
+   "url": "https://usediorama.com/rick-and-morty",
+   "hn_url": "https://news.ycombinator.com/item?id=50477993",
+   "score": 9,
+   "comments": 11,
+   "author": "dixitbavu",
+   "time_iso": "2026-11-13T03:47:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T13:01:56.316277+08:00",
+     "score": 9
     }
    ]
   }

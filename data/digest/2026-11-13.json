@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T07:12:52.970151+08:00",
+ "generated_at": "2026-11-13T13:02:06.119579+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -10,7 +10,15 @@
     {
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "meta": "+1112 分 / 5.3 小时 · 现 ⭐ 2673",
+     "meta": "+1615 分 / 11.1 小时 · 现 ⭐ 3176",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "meta": "+269 分 / 5.8 小时 · 现 ⭐ 649",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +26,15 @@
     {
      "title": "Anthropic IPO",
      "url": "https://ipo.anthropic.com/us/",
-     "meta": "+171 分 / 5.3 小时 · 现 ⭐ 775",
+     "meta": "+260 分 / 11.1 小时 · 现 ⭐ 864",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "meta": "+254 分 / 5.8 小时 · 现 ⭐ 531",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +42,23 @@
     {
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "meta": "+162 分 / 5.3 小时 · 现 ⭐ 253",
+     "meta": "+217 分 / 11.1 小时 · 现 ⭐ 308",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "meta": "+154 分 / 5.8 小时 · 现 ⭐ 406",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "meta": "+134 分 / 5.8 小时 · 现 ⭐ 351",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -34,15 +66,15 @@
     {
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "meta": "+98 分 / 5.3 小时 · 现 ⭐ 229",
+     "meta": "+121 分 / 11.1 小时 · 现 ⭐ 252",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-     "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "meta": "+68 分 / 5.3 小时 · 现 ⭐ 343",
+     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+     "meta": "+104 分 / 5.8 小时 · 现 ⭐ 137",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -50,15 +82,7 @@
     {
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "meta": "+67 分 / 5.3 小时 · 现 ⭐ 173",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-     "url": "https://github.com/chocoford/ExcalidrawZ",
-     "meta": "+53 分 / 5.3 小时 · 现 ⭐ 98",
+     "meta": "+99 分 / 11.1 小时 · 现 ⭐ 205",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -99,6 +123,14 @@
      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
      "meta": "TechCrunch AI · 2026-11-12",
      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "meta": "OpenAI · 2026-11-12",
+     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
      "reason": null,
      "origin_source": "blog_rss"
     },
@@ -181,14 +213,6 @@
      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Making it easier for websites to express AI training preferences",
-     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-     "meta": "OpenAI · 2026-10-30",
-     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -198,122 +222,122 @@
    "errors": [],
    "items": [
     {
-     "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
-     "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
-     "meta": "爱范儿 · 2026-11-12",
-     "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "title": "[分享发现] 分享个新加坡的手机卡套餐，每月 788G 流量，可在中国用。",
+     "url": "https://www.v2ex.com/t/1256774#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "以防还有人不知道，这个是运营商 eight 家的套餐，用的 StarHub 网络。 14.8 SGD ，每月有 788G 流量可以做包括中国的好多地方用。流量还能滚存 8 个月。 只要有新加坡长期签证，学生签工作签，都可以办。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] codex tibo 说重置，我还没收到，你们呢？",
-     "url": "https://www.v2ex.com/t/1256652#reply2",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "",
+     "title": "[问与答] 德芙纵享出轨巧克力罚 80w，那罗技狗子专用鼠标为什么没罚?",
+     "url": "https://www.v2ex.com/t/1256773#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "德芙被罚难道是因为账号是官方旗舰店，而罗技是授权运营，所以不受影响？",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[宽带症候群] 微软挂了吗？ 都挂了哪些服务？ Live 邮箱不能用",
-     "url": "https://www.v2ex.com/t/1256651#reply2",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "这应该是历史头一回吧",
+     "title": "[程序员] 整了个 Markdown 写简历的前端项目，模版漂亮，开源免费",
+     "url": "https://www.v2ex.com/t/1256772#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "之前用的是 python 的，但是感觉部署太麻烦了。 最近刚好要整理简历，所以换成 javascript 的，调试花了不少时间。现在可以直接部署 cloudflare 上，简单明了，不用一直担心服务器不稳定啥的。最重要的是不需要服务器的费用。 现在使用起来还是比较顺滑的，界面简单漂亮。 大家给提点意见，在 github 上了。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Claude] 半小时前死了",
-     "url": "https://www.v2ex.com/t/1256649#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "三天前刚经过一次 kyc ，当时用的是护照。半小时前弹门户 kyc ，然后提交护照后马上死了。",
+     "title": "[Claude] 欧盟的工作签可以用来申请解封吗？",
+     "url": "https://www.v2ex.com/t/1256771#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "内容 rt 爱尔兰的工作签之类的这种能用作解封吗？ 是 portal 触发的",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享发现] 推荐一个新的 Linux 输入法，好用!",
-     "url": "https://www.v2ex.com/t/1256648#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "很久以前用的是搜狗输入法，后面搜狗输入法不再兼容 ubuntu22.04 后的系统 于是换成了 rime+雾凇拼音，但是这个输入法的配置比较复杂，麻烦，而且拼音也不是很好用。 最近发现了一个新的输入法，脚本一键安装，响应速度很快，支持离线语音输入，推荐给使用 linux 的用户。 https://github.com/Gloridust/WowType",
+     "title": "[Claude] claude 暂时还没被封",
+     "url": "https://www.v2ex.com/t/1256770#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "claude max 套餐，现在还能使用，但是也不知道什么时候会 kyc 目前固定使用美国机房 IP （ IP 用了好几年了） 使用 claude ，本地设备也是固定 2 台 mac 设备，模型一直使用 opus 5.5 ，没有用最新的 fable 模型。 平时很少用满，周额度的 60% 左右。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 有什么靠谱 opus fable 中转站吗？",
-     "url": "https://www.v2ex.com/t/1256647#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "",
+     "title": "[分享创造] 把你的浏览器变成博物馆！",
+     "url": "https://www.v2ex.com/t/1256768#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "🎉 当当当，新品上线，用名画作为你的新标签页！ 快来试试「 ArtTab 」吧，每天打开电脑，都能静静欣赏一幅艺术品，收获一份好心情⬇️ https://chromewebstore.google.com/detail/arttab-%E2%80%94-daily-museum-art/ooogeffdjikcfmeomlkjmchhfiabdemb",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google Gemini] jio 会员突然被封了",
-     "url": "https://www.v2ex.com/t/1256646#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "“ This service has been disabled in this account for violation of Terms of Service. Please submit an appeal to continue using this product. ” 没有反代，antigravity 版本 2.31.2 (1019359392)正常使用的....不知道为啥突然显示这",
+     "title": "[iDev] 开发者缴费一直失败",
+     "url": "https://www.v2ex.com/t/1256767#reply5",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "刚注册完的公司账号，然后死活无法交费，请问有老板遇到吗？ 试了好多张卡，银联的，visa ，m ，反正国内国外的都试过了，都是 Authorization Failed 感觉苹果根本没有去扣费，银行那边是没有收到扣费的请求",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 番茄钟上架招募 Google Play 测试人员，可互测",
-     "url": "https://www.v2ex.com/t/1256644#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "求各位大大帮忙测一下「禅意番茄钟 Zen Tomato 」，一个离线番茄钟，无广告。应用原本收费，测试可以免费领取兑换码，不用付款。 加入步骤： 加入测试群组，点击“加入群组”即可，无需等待审批： https://groups.google.com/g/zen-tomato-testers 加入 Google Play 封测。用手机 Play 商店的同一个 Google 账号打开下面链接，点击“成",
+     "title": "[Claude] 有神仙老哥还没被 Claude 炸号、KYC 的吗，可以分享一下经验吗？",
+     "url": "https://www.v2ex.com/t/1256766#reply8",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "这风控力度是要赶尽杀绝啊",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google Gemini] Gemini 4 Hydrogen 替换了 3.8Flash 位置",
-     "url": "https://www.v2ex.com/t/1256643#reply1",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "又涨价了，具体看它自己介绍： Google 放弃了原有的 Pro / Flash 后缀，改用化学元素命名产品线——其中 Carbon （碳） 和 Argon （氩） 对标原 Pro 旗舰推理模型，而 Hydrogen （氢） 则承接了原 Flash 的高速与高频调用定位。 相比上一代的 3.8 Flash ，Gemini 4 Hydrogen 的任务完成速度提升了 2.5 倍，智能与编程能力大幅跃",
+     "title": "[分享创造] 给 DeepSeek Harness 的天气插件补了 25 张壁纸，界面变成一层玻璃",
+     "url": "https://www.v2ex.com/t/1256765#reply1",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "两天前在 V 站发过「檐下」这个 DeepSeek Harness 天气插件（雨 / 雪 / 炉火）。这两天被问最多的一个问题是：日常写代码不可能一直开着雨雪的动画，那背景是不是就只剩一块纯色？ 于是补了壁纸，顺手把一个挺隐蔽的坑挖了出来，一起记录一下。 25 张壁纸，不是同一张图换四个滤镜 4 张主视觉 + 18 张同一个世界观的故事系列 + 3 张程序化绘制（ tools/ make-wall",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[酷工作] 杭州 AI 短剧初创招人 算法-agent-全栈",
-     "url": "https://www.v2ex.com/t/1256642#reply1",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "[ 全职] 目前 2 个人加 1 个实习生扛着 AI 视频生产线，想再找几个爱折腾的人 先说现状：我们是一个 AI 短剧初创团队，已经做了一年多了，目前自动化短剧跑的挺好，目前算法这边两个正式加一个实习。要做的想做的有点多，所以来发帖招些人。 我们在做什么 AI 影视内容的生产工具链，从剧本一路到成片： 剧本结构化 CLI ：把 txt / docx / 视频 / PDF 漫画转成结构化剧本，支持",
+     "title": "[人工智能] 把 IDE 的工作空间思路用到 AI 办公里",
+     "url": "https://www.v2ex.com/t/1256764#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "我们在做 Tokeny ，一个桌面 AI Agent ，来自荐一下。 它和常见 AI 聊天工具比较不一样的地方，是组织工作的思路：我们借用了 IDE 里“项目 / 工作空间”的概念。 很多 AI 工具以会话为中心。这次聊天上传几份文件，下次换个对话再重新描述背景，生成的结果也散落在不同会话里。写代码时我们更习惯另一种方式：打开一个项目，文件、终端、上下文和后续改动都围绕它展开。Tokeny 想把这",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 专为 V2EX 设计的内嵌式域名查询脚本❤️",
-     "url": "https://www.v2ex.com/t/1256641#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "脚本会自动识别帖子内的域名并无感插入同色系图标，点击图标可以直接显示域名基础信息。让这个查询过程极其简单，适合域名佬或喜欢域名的朋友。 油猴脚本的完整代码： https://greasyfork.org/zh-CN/scripts/605143-v2ex-domain-magnifier",
+     "title": "[宽带症候群] 上海联通开通公网后，某些 IP 无法访问任何境外网站，这个怎么解决？",
+     "url": "https://www.v2ex.com/t/1256763#reply4",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "最近突然发现，有些时候会突然无法访问任何境外网站，包括没有被墙的，所有都没办法访问。 同一时间如果有联通手机是正常的。如果尝试关闭光猫重新拨号，有时候能恢复。 我光纤猫弄了桥接，有公网 IP 。 联系联通安装师傅，师傅说我这个公网 IP 被屏蔽了，让我重启换 IP 试试。 但这也不是长久的解决办法啊，如何解决这个问题呢？ 下面的宽带和手机的 traceroute ，目标的 github 的 IP ",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 威科夫分析 agent: 自动画线标注股票分析",
-     "url": "https://www.v2ex.com/t/1256640#reply1",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "威科夫（ wyckoff ）交易方法是裸 k 交易的经典理论，基本逻辑散户知道信息一定不比主力多，但是所有信息都已经反应在股价上，只看量和价就能知道一切。 基于最近做了个量价分析工具 EasyWyckoff ，来找 V 友当第一批用户，也请大家给点反馈。 前 100 位完成注册的新用户，每人赠送 10 次分析额度。 体验地址：easywyckoff.online",
+     "title": "[分享创造] 给 DeepSeek Harness 做了个 iPhone 客户端 DeepPilot， TestFlight 已开",
+     "url": "https://www.v2ex.com/t/1256762#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "用 DSH （ DeepSeek Harness ）跑任务时，它经常停下来等批准，人不在电脑前就一直卡着。所以做了个 iPhone 客户端，叫 DeepPilot 。 能做什么 看项目、会话和 Agent 的实时输出 Agent 要批准或者问问题时，手机上直接处理 锁屏推送提醒，不用一直盯着 发提示词、切模型、新建会话 会话里出现的 localhost 链接（比如 Agent 起的开发服务器），可",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[游戏] 用海马云电脑玩《影之零刃》的体验：一坨",
-     "url": "https://www.v2ex.com/t/1256639#reply1",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "《影之零刃》官方建议把游戏装在 SSD 盘 然而这家他们把这个游戏装在 HHD 盘了，着色器编译龟速运行。然后本机有 SSD 分区，故意不显示，我尝试把游戏搬到 SSD 里，等待龟速搬运进度条的时候正当觉得自己很聪明的时候突然发现我 TM 为什么要花钱干这事，全都是我花钱买的时长啊，然后关机退出了。 我还开了一个月的会员；此刻非常想退钱",
+     "title": "[生活] 老黄的唏嘘带给各位华人同胞的感想是什么",
+     "url": "https://www.v2ex.com/t/1256761#reply6",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "有人说, 作为科技皇冠上的明珠行业- 芯片, 几乎被华人垄断是昂克撒不可接受的. (NVIDIA/AMD/Intel/Broadcom/TSMC/MediaTek...) 也有人说, 近半个世纪华人的贫穷与颠沛流离, 让这代人天生没有底气, 去团结去抗争. 也有人说, 00 后 10 后是幸运的,站在足足两代人的肩膀上. 个人更感慨的不是件本身的唏嘘, 而是事件发生后, 世界不同地方不同身份华人的",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[游戏] 用海马云电脑玩《影之零刃》的体验：一坨",
-     "url": "https://www.v2ex.com/t/1256639#reply0",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "《影之零刃》官方建议把游戏装在 SSD 盘 然而这家他们把这个游戏装在 HHD 盘了，着色器编译龟速运行。然后本机有 SSD 分区，故意不显示，我尝试把游戏搬到 SSD 里，等待龟速搬运进度条的时候正当觉得自己很聪明的时候突然发现我 TM 为什么要花钱干这事，全都是我花钱买的时长啊，然后关机退出了。 我还开了一个月的会员；此刻非常想退钱",
+     "title": "[分享创造] 双十一后，来发些码，永久码!",
+     "url": "https://www.v2ex.com/t/1256760#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "https://apps.apple.com/cn/app/purely-ad-blocker-privacy/id6757303103 一款去浏览器广告的 App iOS： FW6N76WR49AF MPPLFPYWRTJ6 9RRFJHYWRATE ENXFXME7HFAE PXXYLKF7KMF6 69PAXT634WH6 NRWYJFNHEAY9 4YHN97KHK4XL TFALRTP4",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[求职] # 今天找工作差点被骗了，大家小心",
-     "url": "https://www.v2ex.com/t/1256638#reply1",
-     "meta": "V2EX · 2026-11-12",
-     "summary": "先说下原因哈，java 后端。9 月份初离职后找不到工作后续海投简历没有响应。 今天邮箱突然收到一份上市公司招聘邮件。聊了半天后去腾讯会议聊具体工作职位和要求到深圳面试 报销路费，让你现在买票然后报销 和你说财务在乐博投屏开会，让你去哪找他报销机票 在这个 app 里边会有一个共享投屏，他会让你把收款码投出来。 但是默认时付款码，一旦不注意当前绑定的微信或支付宝里边的钱就都会被转走。大家小心 顺便",
+     "title": "[问与答] 求不吃铁饭碗的恶心对方小妙招",
+     "url": "https://www.v2ex.com/t/1256759#reply5",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "坐标小区，自家养的是萨摩耶公狗。因为公狗见面容易打架，我平时都会尽量避免和同小区两只泰迪碰面。对方两只泰迪基本不牵绳。 之前有一次在小区碰上了，我怕自家萨摩耶体型大，万一咬到对方狗事情更大，就把自家狗抱起来。结果对方狗没牵绳，从我后面咬了我小腿。当时不知道破没破皮，但青紫发黑一片。家里不放心，还是去打了疫苗。对方后来给我报销了。因为年前打过疫苗，所以只需要补两针，大概 200 左右。 昨天又碰到了",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -327,7 +351,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 6926 · Swift",
+     "meta": "⭐ 7007 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -335,7 +359,7 @@
     {
      "title": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "meta": "⭐ 3552 · C",
+     "meta": "⭐ 3623 · C",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -343,7 +367,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2755 · C#",
+     "meta": "⭐ 2790 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -367,7 +391,7 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1722 · Swift",
+     "meta": "⭐ 1746 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
@@ -375,8 +399,16 @@
     {
      "title": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "meta": "⭐ 1302 · Python",
+     "meta": "⭐ 1340 · Python",
      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "agentes-chat/agentes-chat",
+     "url": "https://github.com/agentes-chat/agentes-chat",
+     "meta": "⭐ 1229 · TypeScript",
+     "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -435,14 +467,6 @@
      "summary": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
      "reason": null,
      "origin_source": "github_search"
-    },
-    {
-     "title": "Arda313131882/aion-2-trainer-tool",
-     "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
-     "meta": "⭐ 1199 · HTML",
-     "summary": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-     "reason": null,
-     "origin_source": "github_search"
     }
    ]
   },
@@ -454,7 +478,7 @@
     {
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "meta": "⭐ 2673 · 💬 2560",
+     "meta": "⭐ 3176 · 💬 2959",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -470,7 +494,15 @@
     {
      "title": "Anthropic IPO",
      "url": "https://ipo.anthropic.com/us/",
-     "meta": "⭐ 775 · 💬 767",
+     "meta": "⭐ 864 · 💬 830",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "meta": "⭐ 649 · 💬 609",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -492,17 +524,33 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "meta": "⭐ 413 · 💬 278",
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "meta": "⭐ 531 · 💬 218",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Service degradation on Microsoft 365",
-     "url": "https://status.cloud.microsoft/",
-     "meta": "⭐ 380 · 💬 371",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "meta": "⭐ 494 · 💬 315",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "meta": "⭐ 406 · 💬 155",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "meta": "⭐ 351 · 💬 94",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -524,49 +572,25 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "meta": "⭐ 308 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nvidia employees petition to bring back Jensen Huang",
+     "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+     "meta": "⭐ 257 · 💬 210",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "A live tree of systemd jobs on the boot console",
      "url": "https://codeberg.org/wvhulle/bootvine",
      "meta": "⭐ 283 · 💬 108",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Rust 1.100",
-     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "meta": "⭐ 277 · 💬 132",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "meta": "⭐ 253 · 💬 86",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "url": "https://github.com/simpsoka/zigzag",
-     "meta": "⭐ 252 · 💬 103",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "meta": "⭐ 229 · 💬 78",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "meta": "⭐ 217 · 💬 57",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -635,6 +659,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "nizima ACTION!!",
+     "url": "https://www.producthunt.com/products/nizima-action-by-live2d",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "Powerful editing, expressive characters, zero installs.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Clive",
      "url": "https://www.producthunt.com/products/clive",
      "meta": "Product Hunt · 2026-11-10",
@@ -687,14 +719,6 @@
      "url": "https://www.producthunt.com/products/open-for-sales",
      "meta": "Product Hunt · 2026-11-09",
      "summary": "“Claude, but for your product” is here.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "WizardNote",
-     "url": "https://www.producthunt.com/products/wizardnote",
-     "meta": "Product Hunt · 2026-11-11",
-     "summary": "Voice notes your phone transcribes, saved as markdown",
      "reason": null,
      "origin_source": "producthunt"
     }
