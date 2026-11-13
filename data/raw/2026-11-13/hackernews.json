@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-13T13:01:56.316277+08:00",
- "count": 52,
+ "updated_at": "2026-11-13T21:54:54.121289+08:00",
+ "count": 60,
  "items": [
   {
    "id": "hn-50425017",
@@ -136,8 +136,8 @@
    "title": "Relax: JIT compiler for Rust to reduce build times",
    "url": "https://makepad.github.io/relax/",
    "hn_url": "https://news.ycombinator.com/item?id=50458849",
-   "score": 138,
-   "comments": 59,
+   "score": 170,
+   "comments": 91,
    "author": "adamnemecek",
    "time_iso": "2026-11-11T21:20:01+00:00",
    "history": [
@@ -148,6 +148,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 138
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 170
     }
    ]
   },
@@ -256,8 +260,8 @@
    "title": "Anthropic IPO",
    "url": "https://ipo.anthropic.com/us/",
    "hn_url": "https://news.ycombinator.com/item?id=50465829",
-   "score": 864,
-   "comments": 830,
+   "score": 966,
+   "comments": 879,
    "author": "josephljohnston",
    "time_iso": "2026-11-12T11:46:41+00:00",
    "history": [
@@ -272,6 +276,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 864
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 966
     }
    ]
   },
@@ -300,8 +308,8 @@
    "title": "Jensen Huang resigns",
    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
    "hn_url": "https://news.ycombinator.com/item?id=50467087",
-   "score": 3176,
-   "comments": 2959,
+   "score": 3723,
+   "comments": 3240,
    "author": "lldb",
    "time_iso": "2026-11-12T13:52:29+00:00",
    "history": [
@@ -316,6 +324,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 3176
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 3723
     }
    ]
   },
@@ -380,8 +392,8 @@
    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
    "hn_url": "https://news.ycombinator.com/item?id=50467618",
-   "score": 252,
-   "comments": 91,
+   "score": 288,
+   "comments": 107,
    "author": "klaussilveira",
    "time_iso": "2026-11-12T14:18:49+00:00",
    "history": [
@@ -396,6 +408,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 252
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 288
     }
    ]
   },
@@ -452,8 +468,8 @@
    "title": "I'm making LLMs work on small and old devices",
    "url": "https://github.com/hyperionaidev/smolmaxxing/",
    "hn_url": "https://news.ycombinator.com/item?id=50468888",
-   "score": 308,
-   "comments": 103,
+   "score": 409,
+   "comments": 148,
    "author": "mrashad74",
    "time_iso": "2026-11-12T15:23:10+00:00",
    "history": [
@@ -468,6 +484,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 308
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 409
     }
    ]
   },
@@ -528,8 +548,8 @@
    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
    "url": "https://github.com/simpsoka/zigzag",
    "hn_url": "https://news.ycombinator.com/item?id=50470488",
-   "score": 406,
-   "comments": 155,
+   "score": 602,
+   "comments": 203,
    "author": "simpsoka",
    "time_iso": "2026-11-12T17:02:42+00:00",
    "history": [
@@ -540,6 +560,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 406
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 602
     }
    ]
   },
@@ -616,14 +640,18 @@
    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
    "hn_url": "https://news.ycombinator.com/item?id=50471650",
-   "score": 69,
-   "comments": 11,
+   "score": 120,
+   "comments": 29,
    "author": "miguelrios",
    "time_iso": "2026-11-12T18:15:48+00:00",
    "history": [
     {
      "t": "2026-11-13T07:12:39.311455+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 120
     }
    ]
   },
@@ -632,8 +660,8 @@
    "title": "Service degradation on Microsoft 365",
    "url": "https://status.cloud.microsoft/",
    "hn_url": "https://news.ycombinator.com/item?id=50471731",
-   "score": 649,
-   "comments": 609,
+   "score": 1039,
+   "comments": 869,
    "author": "dkpk",
    "time_iso": "2026-11-12T18:20:48+00:00",
    "history": [
@@ -644,6 +672,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 649
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 1039
     }
    ]
   },
@@ -652,8 +684,8 @@
    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
    "hn_url": "https://news.ycombinator.com/item?id=50471761",
-   "score": 158,
-   "comments": 29,
+   "score": 216,
+   "comments": 39,
    "author": "ozirus",
    "time_iso": "2026-11-12T18:22:22+00:00",
    "history": [
@@ -664,6 +696,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 158
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 216
     }
    ]
   },
@@ -672,8 +708,8 @@
    "title": "Rust 1.100",
    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
    "hn_url": "https://news.ycombinator.com/item?id=50472038",
-   "score": 531,
-   "comments": 218,
+   "score": 760,
+   "comments": 280,
    "author": "mbStavola",
    "time_iso": "2026-11-12T18:39:05+00:00",
    "history": [
@@ -684,6 +720,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 531
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 760
     }
    ]
   },
@@ -692,8 +732,8 @@
    "title": "Gemini 4 Hydrogen and Orchestrator",
    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
    "hn_url": "https://news.ycombinator.com/item?id=50472260",
-   "score": 351,
-   "comments": 94,
+   "score": 450,
+   "comments": 136,
    "author": "jonbaer",
    "time_iso": "2026-11-12T18:52:01+00:00",
    "history": [
@@ -704,6 +744,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 351
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 450
     }
    ]
   },
@@ -712,8 +756,8 @@
    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
    "hn_url": "https://news.ycombinator.com/item?id=50472490",
-   "score": 234,
-   "comments": 107,
+   "score": 339,
+   "comments": 145,
    "author": "cybermango",
    "time_iso": "2026-11-12T19:05:33+00:00",
    "history": [
@@ -724,6 +768,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 234
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 339
     }
    ]
   },
@@ -748,14 +796,18 @@
    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
    "hn_url": "https://news.ycombinator.com/item?id=50473190",
-   "score": 164,
-   "comments": 208,
+   "score": 338,
+   "comments": 372,
    "author": "jbredeche",
    "time_iso": "2026-11-12T19:51:33+00:00",
    "history": [
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 164
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 338
     }
    ]
   },
@@ -800,8 +852,8 @@
    "title": "Foundation Models framework",
    "url": "https://developer.apple.com/foundation-models-framework/",
    "hn_url": "https://news.ycombinator.com/item?id=50474361",
-   "score": 169,
-   "comments": 22,
+   "score": 232,
+   "comments": 33,
    "author": "kermatt",
    "time_iso": "2026-11-12T21:13:26+00:00",
    "history": [
@@ -812,6 +864,10 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 169
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 232
     }
    ]
   },
@@ -852,14 +908,18 @@
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "hn_url": "https://news.ycombinator.com/item?id=50475713",
-   "score": 145,
-   "comments": 35,
+   "score": 290,
+   "comments": 85,
    "author": "sroussey",
    "time_iso": "2026-11-12T23:06:17+00:00",
    "history": [
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 145
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 290
     }
    ]
   },
@@ -884,14 +944,18 @@
    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
    "url": "https://brave.com/blog/search-api-agentic-payments/",
    "hn_url": "https://news.ycombinator.com/item?id=50477649",
-   "score": 9,
-   "comments": 1,
+   "score": 169,
+   "comments": 94,
    "author": "sjdh76",
    "time_iso": "2026-11-13T03:08:08+00:00",
    "history": [
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 9
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 169
     }
    ]
   },
@@ -900,14 +964,18 @@
    "title": "Switcher (2004)",
    "url": "https://folklore.org/Switcher.html",
    "hn_url": "https://news.ycombinator.com/item?id=50477714",
-   "score": 48,
-   "comments": 8,
+   "score": 112,
+   "comments": 35,
    "author": "sammatilda",
    "time_iso": "2026-11-13T03:14:59+00:00",
    "history": [
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 112
     }
    ]
   },
@@ -924,6 +992,134 @@
     {
      "t": "2026-11-13T13:01:56.316277+08:00",
      "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50478515",
+   "title": "IceWM",
+   "url": "https://ice-wm.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50478515",
+   "score": 262,
+   "comments": 132,
+   "author": "inatreecrown2",
+   "time_iso": "2026-11-13T04:54:53+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 262
+    }
+   ]
+  },
+  {
+   "id": "hn-50479098",
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "hn_url": "https://news.ycombinator.com/item?id=50479098",
+   "score": 213,
+   "comments": 126,
+   "author": "TechTechTech",
+   "time_iso": "2026-11-13T06:18:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 213
+    }
+   ]
+  },
+  {
+   "id": "hn-50480480",
+   "title": "The Dawn of the Data Intelligence Engineer",
+   "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50480480",
+   "score": 76,
+   "comments": 57,
+   "author": "jonbaer",
+   "time_iso": "2026-11-13T09:08:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 76
+    }
+   ]
+  },
+  {
+   "id": "hn-50480659",
+   "title": "Is there a 'right amount' of AI?",
+   "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+   "hn_url": "https://news.ycombinator.com/item?id=50480659",
+   "score": 27,
+   "comments": 36,
+   "author": "milali",
+   "time_iso": "2026-11-13T09:27:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50481187",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "hn_url": "https://news.ycombinator.com/item?id=50481187",
+   "score": 317,
+   "comments": 271,
+   "author": "__vivek",
+   "time_iso": "2026-11-13T10:18:13+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 317
+    }
+   ]
+  },
+  {
+   "id": "hn-50481220",
+   "title": "Claude Is Down",
+   "url": "https://status.claude.com/history",
+   "hn_url": "https://news.ycombinator.com/item?id=50481220",
+   "score": 158,
+   "comments": 130,
+   "author": "cornfieldlabs",
+   "time_iso": "2026-11-13T10:20:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 158
+    }
+   ]
+  },
+  {
+   "id": "hn-50482379",
+   "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+   "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+   "hn_url": "https://news.ycombinator.com/item?id=50482379",
+   "score": 152,
+   "comments": 85,
+   "author": "voxleone",
+   "time_iso": "2026-11-13T12:10:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 152
+    }
+   ]
+  },
+  {
+   "id": "hn-50482455",
+   "title": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+   "url": "https://github.com/Christ10-8/reflota",
+   "hn_url": "https://news.ycombinator.com/item?id=50482455",
+   "score": 3,
+   "comments": 0,
+   "author": "christ_dev",
+   "time_iso": "2026-11-13T12:17:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-13T21:54:54.121289+08:00",
+     "score": 3
     }
    ]
   }

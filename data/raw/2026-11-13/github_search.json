@@ -1,6 +1,6 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-13T13:01:57.113897+08:00",
+ "updated_at": "2026-11-13T21:54:54.947968+08:00",
  "count": 35,
  "items": [
   {
@@ -292,7 +292,7 @@
    "id": "gh-1448920409",
    "title": "lxe/phoneuse",
    "url": "https://github.com/lxe/phoneuse",
-   "stars": 638,
+   "stars": 646,
    "language": "Python",
    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
    "created_at": "2026-11-07T01:28:30Z",
@@ -300,6 +300,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 638
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 646
     }
    ]
   },
@@ -307,7 +311,7 @@
    "id": "gh-1448924811",
    "title": "dabingfy-dot/solo-to-team-skills",
    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-   "stars": 804,
+   "stars": 832,
    "language": "",
    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
    "created_at": "2026-11-07T01:36:28Z",
@@ -315,6 +319,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 804
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 832
     }
    ]
   },
@@ -322,7 +330,7 @@
    "id": "gh-1449231124",
    "title": "tangerineturtle1/NX2navi",
    "url": "https://github.com/tangerineturtle1/NX2navi",
-   "stars": 3623,
+   "stars": 3716,
    "language": "C",
    "description": "",
    "created_at": "2026-11-07T10:01:23Z",
@@ -338,6 +346,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 3623
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 3716
     }
    ]
   },
@@ -345,7 +357,7 @@
    "id": "gh-1449349157",
    "title": "Goblinmine/homelab-diagram",
    "url": "https://github.com/Goblinmine/homelab-diagram",
-   "stars": 945,
+   "stars": 968,
    "language": "Python",
    "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
    "created_at": "2026-11-07T12:45:46Z",
@@ -353,6 +365,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 945
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 968
     }
    ]
   },
@@ -360,7 +376,7 @@
    "id": "gh-1449518822",
    "title": "Th0rgal/satmux",
    "url": "https://github.com/Th0rgal/satmux",
-   "stars": 1058,
+   "stars": 1069,
    "language": "Python",
    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
    "created_at": "2026-11-07T16:09:41Z",
@@ -368,6 +384,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1058
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1069
     }
    ]
   },
@@ -375,7 +395,7 @@
    "id": "gh-1449770510",
    "title": "Goldoire/fefw-recomp",
    "url": "https://github.com/Goldoire/fefw-recomp",
-   "stars": 667,
+   "stars": 690,
    "language": "C++",
    "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
    "created_at": "2026-11-07T21:58:07Z",
@@ -383,6 +403,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 667
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 690
     }
    ]
   },
@@ -390,7 +414,7 @@
    "id": "gh-1450012790",
    "title": "jhaizhou-ops/S2Arm",
    "url": "https://github.com/jhaizhou-ops/S2Arm",
-   "stars": 2790,
+   "stars": 2838,
    "language": "C#",
    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
    "created_at": "2026-11-08T05:49:46Z",
@@ -406,6 +430,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 2790
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 2838
     }
    ]
   },
@@ -413,7 +441,7 @@
    "id": "gh-1450480356",
    "title": "forcequitOS/worse_query",
    "url": "https://github.com/forcequitOS/worse_query",
-   "stars": 593,
+   "stars": 604,
    "language": "Objective-C",
    "description": "A sandbox escape for iOS 26 and 27, again",
    "created_at": "2026-11-08T17:00:03Z",
@@ -421,6 +449,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 593
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 604
     }
    ]
   },
@@ -428,7 +460,7 @@
    "id": "gh-1450792839",
    "title": "serveroshq/panel",
    "url": "https://github.com/serveroshq/panel",
-   "stars": 605,
+   "stars": 709,
    "language": "PHP",
    "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
    "created_at": "2026-11-09T00:47:33Z",
@@ -436,6 +468,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 605
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 709
     }
    ]
   },
@@ -443,7 +479,7 @@
    "id": "gh-1450794567",
    "title": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1229,
+   "stars": 1285,
    "language": "TypeScript",
    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals.",
    "created_at": "2026-11-09T00:50:28Z",
@@ -451,6 +487,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1229
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1285
     }
    ]
   },
@@ -458,7 +498,7 @@
    "id": "gh-1450963843",
    "title": "huamidev/GestaltX",
    "url": "https://github.com/huamidev/GestaltX",
-   "stars": 7007,
+   "stars": 7182,
    "language": "Swift",
    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
    "created_at": "2026-11-09T05:15:48Z",
@@ -474,6 +514,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 7007
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 7182
     }
    ]
   },
@@ -481,7 +525,7 @@
    "id": "gh-1451419767",
    "title": "kolbicz/WQFiles",
    "url": "https://github.com/kolbicz/WQFiles",
-   "stars": 753,
+   "stars": 782,
    "language": "Objective-C",
    "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
    "created_at": "2026-11-09T13:43:40Z",
@@ -489,6 +533,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 753
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 782
     }
    ]
   },
@@ -496,7 +544,7 @@
    "id": "gh-1451554320",
    "title": "adriadam10/mkw-recomp",
    "url": "https://github.com/adriadam10/mkw-recomp",
-   "stars": 589,
+   "stars": 639,
    "language": "C",
    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
    "created_at": "2026-11-09T15:40:06Z",
@@ -504,6 +552,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 589
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 639
     }
    ]
   },
@@ -511,7 +563,7 @@
    "id": "gh-1451775929",
    "title": "alexeyw/lot-map",
    "url": "https://github.com/alexeyw/lot-map",
-   "stars": 626,
+   "stars": 682,
    "language": "TypeScript",
    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
    "created_at": "2026-11-09T19:13:52Z",
@@ -519,6 +571,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 626
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 682
     }
    ]
   },
@@ -526,7 +582,7 @@
    "id": "gh-1452008226",
    "title": "HolyArrs/HolyArrs",
    "url": "https://github.com/HolyArrs/HolyArrs",
-   "stars": 1002,
+   "stars": 1045,
    "language": "Go",
    "description": "One self-hosted app for your shows, movies and music.",
    "created_at": "2026-11-09T23:53:25Z",
@@ -534,6 +590,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1002
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1045
     }
    ]
   },
@@ -541,7 +601,7 @@
    "id": "gh-1452123445",
    "title": "Kianuni/Erosion-CN",
    "url": "https://github.com/Kianuni/Erosion-CN",
-   "stars": 1746,
+   "stars": 1854,
    "language": "Swift",
    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
    "created_at": "2026-11-10T02:37:31Z",
@@ -557,6 +617,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1746
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1854
     }
    ]
   },
@@ -564,7 +628,7 @@
    "id": "gh-1452450730",
    "title": "JDhruv14/line-art-animation",
    "url": "https://github.com/JDhruv14/line-art-animation",
-   "stars": 601,
+   "stars": 632,
    "language": "TypeScript",
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "created_at": "2026-11-10T09:25:25Z",
@@ -572,6 +636,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 601
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 632
     }
    ]
   },
@@ -579,7 +647,7 @@
    "id": "gh-1452531582",
    "title": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
-   "stars": 1340,
+   "stars": 1405,
    "language": "Python",
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "created_at": "2026-11-10T10:46:56Z",
@@ -595,6 +663,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1340
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1405
     }
    ]
   },
@@ -602,7 +674,7 @@
    "id": "gh-1453132706",
    "title": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "stars": 999,
+   "stars": 1157,
    "language": "TypeScript",
    "description": "Private AI meeting notes. Free and open source.",
    "created_at": "2026-11-10T20:01:01Z",
@@ -610,6 +682,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 999
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1157
     }
    ]
   },
@@ -617,7 +693,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 1062,
+   "stars": 1250,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -625,6 +701,10 @@
     {
      "t": "2026-11-13T13:01:57.113897+08:00",
      "score": 1062
+    },
+    {
+     "t": "2026-11-13T21:54:54.947968+08:00",
+     "score": 1250
     }
    ]
   }
