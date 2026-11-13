@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T11:47:13.959286+08:00",
+ "updated_at": "2026-11-13T11:24:01.322957+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -228,6 +228,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "code(12次→+2.22)、every(10次→+2.26)、claude(10次→+1.85)、source(6次→+0.95)、open(6次→+0.95)、goodbye(6次→+1.85)、released(5次→+0.97)、flash(5次→+2.65)"
+  },
+  {
+   "ts": "2026-11-13T11:24:01.322957+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "gemini(9次→+0.50)、code(8次→+2.61)、every(8次→+2.65)、claude(8次→+2.26)、huang(6次→+0.50)、jensen(6次→+0.50)、work(6次→+0.50)、help(6次→+0.50)"
   }
  ]
 }
