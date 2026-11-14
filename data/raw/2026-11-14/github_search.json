@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-14T09:16:21.526851+08:00",
- "count": 26,
+ "updated_at": "2026-11-14T16:35:36.772952+08:00",
+ "count": 27,
  "items": [
   {
    "id": "gh-1448920409",
@@ -97,7 +97,7 @@
    "id": "gh-1450012790",
    "title": "jhaizhou-ops/S2Arm",
    "url": "https://github.com/jhaizhou-ops/S2Arm",
-   "stars": 2868,
+   "stars": 2901,
    "language": "C#",
    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
    "created_at": "2026-11-08T05:49:46Z",
@@ -109,6 +109,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 2868
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 2901
     }
    ]
   },
@@ -131,7 +135,7 @@
    "id": "gh-1450480356",
    "title": "forcequitOS/worse_query",
    "url": "https://github.com/forcequitOS/worse_query",
-   "stars": 614,
+   "stars": 621,
    "language": "Objective-C",
    "description": "A sandbox escape for iOS 26 and 27, again",
    "created_at": "2026-11-08T17:00:03Z",
@@ -143,6 +147,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 614
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 621
     }
    ]
   },
@@ -150,7 +158,7 @@
    "id": "gh-1450792839",
    "title": "serveroshq/panel",
    "url": "https://github.com/serveroshq/panel",
-   "stars": 751,
+   "stars": 764,
    "language": "PHP",
    "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
    "created_at": "2026-11-09T00:47:33Z",
@@ -162,6 +170,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 751
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 764
     }
    ]
   },
@@ -169,7 +181,7 @@
    "id": "gh-1450794567",
    "title": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1344,
+   "stars": 1359,
    "language": "TypeScript",
    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals.",
    "created_at": "2026-11-09T00:50:28Z",
@@ -181,6 +193,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1344
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1359
     }
    ]
   },
@@ -188,7 +204,7 @@
    "id": "gh-1450963843",
    "title": "huamidev/GestaltX",
    "url": "https://github.com/huamidev/GestaltX",
-   "stars": 7319,
+   "stars": 7434,
    "language": "Swift",
    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
    "created_at": "2026-11-09T05:15:48Z",
@@ -200,6 +216,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 7319
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 7434
     }
    ]
   },
@@ -207,7 +227,7 @@
    "id": "gh-1451142649",
    "title": "Robbyant/lingbot-touch",
    "url": "https://github.com/Robbyant/lingbot-touch",
-   "stars": 492,
+   "stars": 506,
    "language": "Python",
    "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
    "created_at": "2026-11-09T09:02:29Z",
@@ -215,6 +235,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 492
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 506
     }
    ]
   },
@@ -222,7 +246,7 @@
    "id": "gh-1451419767",
    "title": "kolbicz/WQFiles",
    "url": "https://github.com/kolbicz/WQFiles",
-   "stars": 804,
+   "stars": 824,
    "language": "Objective-C",
    "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
    "created_at": "2026-11-09T13:43:40Z",
@@ -234,6 +258,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 804
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 824
     }
    ]
   },
@@ -241,7 +269,7 @@
    "id": "gh-1451554320",
    "title": "adriadam10/mkw-recomp",
    "url": "https://github.com/adriadam10/mkw-recomp",
-   "stars": 699,
+   "stars": 742,
    "language": "C",
    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
    "created_at": "2026-11-09T15:40:06Z",
@@ -253,6 +281,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 699
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 742
     }
    ]
   },
@@ -260,7 +292,7 @@
    "id": "gh-1451662178",
    "title": "Dodaios/ste80-humanizer",
    "url": "https://github.com/Dodaios/ste80-humanizer",
-   "stars": 490,
+   "stars": 496,
    "language": "Python",
    "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
    "created_at": "2026-11-09T17:18:59Z",
@@ -268,6 +300,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 490
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 496
     }
    ]
   },
@@ -275,7 +311,7 @@
    "id": "gh-1451775929",
    "title": "alexeyw/lot-map",
    "url": "https://github.com/alexeyw/lot-map",
-   "stars": 736,
+   "stars": 763,
    "language": "TypeScript",
    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
    "created_at": "2026-11-09T19:13:52Z",
@@ -287,6 +323,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 736
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 763
     }
    ]
   },
@@ -294,7 +334,7 @@
    "id": "gh-1452008226",
    "title": "HolyArrs/HolyArrs",
    "url": "https://github.com/HolyArrs/HolyArrs",
-   "stars": 1102,
+   "stars": 1129,
    "language": "Go",
    "description": "One self-hosted app for your shows, movies and music.",
    "created_at": "2026-11-09T23:53:25Z",
@@ -306,6 +346,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1102
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1129
     }
    ]
   },
@@ -313,7 +357,7 @@
    "id": "gh-1452123445",
    "title": "Kianuni/Erosion-CN",
    "url": "https://github.com/Kianuni/Erosion-CN",
-   "stars": 1921,
+   "stars": 1978,
    "language": "Swift",
    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
    "created_at": "2026-11-10T02:37:31Z",
@@ -325,6 +369,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1921
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1978
     }
    ]
   },
@@ -332,7 +380,7 @@
    "id": "gh-1452450730",
    "title": "JDhruv14/line-art-animation",
    "url": "https://github.com/JDhruv14/line-art-animation",
-   "stars": 662,
+   "stars": 683,
    "language": "TypeScript",
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "created_at": "2026-11-10T09:25:25Z",
@@ -344,6 +392,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 662
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 683
     }
    ]
   },
@@ -351,7 +403,7 @@
    "id": "gh-1452531582",
    "title": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
-   "stars": 1438,
+   "stars": 1467,
    "language": "Python",
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "created_at": "2026-11-10T10:46:56Z",
@@ -363,6 +415,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1438
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1467
     }
    ]
   },
@@ -370,7 +426,7 @@
    "id": "gh-1453132706",
    "title": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "stars": 1271,
+   "stars": 1338,
    "language": "TypeScript",
    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "created_at": "2026-11-10T20:01:01Z",
@@ -382,6 +438,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1271
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1338
     }
    ]
   },
@@ -389,7 +449,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 1482,
+   "stars": 1577,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -401,6 +461,25 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 1482
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1577
+    }
+   ]
+  },
+  {
+   "id": "gh-1454392563",
+   "title": "makepad/relax",
+   "url": "https://github.com/makepad/relax",
+   "stars": 518,
+   "language": "Rust",
+   "description": "Relax Rust JIT",
+   "created_at": "2026-11-11T19:12:58Z",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 518
     }
    ]
   },
@@ -408,7 +487,7 @@
    "id": "gh-1455006582",
    "title": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
-   "stars": 726,
+   "stars": 1240,
    "language": "TypeScript",
    "description": "Chat Demo",
    "created_at": "2026-11-12T08:08:19Z",
@@ -416,6 +495,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 726
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 1240
     }
    ]
   },
@@ -423,7 +506,7 @@
    "id": "gh-1455173808",
    "title": "AIRzZ90/study-materials-fork",
    "url": "https://github.com/AIRzZ90/study-materials-fork",
-   "stars": 497,
+   "stars": 538,
    "language": "TypeScript",
    "description": "A cross-platform Tauri 2 interface and interaction practice project",
    "created_at": "2026-11-12T10:52:32Z",
@@ -431,6 +514,10 @@
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
      "score": 497
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
+     "score": 538
     }
    ]
   },
@@ -445,6 +532,10 @@
    "history": [
     {
      "t": "2026-11-14T09:16:21.526851+08:00",
+     "score": 541
+    },
+    {
+     "t": "2026-11-14T16:35:36.772952+08:00",
      "score": 541
     }
    ]

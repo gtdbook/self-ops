@@ -1,15 +1,63 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-14T09:16:20.619377+08:00",
- "count": 37,
+ "updated_at": "2026-11-14T16:35:36.074003+08:00",
+ "count": 47,
  "items": [
+  {
+   "id": "hn-50444761",
+   "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+   "url": "https://github.com/0xdeadf1sh/T1DMAI",
+   "hn_url": "https://news.ycombinator.com/item?id=50444761",
+   "score": 20,
+   "comments": 7,
+   "author": "0xdeadf1sh",
+   "time_iso": "2026-11-10T19:07:53+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
+   "id": "hn-50448432",
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+   "hn_url": "https://news.ycombinator.com/item?id=50448432",
+   "score": 7,
+   "comments": 2,
+   "author": "JDevlieghere",
+   "time_iso": "2026-11-11T00:48:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50462975",
+   "title": "The Other Nefertiti (2015)",
+   "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+   "hn_url": "https://news.ycombinator.com/item?id=50462975",
+   "score": 13,
+   "comments": 1,
+   "author": "dmbche",
+   "time_iso": "2026-11-12T04:08:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 13
+    }
+   ]
+  },
   {
    "id": "hn-50474959",
    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
    "hn_url": "https://news.ycombinator.com/item?id=50474959",
-   "score": 670,
-   "comments": 198,
+   "score": 741,
+   "comments": 212,
    "author": "scottjg",
    "time_iso": "2026-11-12T22:03:09+00:00",
    "history": [
@@ -20,6 +68,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 670
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 741
     }
    ]
   },
@@ -96,8 +148,8 @@
    "title": "A technical vision for the Haskell ecosystem",
    "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
    "hn_url": "https://news.ycombinator.com/item?id=50484235",
-   "score": 178,
-   "comments": 84,
+   "score": 202,
+   "comments": 112,
    "author": "cosmic_quanta",
    "time_iso": "2026-11-13T14:43:12+00:00",
    "history": [
@@ -108,6 +160,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 178
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 202
     }
    ]
   },
@@ -116,8 +172,8 @@
    "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
    "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
    "hn_url": "https://news.ycombinator.com/item?id=50484650",
-   "score": 133,
-   "comments": 83,
+   "score": 168,
+   "comments": 95,
    "author": "bookofjoe",
    "time_iso": "2026-11-13T15:08:07+00:00",
    "history": [
@@ -128,6 +184,26 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 133
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 168
+    }
+   ]
+  },
+  {
+   "id": "hn-50484658",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "hn_url": "https://news.ycombinator.com/item?id=50484658",
+   "score": 268,
+   "comments": 301,
+   "author": "helloplanets",
+   "time_iso": "2026-11-13T15:08:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 268
     }
    ]
   },
@@ -220,8 +296,8 @@
    "title": "After 600 experiments, here's what I discovered about JEPA world models",
    "url": "https://haddyalchaer.com/jepa",
    "hn_url": "https://news.ycombinator.com/item?id=50487185",
-   "score": 212,
-   "comments": 35,
+   "score": 252,
+   "comments": 41,
    "author": "halcdev",
    "time_iso": "2026-11-13T17:55:28+00:00",
    "history": [
@@ -232,6 +308,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 212
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 252
     }
    ]
   },
@@ -240,8 +320,8 @@
    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
    "url": "https://isometricsf.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50487228",
-   "score": 148,
-   "comments": 54,
+   "score": 203,
+   "comments": 69,
    "author": "juscha1",
    "time_iso": "2026-11-13T17:58:37+00:00",
    "history": [
@@ -252,6 +332,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 148
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 203
     }
    ]
   },
@@ -336,8 +420,8 @@
    "title": "FM-1 Workbench",
    "url": "https://open.m-vave.com/fm1-workbench",
    "hn_url": "https://news.ycombinator.com/item?id=50488325",
-   "score": 179,
-   "comments": 103,
+   "score": 230,
+   "comments": 154,
    "author": "simonebrunozzi",
    "time_iso": "2026-11-13T19:14:02+00:00",
    "history": [
@@ -348,6 +432,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 179
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 230
     }
    ]
   },
@@ -356,8 +444,8 @@
    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
    "hn_url": "https://news.ycombinator.com/item?id=50488464",
-   "score": 94,
-   "comments": 20,
+   "score": 123,
+   "comments": 22,
    "author": "gmays",
    "time_iso": "2026-11-13T19:24:47+00:00",
    "history": [
@@ -368,6 +456,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 94
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 123
     }
    ]
   },
@@ -376,8 +468,8 @@
    "title": "Found: A protein that drives ageing without unleashing inflammation",
    "url": "https://www.nature.com/articles/d41586-026-03638-3",
    "hn_url": "https://news.ycombinator.com/item?id=50488470",
-   "score": 122,
-   "comments": 18,
+   "score": 186,
+   "comments": 26,
    "author": "gumby",
    "time_iso": "2026-11-13T19:25:21+00:00",
    "history": [
@@ -388,6 +480,10 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 122
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 186
     }
    ]
   },
@@ -444,14 +540,18 @@
    "title": "Live-migration support in FreeBSD and bhyve coming",
    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
    "hn_url": "https://news.ycombinator.com/item?id=50488835",
-   "score": 66,
-   "comments": 16,
+   "score": 97,
+   "comments": 23,
    "author": "JohnDohnBohn",
    "time_iso": "2026-11-13T19:58:42+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 66
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 97
     }
    ]
   },
@@ -489,17 +589,21 @@
   },
   {
    "id": "hn-50489641",
-   "title": "FAA issues national ground stop",
+   "title": "FAA issues national ground stop – lifted 4.5 hours later",
    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
    "hn_url": "https://news.ycombinator.com/item?id=50489641",
-   "score": 1278,
-   "comments": 770,
+   "score": 1518,
+   "comments": 1160,
    "author": "zulln",
    "time_iso": "2026-11-13T21:05:53+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 1278
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 1518
     }
    ]
   },
@@ -524,14 +628,18 @@
    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
    "url": "https://orcasairband.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50490593",
-   "score": 178,
-   "comments": 44,
+   "score": 258,
+   "comments": 60,
    "author": "mmaunder",
    "time_iso": "2026-11-13T22:04:24+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 178
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 258
     }
    ]
   },
@@ -556,14 +664,18 @@
    "title": "How Not to Build a Music Player",
    "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
    "hn_url": "https://news.ycombinator.com/item?id=50491400",
-   "score": 23,
-   "comments": 4,
+   "score": 93,
+   "comments": 38,
    "author": "vinhnx",
    "time_iso": "2026-11-13T23:04:30+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 23
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 93
     }
    ]
   },
@@ -572,30 +684,70 @@
    "title": "Terminal borders that don't cost a cell",
    "url": "https://www.joshka.net/cell-borders/",
    "hn_url": "https://news.ycombinator.com/item?id=50491423",
-   "score": 52,
-   "comments": 30,
+   "score": 221,
+   "comments": 88,
    "author": "vinhnx",
    "time_iso": "2026-11-13T23:06:40+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 52
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 221
+    }
+   ]
+  },
+  {
+   "id": "hn-50491545",
+   "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+   "url": "https://grounds.top/",
+   "hn_url": "https://news.ycombinator.com/item?id=50491545",
+   "score": 133,
+   "comments": 18,
+   "author": "gvsi",
+   "time_iso": "2026-11-13T23:17:39+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 133
     }
    ]
   },
   {
    "id": "hn-50491830",
-   "title": "What Happened to 3Com?",
+   "title": "What happened to 3Com?",
    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
    "hn_url": "https://news.ycombinator.com/item?id=50491830",
-   "score": 26,
-   "comments": 7,
+   "score": 126,
+   "comments": 64,
    "author": "gvieri",
    "time_iso": "2026-11-13T23:48:59+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 126
+    }
+   ]
+  },
+  {
+   "id": "hn-50491980",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "url": "https://unsloth.ai/docs/models/qwen3.8",
+   "hn_url": "https://news.ycombinator.com/item?id=50491980",
+   "score": 113,
+   "comments": 25,
+   "author": "Retro_Dev",
+   "time_iso": "2026-11-14T00:06:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 113
     }
    ]
   },
@@ -620,14 +772,18 @@
    "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
    "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
    "hn_url": "https://news.ycombinator.com/item?id=50492315",
-   "score": 29,
-   "comments": 4,
+   "score": 163,
+   "comments": 54,
    "author": "snow_mac",
    "time_iso": "2026-11-14T00:52:29+00:00",
    "history": [
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 29
+    },
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 163
     }
    ]
   },
@@ -644,6 +800,70 @@
     {
      "t": "2026-11-14T09:16:20.619377+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50492860",
+   "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+   "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+   "hn_url": "https://news.ycombinator.com/item?id=50492860",
+   "score": 123,
+   "comments": 23,
+   "author": "gmays",
+   "time_iso": "2026-11-14T02:02:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 123
+    }
+   ]
+  },
+  {
+   "id": "hn-50493062",
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "hn_url": "https://news.ycombinator.com/item?id=50493062",
+   "score": 223,
+   "comments": 37,
+   "author": "cobychapple",
+   "time_iso": "2026-11-14T02:28:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 223
+    }
+   ]
+  },
+  {
+   "id": "hn-50493251",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "hn_url": "https://news.ycombinator.com/item?id=50493251",
+   "score": 481,
+   "comments": 268,
+   "author": "speckx",
+   "time_iso": "2026-11-14T02:52:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 481
+    }
+   ]
+  },
+  {
+   "id": "hn-50493904",
+   "title": "Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50493904",
+   "score": 42,
+   "comments": 4,
+   "author": "maximilianburke",
+   "time_iso": "2026-11-14T04:23:30+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T16:35:36.074003+08:00",
+     "score": 42
     }
    ]
   }
