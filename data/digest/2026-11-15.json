@@ -1,0 +1,641 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T04:24:26.564454+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "meta": "TechCrunch AI · 2026-11-14",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+     "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+     "meta": "Ars Technica · 2026-11-13",
+     "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+     "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+     "meta": "TechCrunch AI · 2026-11-12",
+     "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "meta": "OpenAI · 2026-11-12",
+     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "meta": "Google AI Blog · 2026-11-10",
+     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "meta": "OpenAI · 2026-11-09",
+     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "LifeVal",
+     "url": "https://openai.com/index/lifeval",
+     "meta": "OpenAI · 2026-11-02",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "meta": "OpenAI · 2026-10-28",
+     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[创业组队] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场",
+     "url": "https://www.v2ex.com/t/1257138#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我是 Tim，2021 年在英国开了家公司 Mutus Tech，做农业和产业场景的 AI。和谢菲尔德大学、利物浦大学、Harper Adams 大学和农业咨询机构 ADAS 做过项目，参与过多个 Innovate UK 支持的研发项目，今年 4 月 Innovate UK Business Connect 写过一篇我们的案例。 五年下来最大的感受：在英国，技术不是最难的，难的是找对需求、拿到第一",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
+     "url": "https://www.v2ex.com/t/1257137#reply8",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角",
+     "url": "https://www.v2ex.com/t/1257136#reply4",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我让 Claude Opus 5.5 跑整个系统的全项目测试，测试到有一个比较极限的场景有 BUG ，于是我让 Agent 自己提了一个 jira 工单，然后呼叫对应模块的 owner 来解决这个 bug ，但是 owner 告诉我，他看不懂我的工单里是在说什么 于是我查看了一下 Agent 生成的工单，工单写的十分详细，但是根本没有重点，只是把我们做过的实验全部放上去，并且自创了一堆词汇，这些词",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 老黄这些年，真没白干！",
+     "url": "https://www.v2ex.com/t/1257134#reply1",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "这两天刷 X 的时间线，感觉老黄这些年真没白干。 各种人都有人替他说话。从程序员、游戏玩家到创业者，连平时不关注芯片的人，也在声援他。这场面确实少见。 从当年坚持投入 CUDA ，到今天的 AI 热潮，几十年的眼光和坚持，大家都看在眼里。 公司做到全球顶尖，已经很难。遇到争议时，还能有这么多不同背景的人主动站出来支持，这份认可，比市值更让人感慨。 感觉老黄可以回归：钮祜禄·黄仁勋",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "美国失去麻疹消除地位",
+     "url": "https://www.solidot.org/story?sid=85889",
+     "meta": "Solidot · 2026-11-14",
+     "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[iPhone] 线下摸完 Duo，年年焕新最终还是换了 18Pro Max",
+     "url": "https://www.v2ex.com/t/1257132#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "因出差一直没空 ，昨天才去摸了一下 Duo ，不喜欢铰链开合时的这种阻尼感（或者说阻尼感太弱），感觉有点廉价。 不知道有没有人跟我一样的感觉，我看这点没人讨论过。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] Runner iPhone 版开启 TestFlight 内测：在手机上看终端、回消息、带 crew 干活",
+     "url": "https://www.v2ex.com/t/1257131#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "Runner 是我做的一个管理 CLI agent 的开源桌面工具，之前在 V 站 介绍过 ，可以在同一个 app 里用 Claude Code 、Codex 等，也可以把不同的 agent 放进一个 crew 里一起做任务。上次发 0.18 桌面端远程控制 的时候提过移动端会优先做 iOS ，最近把 Runner iPhone 版的 UI 和主要交互定下来了，已经上传 TestFlight ，开",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Wunder] 关于设置中目前提供的 6 种楼中楼样式的 Demo",
+     "url": "https://www.v2ex.com/t/1257128#reply13",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "新的设置选项可以在这里找到： https://edge.v2ex.com/settings#reply_thread_style 六种样式的 Demo 引用条 角标 + 悬浮预览 楼中楼 树形缩进 对话连线 引用楼层",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[站点状态] 20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励",
+     "url": "https://www.v2ex.com/t/1257127#reply12",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "现在在设置中可以选择几种不同的楼中楼样式： https://edge.v2ex.com/settings#reply_thread_style 关于几种新的楼中楼样式的说明： https://edge.v2ex.com/help/reply-threads 目前提供的 6 种楼中楼样式的 Demo： https://edge.v2ex.com/t/1257128 首页右上角的黑暗模式切换现在支持自",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] Google Gemini 有好用的其他家 agent 吗",
+     "url": "https://www.v2ex.com/t/1257126#reply4",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "Claude 开了 5x ，124 刀，用了半个月，昨天被封了，申请退款，退了 56 刀。 GPT 已经彻底废了，完全干不了活，x 上看到不少推荐 Gemini 的，模型能力还可以，5x 土区大概 280 元，之前有 20x 大概 470 元。 但是众所周知，谷歌反重力并不好用。似乎没有办法将它接入到 Claude code 或者 codex 。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 分享一个自己做的截图工具 sniplite: 有 Snipaste 的核心功能，但是更快，开源，极其轻量",
+     "url": "https://www.v2ex.com/t/1257125#reply3",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "分享一个自己做的截图工具 sniplite 。它实现了 Snipaste 的核心功能，但是开源，而且极其轻量 即使加上安装包也不到 300KB ，核心用汇编和 C 语言开发。 现在能搞 截图：按 F1 ，自动识别鼠标下的窗口和控件，带放大镜 标注：画圈、箭头、文字、序号、马赛克 贴图：按 F3 把复制的图片或文字钉在屏幕上，滚轮缩放 命令行：功能都能用命令调用，方便写脚本 内置 8 种语言 轻量 ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] portal kyc 使用 personal 认证完成后又回到 start",
+     "url": "https://www.v2ex.com/t/1257123#reply1",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "使用护照做完 portal kyc ，personal 提示 done 了，但刷新原页面却回到了开始认证页面 点击 start 又开始重新选择 “What country is your government ID from?” 什么情况，不是说没通过是秒封吗？比较奇怪的是，如果 personal 本身没成功，那么 claude 的 portal 页面应该还是二维码页面才对，但又不是。会不会是等到",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了个能打断的 AI 语音面试陪练，求拍砖",
+     "url": "https://www.v2ex.com/t/1257121#reply4",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "大家好，我是独立开发者。面试最难的是找不到人陪练，所以我做了一个 AI 语音面试陪练 ，想请大家帮忙试试、拍拍砖。 跟其他 AI 面试工具有什么不一样 大部分工具是你说完一段、它再回一段，像在发语音消息。这个是 全双工实时对话 ： 你停下来想一想，它会等你，不抢话 它说得太长，你可以直接打断 目前有两个角色：技术面试官 Alex ，练 system design 和项目深挖；英语口语私教 Emma",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[全球工单系统] 怎么样才能解决淘宝的谜之风控",
+     "url": "https://www.v2ex.com/t/1257119#reply3",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "海外 IP 试图购买 App Store 充值卡旗舰店（ https://appstore.tmall.com ）的商品，会触发谜之风控：部分面值（ 10 元、68 元）可以购买，部分面值（ 50 元、100 元）不可购买（提示“同一时间下单人数过多，建议您稍后再试”）。 触发风控后无论打客服电话，还是在安全中心反馈，都是装傻充愣、制式回复。 10 元、68 元可以正常下单 50 元无法下单 反馈",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[天黑以后] 20261114 午夜俱乐部",
+     "url": "https://www.v2ex.com/t/1257118#reply2",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "失业快一个月了，申领失业金通过了，三个月的房租暂时有着落了，但陆续在 boss 上打招呼和投的简历都没什么下文，要么就是不匹配。 和家里人说了后，我妈也只会喊口号说着不管我做啥都支持我，我爸依旧只会隔段时间问我吃饭没然后喊我考公，我想回家吃饭但他们这样我又想远离。 这次离职后反倒感觉没上一次紧张，虽然存款不多撑不了太长时间，但总觉得心里一直崩的那个弦似乎松了好多。只是没朋友的我有时候想找人说说话，",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "huamidev/GestaltX",
+     "url": "https://github.com/huamidev/GestaltX",
+     "meta": "⭐ 7546 · Swift",
+     "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "jhaizhou-ops/S2Arm",
+     "url": "https://github.com/jhaizhou-ops/S2Arm",
+     "meta": "⭐ 2978 · C#",
+     "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Kianuni/Erosion-CN",
+     "url": "https://github.com/Kianuni/Erosion-CN",
+     "meta": "⭐ 2051 · Swift",
+     "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "apex-compute/ANR",
+     "url": "https://github.com/apex-compute/ANR",
+     "meta": "⭐ 1780 · C++",
+     "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "deepseek-ai/chat-demo",
+     "url": "https://github.com/deepseek-ai/chat-demo",
+     "meta": "⭐ 1700 · TypeScript",
+     "summary": "Chat Demo",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HybridRobotics/supermimic",
+     "url": "https://github.com/HybridRobotics/supermimic",
+     "meta": "⭐ 1495 · Python",
+     "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "FrigadeHQ/yogurt",
+     "url": "https://github.com/FrigadeHQ/yogurt",
+     "meta": "⭐ 1446 · TypeScript",
+     "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "agentes-chat/agentes-chat",
+     "url": "https://github.com/agentes-chat/agentes-chat",
+     "meta": "⭐ 1390 · TypeScript",
+     "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HolyArrs/HolyArrs",
+     "url": "https://github.com/HolyArrs/HolyArrs",
+     "meta": "⭐ 1170 · Go",
+     "summary": "One self-hosted app for your shows, movies and music.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
+     "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+     "meta": "⭐ 1047 · Visual Basic .NET",
+     "summary": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "adriadam10/mkw-recomp",
+     "url": "https://github.com/adriadam10/mkw-recomp",
+     "meta": "⭐ 859 · C",
+     "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "kolbicz/WQFiles",
+     "url": "https://github.com/kolbicz/WQFiles",
+     "meta": "⭐ 851 · Objective-C",
+     "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "alexeyw/lot-map",
+     "url": "https://github.com/alexeyw/lot-map",
+     "meta": "⭐ 815 · TypeScript",
+     "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "serveroshq/panel",
+     "url": "https://github.com/serveroshq/panel",
+     "meta": "⭐ 785 · PHP",
+     "summary": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "JDhruv14/line-art-animation",
+     "url": "https://github.com/JDhruv14/line-art-animation",
+     "meta": "⭐ 741 · TypeScript",
+     "summary": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Why get an expensive Pi when I have an old phone?",
+     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+     "meta": "⭐ 434 · 💬 258",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Monkey Island: all 13 versions side by side",
+     "url": "https://monkeyisland.pages.dev/",
+     "meta": "⭐ 411 · 💬 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+     "meta": "⭐ 342 · 💬 133",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "meta": "⭐ 330 · 💬 104",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "meta": "⭐ 276 · 💬 52",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Italy fines Meta $887M over Android users' data access",
+     "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+     "meta": "⭐ 239 · 💬 149",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "US IRS free online tax filing open source repo (2025)",
+     "url": "https://github.com/IRS-Public/direct-file",
+     "meta": "⭐ 98 · 💬 28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "meta": "⭐ 149 · 💬 54",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Generative AI uses more energy on non-English text",
+     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+     "meta": "⭐ 138 · 💬 86",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A QR code that says who made it",
+     "url": "https://qrsig.org/",
+     "meta": "⭐ 15 · 💬 7",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Advancing science and engineering with Antigravity's /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "meta": "⭐ 114 · 💬 28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+     "url": "https://gitlab.com/snipedbywifi/terminactory",
+     "meta": "⭐ 109 · 💬 25",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Let's Write a PostScript Interpreter",
+     "url": "https://beyondloom.com/blog/postscript.html",
+     "meta": "⭐ 88 · 💬 13",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "meta": "⭐ 87 · 💬 4",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+     "url": "https://github.com/FURSOY/fursoy-cpu",
+     "meta": "⭐ 53 · 💬 16",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "Templify AI",
+     "url": "https://www.producthunt.com/products/templify",
+     "meta": "Product Hunt · 2026-10-26",
+     "summary": "Powerful content editor for people who aren’t editors",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Gnista",
+     "url": "https://www.producthunt.com/products/gnista",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "Run more coding agents, watch none of them",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "HiringNow",
+     "url": "https://www.producthunt.com/products/hiringnow",
+     "meta": "Product Hunt · 2026-11-02",
+     "summary": "AI job agent that finds & apply for jobs before anyone else.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ScreenGo",
+     "url": "https://www.producthunt.com/products/screengo",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "screen recorder for Mac with auto zooms and virtual webcam",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Scribe v3 by ElevenLabs",
+     "url": "https://www.producthunt.com/products/elevenlabs",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "Speech to text with 27% fewer errors in 90+ languages",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "VB Notes",
+     "url": "https://www.producthunt.com/products/vb-notes",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Markdown notes in your own folder, searched by meaning",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Claude Meetings",
+     "url": "https://www.producthunt.com/products/claude",
+     "meta": "Product Hunt · 2026-11-13",
+     "summary": "Add Claude to your call and get work started as you talk",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Aboard Sign",
+     "url": "https://www.producthunt.com/products/aboard-sign",
+     "meta": "Product Hunt · 2026-11-05",
+     "summary": "Email a contract, CC sign@aboard.com and collect signatures",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Kokonut UI",
+     "url": "https://www.producthunt.com/products/kokonutui",
+     "meta": "Product Hunt · 2026-11-01",
+     "summary": "Open-source UI components for your AI agent",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Seedream 5.5 by ByteDance",
+     "url": "https://www.producthunt.com/products/seedream-4-0",
+     "meta": "Product Hunt · 2026-11-09",
+     "summary": "ByteDance's AI image model built for 100-round editing",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Xolace",
+     "url": "https://www.producthunt.com/products/xolace",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "For the bad days you wouldn’t call a mental health problem",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "WHOOP Humans",
+     "url": "https://www.producthunt.com/products/whoop",
+     "meta": "Product Hunt · 2026-11-13",
+     "summary": "WHOOP's social network built around real health data",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Willo",
+     "url": "https://www.producthunt.com/products/willo-2",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "A companion you talk to while you play WoW",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Thunder",
+     "url": "https://www.producthunt.com/products/thunder-3",
+     "meta": "Product Hunt · 2026-11-13",
+     "summary": "A blazing-fast, persistent, key-value AI workload database",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "qorqbot",
+     "url": "https://www.producthunt.com/products/qorqbot",
+     "meta": "Product Hunt · 2026-10-18",
+     "summary": "Proactive agent for business work",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
