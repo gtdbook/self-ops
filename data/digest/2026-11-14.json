@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T04:45:26.602140+08:00",
+ "generated_at": "2026-11-14T09:16:29.511698+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
@@ -17,11 +17,106 @@
     }
    ]
   },
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "meta": "+224 分 / 4.5 小时 · 现 ⭐ 282",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "FM-1 Workbench",
+     "url": "https://open.m-vave.com/fm1-workbench",
+     "meta": "+105 分 / 4.5 小时 · 现 ⭐ 179",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "url": "https://www.nature.com/articles/d41586-026-03638-3",
+     "meta": "+101 分 / 4.5 小时 · 现 ⭐ 122",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+     "meta": "+97 分 / 4.5 小时 · 现 ⭐ 322",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+     "meta": "+75 分 / 4.5 小时 · 现 ⭐ 670",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+     "url": "https://isometricsf.com/",
+     "meta": "+67 分 / 4.5 小时 · 现 ⭐ 148",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "url": "https://haddyalchaer.com/jepa",
+     "meta": "+64 分 / 4.5 小时 · 现 ⭐ 212",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+     "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+     "meta": "+64 分 / 4.5 小时 · 现 ⭐ 94",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "meta": "+53 分 / 4.5 小时 · 现 ⭐ 447",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+     "meta": "+46 分 / 4.5 小时 · 现 ⭐ 133",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+     "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+     "meta": "Ars Technica · 2026-11-13",
+     "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
@@ -133,14 +228,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "How Check Point accelerates vulnerability research with Daybreak",
-     "url": "https://openai.com/index/check-point-daybreak",
-     "meta": "OpenAI · 2026-10-27",
-     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -149,6 +236,70 @@
    "emoji": "🏮",
    "errors": [],
    "items": [
+    {
+     "title": "[问与答] 很多火的东西，理解不了为什么火",
+     "url": "https://www.v2ex.com/t/1256990#reply1",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[全球工单系统] 郑州电信到郑州联通在高峰期单向网络质量劣化严重，凌晨恢复到正常",
+     "url": "https://www.v2ex.com/t/1256989#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我手上有郑州电信和郑州联通两条宽带，接在同一台 ImmortalWrt 上，最近一年都被高峰期的网络质量困扰。 通过全球网测 App 观察到的现象是： 电信宽带选联通节点 ：下载正常，上传几乎跑不完。 联通宽带选电信节点 ：上传正常，下载一度只有带宽的约 1/500 。 都是 电信到联通 方向出现了问题。 忍不住向 AI 许愿，AI 哐哐哐在 ImmortalWrt 上开始操作，下面是结果： 把两",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 会不会有一天再也看不到人写的东西了",
+     "url": "https://www.v2ex.com/t/1256988#reply2",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "今天刷一会微信公众号，AI 写的推送越来越多了，连 Ubuntu 官方账号也是 AI 写了。我也不是说排斥 AI ，我就觉得看着难受，看起来费劲。现在同事的技术方案也都是纯 AI 写，密密麻麻全是字，真的没法看。我只能丢给 AI 看，然后我再问 AI 到底在讲什么。以后就变成了 AI 写，AI 看，人再也不参与了。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 最近做了一个运行在 iPhone 的 agent",
+     "url": "https://www.v2ex.com/t/1256987#reply2",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "核心功能如下 支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，让 agent 能干活 支持本地浏览器 支持动态 ui 生成 支持 skill ，能自动扫描远程 skill 支持插件，可以在各种时机插入想要的逻辑 支持定时或者地理位置触发任务 最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高 tf 内测中： https://testflight.appl",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[路由器] 家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）",
+     "url": "https://www.v2ex.com/t/1256986#reply5",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。 想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。 如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[生活] 有小孩了,想每年给小孩存一点钱,大家推荐什么",
+     "url": "https://www.v2ex.com/t/1256985#reply7",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "目前给弄了个 3 年的定期存款 希望有点收益,不要太大也不要冒险吧",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 最近大厂也在 AI 标注平台么",
+     "url": "https://www.v2ex.com/t/1256984#reply0",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "最近大厂也在 AI 标注平台么 前几天 天猫打了好几次电话 我还以为啥大事 原来是让我注册 他们的 “晓天睿士” 平台，但是搞笑的是 他们网页标题： 然后这几天 腾讯也高了一个，认证就能提现 100 现金， 😂 真的薅羊毛么 https://experthub.tencent.com/?referral_code=WPNXGE",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 闲置的算力怎么出租出去",
+     "url": "https://www.v2ex.com/t/1256981#reply1",
+     "meta": "V2EX · 2026-11-13",
+     "summary": "我在温哥华有一台闲置服务器，目前放在 SFU 校园，可以通过 SSH 远程访问，预计下个月会搬到公寓使用住宅 IP 。 具体配置如下： CPU：Intel Xeon 634 内存：32 GB 硬盘：1 TB 显卡：2 张 NVIDIA RTX PRO 6000 想请教一下，有哪些平台适合出租这类服务器的算力？按照这个配置，大概可以以什么价格出租？",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
     {
      "title": "[Go 编程语言] 开源了一个零依赖的 Go 二维码识别库 qore，识别率和速度都优于 ZXing",
      "url": "https://www.v2ex.com/t/1256980#reply0",
@@ -198,74 +349,10 @@
      "origin_source": "cn_rss"
     },
     {
-     "title": "非洲加速发展太阳能",
-     "url": "https://www.solidot.org/story?sid=85882",
-     "meta": "Solidot · 2026-11-13",
-     "summary": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 Af",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 用 Claude 写 HTML 幻灯片挺好看，但汇报非要交 PPTX，遂搓了个纯前端微调转 PPTX / PDF 的小工具",
-     "url": "https://www.v2ex.com/t/1256973#reply0",
+     "title": "[程序员] ‘AI 取代人类’的另一种解读",
+     "url": "https://www.v2ex.com/t/1256975#reply2",
      "meta": "V2EX · 2026-11-13",
-     "summary": "最近几个月做汇报和分享课件，我基本告别传统 PPT 模板了。直接把大纲丢给 Claude（Artifact）、Gemini 或者在 Cursor 里让 AI 生成单文件 HTML 幻灯片，出来的排版审美和信息密度，比市面上大多数套模板的“一句话生成 PPT”强太多。 但到了真正要交差的时候，总会卡在最后一步： 交付格式不对付 ：发给老板、客户或者汇总到团队群里，人家要的是能直接打开改两句的 .pp",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] V2EX 两步验证密码在我手机上被我误删了该怎么操作",
-     "url": "https://www.v2ex.com/t/1256972#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "如题，手快了",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 为了避免看 KPL 比赛回放被剧透，我做了一个按需解锁进度的比赛回放网页",
-     "url": "https://www.v2ex.com/t/1256971#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "有没有像我一样， 把 KPL 比赛当电子榨菜，一场比赛可以看好几天，不追进度， 但不想提前知道结果。 之前用 B 站看，每次都把手机给 Codex 让他帮我打开，避免看到结果 但经不住决赛结束后，满屏的恭喜 XX 夺冠。 于是写了这个网站，可以安安静静的按我的节奏看 网页在 CF 上，第一次访问需要翻墙，后续 PWA 缓存，视频是直连国内源 支持视频离线 顺便说一下，今天是 2026 KPL 年总",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 给 yovoice 做了个社区广场，可以分享自己 AI 音乐的作品，也可以听听别人的创作、找找灵感",
-     "url": "https://www.v2ex.com/t/1256970#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "最近一直在折腾 yovoice ，现在把社区板块上线了： https://yovoice.leemysw.com/community 把大家用 yovoice 做出来的声音作品聚到一起，可以分享自己的作品，也可以听听别人的创作、找找灵感",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 你们都在用什么软件刮削,支持成人么？",
-     "url": "https://www.v2ex.com/t/1256969#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] [分享创造] 一个带来源分级与保鲜机制的海外项目数据集（41 项目 / 136 来源，开源 + 双语站）",
-     "url": "https://www.v2ex.com/t/1256968#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "做这个小东西的起因很具体：在给自己查 2027 年 J-1 的资格，发现中文世界关于「打工度假 / 海外实习签证」的信息有一个系统性问题—— 把只对中国台湾、中国香港护照开放的项目，写成「中国公民可申请」。加拿大 IEC 、英国 YMS 、爱尔兰 WHA 、日本 WH 、韩国 H-1 都属于双边互惠协议，中国大陆护照不在名单内。这类错误在攻略、中介软文、AI 生成内容里反复出现。 于是我把它当成一",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 做了一个在线 PDF 编辑器，可以直接修改 PDF 原有文字，不用转 Word",
-     "url": "https://www.v2ex.com/t/1256967#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "大家好，最近做了一个在线 PDF 编辑工具，叫 Pdfable ，想分享一下，也希望听听大家的意见。 网站： https://pdfable.app/ 做这个工具主要是想解决一个比较常见的问题：有时候拿到一份 PDF ，只需要修改几个字、调整一段文字，或者替换一些内容，但处理起来却很麻烦。 很多在线 PDF 工具虽然叫编辑器，实际上只能在原文件上添加文本框。如果想修改 PDF 里原本存在的文字，往",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] ai 辅助手搓一个 a 股看股工具",
-     "url": "https://www.v2ex.com/t/1256966#reply0",
-     "meta": "V2EX · 2026-11-13",
-     "summary": "地址： https://github.com/kildee/a-sm-box 它做的事情很简单：把自选股票的日 K 线拉到本地，按一套公开的规则计算技术指标， 把结果摆出来供复盘时查看；另外带一个按固定规则运行的虚拟盘和一本交易日记。 所有计算规则都写在代码里，可以直接读、直接改。 这是我们自用系统的精简版，拿出来和做交易的朋友交流，也可以当作一份学习样本。 没有账号系统，启动后谁都可以访问全部功",
+     "summary": "最近在玩 dsh ，因为是个比较新的东西，所以它生态圈里的项目全都是新出来的 玩了两个礼拜，发现了一个可怕的事情，这些新项目的 readme/doc/commit/pr 基本都是 ai 生成的八股长篇，但凡作者给你配上几张实机演示截图都算是比较用心的了，大部分项目都是无图无演示几千字纯文本的自动生成 很难看到旧时代那种简短且精准表述的人工文档了 作者是省心了，用户可就遭罪了 自己慢慢看，又麻烦又耗",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -279,7 +366,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 7270 · Swift",
+     "meta": "⭐ 7319 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -295,7 +382,7 @@
     {
      "title": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "meta": "⭐ 2862 · C#",
+     "meta": "⭐ 2868 · C#",
      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
      "reason": null,
      "origin_source": "github_search"
@@ -303,31 +390,31 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 1904 · Swift",
+     "meta": "⭐ 1921 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "HybridRobotics/supermimic",
-     "url": "https://github.com/HybridRobotics/supermimic",
-     "meta": "⭐ 1430 · Python",
-     "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "meta": "⭐ 1410 · C++",
+     "meta": "⭐ 1482 · C++",
      "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HybridRobotics/supermimic",
+     "url": "https://github.com/HybridRobotics/supermimic",
+     "meta": "⭐ 1438 · Python",
+     "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "meta": "⭐ 1330 · TypeScript",
+     "meta": "⭐ 1344 · TypeScript",
      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
      "reason": null,
      "origin_source": "github_search"
@@ -335,15 +422,15 @@
     {
      "title": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "meta": "⭐ 1235 · TypeScript",
-     "summary": "Private AI meeting notes. Free and open source.",
+     "meta": "⭐ 1271 · TypeScript",
+     "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "meta": "⭐ 1089 · Go",
+     "meta": "⭐ 1102 · Go",
      "summary": "One self-hosted app for your shows, movies and music.",
      "reason": null,
      "origin_source": "github_search"
@@ -375,7 +462,7 @@
     {
      "title": "kolbicz/WQFiles",
      "url": "https://github.com/kolbicz/WQFiles",
-     "meta": "⭐ 799 · Objective-C",
+     "meta": "⭐ 804 · Objective-C",
      "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
      "reason": null,
      "origin_source": "github_search"
@@ -383,7 +470,7 @@
     {
      "title": "serveroshq/panel",
      "url": "https://github.com/serveroshq/panel",
-     "meta": "⭐ 737 · PHP",
+     "meta": "⭐ 751 · PHP",
      "summary": "The open source ServerOS panel: one place to run the Linux servers you already own.",
      "reason": null,
      "origin_source": "github_search"
@@ -391,7 +478,7 @@
     {
      "title": "alexeyw/lot-map",
      "url": "https://github.com/alexeyw/lot-map",
-     "meta": "⭐ 718 · TypeScript",
+     "meta": "⭐ 736 · TypeScript",
      "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -404,6 +491,14 @@
    "errors": [],
    "items": [
     {
+     "title": "FAA issues national ground stop",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "meta": "⭐ 1278 · 💬 770",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "LibreOffice actually works 365 days a year",
      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
      "meta": "⭐ 676 · 💬 218",
@@ -414,7 +509,7 @@
     {
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "meta": "⭐ 595 · 💬 167",
+     "meta": "⭐ 670 · 💬 198",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -422,7 +517,7 @@
     {
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "meta": "⭐ 394 · 💬 275",
+     "meta": "⭐ 447 · 💬 306",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -438,7 +533,15 @@
     {
      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-     "meta": "⭐ 225 · 💬 58",
+     "meta": "⭐ 322 · 💬 91",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "meta": "⭐ 282 · 💬 160",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -446,7 +549,15 @@
     {
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "url": "https://haddyalchaer.com/jepa",
-     "meta": "⭐ 148 · 💬 28",
+     "meta": "⭐ 212 · 💬 35",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+     "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+     "meta": "⭐ 3 · 💬 0",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -460,9 +571,33 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Models can now transmit viruses in weight-space",
-     "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-     "meta": "⭐ 98 · 💬 35",
+     "title": "FM-1 Workbench",
+     "url": "https://open.m-vave.com/fm1-workbench",
+     "meta": "⭐ 179 · 💬 103",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A technical vision for the Haskell ecosystem",
+     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+     "meta": "⭐ 178 · 💬 84",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+     "url": "https://orcasairband.com/",
+     "meta": "⭐ 178 · 💬 44",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "All US airports are currently ground stopped",
+     "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+     "meta": "⭐ 162 · 💬 31",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -471,54 +606,6 @@
      "title": "OpenAI disbands its robotics team as its general models start running robots",
      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
      "meta": "⭐ 96 · 💬 30",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A technical vision for the Haskell ecosystem",
-     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "meta": "⭐ 144 · 💬 63",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-     "meta": "⭐ 110 · 💬 29",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-     "meta": "⭐ 87 · 💬 54",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-     "url": "https://isometricsf.com/",
-     "meta": "⭐ 81 · 💬 29",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "FM-1 Workbench",
-     "url": "https://open.m-vave.com/fm1-workbench",
-     "meta": "⭐ 74 · 💬 39",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Apify Security Incident",
-     "url": "https://status.apify.com/incidents/sxd1dj5j6749",
-     "meta": "⭐ 69 · 💬 10",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
