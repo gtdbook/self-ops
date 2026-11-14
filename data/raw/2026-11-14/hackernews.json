@@ -1,8 +1,40 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-14T16:35:36.074003+08:00",
- "count": 47,
+ "updated_at": "2026-11-14T23:32:55.026671+08:00",
+ "count": 62,
  "items": [
+  {
+   "id": "hn-50440709",
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+   "hn_url": "https://news.ycombinator.com/item?id=50440709",
+   "score": 292,
+   "comments": 170,
+   "author": "casi",
+   "time_iso": "2026-11-10T14:16:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 292
+    }
+   ]
+  },
+  {
+   "id": "hn-50441444",
+   "title": "Generative AI uses more energy on non-English text",
+   "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+   "hn_url": "https://news.ycombinator.com/item?id=50441444",
+   "score": 56,
+   "comments": 36,
+   "author": "DeepLogin",
+   "time_iso": "2026-11-10T15:07:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 56
+    }
+   ]
+  },
   {
    "id": "hn-50444761",
    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
@@ -52,6 +84,38 @@
    ]
   },
   {
+   "id": "hn-50465926",
+   "title": "Bilingualism and Denaskuleco",
+   "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+   "hn_url": "https://news.ycombinator.com/item?id=50465926",
+   "score": 3,
+   "comments": 0,
+   "author": "surprisetalk",
+   "time_iso": "2026-11-12T12:00:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 3
+    }
+   ]
+  },
+  {
+   "id": "hn-50467278",
+   "title": "Testing a Trash Can Faraday Cage",
+   "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+   "hn_url": "https://news.ycombinator.com/item?id=50467278",
+   "score": 17,
+   "comments": 4,
+   "author": "torutofu",
+   "time_iso": "2026-11-12T14:04:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 17
+    }
+   ]
+  },
+  {
    "id": "hn-50474959",
    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
@@ -88,6 +152,22 @@
     {
      "t": "2026-11-14T04:45:16.774729+08:00",
      "score": 349
+    }
+   ]
+  },
+  {
+   "id": "hn-50478632",
+   "title": "Let's Write a PostScript Interpreter",
+   "url": "https://beyondloom.com/blog/postscript.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50478632",
+   "score": 43,
+   "comments": 9,
+   "author": "RebelPotato",
+   "time_iso": "2026-11-13T05:12:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 43
     }
    ]
   },
@@ -196,14 +276,18 @@
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "hn_url": "https://news.ycombinator.com/item?id=50484658",
-   "score": 268,
-   "comments": 301,
+   "score": 396,
+   "comments": 554,
    "author": "helloplanets",
    "time_iso": "2026-11-13T15:08:44+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 268
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 396
     }
    ]
   },
@@ -468,8 +552,8 @@
    "title": "Found: A protein that drives ageing without unleashing inflammation",
    "url": "https://www.nature.com/articles/d41586-026-03638-3",
    "hn_url": "https://news.ycombinator.com/item?id=50488470",
-   "score": 186,
-   "comments": 26,
+   "score": 231,
+   "comments": 59,
    "author": "gumby",
    "time_iso": "2026-11-13T19:25:21+00:00",
    "history": [
@@ -484,6 +568,10 @@
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 186
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 231
     }
    ]
   },
@@ -592,8 +680,8 @@
    "title": "FAA issues national ground stop – lifted 4.5 hours later",
    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
    "hn_url": "https://news.ycombinator.com/item?id=50489641",
-   "score": 1518,
-   "comments": 1160,
+   "score": 1602,
+   "comments": 1225,
    "author": "zulln",
    "time_iso": "2026-11-13T21:05:53+00:00",
    "history": [
@@ -604,6 +692,10 @@
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 1518
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 1602
     }
    ]
   },
@@ -684,8 +776,8 @@
    "title": "Terminal borders that don't cost a cell",
    "url": "https://www.joshka.net/cell-borders/",
    "hn_url": "https://news.ycombinator.com/item?id=50491423",
-   "score": 221,
-   "comments": 88,
+   "score": 351,
+   "comments": 151,
    "author": "vinhnx",
    "time_iso": "2026-11-13T23:06:40+00:00",
    "history": [
@@ -696,6 +788,10 @@
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 221
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 351
     }
    ]
   },
@@ -704,14 +800,18 @@
    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
    "url": "https://grounds.top/",
    "hn_url": "https://news.ycombinator.com/item?id=50491545",
-   "score": 133,
-   "comments": 18,
+   "score": 185,
+   "comments": 23,
    "author": "gvsi",
    "time_iso": "2026-11-13T23:17:39+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 133
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 185
     }
    ]
   },
@@ -720,8 +820,8 @@
    "title": "What happened to 3Com?",
    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
    "hn_url": "https://news.ycombinator.com/item?id=50491830",
-   "score": 126,
-   "comments": 64,
+   "score": 178,
+   "comments": 98,
    "author": "gvieri",
    "time_iso": "2026-11-13T23:48:59+00:00",
    "history": [
@@ -732,6 +832,10 @@
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 126
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 178
     }
    ]
   },
@@ -740,14 +844,18 @@
    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
    "url": "https://unsloth.ai/docs/models/qwen3.8",
    "hn_url": "https://news.ycombinator.com/item?id=50491980",
-   "score": 113,
-   "comments": 25,
+   "score": 209,
+   "comments": 63,
    "author": "Retro_Dev",
    "time_iso": "2026-11-14T00:06:04+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 113
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 209
     }
    ]
   },
@@ -824,14 +932,18 @@
    "title": "Ggml v1.0.0",
    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
    "hn_url": "https://news.ycombinator.com/item?id=50493062",
-   "score": 223,
-   "comments": 37,
+   "score": 351,
+   "comments": 53,
    "author": "cobychapple",
    "time_iso": "2026-11-14T02:28:29+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 223
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 351
     }
    ]
   },
@@ -840,14 +952,18 @@
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "hn_url": "https://news.ycombinator.com/item?id=50493251",
-   "score": 481,
-   "comments": 268,
+   "score": 855,
+   "comments": 509,
    "author": "speckx",
    "time_iso": "2026-11-14T02:52:59+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 481
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 855
     }
    ]
   },
@@ -856,14 +972,178 @@
    "title": "Monkey Island: all 13 versions side by side",
    "url": "https://monkeyisland.pages.dev/",
    "hn_url": "https://news.ycombinator.com/item?id=50493904",
-   "score": 42,
-   "comments": 4,
+   "score": 304,
+   "comments": 90,
    "author": "maximilianburke",
    "time_iso": "2026-11-14T04:23:30+00:00",
    "history": [
     {
      "t": "2026-11-14T16:35:36.074003+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 304
+    }
+   ]
+  },
+  {
+   "id": "hn-50496602",
+   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "hn_url": "https://news.ycombinator.com/item?id=50496602",
+   "score": 144,
+   "comments": 30,
+   "author": "gslin",
+   "time_iso": "2026-11-14T12:45:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 144
+    }
+   ]
+  },
+  {
+   "id": "hn-50496811",
+   "title": "Advancing science and engineering with Antigravity's /teamwork",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "hn_url": "https://news.ycombinator.com/item?id=50496811",
+   "score": 27,
+   "comments": 9,
+   "author": "acossta",
+   "time_iso": "2026-11-14T13:20:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 27
+    }
+   ]
+  },
+  {
+   "id": "hn-50496885",
+   "title": "A visual explanation of reinforcement learning",
+   "url": "https://aatishb.com/myriad/how-brains-learn/",
+   "hn_url": "https://news.ycombinator.com/item?id=50496885",
+   "score": 7,
+   "comments": 0,
+   "author": "aatish",
+   "time_iso": "2026-11-14T13:31:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50496976",
+   "title": "KDE: The Documentary on Free Software [video]",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "hn_url": "https://news.ycombinator.com/item?id=50496976",
+   "score": 26,
+   "comments": 0,
+   "author": "mrkn1",
+   "time_iso": "2026-11-14T13:43:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50497009",
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "hn_url": "https://news.ycombinator.com/item?id=50497009",
+   "score": 57,
+   "comments": 18,
+   "author": "giuliomagnifico",
+   "time_iso": "2026-11-14T13:48:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 57
+    }
+   ]
+  },
+  {
+   "id": "hn-50497041",
+   "title": "The Myth of Neutral Code",
+   "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+   "hn_url": "https://news.ycombinator.com/item?id=50497041",
+   "score": 18,
+   "comments": 3,
+   "author": "birdculture",
+   "time_iso": "2026-11-14T13:52:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50497132",
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "hn_url": "https://news.ycombinator.com/item?id=50497132",
+   "score": 31,
+   "comments": 1,
+   "author": "snipedbywifi",
+   "time_iso": "2026-11-14T14:05:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-50497137",
+   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+   "url": "https://github.com/FURSOY/fursoy-cpu",
+   "hn_url": "https://news.ycombinator.com/item?id=50497137",
+   "score": 11,
+   "comments": 0,
+   "author": "fursoy",
+   "time_iso": "2026-11-14T14:06:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50497147",
+   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+   "url": "https://github.com/paul-nameless/agweb",
+   "hn_url": "https://news.ycombinator.com/item?id=50497147",
+   "score": 19,
+   "comments": 3,
+   "author": "paul_nameless",
+   "time_iso": "2026-11-14T14:08:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50497155",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "hn_url": "https://news.ycombinator.com/item?id=50497155",
+   "score": 43,
+   "comments": 18,
+   "author": "wondersky",
+   "time_iso": "2026-11-14T14:09:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-14T23:32:55.026671+08:00",
+     "score": 43
     }
    ]
   }
