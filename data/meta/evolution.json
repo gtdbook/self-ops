@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:24:01.322957+08:00",
+ "updated_at": "2026-11-14T11:10:33.292158+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -234,6 +234,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "gemini(9次→+0.50)、code(8次→+2.61)、every(8次→+2.65)、claude(8次→+2.26)、huang(6次→+0.50)、jensen(6次→+0.50)、work(6次→+0.50)、help(6次→+0.50)"
+  },
+  {
+   "ts": "2026-11-14T11:10:33.292158+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "gemini(12次→+0.97)、nvidia(8次→+0.50)、huang(8次→+0.97)、code(8次→+2.98)、claude(8次→+2.65)、bot(6次→+0.50)、grok(6次→+0.50)、without(6次→+0.93)"
   }
  ]
 }
