@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-15T15:32:19.712539+08:00",
- "count": 26,
+ "updated_at": "2026-11-15T23:19:23.090537+08:00",
+ "count": 29,
  "items": [
   {
    "id": "gh-1450012790",
@@ -37,7 +37,7 @@
    "id": "gh-1450792839",
    "title": "serveroshq/panel",
    "url": "https://github.com/serveroshq/panel",
-   "stars": 818,
+   "stars": 832,
    "language": "PHP",
    "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
    "created_at": "2026-11-09T00:47:33Z",
@@ -53,6 +53,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 818
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 832
     }
    ]
   },
@@ -60,7 +64,7 @@
    "id": "gh-1450794567",
    "title": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1423,
+   "stars": 1470,
    "language": "TypeScript",
    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals.",
    "created_at": "2026-11-09T00:50:28Z",
@@ -76,6 +80,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1423
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1470
     }
    ]
   },
@@ -83,7 +91,7 @@
    "id": "gh-1450963843",
    "title": "huamidev/GestaltX",
    "url": "https://github.com/huamidev/GestaltX",
-   "stars": 7634,
+   "stars": 7703,
    "language": "Swift",
    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
    "created_at": "2026-11-09T05:15:48Z",
@@ -99,6 +107,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 7634
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 7703
     }
    ]
   },
@@ -106,7 +118,7 @@
    "id": "gh-1451419767",
    "title": "kolbicz/WQFiles",
    "url": "https://github.com/kolbicz/WQFiles",
-   "stars": 872,
+   "stars": 897,
    "language": "Objective-C",
    "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
    "created_at": "2026-11-09T13:43:40Z",
@@ -122,6 +134,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 872
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 897
     }
    ]
   },
@@ -129,7 +145,7 @@
    "id": "gh-1451554320",
    "title": "adriadam10/mkw-recomp",
    "url": "https://github.com/adriadam10/mkw-recomp",
-   "stars": 995,
+   "stars": 1103,
    "language": "C",
    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
    "created_at": "2026-11-09T15:40:06Z",
@@ -145,6 +161,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 995
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1103
     }
    ]
   },
@@ -152,7 +172,7 @@
    "id": "gh-1451775929",
    "title": "alexeyw/lot-map",
    "url": "https://github.com/alexeyw/lot-map",
-   "stars": 843,
+   "stars": 859,
    "language": "TypeScript",
    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
    "created_at": "2026-11-09T19:13:52Z",
@@ -168,6 +188,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 843
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 859
     }
    ]
   },
@@ -175,7 +199,7 @@
    "id": "gh-1452008226",
    "title": "HolyArrs/HolyArrs",
    "url": "https://github.com/HolyArrs/HolyArrs",
-   "stars": 1205,
+   "stars": 1227,
    "language": "Go",
    "description": "One self-hosted app for your shows, movies and music.",
    "created_at": "2026-11-09T23:53:25Z",
@@ -191,6 +215,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1205
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1227
     }
    ]
   },
@@ -198,7 +226,7 @@
    "id": "gh-1452123445",
    "title": "Kianuni/Erosion-CN",
    "url": "https://github.com/Kianuni/Erosion-CN",
-   "stars": 2085,
+   "stars": 2113,
    "language": "Swift",
    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
    "created_at": "2026-11-10T02:37:31Z",
@@ -214,6 +242,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 2085
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 2113
     }
    ]
   },
@@ -221,7 +253,7 @@
    "id": "gh-1452450730",
    "title": "JDhruv14/line-art-animation",
    "url": "https://github.com/JDhruv14/line-art-animation",
-   "stars": 788,
+   "stars": 811,
    "language": "TypeScript",
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "created_at": "2026-11-10T09:25:25Z",
@@ -237,6 +269,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 788
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 811
     }
    ]
   },
@@ -244,7 +280,7 @@
    "id": "gh-1452531582",
    "title": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
-   "stars": 1515,
+   "stars": 1533,
    "language": "Python",
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "created_at": "2026-11-10T10:46:56Z",
@@ -260,6 +296,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1515
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1533
     }
    ]
   },
@@ -267,7 +307,7 @@
    "id": "gh-1453132706",
    "title": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "stars": 1527,
+   "stars": 1582,
    "language": "TypeScript",
    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "created_at": "2026-11-10T20:01:01Z",
@@ -283,6 +323,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1527
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1582
     }
    ]
   },
@@ -290,7 +334,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 1895,
+   "stars": 1974,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -306,6 +350,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1895
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1974
     }
    ]
   },
@@ -313,7 +361,7 @@
    "id": "gh-1453604719",
    "title": "Eynnzerr/TelemetryCleaner",
    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-   "stars": 723,
+   "stars": 893,
    "language": "Kotlin",
    "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
    "created_at": "2026-11-11T06:25:10Z",
@@ -321,6 +369,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 723
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 893
     }
    ]
   },
@@ -328,7 +380,7 @@
    "id": "gh-1455006582",
    "title": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
-   "stars": 1910,
+   "stars": 2448,
    "language": "TypeScript",
    "description": "Chat Demo",
    "created_at": "2026-11-12T08:08:19Z",
@@ -344,6 +396,25 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1910
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 2448
+    }
+   ]
+  },
+  {
+   "id": "gh-1455066549",
+   "title": "ZiChuanLan/freebie-radar",
+   "url": "https://github.com/ZiChuanLan/freebie-radar",
+   "stars": 703,
+   "language": "TypeScript",
+   "description": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+   "created_at": "2026-11-12T09:08:11Z",
+   "history": [
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 703
     }
    ]
   },
@@ -363,10 +434,25 @@
    ]
   },
   {
+   "id": "gh-1455374283",
+   "title": "Noniv/abyssal-garden",
+   "url": "https://github.com/Noniv/abyssal-garden",
+   "stars": 788,
+   "language": "JavaScript",
+   "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+   "created_at": "2026-11-12T13:57:34Z",
+   "history": [
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 788
+    }
+   ]
+  },
+  {
    "id": "gh-1455815512",
    "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
    "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-   "stars": 1051,
+   "stars": 1538,
    "language": "Visual Basic .NET",
    "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
    "created_at": "2026-11-12T20:49:07Z",
@@ -382,6 +468,10 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 1051
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 1538
     }
    ]
   },
@@ -389,7 +479,7 @@
    "id": "gh-1456537250",
    "title": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
-   "stars": 692,
+   "stars": 715,
    "language": "TypeScript",
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "created_at": "2026-11-13T11:50:50Z",
@@ -405,6 +495,25 @@
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 692
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 715
+    }
+   ]
+  },
+  {
+   "id": "gh-1457270665",
+   "title": "duwqijlk/muse-protocol",
+   "url": "https://github.com/duwqijlk/muse-protocol",
+   "stars": 860,
+   "language": "Python",
+   "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+   "created_at": "2026-11-14T01:24:58Z",
+   "history": [
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
+     "score": 860
     }
    ]
   },
@@ -423,6 +532,10 @@
     },
     {
      "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 678
+    },
+    {
+     "t": "2026-11-15T23:19:23.090537+08:00",
      "score": 678
     }
    ]
