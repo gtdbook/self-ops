@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-15T08:44:47.993011+08:00",
- "count": 25,
+ "updated_at": "2026-11-15T15:32:19.712539+08:00",
+ "count": 26,
  "items": [
   {
    "id": "gh-1450012790",
@@ -37,7 +37,7 @@
    "id": "gh-1450792839",
    "title": "serveroshq/panel",
    "url": "https://github.com/serveroshq/panel",
-   "stars": 796,
+   "stars": 818,
    "language": "PHP",
    "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
    "created_at": "2026-11-09T00:47:33Z",
@@ -49,6 +49,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 796
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 818
     }
    ]
   },
@@ -56,7 +60,7 @@
    "id": "gh-1450794567",
    "title": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1402,
+   "stars": 1423,
    "language": "TypeScript",
    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals.",
    "created_at": "2026-11-09T00:50:28Z",
@@ -68,6 +72,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1402
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1423
     }
    ]
   },
@@ -75,7 +83,7 @@
    "id": "gh-1450963843",
    "title": "huamidev/GestaltX",
    "url": "https://github.com/huamidev/GestaltX",
-   "stars": 7568,
+   "stars": 7634,
    "language": "Swift",
    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
    "created_at": "2026-11-09T05:15:48Z",
@@ -87,6 +95,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 7568
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 7634
     }
    ]
   },
@@ -94,7 +106,7 @@
    "id": "gh-1451419767",
    "title": "kolbicz/WQFiles",
    "url": "https://github.com/kolbicz/WQFiles",
-   "stars": 858,
+   "stars": 872,
    "language": "Objective-C",
    "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
    "created_at": "2026-11-09T13:43:40Z",
@@ -106,6 +118,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 858
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 872
     }
    ]
   },
@@ -113,7 +129,7 @@
    "id": "gh-1451554320",
    "title": "adriadam10/mkw-recomp",
    "url": "https://github.com/adriadam10/mkw-recomp",
-   "stars": 927,
+   "stars": 995,
    "language": "C",
    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
    "created_at": "2026-11-09T15:40:06Z",
@@ -125,6 +141,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 927
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 995
     }
    ]
   },
@@ -132,7 +152,7 @@
    "id": "gh-1451775929",
    "title": "alexeyw/lot-map",
    "url": "https://github.com/alexeyw/lot-map",
-   "stars": 833,
+   "stars": 843,
    "language": "TypeScript",
    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
    "created_at": "2026-11-09T19:13:52Z",
@@ -144,6 +164,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 833
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 843
     }
    ]
   },
@@ -151,7 +175,7 @@
    "id": "gh-1452008226",
    "title": "HolyArrs/HolyArrs",
    "url": "https://github.com/HolyArrs/HolyArrs",
-   "stars": 1183,
+   "stars": 1205,
    "language": "Go",
    "description": "One self-hosted app for your shows, movies and music.",
    "created_at": "2026-11-09T23:53:25Z",
@@ -163,6 +187,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1183
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1205
     }
    ]
   },
@@ -170,7 +198,7 @@
    "id": "gh-1452123445",
    "title": "Kianuni/Erosion-CN",
    "url": "https://github.com/Kianuni/Erosion-CN",
-   "stars": 2057,
+   "stars": 2085,
    "language": "Swift",
    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
    "created_at": "2026-11-10T02:37:31Z",
@@ -182,6 +210,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 2057
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 2085
     }
    ]
   },
@@ -189,7 +221,7 @@
    "id": "gh-1452450730",
    "title": "JDhruv14/line-art-animation",
    "url": "https://github.com/JDhruv14/line-art-animation",
-   "stars": 756,
+   "stars": 788,
    "language": "TypeScript",
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "created_at": "2026-11-10T09:25:25Z",
@@ -201,6 +233,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 756
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 788
     }
    ]
   },
@@ -208,7 +244,7 @@
    "id": "gh-1452531582",
    "title": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
-   "stars": 1501,
+   "stars": 1515,
    "language": "Python",
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "created_at": "2026-11-10T10:46:56Z",
@@ -220,6 +256,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1501
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1515
     }
    ]
   },
@@ -227,7 +267,7 @@
    "id": "gh-1453132706",
    "title": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "stars": 1487,
+   "stars": 1527,
    "language": "TypeScript",
    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "created_at": "2026-11-10T20:01:01Z",
@@ -239,6 +279,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1487
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1527
     }
    ]
   },
@@ -246,7 +290,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 1839,
+   "stars": 1895,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -258,6 +302,25 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1839
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1895
+    }
+   ]
+  },
+  {
+   "id": "gh-1453604719",
+   "title": "Eynnzerr/TelemetryCleaner",
+   "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+   "stars": 723,
+   "language": "Kotlin",
+   "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+   "created_at": "2026-11-11T06:25:10Z",
+   "history": [
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 723
     }
    ]
   },
@@ -265,7 +328,7 @@
    "id": "gh-1455006582",
    "title": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
-   "stars": 1751,
+   "stars": 1910,
    "language": "TypeScript",
    "description": "Chat Demo",
    "created_at": "2026-11-12T08:08:19Z",
@@ -277,6 +340,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1751
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1910
     }
    ]
   },
@@ -299,7 +366,7 @@
    "id": "gh-1455815512",
    "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
    "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-   "stars": 1049,
+   "stars": 1051,
    "language": "Visual Basic .NET",
    "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
    "created_at": "2026-11-12T20:49:07Z",
@@ -311,6 +378,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 1049
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 1051
     }
    ]
   },
@@ -318,7 +389,7 @@
    "id": "gh-1456537250",
    "title": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
-   "stars": 671,
+   "stars": 692,
    "language": "TypeScript",
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "created_at": "2026-11-13T11:50:50Z",
@@ -330,6 +401,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 671
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 692
     }
    ]
   },
@@ -337,7 +412,7 @@
    "id": "gh-1458091050",
    "title": "Topkiflare74/ai--manus2.0",
    "url": "https://github.com/Topkiflare74/ai--manus2.0",
-   "stars": 677,
+   "stars": 678,
    "language": "",
    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
    "created_at": "2026-11-14T19:15:24Z",
@@ -345,6 +420,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 677
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 678
     }
    ]
   },
@@ -360,6 +439,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 672
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 672
     }
    ]
   },
@@ -374,6 +457,10 @@
    "history": [
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
+     "score": 670
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
      "score": 670
     }
    ]
@@ -427,7 +514,7 @@
    "id": "gh-1458099208",
    "title": "WarriorRemember/IPTV_Player_2.0",
    "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
-   "stars": 672,
+   "stars": 673,
    "language": "Rust",
    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.",
    "created_at": "2026-11-14T19:25:25Z",
@@ -435,6 +522,10 @@
     {
      "t": "2026-11-15T08:44:47.993011+08:00",
      "score": 672
+    },
+    {
+     "t": "2026-11-15T15:32:19.712539+08:00",
+     "score": 673
     }
    ]
   }

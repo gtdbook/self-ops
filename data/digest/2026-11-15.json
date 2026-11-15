@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T08:44:55.028411+08:00",
+ "generated_at": "2026-11-15T15:32:29.370854+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,9 +8,17 @@
    "errors": [],
    "items": [
     {
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "meta": "+480 分 / 6.8 小时 · 现 ⭐ 1077",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "meta": "+277 分 / 4.3 小时 · 现 ⭐ 607",
+     "meta": "+436 分 / 11.1 小时 · 现 ⭐ 766",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +26,39 @@
     {
      "title": "A family tree of software job titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "meta": "+111 分 / 4.3 小时 · 现 ⭐ 188",
+     "meta": "+201 分 / 11.1 小时 · 现 ⭐ 278",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "meta": "+164 分 / 11.1 小时 · 现 ⭐ 440",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "meta": "+134 分 / 11.1 小时 · 现 ⭐ 221",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "meta": "+125 分 / 6.8 小时 · 现 ⭐ 186",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why get an expensive Pi when I have an old phone?",
+     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+     "meta": "+112 分 / 11.1 小时 · 现 ⭐ 546",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,49 +80,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "meta": "+91 分 / 4.3 小时 · 现 ⭐ 367",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "meta": "+69 分 / 4.3 小时 · 现 ⭐ 156",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Why get an expensive Pi when I have an old phone?",
-     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "meta": "+61 分 / 4.3 小时 · 现 ⭐ 495",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "PyPI's redesigned project pages with clearer security signals are now live",
-     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "meta": "+48 分 / 4.3 小时 · 现 ⭐ 197",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Advancing science and engineering with Antigravity's /teamwork",
-     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "meta": "+44 分 / 4.3 小时 · 现 ⭐ 158",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Demystifying phone unlocking tools: A technical overview",
-     "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-     "meta": "+43 分 / 4.3 小时 · 现 ⭐ 69",
+     "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+     "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+     "meta": "+84 分 / 6.8 小时 · 现 ⭐ 227",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -222,122 +222,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[计算机] 如果给计算机基础教材列一个「五大经典」，你会选哪几本",
-     "url": "https://www.v2ex.com/t/1257146#reply0",
+     "title": "[分享发现] 感觉 carbon 有点被吹过头了",
+     "url": "https://www.v2ex.com/t/1257204#reply3",
      "meta": "V2EX · 2026-11-15",
-     "summary": "最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材： 计算机系统：《深入理解计算机系统》（CSAPP） 计算机网络：《计算机网络：自顶向下方法》 操作系统：《操作系统导论》（OSTEP） 编译原理：《编译原理》（Dragon Book） 数据库：《数据库系统概念》（Database System Concepts） 这五个方向基本覆盖了我理解的计算机基础知识体系。",
+     "summary": "写的代码，制定的计划，拿给 6.1 sol 审核老是会找出漏洞，都不敢让他写代码了。难道是我用的方式不对？",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[英雄联盟] 恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠",
-     "url": "https://www.v2ex.com/t/1257145#reply3",
+     "title": "[分享创造] AI 写代码，看 diff 却要开个几 G 的 IDE？我写了个 4MB 的工具，开源免费。",
+     "url": "https://www.v2ex.com/t/1257203#reply2",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "我有个痛点，不知道大家有没有。 现在写代码基本都交给 AI Agent 了，很少再自己手写。 手是不用写了，可 AI 改的代码还是得看呀，不看心里实在没底。 但为了看 diff，我们还是习惯打开手写代码时用的那些 IDE，比如 Xcode、Android Studio，或者 JetBrains 全家桶。 这些 IDE 在手写代码的年代确实离不开，可它们太重了。代码补全、编译、各种插件都集成在里面，",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] taptap 上架了一款游戏，欢迎体验",
+     "url": "https://www.v2ex.com/t/1257202#reply1",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "推广下自己刚上线的游戏，欢迎体验，提提建议。 快来 TapTap 一起玩 pagtom 的工作室官方版《我是团长》 🕹 NuR0CfDP 🎮 https://tap.cn/lCJV4SNvd 复制整段，打开 TapTap 发现好游戏",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] Olea：真正跑在手机上、能控制手机的 Agent 应用",
+     "url": "https://www.v2ex.com/t/1257201#reply2",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "这个项目最初只是出于好玩：我的 Pi 究竟能不能在手机上跑？结果它发展成为了一个通用的 Android Agent 脚手架，一键安装，Codex, Claude Code, Pi 都可以在上面运行。 它受到了 DSH Go 与 Orca 的启发，前者带来实际的原生本地 agent 和 phone use 可能性的思路，后者提供 Pi 要怎么跑的方向。最后决定采用了 PRoot + Agent Or",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 老号门户验证中国护照秒封吗？",
+     "url": "https://www.v2ex.com/t/1257200#reply2",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "Replies from Claude are unavailable on your account. You can complete the verification now in the Anthropic Verification Portal. 7 月注册的 用了三个月 pro 套餐 不编程 只在 ios 手机客户端问问题，美区礼品卡订阅。固定 winpc 新加披节点 昨晚建了个代谢报",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 二手/官翻 MBP 中，M 几比较划算",
+     "url": "https://www.v2ex.com/t/1257199#reply0",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "计划购入 48 或者 64G 内存 MBP，请教下大家，M 几比较划算，现在 M1MAX 价格相当实惠，不知道有没有坑 另外，从 M 几开始扩展了新指令集之类的，就是想跟对这个产品比较熟悉的网友请教下，M 几属于“最甜点？” 谢啦~",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 放一台 mini 主机在国外，通过远程连接 ，发现一个大问题。",
+     "url": "https://www.v2ex.com/t/1257197#reply0",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "rdp 是用的另外一个显示驱动 网页可以通过分辨率等显示参数发现 rdp 的渲染还是本机渲染。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[智谱] 避雷 GLM 的 Coding Plan",
+     "url": "https://www.v2ex.com/t/1257195#reply2",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "GLM 的 Coding Plan Lite 就是垃圾。 每日限时 5 小时，实际上是打开一个新仓库什么都没干，还是在有 Codegraph 索引文件的情况下，20 分钟不到就用完了，消耗极快。 价格 118 每月，和 Codex 一个价格，实际比 Codex 差远了，避雷",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 各位大佬，能否有哪个工具，可以检测中转站是否掺水",
+     "url": "https://www.v2ex.com/t/1257194#reply2",
      "meta": "V2EX · 2026-11-15",
      "summary": "",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 求助,三星 S24U ONE9.0 的新功能\"保固与维修\"怎么无法查到手机信息",
-     "url": "https://www.v2ex.com/t/1257144#reply1",
+     "title": "[Claude] 求推荐下 claude 中转站--内附详细要求",
+     "url": "https://www.v2ex.com/t/1257192#reply2",
      "meta": "V2EX · 2026-11-15",
-     "summary": "如图:",
+     "summary": "我自己有 gpt $20 但是感觉碰到难题,gpt 还是有些吃力,所以问下大家有没有推荐的中转站,以下是详细要求 有自己的团队,有自己的运维和开发,最好是有客服大群,能够解答缓存异常,对话异常等问题 有便宜的自营逆向分组 成立至少三个月以上 逆向分组有时候会不稳定(能稳定的逆向分组十之八九都是假的) 网站的公告有更新过 其实我是按照 packyapi 的标准写的..但是 packyapi 最近逆向",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 求购 awsb 5.2fable 这个模型",
-     "url": "https://www.v2ex.com/t/1257143#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "大量收购 AI API，长期稳定 收：Claude / GPT / Gemini / Grok / Azure / AWS / AIStudio / Vertex / OpenRouter 等 各种 AI 产品、API 额度均可谈 日耗 2-3M$，量大价优，欢迎对接，支持长期合作，稳定结算。 [临时任务] 超高价求购 awsb 5.2fable 模型 超高价求购 vertex gemini4 模",
+     "title": "[分享创造] [分享创造] 拯救每天下午茶选择困难：做了一个支持自由增删和筛选的「饮品抽卡」网页小工具：猫猫今天喝什么",
+     "url": "https://www.v2ex.com/t/1257190#reply1",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "由于对象每次点奶茶都会纠结喝什么，于是周末 vibe 了一个「饮品抽卡」网页小工具：「猫猫今天喝什么」。 主要支持的功能： 1. 完全自由的饮品库管理（支持自己增删改查） - 录入专属饮品：可以随时新增你常喝的奶茶或私藏咖啡，品牌、品名、价格、推荐喝法随你填。 - 自由添加标签：除了预设标签，还支持自己新建个性化标签（比如打上“周五必喝”、“减脂期可冲”、“神仙隐藏款”）。 - 随时编辑与删除：不",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 阿里下个月要有大动作！融合模型要上线了",
-     "url": "https://www.v2ex.com/t/1257141#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "还记得之前 happy horse 还在测试的时候就拿下榜首，大家还一直在猜是哪家的模型，憋了很久才出，原来是阿里的。但是正式上线后没什么后续啊，现在基本都没有动静了。其实还是很希望百家齐放的，有竞争就会有让利抢用户，最开始的即梦和 sora 之争，sora 一倒即梦就背刺会员，做的有点难看啊，那时候真是无奈，即梦当时拉开别的模型太多了。但是现在内部消息透露月阿里将会把 happy horse 和",
+     "title": "[问与答] 有线下去学过唱歌的吗？",
+     "url": "https://www.v2ex.com/t/1257189#reply2",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "个人评价自己不算五音不全，就是唱不上去，非常挤，还是想学习一下的，也不算特别热爱，不是要非常专业的那种。 但是从来没线下学过，不知道是不是有很多坑，怎么找靠谱呢？本来之前和同学去星聚会看到好像他们有自己的这种教学，但是网上完全搜不到任何真实评价的感觉，全是广告的样子。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 新一代的放疗治疗计划演示平台",
-     "url": "https://www.v2ex.com/t/1257139#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "https://tps.neuralrad.com 这是我在 UTSW Medcal Center 开发的新一代治疗计划演示平台",
+     "title": "[Claude] 从目前趋势来看 Claude 会成为中国人新时代的奢侈品",
+     "url": "https://www.v2ex.com/t/1257188#reply1",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "社区论坛频繁跳 KYC，频繁被封号的贴文越来越多了。 很多人买了 100 刀 200 刀的号仅用几个小时或者几天就被封了，而且不予退款。 这何尝不是新时代的奢侈品？这样的 SOTA 模型，毫无替代可选，想用好，用得稳，就需要花费大量金钱，买环境 买 IP 买海外 macmini 买各种老外的开的号，各种折腾.... 只要达里奥再狠一点，一定会是中国 AI 时代的奢侈品了，只要不断的丢钱进去，才能实",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[创业组队] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场",
-     "url": "https://www.v2ex.com/t/1257138#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "我是 Tim，2021 年在英国开了家公司 Mutus Tech，做农业和产业场景的 AI。和谢菲尔德大学、利物浦大学、Harper Adams 大学和农业咨询机构 ADAS 做过项目，参与过多个 Innovate UK 支持的研发项目，今年 4 月 Innovate UK Business Connect 写过一篇我们的案例。 五年下来最大的感受：在英国，技术不是最难的，难的是找对需求、拿到第一",
+     "title": "[推广] gpt-6.2-astra 6.2sol 吉吉 api 上线，能力吊打 fb5.2 欢迎 V 佬来尝，回复送测试鸡蛋。",
+     "url": "https://www.v2ex.com/t/1257187#reply0",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "gpt-6.2-astra 6.2sol 吉吉 api 上线 能力无需多说，吊打 fb5.2 吉吉 api https://www.jiji.cc/register 欢迎 V 佬来尝，回复送测试鸡蛋。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
-     "url": "https://www.v2ex.com/t/1257137#reply9",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
-     "url": "https://www.v2ex.com/t/1257137#reply8",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角",
-     "url": "https://www.v2ex.com/t/1257136#reply4",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "我让 Claude Opus 5.5 跑整个系统的全项目测试，测试到有一个比较极限的场景有 BUG ，于是我让 Agent 自己提了一个 jira 工单，然后呼叫对应模块的 owner 来解决这个 bug ，但是 owner 告诉我，他看不懂我的工单里是在说什么 于是我查看了一下 Agent 生成的工单，工单写的十分详细，但是根本没有重点，只是把我们做过的实验全部放上去，并且自创了一堆词汇，这些词",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角",
-     "url": "https://www.v2ex.com/t/1257136#reply5",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "我让 Claude Opus 5.5 跑整个系统的全项目测试，测试到有一个比较极限的场景有 BUG ，于是我让 Agent 自己提了一个 jira 工单，然后呼叫对应模块的 owner 来解决这个 bug ，但是 owner 告诉我，他看不懂我的工单里是在说什么 于是我查看了一下 Agent 生成的工单，工单写的十分详细，但是根本没有重点，只是把我们做过的实验全部放上去，并且自创了一堆词汇，这些词",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 老黄这些年，真没白干！",
-     "url": "https://www.v2ex.com/t/1257134#reply1",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "这两天刷 X 的时间线，感觉老黄这些年真没白干。 各种人都有人替他说话。从程序员、游戏玩家到创业者，连平时不关注芯片的人，也在声援他。这场面确实少见。 从当年坚持投入 CUDA ，到今天的 AI 热潮，几十年的眼光和坚持，大家都看在眼里。 公司做到全球顶尖，已经很难。遇到争议时，还能有这么多不同背景的人主动站出来支持，这份认可，比市值更让人感慨。 感觉老黄可以回归：钮祜禄·黄仁勋",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "美国失去麻疹消除地位",
-     "url": "https://www.solidot.org/story?sid=85889",
-     "meta": "Solidot · 2026-11-14",
-     "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[iPhone] 线下摸完 Duo，年年焕新最终还是换了 18Pro Max",
-     "url": "https://www.v2ex.com/t/1257132#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "因出差一直没空 ，昨天才去摸了一下 Duo ，不喜欢铰链开合时的这种阻尼感（或者说阻尼感太弱），感觉有点廉价。 不知道有没有人跟我一样的感觉，我看这点没人讨论过。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] Runner iPhone 版开启 TestFlight 内测：在手机上看终端、回消息、带 crew 干活",
-     "url": "https://www.v2ex.com/t/1257131#reply0",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "Runner 是我做的一个管理 CLI agent 的开源桌面工具，之前在 V 站 介绍过 ，可以在同一个 app 里用 Claude Code 、Codex 等，也可以把不同的 agent 放进一个 crew 里一起做任务。上次发 0.18 桌面端远程控制 的时候提过移动端会优先做 iOS ，最近把 Runner iPhone 版的 UI 和主要交互定下来了，已经上传 TestFlight ，开",
+     "title": "[推广] 让 AI Agent 去 Minecraft 里盖房子，比让它写代码难太多了",
+     "url": "https://www.v2ex.com/t/1257186#reply6",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "现在让 Agent 写业务代码、跑单测、修线上 Bug ，基本已经没什么新鲜感了。有编译器、类型检查和报错堆栈兜底，它自己多试几轮总能收敛。 最近几个月换了个更折磨它的场景：把 MinePilot 当实验田，试试看能不能让 Agent 在原生 Minecraft 里稳定造出十几万到三十几万方块、玩家真能走进去逛的大型建筑。 我原本以为跟以前做策略 DSL 一样，先给它造一套带编译校验的底座就够了（",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -351,7 +351,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 7568 · Swift",
+     "meta": "⭐ 7634 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -367,47 +367,47 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 2057 · Swift",
+     "meta": "⭐ 2085 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "apex-compute/ANR",
-     "url": "https://github.com/apex-compute/ANR",
-     "meta": "⭐ 1839 · C++",
-     "summary": "Apex Neural Rendering (ANR) by Apex Compute",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "meta": "⭐ 1751 · TypeScript",
+     "meta": "⭐ 1910 · TypeScript",
      "summary": "Chat Demo",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "HybridRobotics/supermimic",
-     "url": "https://github.com/HybridRobotics/supermimic",
-     "meta": "⭐ 1501 · Python",
-     "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+     "title": "apex-compute/ANR",
+     "url": "https://github.com/apex-compute/ANR",
+     "meta": "⭐ 1895 · C++",
+     "summary": "Apex Neural Rendering (ANR) by Apex Compute",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "meta": "⭐ 1487 · TypeScript",
+     "meta": "⭐ 1527 · TypeScript",
      "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "HybridRobotics/supermimic",
+     "url": "https://github.com/HybridRobotics/supermimic",
+     "meta": "⭐ 1515 · Python",
+     "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "meta": "⭐ 1402 · TypeScript",
+     "meta": "⭐ 1423 · TypeScript",
      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
      "reason": null,
      "origin_source": "github_search"
@@ -415,7 +415,7 @@
     {
      "title": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "meta": "⭐ 1183 · Go",
+     "meta": "⭐ 1205 · Go",
      "summary": "One self-hosted app for your shows, movies and music.",
      "reason": null,
      "origin_source": "github_search"
@@ -423,7 +423,7 @@
     {
      "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "meta": "⭐ 1049 · Visual Basic .NET",
+     "meta": "⭐ 1051 · Visual Basic .NET",
      "summary": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "reason": null,
      "origin_source": "github_search"
@@ -431,7 +431,7 @@
     {
      "title": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "meta": "⭐ 927 · C",
+     "meta": "⭐ 995 · C",
      "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "reason": null,
      "origin_source": "github_search"
@@ -439,7 +439,7 @@
     {
      "title": "kolbicz/WQFiles",
      "url": "https://github.com/kolbicz/WQFiles",
-     "meta": "⭐ 858 · Objective-C",
+     "meta": "⭐ 872 · Objective-C",
      "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
      "reason": null,
      "origin_source": "github_search"
@@ -447,7 +447,7 @@
     {
      "title": "alexeyw/lot-map",
      "url": "https://github.com/alexeyw/lot-map",
-     "meta": "⭐ 833 · TypeScript",
+     "meta": "⭐ 843 · TypeScript",
      "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -455,7 +455,7 @@
     {
      "title": "serveroshq/panel",
      "url": "https://github.com/serveroshq/panel",
-     "meta": "⭐ 796 · PHP",
+     "meta": "⭐ 818 · PHP",
      "summary": "The open source ServerOS panel: one place to run the Linux servers you already own.",
      "reason": null,
      "origin_source": "github_search"
@@ -463,7 +463,7 @@
     {
      "title": "JDhruv14/line-art-animation",
      "url": "https://github.com/JDhruv14/line-art-animation",
-     "meta": "⭐ 756 · TypeScript",
+     "meta": "⭐ 788 · TypeScript",
      "summary": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
      "reason": null,
      "origin_source": "github_search"
@@ -476,17 +476,17 @@
    "errors": [],
    "items": [
     {
-     "title": "Lovable apps expose passport details and more than 200K private messages",
-     "url": "https://www.crissyfield.de/research/lovable-en/",
-     "meta": "⭐ 607 · 💬 253",
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "meta": "⭐ 1077 · 💬 715",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "SpaceX catches the Starship to end Flight 15",
-     "url": "https://www.spacex.com/launches/starship-flight-15",
-     "meta": "⭐ 597 · 💬 397",
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "meta": "⭐ 766 · 💬 304",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -494,7 +494,7 @@
     {
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "meta": "⭐ 495 · 💬 280",
+     "meta": "⭐ 546 · 💬 298",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -508,6 +508,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "meta": "⭐ 440 · 💬 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Monkey Island: all 13 versions side by side",
      "url": "https://monkeyisland.pages.dev/",
      "meta": "⭐ 411 · 💬 138",
@@ -516,9 +524,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "meta": "⭐ 367 · 💬 79",
+     "title": "A family tree of software job titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "meta": "⭐ 278 · 💬 137",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -534,55 +542,7 @@
     {
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "meta": "⭐ 197 · 💬 90",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A family tree of software job titles",
-     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "meta": "⭐ 188 · 💬 91",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Generative AI uses more energy on non-English text",
-     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "meta": "⭐ 172 · 💬 96",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-     "meta": "⭐ 171 · 💬 89",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "US IRS free online tax filing open source repo (2025)",
-     "url": "https://github.com/IRS-Public/direct-file",
-     "meta": "⭐ 98 · 💬 28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Advancing science and engineering with Antigravity's /teamwork",
-     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "meta": "⭐ 158 · 💬 36",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "meta": "⭐ 156 · 💬 8",
+     "meta": "⭐ 232 · 💬 99",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -590,7 +550,47 @@
     {
      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-     "meta": "⭐ 143 · 💬 34",
+     "meta": "⭐ 227 · 💬 95",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "meta": "⭐ 221 · 💬 21",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Generative AI uses more energy on non-English text",
+     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+     "meta": "⭐ 201 · 💬 104",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+     "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+     "meta": "⭐ 195 · 💬 53",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Advancing science and engineering with Antigravity's /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "meta": "⭐ 192 · 💬 40",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "meta": "⭐ 186 · 💬 83",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
