@@ -1,12 +1,107 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T04:24:26.564454+08:00",
+ "generated_at": "2026-11-15T08:44:55.028411+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "meta": "+277 分 / 4.3 小时 · 现 ⭐ 607",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A family tree of software job titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "meta": "+111 分 / 4.3 小时 · 现 ⭐ 188",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tech companies are trying to shift the concept of privacy again",
+     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+     "meta": "+104 分 / 4.3 小时 · 现 ⭐ 446",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+     "meta": "+103 分 / 4.3 小时 · 现 ⭐ 171",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "meta": "+91 分 / 4.3 小时 · 现 ⭐ 367",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "meta": "+69 分 / 4.3 小时 · 现 ⭐ 156",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why get an expensive Pi when I have an old phone?",
+     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+     "meta": "+61 分 / 4.3 小时 · 现 ⭐ 495",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "meta": "+48 分 / 4.3 小时 · 现 ⭐ 197",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Advancing science and engineering with Antigravity's /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "meta": "+44 分 / 4.3 小时 · 现 ⭐ 158",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Demystifying phone unlocking tools: A technical overview",
+     "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+     "meta": "+43 分 / 4.3 小时 · 现 ⭐ 69",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Where was Nvidia’s security team?",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+     "meta": "TechCrunch AI · 2026-11-15",
+     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -118,14 +213,6 @@
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Evernote turns AI-driven discovery into paid subscriptions",
-     "url": "https://openai.com/ads/customers/evernote",
-     "meta": "OpenAI · 2026-10-28",
-     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -135,10 +222,66 @@
    "errors": [],
    "items": [
     {
+     "title": "[计算机] 如果给计算机基础教材列一个「五大经典」，你会选哪几本",
+     "url": "https://www.v2ex.com/t/1257146#reply0",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材： 计算机系统：《深入理解计算机系统》（CSAPP） 计算机网络：《计算机网络：自顶向下方法》 操作系统：《操作系统导论》（OSTEP） 编译原理：《编译原理》（Dragon Book） 数据库：《数据库系统概念》（Database System Concepts） 这五个方向基本覆盖了我理解的计算机基础知识体系。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[英雄联盟] 恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠",
+     "url": "https://www.v2ex.com/t/1257145#reply3",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 求助,三星 S24U ONE9.0 的新功能\"保固与维修\"怎么无法查到手机信息",
+     "url": "https://www.v2ex.com/t/1257144#reply1",
+     "meta": "V2EX · 2026-11-15",
+     "summary": "如图:",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 求购 awsb 5.2fable 这个模型",
+     "url": "https://www.v2ex.com/t/1257143#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "大量收购 AI API，长期稳定 收：Claude / GPT / Gemini / Grok / Azure / AWS / AIStudio / Vertex / OpenRouter 等 各种 AI 产品、API 额度均可谈 日耗 2-3M$，量大价优，欢迎对接，支持长期合作，稳定结算。 [临时任务] 超高价求购 awsb 5.2fable 模型 超高价求购 vertex gemini4 模",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 阿里下个月要有大动作！融合模型要上线了",
+     "url": "https://www.v2ex.com/t/1257141#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "还记得之前 happy horse 还在测试的时候就拿下榜首，大家还一直在猜是哪家的模型，憋了很久才出，原来是阿里的。但是正式上线后没什么后续啊，现在基本都没有动静了。其实还是很希望百家齐放的，有竞争就会有让利抢用户，最开始的即梦和 sora 之争，sora 一倒即梦就背刺会员，做的有点难看啊，那时候真是无奈，即梦当时拉开别的模型太多了。但是现在内部消息透露月阿里将会把 happy horse 和",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 新一代的放疗治疗计划演示平台",
+     "url": "https://www.v2ex.com/t/1257139#reply0",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "https://tps.neuralrad.com 这是我在 UTSW Medcal Center 开发的新一代治疗计划演示平台",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[创业组队] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场",
      "url": "https://www.v2ex.com/t/1257138#reply0",
      "meta": "V2EX · 2026-11-14",
      "summary": "我是 Tim，2021 年在英国开了家公司 Mutus Tech，做农业和产业场景的 AI。和谢菲尔德大学、利物浦大学、Harper Adams 大学和农业咨询机构 ADAS 做过项目，参与过多个 Innovate UK 支持的研发项目，今年 4 月 Innovate UK Business Connect 写过一篇我们的案例。 五年下来最大的感受：在英国，技术不是最难的，难的是找对需求、拿到第一",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
+     "url": "https://www.v2ex.com/t/1257137#reply9",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周",
      "reason": null,
      "origin_source": "cn_rss"
     },
@@ -153,6 +296,14 @@
     {
      "title": "[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角",
      "url": "https://www.v2ex.com/t/1257136#reply4",
+     "meta": "V2EX · 2026-11-14",
+     "summary": "我让 Claude Opus 5.5 跑整个系统的全项目测试，测试到有一个比较极限的场景有 BUG ，于是我让 Agent 自己提了一个 jira 工单，然后呼叫对应模块的 owner 来解决这个 bug ，但是 owner 告诉我，他看不懂我的工单里是在说什么 于是我查看了一下 Agent 生成的工单，工单写的十分详细，但是根本没有重点，只是把我们做过的实验全部放上去，并且自创了一堆词汇，这些词",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角",
+     "url": "https://www.v2ex.com/t/1257136#reply5",
      "meta": "V2EX · 2026-11-14",
      "summary": "我让 Claude Opus 5.5 跑整个系统的全项目测试，测试到有一个比较极限的场景有 BUG ，于是我让 Agent 自己提了一个 jira 工单，然后呼叫对应模块的 owner 来解决这个 bug ，但是 owner 告诉我，他看不懂我的工单里是在说什么 于是我查看了一下 Agent 生成的工单，工单写的十分详细，但是根本没有重点，只是把我们做过的实验全部放上去，并且自创了一堆词汇，这些词",
      "reason": null,
@@ -189,70 +340,6 @@
      "summary": "Runner 是我做的一个管理 CLI agent 的开源桌面工具，之前在 V 站 介绍过 ，可以在同一个 app 里用 Claude Code 、Codex 等，也可以把不同的 agent 放进一个 crew 里一起做任务。上次发 0.18 桌面端远程控制 的时候提过移动端会优先做 iOS ，最近把 Runner iPhone 版的 UI 和主要交互定下来了，已经上传 TestFlight ，开",
      "reason": null,
      "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Wunder] 关于设置中目前提供的 6 种楼中楼样式的 Demo",
-     "url": "https://www.v2ex.com/t/1257128#reply13",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "新的设置选项可以在这里找到： https://edge.v2ex.com/settings#reply_thread_style 六种样式的 Demo 引用条 角标 + 悬浮预览 楼中楼 树形缩进 对话连线 引用楼层",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[站点状态] 20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励",
-     "url": "https://www.v2ex.com/t/1257127#reply12",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "现在在设置中可以选择几种不同的楼中楼样式： https://edge.v2ex.com/settings#reply_thread_style 关于几种新的楼中楼样式的说明： https://edge.v2ex.com/help/reply-threads 目前提供的 6 种楼中楼样式的 Demo： https://edge.v2ex.com/t/1257128 首页右上角的黑暗模式切换现在支持自",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] Google Gemini 有好用的其他家 agent 吗",
-     "url": "https://www.v2ex.com/t/1257126#reply4",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "Claude 开了 5x ，124 刀，用了半个月，昨天被封了，申请退款，退了 56 刀。 GPT 已经彻底废了，完全干不了活，x 上看到不少推荐 Gemini 的，模型能力还可以，5x 土区大概 280 元，之前有 20x 大概 470 元。 但是众所周知，谷歌反重力并不好用。似乎没有办法将它接入到 Claude code 或者 codex 。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 分享一个自己做的截图工具 sniplite: 有 Snipaste 的核心功能，但是更快，开源，极其轻量",
-     "url": "https://www.v2ex.com/t/1257125#reply3",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "分享一个自己做的截图工具 sniplite 。它实现了 Snipaste 的核心功能，但是开源，而且极其轻量 即使加上安装包也不到 300KB ，核心用汇编和 C 语言开发。 现在能搞 截图：按 F1 ，自动识别鼠标下的窗口和控件，带放大镜 标注：画圈、箭头、文字、序号、马赛克 贴图：按 F3 把复制的图片或文字钉在屏幕上，滚轮缩放 命令行：功能都能用命令调用，方便写脚本 内置 8 种语言 轻量 ",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] portal kyc 使用 personal 认证完成后又回到 start",
-     "url": "https://www.v2ex.com/t/1257123#reply1",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "使用护照做完 portal kyc ，personal 提示 done 了，但刷新原页面却回到了开始认证页面 点击 start 又开始重新选择 “What country is your government ID from?” 什么情况，不是说没通过是秒封吗？比较奇怪的是，如果 personal 本身没成功，那么 claude 的 portal 页面应该还是二维码页面才对，但又不是。会不会是等到",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个能打断的 AI 语音面试陪练，求拍砖",
-     "url": "https://www.v2ex.com/t/1257121#reply4",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "大家好，我是独立开发者。面试最难的是找不到人陪练，所以我做了一个 AI 语音面试陪练 ，想请大家帮忙试试、拍拍砖。 跟其他 AI 面试工具有什么不一样 大部分工具是你说完一段、它再回一段，像在发语音消息。这个是 全双工实时对话 ： 你停下来想一想，它会等你，不抢话 它说得太长，你可以直接打断 目前有两个角色：技术面试官 Alex ，练 system design 和项目深挖；英语口语私教 Emma",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[全球工单系统] 怎么样才能解决淘宝的谜之风控",
-     "url": "https://www.v2ex.com/t/1257119#reply3",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "海外 IP 试图购买 App Store 充值卡旗舰店（ https://appstore.tmall.com ）的商品，会触发谜之风控：部分面值（ 10 元、68 元）可以购买，部分面值（ 50 元、100 元）不可购买（提示“同一时间下单人数过多，建议您稍后再试”）。 触发风控后无论打客服电话，还是在安全中心反馈，都是装傻充愣、制式回复。 10 元、68 元可以正常下单 50 元无法下单 反馈",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[天黑以后] 20261114 午夜俱乐部",
-     "url": "https://www.v2ex.com/t/1257118#reply2",
-     "meta": "V2EX · 2026-11-14",
-     "summary": "失业快一个月了，申领失业金通过了，三个月的房租暂时有着落了，但陆续在 boss 上打招呼和投的简历都没什么下文，要么就是不匹配。 和家里人说了后，我妈也只会喊口号说着不管我做啥都支持我，我爸依旧只会隔段时间问我吃饭没然后喊我考公，我想回家吃饭但他们这样我又想远离。 这次离职后反倒感觉没上一次紧张，虽然存款不多撑不了太长时间，但总觉得心里一直崩的那个弦似乎松了好多。只是没朋友的我有时候想找人说说话，",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   },
@@ -264,7 +351,7 @@
     {
      "title": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "meta": "⭐ 7546 · Swift",
+     "meta": "⭐ 7568 · Swift",
      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +367,7 @@
     {
      "title": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "meta": "⭐ 2051 · Swift",
+     "meta": "⭐ 2057 · Swift",
      "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +375,7 @@
     {
      "title": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "meta": "⭐ 1780 · C++",
+     "meta": "⭐ 1839 · C++",
      "summary": "Apex Neural Rendering (ANR) by Apex Compute",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +383,7 @@
     {
      "title": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "meta": "⭐ 1700 · TypeScript",
+     "meta": "⭐ 1751 · TypeScript",
      "summary": "Chat Demo",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +391,7 @@
     {
      "title": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "meta": "⭐ 1495 · Python",
+     "meta": "⭐ 1501 · Python",
      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +399,7 @@
     {
      "title": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "meta": "⭐ 1446 · TypeScript",
+     "meta": "⭐ 1487 · TypeScript",
      "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +407,7 @@
     {
      "title": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "meta": "⭐ 1390 · TypeScript",
+     "meta": "⭐ 1402 · TypeScript",
      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +415,7 @@
     {
      "title": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "meta": "⭐ 1170 · Go",
+     "meta": "⭐ 1183 · Go",
      "summary": "One self-hosted app for your shows, movies and music.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +423,7 @@
     {
      "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "meta": "⭐ 1047 · Visual Basic .NET",
+     "meta": "⭐ 1049 · Visual Basic .NET",
      "summary": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "reason": null,
      "origin_source": "github_search"
@@ -344,7 +431,7 @@
     {
      "title": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "meta": "⭐ 859 · C",
+     "meta": "⭐ 927 · C",
      "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +439,7 @@
     {
      "title": "kolbicz/WQFiles",
      "url": "https://github.com/kolbicz/WQFiles",
-     "meta": "⭐ 851 · Objective-C",
+     "meta": "⭐ 858 · Objective-C",
      "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
      "reason": null,
      "origin_source": "github_search"
@@ -360,7 +447,7 @@
     {
      "title": "alexeyw/lot-map",
      "url": "https://github.com/alexeyw/lot-map",
-     "meta": "⭐ 815 · TypeScript",
+     "meta": "⭐ 833 · TypeScript",
      "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
      "reason": null,
      "origin_source": "github_search"
@@ -368,7 +455,7 @@
     {
      "title": "serveroshq/panel",
      "url": "https://github.com/serveroshq/panel",
-     "meta": "⭐ 785 · PHP",
+     "meta": "⭐ 796 · PHP",
      "summary": "The open source ServerOS panel: one place to run the Linux servers you already own.",
      "reason": null,
      "origin_source": "github_search"
@@ -376,7 +463,7 @@
     {
      "title": "JDhruv14/line-art-animation",
      "url": "https://github.com/JDhruv14/line-art-animation",
-     "meta": "⭐ 741 · TypeScript",
+     "meta": "⭐ 756 · TypeScript",
      "summary": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
      "reason": null,
      "origin_source": "github_search"
@@ -389,9 +476,33 @@
    "errors": [],
    "items": [
     {
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "meta": "⭐ 607 · 💬 253",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "meta": "⭐ 597 · 💬 397",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "meta": "⭐ 434 · 💬 258",
+     "meta": "⭐ 495 · 💬 280",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tech companies are trying to shift the concept of privacy again",
+     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+     "meta": "⭐ 446 · 💬 168",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,25 +516,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-     "meta": "⭐ 342 · 💬 133",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Lovable apps expose passport details and more than 200K private messages",
-     "url": "https://www.crissyfield.de/research/lovable-en/",
-     "meta": "⭐ 330 · 💬 104",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "meta": "⭐ 276 · 💬 52",
+     "meta": "⭐ 367 · 💬 79",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,6 +532,38 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "meta": "⭐ 197 · 💬 90",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A family tree of software job titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "meta": "⭐ 188 · 💬 91",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Generative AI uses more energy on non-English text",
+     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+     "meta": "⭐ 172 · 💬 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+     "meta": "⭐ 171 · 💬 89",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "US IRS free online tax filing open source repo (2025)",
      "url": "https://github.com/IRS-Public/direct-file",
      "meta": "⭐ 98 · 💬 28",
@@ -445,49 +572,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "PyPI's redesigned project pages with clearer security signals are now live",
-     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "meta": "⭐ 149 · 💬 54",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Generative AI uses more energy on non-English text",
-     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "meta": "⭐ 138 · 💬 86",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A QR code that says who made it",
-     "url": "https://qrsig.org/",
-     "meta": "⭐ 15 · 💬 7",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "meta": "⭐ 114 · 💬 28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-     "url": "https://gitlab.com/snipedbywifi/terminactory",
-     "meta": "⭐ 109 · 💬 25",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Let's Write a PostScript Interpreter",
-     "url": "https://beyondloom.com/blog/postscript.html",
-     "meta": "⭐ 88 · 💬 13",
+     "meta": "⭐ 158 · 💬 36",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -495,15 +582,15 @@
     {
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "meta": "⭐ 87 · 💬 4",
+     "meta": "⭐ 156 · 💬 8",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-     "url": "https://github.com/FURSOY/fursoy-cpu",
-     "meta": "⭐ 53 · 💬 16",
+     "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+     "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+     "meta": "⭐ 143 · 💬 34",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-15T04:24:17.681796+08:00",
- "count": 25,
+ "updated_at": "2026-11-15T08:44:47.471868+08:00",
+ "count": 34,
  "items": [
   {
    "id": "hn-50416011",
    "title": "Reverse engineering a vintage diode-transistor logic chip",
    "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
    "hn_url": "https://news.ycombinator.com/item?id=50416011",
-   "score": 55,
-   "comments": 2,
+   "score": 90,
+   "comments": 5,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-08T19:03:48+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 55
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 90
     }
    ]
   },
@@ -24,14 +28,18 @@
    "title": "Why get an expensive Pi when I have an old phone?",
    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
    "hn_url": "https://news.ycombinator.com/item?id=50440709",
-   "score": 434,
-   "comments": 258,
+   "score": 495,
+   "comments": 280,
    "author": "casi",
    "time_iso": "2026-11-10T14:16:05+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 434
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 495
     }
    ]
   },
@@ -40,14 +48,50 @@
    "title": "Generative AI uses more energy on non-English text",
    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
    "hn_url": "https://news.ycombinator.com/item?id=50441444",
-   "score": 138,
-   "comments": 86,
+   "score": 172,
+   "comments": 96,
    "author": "DeepLogin",
    "time_iso": "2026-11-10T15:07:28+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 138
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 172
+    }
+   ]
+  },
+  {
+   "id": "hn-50444891",
+   "title": "Write your own kernel optimiser",
+   "url": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+   "hn_url": "https://news.ycombinator.com/item?id=50444891",
+   "score": 9,
+   "comments": 0,
+   "author": "speckx",
+   "time_iso": "2026-11-10T19:17:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50448895",
+   "title": "The Sicilian Citrus Family Tree",
+   "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50448895",
+   "score": 22,
+   "comments": 4,
+   "author": "wmchen",
+   "time_iso": "2026-11-11T01:52:00+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 22
     }
    ]
   },
@@ -72,30 +116,54 @@
    "title": "Seagate's new hybrid drive raises some old questions",
    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
    "hn_url": "https://news.ycombinator.com/item?id=50453901",
-   "score": 28,
-   "comments": 11,
+   "score": 64,
+   "comments": 37,
    "author": "PaulHoule",
    "time_iso": "2026-11-11T14:32:09+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50455732",
+   "title": "Oxford Molecular Motors",
+   "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+   "hn_url": "https://news.ycombinator.com/item?id=50455732",
+   "score": 3,
+   "comments": 1,
+   "author": "handfuloflight",
+   "time_iso": "2026-11-11T17:06:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 3
     }
    ]
   },
   {
    "id": "hn-50467278",
-   "title": "Testing a Trash Can Faraday Cage",
+   "title": "Testing a trash can Faraday cage",
    "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
    "hn_url": "https://news.ycombinator.com/item?id=50467278",
-   "score": 54,
-   "comments": 36,
+   "score": 62,
+   "comments": 55,
    "author": "torutofu",
    "time_iso": "2026-11-12T14:04:27+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 54
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 62
     }
    ]
   },
@@ -112,6 +180,22 @@
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50471874",
+   "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+   "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+   "hn_url": "https://news.ycombinator.com/item?id=50471874",
+   "score": 83,
+   "comments": 48,
+   "author": "NaOH",
+   "time_iso": "2026-11-12T18:28:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 83
     }
    ]
   },
@@ -148,18 +232,38 @@
    ]
   },
   {
+   "id": "hn-50496051",
+   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50496051",
+   "score": 143,
+   "comments": 34,
+   "author": "hacb",
+   "time_iso": "2026-11-14T11:13:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 143
+    }
+   ]
+  },
+  {
    "id": "hn-50496602",
-   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "title": "Tech companies are trying to shift the concept of privacy again",
    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
    "hn_url": "https://news.ycombinator.com/item?id=50496602",
-   "score": 342,
-   "comments": 133,
+   "score": 446,
+   "comments": 168,
    "author": "gslin",
    "time_iso": "2026-11-14T12:45:45+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 342
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 446
     }
    ]
   },
@@ -168,14 +272,18 @@
    "title": "Advancing science and engineering with Antigravity's /teamwork",
    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
    "hn_url": "https://news.ycombinator.com/item?id=50496811",
-   "score": 114,
-   "comments": 28,
+   "score": 158,
+   "comments": 36,
    "author": "acossta",
    "time_iso": "2026-11-14T13:20:43+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 114
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 158
     }
    ]
   },
@@ -184,7 +292,7 @@
    "title": "A visual explanation of reinforcement learning",
    "url": "https://aatishb.com/myriad/how-brains-learn/",
    "hn_url": "https://news.ycombinator.com/item?id=50496885",
-   "score": 76,
+   "score": 115,
    "comments": 6,
    "author": "aatish",
    "time_iso": "2026-11-14T13:31:06+00:00",
@@ -192,6 +300,10 @@
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 76
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 115
     }
    ]
   },
@@ -200,14 +312,18 @@
    "title": "KDE: The documentary [video]",
    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
    "hn_url": "https://news.ycombinator.com/item?id=50496976",
-   "score": 276,
-   "comments": 52,
+   "score": 367,
+   "comments": 79,
    "author": "mrkn1",
    "time_iso": "2026-11-14T13:43:28+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 276
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 367
     }
    ]
   },
@@ -232,14 +348,18 @@
    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
    "url": "https://gitlab.com/snipedbywifi/terminactory",
    "hn_url": "https://news.ycombinator.com/item?id=50497132",
-   "score": 109,
-   "comments": 25,
+   "score": 131,
+   "comments": 27,
    "author": "snipedbywifi",
    "time_iso": "2026-11-14T14:05:54+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 131
     }
    ]
   },
@@ -264,14 +384,18 @@
    "title": "Demystifying phone unlocking tools: A technical overview",
    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
    "hn_url": "https://news.ycombinator.com/item?id=50497416",
-   "score": 26,
-   "comments": 0,
+   "score": 69,
+   "comments": 5,
    "author": "iloveyoutwo",
    "time_iso": "2026-11-14T14:44:28+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 69
     }
    ]
   },
@@ -280,14 +404,18 @@
    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
    "hn_url": "https://news.ycombinator.com/item?id=50497589",
-   "score": 87,
-   "comments": 4,
+   "score": 156,
+   "comments": 8,
    "author": "VaibhaavTiwari",
    "time_iso": "2026-11-14T15:04:15+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 87
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 156
     }
    ]
   },
@@ -296,14 +424,18 @@
    "title": "PyPI's redesigned project pages with clearer security signals are now live",
    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
    "hn_url": "https://news.ycombinator.com/item?id=50497892",
-   "score": 149,
-   "comments": 54,
+   "score": 197,
+   "comments": 90,
    "author": "rbanffy",
    "time_iso": "2026-11-14T15:40:52+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 197
     }
    ]
   },
@@ -344,30 +476,38 @@
    "title": "Lovable apps expose passport details and more than 200K private messages",
    "url": "https://www.crissyfield.de/research/lovable-en/",
    "hn_url": "https://news.ycombinator.com/item?id=50499017",
-   "score": 330,
-   "comments": 104,
+   "score": 607,
+   "comments": 253,
    "author": "armcat",
    "time_iso": "2026-11-14T17:43:10+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 330
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 607
     }
    ]
   },
   {
    "id": "hn-50499038",
-   "title": "A Family Tree of Software Job Titles",
+   "title": "A family tree of software job titles",
    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
    "hn_url": "https://news.ycombinator.com/item?id=50499038",
-   "score": 77,
-   "comments": 24,
+   "score": 188,
+   "comments": 91,
    "author": "umerf",
    "time_iso": "2026-11-14T17:45:19+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 77
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 188
     }
    ]
   },
@@ -392,14 +532,82 @@
    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
    "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
    "hn_url": "https://news.ycombinator.com/item?id=50499723",
-   "score": 68,
-   "comments": 15,
+   "score": 171,
+   "comments": 89,
    "author": "gnabgib",
    "time_iso": "2026-11-14T18:56:47+00:00",
    "history": [
     {
      "t": "2026-11-15T04:24:17.681796+08:00",
      "score": 68
+    },
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 171
+    }
+   ]
+  },
+  {
+   "id": "hn-50500963",
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "hn_url": "https://news.ycombinator.com/item?id=50500963",
+   "score": 597,
+   "comments": 397,
+   "author": "ls612",
+   "time_iso": "2026-11-14T21:22:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 597
+    }
+   ]
+  },
+  {
+   "id": "hn-50501594",
+   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+   "url": "https://retrocomputing.stackexchange.com/questions/17957",
+   "hn_url": "https://news.ycombinator.com/item?id=50501594",
+   "score": 61,
+   "comments": 21,
+   "author": "Skyfall106",
+   "time_iso": "2026-11-14T22:22:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50501631",
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50501631",
+   "score": 107,
+   "comments": 52,
+   "author": "madihaa",
+   "time_iso": "2026-11-14T22:26:30+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 107
+    }
+   ]
+  },
+  {
+   "id": "hn-50501844",
+   "title": "L3Harris statement on the Nov. 13 ground stop",
+   "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+   "hn_url": "https://news.ycombinator.com/item?id=50501844",
+   "score": 53,
+   "comments": 19,
+   "author": "taspeotis",
+   "time_iso": "2026-11-14T22:51:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-15T08:44:47.471868+08:00",
+     "score": 53
     }
    ]
   }
