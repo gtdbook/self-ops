@@ -3,15 +3,15 @@ type: theme
 token: deepseek
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 6
+last_week: 2026-W47
+weeks: 7
 hits: 36
 status: 常青
 ---
 
 # deepseek
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -40,9 +40,12 @@ status: 常青
 
 - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) — 飙升榜 · 2026-11-09
 - [[分享创造] 把 DeepSeek Harness 搬上云端：免本地配置、持续在线的 miuAgent [V 友送 1 个月会员]](https://www.v2ex.com/t/1255421#reply0) — 中文技术圈 · 2026-11-09
+### 2026-W47
+
+- [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) — GitHub 新星榜 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[flash]]（共同出现 9 条）
+- [[flash]]（共同出现 10 条）
 - [[out]]（共同出现 3 条）
 - [[claude]]（共同出现 2 条）

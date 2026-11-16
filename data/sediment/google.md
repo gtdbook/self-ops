@@ -3,15 +3,15 @@ type: theme
 token: google
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 6
-hits: 47
+last_week: 2026-W47
+weeks: 7
+hits: 59
 status: 常青
 ---
 
 # google
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -40,14 +40,17 @@ status: 常青
 - [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) — GitHub 新星榜 · 2026-11-09
 - [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) — GitHub 新星榜 · 2026-11-09
 - [[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music](https://www.v2ex.com/t/1255411#reply0) — 中文技术圈 · 2026-11-09
+### 2026-W47
+
+- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/) — 博客与技术媒体 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[pro]]（共同出现 8 条）
+- [[pro]]（共同出现 10 条）
+- [[bringing]]（共同出现 6 条）
+- [[creative]]（共同出现 6 条）
+- [[gemini]]（共同出现 6 条）
 - [[run]]（共同出现 5 条）
 - [[android]]（共同出现 4 条）
 - [[build]]（共同出现 4 条）
 - [[data]]（共同出现 4 条）
-- [[says]]（共同出现 2 条）
-- [[open]]（共同出现 2 条）
-- [[carbon]]（共同出现 2 条）

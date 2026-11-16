@@ -3,15 +3,15 @@ type: theme
 token: agent
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 6
-hits: 46
+last_week: 2026-W47
+weeks: 7
+hits: 45
 status: 常青
 ---
 
 # agent
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -44,11 +44,11 @@ status: 常青
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) — GitHub 新星榜 · 2026-11-09
 - [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format) — Hacker News 热榜 · 2026-11-09
 - [Tobira Site Agent](https://www.producthunt.com/products/tobira-ai) — Product Hunt 新品 · 2026-11-09
+### 2026-W47
+
+- [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/) — 博客与技术媒体 · 2026-11-16
+- [[AI Agent 智能体] 有没有 Ai 能够辅助我，提醒我有哪些工作要做？](https://www.v2ex.com/t/1257273#reply1) — 中文技术圈 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[database]]（共同出现 17 条）
-- [[disagreed]]（共同出现 17 条）
-- [[done]]（共同出现 17 条）
-- [[said]]（共同出现 17 条）
-- [[iphone]]（共同出现 5 条）
+（暂无——不为孤立页强行连线）

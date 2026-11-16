@@ -3,15 +3,15 @@ type: theme
 token: chatgpt
 bed: 未归类
 first_week: 2026-W42
-last_week: 2026-W46
-weeks: 5
-hits: 28
+last_week: 2026-W47
+weeks: 6
+hits: 29
 status: 常青
 ---
 
 # chatgpt
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -38,8 +38,11 @@ status: 常青
 ### 2026-W46
 
 - [[推广] 🎁ChatGPT Plus/Pro 长期稳定 直充账户](https://www.v2ex.com/t/1255419#reply0) — 中文技术圈 · 2026-11-09
+### 2026-W47
+
+- [[推广] ChatGPT Plus/Pro 直充 GPT 账号 长期稳定](https://www.v2ex.com/t/1257284#reply0) — 中文技术圈 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[hit]]（共同出现 4 条）
+- [[stack]]（共同出现 12 条）
 - [[nvidia]]（共同出现 4 条）

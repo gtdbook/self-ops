@@ -3,15 +3,15 @@ type: theme
 token: open
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 6
-hits: 51
+last_week: 2026-W47
+weeks: 7
+hits: 58
 status: 常青
 ---
 
 # open
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -44,14 +44,19 @@ status: 常青
 
 - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) — 飙升榜 · 2026-11-09
 - [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) — 博客与技术媒体 · 2026-11-09
+### 2026-W47
+
+- [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto) — 飙升榜 · 2026-11-16
+- [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) — 博客与技术媒体 · 2026-11-16
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) — Hacker News 热榜 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[source]]（共同出现 15 条）
+- [[source]]（共同出现 21 条）
 - [[claude]]（共同出现 5 条）
+- [[muse]]（共同出现 4 条）
+- [[free]]（共同出现 3 条）
+- [[built]]（共同出现 3 条）
 - [[scale]]（共同出现 3 条）
 - [[software]]（共同出现 3 条）
-- [[model]]（共同出现 3 条）
-- [[google]]（共同出现 2 条）
-- [[sales]]（共同出现 2 条）
-- [[says]]（共同出现 2 条）
+- [[takes]]（共同出现 3 条）

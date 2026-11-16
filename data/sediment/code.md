@@ -3,15 +3,15 @@ type: theme
 token: code
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 6
-hits: 79
+last_week: 2026-W47
+weeks: 7
+hits: 87
 status: 常青
 ---
 
 # code
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -44,14 +44,18 @@ status: 常青
 - [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) — 飙升榜 · 2026-11-09
 - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) — 飙升榜 · 2026-11-09
 - [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) — 博客与技术媒体 · 2026-11-09
+### 2026-W47
+
+- [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) — 飙升榜 · 2026-11-16
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) — Hacker News 热榜 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[beyond]]（共同出现 26 条）
-- [[claude]]（共同出现 19 条）
-- [[review]]（共同出现 15 条）
-- [[astra]]（共同出现 14 条）
-- [[bug]]（共同出现 14 条）
-- [[gpt]]（共同出现 14 条）
+- [[beyond]]（共同出现 27 条）
+- [[claude]]（共同出现 22 条）
+- [[review]]（共同出现 16 条）
+- [[astra]]（共同出现 15 条）
+- [[bug]]（共同出现 15 条）
+- [[gpt]]（共同出现 15 条）
+- [[takes]]（共同出现 15 条）
 - [[openai]]（共同出现 12 条）
-- [[ask]]（共同出现 6 条）

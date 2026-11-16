@@ -3,15 +3,15 @@ type: theme
 token: security
 bed: 未归类
 first_week: 2026-W43
-last_week: 2026-W46
-weeks: 4
-hits: 26
+last_week: 2026-W47
+weeks: 5
+hits: 30
 status: 常青
 ---
 
 # security
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -30,8 +30,14 @@ status: 常青
 ### 2026-W46
 
 - [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) — 博客与技术媒体 · 2026-11-09
+### 2026-W47
+
+- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) — 博客与技术媒体 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[across]]（共同出现 13 条）
-- [[gpt]]（共同出现 13 条）
+- [[across]]（共同出现 14 条）
+- [[gpt]]（共同出现 14 条）
+- [[sol]]（共同出现 14 条）
+- [[nvidia]]（共同出现 2 条）
+- [[linux]]（共同出现 2 条）

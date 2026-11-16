@@ -3,15 +3,15 @@ type: theme
 token: our
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W46
-weeks: 4
-hits: 30
+last_week: 2026-W47
+weeks: 5
+hits: 42
 status: 常青
 ---
 
 # our
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W46
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
 
 ## 观察记录
 
@@ -31,13 +31,17 @@ status: 常青
 
 - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) — 博客与技术媒体 · 2026-11-09
 - [Our newest AI Quest: Mapping the human brain](https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/) — 博客与技术媒体 · 2026-11-09
+### 2026-W47
+
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — 博客与技术媒体 · 2026-11-16
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[model]]（共同出现 14 条）
-- [[brain]]（共同出现 13 条）
-- [[human]]（共同出现 13 条）
-- [[carbon]]（共同出现 12 条）
-- [[frontier]]（共同出现 12 条）
-- [[gemini]]（共同出现 12 条）
-- [[next]]（共同出现 12 条）
+- [[model]]（共同出现 26 条）
+- [[carbon]]（共同出现 15 条）
+- [[frontier]]（共同出现 15 条）
+- [[gemini]]（共同出现 15 条）
+- [[next]]（共同出现 15 条）
+- [[brain]]（共同出现 14 条）
+- [[human]]（共同出现 14 条）
+- [[across]]（共同出现 7 条）

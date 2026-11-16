@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-09T10:58:19.413235+08:00",
- "latest_week": "2026-W46",
+ "updated_at": "2026-11-16T11:06:38.407658+08:00",
+ "latest_week": "2026-W47",
  "entries": {
   "openai": {
    "bed": "AI 与智能体",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 83,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 91,
    "status": "常青",
    "observations": [
     {
@@ -128,15 +128,36 @@
      "title": "OpenAI acquires Orchestra Bio",
      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "model": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 77,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 76,
    "status": "常青",
    "observations": [
     {
@@ -250,15 +271,22 @@
      "title": "Gemini 4 Carbon: Our next frontier model",
      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "code": {
    "bed": "AI 与智能体",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 79,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 87,
    "status": "常青",
    "observations": [
     {
@@ -379,15 +407,29 @@
      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
      "url": "https://openai.com/index/greptile-code-review-codex-astra",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "All AI-generated code should be Open Source",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "source": "Hacker News 热榜"
     }
    ]
   },
   "claude": {
    "bed": "AI 与智能体",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 75,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 83,
    "status": "常青",
    "observations": [
     {
@@ -508,15 +550,29 @@
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
      "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Claude Meetings",
+     "url": "https://www.producthunt.com/products/claude",
+     "source": "Product Hunt 新品"
     }
    ]
   },
   "gpt": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 59,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 57,
    "status": "常青",
    "observations": [
     {
@@ -609,15 +665,22 @@
      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "[推广] ChatGPT Plus/Pro 直充 GPT 账号 长期稳定",
+     "url": "https://www.v2ex.com/t/1257284#reply0",
+     "source": "中文技术圈"
     }
    ]
   },
   "open": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 51,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 58,
    "status": "常青",
    "observations": [
     {
@@ -738,15 +801,36 @@
      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Eclipse Mosquitto – An open source MQTT broker",
+     "url": "https://github.com/eclipse-mosquitto/mosquitto",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "All AI-generated code should be Open Source",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "source": "Hacker News 热榜"
     }
    ]
   },
   "storytold": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 3,
-   "hits": 41,
+   "hits": 26,
    "status": "常青",
    "observations": [
     {
@@ -803,9 +887,9 @@
   "gemini": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 6,
-   "hits": 46,
+   "hits": 64,
    "status": "常青",
    "observations": [
     {
@@ -890,9 +974,9 @@
   "google": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 47,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 59,
    "status": "常青",
    "observations": [
     {
@@ -985,15 +1069,22 @@
      "title": "[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music",
      "url": "https://www.v2ex.com/t/1255411#reply0",
      "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "agent": {
    "bed": "AI 与智能体",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 46,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 45,
    "status": "常青",
    "observations": [
     {
@@ -1114,15 +1205,29 @@
      "title": "Tobira Site Agent",
      "url": "https://www.producthunt.com/products/tobira-ai",
      "source": "Product Hunt 新品"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "[AI Agent 智能体] 有没有 Ai 能够辅助我，提醒我有哪些工作要做？",
+     "url": "https://www.v2ex.com/t/1257273#reply1",
+     "source": "中文技术圈"
     }
    ]
   },
   "out": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 5,
-   "hits": 37,
+   "hits": 28,
    "status": "常青",
    "observations": [
     {
@@ -1200,9 +1305,9 @@
   "apple": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 5,
-   "hits": 34,
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 43,
    "status": "常青",
    "observations": [
     {
@@ -1281,15 +1386,22 @@
      "title": "[Apple] 重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
      "url": "https://www.v2ex.com/t/1255416#reply5",
      "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "[Apple TV] AppleTV 登录港区 ID 一段时间后 AppStore 自动消失",
+     "url": "https://www.v2ex.com/t/1257285#reply2",
+     "source": "中文技术圈"
     }
    ]
   },
   "research": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 39,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 45,
    "status": "常青",
    "observations": [
     {
@@ -1368,14 +1480,21 @@
      "title": "How Check Point accelerates vulnerability research with Daybreak",
      "url": "https://openai.com/index/check-point-daybreak",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "deepseek": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
+   "last_week": "2026-W47",
+   "weeks": 7,
    "hits": 36,
    "status": "常青",
    "observations": [
@@ -1469,15 +1588,22 @@
      "title": "[分享创造] 把 DeepSeek Harness 搬上云端：免本地配置、持续在线的 miuAgent [V 友送 1 个月会员]",
      "url": "https://www.v2ex.com/t/1255421#reply0",
      "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "deepseek-ai/chat-demo",
+     "url": "https://github.com/deepseek-ai/chat-demo",
+     "source": "GitHub 新星榜"
     }
    ]
   },
   "our": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 4,
-   "hits": 30,
+   "last_week": "2026-W47",
+   "weeks": 5,
+   "hits": 42,
    "status": "常青",
    "observations": [
     {
@@ -1535,15 +1661,22 @@
      "title": "Our newest AI Quest: Mapping the human brain",
      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "build": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
-   "weeks": 6,
-   "hits": 30,
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 34,
    "status": "常青",
    "observations": [
     {
@@ -1629,15 +1762,29 @@
      "title": "Build more responsive apps with the Decisions API",
      "url": "https://openai.com/index/decisions-api",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "source": "博客与技术媒体"
     }
    ]
   },
   "data": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 6,
-   "hits": 29,
+   "hits": 22,
    "status": "常青",
    "observations": [
     {
@@ -1729,9 +1876,9 @@
   "level": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 6,
-   "hits": 28,
+   "hits": 24,
    "status": "常青",
    "observations": [
     {
@@ -1795,9 +1942,9 @@
   "chatgpt": {
    "bed": "未归类",
    "first_week": "2026-W42",
-   "last_week": "2026-W46",
-   "weeks": 5,
-   "hits": 28,
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 29,
    "status": "常青",
    "observations": [
     {
@@ -1890,15 +2037,22 @@
      "title": "[推广] 🎁ChatGPT Plus/Pro 长期稳定 直充账户",
      "url": "https://www.v2ex.com/t/1255419#reply0",
      "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "[推广] ChatGPT Plus/Pro 直充 GPT 账号 长期稳定",
+     "url": "https://www.v2ex.com/t/1257284#reply0",
+     "source": "中文技术圈"
     }
    ]
   },
   "next": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 6,
-   "hits": 27,
+   "hits": 28,
    "status": "常青",
    "observations": [
     {
@@ -1955,9 +2109,9 @@
   "brain": {
    "bed": "未归类",
    "first_week": "2026-W42",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 4,
-   "hits": 27,
+   "hits": 31,
    "status": "常青",
    "observations": [
     {
@@ -2028,9 +2182,9 @@
   "astra": {
    "bed": "未归类",
    "first_week": "2026-W41",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 5,
-   "hits": 26,
+   "hits": 24,
    "status": "常青",
    "observations": [
     {
@@ -2087,9 +2241,9 @@
   "beyond": {
    "bed": "未归类",
    "first_week": "2026-W42",
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "weeks": 5,
-   "hits": 26,
+   "hits": 27,
    "status": "常青",
    "observations": [
     {
@@ -2139,9 +2293,9 @@
   "security": {
    "bed": "未归类",
    "first_week": "2026-W43",
-   "last_week": "2026-W46",
-   "weeks": 4,
-   "hits": 26,
+   "last_week": "2026-W47",
+   "weeks": 5,
+   "hits": 30,
    "status": "常青",
    "observations": [
     {
@@ -2192,238 +2346,1407 @@
      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
      "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Where was Nvidia’s security team?",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "nvidia": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 37,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-10",
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "NVIDIA-Omniverse/usd-brep",
+     "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-14",
+     "title": "nullmoth/nvidia-macos-driver",
+     "url": "https://github.com/nullmoth/nvidia-macos-driver",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-17",
+     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+     "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-25",
+     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+     "url": "https://github.com/Zagitta/gpu-unlock",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-20",
+     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+     "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-30",
+     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-05",
+     "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-07",
+     "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+     "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-04",
+     "title": "Nvidia – open-source auto-ontology",
+     "url": "https://github.com/NVIDIA/auto-ontology",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-14",
+     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-14",
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Where was Nvidia’s security team?",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+     "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+     "source": "Hacker News 热榜"
+    }
+   ]
+  },
+  "across": {
+   "bed": "未归类",
+   "first_week": "2026-W42",
+   "last_week": "2026-W47",
+   "weeks": 5,
+   "hits": 33,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "How Amazon pushes up prices all across the Internet",
+     "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-13",
+     "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+     "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-18",
+     "title": "Dam removals are bringing fish back across the northeastern United States",
+     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-27",
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-10",
+     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "anthropic": {
+   "bed": "未归类",
+   "first_week": "2026-W42",
+   "last_week": "2026-W47",
+   "weeks": 4,
+   "hits": 32,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W42",
+     "date": "2026-10-14",
+     "title": "Redesigning source control at Anthropic",
+     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-17",
+     "title": "Replit is no longer working with Anthropic, CEO says",
+     "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-27",
+     "title": "Anthropic S-1",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-26",
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-11-01",
+     "title": "Anthropic blocks users for anything touching training larger models",
+     "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-03",
+     "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+     "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-11",
+     "title": "Tracking Anthropic-discovered vulnerabilities",
+     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-13",
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "pro": {
+   "bed": "未归类",
+   "first_week": "2026-W43",
+   "last_week": "2026-W47",
+   "weeks": 5,
+   "hits": 31,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W43",
+     "date": "2026-10-24",
+     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-28",
+     "title": "New 14‑inch MacBook Pro with M6",
+     "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-28",
+     "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+     "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-29",
+     "title": "MacBook Pro with PROLED XDR Display and Touch",
+     "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-06",
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-06",
+     "title": "Kimi K3.1 Pro model weights are out",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-07",
+     "title": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "source": "GitHub 新星榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-10",
+     "title": "[分享创造] [送 Pro] 翻了 1300 多条倒数日 App 的中文差评，五分之一在骂广告，于是做了个永远不插广告的「静日」",
+     "url": "https://www.v2ex.com/t/1255906#reply3",
+     "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-15",
+     "title": "[推广] GPT Plus / Claude Pro / Grok 代充和成品号，新人卖家，说点实话",
+     "url": "https://www.v2ex.com/t/1257257#reply0",
+     "source": "中文技术圈"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "The MacBook Pro's OLED PWM problem",
+     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "[推广] ChatGPT Plus/Pro 直充 GPT 账号 长期稳定",
+     "url": "https://www.v2ex.com/t/1257284#reply0",
+     "source": "中文技术圈"
+    }
+   ]
+  },
+  "system": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 30,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-07",
+     "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+     "url": "https://github.com/boykopovar/AnyPS5",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-27",
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-04",
+     "title": "Jailbreaking my car's navigation system just so I can change the time",
+     "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-14",
+     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-10",
+     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "turns": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 29,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-10",
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-17",
+     "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-20",
+     "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-26",
+     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "url": "https://openai.com/index/pollo-ai",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-06",
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "video": {
+   "bed": "未归类",
+   "first_week": "2026-W42",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 29,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W42",
+     "date": "2026-10-16",
+     "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+     "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-20",
+     "title": "I built a drone with only one motor [video]",
+     "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-19",
+     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Woven Video",
+     "url": "https://www.producthunt.com/products/woven-video",
+     "source": "Product Hunt 新品"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-27",
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-30",
+     "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+     "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-11-01",
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-06",
+     "title": "Download your favourite YouTube videos",
+     "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-04",
+     "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+     "url": "https://hackertv.org",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-15",
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+     "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-14",
+     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "A short explainer on how El Niño works [video]",
+     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+     "source": "飙升榜"
+    }
+   ]
+  },
+  "making": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 29,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-11",
+     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+     "url": "https://huggingface.co/blog/evaleval-aisi",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-13",
+     "title": "Making big downloads resumable in Firefox",
+     "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-18",
+     "title": "Making chicken transparent using Dorito dust",
+     "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-12",
+     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+     "url": "https://huggingface.co/blog/evaleval-aisi",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-31",
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-03",
+     "title": "Show HN: Subvocal – Talk to your computer without making noise",
+     "url": "https://news.ycombinator.com/item?id=50340088",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-13",
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "api": {
+   "bed": "AI 与智能体",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 5,
+   "hits": 28,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-07",
+     "title": "Decisions API is in public beta",
+     "url": "https://developers.openai.com/api/docs/guides/decisions",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-27",
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-04",
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-06",
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-12",
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "source": "多源共振"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-10",
+     "title": "Build more responsive apps with the Decisions API",
+     "url": "https://openai.com/index/decisions-api",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "source": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 7,
+   "hits": 27,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-10",
+     "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+     "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W41",
+     "date": "2026-10-07",
+     "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+     "url": "https://github.com/FeSens/openTPU",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W41",
+     "date": "2026-10-07",
+     "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+     "url": "https://penguin-mail.com/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+     "url": "https://typeof.net/Iosevka/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-14",
+     "title": "Redesigning source control at Anthropic",
+     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+     "url": "https://github.com/android/ndk/issues/2260",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-21",
+     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+     "url": "https://github.com/google-pytorch/torch_tpu",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-21",
+     "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+     "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-11-01",
+     "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+     "url": "https://zebra.rodeo/en/blog/marelleo/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-05",
+     "title": "Stringman, an $800 open-source room scale gripper robot",
+     "url": "https://neufangled.com/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-04",
+     "title": "Nvidia – open-source auto-ontology",
+     "url": "https://github.com/NVIDIA/auto-ontology",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-13",
+     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+     "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-09",
+     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+     "url": "https://ketchup3d.github.io/app/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-09",
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Eclipse Mosquitto – An open source MQTT broker",
+     "url": "https://github.com/eclipse-mosquitto/mosquitto",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "All AI-generated code should be Open Source",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "source": "Hacker News 热榜"
+    }
+   ]
+  },
+  "work": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 27,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-08",
+     "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+     "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-15",
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-10-26",
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-11",
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-11",
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-13",
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "A short explainer on how El Niño works [video]",
+     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W47",
+     "date": "2026-11-16",
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "source": "博客与技术媒体"
+    }
+   ]
+  },
+  "built": {
+   "bed": "未归类",
+   "first_week": "2026-W41",
+   "last_week": "2026-W47",
+   "weeks": 6,
+   "hits": 27,
+   "status": "常青",
+   "observations": [
+    {
+     "week": "2026-W41",
+     "date": "2026-10-10",
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W42",
+     "date": "2026-10-16",
+     "title": "Krea 3 – An image model built for editing at scale",
+     "url": "https://www.krea.ai/krea-3",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-20",
+     "title": "I built a drone with only one motor [video]",
+     "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-19",
+     "title": "I built a programming language that LLMs can't use",
+     "url": "https://blog.picheta.me/post/killswitch-lang/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W43",
+     "date": "2026-10-23",
+     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "source": "博客与技术媒体"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-11-01",
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W44",
+     "date": "2026-11-01",
+     "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+     "url": "https://zebra.rodeo/en/blog/marelleo/",
+     "source": "Hacker News 热榜"
+    },
+    {
+     "week": "2026-W45",
+     "date": "2026-11-02",
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "url": "https://karpathy.bearblog.dev/hacker-tube/",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-13",
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "source": "飙升榜"
+    },
+    {
+     "week": "2026-W46",
+     "date": "2026-11-09",
+     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+     "url": "https://ketchup3d.github.io/app/",
+     "source": "飙升榜"
     }
    ]
   }
  },
  "links": {
   "openai": {
-   "acquires": 15,
+   "work": 18,
+   "build": 6,
    "gpt": 4,
    "beyond": 12,
    "code": 12,
    "apple": 2,
    "creative": 18,
-   "ideas": 18,
-   "pollo": 18,
+   "turns": 18,
    "math": 7,
    "anthropic": 2,
-   "llm": 2,
-   "results": 2
+   "llm": 2
   },
   "model": {
-   "carbon": 14,
-   "frontier": 16,
-   "gemini": 14,
-   "next": 12,
-   "our": 14,
+   "across": 7,
+   "our": 26,
+   "research": 7,
+   "stop": 7,
+   "system": 7,
+   "carbon": 17,
+   "frontier": 19,
+   "gemini": 17,
+   "next": 15,
+   "muse": 4,
    "out": 3,
    "pro": 3,
    "level": 9,
-   "results": 9,
    "built": 5,
    "scale": 2,
    "meta": 2,
    "run": 3,
    "build": 3,
-   "says": 3,
-   "anything": 5,
+   "every": 2,
+   "only": 2,
    "human": 3,
-   "world": 4,
    "google": 2,
    "open": 3
   },
   "code": {
+   "claude": 22,
+   "astra": 15,
+   "beyond": 27,
+   "bug": 15,
+   "gpt": 15,
+   "review": 16,
+   "takes": 15,
+   "open": 2,
+   "should": 2,
+   "source": 2,
+   "ask": 5,
    "anthropic": 4,
-   "astra": 14,
-   "beyond": 26,
-   "bug": 14,
-   "gpt": 14,
-   "review": 15,
-   "claude": 19,
    "vulnerability": 3,
-   "ask": 6,
-   "openai": 12
+   "codex": 3,
+   "openai": 12,
+   "work": 12,
+   "video": 2
   },
   "claude": {
-   "skill": 3,
-   "code": 19,
+   "code": 22,
+   "google": 2,
+   "gpt": 4,
+   "pro": 2,
+   "ask": 3,
    "deepseek": 2,
-   "gpt": 2,
-   "ask": 4,
-   "open": 5
+   "codex": 3,
+   "open": 5,
+   "video": 2
   },
   "gpt": {
-   "astra": 20,
-   "beyond": 14,
-   "bug": 14,
-   "code": 14,
-   "review": 14,
-   "across": 13,
-   "security": 13,
-   "claude": 2,
+   "bug": 16,
+   "claude": 4,
+   "astra": 21,
+   "beyond": 15,
+   "code": 15,
+   "review": 15,
+   "takes": 15,
+   "across": 14,
+   "security": 14,
+   "sol": 17,
+   "pro": 2,
    "openai": 4,
+   "bringing": 11,
    "research": 11
   },
   "open": {
+   "free": 3,
+   "source": 21,
+   "code": 2,
+   "should": 2,
+   "built": 3,
    "scale": 3,
-   "source": 15,
+   "muse": 4,
    "claude": 5,
    "google": 2,
-   "sales": 2,
-   "says": 2,
+   "stop": 2,
    "software": 3,
-   "model": 3,
-   "free": 2
-  },
-  "storytold": {
-   "anything": 6
+   "takes": 3,
+   "model": 3
   },
   "gemini": {
-   "carbon": 17,
-   "frontier": 14,
-   "model": 14,
-   "next": 12,
-   "our": 12,
-   "flash": 2,
-   "google": 2
+   "api": 3,
+   "decisions": 3,
+   "carbon": 20,
+   "frontier": 17,
+   "model": 17,
+   "next": 15,
+   "our": 15,
+   "google": 6,
+   "human": 2,
+   "flash": 2
   },
   "google": {
-   "pro": 8,
+   "bringing": 6,
+   "creative": 6,
+   "pro": 10,
+   "claude": 2,
+   "free": 2,
+   "gemini": 6,
+   "human": 2,
    "android": 4,
    "build": 4,
    "run": 5,
    "data": 4,
-   "says": 2,
    "open": 2,
    "carbon": 2,
    "frontier": 2,
-   "gemini": 2,
    "model": 2
-  },
-  "agent": {
-   "database": 17,
-   "disagreed": 17,
-   "done": 17,
-   "said": 17,
-   "iphone": 5
   },
   "out": {
    "data": 4,
-   "like": 4,
    "model": 3,
    "pro": 3,
-   "says": 3,
-   "companies": 13,
-   "inside": 13,
-   "iphone": 3,
+   "time": 2,
    "deepseek": 3,
    "flash": 3
   },
   "apple": {
-   "iphone": 2,
+   "mac": 2,
    "openai": 2,
+   "should": 2,
    "human": 2,
-   "world": 2,
+   "found": 3,
    "level": 2,
    "pro": 2
   },
   "research": {
-   "check": 13,
-   "vulnerability": 13,
-   "gpt": 11,
-   "hit": 2
+   "across": 7,
+   "model": 7,
+   "our": 7,
+   "stop": 7,
+   "system": 7,
+   "vulnerability": 14,
+   "bringing": 11,
+   "gpt": 11
   },
   "deepseek": {
+   "flash": 10,
    "claude": 2,
-   "flash": 9,
    "out": 3
   },
   "our": {
-   "carbon": 12,
-   "frontier": 12,
-   "gemini": 12,
-   "model": 14,
-   "next": 12,
-   "brain": 13,
-   "human": 13
+   "across": 7,
+   "model": 26,
+   "research": 7,
+   "stop": 7,
+   "system": 7,
+   "carbon": 15,
+   "frontier": 15,
+   "gemini": 15,
+   "next": 15,
+   "takes": 2,
+   "years": 2,
+   "muse": 2,
+   "brain": 14,
+   "human": 14
   },
   "build": {
-   "api": 14,
+   "openai": 6,
+   "api": 15,
+   "decisions": 15,
    "android": 2,
    "google": 4,
    "run": 2,
    "data": 2,
    "model": 3,
+   "should": 4,
    "software": 4
   },
   "data": {
-   "like": 4,
+   "meta": 5,
    "out": 4,
-   "meta": 4,
    "api": 2,
    "build": 2,
-   "google": 4,
-   "hit": 2,
-   "says": 2
+   "google": 4
   },
   "level": {
+   "aws": 15,
    "system": 15,
    "model": 9,
-   "results": 9,
    "apple": 2,
    "pro": 2
   },
   "chatgpt": {
-   "hit": 4,
+   "stack": 12,
    "nvidia": 4
   },
   "next": {
-   "carbon": 12,
-   "frontier": 12,
-   "gemini": 12,
-   "model": 12,
-   "our": 12,
+   "carbon": 15,
+   "frontier": 15,
+   "gemini": 15,
+   "model": 15,
+   "our": 15,
    "agentic": 13
   },
   "brain": {
-   "human": 13,
-   "our": 13
+   "human": 14,
+   "our": 14
   },
   "astra": {
-   "beyond": 14,
-   "bug": 14,
-   "code": 14,
-   "gpt": 20,
-   "review": 14
+   "beyond": 15,
+   "bug": 15,
+   "code": 15,
+   "gpt": 21,
+   "review": 15,
+   "takes": 15
   },
   "beyond": {
-   "astra": 14,
-   "bug": 14,
-   "code": 26,
-   "gpt": 14,
-   "review": 14,
-   "openai": 12
+   "astra": 15,
+   "bug": 15,
+   "code": 27,
+   "gpt": 15,
+   "review": 15,
+   "takes": 15,
+   "openai": 12,
+   "work": 12
   },
   "security": {
-   "across": 13,
-   "gpt": 13
+   "across": 14,
+   "gpt": 14,
+   "sol": 14,
+   "nvidia": 2,
+   "linux": 2
+  },
+  "nvidia": {
+   "huang": 12,
+   "security": 2,
+   "chatgpt": 4
+  },
+  "across": {
+   "model": 7,
+   "our": 7,
+   "research": 7,
+   "stop": 7,
+   "system": 7,
+   "gpt": 14,
+   "security": 14,
+   "sol": 14,
+   "bringing": 2
+  },
+  "anthropic": {
+   "code": 4,
+   "source": 2,
+   "llm": 2,
+   "openai": 2,
+   "training": 2
+  },
+  "pro": {
+   "google": 10,
+   "claude": 2,
+   "gpt": 2,
+   "model": 3,
+   "out": 3,
+   "apple": 2,
+   "level": 2
+  },
+  "system": {
+   "across": 7,
+   "model": 7,
+   "our": 7,
+   "research": 7,
+   "stop": 8,
+   "time": 4,
+   "aws": 15,
+   "level": 15
+  },
+  "turns": {
+   "creative": 18,
+   "openai": 18,
+   "bug": 4,
+   "meta": 4
+  },
+  "video": {
+   "free": 2,
+   "built": 2,
+   "only": 2,
+   "math": 2,
+   "time": 2,
+   "claude": 2,
+   "code": 2,
+   "codex": 2
+  },
+  "making": {
+   "training": 16,
+   "work": 2
+  },
+  "api": {
+   "decisions": 19,
+   "gemini": 3,
+   "build": 15,
+   "data": 2
+  },
+  "source": {
+   "free": 3,
+   "open": 21,
+   "code": 2,
+   "should": 2,
+   "built": 3,
+   "scale": 3,
+   "anthropic": 2,
+   "software": 3,
+   "takes": 3
+  },
+  "work": {
+   "openai": 18,
+   "should": 2,
+   "stop": 2,
+   "making": 2,
+   "beyond": 12,
+   "code": 12
+  },
+  "built": {
+   "open": 3,
+   "source": 3,
+   "model": 5,
+   "scale": 2,
+   "years": 2,
+   "only": 2,
+   "video": 2,
+   "programming": 2
   }
  },
  "pending": [],
  "beds": {
   "AI 与智能体": [
    "agent",
+   "api",
    "claude",
    "code",
    "openai"
   ],
   "未归类": [
+   "across",
+   "anthropic",
    "apple",
    "astra",
    "beyond",
    "brain",
    "build",
+   "built",
    "chatgpt",
    "data",
    "deepseek",
@@ -2431,19 +3754,27 @@
    "google",
    "gpt",
    "level",
+   "making",
    "model",
    "next",
+   "nvidia",
    "open",
    "our",
    "out",
+   "pro",
    "research",
    "security",
-   "storytold"
+   "source",
+   "storytold",
+   "system",
+   "turns",
+   "video",
+   "work"
   ]
  },
  "seed_summary": {
   "source": "https://sediment-garden.pages.dev/static/contentIndex.json",
-  "fetched_at": "2026-11-09",
+  "fetched_at": "2026-11-16",
   "articles": 74,
   "tokens": 18
  }
