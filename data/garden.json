@@ -3,9 +3,10 @@
   "code": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 63,
+   "hits": 79,
    "samples": [
     {
      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
@@ -20,7 +21,7 @@
      "url": "https://github.com/anthropics/claude-code/issues/107757"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "gpt": {
    "first_week": "2026-W45",
@@ -47,9 +48,10 @@
   "gemini": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 42,
+   "hits": 66,
    "samples": [
     {
      "title": "Gemini 4 Carbon",
@@ -64,7 +66,7 @@
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "carbon": {
    "first_week": "2026-W45",
@@ -127,9 +129,10 @@
   "openai": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 42,
+   "hits": 59,
    "samples": [
     {
      "title": "OpenAI's agents talked to each other through the CPU Cache",
@@ -144,14 +147,15 @@
      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "our": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 40,
+   "hits": 58,
    "samples": [
     {
      "title": "Gemini 4 Carbon: Our next frontier model",
@@ -160,9 +164,13 @@
     {
      "title": "Our newest AI Quest: Mapping the human brain",
      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    },
+    {
+     "title": "Muse Ember: Our smallest, most efficient model",
+     "url": "https://research.meta.ai/blog/muse-ember"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "astra": {
    "first_week": "2026-W45",
@@ -203,9 +211,10 @@
   "open": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 24,
+   "hits": 39,
    "samples": [
     {
      "title": "Breaking the open web won't stop the bad bots",
@@ -214,9 +223,13 @@
     {
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/"
+    },
+    {
+     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+     "url": "https://ketchup3d.github.io/app/"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "research": {
    "first_week": "2026-W45",
@@ -243,9 +256,10 @@
   "claude": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "hits": 19,
+   "hits": 45,
    "samples": [
     {
      "title": "Claude Code sends your email address to websites",
@@ -254,9 +268,13 @@
     {
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W46"
   },
   "ask": {
    "first_week": "2026-W45",
@@ -311,8 +329,116 @@
     }
    ],
    "last_week": "2026-W45"
+  },
+  "nvidia": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 19,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ],
+   "last_week": "2026-W46"
+  },
+  "google": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 19,
+   "samples": [
+    {
+     "title": "Google Gemini routes personal Drive files and emails to human annotators",
+     "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    }
+   ],
+   "last_week": "2026-W46"
+  },
+  "huang": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 17,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ],
+   "last_week": "2026-W46"
+  },
+  "jensen": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 14,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ],
+   "last_week": "2026-W46"
+  },
+  "stop": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 14,
+   "samples": [
+    {
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+    },
+    {
+     "title": "FAA issues national ground stop – lifted 4.5 hours later",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    }
+   ],
+   "last_week": "2026-W46"
+  },
+  "work": {
+   "first_week": "2026-W46",
+   "weeks": [
+    "2026-W46"
+   ],
+   "hits": 14,
+   "samples": [
+    {
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+    },
+    {
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+    }
+   ],
+   "last_week": "2026-W46"
   }
  },
- "updated_at": "2026-11-09T10:58:08.810458+08:00",
- "week": "2026-W45"
+ "updated_at": "2026-11-16T11:06:23.394070+08:00",
+ "week": "2026-W46"
 }

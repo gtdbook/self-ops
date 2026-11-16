@@ -1,0 +1,360 @@
+{
+ "week": "2026-W46",
+ "days": [
+  "2026-11-09",
+  "2026-11-10",
+  "2026-11-11",
+  "2026-11-12",
+  "2026-11-13",
+  "2026-11-14",
+  "2026-11-15"
+ ],
+ "generated_at": "2026-11-16T11:06:23.336524+08:00",
+ "themes": [
+  {
+   "token": "claude",
+   "weight": 26,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+     "title": "Goodbye Claude, hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html"
+    }
+   ]
+  },
+  {
+   "token": "gemini",
+   "weight": 24,
+   "days": 6,
+   "samples": [
+    {
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    }
+   ]
+  },
+  {
+   "token": "nvidia",
+   "weight": 19,
+   "days": 5,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ]
+  },
+  {
+   "token": "google",
+   "weight": 19,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Google Gemini routes personal Drive files and emails to human annotators",
+     "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    }
+   ]
+  },
+  {
+   "token": "our",
+   "weight": 18,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Muse Ember: Our smallest, most efficient model",
+     "url": "https://research.meta.ai/blog/muse-ember"
+    },
+    {
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+    }
+   ]
+  },
+  {
+   "token": "huang",
+   "weight": 17,
+   "days": 4,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ]
+  },
+  {
+   "token": "openai",
+   "weight": 17,
+   "days": 7,
+   "samples": [
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work"
+    }
+   ]
+  },
+  {
+   "token": "code",
+   "weight": 16,
+   "days": 6,
+   "samples": [
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb"
+    }
+   ]
+  },
+  {
+   "token": "open",
+   "weight": 15,
+   "days": 7,
+   "samples": [
+    {
+     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+     "url": "https://ketchup3d.github.io/app/"
+    },
+    {
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/"
+    }
+   ]
+  },
+  {
+   "token": "jensen",
+   "weight": 14,
+   "days": 4,
+   "samples": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+    },
+    {
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+   ]
+  },
+  {
+   "token": "stop",
+   "weight": 14,
+   "days": 6,
+   "samples": [
+    {
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+    },
+    {
+     "title": "FAA issues national ground stop – lifted 4.5 hours later",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    }
+   ]
+  },
+  {
+   "token": "work",
+   "weight": 14,
+   "days": 5,
+   "samples": [
+    {
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+    },
+    {
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+    }
+   ]
+  }
+ ],
+ "top_items": [
+  {
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "url": "https://postalpro.usps.com/zcb",
+   "meta": "本周出现 2 天 · +139 分 / 7.4 小时 · 现 ⭐ 613",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 85.0
+  },
+  {
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "meta": "本周出现 1 天 · +483 分 / 11.5 小时 · 现 ⭐ 726",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+   "meta": "本周出现 1 天 · +283 分 / 7.1 小时 · 现 ⭐ 564",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Goodbye Claude, hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "meta": "本周出现 1 天 · +134 分 / 11.5 小时 · 现 ⭐ 746",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "AlphaProof Code",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "meta": "本周出现 1 天 · +201 分 / 16.8 小时 · 现 ⭐ 636",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "meta": "本周出现 1 天 · +522 分 / 8.0 小时 · 现 ⭐ 985",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "meta": "本周出现 1 天 · +174 分 / 8.9 小时 · 现 ⭐ 338",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "url": "https://www.watched.earth",
+   "meta": "本周出现 1 天 · +109 分 / 7.4 小时 · 现 ⭐ 338",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 78.2
+  },
+  {
+   "title": "Jensen Huang resigns",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "meta": "本周出现 1 天 · +2162 分 / 20.0 小时 · 现 ⭐ 3723",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 78.1
+  },
+  {
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "meta": "本周出现 1 天 · +177 分 / 7.4 小时 · 现 ⭐ 585",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 74.8
+  }
+ ],
+ "stats": {
+  "blog_rss": {
+   "mean": 2442.9,
+   "prev_mean": 2413.7,
+   "delta": 29.1,
+   "error_days": 0
+  },
+  "cn_rss": {
+   "mean": 262.7,
+   "prev_mean": 282.7,
+   "delta": -20.0,
+   "error_days": 0
+  },
+  "github_search": {
+   "mean": 26.6,
+   "prev_mean": 27.6,
+   "delta": -1.0,
+   "error_days": 0
+  },
+  "hackernews": {
+   "mean": 55.0,
+   "prev_mean": 57.9,
+   "delta": -2.9,
+   "error_days": 0
+  },
+  "producthunt": {
+   "mean": 103.9,
+   "prev_mean": 101.9,
+   "delta": 2.0,
+   "error_days": 0
+  }
+ },
+ "evolution_lines": [
+  "security：跨 4 周重现，沉淀入「未归类」圃",
+  "openai、code、model、claude、gpt、open、google、agent：追加 2026-W46 周观察记录",
+  "cn_rss：fitness=0.714 恢复健康，权重回升至 1.0",
+  "prefs.tokens：claude(10次→+0.97)、code(8次→+1.38)、open(6次→+0.50)、source(6次→+0.50)、goodbye(6次→+0.97)、every(6次→+1.43)、ask(6次→+2.26)、flash(5次→+1.85)",
+  "prefs.tokens：code(12次→+1.81)、claude(10次→+1.43)、every(8次→+1.85)、goodbye(6次→+1.43)、ask(6次→+2.65)、released(5次→+0.50)、flash(5次→+2.26)、without(4次→+0.50)",
+  "prefs.tokens：code(12次→+2.22)、every(10次→+2.26)、claude(10次→+1.85)、source(6次→+0.95)、open(6次→+0.95)、goodbye(6次→+1.85)、released(5次→+0.97)、flash(5次→+2.65)",
+  "prefs.tokens：gemini(9次→+0.50)、code(8次→+2.61)、every(8次→+2.65)、claude(8次→+2.26)、huang(6次→+0.50)、jensen(6次→+0.50)、work(6次→+0.50)、help(6次→+0.50)",
+  "prefs.tokens：gemini(12次→+0.97)、nvidia(8次→+0.50)、huang(8次→+0.97)、code(8次→+2.98)、claude(8次→+2.65)、bot(6次→+0.50)、grok(6次→+0.50)、without(6次→+0.93)",
+  "prefs.tokens：gemini(12次→+1.43)、nvidia(10次→+0.97)、huang(8次→+1.43)、bot(6次→+0.97)、grok(6次→+0.97)、stop(6次→+0.50)、without(6次→+1.38)、jensen(6次→+0.95)",
+  "prefs.tokens：gemini(12次→+1.85)、nvidia(8次→+1.43)、decisions(7次→+0.50)、video(6次→+0.50)、code(6次→+3.19)、grok(6次→+1.43)、bot(6次→+1.43)、stop(6次→+0.97)"
+ ],
+ "garden": {
+  "total_themes": 22,
+  "evergreen": 0,
+  "new_this_week": 6,
+  "top": [
+   "code（追踪 2 周 · 累计 79 次）",
+   "gemini（追踪 2 周 · 累计 66 次）",
+   "openai（追踪 2 周 · 累计 59 次）",
+   "our（追踪 2 周 · 累计 58 次）",
+   "gpt（追踪 1 周 · 累计 49 次）",
+   "claude（追踪 2 周 · 累计 45 次）",
+   "model（追踪 1 周 · 累计 40 次）",
+   "research（追踪 1 周 · 累计 40 次）",
+   "astra（追踪 1 周 · 累计 39 次）",
+   "open（追踪 2 周 · 累计 39 次）",
+   "carbon（追踪 1 周 · 累计 30 次）",
+   "scale（追踪 1 周 · 累计 26 次）",
+   "weights（追踪 1 周 · 累计 26 次）",
+   "nvidia（追踪 1 周 · 累计 19 次）",
+   "google（追踪 1 周 · 累计 19 次）",
+   "ask（追踪 1 周 · 累计 17 次）",
+   "huang（追踪 1 周 · 累计 17 次）",
+   "jensen（追踪 1 周 · 累计 14 次）",
+   "stop（追踪 1 周 · 累计 14 次）",
+   "work（追踪 1 周 · 累计 14 次）",
+   "brain（追踪 1 周 · 累计 13 次）",
+   "api（追踪 1 周 · 累计 12 次）"
+  ]
+ }
+}
