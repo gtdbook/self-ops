@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-16T04:49:08.716073+08:00",
- "count": 25,
+ "updated_at": "2026-11-16T08:44:59.168988+08:00",
+ "count": 39,
  "items": [
   {
    "id": "hn-50452621",
    "title": "Notes on Mathematics for Engineers (1959) [pdf]",
    "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50452621",
-   "score": 41,
-   "comments": 12,
+   "score": 67,
+   "comments": 18,
    "author": "the-mitr",
    "time_iso": "2026-11-11T12:25:42+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 41
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 67
     }
    ]
   },
@@ -24,14 +28,34 @@
    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
    "hn_url": "https://news.ycombinator.com/item?id=50463399",
-   "score": 216,
-   "comments": 95,
+   "score": 325,
+   "comments": 160,
    "author": "envoked",
    "time_iso": "2026-11-12T05:29:24+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 216
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 325
+    }
+   ]
+  },
+  {
+   "id": "hn-50465522",
+   "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+   "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
+   "hn_url": "https://news.ycombinator.com/item?id=50465522",
+   "score": 25,
+   "comments": 3,
+   "author": "BoxOfRain",
+   "time_iso": "2026-11-12T10:58:00+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 25
     }
    ]
   },
@@ -84,6 +108,38 @@
    ]
   },
   {
+   "id": "hn-50482702",
+   "title": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
+   "url": "https://jonquil.b12n.app/",
+   "hn_url": "https://news.ycombinator.com/item?id=50482702",
+   "score": 12,
+   "comments": 1,
+   "author": "yogthos",
+   "time_iso": "2026-11-13T12:42:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50486880",
+   "title": "A quest to create the perfect whiskey glass",
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50486880",
+   "score": 46,
+   "comments": 46,
+   "author": "Kaibeezy",
+   "time_iso": "2026-11-13T17:37:32+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
    "id": "hn-50488916",
    "title": "Your room can be as bright as the outdoors (2019)",
    "url": "https://www.benkuhn.net/lux/",
@@ -96,6 +152,22 @@
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50492012",
+   "title": "Keylogger Detection and Containment [pdf]",
+   "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50492012",
+   "score": 15,
+   "comments": 2,
+   "author": "movsx",
+   "time_iso": "2026-11-14T00:10:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 15
     }
    ]
   },
@@ -149,17 +221,21 @@
   },
   {
    "id": "hn-50505271",
-   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
    "url": "https://space.stackexchange.com/questions/37775",
    "hn_url": "https://news.ycombinator.com/item?id=50505271",
-   "score": 194,
-   "comments": 136,
+   "score": 227,
+   "comments": 145,
    "author": "Skyfall106",
    "time_iso": "2026-11-15T09:06:43+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 194
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 227
     }
    ]
   },
@@ -184,14 +260,18 @@
    "title": "Understanding Positional Embeddings in Modern LLMs",
    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
    "hn_url": "https://news.ycombinator.com/item?id=50506376",
-   "score": 167,
-   "comments": 13,
+   "score": 195,
+   "comments": 26,
    "author": "vismit2000",
    "time_iso": "2026-11-15T12:14:06+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 167
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 195
     }
    ]
   },
@@ -216,14 +296,18 @@
    "title": "The MacBook Pro's OLED PWM problem",
    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
    "hn_url": "https://news.ycombinator.com/item?id=50506719",
-   "score": 330,
-   "comments": 173,
+   "score": 411,
+   "comments": 228,
    "author": "MacAnorak",
    "time_iso": "2026-11-15T13:15:22+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 330
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 411
     }
    ]
   },
@@ -232,14 +316,18 @@
    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
    "url": "https://prog21.dadgum.com/116.html",
    "hn_url": "https://news.ycombinator.com/item?id=50506894",
-   "score": 156,
-   "comments": 76,
+   "score": 193,
+   "comments": 99,
    "author": "ksec",
    "time_iso": "2026-11-15T13:44:16+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 156
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 193
     }
    ]
   },
@@ -264,14 +352,18 @@
    "title": "Emacs Is My Browser",
    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
    "hn_url": "https://news.ycombinator.com/item?id=50507553",
-   "score": 132,
-   "comments": 67,
+   "score": 173,
+   "comments": 89,
    "author": "nyc111",
    "time_iso": "2026-11-15T15:21:21+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 132
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 173
     }
    ]
   },
@@ -296,14 +388,18 @@
    "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
    "hn_url": "https://news.ycombinator.com/item?id=50509023",
-   "score": 74,
-   "comments": 45,
+   "score": 156,
+   "comments": 116,
    "author": "gumby",
    "time_iso": "2026-11-15T17:53:31+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 74
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 156
     }
    ]
   },
@@ -312,14 +408,18 @@
    "title": "A short explainer on how El Niño works [video]",
    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
    "hn_url": "https://news.ycombinator.com/item?id=50509308",
-   "score": 84,
-   "comments": 10,
+   "score": 163,
+   "comments": 65,
    "author": "nharada",
    "time_iso": "2026-11-15T18:23:21+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 163
     }
    ]
   },
@@ -328,14 +428,18 @@
    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
    "hn_url": "https://news.ycombinator.com/item?id=50509411",
-   "score": 144,
-   "comments": 61,
+   "score": 360,
+   "comments": 175,
    "author": "DeepLogin",
    "time_iso": "2026-11-15T18:36:10+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 144
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 360
     }
    ]
   },
@@ -344,14 +448,34 @@
    "title": "Eclipse Mosquitto – An open source MQTT broker",
    "url": "https://github.com/eclipse-mosquitto/mosquitto",
    "hn_url": "https://news.ycombinator.com/item?id=50509416",
-   "score": 28,
-   "comments": 9,
+   "score": 59,
+   "comments": 23,
    "author": "gregsadetsky",
    "time_iso": "2026-11-15T18:36:40+00:00",
    "history": [
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 28
+    },
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50509837",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "url": "https://bruceroettgers.eu/blog/protomaps/",
+   "hn_url": "https://news.ycombinator.com/item?id=50509837",
+   "score": 141,
+   "comments": 32,
+   "author": "bcye",
+   "time_iso": "2026-11-15T19:26:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 141
     }
    ]
   },
@@ -388,6 +512,22 @@
    ]
   },
   {
+   "id": "hn-50509972",
+   "title": "Handwriting, as a Font",
+   "url": "https://ductus.sorenblank.com",
+   "hn_url": "https://news.ycombinator.com/item?id=50509972",
+   "score": 107,
+   "comments": 26,
+   "author": "coinfused",
+   "time_iso": "2026-11-15T19:42:13+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 107
+    }
+   ]
+  },
+  {
    "id": "hn-50510005",
    "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
    "url": "https://arkanumdata.com/research/house-trades",
@@ -400,6 +540,134 @@
     {
      "t": "2026-11-16T04:49:08.716073+08:00",
      "score": 31
+    }
+   ]
+  },
+  {
+   "id": "hn-50510042",
+   "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+   "url": "https://news.ycombinator.com/item?id=50510042",
+   "hn_url": "https://news.ycombinator.com/item?id=50510042",
+   "score": 135,
+   "comments": 44,
+   "author": "snirgbs",
+   "time_iso": "2026-11-15T19:49:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 135
+    }
+   ]
+  },
+  {
+   "id": "hn-50510296",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "url": "https://baron.by.dai.studio/",
+   "hn_url": "https://news.ycombinator.com/item?id=50510296",
+   "score": 75,
+   "comments": 10,
+   "author": "ranger_danger",
+   "time_iso": "2026-11-15T20:20:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 75
+    }
+   ]
+  },
+  {
+   "id": "hn-50510442",
+   "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+   "hn_url": "https://news.ycombinator.com/item?id=50510442",
+   "score": 99,
+   "comments": 50,
+   "author": "jonbaer",
+   "time_iso": "2026-11-15T20:37:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 99
+    }
+   ]
+  },
+  {
+   "id": "hn-50511395",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "hn_url": "https://news.ycombinator.com/item?id=50511395",
+   "score": 135,
+   "comments": 66,
+   "author": "hspeiser",
+   "time_iso": "2026-11-15T22:11:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 135
+    }
+   ]
+  },
+  {
+   "id": "hn-50511718",
+   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+   "url": "https://lastcomplication.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50511718",
+   "score": 23,
+   "comments": 4,
+   "author": "tdeangelis",
+   "time_iso": "2026-11-15T22:48:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50511806",
+   "title": "Preserving 30 Years of Salon Journalism",
+   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+   "hn_url": "https://news.ycombinator.com/item?id=50511806",
+   "score": 51,
+   "comments": 9,
+   "author": "CharlesW",
+   "time_iso": "2026-11-15T23:00:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 51
+    }
+   ]
+  },
+  {
+   "id": "hn-50512231",
+   "title": "Mini.nvim Is Now on Tangled",
+   "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+   "hn_url": "https://news.ycombinator.com/item?id=50512231",
+   "score": 11,
+   "comments": 1,
+   "author": "nerdypepper",
+   "time_iso": "2026-11-15T23:55:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50512235",
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "hn_url": "https://news.ycombinator.com/item?id=50512235",
+   "score": 3,
+   "comments": 0,
+   "author": "zdw",
+   "time_iso": "2026-11-15T23:55:55+00:00",
+   "history": [
+    {
+     "t": "2026-11-16T08:44:59.168988+08:00",
+     "score": 3
     }
    ]
   }

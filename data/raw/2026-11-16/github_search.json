@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-16T04:49:09.318702+08:00",
- "count": 20,
+ "updated_at": "2026-11-16T08:45:00.085108+08:00",
+ "count": 27,
  "items": [
   {
    "id": "gh-1450792839",
@@ -112,7 +112,7 @@
    "id": "gh-1452123445",
    "title": "Kianuni/Erosion-CN",
    "url": "https://github.com/Kianuni/Erosion-CN",
-   "stars": 2124,
+   "stars": 2130,
    "language": "Swift",
    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
    "created_at": "2026-11-10T02:37:31Z",
@@ -120,6 +120,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 2124
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 2130
     }
    ]
   },
@@ -127,7 +131,7 @@
    "id": "gh-1452450730",
    "title": "JDhruv14/line-art-animation",
    "url": "https://github.com/JDhruv14/line-art-animation",
-   "stars": 822,
+   "stars": 834,
    "language": "TypeScript",
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "created_at": "2026-11-10T09:25:25Z",
@@ -135,6 +139,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 822
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 834
     }
    ]
   },
@@ -142,7 +150,7 @@
    "id": "gh-1452531582",
    "title": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
-   "stars": 1548,
+   "stars": 1554,
    "language": "Python",
    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
    "created_at": "2026-11-10T10:46:56Z",
@@ -150,6 +158,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 1548
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1554
     }
    ]
   },
@@ -157,7 +169,7 @@
    "id": "gh-1452639214",
    "title": "failsafe-security/artex",
    "url": "https://github.com/failsafe-security/artex",
-   "stars": 694,
+   "stars": 708,
    "language": "Go",
    "description": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
    "created_at": "2026-11-10T12:33:18Z",
@@ -165,6 +177,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 694
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 708
     }
    ]
   },
@@ -172,7 +188,7 @@
    "id": "gh-1453132706",
    "title": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "stars": 1618,
+   "stars": 1650,
    "language": "TypeScript",
    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
    "created_at": "2026-11-10T20:01:01Z",
@@ -180,6 +196,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 1618
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1650
     }
    ]
   },
@@ -187,7 +207,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 2141,
+   "stars": 2210,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -195,6 +215,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 2141
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 2210
     }
    ]
   },
@@ -202,7 +226,7 @@
    "id": "gh-1453604719",
    "title": "Eynnzerr/TelemetryCleaner",
    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-   "stars": 953,
+   "stars": 1004,
    "language": "Kotlin",
    "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
    "created_at": "2026-11-11T06:25:10Z",
@@ -210,6 +234,55 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 953
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1004
+    }
+   ]
+  },
+  {
+   "id": "gh-1454389076",
+   "title": "linknimiball1974/ai-texture-forge",
+   "url": "https://github.com/linknimiball1974/ai-texture-forge",
+   "stars": 682,
+   "language": "",
+   "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textu",
+   "created_at": "2026-11-11T19:09:18Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 682
+    }
+   ]
+  },
+  {
+   "id": "gh-1454392563",
+   "title": "makepad/relax",
+   "url": "https://github.com/makepad/relax",
+   "stars": 560,
+   "language": "Rust",
+   "description": "Relax Rust JIT",
+   "created_at": "2026-11-11T19:12:58Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 560
+    }
+   ]
+  },
+  {
+   "id": "gh-1454661440",
+   "title": "rivet-dev/open-orange",
+   "url": "https://github.com/rivet-dev/open-orange",
+   "stars": 591,
+   "language": "TypeScript",
+   "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+   "created_at": "2026-11-12T00:44:12Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 591
     }
    ]
   },
@@ -217,7 +290,7 @@
    "id": "gh-1455006582",
    "title": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
-   "stars": 2833,
+   "stars": 2972,
    "language": "TypeScript",
    "description": "Chat Demo",
    "created_at": "2026-11-12T08:08:19Z",
@@ -225,6 +298,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 2833
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 2972
     }
    ]
   },
@@ -232,7 +309,7 @@
    "id": "gh-1455066549",
    "title": "ZiChuanLan/freebie-radar",
    "url": "https://github.com/ZiChuanLan/freebie-radar",
-   "stars": 780,
+   "stars": 805,
    "language": "TypeScript",
    "description": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
    "created_at": "2026-11-12T09:08:11Z",
@@ -240,6 +317,25 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 780
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 805
+    }
+   ]
+  },
+  {
+   "id": "gh-1455173808",
+   "title": "AIRzZ90/study-materials-fork",
+   "url": "https://github.com/AIRzZ90/study-materials-fork",
+   "stars": 670,
+   "language": "TypeScript",
+   "description": "A cross-platform Tauri 2 interface and interaction practice project",
+   "created_at": "2026-11-12T10:52:32Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 670
     }
    ]
   },
@@ -247,7 +343,7 @@
    "id": "gh-1455374283",
    "title": "Noniv/abyssal-garden",
    "url": "https://github.com/Noniv/abyssal-garden",
-   "stars": 988,
+   "stars": 1080,
    "language": "JavaScript",
    "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
    "created_at": "2026-11-12T13:57:34Z",
@@ -255,6 +351,40 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 988
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1080
+    }
+   ]
+  },
+  {
+   "id": "gh-1455416555",
+   "title": "hitkeeen/blender-ai-mcp-addon",
+   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+   "stars": 1137,
+   "language": "",
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "created_at": "2026-11-12T14:32:15Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1137
+    }
+   ]
+  },
+  {
+   "id": "gh-1455742253",
+   "title": "credoksopho1984/blender-ai-copilot-studio",
+   "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+   "stars": 513,
+   "language": "",
+   "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender",
+   "created_at": "2026-11-12T19:30:32Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 513
     }
    ]
   },
@@ -262,7 +392,7 @@
    "id": "gh-1455815512",
    "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
    "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-   "stars": 2339,
+   "stars": 1228,
    "language": "Visual Basic .NET",
    "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
    "created_at": "2026-11-12T20:49:07Z",
@@ -270,6 +400,25 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 2339
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1228
+    }
+   ]
+  },
+  {
+   "id": "gh-1456134750",
+   "title": "faizfahmi77/ScanDot",
+   "url": "https://github.com/faizfahmi77/ScanDot",
+   "stars": 539,
+   "language": "Kotlin",
+   "description": "Experimental Android 3D scanning and point-cloud viewer",
+   "created_at": "2026-11-13T04:07:57Z",
+   "history": [
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 539
     }
    ]
   },
@@ -277,7 +426,7 @@
    "id": "gh-1456537250",
    "title": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
-   "stars": 729,
+   "stars": 733,
    "language": "TypeScript",
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "created_at": "2026-11-13T11:50:50Z",
@@ -285,6 +434,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 729
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 733
     }
    ]
   },
@@ -292,7 +445,7 @@
    "id": "gh-1457270665",
    "title": "duwqijlk/muse-protocol",
    "url": "https://github.com/duwqijlk/muse-protocol",
-   "stars": 973,
+   "stars": 1022,
    "language": "Python",
    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
    "created_at": "2026-11-14T01:24:58Z",
@@ -300,6 +453,10 @@
     {
      "t": "2026-11-16T04:49:09.318702+08:00",
      "score": 973
+    },
+    {
+     "t": "2026-11-16T08:45:00.085108+08:00",
+     "score": 1022
     }
    ]
   }
