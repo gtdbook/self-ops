@@ -1,12 +1,51 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T01:55:39.532331+08:00",
+ "generated_at": "2026-11-17T09:36:27.173288+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "meta": "+276 分 / 7.7 小时 · 现 ⭐ 307",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Grazing sheep in fields with solar arrays",
+     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+     "meta": "+186 分 / 7.7 小时 · 现 ⭐ 213",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+     "meta": "+69 分 / 7.7 小时 · 现 ⭐ 297",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "US moves to cut China’s remote access to AI chips",
+     "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+     "meta": "Ars Technica · 2026-11-16",
+     "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
@@ -118,14 +157,6 @@
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Evernote turns AI-driven discovery into paid subscriptions",
-     "url": "https://openai.com/ads/customers/evernote",
-     "meta": "OpenAI · 2026-10-28",
-     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -135,122 +166,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[问与答] codex 降智了咋办",
-     "url": "https://www.v2ex.com/t/1257562#reply2",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "如题，codex gpt6.1 high 用起来降智了咋办",
+     "title": "[推广] ChatGPT Plus 充值，125",
+     "url": "https://www.v2ex.com/t/1257590#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "自己的小店开张啦 🎉 这几天陆续成交了 29 单，谢谢大家捧场。 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅充值：125 元/月 GPT pro5x 680 元/月 Pro 20X 1360.00/月 在自己的网站下单，订单进度可以查询；遇到问题可以直接找我，不用到处找客服。 👉 https://duang.org/",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[酷工作] remote 算法工程师（偏重 TTS 真人语音合成方向）22K-35k 算法工程师（偏重生图生视频 & 人物一致性方向）22K-35k",
-     "url": "https://www.v2ex.com/t/1257560#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "算法工程师（偏重 TTS 真人语音合成方向） 22K-35k JD 1：AIGC 音视频融合研发工程师（偏重 TTS 真人语音合成方向） 岗位职责 TTS 语音生成与真人音色合成：搭建、调试真人音色 TTS 工作流，完成音色复刻、情感语调调控、韵律优化、长文本断句与停顿处理，解决音色失真、机械感、断句生硬等问题，输出高自然度真人语音；负责语音批量生成、音色库沉淀、音素对齐与降噪后处理。 音画联动与",
+     "title": "[程序员] claude 用 apple 订阅的模式这条路也断了。",
+     "url": "https://www.v2ex.com/t/1257589#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "昨天晚上进行充值时在 apple 这边已经扣费了，但 claude 那边还是 free。 然后弹出提示： We can't add this purchase to yourClaude account. To stop further charges,cancel the subscription in yourAppleaccount settings and request a refund",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 在瑞典做 Mac mini 实体主机托管，家用 IP，有 Claude 企业账号，可以代付，开放少量意向名额",
-     "url": "https://www.v2ex.com/t/1257559#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "看了很多人在做 Mac mini 实体主机托管服务，我也想看看有没有人感兴趣用欧洲的 IP，以及大家更关注哪些问题，比如网络、远程访问、设备配置、稳定性或者托管成本。 有兴趣的朋友可以在评论区留言或者私信我，我会单独发送项目介绍和初步方案。 也欢迎有相关经验的朋友交流建议。",
+     "title": "[投资] 最近亏麻了，来点 v 友群里抱头痛哭",
+     "url": "https://www.v2ex.com/t/1257587#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "欢迎 v 友 https://shimo.im/docs/473QM5OxdYc2EX3w/",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 自己是围棋新手，于是做了一个讲清“为什么这样下”的开源围棋学习网站",
-     "url": "https://www.v2ex.com/t/1257558#reply1",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "大家好，分享一个最近做的项目： The Go Room ，一个面向零基础学习者的围棋网页。 我自己就是围棋新手。知道了一点规则，真正跟电脑下的时候，还是一直被吃棋，而且不知道哪里下错了。 所以我想做一个能陪新手慢慢看懂每一步的地方。 在线体验 · GitHub 源码 先试一下，再看为什么 比如一块棋快被吃了，向外接一颗，看起来像是在逃跑，但真的救出来了吗？ 你可以先试这个下法，看看对方回应之后发生",
+     "title": "[云计算] 三台机器装 fail2ban：端口对不上，封了也白封",
+     "url": "https://www.v2ex.com/t/1257586#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "fail2ban 装上不等于封住，要三件事齐：jail 里的端口必须等于 SSH 的实际端口、日志来源必须对（没有 /var/log/auth.log 就 backend=systemd）、首封要实测验证过。主力机历史上累计封过近百次，却因为 jail 端口默认 22、而 SSH 根本不在 22 上，很可能一次都没挡住真正的 SSH 端口。过程写在这： https://zhetengbiji.bl",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[酷工作] remote 高级安全攻防工程师（管理经验优先）× 5HC",
-     "url": "https://www.v2ex.com/t/1257557#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "高级安全攻防工程师（管理经验优先）× 5HC 40k-150k 岗位职责 一、红队实战与渗透攻击（核心） 带队对公司全线业务（Web、APP、小程序、API、服务器、容器、多云环境）执行授权渗透测试与红队行动，以攻击者视角持续发现高危漏洞与利用链。 主导年度红蓝对抗演练，设计攻击场景、投放载荷、绕过防御设备（WAF/EDR/HIDS），输出可量化的对抗结果。 跟踪并复现业界最新攻击手法（0day、",
+     "title": "[分享创造] 朋友们， 我给我的 AI 简历项目加了一个面试官视角的功能，不知道有不有用",
+     "url": "https://www.v2ex.com/t/1257585#reply1",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "项目链接： https://github.com/LingyiChen-AI/JadeAI 体验地址： https://jadeai.cturing.cn/zh/recruit",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 受够了 Canva [Magic Layer] 和 WPS [图片转 PPT] 的艺术字、中文乱码和底图色块问题，自己做了个工具，2 分钟出可编辑 PPT",
-     "url": "https://www.v2ex.com/t/1257556#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "我做了一个工具：3 分钟就能把 GPT 生成的图片转成可编辑的 PPT，艺术字也能保留。 之前做汇报 PPT 时，我发现 AI 生成的幻灯片非常好看，是我这种理科生远远做不出来的。问题是它改不了。AI 只要出现一点小幻觉，或者文案有点 AI 味，就只能重新生成、反复抽卡，结果还不一定比第一次好，让人很恼火😡。我也试过不少 skill，烧了一堆 token，速度和效果都不理想，所以决定自己做一个转换",
+     "title": "[程序员] 现在最能模仿人说话风格的蒸馏仓库是？",
+     "url": "https://www.v2ex.com/t/1257584#reply1",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "之前试了几个 nvwa 同事 skill 效果都一般啊 不知道是不是我没用对",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "Robert Pattinson 成为第七任 007",
-     "url": "https://www.solidot.org/story?sid=85905",
-     "meta": "Solidot · 2026-11-16",
-     "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听",
+     "title": "[分享创造] Inkdown 开源笔记软件 v0.1.7",
+     "url": "https://www.v2ex.com/t/1257583#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "新折腾的一个笔记软件 Inkdown https://github.com/ice-a/inkdown/releases 功能一览 编辑器 ：Markdown 语法高亮、行号、软换行、查找、撤销/重做、格式化工具栏与快捷键 首屏工作台 ：空白文稿直接给出模板、打开文件/文件夹、AI 写作和示例入口 斜杠快捷指令 ：输入 / 插入表格、图片、时间、代码块，打开 AI 对话；支持自定义 JavaScr",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] Casdoor 开源版这两个月：控制台里多了个插件商店，登录页有 24 套主题可换",
-     "url": "https://www.v2ex.com/t/1257555#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "Casdoor 是我们社区在做的开源 IAM / SSO，Go + React，Apache 2.0，现在 14.8k star，今年 2 月进了 CNCF 云原生全景图。9 月发过一帖讲 v4 的控制台重写和 MCP，这两个月的更新主要在做一件事：让自托管的 IAM 也能装东西。这些功能本身都在开源版里，不用 license。 ### 为什么要插件商店 IAM 的扩展性一直很别扭。Keycloa",
+     "title": "[ WATCH] 老旧 Apple Watch 续航拉胯，还能用来做点啥？",
+     "url": "https://www.v2ex.com/t/1257582#reply4",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "最近收拾房间翻出来很久以前买的 Apple Watch3 代，电池健康还有 89%但放那一小时就能掉电 10%，平时也不戴就放桌面插着充电器当闹钟用，正准备买个能立住的支架壳子摆桌面显得美观些，不过 3 代不支持屏幕常亮当个桌面时钟也有点鸡肋😅 想问下各位彦祖亦菲有什么老旧电子产品再就业的渠道？比如养个电子宠物，能否刷机干点别的？或者有啥配件能改造成个桌面小屏幕这种？先谢过",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] DEVIN 里面使用 CLAUDE 模型好像对话就直接被吞了",
-     "url": "https://www.v2ex.com/t/1257553#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "有没人遇到一样的. 没任何的反馈.",
+     "title": "[程序员] 感觉有了 AI 后，身边的同事出现了两极分化",
+     "url": "https://www.v2ex.com/t/1257581#reply7",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "感觉有了 AI 后，身边的同事出现了两极分化 一边是确实用得挺好，提效成果很大，合理利用 一边是用 AI 过渡设计，是让 AI 做就完了，然后一问三不知，流程又臭又长，走不下去 这只是我观察到我自己身边的，另一个点可能因为我这里是三线，没那么卷 不知道各位如何",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
-     "url": "https://www.solidot.org/story?sid=85904",
-     "meta": "Solidot · 2026-11-16",
-     "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发",
+     "title": "[分享创造] V2EX 客户端 - App Store",
+     "url": "https://www.v2ex.com/t/1257580#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "抱歉之前发错节点，今天更新了一版，把之前有些问题修复了。（Apple Store 过了第一次审核，第二次审核就好快··） 想着在发一次，打扰老哥们了。。 下载地址： https://apps.apple.com/in/app/r%C3%B6am/id6824367418 后续就随缘了··继续 fork 折腾下一个 APP 了。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] Folkbench：同一模型在不同中转站的身份探针一致率、可用率、价格对照（附公开接口）",
-     "url": "https://www.v2ex.com/t/1257552#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "大家好，这是 Folkbench（ folkbench.com ）的介绍帖，我是运营。 它是什么 一个 AI 中转站目录和对照工具。同一个模型（比如 Claude Opus 5.5、GPT 6 Sol），把各家线路的这些数据放在同一张表里： 身份探针一致率：同一时段回答同一组身份探针题（知识截止时间、最新版本这类问题），与参考答案一致的比例，同时附上模型指纹字段 近 24 小时可用率、首字延迟 公",
+     "title": "[优惠信息] 20261117 移动领 1-9 元话费",
+     "url": "https://www.v2ex.com/t/1257579#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "打开中国移动 APP - 下方中间点击“灵犀” - 发送口令“甘蔗节节高”（今天 10 点开始）",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 35 英寸的显示器推荐",
-     "url": "https://www.v2ex.com/t/1257550#reply0",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "35 英寸左右，平时玩 PS5、外接电脑看视频使用，求推荐性价比的显示器。",
+     "title": "[阅读] 入了掌阅 Ocean6 Pro 替换用了 11 年的 Kindle",
+     "url": "https://www.v2ex.com/t/1257578#reply8",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "最近刚入手了一个掌阅 Ocean6 Pro，老的 kindle 用了 11 年了，新老交接。 Kindle 是 Paperwhite （第七代），其他的功能一切正常，就是电池不太耐用了，充电变得频繁了一些。这个 Kindle 陪我看完了阿婆的所有小说（波洛和马普尔小姐系列） 掌阅的这个刚入手，看了下是基于安卓定制的一个掌阅的 SmartOS 系统，一些目前觉得不错设计： 轻，真的很轻，不到 200",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[生活] 有通勤一个半小时的老哥嘛",
-     "url": "https://www.v2ex.com/t/1257548#reply3",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "公共交通上下班都一个半小时，上班第一天，给我整得有点 emo 了",
+     "title": "[问与答] 玩了发现恋物癖越来越严重了咋办",
+     "url": "https://www.v2ex.com/t/1257575#reply18",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "恋物癖越来越严重了咋办",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[NAS] 给 NAS 搭了个 AI 运维管家：Go 盯告警，OpenCode 干活，主路由负责互检",
-     "url": "https://www.v2ex.com/t/1257547#reply4",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "最近折腾了一套家里的 NAS 运维助手，暂且叫 HomeOps。机器是 GKN6000 NAS，加一台 J4125/OpenWrt 主路由，上面已经跑着 Gitea、Nextcloud、Vaultwarden、Home Assistant 等服务。 起因很简单：出了安全事件，希望有人早点发现；软件该不该更新，希望有人先查清楚兼容和迁移；服务凌晨挂了，也不想只收到一句“异常/已恢复”，还得自己翻半天",
+     "title": "[分享创造] [Mac] 语音输入、和 AI 语音对话时，背景音乐自动变小：Auto Ducking 2.0",
+     "url": "https://www.v2ex.com/t/1257574#reply0",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "我做的一个 Mac 菜单栏小工具，2.0 刚更新，发上来请大家试试、提提意见。 解决什么： 边放音乐边用 Mac，一要说话（系统听写、ChatGPT 语音模式、录语音备忘）就得先按音量键把音乐调小，说完再调回来。 Auto Ducking 做的事： 麦克风一开，系统音量自动降到你设的水平；麦克风关了，恢复原来的音量。降和升都有渐变。 2.0 主要改了这些： 「立即恢复」：点一下，这次麦克风关掉之前",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[macOS] 把几十块钱的蓝牙遥控器变成 Mac 语音输入神器 & 桌面效率控制器",
-     "url": "https://www.v2ex.com/t/1257546#reply1",
-     "meta": "V2EX · 2026-11-16",
-     "summary": "把几十块钱的蓝牙遥控器变成 Mac 语音输入神器 & 桌面效率控制器（开源 · 纯本地） 平时在 Mac 上用微信输入法、豆包、Voice Buddy、Typeless 或系统听写进行语音输入时，每次都要凑近电脑麦克风，或者手一直按着键盘上的快捷键——坐远了、靠在椅背上、或者双手离开键盘看长文档的时候非常别扭。 于是我写了一个开源的 macOS 小工具 Remote Buddy（遥控搭子） ，把几",
+     "title": "[推广] 熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的。",
+     "url": "https://www.v2ex.com/t/1257573#reply22",
+     "meta": "V2EX · 2026-11-17",
+     "summary": "熊市中少买股票，就开个银河免 5 的买买纳指或者红利低波 ETF 就行，胆子大的可以抄底! 这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+ ⚠️回帖即可参与抽奖！ ⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！ ⚠️大笑脸开户推荐： YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，逆回购 ",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -264,7 +295,7 @@
     {
      "title": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "meta": "⭐ 3989 · TypeScript",
+     "meta": "⭐ 4091 · TypeScript",
      "summary": "Chat Demo",
      "reason": null,
      "origin_source": "github_search"
@@ -272,8 +303,16 @@
     {
      "title": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "meta": "⭐ 2423 · C++",
+     "meta": "⭐ 2472 · C++",
      "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "hitkeeen/blender-ai-mcp-addon",
+     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+     "meta": "⭐ 2210",
+     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -286,18 +325,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "hitkeeen/blender-ai-mcp-addon",
-     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "meta": "⭐ 2115",
-     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
      "meta": "⭐ 1814 · TypeScript",
      "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "meta": "⭐ 1721 · JavaScript",
+     "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -310,17 +349,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "Noniv/abyssal-garden",
-     "url": "https://github.com/Noniv/abyssal-garden",
-     "meta": "⭐ 1573 · JavaScript",
-     "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "meta": "⭐ 1408 · Python",
+     "meta": "⭐ 1450 · Python",
      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +359,7 @@
     {
      "title": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "meta": "⭐ 1286 · Kotlin",
+     "meta": "⭐ 1319 · Kotlin",
      "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +367,7 @@
     {
      "title": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "meta": "⭐ 1100 · TypeScript",
+     "meta": "⭐ 1166 · TypeScript",
      "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +383,7 @@
     {
      "title": "opencoredev/islandcn",
      "url": "https://github.com/opencoredev/islandcn",
-     "meta": "⭐ 771 · TypeScript",
+     "meta": "⭐ 778 · TypeScript",
      "summary": "The open-source Dynamic Island for React, installed with shadcn.",
      "reason": null,
      "origin_source": "github_search"
@@ -368,7 +399,7 @@
     {
      "title": "AIRzZ90/study-materials-fork",
      "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "meta": "⭐ 735 · TypeScript",
+     "meta": "⭐ 738 · TypeScript",
      "summary": "A cross-platform Tauri 2 interface and interaction practice project",
      "reason": null,
      "origin_source": "github_search"
@@ -376,7 +407,7 @@
     {
      "title": "linknimiball1974/ai-texture-forge",
      "url": "https://github.com/linknimiball1974/ai-texture-forge",
-     "meta": "⭐ 682",
+     "meta": "⭐ 685",
      "summary": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on",
      "reason": null,
      "origin_source": "github_search"
@@ -392,6 +423,22 @@
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
      "meta": "⭐ 796 · 💬 421",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "url": "https://www.cs.cmu.edu/learn/",
+     "meta": "⭐ 679 · 💬 115",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "meta": "⭐ 710 · 💬 588",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,6 +484,14 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+     "meta": "⭐ 297 · 💬 115",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Handwriting, as a Font",
      "url": "https://ductus.sorenblank.com",
      "meta": "⭐ 422 · 💬 72",
@@ -453,9 +508,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "meta": "⭐ 228 · 💬 90",
+     "title": "BugMeNot has closed",
+     "url": "https://www.bugmenot.com/",
+     "meta": "⭐ 312 · 💬 157",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "meta": "⭐ 307 · 💬 74",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Frame – 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "meta": "⭐ 291 · 💬 204",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -464,46 +535,6 @@
      "title": "Nvidia was in trouble before the Jensen Huang mess",
      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
      "meta": "⭐ 133 · 💬 107",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What is w2rt6byl5nf1opmc-a.com?",
-     "url": "https://jack.cab/blog/siterate",
-     "meta": "⭐ 279 · 💬 123",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-     "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "meta": "⭐ 226 · 💬 61",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-     "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-     "meta": "⭐ 221 · 💬 90",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Researchers track whole body movement with just a smartwatch",
-     "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "meta": "⭐ 164 · 💬 58",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Coffeehouses and the Rise of Science [pdf]",
-     "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-     "meta": "⭐ 150 · 💬 87",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"

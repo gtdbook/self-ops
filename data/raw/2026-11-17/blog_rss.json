@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-11-17T01:55:32.492728+08:00",
- "count": 2463,
+ "updated_at": "2026-11-17T09:36:19.996770+08:00",
+ "count": 2465,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -2569,6 +2569,15 @@
    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
   },
   {
+   "id": "rss-1c1e55eaa4750a6f",
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "feed_name": "Ars Technica",
+   "published": "Mon, 16 Nov 2026 19:10:09 +0000",
+   "published_iso": "2026-11-16T19:10:09+00:00",
+   "summary": "Trump bets China won’t mind US blocking remote access to AI chips."
+  },
+  {
    "id": "rss-1c1fde8ad384f57b",
    "title": "Gemma 3n fully available in the open-source ecosystem!",
    "url": "https://huggingface.co/blog/gemma3n",
@@ -2693,15 +2702,6 @@
    "published": "Tue, 10 Mar 2026 00:00:00 GMT",
    "published_iso": "2026-03-10T00:00:00+00:00",
    "summary": ""
-  },
-  {
-   "id": "rss-1dc472c1198db6b9",
-   "title": "Our commitment to community safety",
-   "url": "https://openai.com/index/our-commitment-to-community-safety",
-   "feed_name": "OpenAI",
-   "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-   "published_iso": "2026-04-28T00:00:00+00:00",
-   "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
   }
  ]
 }

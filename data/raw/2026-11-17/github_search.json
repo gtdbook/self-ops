@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-17T01:55:31.088118+08:00",
- "count": 20,
+ "updated_at": "2026-11-17T09:36:18.802877+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1452123445",
@@ -82,7 +82,7 @@
    "id": "gh-1453517867",
    "title": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
-   "stars": 2423,
+   "stars": 2472,
    "language": "C++",
    "description": "Apex Neural Rendering (ANR) by Apex Compute",
    "created_at": "2026-11-11T04:27:17Z",
@@ -90,6 +90,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 2423
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 2472
     }
    ]
   },
@@ -97,7 +101,7 @@
    "id": "gh-1453604719",
    "title": "Eynnzerr/TelemetryCleaner",
    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-   "stars": 1286,
+   "stars": 1319,
    "language": "Kotlin",
    "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
    "created_at": "2026-11-11T06:25:10Z",
@@ -105,6 +109,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 1286
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 1319
     }
    ]
   },
@@ -112,7 +120,7 @@
    "id": "gh-1454389076",
    "title": "linknimiball1974/ai-texture-forge",
    "url": "https://github.com/linknimiball1974/ai-texture-forge",
-   "stars": 682,
+   "stars": 685,
    "language": "",
    "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textu",
    "created_at": "2026-11-11T19:09:18Z",
@@ -120,6 +128,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 682
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 685
     }
    ]
   },
@@ -127,7 +139,7 @@
    "id": "gh-1454392563",
    "title": "makepad/relax",
    "url": "https://github.com/makepad/relax",
-   "stars": 576,
+   "stars": 579,
    "language": "Rust",
    "description": "Relax Rust JIT",
    "created_at": "2026-11-11T19:12:58Z",
@@ -135,6 +147,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 576
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 579
     }
    ]
   },
@@ -142,7 +158,7 @@
    "id": "gh-1454661440",
    "title": "rivet-dev/open-orange",
    "url": "https://github.com/rivet-dev/open-orange",
-   "stars": 618,
+   "stars": 630,
    "language": "TypeScript",
    "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
    "created_at": "2026-11-12T00:44:12Z",
@@ -150,6 +166,25 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 618
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 630
+    }
+   ]
+  },
+  {
+   "id": "gh-1454950288",
+   "title": "BigPizzaV3/ClaudeMom",
+   "url": "https://github.com/BigPizzaV3/ClaudeMom",
+   "stars": 546,
+   "language": "Rust",
+   "description": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+   "created_at": "2026-11-12T07:06:59Z",
+   "history": [
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 546
     }
    ]
   },
@@ -157,7 +192,7 @@
    "id": "gh-1455006582",
    "title": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
-   "stars": 3989,
+   "stars": 4091,
    "language": "TypeScript",
    "description": "Chat Demo",
    "created_at": "2026-11-12T08:08:19Z",
@@ -165,6 +200,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 3989
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 4091
     }
    ]
   },
@@ -172,7 +211,7 @@
    "id": "gh-1455066549",
    "title": "ZiChuanLan/freebie-radar",
    "url": "https://github.com/ZiChuanLan/freebie-radar",
-   "stars": 1100,
+   "stars": 1166,
    "language": "TypeScript",
    "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
    "created_at": "2026-11-12T09:08:11Z",
@@ -180,6 +219,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 1100
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 1166
     }
    ]
   },
@@ -187,7 +230,7 @@
    "id": "gh-1455173808",
    "title": "AIRzZ90/study-materials-fork",
    "url": "https://github.com/AIRzZ90/study-materials-fork",
-   "stars": 735,
+   "stars": 738,
    "language": "TypeScript",
    "description": "A cross-platform Tauri 2 interface and interaction practice project",
    "created_at": "2026-11-12T10:52:32Z",
@@ -195,6 +238,25 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 735
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 738
+    }
+   ]
+  },
+  {
+   "id": "gh-1455196450",
+   "title": "higurashi-ai/Haru",
+   "url": "https://github.com/higurashi-ai/Haru",
+   "stars": 525,
+   "language": "Python",
+   "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+   "created_at": "2026-11-12T11:15:42Z",
+   "history": [
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 525
     }
    ]
   },
@@ -202,7 +264,7 @@
    "id": "gh-1455374283",
    "title": "Noniv/abyssal-garden",
    "url": "https://github.com/Noniv/abyssal-garden",
-   "stars": 1573,
+   "stars": 1721,
    "language": "JavaScript",
    "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
    "created_at": "2026-11-12T13:57:34Z",
@@ -210,6 +272,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 1573
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 1721
     }
    ]
   },
@@ -217,7 +283,7 @@
    "id": "gh-1455416555",
    "title": "hitkeeen/blender-ai-mcp-addon",
    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-   "stars": 2115,
+   "stars": 2210,
    "language": "",
    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
    "created_at": "2026-11-12T14:32:15Z",
@@ -225,6 +291,55 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 2115
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 2210
+    }
+   ]
+  },
+  {
+   "id": "gh-1455740160",
+   "title": "racdeufindurch198812/Blender-AI-MCP-Studio",
+   "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+   "stars": 514,
+   "language": "",
+   "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent tea",
+   "created_at": "2026-11-12T19:28:20Z",
+   "history": [
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 514
+    }
+   ]
+  },
+  {
+   "id": "gh-1455742253",
+   "title": "credoksopho1984/blender-ai-copilot-studio",
+   "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+   "stars": 516,
+   "language": "",
+   "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender",
+   "created_at": "2026-11-12T19:30:32Z",
+   "history": [
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 516
+    }
+   ]
+  },
+  {
+   "id": "gh-1456134750",
+   "title": "faizfahmi77/ScanDot",
+   "url": "https://github.com/faizfahmi77/ScanDot",
+   "stars": 542,
+   "language": "Kotlin",
+   "description": "Experimental Android 3D scanning and point-cloud viewer",
+   "created_at": "2026-11-13T04:07:57Z",
+   "history": [
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 542
     }
    ]
   },
@@ -232,7 +347,7 @@
    "id": "gh-1456537250",
    "title": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
-   "stars": 771,
+   "stars": 778,
    "language": "TypeScript",
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "created_at": "2026-11-13T11:50:50Z",
@@ -240,6 +355,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 771
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 778
     }
    ]
   },
@@ -247,7 +366,7 @@
    "id": "gh-1457270665",
    "title": "duwqijlk/muse-protocol",
    "url": "https://github.com/duwqijlk/muse-protocol",
-   "stars": 1408,
+   "stars": 1450,
    "language": "Python",
    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
    "created_at": "2026-11-14T01:24:58Z",
@@ -255,6 +374,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 1408
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 1450
     }
    ]
   },
@@ -262,7 +385,7 @@
    "id": "gh-1457509118",
    "title": "haziqahmedqasmi/PeakCut",
    "url": "https://github.com/haziqahmedqasmi/PeakCut",
-   "stars": 574,
+   "stars": 668,
    "language": "Python",
    "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
    "created_at": "2026-11-14T07:38:20Z",
@@ -270,6 +393,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 574
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 668
     }
    ]
   },
@@ -277,7 +404,7 @@
    "id": "gh-1457919852",
    "title": "n4ze3m/tiny-voca",
    "url": "https://github.com/n4ze3m/tiny-voca",
-   "stars": 561,
+   "stars": 615,
    "language": "Python",
    "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
    "created_at": "2026-11-14T16:02:56Z",
@@ -285,6 +412,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 561
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 615
     }
    ]
   },
@@ -292,7 +423,7 @@
    "id": "gh-1458292408",
    "title": "yetanotherbrowser/yab",
    "url": "https://github.com/yetanotherbrowser/yab",
-   "stars": 569,
+   "stars": 593,
    "language": "Swift",
    "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
    "created_at": "2026-11-14T23:56:32Z",
@@ -300,6 +431,10 @@
     {
      "t": "2026-11-17T01:55:31.088118+08:00",
      "score": 569
+    },
+    {
+     "t": "2026-11-17T09:36:18.802877+08:00",
+     "score": 593
     }
    ]
   }
