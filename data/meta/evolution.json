@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T11:06:38.407658+08:00",
+ "updated_at": "2026-11-17T13:03:54.839303+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -336,6 +336,12 @@
    "kind": "sediment_update",
    "target": "openai、code、claude、model、gemini、google、open、gpt",
    "detail": "追加 2026-W47 周观察记录"
+  },
+  {
+   "ts": "2026-11-17T13:03:54.839303+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "nvidia(10次→+1.85)、gemini(10次→+2.26)、decisions(7次→+0.97)、code(6次→+3.53)、video(6次→+0.97)、old(6次→+0.50)、grok(6次→+1.85)、bot(6次→+1.85)"
   }
  ]
 }
