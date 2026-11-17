@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-17T09:36:18.087031+08:00",
- "count": 47,
+ "updated_at": "2026-11-17T18:10:44.455448+08:00",
+ "count": 58,
  "items": [
   {
    "id": "hn-50452230",
@@ -84,18 +84,38 @@
    ]
   },
   {
+   "id": "hn-50496787",
+   "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+   "url": "https://github.com/ZigaoWang/zigzag",
+   "hn_url": "https://news.ycombinator.com/item?id=50496787",
+   "score": 60,
+   "comments": 35,
+   "author": "ZigaoWang",
+   "time_iso": "2026-11-14T13:17:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
    "id": "hn-50497621",
    "title": "Formal Verification Is Not Verifiable",
    "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
    "hn_url": "https://news.ycombinator.com/item?id=50497621",
-   "score": 53,
-   "comments": 7,
+   "score": 120,
+   "comments": 41,
    "author": "zdw",
    "time_iso": "2026-11-14T15:07:48+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 120
     }
    ]
   },
@@ -132,6 +152,22 @@
    ]
   },
   {
+   "id": "hn-50508845",
+   "title": "Japan's Hometown Tax (2018)",
+   "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+   "hn_url": "https://news.ycombinator.com/item?id=50508845",
+   "score": 23,
+   "comments": 5,
+   "author": "waximabbax",
+   "time_iso": "2026-11-15T17:34:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
    "id": "hn-50509837",
    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
    "url": "https://bruceroettgers.eu/blog/protomaps/",
@@ -160,6 +196,22 @@
     {
      "t": "2026-11-17T01:55:30.223893+08:00",
      "score": 422
+    }
+   ]
+  },
+  {
+   "id": "hn-50510969",
+   "title": "Why did modems have speakers? (2019)",
+   "url": "https://retrocomputing.stackexchange.com/questions/11765",
+   "hn_url": "https://news.ycombinator.com/item?id=50510969",
+   "score": 61,
+   "comments": 33,
+   "author": "Skyfall106",
+   "time_iso": "2026-11-15T21:27:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 61
     }
    ]
   },
@@ -212,6 +264,38 @@
    ]
   },
   {
+   "id": "hn-50512576",
+   "title": "The Fossils That Haunted Lovecraft",
+   "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+   "hn_url": "https://news.ycombinator.com/item?id=50512576",
+   "score": 32,
+   "comments": 5,
+   "author": "BigTTYGothGF",
+   "time_iso": "2026-11-16T00:38:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 32
+    }
+   ]
+  },
+  {
+   "id": "hn-50512779",
+   "title": "Nimony: A New Compiler for Nim",
+   "url": "https://nimony.org/",
+   "hn_url": "https://news.ycombinator.com/item?id=50512779",
+   "score": 55,
+   "comments": 21,
+   "author": "Fervicus",
+   "time_iso": "2026-11-16T01:05:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
    "id": "hn-50513160",
    "title": "Universal XSS in uBlock Origin from website-driven element picker",
    "url": "https://iter.ca/post/ubo-uxss/",
@@ -244,6 +328,22 @@
    ]
   },
   {
+   "id": "hn-50514093",
+   "title": "Stop Filming in Log?",
+   "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+   "hn_url": "https://news.ycombinator.com/item?id=50514093",
+   "score": 76,
+   "comments": 77,
+   "author": "dabinat",
+   "time_iso": "2026-11-16T04:37:03+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 76
+    }
+   ]
+  },
+  {
    "id": "hn-50514470",
    "title": "How to make almost anything",
    "url": "https://pub.cba.mit.edu/863.26/site/",
@@ -256,6 +356,22 @@
     {
      "t": "2026-11-17T01:55:30.223893+08:00",
      "score": 702
+    }
+   ]
+  },
+  {
+   "id": "hn-50515035",
+   "title": "Test/verification technique effectiveness with Astra",
+   "url": "https://danluu.com/astra-testing/",
+   "hn_url": "https://news.ycombinator.com/item?id=50515035",
+   "score": 46,
+   "comments": 6,
+   "author": "luu",
+   "time_iso": "2026-11-16T07:33:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 46
     }
    ]
   },
@@ -348,14 +464,18 @@
    "title": "Do Repeat Yourself",
    "url": "https://arcentry.com/blog/do-repeat-yourself/",
    "hn_url": "https://news.ycombinator.com/item?id=50516689",
-   "score": 21,
-   "comments": 6,
+   "score": 91,
+   "comments": 32,
    "author": "max_sendfeld",
    "time_iso": "2026-11-16T12:06:46+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 91
     }
    ]
   },
@@ -364,14 +484,18 @@
    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
    "hn_url": "https://news.ycombinator.com/item?id=50517321",
-   "score": 215,
-   "comments": 159,
+   "score": 325,
+   "comments": 237,
    "author": "Bender",
    "time_iso": "2026-11-16T13:18:22+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 215
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 325
     }
    ]
   },
@@ -396,14 +520,18 @@
    "title": "What is w2rt6byl5nf1opmc-a.com?",
    "url": "https://jack.cab/blog/siterate",
    "hn_url": "https://news.ycombinator.com/item?id=50517602",
-   "score": 279,
-   "comments": 123,
+   "score": 347,
+   "comments": 151,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-16T13:51:38+00:00",
    "history": [
     {
      "t": "2026-11-17T01:55:30.223893+08:00",
      "score": 279
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 347
     }
    ]
   },
@@ -460,14 +588,18 @@
    "title": "Frame – 31.5\" color ePaper display",
    "url": "https://trmnl.com/blog/introducing-frame",
    "hn_url": "https://news.ycombinator.com/item?id=50519354",
-   "score": 291,
-   "comments": 204,
+   "score": 418,
+   "comments": 290,
    "author": "geerlingguy",
    "time_iso": "2026-11-16T16:23:22+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 291
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 418
     }
    ]
   },
@@ -476,8 +608,8 @@
    "title": "Jiff 1.0: A datetime library for Rust",
    "url": "https://burntsushi.net/jiff/",
    "hn_url": "https://news.ycombinator.com/item?id=50519744",
-   "score": 307,
-   "comments": 74,
+   "score": 382,
+   "comments": 87,
    "author": "burntsushi",
    "time_iso": "2026-11-16T16:53:39+00:00",
    "history": [
@@ -488,6 +620,10 @@
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 307
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 382
     }
    ]
   },
@@ -496,8 +632,8 @@
    "title": "Grazing sheep in fields with solar arrays",
    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
    "hn_url": "https://news.ycombinator.com/item?id=50520182",
-   "score": 213,
-   "comments": 219,
+   "score": 272,
+   "comments": 264,
    "author": "PaulHoule",
    "time_iso": "2026-11-16T17:27:46+00:00",
    "history": [
@@ -508,6 +644,10 @@
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 213
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 272
     }
    ]
   },
@@ -596,14 +736,18 @@
    "title": "Chemistry is Actually Geometry",
    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
    "hn_url": "https://news.ycombinator.com/item?id=50522643",
-   "score": 102,
-   "comments": 32,
+   "score": 229,
+   "comments": 111,
    "author": "sebg",
    "time_iso": "2026-11-16T20:22:18+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 229
     }
    ]
   },
@@ -612,14 +756,18 @@
    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
    "url": "https://news.ycombinator.com/item?id=50522776",
    "hn_url": "https://news.ycombinator.com/item?id=50522776",
-   "score": 25,
-   "comments": 10,
+   "score": 45,
+   "comments": 21,
    "author": "arshpatankar",
    "time_iso": "2026-11-16T20:29:48+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 25
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 45
     }
    ]
   },
@@ -628,14 +776,34 @@
    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
    "url": "https://www.cs.cmu.edu/learn/",
    "hn_url": "https://news.ycombinator.com/item?id=50522980",
-   "score": 679,
-   "comments": 115,
+   "score": 1522,
+   "comments": 208,
    "author": "pcompeau",
    "time_iso": "2026-11-16T20:43:36+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 679
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 1522
+    }
+   ]
+  },
+  {
+   "id": "hn-50523025",
+   "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+   "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+   "hn_url": "https://news.ycombinator.com/item?id=50523025",
+   "score": 147,
+   "comments": 117,
+   "author": "jaredwiener",
+   "time_iso": "2026-11-16T20:48:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 147
     }
    ]
   },
@@ -660,14 +828,18 @@
    "title": "OpenCode Browse",
    "url": "https://opencode.ai/product/browse",
    "hn_url": "https://news.ycombinator.com/item?id=50523459",
-   "score": 109,
-   "comments": 52,
+   "score": 254,
+   "comments": 141,
    "author": "mfiguiere",
    "time_iso": "2026-11-16T21:20:37+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 109
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 254
     }
    ]
   },
@@ -676,14 +848,18 @@
    "title": "BugMeNot has closed",
    "url": "https://www.bugmenot.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50523601",
-   "score": 312,
-   "comments": 157,
+   "score": 546,
+   "comments": 241,
    "author": "lode",
    "time_iso": "2026-11-16T21:32:17+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 312
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 546
     }
    ]
   },
@@ -721,33 +897,41 @@
   },
   {
    "id": "hn-50524736",
-   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
    "hn_url": "https://news.ycombinator.com/item?id=50524736",
-   "score": 206,
-   "comments": 98,
+   "score": 605,
+   "comments": 451,
    "author": "cwaffles",
    "time_iso": "2026-11-16T22:58:20+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 206
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 605
     }
    ]
   },
   {
    "id": "hn-50524767",
-   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "title": "Optimizely compromised, served malware on Zoom, GitLab",
    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
    "hn_url": "https://news.ycombinator.com/item?id=50524767",
-   "score": 96,
-   "comments": 62,
+   "score": 347,
+   "comments": 150,
    "author": "kristjansson",
    "time_iso": "2026-11-16T23:00:34+00:00",
    "history": [
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 347
     }
    ]
   },
@@ -764,6 +948,54 @@
     {
      "t": "2026-11-17T09:36:18.087031+08:00",
      "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50525575",
+   "title": "Why 3dfx 1 cards had such a washed out color output?",
+   "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+   "hn_url": "https://news.ycombinator.com/item?id=50525575",
+   "score": 136,
+   "comments": 38,
+   "author": "mfiguiere",
+   "time_iso": "2026-11-17T00:16:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 136
+    }
+   ]
+  },
+  {
+   "id": "hn-50526537",
+   "title": "Mem Is Shutting Down",
+   "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+   "hn_url": "https://news.ycombinator.com/item?id=50526537",
+   "score": 59,
+   "comments": 86,
+   "author": "qainsights",
+   "time_iso": "2026-11-17T02:13:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50526560",
+   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+   "url": "https://support.apple.com/en-us/149699",
+   "hn_url": "https://news.ycombinator.com/item?id=50526560",
+   "score": 126,
+   "comments": 66,
+   "author": "jshier",
+   "time_iso": "2026-11-17T02:17:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-17T18:10:44.455448+08:00",
+     "score": 126
     }
    ]
   }
