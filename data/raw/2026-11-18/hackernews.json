@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-18T10:06:04.797841+08:00",
- "count": 40,
+ "updated_at": "2026-11-18T19:07:17.307326+08:00",
+ "count": 49,
  "items": [
   {
    "id": "hn-50503492",
@@ -64,6 +64,22 @@
     {
      "t": "2026-11-18T03:36:25.117467+08:00",
      "score": 35
+    }
+   ]
+  },
+  {
+   "id": "hn-50517929",
+   "title": "My Emacs 31 contributions",
+   "url": "https://xenodium.com/my-emacs-31-contributions",
+   "hn_url": "https://news.ycombinator.com/item?id=50517929",
+   "score": 17,
+   "comments": 0,
+   "author": "xenodium",
+   "time_iso": "2026-11-16T14:26:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 17
     }
    ]
   },
@@ -204,14 +220,18 @@
    "title": "Highly classified US national security communications network goes down",
    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
    "hn_url": "https://news.ycombinator.com/item?id=50532849",
-   "score": 476,
-   "comments": 551,
+   "score": 593,
+   "comments": 679,
    "author": "monkeydust",
    "time_iso": "2026-11-17T15:38:28+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 476
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 593
     }
    ]
   },
@@ -256,8 +276,8 @@
    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
    "hn_url": "https://news.ycombinator.com/item?id=50534631",
-   "score": 400,
-   "comments": 194,
+   "score": 558,
+   "comments": 249,
    "author": "louiereederson",
    "time_iso": "2026-11-17T17:12:06+00:00",
    "history": [
@@ -268,6 +288,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 400
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 558
     }
    ]
   },
@@ -292,8 +316,8 @@
    "title": "GPT‑6.2 Astra and Sol",
    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
    "hn_url": "https://news.ycombinator.com/item?id=50535230",
-   "score": 1086,
-   "comments": 699,
+   "score": 1283,
+   "comments": 798,
    "author": "jasondavies",
    "time_iso": "2026-11-17T17:46:43+00:00",
    "history": [
@@ -304,6 +328,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 1086
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 1283
     }
    ]
   },
@@ -348,8 +376,8 @@
    "title": "MAI Code 2 and Code 2 Flash",
    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
    "hn_url": "https://news.ycombinator.com/item?id=50535885",
-   "score": 289,
-   "comments": 135,
+   "score": 367,
+   "comments": 155,
    "author": "lemonish97",
    "time_iso": "2026-11-17T18:25:13+00:00",
    "history": [
@@ -360,6 +388,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 289
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 367
     }
    ]
   },
@@ -381,11 +413,11 @@
   },
   {
    "id": "hn-50535992",
-   "title": "Phrack 73 Released",
+   "title": "Phrack 73",
    "url": "https://phrack.org/issues/73/introduction_md",
    "hn_url": "https://news.ycombinator.com/item?id=50535992",
-   "score": 282,
-   "comments": 43,
+   "score": 390,
+   "comments": 53,
    "author": "notmine1337",
    "time_iso": "2026-11-17T18:31:25+00:00",
    "history": [
@@ -396,6 +428,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 282
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 390
     }
    ]
   },
@@ -420,8 +456,8 @@
    "title": "Solid 2.0",
    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
    "hn_url": "https://news.ycombinator.com/item?id=50536387",
-   "score": 230,
-   "comments": 59,
+   "score": 319,
+   "comments": 98,
    "author": "pier25",
    "time_iso": "2026-11-17T18:56:17+00:00",
    "history": [
@@ -432,16 +468,20 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 230
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 319
     }
    ]
   },
   {
    "id": "hn-50536468",
    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-   "url": "https://starsling.dev",
+   "url": "https://news.ycombinator.com/item?id=50536468",
    "hn_url": "https://news.ycombinator.com/item?id=50536468",
-   "score": 56,
-   "comments": 32,
+   "score": 81,
+   "comments": 39,
    "author": "yonasb",
    "time_iso": "2026-11-17T19:01:43+00:00",
    "history": [
@@ -452,6 +492,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 56
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 81
     }
    ]
   },
@@ -460,8 +504,8 @@
    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
    "hn_url": "https://news.ycombinator.com/item?id=50536813",
-   "score": 250,
-   "comments": 77,
+   "score": 339,
+   "comments": 108,
    "author": "dxs",
    "time_iso": "2026-11-17T19:25:27+00:00",
    "history": [
@@ -472,6 +516,10 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 250
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 339
     }
    ]
   },
@@ -496,14 +544,18 @@
    "title": "jQuery 4.1.0",
    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
    "hn_url": "https://news.ycombinator.com/item?id=50537156",
-   "score": 253,
-   "comments": 140,
+   "score": 329,
+   "comments": 167,
    "author": "petecooper",
    "time_iso": "2026-11-17T19:50:40+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 253
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 329
     }
    ]
   },
@@ -544,14 +596,18 @@
    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
    "url": "https://calif.io/java4shell/",
    "hn_url": "https://news.ycombinator.com/item?id=50538240",
-   "score": 537,
-   "comments": 146,
+   "score": 964,
+   "comments": 246,
    "author": "werrett",
    "time_iso": "2026-11-17T21:11:28+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 537
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 964
     }
    ]
   },
@@ -560,14 +616,18 @@
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
    "hn_url": "https://news.ycombinator.com/item?id=50538303",
-   "score": 52,
-   "comments": 80,
+   "score": 193,
+   "comments": 270,
    "author": "judahmeek",
    "time_iso": "2026-11-17T21:16:12+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 52
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 193
     }
    ]
   },
@@ -576,14 +636,18 @@
    "title": "Quad9's withdrawal from France: A canary in the coal mine",
    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
    "hn_url": "https://news.ycombinator.com/item?id=50538994",
-   "score": 301,
-   "comments": 90,
+   "score": 634,
+   "comments": 221,
    "author": "subset",
    "time_iso": "2026-11-17T22:13:34+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 301
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 634
     }
    ]
   },
@@ -608,30 +672,38 @@
    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
    "url": "https://github.com/microsoft/onnxruntime",
    "hn_url": "https://news.ycombinator.com/item?id=50539610",
-   "score": 129,
-   "comments": 32,
+   "score": 340,
+   "comments": 73,
    "author": "nvader",
    "time_iso": "2026-11-17T23:18:49+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 129
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 340
     }
    ]
   },
   {
    "id": "hn-50539747",
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+   "title": "Archive Team is archiving the Apple Support Community",
    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
    "hn_url": "https://news.ycombinator.com/item?id=50539747",
-   "score": 79,
-   "comments": 27,
+   "score": 201,
+   "comments": 72,
    "author": "digitaldragon",
    "time_iso": "2026-11-17T23:32:58+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 79
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 201
     }
    ]
   },
@@ -640,14 +712,18 @@
    "title": "Google's AI answers reducing search traffic by 40%",
    "url": "https://revscope.co/blog/search-seo-geo-2026/",
    "hn_url": "https://news.ycombinator.com/item?id=50540178",
-   "score": 71,
-   "comments": 43,
+   "score": 425,
+   "comments": 311,
    "author": "slashdev",
    "time_iso": "2026-11-18T00:17:58+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 425
     }
    ]
   },
@@ -656,14 +732,18 @@
    "title": "ID.me terms required for IRS sign-in",
    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
    "hn_url": "https://news.ycombinator.com/item?id=50540437",
-   "score": 80,
-   "comments": 8,
+   "score": 371,
+   "comments": 166,
    "author": "DeepLogin",
    "time_iso": "2026-11-18T00:51:45+00:00",
    "history": [
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 80
+    },
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 371
     }
    ]
   },
@@ -680,6 +760,134 @@
     {
      "t": "2026-11-18T10:06:04.797841+08:00",
      "score": 16
+    }
+   ]
+  },
+  {
+   "id": "hn-50541619",
+   "title": "Claude was trained on protein sequences at scale",
+   "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+   "hn_url": "https://news.ycombinator.com/item?id=50541619",
+   "score": 66,
+   "comments": 26,
+   "author": "gmays",
+   "time_iso": "2026-11-18T03:47:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 66
+    }
+   ]
+  },
+  {
+   "id": "hn-50541790",
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "hn_url": "https://news.ycombinator.com/item?id=50541790",
+   "score": 110,
+   "comments": 54,
+   "author": "deenadz",
+   "time_iso": "2026-11-18T04:14:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 110
+    }
+   ]
+  },
+  {
+   "id": "hn-50542264",
+   "title": "Why Fibonacci?",
+   "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+   "hn_url": "https://news.ycombinator.com/item?id=50542264",
+   "score": 39,
+   "comments": 5,
+   "author": "_Microft",
+   "time_iso": "2026-11-18T05:35:02+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50542705",
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "hn_url": "https://news.ycombinator.com/item?id=50542705",
+   "score": 375,
+   "comments": 346,
+   "author": "grey-area",
+   "time_iso": "2026-11-18T06:47:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 375
+    }
+   ]
+  },
+  {
+   "id": "hn-50542863",
+   "title": "Australia's full national topographic library at your fingertips",
+   "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+   "hn_url": "https://news.ycombinator.com/item?id=50542863",
+   "score": 23,
+   "comments": 11,
+   "author": "bryanrasmussen",
+   "time_iso": "2026-11-18T07:10:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 23
+    }
+   ]
+  },
+  {
+   "id": "hn-50543343",
+   "title": "Talos Linux",
+   "url": "https://www.siderolabs.com/talos-linux",
+   "hn_url": "https://news.ycombinator.com/item?id=50543343",
+   "score": 48,
+   "comments": 22,
+   "author": "SweetSoftPillow",
+   "time_iso": "2026-11-18T08:17:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50543989",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "url": "https://energy-based-reasoners.github.io/",
+   "hn_url": "https://news.ycombinator.com/item?id=50543989",
+   "score": 19,
+   "comments": 2,
+   "author": "frenchmajesty",
+   "time_iso": "2026-11-18T09:29:32+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 19
+    }
+   ]
+  },
+  {
+   "id": "hn-50544261",
+   "title": "Codeberg.org Not Reachable",
+   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+   "hn_url": "https://news.ycombinator.com/item?id=50544261",
+   "score": 133,
+   "comments": 68,
+   "author": "hans_castorp",
+   "time_iso": "2026-11-18T10:02:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-18T19:07:17.307326+08:00",
+     "score": 133
     }
    ]
   }
