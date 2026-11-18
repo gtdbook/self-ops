@@ -1,7 +1,7 @@
 {
  "source": "blog_rss",
- "updated_at": "2026-11-18T03:36:26.920954+08:00",
- "count": 2471,
+ "updated_at": "2026-11-18T10:06:06.450380+08:00",
+ "count": 2475,
  "items": [
   {
    "id": "rss-0011e7d2e2f3e9c5",
@@ -830,6 +830,15 @@
    "published": "Wed, 03 Jun 2026 12:00:00 GMT",
    "published_iso": "2026-06-03T12:00:00+00:00",
    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+  },
+  {
+   "id": "rss-0b08a5d2f5b9330b",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "feed_name": "TechCrunch AI",
+   "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+   "published_iso": "2026-11-18T01:44:21+00:00",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
   },
   {
    "id": "rss-0b0ac743b8c9440f",
@@ -1948,6 +1957,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1632816037b3f079",
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "feed_name": "OpenAI",
+   "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "published_iso": "2026-11-17T08:00:00+00:00",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+  },
+  {
    "id": "rss-164784101a7e85b0",
    "title": "Governance of superintelligence",
    "url": "https://openai.com/index/governance-of-superintelligence",
@@ -2479,6 +2497,15 @@
    "summary": ""
   },
   {
+   "id": "rss-1bbe22dae05f83ed",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "feed_name": "TechCrunch AI",
+   "published": "Wed, 18 Nov 2026 00:16:50 +0000",
+   "published_iso": "2026-11-18T00:16:50+00:00",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+  },
+  {
    "id": "rss-1bce4c3eeade6ff3",
    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
@@ -2675,33 +2702,6 @@
    "published": "Tue, 03 Mar 2026 16:50:49 GMT",
    "published_iso": "2026-03-03T16:50:49+00:00",
    "summary": ""
-  },
-  {
-   "id": "rss-1d66f35fb06cceea",
-   "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-   "url": "https://huggingface.co/blog/async-rl-training-landscape",
-   "feed_name": "Hugging Face",
-   "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-   "published_iso": "2026-03-10T00:00:00+00:00",
-   "summary": ""
-  },
-  {
-   "id": "rss-1dc472c1198db6b9",
-   "title": "Our commitment to community safety",
-   "url": "https://openai.com/index/our-commitment-to-community-safety",
-   "feed_name": "OpenAI",
-   "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-   "published_iso": "2026-04-28T00:00:00+00:00",
-   "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
-  },
-  {
-   "id": "rss-1dc90d6c45eeb820",
-   "title": "Argentina’s AI opportunity",
-   "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
-   "feed_name": "OpenAI",
-   "published": "Tue, 14 Oct 2025 06:00:00 GMT",
-   "published_iso": "2025-10-14T06:00:00+00:00",
-   "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and di"
   }
  ]
 }
