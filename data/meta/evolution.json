@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T12:14:28.443114+08:00",
+ "updated_at": "2026-11-19T12:08:47.277437+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -348,6 +348,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "nvidia(12次→+2.26)、gemini(10次→+2.65)、decisions(7次→+1.43)、years(6次→+0.50)、agents(6次→+0.50)、microsoft(6次→+0.50)、video(6次→+1.43)、old(6次→+0.97)"
+  },
+  {
+   "ts": "2026-11-19T12:08:47.277437+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "astra(11次→+0.76)、gpt(11次→+0.50)、nvidia(10次→+2.65)、gemini(8次→+3.02)、sol(8次→+0.50)、microsoft(8次→+0.97)、models(6次→+1.51)、years(6次→+0.97)"
   }
  ]
 }
