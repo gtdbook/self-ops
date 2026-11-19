@@ -1,12 +1,20 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T03:57:55.179055+08:00",
+ "generated_at": "2026-11-19T09:47:26.765351+08:00",
  "sources": {
   "resonance": {
    "title": "多源共振",
    "emoji": "🔗",
    "errors": [],
    "items": [
+    {
+     "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+     "meta": "Hacker News 热榜 · 中文技术圈",
+     "summary": "另见：刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
      "url": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol",
@@ -17,11 +25,106 @@
     }
    ]
   },
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Unauthenticated remote code execution in Nginx",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "meta": "+477 分 / 5.8 小时 · 现 ⭐ 1141",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Inside Deutsche Bank",
+     "url": "https://www.inside-db.com/",
+     "meta": "+211 分 / 5.8 小时 · 现 ⭐ 561",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI agents ask better questions than KPMG accountants in audit trial",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "meta": "+198 分 / 5.8 小时 · 现 ⭐ 355",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "DNS resolvers are the wrong place to fight piracy",
+     "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+     "meta": "+156 分 / 5.8 小时 · 现 ⭐ 600",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Seven new models at scalable price-performance",
+     "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+     "meta": "+155 分 / 5.8 小时 · 现 ⭐ 450",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Genie 4 is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "meta": "+122 分 / 5.8 小时 · 现 ⭐ 188",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Advancing chip design with OpenAI models",
+     "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+     "meta": "+105 分 / 5.8 小时 · 现 ⭐ 161",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+     "url": "https://exitpath-ruddy.vercel.app/",
+     "meta": "+82 分 / 5.8 小时 · 现 ⭐ 166",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+     "url": "https://rshekhar.com/voyager/",
+     "meta": "+68 分 / 5.8 小时 · 现 ⭐ 149",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "meta": "+55 分 / 5.8 小时 · 现 ⭐ 236",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+     "meta": "TechCrunch AI · 2026-11-19",
+     "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
@@ -133,14 +236,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-     "meta": "OpenAI · 2026-11-03",
-     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -150,122 +245,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[分享发现] Clash 的 Spotify 分流组测速地址设置为 open.spotify.com 后会出现歌曲只能播放 8 秒的问题",
-     "url": "https://www.v2ex.com/t/1258141#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "节点是在 CFWorkers 上搭建的 edgeturnnel,播了几首歌曲后发现出问题了,在网页端用相同的节点试了一下,发现也是无法播放,切到反代 CF 节点发现又偶尔能播放,以为是 IP 的问题 用 Agent 查了半天,抓了半天浏览器请求后一无所获,又出现了新的问题,Agent 写代码调出的相同 profile 的浏览器可以正常播放音乐,我自己启动的浏览器反而不能播放,Agent 自己也无法",
+     "title": "[程序员] 你们的 agy 的请求响应慢吗？",
+     "url": "https://www.v2ex.com/t/1258177#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "我的 agy 特别慢，不是推理应该是请求排队了或者被限速了。 有人遇到类似的情况吗？ 是穷鬼订阅的问题吗？还是梯子的问题？还是账号的问题？",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享发现] 最低 9G 显存起步！老 3060 和 16G Mac 都能跑的 9B 前端代码模型（HF 总榜第 7）放出量化版了",
-     "url": "https://www.v2ex.com/t/1258140#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "手头还留着老 3060 12G 的友这回真可以拿出来折腾了 昨天商汤开源的 SenseNova Loop 9B 刚刚补齐了官方量化权重（AWQ 4bit 和 GGUF），直接把本地部署门槛压到了 9~10 GiB 显存起步。 这意味着不仅老 3060 12G 能稳吃 64K 长上下文，连 16G 统一内存的 M 系列 Mac 关掉后台都能塞下跑起来 看了一下 Hugging Face 的 Tren",
+     "title": "[分享发现] giffgaff 被封的可以申请再次退款，即使之前被拒绝了",
+     "url": "https://www.v2ex.com/t/1258175#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "之前 giffgaff 卡被封的可以再次申请退款，即使之前被拒绝过，或者申请过 PAC 码，甚至余额都看不到了，都可以再申请一次退款。10 天前随手申请了一下，今天到账了。有需要的可以试试 2026 年 11 月 9 日 11:35 (10 天前) Hello, I previously applied to transfer my PAC code to another operator, bu",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[OpenAI] 我是这样开通和入金 U 卡，用于订阅 ChatGPT 和 Google AI 的，Claude 我不知道我没开通过",
-     "url": "https://www.v2ex.com/t/1258139#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "昨天看到我的账号可以试用 ChatGPT Plus，但是要绑定支付方式，我试了招商的 VISA 也被拒绝了，刚好看到就开通了这个卡 https://reyvo.com/register?ref=0252E2ED10 不用 KYC，充值 $0.02 让卡里有余额就可以绑定了，支持 USDT 和 USDC 充值，拿来试用最合适了 我的流程是：充值 $0.02 到钱包 -> 开卡填写卡内余额（最低写 $",
+     "title": "[问与答] 怎么买车险最便宜？",
+     "url": "https://www.v2ex.com/t/1258174#reply1",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "我现在是京东比价的",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 我用了同一段提示词，让两个模型拆解火锅和猫咖",
-     "url": "https://www.v2ex.com/t/1258138#reply1",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "最近在挑生图模型，想听听大家实际用下来的感受。 两段提示词，各交给 GPT Image 2.5 和 Nano Banana 2.1 生成一张，没挑图。火锅拆解图上四个中文标签两边都写对了；猫咪咖啡馆差别最大：只有 Nano Banana 画成了等距视角。 火锅拆解图 GPT Image 2.5：四层叠得很紧，标签是加粗红字，铜锅有锤纹。Nano Banana 2.1：每层拆得更散，虾滑画成了丸子和",
+     "title": "[分享发现] 程序员的双重暴击之继就业寒冬后的投资暴雷",
+     "url": "https://www.v2ex.com/t/1258173#reply3",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "买了 12 年的鲸鱼宝暴雷了，一夜回到解放前😭 赚钱不容易，大家理性投资，守住本金",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 做扩展最难的不是写代码，是没人知道——我做了个扩展导航站",
-     "url": "https://www.v2ex.com/t/1258137#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "大家好，我是开发者本人，这两年陆陆续续做了几个 Chrome 扩展。最大的感受是：写代码不是最难的，写完没人知道才是最难的。 商店搜索基本靠命，关键词位置都堆着大厂和老号，新扩展发出去就沉底。想找个地方正经介绍一下自己的作品吧，翻了一圈，国内好像还真没有专门做扩展导航的网站——那就自己做一个吧。 于是有了 CRX8： https://crx8.com 已经收录了 180 多款扩展，按分类和场景整理",
+     "title": "[分享创造] [开源免费] 解决 Mac 未签名应用打开已损坏问题，我用 DBX 作者的 Viva 框架，做了个 Mac 应用打开助手 Peck",
+     "url": "https://www.v2ex.com/t/1258172#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "为什么做它？ 从网上下载 .app ，未签名的应用，使用时会遇到无法验证开发者,应用已损坏等提示。即使确认下载来源可信，仍可能需要翻教程，手动执行 xattr 或 codesign 命令。 对于熟悉编程的技术人员可能不难，但对于不少非技术用户，想要自由使用未签名软件每次执行命令还是有一点点门槛的。 为了解决这个场景的痛点，我把相关的检查和处理流程做进了一个简单的小工具： Peck 一下，轻松打开。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
-     "url": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
-     "meta": "爱范儿 · 2026-11-18",
-     "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "title": "[分享创造] 苦传统远控久矣，做了一款轻量 P2P 远控 RockDesk：自带 CLI 终端与 FUSE 挂载，原生支持 shell / port forward / clipboard / screenshot 等 Agent Skill",
+     "url": "https://www.v2ex.com/t/1258171#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "各位 V 友大家好， 做这个项目的起因和大家平时遇到的痛点差不多： 在日常开发和多设备运维中，我们经常需要在公司工位、家里电脑、远程服务器或边缘设备（Linux 工作站 / NAS / 树莓派 / 工控机）之间切换。以前也尝试过各种方案： 传统商业远控（向日葵 / ToDesk 等） ：主要面向普通桌面投屏，画质和帧率常受限制，动不动弹窗或限速，更重要的是 没有面向开发者的原生终端工具链与自动化能",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] 咨询：你换模型供应商的原因是什么",
-     "url": "https://www.v2ex.com/t/1258136#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "我发现一个现象是：其实我们不会因为价格而更换所用的模型。 我切换供应商，是因为某家服务商在关键时刻返回了 429 限流，这是比较让我恶心的... 所以，你选择从 Claude 切到 Gemini、从 GPT 切到 Claude、甚至某些开源模型，是因为什么？ 另一个更稳定 另一个更便宜 为了尝鲜 另一个更\"聪明\"、效果更好 正在收集上面的建议，以解决问题为实际出发，源码在 https://gith",
+     "title": "[macOS] Alfred 6 发布了",
+     "url": "https://www.v2ex.com/t/1258170#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "https://www.alfredapp.com/whats-new/ 好像升级不太大呢？没看到 AI 部分",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] Nginx http2 漏洞结合内核漏洞可实现 root 远程代码执行",
-     "url": "https://www.v2ex.com/t/1258134#reply2",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "nginx2root 公网可识别 nginx 版本的主机中 98.9%在影响范围内（nginx 版本 1.9.5 – 1.31.8） 将此漏洞与 Linux 内核 SCTP 子系统中的另一个漏洞结合使用，从而获得了主机上的 root 权限。在测试中，该漏洞链还成功绕过了运行 nginx 的 Docker 容器，并获得了底层主机的 root 权限。 由 AI 耗费 90 分钟发现 详细情况和缓解方案",
+     "title": "[分享创造] 折腾了个开源/独立软件聚合小站「AI 小卖部」：2000+ 开源项目汉化 + 闭源作品 0 抽成上架",
+     "url": "https://www.v2ex.com/t/1258169#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "最近业余时间用 GoFrame + Nuxt 4 折腾上线了一个面向开发者的小站： AI 小卖部 （ https://storemini.com/ ），在「分享创造」发出来给 V 友们看看，顺便求点反馈建议。 为什么做这个 平时在 GitHub 上翻好用的开源工具时经常遇到两个麻烦：一是英文 README 懒得逐行啃，二是找 Release 安装包要翻半天。所以干脆自己搭了套同步流水线： 1. 2",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 做了个微信小程序「纸间片语」，可以随手记一句，也能和朋友交换一封信",
-     "url": "https://www.v2ex.com/t/1258133#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "大家好，我们做了一个微信小程序「纸间片语」，可以随手记下日常，也可以和朋友交换一封信。也有一些其他的功能，这里我们以交换一封信为例展示下我们目前的界面。 图里左右两屏是同一条片语：在工位上看到夕阳照在墙上，拍张照片，写下当时的感受。以后翻到这天，照片和文字可以一起看。个人片语默认只有自己可见。 中间是「交换一封」。比如问朋友：“上次见面，你还记得哪个细节？”两个人各写一封，等双方都封好，再各自拆开",
+     "title": "[职场话题] 人为什么会陷入执着",
+     "url": "https://www.v2ex.com/t/1258167#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "我的现状外企 55w 年薪，但没有发展了，如果很努力升职也就涨薪百分之 10，没啥意思，但又特别执着的问老板要升职，要发展机会，其实在外企负责自己的一个小摊子，不要升职和发展机会这样负担更小，而且移动端负责人一个公司就我一个人负责最核心的很重要的 app，又很稳定，我自己还在职级上汲汲于求有啥意思呢，哎，但控制不住的又去想，请问如何解决这个事情",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 请问你 giffgaff 清退中国用户后你们都转到了哪个运营商？",
-     "url": "https://www.v2ex.com/t/1258132#reply3",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "我用 giffgaff 开的 N26 后来 giffgaff 把我的号码封了 我本来考虑换绑 N26 手机号 但是发现 N26 如果需要换绑手机号又要进行一次视频验证，而由于 N26 已经不再支持中国护照 kyc，将会直接关户 所以我想知道现在转去哪里好 我本来上个月尝试转 VOXI，结果一直连不上 wifi-calling 还白白损失 10 英镑 你们现在推荐我转哪个运营商？ 是继续 VOXI，",
+     "title": "[Windows] Windows11 任务栏的托盘其他系统托盘图标无法折叠/隐藏",
+     "url": "https://www.v2ex.com/t/1258166#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "我自己使用的 Windows11 26H2 任务栏，近期出现部分其他系统托盘图标无法隐藏的问题： Windows 在托盘将程序图标拖动至箭头，然后加入隐藏列表之后，会自动恢复到展示状态： https://www.bilibili.com/video/BV1Q5s261Ex5 Windows 在“个性化—任务栏—其他系统托盘图标”功能中手动关闭对应程序图标之后，会自动恢复到开启： https://w",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "剑桥词典的 2026 年度单词是“人”",
-     "url": "https://www.solidot.org/story?sid=85927",
-     "meta": "Solidot · 2026-11-18",
-     "summary": "随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。在剑桥词典中，人被定义为“具有人特有的品质、缺点和情感，区别于神、动物或机器”。剑桥大学 AI 治理与人权专家 Rachel Adams 教授表示，AI 让我们重新面对困扰了人类几千年的问题：我们是谁？身为人类意味着什么？问题的答案从未固定，但提出问题本身正是人类所共有的特",
+     "title": "[问与答] nginx 这次的漏洞利用条件很高吗",
+     "url": "https://www.v2ex.com/t/1258165#reply2",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "不是搞安全的，不太懂，这次 nginx 的漏洞利用条件很高吗？直接升到最新版本 1.31.9 就行了吗？公司应该大多数系统都采用了 nginx ,外面有 waf 和 IPS 等防御措施，还在考虑要不要发通知让供应商抓紧修",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 做了个 Mac 小工具「淡出 DockQuit」：从 Dock 悬停点 × 或中键退出应用",
-     "url": "https://www.v2ex.com/t/1258131#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "大家好，最近做了个 Mac 小工具，叫「淡出」（DockQuit），想来分享一下，也听听大家的意见。 它解决的是一个很小的问题：不用打开 Dock 的右键菜单，就能退出正在运行的应用。不替换原生 Dock，也不是强退或清理内存工具。 两种手动操作，都是免费的 鼠标停在应用图标上，点出现的 ×。 用鼠标中键点击应用图标。 它发出的是正常退出请求，未保存内容仍由应用自己提示，不会替你点「不保存」，也不",
+     "title": "[分享创造] 社交媒体 AI 简报 App BriefFeed 新增标签功能，支持对收藏内容按喜好分类",
+     "url": "https://www.v2ex.com/t/1258164#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "收到用户在 BriefFeed App 里边的反馈后，经过内测使用已经上线了，同时也优化了网络访问的速度： 各个版本地址： Chrome 、 iOS 、iPad 、 Mac 、 Edge 、 Firefox 产品故事可看之前的 内测介绍 ，欢迎使用反馈，感兴趣了可以进产品群：",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[iPhone] 谷歌钱包上 ios 了，这何尝不是一种 ntr",
-     "url": "https://www.v2ex.com/t/1258130#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "如题，十分不理解这样做的意义",
+     "title": "[问与答] 制度随时间推移变得更好的速度远远慢于技术",
+     "url": "https://www.v2ex.com/t/1258163#reply2",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "今天刷 B 乎的时候，发现 2016 年有人提问畅想未来，当时回答的技术性畅想很多都实现了，但是制度性问题几乎都没有实现。看来制度随时间推移变得更好的速度远远慢于技术，可以这么理解吗？",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] 能通过命令行调用 dsh-next ，再由 dsh-next 用它内置的 computer-use 来完成任务，然后返回结果给命令行吗？",
-     "url": "https://www.v2ex.com/t/1258129#reply0",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "",
+     "title": "[游戏] 已有 5070Ti 电脑，现在有点心痒想入主机，选 PS5 还是二手 XSX？",
+     "url": "https://www.v2ex.com/t/1258162#reply15",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "目前主力机是 13600KF + 5070Ti ，配置还算够用。去年看到 PS5 两千多的时候没下手，当时觉得没什么想玩的游戏，但最近实在有点忍不住想入一台了。 不过看了下评测，PS5 在复杂场面和开车时基本会掉到 23 帧左右，感觉会很卡；而 PS5 Pro 也只能勉强稳住 30 帧，为了这几帧的提升花五千多买 Pro 实在不值当。况且 PS5 上我也没啥特别想玩的独占，最多也就再玩个《GT7》",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享发现] antigravity 真的站起来了",
-     "url": "https://www.v2ex.com/t/1258128#reply2",
-     "meta": "V2EX · 2026-11-18",
-     "summary": "最近在做魔兽世界手机版，之前用了 deepseek 官方 API（消费两百多）、opencode go、GLM-5.3-flash，法术特效部分整体还是一坨，经常是改对一个错一片。 下午让 deepseek 改了一个法术，改了三次没改对，就试了试 3.8 flash，一次成功。 晚上开了个学生优惠，冲了个 pro，用 4H 测了个之前有 bug 的法术特效，10 分钟一次成功。 现在国模生成的 m",
+     "title": "[推广] 一个很赞的 pdf 转 word 工具，布局和格式原版转换。可以自动高清和上色文档内图片。自动出文档解析。",
+     "url": "https://www.v2ex.com/t/1258161#reply0",
+     "meta": "V2EX · 2026-11-19",
+     "summary": "一个很赞的 pdf 转 word 工具，布局和格式原版转换。可以自动高清和上色文档内图片。自动出文档解析。 地址： https://pdf.aiask.me/ 使用方法： 先去 aiask.me ，创建一个 api 密钥，分组选择 组合 类型， 默认 分组。然后充点小钱，再把密钥填到 pdf.aiask.me 。就可以用了。",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -287,7 +382,7 @@
     {
      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "meta": "⭐ 3774 · C++",
+     "meta": "⭐ 4000 · C++",
      "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
      "reason": null,
      "origin_source": "github_search"
@@ -295,7 +390,7 @@
     {
      "title": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "meta": "⭐ 3092 · Rust",
+     "meta": "⭐ 3417 · Rust",
      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "reason": null,
      "origin_source": "github_search"
@@ -319,7 +414,7 @@
     {
      "title": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "meta": "⭐ 1626 · Python",
+     "meta": "⭐ 1628 · Python",
      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
      "reason": null,
      "origin_source": "github_search"
@@ -335,7 +430,7 @@
     {
      "title": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "meta": "⭐ 1292 · JavaScript",
+     "meta": "⭐ 1329 · JavaScript",
      "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
      "reason": null,
      "origin_source": "github_search"
@@ -343,7 +438,7 @@
     {
      "title": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "meta": "⭐ 1100 · Python",
+     "meta": "⭐ 1250 · Python",
      "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
      "reason": null,
      "origin_source": "github_search"
@@ -351,7 +446,7 @@
     {
      "title": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "meta": "⭐ 1054 · Python",
+     "meta": "⭐ 1118 · Python",
      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "reason": null,
      "origin_source": "github_search"
@@ -359,7 +454,7 @@
     {
      "title": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "meta": "⭐ 1058 · Python",
+     "meta": "⭐ 1092 · Python",
      "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "reason": null,
      "origin_source": "github_search"
@@ -367,7 +462,7 @@
     {
      "title": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "meta": "⭐ 1023 · Python",
+     "meta": "⭐ 1052 · Python",
      "summary": "Allo is your friendly neighborhood typeface, free and open source",
      "reason": null,
      "origin_source": "github_search"
@@ -375,7 +470,7 @@
     {
      "title": "zephyr4123/snug",
      "url": "https://github.com/zephyr4123/snug",
-     "meta": "⭐ 889 · Swift",
+     "meta": "⭐ 934 · Swift",
      "summary": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
      "reason": null,
      "origin_source": "github_search"
@@ -383,7 +478,7 @@
     {
      "title": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "meta": "⭐ 845 · HTML",
+     "meta": "⭐ 870 · HTML",
      "summary": "Steer your ideas in realtime",
      "reason": null,
      "origin_source": "github_search"
@@ -406,7 +501,7 @@
     {
      "title": "Unauthenticated remote code execution in Nginx",
      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "meta": "⭐ 664 · 💬 261",
+     "meta": "⭐ 1141 · 💬 508",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -414,7 +509,7 @@
     {
      "title": "DNS resolvers are the wrong place to fight piracy",
      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-     "meta": "⭐ 444 · 💬 142",
+     "meta": "⭐ 600 · 💬 223",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -422,7 +517,15 @@
     {
      "title": "Inside Deutsche Bank",
      "url": "https://www.inside-db.com/",
-     "meta": "⭐ 350 · 💬 127",
+     "meta": "⭐ 561 · 💬 190",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "meta": "⭐ 440 · 💬 413",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -430,7 +533,15 @@
     {
      "title": "Seven new models at scalable price-performance",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-     "meta": "⭐ 295 · 💬 187",
+     "meta": "⭐ 450 · 💬 312",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI agents ask better questions than KPMG accountants in audit trial",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "meta": "⭐ 355 · 💬 161",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -444,57 +555,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "meta": "⭐ 157 · 💬 81",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-     "meta": "⭐ 181 · 💬 134",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
      "url": "https://exitpath-ruddy.vercel.app/",
-     "meta": "⭐ 84 · 💬 13",
+     "meta": "⭐ 166 · 💬 48",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-     "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-     "meta": "⭐ 109 · 💬 66",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-     "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-     "meta": "⭐ 141 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Scottish HTTP Codes",
-     "url": "https://underwood.network/http/scots.html",
-     "meta": "⭐ 112 · 💬 14",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The x86 CPU: From 4004 to 486",
-     "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-     "meta": "⭐ 99 · 💬 24",
+     "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "meta": "⭐ 236 · 💬 172",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -502,23 +573,47 @@
     {
      "title": "Advancing chip design with OpenAI models",
      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-     "meta": "⭐ 56 · 💬 16",
+     "meta": "⭐ 161 · 💬 102",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-     "url": "https://news.ycombinator.com/item?id=50548660",
-     "meta": "⭐ 32 · 💬 11",
+     "title": "We need smart people who give a shit",
+     "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+     "meta": "⭐ 202 · 💬 109",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-     "url": "https://nginx2root.com/",
-     "meta": "⭐ 81 · 💬 13",
+     "title": "Genie 4 is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "meta": "⭐ 188 · 💬 143",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+     "meta": "⭐ 59 · 💬 16",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+     "url": "https://github.com/aryamandarda/tamserve",
+     "meta": "⭐ 45 · 💬 2",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+     "url": "https://rshekhar.com/voyager/",
+     "meta": "⭐ 149 · 💬 34",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
