@@ -1,0 +1,641 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T02:17:57.617786+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Science has a home here at Ars—please help keep it that way",
+     "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+     "meta": "Ars Technica · 2026-11-20",
+     "summary": "Your support for Ars matters more now than ever.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Apple may be developing its own AI agent that runs your Mac",
+     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+     "meta": "TechCrunch AI · 2026-11-20",
+     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "The unfolding Jensen Huang scandal: a timeline",
+     "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "meta": "TechCrunch AI · 2026-11-19",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Superhuman pushes its Go assistant everywhere",
+     "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+     "meta": "TechCrunch AI · 2026-11-19",
+     "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+     "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+     "meta": "Ars Technica · 2026-11-19",
+     "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "How to tell a cyberattack from a plain old outage",
+     "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+     "meta": "Ars Technica · 2026-11-19",
+     "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+     "meta": "TechCrunch AI · 2026-11-19",
+     "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Introducing ChatGPT for Sales",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "meta": "OpenAI · 2026-11-17",
+     "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "meta": "OpenAI · 2026-11-12",
+     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "meta": "Google AI Blog · 2026-11-10",
+     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "meta": "OpenAI · 2026-11-09",
+     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[分享创造] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%",
+     "url": "https://www.v2ex.com/t/1258680#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "项目地址： https://github.com/jing-ying-dev/whale-ying-memory 大家好，我今年 21 岁，是一本中医学大三学生，没有计算机或 AI 专业背景。2026 年 10 月 14 日开始研究 API，10 月 22 日转向 Agent 长期记忆，11 月 18–19 日跑出了现在这组结果。 项目叫 WhaleYing Memory，Apache-2.0 开",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 云厂商 DeepSeek 官方资源 3 折官 KEY 资源接口",
+     "url": "https://www.v2ex.com/t/1258678#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "云厂商 DeepSeek 官方资源 3 折官 KEY 资源接口，适用于企业客户、团队客户、中转站，月消耗过万即可 有意向的联系 QQ 1066690060",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] Plus 代充掉了会员怎么办？我把这 15 家的售后规则摆在一起看了下",
+     "url": "https://www.v2ex.com/t/1258677#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "我自己是做代充的，店名瑶瑶 ai 训练师。 经常有人说买完用了半个月会员突然没了商家管不管？ 我把这 15 家同行官网上写的规则都抄了下来，放进一张表里，我自己也在里面 这 15 家是 145 到 189 一个月，我自己是 129 掉会员这块，大多数是按没用完的天数退钱，我们是再补一整个月 客服时间有 8 家写的是早上 8 点半到晚上 12 点，我们是全天都有人。 表在这里，退款补会员，客服时间，",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 记录一次弹门户验证到解除",
+     "url": "https://www.v2ex.com/t/1258675#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "从弹出 portal 验证，到 KYC 验证自动检测到停用账号，恢复，历时 8 天。 账号以及使用情况： 23 年 7 月 14 日通过 gmail 注册的 Claude 账号，早期对话删除了些，最早的对话目前在 2026 年 7 月 10 日。 2026 年 10 月 16 日通过 Google play 美区+国内 visa 卡支付 20 美元 pro 使用。 期间大部分时间使用 Claude",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 复刻了一个三国志英杰传网页版的",
+     "url": "https://www.v2ex.com/t/1258674#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "三国志英杰传 网页版复刻，从序章打到结局 1995 年 DOS 版那个英杰传，256 色、走格子、单挑、一堆策略书。 我用 AI 做了个网页版，浏览器直接开，不用装模拟器。 在线试玩 ： https://yj.vitta.dev.tc/ 源码 ： https://github.com/Attiv/yingjiezhuan-web 做到了什么 全部剧情：从「群雄起兵讨伐董卓」到结局，610 幕 70",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] Beyond Compare 26 年 Coupon 来了",
+     "url": "https://www.v2ex.com/t/1258673#reply3",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "MacOS 上唯一无法通过 AI 自研替代的工具(已经自研实现了 Typora PDF Expert Listary 等)，今年的 75 折来了，不过要等到 30 号 https://forum.scootersoftware.com/forum/from-scooter-software/news-announcements/99281-incoming-cyber-monday-sale 26",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[OpenAI] Dots 下放 Plus 之后，100 刀的 Pro 还香吗？",
+     "url": "https://www.v2ex.com/t/1258672#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "先说结论：我觉得大部分人可以再等等，不用急着上 Pro 今天的消息是 OpenAI 开始给部分 Plus 用户测 Dots 之前想用 Dots，最便宜也得 Pro 100，一个月 100 刀 Plus 是 20 刀，差了 5 倍 如果 Plus 以后都能用上，很多人上 Pro 的理由就少了一大半 但有个坑：Pro 用 Dots 不算普通额度，Plus 会不会算，官方没说 要是算的话，Plus 那点",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 瘫坐眩晕，广义黎曼猜想疑似已被成功证明",
+     "url": "https://www.v2ex.com/t/1258671#reply2",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "今天（11 月 20 日），Anthropic 旗下的数学家兼研究员 Levent Alpöge（他曾在今年 7 月借助 Claude Fable 5 找到了三维雅可比猜想的反例）在个人网站发布声明，称自己与 Claude 合作找到了黎曼猜想（RH）及其推广形式广义黎曼猜想（GRH）的证明。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Apple] 最近 iOS 左右划卡清理相册的 App 爆发了，好多 AI 粗制滥造产物啊",
+     "url": "https://www.v2ex.com/t/1258670#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "最近至少看到了 20 款左右划卡清理相册的 App。有些甚至文案都雷同。装上去甚至都不能正常用。 看来在 AI 时代，设计和审美是稀缺资源。 还有些人拿着 AI 搞什么产品矩阵。一人几十个 App，美其名曰高效，实际就不说了哈哈……",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[生活] 今天是全国心梗救治日，26 号是全国心力衰竭日",
+     "url": "https://www.v2ex.com/t/1258669#reply2",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "程序员群体基本都是高风险人群，随着年龄增加，风险一年比一年高，老登们要对自己好一些。 前面分享过的两篇科普，多多收藏保存，以防万一。 心脏病相关症状的分级应对与辅助工具使用指南 v1.1 版 疑似心梗与心脏骤停：普通人的现场应对操作手册 v1.3",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "Anthropic 的数论学家声称证明黎曼猜想",
+     "url": "https://www.solidot.org/story?sid=85949",
+     "meta": "Solidot · 2026-11-20",
+     "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 求教，如何购买一台二手新能源车。",
+     "url": "https://www.v2ex.com/t/1258667#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "工作使用，市区跑。地点武汉。 请大家教我，谢谢",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 分享自己写的小程序 - 麻将学习助手",
+     "url": "https://www.v2ex.com/t/1258666#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "V 友们，也是用上 Vibe coding 了 -- 微信小程序(搓麻小助手) 逢年过节亲戚老是叫我打麻将，每次都是给别人发红包。痛定思痛，用 Vibe coding 自己写了个微信小程序，提升巨大，已经狠狠赢了亲戚几回了，开心呐！有 V 友(的亲戚朋友)们想提升麻将技巧的吗? 赢钱了再回小程序里给我点个赞就行了。第一次 Vibe coding ，也期待 V 友们的建议",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 黎曼猜想被证明了？",
+     "url": "https://www.v2ex.com/t/1258665#reply21",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "alpo.ge/remark.pdf",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] CVE-2026-128064 这个漏洞我也震惊了，通过判断 http(s) 第 5 五位是否小写 s 来启用 tls，存在 20 年了。",
+     "url": "https://www.v2ex.com/t/1258664#reply4",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "httpS/HTTPS 都哭晕在厕所，「：」成为最大赢家。 这个 bug 充分证明了，世界就是个草台班子。 完全像我以前手下实习生能干出来的事，只要完成功能，就上交，压根不考虑边界情况。一个问题要反复好几轮，说一个改一个，最后还是他劝转行了。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "erkamyaman/rust-anything",
+     "url": "https://github.com/erkamyaman/rust-anything",
+     "meta": "⭐ 6386 · Rust",
+     "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+     "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+     "meta": "⭐ 5157 · C++",
+     "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "gylive/google-ultra",
+     "url": "https://github.com/gylive/google-ultra",
+     "meta": "⭐ 2522 · Python",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Hut-hzf/ung220z-tool",
+     "url": "https://github.com/Hut-hzf/ung220z-tool",
+     "meta": "⭐ 1981 · Python",
+     "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "CzzzzzzJ/mdldm-maitian",
+     "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+     "meta": "⭐ 1707 · JavaScript",
+     "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "duwqijlk/muse-protocol",
+     "url": "https://github.com/duwqijlk/muse-protocol",
+     "meta": "⭐ 1692 · Python",
+     "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "haziqahmedqasmi/PeakCut",
+     "url": "https://github.com/haziqahmedqasmi/PeakCut",
+     "meta": "⭐ 1520 · Python",
+     "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "sybil-solutions/inference-optimisation-skill",
+     "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "meta": "⭐ 1313 · Python",
+     "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+     "meta": "⭐ 1304",
+     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "joshpuckett/allo",
+     "url": "https://github.com/joshpuckett/allo",
+     "meta": "⭐ 1235 · Python",
+     "summary": "Allo is your friendly neighborhood typeface, free and open source",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "iamajmeena/neonclipping",
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "meta": "⭐ 1154 · Python",
+     "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "chuanqisun/spaceship",
+     "url": "https://github.com/chuanqisun/spaceship",
+     "meta": "⭐ 980 · HTML",
+     "summary": "Steer ideas like a space pilot!",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "siliconjungle/shapeshift-labs-ink-studio",
+     "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+     "meta": "⭐ 834 · JavaScript",
+     "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "n4ze3m/tiny-voca",
+     "url": "https://github.com/n4ze3m/tiny-voca",
+     "meta": "⭐ 789 · Python",
+     "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "yetanotherbrowser/yab",
+     "url": "https://github.com/yetanotherbrowser/yab",
+     "meta": "⭐ 756 · Swift",
+     "summary": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+     "url": "https://alpo.ge/remark.pdf",
+     "meta": "⭐ 1586 · 💬 1079",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I'll never buy Framework hardware again",
+     "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+     "meta": "⭐ 522 · 💬 335",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "url": "https://architectlabs.com/blog/frostbite",
+     "meta": "⭐ 490 · 💬 273",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+     "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+     "meta": "⭐ 471 · 💬 244",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+     "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+     "meta": "⭐ 430 · 💬 265",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If you stop writing code, you also get worse at reviewing it",
+     "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+     "meta": "⭐ 220 · 💬 114",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+     "url": "https://github.com/openssl/openssl/pull/33652",
+     "meta": "⭐ 348 · 💬 300",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Signal Is Serious About Protecting Your Privacy",
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "meta": "⭐ 296 · 💬 176",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "url": "https://arxiv.org/abs/2611.21885",
+     "meta": "⭐ 151 · 💬 63",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "FFmpeg 9.1 'Gauss'",
+     "url": "https://ffmpeg.org/download.html#release_9.1",
+     "meta": "⭐ 263 · 💬 35",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Why there are still no non-WebKit browsers on iOS",
+     "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+     "meta": "⭐ 195 · 💬 98",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+     "url": "https://kobi.music/research/dettato",
+     "meta": "⭐ 159 · 💬 28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Making of Oxygene",
+     "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+     "meta": "⭐ 153 · 💬 59",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What people are building, discovered through new domains",
+     "url": "https://startups.novumsignals.com/",
+     "meta": "⭐ 128 · 💬 61",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Finite-time blow-up for the Navier–Stokes equations",
+     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+     "meta": "⭐ 116 · 💬 31",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "NetSieve",
+     "url": "https://www.producthunt.com/products/netsieve",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Block ads, trackers and scam sites in every app on your Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Veryfi Thinking Mode",
+     "url": "https://www.producthunt.com/products/veryfi",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "AI agents review and correct receipt and invoice data.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Andromon",
+     "url": "https://www.producthunt.com/products/andromon",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Your Android phone, on your computer. Free.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "tensorViz",
+     "url": "https://www.producthunt.com/products/tensorviz",
+     "meta": "Product Hunt · 2026-11-12",
+     "summary": "Let your coding agent see inside your PyTorch model",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "MakePixel",
+     "url": "https://www.producthunt.com/products/makepixel",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Pixel art editor for game sprites, tilesets and maps",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Memanto Cloud",
+     "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
+     "meta": "Product Hunt · 2026-11-10",
+     "summary": "A companion memory for agents to improve as you work",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Rox",
+     "url": "https://www.producthunt.com/products/rox-2",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Your AI companion for living with chronic illness",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Nuko",
+     "url": "https://www.producthunt.com/products/nuko",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Motion design in your browser",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "ThreadLore",
+     "url": "https://www.producthunt.com/products/threadlore",
+     "meta": "Product Hunt · 2026-11-20",
+     "summary": "Turn fabric photos into editable loom drafts",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "InteraOne",
+     "url": "https://www.producthunt.com/products/interaone",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Open-source Intercom & Zendesk alternative with AI agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "DWaste",
+     "url": "https://www.producthunt.com/products/deep-waste",
+     "meta": "Product Hunt · 2026-11-18",
+     "summary": "Eliminate recycling contamination with low-power Edge AI",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tamekoshi",
+     "url": "https://www.producthunt.com/products/tamekoshi",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "A Tamagotchi-style AI companion that does real work",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Groundwork",
+     "url": "https://www.producthunt.com/products/groundwork-6",
+     "meta": "Product Hunt · 2026-11-18",
+     "summary": "Claude Code plans that re-runs never overwrite",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Lumyna Community Challenge",
+     "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+     "meta": "Product Hunt · 2026-11-20",
+     "summary": "A million virtual meters. A small pledge against hunger.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "greatai Review",
+     "url": "https://www.producthunt.com/products/greatai-review",
+     "meta": "Product Hunt · 2026-11-20",
+     "summary": "Free AI + human code review for open source & nonprofits",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
