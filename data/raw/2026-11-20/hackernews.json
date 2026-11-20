@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-20T02:51:54.068330+08:00",
- "count": 25,
+ "updated_at": "2026-11-20T09:01:51.551727+08:00",
+ "count": 37,
  "items": [
+  {
+   "id": "hn-50517657",
+   "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+   "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+   "hn_url": "https://news.ycombinator.com/item?id=50517657",
+   "score": 31,
+   "comments": 1,
+   "author": "tison",
+   "time_iso": "2026-11-16T13:58:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 31
+    }
+   ]
+  },
   {
    "id": "hn-50517783",
    "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
@@ -40,14 +56,50 @@
    "title": "Garage Door Spam",
    "url": "https://blog.harrison.page/garage-door-spam/",
    "hn_url": "https://news.ycombinator.com/item?id=50519231",
-   "score": 548,
-   "comments": 229,
+   "score": 744,
+   "comments": 313,
    "author": "harrisonpage",
    "time_iso": "2026-11-16T16:13:36+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 548
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 744
+    }
+   ]
+  },
+  {
+   "id": "hn-50528119",
+   "title": "How to CAD Almost Anything",
+   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+   "hn_url": "https://news.ycombinator.com/item?id=50528119",
+   "score": 105,
+   "comments": 19,
+   "author": "o4c",
+   "time_iso": "2026-11-17T06:29:57+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 105
+    }
+   ]
+  },
+  {
+   "id": "hn-50530132",
+   "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+   "hn_url": "https://news.ycombinator.com/item?id=50530132",
+   "score": 6,
+   "comments": 0,
+   "author": "rbanffy",
+   "time_iso": "2026-11-17T11:41:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 6
     }
    ]
   },
@@ -56,14 +108,34 @@
    "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
    "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
    "hn_url": "https://news.ycombinator.com/item?id=50536950",
-   "score": 112,
-   "comments": 90,
+   "score": 192,
+   "comments": 139,
    "author": "bookofjoe",
    "time_iso": "2026-11-17T19:35:12+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 112
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 192
+    }
+   ]
+  },
+  {
+   "id": "hn-50537832",
+   "title": "Computer Graphics from Scratch (2021)",
+   "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50537832",
+   "score": 48,
+   "comments": 10,
+   "author": "ibobev",
+   "time_iso": "2026-11-17T20:37:53+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 48
     }
    ]
   },
@@ -72,14 +144,18 @@
    "title": "Nintendo takes Picofly firmware down from GitHub [video]",
    "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
    "hn_url": "https://news.ycombinator.com/item?id=50547048",
-   "score": 193,
-   "comments": 66,
+   "score": 254,
+   "comments": 98,
    "author": "cowlevel",
    "time_iso": "2026-11-18T14:56:04+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 193
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 254
     }
    ]
   },
@@ -88,14 +164,18 @@
    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
    "url": "https://verialabs.com/ruby2shell/",
    "hn_url": "https://news.ycombinator.com/item?id=50556287",
-   "score": 329,
-   "comments": 134,
+   "score": 382,
+   "comments": 161,
    "author": "jdns",
    "time_iso": "2026-11-19T05:09:11+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 329
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 382
     }
    ]
   },
@@ -120,14 +200,18 @@
    "title": "Do not buy RAM, compress",
    "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
    "hn_url": "https://news.ycombinator.com/item?id=50557661",
-   "score": 141,
-   "comments": 132,
+   "score": 248,
+   "comments": 206,
    "author": "Ecno92",
    "time_iso": "2026-11-19T08:56:47+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 141
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 248
     }
    ]
   },
@@ -152,14 +236,18 @@
    "title": "How the European Commission rolled out Matrix to more than 40k staff",
    "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
    "hn_url": "https://news.ycombinator.com/item?id=50558533",
-   "score": 576,
-   "comments": 275,
+   "score": 656,
+   "comments": 313,
    "author": "liotier",
    "time_iso": "2026-11-19T10:58:29+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 576
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 656
     }
    ]
   },
@@ -168,14 +256,18 @@
    "title": "Someone reported java4shell bug in September 2026",
    "url": "https://github.com/openjdk/jdk/pull/32781",
    "hn_url": "https://news.ycombinator.com/item?id=50558906",
-   "score": 210,
-   "comments": 54,
+   "score": 357,
+   "comments": 91,
    "author": "notmine1337",
    "time_iso": "2026-11-19T11:47:03+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 210
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 357
     }
    ]
   },
@@ -200,14 +292,18 @@
    "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
    "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
    "hn_url": "https://news.ycombinator.com/item?id=50559719",
-   "score": 147,
-   "comments": 38,
+   "score": 243,
+   "comments": 53,
    "author": "krthr",
    "time_iso": "2026-11-19T13:18:11+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 147
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 243
     }
    ]
   },
@@ -293,33 +389,41 @@
   },
   {
    "id": "hn-50561515",
-   "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+   "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
    "url": "https://cornholenews.news",
    "hn_url": "https://news.ycombinator.com/item?id=50561515",
-   "score": 91,
-   "comments": 41,
+   "score": 184,
+   "comments": 89,
    "author": "cornholemedia",
    "time_iso": "2026-11-19T15:38:32+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 91
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 184
     }
    ]
   },
   {
    "id": "hn-50562113",
-   "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+   "title": "UK government forced to admit it issued Apple a secret encryption order",
    "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
    "hn_url": "https://news.ycombinator.com/item?id=50562113",
-   "score": 187,
-   "comments": 87,
+   "score": 483,
+   "comments": 206,
    "author": "Terretta",
    "time_iso": "2026-11-19T16:21:03+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 187
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 483
     }
    ]
   },
@@ -328,14 +432,18 @@
    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
    "url": "https://github.com/onlook-dev/onlook/",
    "hn_url": "https://news.ycombinator.com/item?id=50562320",
-   "score": 38,
-   "comments": 28,
+   "score": 84,
+   "comments": 67,
    "author": "D_R_Farrell",
    "time_iso": "2026-11-19T16:34:04+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 38
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 84
     }
    ]
   },
@@ -357,33 +465,57 @@
   },
   {
    "id": "hn-50562754",
-   "title": "Anthropic hits $2T in Nasdaq debut",
+   "title": "Anthropic’s Nasdaq debut",
    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
    "hn_url": "https://news.ycombinator.com/item?id=50562754",
-   "score": 273,
-   "comments": 370,
+   "score": 874,
+   "comments": 1718,
    "author": "wslh",
    "time_iso": "2026-11-19T17:02:40+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 273
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 874
+    }
+   ]
+  },
+  {
+   "id": "hn-50563066",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "hn_url": "https://news.ycombinator.com/item?id=50563066",
+   "score": 540,
+   "comments": 79,
+   "author": "cybermango",
+   "time_iso": "2026-11-19T17:25:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 540
     }
    ]
   },
   {
    "id": "hn-50563148",
-   "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+   "title": "Claude solves two open problems in the physics of black holes",
    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "hn_url": "https://news.ycombinator.com/item?id=50563148",
-   "score": 119,
-   "comments": 25,
+   "score": 367,
+   "comments": 170,
    "author": "cybermango",
    "time_iso": "2026-11-19T17:30:44+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 119
+    },
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 367
     }
    ]
   },
@@ -400,6 +532,118 @@
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50564159",
+   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+   "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+   "hn_url": "https://news.ycombinator.com/item?id=50564159",
+   "score": 190,
+   "comments": 100,
+   "author": "dev1one1",
+   "time_iso": "2026-11-19T18:35:17+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 190
+    }
+   ]
+  },
+  {
+   "id": "hn-50564366",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "hn_url": "https://news.ycombinator.com/item?id=50564366",
+   "score": 69,
+   "comments": 133,
+   "author": "sandslash",
+   "time_iso": "2026-11-19T18:47:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50566261",
+   "title": "Rebuilding my local voice assistant pipeline",
+   "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+   "hn_url": "https://news.ycombinator.com/item?id=50566261",
+   "score": 52,
+   "comments": 9,
+   "author": "todsacerdoti",
+   "time_iso": "2026-11-19T20:57:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50567209",
+   "title": "Synology Security Advisory",
+   "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+   "hn_url": "https://news.ycombinator.com/item?id=50567209",
+   "score": 90,
+   "comments": 59,
+   "author": "choult",
+   "time_iso": "2026-11-19T22:13:40+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "id": "hn-50567374",
+   "title": "RegExr: Temporarily Offline",
+   "url": "https://regexr.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50567374",
+   "score": 40,
+   "comments": 18,
+   "author": "somebudyelse",
+   "time_iso": "2026-11-19T22:27:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50568082",
+   "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+   "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+   "hn_url": "https://news.ycombinator.com/item?id=50568082",
+   "score": 61,
+   "comments": 15,
+   "author": "mikhael",
+   "time_iso": "2026-11-19T23:32:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50568130",
+   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+   "url": "https://git-aarvin.github.io/mei/",
+   "hn_url": "https://news.ycombinator.com/item?id=50568130",
+   "score": 49,
+   "comments": 21,
+   "author": "hn-aarvin",
+   "time_iso": "2026-11-19T23:35:35+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T09:01:51.551727+08:00",
+     "score": 49
     }
    ]
   }
