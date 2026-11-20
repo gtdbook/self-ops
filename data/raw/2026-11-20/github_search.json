@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-20T09:01:52.359405+08:00",
- "count": 25,
+ "updated_at": "2026-11-20T17:39:29.877836+08:00",
+ "count": 28,
  "items": [
   {
    "id": "gh-1456105425",
@@ -82,7 +82,7 @@
    "id": "gh-1457270665",
    "title": "duwqijlk/muse-protocol",
    "url": "https://github.com/duwqijlk/muse-protocol",
-   "stars": 1655,
+   "stars": 1674,
    "language": "Python",
    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
    "created_at": "2026-11-14T01:24:58Z",
@@ -94,6 +94,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1655
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1674
     }
    ]
   },
@@ -101,7 +105,7 @@
    "id": "gh-1457362196",
    "title": "CzzzzzzJ/mdldm-maitian",
    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-   "stars": 1598,
+   "stars": 1668,
    "language": "JavaScript",
    "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
    "created_at": "2026-11-14T03:59:22Z",
@@ -113,6 +117,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1598
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1668
     }
    ]
   },
@@ -120,7 +128,7 @@
    "id": "gh-1457509118",
    "title": "haziqahmedqasmi/PeakCut",
    "url": "https://github.com/haziqahmedqasmi/PeakCut",
-   "stars": 1339,
+   "stars": 1428,
    "language": "Python",
    "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
    "created_at": "2026-11-14T07:38:20Z",
@@ -132,6 +140,25 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1339
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1428
+    }
+   ]
+  },
+  {
+   "id": "gh-1457605310",
+   "title": "mankidev/antialgorithm",
+   "url": "https://github.com/mankidev/antialgorithm",
+   "stars": 525,
+   "language": "Python",
+   "description": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+   "created_at": "2026-11-14T09:48:23Z",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 525
     }
    ]
   },
@@ -139,7 +166,7 @@
    "id": "gh-1457919852",
    "title": "n4ze3m/tiny-voca",
    "url": "https://github.com/n4ze3m/tiny-voca",
-   "stars": 772,
+   "stars": 778,
    "language": "Python",
    "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
    "created_at": "2026-11-14T16:02:56Z",
@@ -151,6 +178,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 772
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 778
     }
    ]
   },
@@ -158,7 +189,7 @@
    "id": "gh-1458292408",
    "title": "yetanotherbrowser/yab",
    "url": "https://github.com/yetanotherbrowser/yab",
-   "stars": 737,
+   "stars": 745,
    "language": "Swift",
    "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
    "created_at": "2026-11-14T23:56:32Z",
@@ -170,6 +201,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 737
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 745
     }
    ]
   },
@@ -177,7 +212,7 @@
    "id": "gh-1458303867",
    "title": "nilbuild/stick-scene",
    "url": "https://github.com/nilbuild/stick-scene",
-   "stars": 498,
+   "stars": 516,
    "language": "JavaScript",
    "description": "Skill to draw stick figure animated visuals",
    "created_at": "2026-11-15T00:17:40Z",
@@ -185,6 +220,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 498
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 516
     }
    ]
   },
@@ -192,7 +231,7 @@
    "id": "gh-1458720005",
    "title": "Hut-hzf/ung220z-tool",
    "url": "https://github.com/Hut-hzf/ung220z-tool",
-   "stars": 1750,
+   "stars": 1875,
    "language": "Python",
    "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
    "created_at": "2026-11-15T11:16:46Z",
@@ -204,6 +243,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1750
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1875
     }
    ]
   },
@@ -211,7 +254,7 @@
    "id": "gh-1459063723",
    "title": "joshpuckett/allo",
    "url": "https://github.com/joshpuckett/allo",
-   "stars": 1150,
+   "stars": 1184,
    "language": "Python",
    "description": "Allo is your friendly neighborhood typeface, free and open source",
    "created_at": "2026-11-15T17:33:42Z",
@@ -223,6 +266,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1150
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1184
     }
    ]
   },
@@ -230,7 +277,7 @@
    "id": "gh-1459700211",
    "title": "siliconjungle/shapeshift-labs-ink-studio",
    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-   "stars": 703,
+   "stars": 743,
    "language": "JavaScript",
    "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
    "created_at": "2026-11-16T07:44:00Z",
@@ -242,6 +289,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 703
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 743
     }
    ]
   },
@@ -249,7 +300,7 @@
    "id": "gh-1459971684",
    "title": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
-   "stars": 5198,
+   "stars": 5802,
    "language": "Rust",
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "created_at": "2026-11-16T12:10:36Z",
@@ -261,6 +312,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 5198
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 5802
     }
    ]
   },
@@ -268,9 +323,9 @@
    "id": "gh-1460149071",
    "title": "chuanqisun/spaceship",
    "url": "https://github.com/chuanqisun/spaceship",
-   "stars": 947,
+   "stars": 967,
    "language": "HTML",
-   "description": "Steer your ideas in realtime",
+   "description": "Steer ideas like a space pilot!",
    "created_at": "2026-11-16T14:43:45Z",
    "history": [
     {
@@ -280,6 +335,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 947
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 967
     }
    ]
   },
@@ -287,7 +346,7 @@
    "id": "gh-1460180740",
    "title": "boringmarketer/boring-marketing-skills",
    "url": "https://github.com/boringmarketer/boring-marketing-skills",
-   "stars": 720,
+   "stars": 728,
    "language": "Python",
    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
    "created_at": "2026-11-16T15:09:46Z",
@@ -299,6 +358,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 720
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 728
     }
    ]
   },
@@ -306,7 +369,7 @@
    "id": "gh-1460417668",
    "title": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 1260,
+   "stars": 1283,
    "language": "Python",
    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
    "created_at": "2026-11-16T18:40:04Z",
@@ -318,6 +381,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 1260
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 1283
     }
    ]
   },
@@ -325,7 +392,7 @@
    "id": "gh-1460469810",
    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-   "stars": 4669,
+   "stars": 4874,
    "language": "C++",
    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense,",
    "created_at": "2026-11-16T19:28:29Z",
@@ -337,6 +404,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 4669
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 4874
     }
    ]
   },
@@ -344,7 +415,7 @@
    "id": "gh-1461244802",
    "title": "gylive/google-ultra",
    "url": "https://github.com/gylive/google-ultra",
-   "stars": 2450,
+   "stars": 2496,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-17T10:21:54Z",
@@ -356,6 +427,25 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 2450
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 2496
+    }
+   ]
+  },
+  {
+   "id": "gh-1461522454",
+   "title": "Lemxy/WinRust",
+   "url": "https://github.com/Lemxy/WinRust",
+   "stars": 551,
+   "language": "Rust",
+   "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "created_at": "2026-11-17T14:27:06Z",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 551
     }
    ]
   },
@@ -393,7 +483,7 @@
    "id": "gh-1463077742",
    "title": "0marContreras/gta6recomp",
    "url": "https://github.com/0marContreras/gta6recomp",
-   "stars": 636,
+   "stars": 716,
    "language": "",
    "description": "A GTA VI PC Port",
    "created_at": "2026-11-18T16:49:55Z",
@@ -401,6 +491,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 636
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 716
     }
    ]
   },
@@ -424,10 +518,25 @@
    ]
   },
   {
+   "id": "gh-1463963309",
+   "title": "iamajmeena/neonclipping",
+   "url": "https://github.com/iamajmeena/neonclipping",
+   "stars": 770,
+   "language": "Python",
+   "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "created_at": "2026-11-19T10:00:43Z",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 770
+    }
+   ]
+  },
+  {
    "id": "gh-1464271688",
    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-   "stars": 544,
+   "stars": 990,
    "language": "",
    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
    "created_at": "2026-11-19T14:43:10Z",
@@ -435,6 +544,10 @@
     {
      "t": "2026-11-20T09:01:52.359405+08:00",
      "score": 544
+    },
+    {
+     "t": "2026-11-20T17:39:29.877836+08:00",
+     "score": 990
     }
    ]
   }

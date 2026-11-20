@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-20T09:01:51.551727+08:00",
- "count": 37,
+ "updated_at": "2026-11-20T17:39:29.129017+08:00",
+ "count": 52,
  "items": [
   {
    "id": "hn-50517657",
@@ -56,8 +56,8 @@
    "title": "Garage Door Spam",
    "url": "https://blog.harrison.page/garage-door-spam/",
    "hn_url": "https://news.ycombinator.com/item?id=50519231",
-   "score": 744,
-   "comments": 313,
+   "score": 859,
+   "comments": 357,
    "author": "harrisonpage",
    "time_iso": "2026-11-16T16:13:36+00:00",
    "history": [
@@ -68,6 +68,58 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 744
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 859
+    }
+   ]
+  },
+  {
+   "id": "hn-50521512",
+   "title": "Bit Shifting in Basic",
+   "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50521512",
+   "score": 40,
+   "comments": 2,
+   "author": "efren6",
+   "time_iso": "2026-11-16T19:04:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 40
+    }
+   ]
+  },
+  {
+   "id": "hn-50522471",
+   "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+   "url": "https://www.frankensteinpbc.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50522471",
+   "score": 25,
+   "comments": 7,
+   "author": "ano-ther",
+   "time_iso": "2026-11-16T20:10:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50523241",
+   "title": "The Strongest Sokoban Solver",
+   "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+   "hn_url": "https://news.ycombinator.com/item?id=50523241",
+   "score": 38,
+   "comments": 8,
+   "author": "ibobev",
+   "time_iso": "2026-11-16T21:04:01+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 38
     }
    ]
   },
@@ -76,14 +128,18 @@
    "title": "How to CAD Almost Anything",
    "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
    "hn_url": "https://news.ycombinator.com/item?id=50528119",
-   "score": 105,
-   "comments": 19,
+   "score": 259,
+   "comments": 86,
    "author": "o4c",
    "time_iso": "2026-11-17T06:29:57+00:00",
    "history": [
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 105
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 259
     }
    ]
   },
@@ -124,6 +180,22 @@
    ]
   },
   {
+   "id": "hn-50537492",
+   "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+   "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+   "hn_url": "https://news.ycombinator.com/item?id=50537492",
+   "score": 28,
+   "comments": 0,
+   "author": "g0xA52A2A",
+   "time_iso": "2026-11-17T20:12:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 28
+    }
+   ]
+  },
+  {
    "id": "hn-50537832",
    "title": "Computer Graphics from Scratch (2021)",
    "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
@@ -136,6 +208,38 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 48
+    }
+   ]
+  },
+  {
+   "id": "hn-50538977",
+   "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+   "url": "https://notesbylex.com/weight-space-programming-1990s",
+   "hn_url": "https://news.ycombinator.com/item?id=50538977",
+   "score": 84,
+   "comments": 5,
+   "author": "lexandstuff",
+   "time_iso": "2026-11-17T22:11:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 84
+    }
+   ]
+  },
+  {
+   "id": "hn-50545818",
+   "title": "µ-Wire – USB on an ATtiny 10",
+   "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+   "hn_url": "https://news.ycombinator.com/item?id=50545818",
+   "score": 12,
+   "comments": 1,
+   "author": "mofosyne",
+   "time_iso": "2026-11-18T13:02:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 12
     }
    ]
   },
@@ -256,8 +360,8 @@
    "title": "Someone reported java4shell bug in September 2026",
    "url": "https://github.com/openjdk/jdk/pull/32781",
    "hn_url": "https://news.ycombinator.com/item?id=50558906",
-   "score": 357,
-   "comments": 91,
+   "score": 426,
+   "comments": 116,
    "author": "notmine1337",
    "time_iso": "2026-11-19T11:47:03+00:00",
    "history": [
@@ -268,6 +372,10 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 357
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 426
     }
    ]
   },
@@ -373,17 +481,21 @@
   },
   {
    "id": "hn-50561508",
-   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "url": "https://thedataexchange.media/pete-warden-moonshine/",
    "hn_url": "https://news.ycombinator.com/item?id=50561508",
-   "score": 147,
-   "comments": 127,
+   "score": 240,
+   "comments": 218,
    "author": "datascientist",
    "time_iso": "2026-11-19T15:38:12+00:00",
    "history": [
     {
      "t": "2026-11-20T02:51:54.068330+08:00",
      "score": 147
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 240
     }
    ]
   },
@@ -432,8 +544,8 @@
    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
    "url": "https://github.com/onlook-dev/onlook/",
    "hn_url": "https://news.ycombinator.com/item?id=50562320",
-   "score": 84,
-   "comments": 67,
+   "score": 119,
+   "comments": 83,
    "author": "D_R_Farrell",
    "time_iso": "2026-11-19T16:34:04+00:00",
    "history": [
@@ -444,6 +556,10 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 84
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 119
     }
    ]
   },
@@ -468,8 +584,8 @@
    "title": "Anthropic’s Nasdaq debut",
    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
    "hn_url": "https://news.ycombinator.com/item?id=50562754",
-   "score": 874,
-   "comments": 1718,
+   "score": 1077,
+   "comments": 2128,
    "author": "wslh",
    "time_iso": "2026-11-19T17:02:40+00:00",
    "history": [
@@ -480,6 +596,10 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 874
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 1077
     }
    ]
   },
@@ -488,14 +608,18 @@
    "title": "Pancreatic cancer halted by virus injection in three patients",
    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
    "hn_url": "https://news.ycombinator.com/item?id=50563066",
-   "score": 540,
-   "comments": 79,
+   "score": 771,
+   "comments": 132,
    "author": "cybermango",
    "time_iso": "2026-11-19T17:25:33+00:00",
    "history": [
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 540
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 771
     }
    ]
   },
@@ -504,8 +628,8 @@
    "title": "Claude solves two open problems in the physics of black holes",
    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "hn_url": "https://news.ycombinator.com/item?id=50563148",
-   "score": 367,
-   "comments": 170,
+   "score": 495,
+   "comments": 229,
    "author": "cybermango",
    "time_iso": "2026-11-19T17:30:44+00:00",
    "history": [
@@ -516,6 +640,10 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 367
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 495
     }
    ]
   },
@@ -540,14 +668,18 @@
    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
    "hn_url": "https://news.ycombinator.com/item?id=50564159",
-   "score": 190,
-   "comments": 100,
+   "score": 283,
+   "comments": 146,
    "author": "dev1one1",
    "time_iso": "2026-11-19T18:35:17+00:00",
    "history": [
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 190
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 283
     }
    ]
   },
@@ -588,14 +720,18 @@
    "title": "Synology Security Advisory",
    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
    "hn_url": "https://news.ycombinator.com/item?id=50567209",
-   "score": 90,
-   "comments": 59,
+   "score": 145,
+   "comments": 114,
    "author": "choult",
    "time_iso": "2026-11-19T22:13:40+00:00",
    "history": [
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 90
+    },
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 145
     }
    ]
   },
@@ -644,6 +780,150 @@
     {
      "t": "2026-11-20T09:01:51.551727+08:00",
      "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50568548",
+   "title": "ChatGPT for SNES",
+   "url": "https://www.bxfoundry.com/chatgpt_snes/",
+   "hn_url": "https://news.ycombinator.com/item?id=50568548",
+   "score": 84,
+   "comments": 22,
+   "author": "evan_",
+   "time_iso": "2026-11-20T00:25:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 84
+    }
+   ]
+  },
+  {
+   "id": "hn-50568861",
+   "title": "Vint Cerf on why TCP/IP was never patented",
+   "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+   "hn_url": "https://news.ycombinator.com/item?id=50568861",
+   "score": 103,
+   "comments": 45,
+   "author": "emot",
+   "time_iso": "2026-11-20T01:06:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50569226",
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "url": "https://github.com/openssl/openssl/pull/33652",
+   "hn_url": "https://news.ycombinator.com/item?id=50569226",
+   "score": 231,
+   "comments": 171,
+   "author": "JacobHenner",
+   "time_iso": "2026-11-20T02:01:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 231
+    }
+   ]
+  },
+  {
+   "id": "hn-50569516",
+   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+   "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+   "hn_url": "https://news.ycombinator.com/item?id=50569516",
+   "score": 93,
+   "comments": 9,
+   "author": "craigkerstiens",
+   "time_iso": "2026-11-20T02:43:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 93
+    }
+   ]
+  },
+  {
+   "id": "hn-50569519",
+   "title": "What Comes After AGI?",
+   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+   "hn_url": "https://news.ycombinator.com/item?id=50569519",
+   "score": 49,
+   "comments": 90,
+   "author": "jdkee",
+   "time_iso": "2026-11-20T02:44:13+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50569890",
+   "title": "PostgreSQL 19",
+   "url": "https://www.postgresql.org/docs/release/19.0/",
+   "hn_url": "https://news.ycombinator.com/item?id=50569890",
+   "score": 172,
+   "comments": 7,
+   "author": "linzhangrun",
+   "time_iso": "2026-11-20T03:45:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 172
+    }
+   ]
+  },
+  {
+   "id": "hn-50569998",
+   "title": "FFmpeg 9.1 'Gauss'",
+   "url": "https://ffmpeg.org/download.html#release_9.1",
+   "hn_url": "https://news.ycombinator.com/item?id=50569998",
+   "score": 121,
+   "comments": 23,
+   "author": "gyan",
+   "time_iso": "2026-11-20T04:02:39+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50570628",
+   "title": "Jujutsu Primer",
+   "url": "https://ethanlowman.com/posts/jj-primer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50570628",
+   "score": 109,
+   "comments": 68,
+   "author": "renehsz",
+   "time_iso": "2026-11-20T05:46:01+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 109
+    }
+   ]
+  },
+  {
+   "id": "hn-50571189",
+   "title": "\"I can tell you wrote this yourself\"",
+   "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+   "hn_url": "https://news.ycombinator.com/item?id=50571189",
+   "score": 112,
+   "comments": 118,
+   "author": "BrunoBernardino",
+   "time_iso": "2026-11-20T07:13:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-20T17:39:29.129017+08:00",
+     "score": 112
     }
    ]
   }

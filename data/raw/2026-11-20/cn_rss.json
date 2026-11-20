@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-20T09:02:02.039857+08:00",
- "count": 183,
+ "updated_at": "2026-11-20T17:39:40.223863+08:00",
+ "count": 262,
  "items": [
   {
    "id": "rss-003aed05b474e175",
@@ -31,6 +31,24 @@
    "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-040e593b0469644e",
+   "title": "[问与答] 领导说要重构项目",
+   "url": "https://www.v2ex.com/t/1258615#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:15:30Z",
+   "published_iso": "2026-11-20T09:15:30+00:00",
+   "summary": "听到重构真的虎躯一震 想问下各位佬 在走用 AI 辅助重构的路上 主要注意啥 有啥坑吗 这个是银行证券类的 app 看代码估计快 10 年了"
+  },
+  {
+   "id": "rss-04376c8b34e5f4bd",
+   "title": "qKnow 智能体构建平台专业版 v3.1.6 发布：底座组件标准化升级，主题与品牌定制能力上线",
+   "url": "https://www.oschina.net/news/503689",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 09:09:49 +0800",
+   "published_iso": "2026-11-20T01:09:49+00:00",
+   "summary": "随着智能体应用逐步落地，平台除了需要持续完善核心业务能力，也需要关注基础组件、系统配置和应用运行等方面的建设。对于企业私有化部署场景而言，平台界面是否统一、主题能否灵活调整、品牌信息是否便于配置，都会影响项目交付和日常使用体验。 本次 qKnow 专业版 v3.1.6 围绕平台基础能力与应用运行体验进行了一系列调..."
+  },
+  {
    "id": "rss-04b13d9cc8968171",
    "title": "Apache SeaTunnel 3.1.0 发布：让生产任务更稳，也让部署更灵活",
    "url": "https://www.oschina.net/news/503658",
@@ -49,6 +67,42 @@
    "summary": "？"
   },
   {
+   "id": "rss-074d49bd88b57a82",
+   "title": "[分享创造] [分享创造] 回声口袋：中文音视频转文字，带时间轴和说话人区分，可导出字幕",
+   "url": "https://www.v2ex.com/t/1258557#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:02:10Z",
+   "published_iso": "2026-11-20T07:02:10+00:00",
+   "summary": "大家好，分享一下我做的中文音视频转文字工具「回声口袋」： https://huishengkoudai.cn/ — 上传 MP3/M4A/WAV/MP4，或贴公开媒体链接，生成带时间戳的中文文稿 — 自动区分说话人；点击文字可以跳回对应音频回听 — 导出 TXT / DOCX / CSV / SRT / VTT — 「极速」和「精准」两种模型，精准模型支持更多方言 — 数据存储在国内，文件可删除，分享链接可撤回 — 网页版和微信小程序共"
+  },
+  {
+   "id": "rss-0840c1672526de88",
+   "title": "[随想] AI 能力很强，为什么项目未必能创造价值？",
+   "url": "https://www.v2ex.com/t/1258605#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:52:19Z",
+   "published_iso": "2026-11-20T08:52:19+00:00",
+   "summary": "前几天，一位从事旅游行业多年的朋友和我聊起 AI，说她对 AI 的使用，基本限于问豆包一些旅游行程规划、生活知识类问题，相当于搜索引擎的“升级版”。我给她谈了我的看法，为了表达得更直白，我打了个比方： agent（智能体）相当于小秘书； 大模型（例如国外Claude的Opus、Feble，ChatGPT的Sol、Astra、Terra，Gemini的Argon、Hydrogen、Carbon；国内阿里通义千问Qwen、DeepSeek、"
+  },
+  {
+   "id": "rss-08517fc160ded9f6",
+   "title": "GIMP 优化自动测试功能，会像真人一样与界面 UI 交互",
+   "url": "https://www.oschina.net/news/503702/gimp-ui-tests",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 15:09:14 +0800",
+   "published_iso": "2026-11-20T07:09:14+00:00",
+   "summary": "GIMP 终于有了一套自动化的界面测试。起因很朴素：GIMP 有大量互相交织的菜单、对话框和工具。改动了界面的一部分，另一部分可能就悄悄坏了——有时候要等到用户报告才发现。 新引入的测试做的事和人一样：点击菜单和按钮，然后检查结果。每次合并贡献者的改动时自动跑。 为什么之前的测试不够 GIMP 本来就有单元测试。但..."
+  },
+  {
+   "id": "rss-0a28af18cb8e7408",
+   "title": "[分享创造] 逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面",
+   "url": "https://www.v2ex.com/t/1258592#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:10:14Z",
+   "published_iso": "2026-11-20T08:10:14+00:00",
+   "summary": "做了个 iPhone / iPad 连 Mac 的远程桌面，叫 Ferry。国区 App Store 搜得到，免费，没广告没内购，也不用注册。 App Store： https://apps.apple.com/app/id6833728061 TestFlight： https://testflight.apple.com/join/UtcTPJ5E 起因是 UU 远程说 12 月起免费版限 1080p 30 帧，虚拟屏也要会员。我天"
+  },
+  {
    "id": "rss-0c511645a2e4746d",
    "title": "[问与答] 停号的 giffgaff 卡退款到账了，推荐一下别的境外卡，主要还是保号接码用",
    "url": "https://www.v2ex.com/t/1258413#reply1",
@@ -56,6 +110,24 @@
    "published": "2026-11-20T00:44:47Z",
    "published_iso": "2026-11-20T00:44:47+00:00",
    "summary": "死磕了两周多，giffgaff 退款到账了，£15.00（¥132.02），11 月 19 日入账原 VISA 卡，正好是当初 VISA 充值的全额。号码没保住，钱要回来了。两周拉锯，结案。 我说一下整个经历，希望停号的也能把钱拿回来。另外请问一下还可以办理哪家？还是希望有一张境外卡。 7 月 28 日，第一封邮件(这封邮件其实我每注意)：We're disconnecting your service——长期在境外使用，final p"
+  },
+  {
+   "id": "rss-0ca7e9b1a9e9354e",
+   "title": "史上最大 IPO，Anthropic 上市首日市值达 1.271 万亿美元",
+   "url": "https://www.oschina.net/news/503693/anthropics-historic-debut-put",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 10:48:09 +0800",
+   "published_iso": "2026-11-20T02:48:09+00:00",
+   "summary": "Anthropic 于 2026 年 11 月 19 日在纳斯达克挂牌上市，股票代码“ANT”。上市首日，其开盘价 111.50 美元，比 83 美元的发行价高出 34%。按开盘价算，估值冲到 2 万亿美元附近——超过了 SpaceX 今年 6 月的上市纪录。 然后一路回落。收盘 97 美元，涨幅缩到 17%，对应市值约 1.3 万亿。同一天，纳斯达克大盘收跌。 这个..."
+  },
+  {
+   "id": "rss-0d345719dddc5af9",
+   "title": "[分享创造] [开源] 牵丝 Filaxis：给 AI Agent 用的远程执行运行时（SDK / CLI / MCP），附多跳 SSH 堡垒机 + Docker 对照实测",
+   "url": "https://www.v2ex.com/t/1258616#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:16:48Z",
+   "published_iso": "2026-11-20T09:16:48+00:00",
+   "summary": "最近把自己在 Agent 项目里打磨了几套远程执行方案后沉淀出来的一层运行时开源了，叫 牵丝 Filaxis （Apache-2.0，TypeScript 实现，支持 Bun / Node），提供 SDK、CLI 和 MCP Server 三种接入方式。 GitHub： https://github.com/corolin/filaxis npm： @syrkos/filaxis 为什么要单独抽出来？ 最初只是想让 Agent 通过 S"
   },
   {
    "id": "rss-0d8229b165a84dc1",
@@ -139,6 +211,15 @@
    "summary": "买第二台电脑的时候，我想的是它能帮自己做什么。真正摆到桌上，才发现还得考虑：键盘和鼠标怎么办？ 同样用途的设备再买一遍，多花一笔钱，桌上也更挤。如果还要在另一台开会，麦克风和耳机又得重新安排。于是我做了 SynDesk，希望已经用顺手的一套设备，也能照顾另一台电脑。 现在能做什么 同一局域网内，按实际屏幕布局跨电脑移动鼠标，键盘跟随输入。 共享剪贴板，接续文字、链接和代码片段，具体格式取决于系统和版本。 共享真实麦克风，接收端会议软件可"
   },
   {
+   "id": "rss-166a635df97e5e93",
+   "title": "[程序员] 死磕一个网页感知系统的来时路（三）：长文分享一下干货，扔掉站点配置后，怎么给网页建几何模型",
+   "url": "https://www.v2ex.com/t/1258607#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:59:21Z",
+   "published_iso": "2026-11-20T08:59:21+00:00",
+   "summary": "上篇结尾停在“每适配一个站，要维护一份 200KB 的 JSON 配置”。做到第六个站时我彻底想明白了：就算跑得再稳，只要还在逐站写规则，本质上还是换皮爬虫。 真正的转折，始于我打算做一个能读网页的桌面助手。当时最大的困难就是：怎么才能不写配置、快速接入任意新站点，让感知自己跑起来？VLM 直接看？小元素看不明白还贵的要死。 为了回答这个问题，我逼着自己退回原点：网页的本质到底是什么？想来想去，我个人觉得它更像一本碎片化的杂志，终极目标"
+  },
+  {
    "id": "rss-16d07292d96b329b",
    "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
    "url": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -146,6 +227,24 @@
    "published": "Wed, 18 Nov 2026 17:16:31 +0000",
    "published_iso": "2026-11-18T17:16:31+00:00",
    "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-181bcab677f7d73f",
+   "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+   "url": "https://sspai.com/post/119311",
+   "feed_name": "少数派",
+   "published": "Fri, 20 Nov 2026 08:34:31 +0800",
+   "published_iso": "2026-11-20T00:34:31+00:00",
+   "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文"
+  },
+  {
+   "id": "rss-19988aacd3fd9f77",
+   "title": "[iPhone] 我做了一个把滑雪轨迹画成山脉的 iOS App Pisteo，求一波内测反馈",
+   "url": "https://www.v2ex.com/t/1258570#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:40:21Z",
+   "published_iso": "2026-11-20T07:40:21+00:00",
+   "summary": "主页 https://pisteo.fireloop.xyz/zh/ 大家好，平时喜欢滑雪，一直想要一种比较安静的方式来回顾自己在雪场度过的每一天，于是自己写了一个叫 Pisteo 的 iOS 小应用。 它的功能很简单：你可以直接导入 GPX 文件，或者直接读取 Apple Health（健康）里的滑雪体能训练记录。App 会自动把一天的行程拆分成滑行（Runs）和缆车（Lifts），计算出距离、垂直落差、速度和坡度，最后把整座雪山和你"
   },
   {
    "id": "rss-1a427431533ee72b",
@@ -164,6 +263,15 @@
    "published": "2026-11-19T14:52:21Z",
    "published_iso": "2026-11-19T14:52:21+00:00",
    "summary": "最近两天总是正在连接 5/5。然后 stream disconnected before completion: error sending request 默认 websocket 对网络要求太高了"
+  },
+  {
+   "id": "rss-1ad02ff8c76cb7cf",
+   "title": "[分享发现] UU 收费了，试了另一个",
+   "url": "https://www.v2ex.com/t/1258582#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:53:55Z",
+   "published_iso": "2026-11-20T07:53:55+00:00",
+   "summary": "UU 收费了，找到个国外的 irta.app 试试水。看它支持 p2p 直连就装了，跑了一下居然有 120 帧。终端里能直接用原生 cli 和 vibe coding，目前体验还行"
   },
   {
    "id": "rss-1ad3e055bac6aa5e",
@@ -229,6 +337,15 @@
    "summary": "被知名网站用于网页 A/B 测试的软件 Optimizely 遭到入侵，黑客纂改了这些网站加载的 JavaScript 代码，向访客的计算机植入恶意程序。有至少 178 个网站受到影响，其中包括 BBC、CNN、Zoom、宜家、Salesforce、汇丰银行和 TalkTalk 等知名网站。这些网站使用了 Optimizely 的 Web Experimentation，允许在不更改网站底层代码的情况下调整网页的内容和布局。黑客利用了被"
   },
   {
+   "id": "rss-206124cbfea6a27c",
+   "title": "Ruby 公开披露多个会触发远程代码执行的漏洞",
+   "url": "https://www.oschina.net/news/503699/ruby-lang-multiple-vulnerabilities-in-regexp-and-string",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 12:03:01 +0800",
+   "published_iso": "2026-11-20T04:03:01+00:00",
+   "summary": "Ruby 团队公开表示其正则引擎和字符串大小写转换存在 7 个漏洞。官方安全公告说得很直接：已经知道有 PoC 能证明其中一些可以触发远程代码执行。修复版本是 Ruby 4.0.10、3.4.13 和 3.3.14。 七个漏洞按性质分成两类： 字符串大小写转换里有三个——一个一字节堆溢出、一个整数溢出导致堆溢出，还有一个能引发 RCE。共同..."
+  },
+  {
    "id": "rss-211f9f26a76a8d1d",
    "title": "AIGCPanel v2.7.0 模型权重按需下载，直播错误看得见",
    "url": "https://www.oschina.net/news/503648",
@@ -236,6 +353,15 @@
    "published": "Wed, 18 Nov 2026 22:14:37 +0800",
    "published_iso": "2026-11-18T14:14:37+00:00",
    "summary": "模型包不再带着权重一起下，直播里播不出去的那句话会告诉你是为什么。 AIGCPanel 是装在自己电脑上的 AI 数字人工作台，口型、语音合成、语音识别都能在本地跑，显卡不够时也能接云端模型或者自己的 API。v2.7.0 的主线有两条：模型权重从模型包里拆出来按需下载，直播合成失败的原因直接写到面板上。本地跑模型的人感受..."
+  },
+  {
+   "id": "rss-21c2f8e26a1ba80d",
+   "title": "[llms.txt] iconplus.app - SVG Icon Management for Designers & Developers",
+   "url": "https://www.v2ex.com/t/1258588#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:02:23Z",
+   "published_iso": "2026-11-20T08:02:23+00:00",
+   "summary": "llms.txt: https://iconplus.app/llm.txt page: https://iconplus.app"
   },
   {
    "id": "rss-28de587f288bc7a9",
@@ -292,6 +418,15 @@
    "summary": "上周在这里发过 Casvisor，一个 Apache-2.0 的开源堡垒机。当时末尾有一节“老实说的部分”，承认了几处不如 JumpServer 的地方。这周把其中大部分补上了，发了 2.0.0。 ### 系统账号：服务器密码不再经过人 原来一个资产只有一组账号，所有能连的人共用。现在一个资产可以挂多个系统账号，比如 root、deploy、readonly： - 每条权限多了一个“账号”字段：资产自己的账号、和用户同名的账号、所有账号"
   },
   {
+   "id": "rss-322b5a7fe46ef2e2",
+   "title": "微软测试对被盗或丢失设备远程锁定",
+   "url": "https://www.solidot.org/story?sid=85942",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 16:03:01 +0800",
+   "published_iso": "2026-11-20T08:03:01+00:00",
+   "summary": "微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Preview 设备。IT 管理员可通过 Microsoft Intune 自定义配置配置文件，锁定加入 Microsoft Entra 的运行 Win"
+  },
+  {
    "id": "rss-328e2461602102db",
    "title": "[问与答] 搞了个 windows 掌机，请问有哪些游戏能好玩、畅玩？",
    "url": "https://www.v2ex.com/t/1258410#reply1",
@@ -317,6 +452,33 @@
    "published": "2026-11-19T11:55:27Z",
    "published_iso": "2026-11-19T11:55:27+00:00",
    "summary": "最近 Gemini 也是支棱起来了， 但是不敢搞反代只能用 agy 体验是真的抽象，平时写代码时经常有几个痛点： 体感变慢时不知道是幻觉还是真降速了：有时模型思考半天，想知道上一轮到底跑了多少 tok/s，有没有掉到 50 tok/s 以下； 上下文和 Prompt 缓存是个黑盒：会话长了之后不知道 Ctx 占了多少比例、Cache hit 命中率高不高； CLI 下看不同模型池的剩余额度不直观：Gemini / Argon / Cla"
+  },
+  {
+   "id": "rss-33835192b8eb6260",
+   "title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+   "url": "https://www.solidot.org/story?sid=85939",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 14:33:52 +0800",
+   "published_iso": "2026-11-20T06:33:52+00:00",
+   "summary": "Visa、Mastercard 和摩根大通（JPMorgan）披露客户数据泄露，但数据是通过第三方服务提供商泄漏的，它们自身的核心系统或支付网络都未受影响。泄漏的数据包括姓名、电邮地址，部分还包含电话号码和邮编。网络勒索组织 n0n 于 11 月 16 日声称获取了三家银行/支付公司的持卡人记录，其中包括数万持卡人电邮地址所对应的数十万次营销互动。对公布数据的核查发现，除了客户还有银行员工的电邮地址泄漏。"
+  },
+  {
+   "id": "rss-33e3c6efeffba6f0",
+   "title": "[股票] 如果是游戏该多好",
+   "url": "https://www.v2ex.com/t/1258598#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:32:36Z",
+   "published_iso": "2026-11-20T08:32:36+00:00",
+   "summary": "https://www.v2ex.com/t/1257716#reply12 我做了一个梦，梦里我又输了。 屏幕上的格子轮流亮着，我刚按下去，余额就少了一截。究竟该在什么时候按，我记不清了。刚才似乎明白过，下一轮开始，又只剩下手指悬在那里。 余额不足。 充值的窗口盖住了游戏。我输密码，按确认，窗口消失，格子重新亮起来。旁边有个“兑换”，游戏币可以直接换成人民币。我每一轮都看见它。 但得等回本以后。 我已经玩了很久。最早输掉的那些钱，后来"
+  },
+  {
+   "id": "rss-3413778c74f0776f",
+   "title": "奔驰新 E 级车机上手！响应速度超越新势力，唯独少了点「奔驰味」",
+   "url": "https://www.ifanr.com/1690546?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Wed, 18 Nov 2026 14:30:52 +0000",
+   "published_iso": "2026-11-18T14:30:52+00:00",
+   "summary": "对比奔驰过往的产品，无疑是一次大跨越。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-34e692a8f905c5bc",
@@ -346,6 +508,15 @@
    "summary": ""
   },
   {
+   "id": "rss-36bc830b5f931467",
+   "title": "[程序员] [更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友",
+   "url": "https://www.v2ex.com/t/1258620#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:35:27Z",
+   "published_iso": "2026-11-20T09:35:27+00:00",
+   "summary": "大家好 👋 一个月前我在这里发布了 UULink 的第一个版本（ 写了个 iPhone 远程用 Mac 上 Claude Code / Codex 的 App，不用内网穿透，送 月卡 ），收到了近 4k 次点击和不少回复，也按约定给大家送出了不少兑换码，谢谢大家捧场 🙏 这一个月我把大部分业余时间都花在了 UULink 上，做了不少改进，希望大家喜欢～ 👀 第一次看到 UULink？ 一句话： 用手机远程操控电脑上的 Claude Co"
+  },
+  {
    "id": "rss-385a0a084bf9c641",
    "title": "今年是阔屏的元年，阔屏是手机的今后十年",
    "url": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -353,6 +524,24 @@
    "published": "Thu, 19 Nov 2026 13:00:02 +0000",
    "published_iso": "2026-11-19T13:00:02+00:00",
    "summary": "新中产、新比例、新潮流 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-38f8eaa521537fba",
+   "title": "AI Agent 元年，苹果是最后一个入局的巨头",
+   "url": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Fri, 20 Nov 2026 01:17:16 +0000",
+   "published_iso": "2026-11-20T01:17:16+00:00",
+   "summary": "苹果急了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-39196c9fae2ec3ee",
+   "title": "【AI 智能运维平台】本周更新：内置常用智能体模版，简单配置快速启用",
+   "url": "https://www.oschina.net/news/503707",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:02:40 +0800",
+   "published_iso": "2026-11-20T09:02:40+00:00",
+   "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench: 系统管理 • 新增「超级审计员」角色，可只读查看全部组织和应用数据 :card_index_dividers: CMDB • 采集任..."
   },
   {
    "id": "rss-3da383cb9fdb0e20",
@@ -382,6 +571,15 @@
    "summary": "YT Transcript Export v0.1.0 已上架 Microsoft Edge 商店，11 月 15 日提交、11 月 19 日通过审核，免费。 功能： - 导出当前 YouTube 视频的字幕，四种格式：TXT / Markdown / SRT / VTT。 - 播放列表批量导出，附 manifest.txt 列出每个视频的结果。 - 本地优先：无账号、无服务器、无追踪。隐私页： https://alapha888.gi"
   },
   {
+   "id": "rss-404bded37cb4bd1c",
+   "title": "[分享创造] [送码] 波波小红书获客助手：养号、AI 自动评论、自动发现线索（自己天天在用的小工具）",
+   "url": "https://www.v2ex.com/t/1258559#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:04:33Z",
+   "published_iso": "2026-11-20T07:04:33+00:00",
+   "summary": "我是 gybin02，之前在这儿发过这个小工具的介绍帖，这次换个方式：直接送码。 做小红书最耗时间的就是每天那几件重复活，这个工具就是替你干这些的： 推荐流养号：自动停留、点赞、浏览，贴着真人的节奏来，号不用你整天手动刷着保活跃。 AI 意向评论：AI 先读懂笔记内容，再按内容现写一条自然的评论，自动发出去，不是复制粘贴的群发灌水。 静默查找线索：按关键词、或者盯着指定的爆款笔记，自动去评论区里发现意向用户，进独立看板，一键导出 CSV"
+  },
+  {
    "id": "rss-409fd661e158a153",
    "title": "[问与答] 使用 t3 code 会导致封号吗？",
    "url": "https://www.v2ex.com/t/1258351#reply0",
@@ -398,6 +596,15 @@
    "published": "Mon, 16 Nov 2026 18:55:55 +0800",
    "published_iso": "2026-11-16T10:55:55+00:00",
    "summary": "SonnetDB 5.1.1 已正式发布。该版本延续 5.0 的 API、wire 与数据库迁移合同，集中修正稳定版发布阶段发现的验证缺口：主 solution 纳入独立全文进程 probe，Windows Core Legacy/LSM 回归获得更充足的总 job 时间，Ecosystem Soak 按原子 Point WAL v2 读取 torn recovery 夹具，CrashTests 等待 ready 文件真正写入内容..."
+  },
+  {
+   "id": "rss-4379cdda7e30e67d",
+   "title": "[宽带症候群] 广州电信移机到新小区问题求助，另询广州移动的宽带情况",
+   "url": "https://www.v2ex.com/t/1258594#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:25:34Z",
+   "published_iso": "2026-11-20T08:25:34+00:00",
+   "summary": "之前使用的是 229 的套餐，每月返 90 红包，加了一个副卡，现在实际月付是 149. （1000Mbps/100Mbps,无限流量，60GB 流量 超过限速） 最近新屋装修好准备移机过去，被告知新小区只能用 199（fttr）或以上的套餐 像这种情况有没有渠道可以绕过这个限制？ 另外广州移动的宽带目前是不是都限制了光猫桥接？有办法绕过（实际操作过的）吗？"
   },
   {
    "id": "rss-44cca9f91e6e8136",
@@ -418,6 +625,33 @@
    "summary": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-484b95718539a2d7",
+   "title": "[分享创造] 如果你也厌烦了 X 上的 AI 账号和 AI 回复，来试试 「Bake for X slop」插件",
+   "url": "https://www.v2ex.com/t/1258612#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:10:00Z",
+   "published_iso": "2026-11-20T09:10:00+00:00",
+   "summary": "为了减少评论区的 slop 内容，我写了一个浏览器插件「Baku for X slop」专门用来屏蔽一些 AI 垃圾话。 设计灵感主要来自于：熊猫吃短信、Adblock 以及时间线中饱受 Slop 账号侵扰的推友们收集的名单。 结合谷歌新上的 decision1 模型，通过大模型实时一次性判断一整个评论区的灌水情况，并在毫秒级别折叠 slop 内容。 支持数据共享和自定义数据飞轮两种模式。可以共用我的决策模型额度，并共享 slop 账号"
+  },
+  {
+   "id": "rss-484d32010cea8b82",
+   "title": "[副业] 距离上次在这个板块发帖总结副业已经过去 310 天，照例回顾下今年的那些副业们",
+   "url": "https://www.v2ex.com/t/1258560#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:05:18Z",
+   "published_iso": "2026-11-20T07:05:18+00:00",
+   "summary": "旧帖： https://www.v2ex.com/t/1185293#reply18 [我也来说说我的 2017-2025\"撸货\"日记] 旧帖回顾，技术支持类已经完全放弃，海鲜市场不推任何流量，正常卖二手电子产品都卖不掉了，两个号都是如此。内存篇，至今手上还有一些货没清掉。撸货的话今年 iPhone18 系列首发就抢到两台，加上后面到货的大概赚了 2000，iPhone Duo 没抢到首发。理财篇就没啥好说的，亏损直线上升到 10W 左"
+  },
+  {
+   "id": "rss-48515f6db0a641a1",
+   "title": "[分享创造] UU 远程也要收费了？我自己做了一个远程控制软件 Airhand ，延迟和效果可能比肩 UU，欢迎 Star ⭐",
+   "url": "https://www.v2ex.com/t/1258609#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:04:35Z",
+   "published_iso": "2026-11-20T09:04:35+00:00",
+   "summary": "airhand 0.3.1 发布：更低延迟，丢包时也更稳 我是 airhand 的开发者，欢迎 Star ⭐ 0.3.1 已经发布。之前大家问的一些问题，我已经在 这个帖子 里回复过了。这次主要介绍新版本。 目前项目还在早期开发阶段，欢迎大家测试反馈 效果对比 话不多说，先上图： 左边 ：网易云游戏 右边 ：airhand 网易云游戏按时长收费，线路和优化应该代表了他们团队的较高水平，所以我拿它来做参考。 测试条件： airhand 中"
+  },
+  {
    "id": "rss-48b937ca6f6e693e",
    "title": "qData 主数据平台开源版 v1.0.0 首发上线：主数据全流程管理能力开放，构建统一可信数据底座",
    "url": "https://www.oschina.net/news/503596",
@@ -425,6 +659,24 @@
    "published": "Mon, 16 Nov 2026 16:55:04 +0800",
    "published_iso": "2026-11-16T08:55:04+00:00",
    "summary": "让核心业务数据有标准、可治理、能共享。 在企业数字化建设过程中，客户、供应商、产品、物料、组织等核心业务数据，广泛存在于 ERP、CRM、MES 等不同业务系统中。 由于各系统的数据标准、编码规则和维护方式存在差异，同一个业务对象可能出现多套编码、重复记录、信息不一致等情况。这不仅增加了跨系统数据整合的难度，..."
+  },
+  {
+   "id": "rss-49dea717267fd7d7",
+   "title": "给 Gemini 道歉，请自觉排队",
+   "url": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Fri, 20 Nov 2026 09:03:13 +0000",
+   "published_iso": "2026-11-20T09:03:13+00:00",
+   "summary": "Gemini 4 真的越来越好用了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-4a4837e9abc4f92b",
+   "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+   "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Fri, 20 Nov 2026 09:17:05 +0000",
+   "published_iso": "2026-11-20T09:17:05+00:00",
+   "summary": "在手机里打开了一个关于 AI 的「平行宇宙」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-4d01538c537b301b",
@@ -454,6 +706,24 @@
    "summary": "OpenAI 在推特上发了句挺少见的开场白：「有些人一直在非常礼貌地问，有些人就只是问。」然后宣布 GPT-6.2 Astra 和 Sol 上线。 两个模型分工很清楚。Astra 是旗舰，定位「为你最难的项目而建」，在专业工作和科学研究的评测上刷新了自己的记录，而每任务成本不到 GPT-6 Astra 的三分之一。官方的说法是，差别会体现在幻..."
   },
   {
+   "id": "rss-4d9d35838d0be055",
+   "title": "[推广] 回帖抽 5 个 $10 额度，Claude Code / Codex 能用",
+   "url": "https://www.v2ex.com/t/1258603#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:47:37Z",
+   "published_iso": "2026-11-20T08:47:37+00:00",
+   "summary": "做了个 API 中转，Claude Code、Codex 都能直接接。 用 CC Switch 一键导入： https://wiki.niceai.dev/guide/cc-switch 官网： https://niceai.dev 回帖留下你的 NiceAI 用户名就算参加，每人一次。 11 月 29 日晚 8 点截止，随机抽 5 位，结果发在本帖，额度直接充到账户。 注册填邀请码 V2EX 再送 $1。"
+  },
+  {
+   "id": "rss-4f2c1ac3b6d5d7ff",
+   "title": "小鼠拳击俱乐部或能解释为什么人类爱观赏暴力事件",
+   "url": "https://www.solidot.org/story?sid=85938",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 13:54:52 +0800",
+   "published_iso": "2026-11-20T05:54:52+00:00",
+   "summary": "人类爱围观暴力事件，无论是电影、游戏还是格斗比赛。科学家一直在争论观看暴力事件是否会让我们变得更具攻击性，但这也可能是一种适应性生存策略。根据发表在《自然》期刊上的一项研究，相比不围观打架的小鼠，观看其它小鼠打架的雄鼠学会了足够的战斗技巧，在面对更强壮、更具有攻击性的对手时能更好的保护自己。研究团队将雄鼠随机分为三组——战斗组、观众组和新手组，对每组小鼠进行为期八天的训练，每天三次，每次十分钟。新手组在单独的房间里玩鼠玩具，观众组则在一"
+  },
+  {
    "id": "rss-4f82c712b5083695",
    "title": "[推广] MiniMax 开源 H3 Image ！一个模型同时生图和改图，最多吃 16 张参考图，还能接 H3 直接出视频",
    "url": "https://www.v2ex.com/t/1258382#reply0",
@@ -461,6 +731,24 @@
    "published": "2026-11-19T14:29:10Z",
    "published_iso": "2026-11-19T14:29:10+00:00",
    "summary": "MiniMax 11 月 11 日发布了图片模型 H3 Image ，权重直接开源，Hugging Face 和 GitHub 都能下载。这次最有意思的是一个模型同时管生图和改图：改图时最多可以传 16 张参考图，在提示词里用 Image 1、Image 2 指代，早期测试的人拿它做同一角色的多姿势、多表情设定图。 另一项也挺实用。 4K 最高大约 1600 万像素，21:9 能出到 6272 × 2688 。它是在 H3 视频模型的基"
+  },
+  {
+   "id": "rss-4f91938e6f26c311",
+   "title": "[清华大学] 在清华读了一年非全后的感受",
+   "url": "https://www.v2ex.com/t/1258591#reply22",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:08:10Z",
+   "published_iso": "2026-11-20T08:08:10+00:00",
+   "summary": "1.世界是个巨大的草台班子，包括清华 2.在清华没有人会督促你学习，需要更多的自制力，你很自由，除了你自己没有人会为你负责 3.清华的绝大部分的学生很努力很卷，很多学生比上班的人累 4.清华的资源多的超出想象，能获得的视野也完全不同 5.如果孩子能考上清华，很建议去读"
+  },
+  {
+   "id": "rss-50e1902275ef7df4",
+   "title": "[全球工单系统] 语雀已经在倒闭倒计时了",
+   "url": "https://www.v2ex.com/t/1258600#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:36:04Z",
+   "published_iso": "2026-11-20T08:36:04+00:00",
+   "summary": "因为语雀支持 MCP 又买了会员尝试了一下 结果发现 MCP 不支持上传附件，也不支持编辑小记的标签 非常失望 申请退款也被拒绝了 再回头看一次语雀 AI 生态的开源项目，基本上没维护了 这一波 AI 知识库的需求原本可以成为一次翻身的机会 结果语雀就交出了这样一份答卷 我可以预言，语雀已经在倒闭倒计时了"
   },
   {
    "id": "rss-51ad90b37fed9f63",
@@ -481,6 +769,15 @@
    "summary": "NGINX 近日被曝出两个高危漏洞：编号 CVE-2026-123633 和 CVE-2026-123007，都能让未认证的攻击者在服务器上执行任意代码。CVSS 4.0 都是 9.2，两个都要求服务器启用了 HTTP/2。 它们由五个团队各自独立发现：Wiz Research、Ikotas Labs、Metnir、Rapid7 和 Xint。Wiz 说他们用的是自己的 AI 工具，还借助 Gemini 4 Car..."
   },
   {
+   "id": "rss-57094ce9eccec8a7",
+   "title": "[程序员] 分享 构建速度可视化工具 - What The Fork",
+   "url": "https://www.v2ex.com/t/1258575#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:44:16Z",
+   "published_iso": "2026-11-20T07:44:16+00:00",
+   "summary": "https://danielchasehooper.com/wtf/ 该工具针对 C++, Rust, CMake 等静态编译项目 在构建阶段进行可视化展示 每个环节编译速度 和 涉及到到的读写文件; 我个人主要使用 C++ CMake ,在头文件 模块和依赖库编译上提供了帮助, 该软件今日正式发布, 有需求的 v 友可以体验下. 免费用户是显示 10%流程的详细信息 (v0.14 及之后) 早期用户 https://danielcha"
+  },
+  {
    "id": "rss-57a96d812d23e97a",
    "title": ":fire: xbatis 1.10.10 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
    "url": "https://www.oschina.net/news/503655",
@@ -497,6 +794,15 @@
    "published": "2026-11-19T13:14:19Z",
    "published_iso": "2026-11-19T13:14:19+00:00",
    "summary": "你会续费吗？"
+  },
+  {
+   "id": "rss-5dae0ef3c0b36a62",
+   "title": "[分享创造] 做了个儿童英语绘本的 WorkBuddy skill，晒一本生成的样例",
+   "url": "https://www.v2ex.com/t/1258565#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:23:58Z",
+   "published_iso": "2026-11-20T07:23:58+00:00",
+   "summary": "最近做了个「儿童英语绘本助手」，刚通过 WorkBuddy 审核，上架价格是 1 元买断。 告诉它孩子几岁、喜欢什么，就能做一本英语绘本。比如：“给 5 岁、喜欢恐龙的孩子做一本 8 页英语绘本，每页一两句，简单一点。”可以导出 PDF，打印出来一起看。 下面这本《Where Is My Little Dinosaur?》是之前生成的样例，讲小朋友到处找小恐龙，最后找到它，一起说晚安。 想试的话，可以在 WorkBuddy 里搜索「儿童"
   },
   {
    "id": "rss-5dc10ee6002f7345",
@@ -526,6 +832,15 @@
    "summary": "PostgreSQL 每个大版本的发布都会带来一批值得关注的新特性。但对于生产环境而言，升级数据库的价值并不仅仅在于获得新的 SQL 语法或者新的功能，更重要的是能否解决现有版本在性能、并发、稳定性以及运维管理方面长期存在的问题。 回顾 PostgreSQL 过去几个版本的发展，可以看到一个比较明显的趋势：数据库正在逐步向更..."
   },
   {
+   "id": "rss-60531456aacc618f",
+   "title": "Casvisor 2.0.0 发布：新增系统账号与自动改密、MySQL 和 PostgreSQL 审计、作业中心",
+   "url": "https://www.oschina.net/news/503687",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 02:03:08 +0800",
+   "published_iso": "2026-11-19T18:03:08+00:00",
+   "summary": "Apache-2.0 开源堡垒机 Casvisor 发布 2.0.0。该版本补齐了系统账号、数据库审计、批量作业、访问申请和审计日志导出等能力，仍是单个 Go 二进制，没有企业版。 系统账号与改密 一个资产现在可以挂多个系统账号（如 root、deploy、readonly），每条权限指定用户能以哪个账号连接。口令和私钥加密存储，浏览器只拿到账号名..."
+  },
+  {
    "id": "rss-6193bf8d78269cb9",
    "title": "伏羲智能决策平台发布 v1.0.0：多智能体协作与决策运营闭环升级",
    "url": "https://www.oschina.net/news/503652",
@@ -542,6 +857,15 @@
    "published": "2026-11-19T14:20:06Z",
    "published_iso": "2026-11-19T14:20:06+00:00",
    "summary": "小弟目前有几个女朋友要养，压力还蛮大的。 不知道有没有赚钱的路子，投资少，见效快的。 谢谢各位老大。"
+  },
+  {
+   "id": "rss-62cfc066bec308d5",
+   "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+   "url": "https://sspai.com/post/118879",
+   "feed_name": "少数派",
+   "published": "Fri, 20 Nov 2026 10:47:52 +0800",
+   "published_iso": "2026-11-20T02:47:52+00:00",
+   "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。 查看全文"
   },
   {
    "id": "rss-634b9f1665e86179",
@@ -571,6 +895,15 @@
    "summary": "腾讯宣布开源 Hy4 flash，该模型的总参数是 220B，每个 token 只激活 12B。这个比例本身就是这次发布的核心卖点。混元团队在模型卡里用了「迄今最具成本效益的 Hy 模型」这个说法，配上另一个数字就更直观了：单任务平均成本只有 Hy4 的 1/20，DeepSeek-V4.1-Flash-1017 的 1/8。 结构上改了三处 相比上一代 Hy4，Hy4 f..."
   },
   {
+   "id": "rss-679e1c32f0717441",
+   "title": "[推广] 9HTTP 代理 IP 优惠：注册即可试用，动态住宅和静态 ISP 七折",
+   "url": "https://www.v2ex.com/t/1258583#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:55:41Z",
+   "published_iso": "2026-11-20T07:55:41+00:00",
+   "summary": "9HTTP ，主要面向跨境电商、开发者和数据团队，提供全球代理 IP 服务。 目前覆盖 195+ 国家和地区，拥有 9000 万+真实住宅 IP ，支持 HTTP 和 SOCKS5 协议，提供三种代理产品： 动态住宅代理 ：支持 IP 自动轮换和粘性会话，按流量计费，适合公开数据采集、SEO 分析和市场调研。 长效静态 ISP ：提供相对固定的 ISP IP，适合需要长期保持网络身份连续性的业务。 无限住宅代理 ：支持带宽和端口配置，适"
+  },
+  {
    "id": "rss-6855615587f2ebf2",
    "title": "韩国严打高考作弊",
    "url": "https://www.solidot.org/story?sid=85924",
@@ -598,6 +931,15 @@
    "summary": "花钱接 API，导入历史记录 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-6ce20464d3a6c570",
+   "title": "[程序员] Goodby GPT, Hello Gemini",
+   "url": "https://www.v2ex.com/t/1258601#reply7",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:42:12Z",
+   "published_iso": "2026-11-20T08:42:12+00:00",
+   "summary": "Gemini 比 GPT 强好多。 我最受不了 GPT 的点就是防御写的贼多，写个文章 10 句起码有 2 句是免责声明。防御代码多我忍了， 但是一篇文章写的跟法律条款一样，跟它强调过好多遍，写入 md，写 skill，什么句式不要用，不要 nagetive，它口头跟你说好好好，转头就换种句式给你文章里掺免责，这是模型长大了到了叛逆期了吗。 我把文章代码交给 Gemini，它主动帮我找到了好几处写得很隐蔽的免责声明。。。 告诉我，不是我"
+  },
+  {
    "id": "rss-6ed8c8435369eb96",
    "title": "[问与答] 问个比较低端的问题，ai 超长思维链进行推导的时候怎么插话？",
    "url": "https://www.v2ex.com/t/1258409#reply5",
@@ -623,6 +965,15 @@
    "published": "Wed, 18 Nov 2026 12:59:07 +0800",
    "published_iso": "2026-11-18T04:59:07+00:00",
    "summary": "本版更新（v1.5.0） 新增 SQL Server 命名实例支持：数据源页新增「实例名」字段（仅 SQL Server 显示），也可在主机填 host\\实例名 并留空端口；SQL Server 2008 R2 等老版本若协商失败，可在连接参数填 {\"tds_version\": \"7.3\"}。 性能提升：数据库连接按参数复用（连接池 LRU 缓存），执行 SQL 与读取表结构不再反复握..."
+  },
+  {
+   "id": "rss-720df0c25b427698",
+   "title": "[程序员] 现在你们还 review ai 写的代码吗",
+   "url": "https://www.v2ex.com/t/1258574#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:42:56Z",
+   "published_iso": "2026-11-20T07:42:56+00:00",
+   "summary": "感觉完全 review 不了啊, 动不动写几千行 simd,模板,内联汇编, 完全 review 不了了, 好沮丧"
   },
   {
    "id": "rss-729a72e1d626864b",
@@ -670,6 +1021,15 @@
    "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。 查看全文"
   },
   {
+   "id": "rss-7694033264dc53c9",
+   "title": "微软发布 7 款“世界级”新模型，全在打同一个算盘",
+   "url": "https://www.oschina.net/news/503701",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 14:52:54 +0800",
+   "published_iso": "2026-11-20T06:52:54+00:00",
+   "summary": "微软一口气发布了七个宣称是“世界级”的 AI 模型，这个数量本身说明策略变了：不是追求一个最强模型，而是用一整个矩阵覆盖不同价位和场景。官方给的理由很务实——token 开销在飙升，但大家要的是那种能 24 小时不间断跑 agent 做实际工程的价位。 七个都是什么 MAI Cyber 2 Flash，主打 7×24 的前沿网络安全防御。在..."
+  },
+  {
    "id": "rss-783a3349540e8737",
    "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
    "url": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -677,6 +1037,33 @@
    "published": "Thu, 19 Nov 2026 00:36:04 +0000",
    "published_iso": "2026-11-19T00:36:04+00:00",
    "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-7887036bd1e2eb2b",
+   "title": "[问与答] 买阿里云的服务器，有返现吗？",
+   "url": "https://www.v2ex.com/t/1258562#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:14:05Z",
+   "published_iso": "2026-11-20T07:14:05+00:00",
+   "summary": "打算购买阿里云的服务器和数据库，以前好像有代理商联系，现在还有吗？有返现吗？"
+  },
+  {
+   "id": "rss-78f206aa94ead89b",
+   "title": "[AI Agent 智能体] 从 WorkBuddy 爆火聊聊 Agent 的发展趋势",
+   "url": "https://www.v2ex.com/t/1258572#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:41:57Z",
+   "published_iso": "2026-11-20T07:41:57+00:00",
+   "summary": "\"2026 年 11 月 18 日，腾讯发布 2026 年第三季度财报，首次披露旗下 AI 办公 Agent 产品 WorkBuddy 日活跃用户突破 1000 万，日均 Token 调用量超 100 万亿，是目前国内大语言模型 Token 消耗量最高的 AI 应用.\" 1 WorkBuddy 爆火到底是因为免费鸡蛋的策略生效了，还是其本身的定位“超级智能体应用”做的足够好？ 2 对比 Qoder,WorkBuddy 内置了足够多的功能"
+  },
+  {
+   "id": "rss-79cbc34db391dd69",
+   "title": "[分享发现] 现在免费聊天额度好少呀",
+   "url": "https://www.v2ex.com/t/1258593#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:11:53Z",
+   "published_iso": "2026-11-20T08:11:53+00:00",
+   "summary": "以前还没遇见过 deepseek 网页端提示额度用完，Gemini 也是。现在大约 4-5 次对话就提示了。额度感觉跟 free 的 claude 差不多。"
   },
   {
    "id": "rss-7b63f2945a7601b8",
@@ -695,6 +1082,15 @@
    "published": "Wed, 18 Nov 2026 15:14:15 +0800",
    "published_iso": "2026-11-18T07:14:15+00:00",
    "summary": "Anthropic 最近在 IPO 路演里给投资人放了一张幻灯片：把自家模型跑上 AMD GPU 需要的软件工作，Claude Mythos Preview 用了大约三天做完，几乎不需要人插手。Anthropic 说这件事过去要花 6 到 12 个月。 先说清楚这三天的边界。它只覆盖「让某一个 Anthropic 模型在 AMD MI355X 上跑到可用的性能水平」这件事，具体是 ..."
+  },
+  {
+   "id": "rss-7ca5f1d11e141094",
+   "title": "[问与答] 最新的 Lenny's 产品大礼包有没有人买？感觉挺值的",
+   "url": "https://www.v2ex.com/t/1258561#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:13:40Z",
+   "published_iso": "2026-11-20T07:13:40+00:00",
+   "summary": "个人刚需：Google AI、Higgsfield、The X Subscription、OpenRouter 感觉这四个就值回票价了，其他的会员等于白送（需要开通 Insider 订阅，400 美元/年）。 想问下有没有什么坑？这些产品中有哪些比较推荐使用 链接： https://www.lennysproductpass.com 补一张 200 刀会员和 400 刀会员共享的权益："
   },
   {
    "id": "rss-7cb166a5d299cc7f",
@@ -805,6 +1201,15 @@
    "summary": "不降智的中转站 https://api.omymodel.net/ GPT 0.25 倍率（不降智） Claude 0.40 倍率 Deepseek 0.60 倍率 随时查看降智测试效果 30 分钟一次 https://api.omymodel.net/animations 注册好账号找客服领取 1 美元"
   },
   {
+   "id": "rss-85bbf9a9e7cc6d34",
+   "title": "[推广] ChatGPT Plus 官方订阅代充值(139 元/月)，欢迎 V 友咨询",
+   "url": "https://www.v2ex.com/t/1258606#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:57:14Z",
+   "published_iso": "2026-11-20T08:57:14+00:00",
+   "summary": "充您自己的帐号，可以续费，不绑定任何 ID 和卡。 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅代充值 139 元/月。 (正版 plus 订阅代充，不需要的话请嘴下留情) https://maxsubs.com/price/"
+  },
+  {
    "id": "rss-860fb3dee0e196f3",
    "title": "Manus 成为 Godot 项目的白金赞助商",
    "url": "https://www.solidot.org/story?sid=85922",
@@ -821,6 +1226,15 @@
    "published": "2026-11-19T15:35:09Z",
    "published_iso": "2026-11-19T15:35:09+00:00",
    "summary": "红米 note 13 pro 开发者选项里都找遍了，也找不到关闭入口了，打电话总是弹出视频彩铃，真是恶心死了"
+  },
+  {
+   "id": "rss-89ebc4b60ad90076",
+   "title": "[Claude] claude 封我，怎么我想用北美大豆包也不给我用啊？",
+   "url": "https://www.v2ex.com/t/1258587#reply10",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:02:14Z",
+   "published_iso": "2026-11-20T08:02:14+00:00",
+   "summary": "我登录 Google Antigravity 时，报错了，节点是台湾的，谷歌邮箱的地区我看是中国的。 有没有好兄弟提点一二，谢谢！"
   },
   {
    "id": "rss-8a01edbd11eb8b16",
@@ -848,6 +1262,15 @@
    "published": "2026-11-19T18:19:25Z",
    "published_iso": "2026-11-19T18:19:25+00:00",
    "summary": "黑五也没活动吗？ 有没有靠谱点的优惠路子？ 另外你们是更推荐 reader only 还是 full？"
+  },
+  {
+   "id": "rss-8bfac8e72a4a8e3a",
+   "title": "[OpenAI] GPT Sol 6.2 拒绝 review 代码",
+   "url": "https://www.v2ex.com/t/1258613#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:10:42Z",
+   "published_iso": "2026-11-20T09:10:42+00:00",
+   "summary": "项目本身是使用 AI 从零开发的，git 仓库的 SOB 都是我自己，想让 Codex 找一找 Bug，结果竟然直接拒绝，换到 Sol 6.1 就没有问题，也是无语了。"
   },
   {
    "id": "rss-8c2b6271f5900ce4",
@@ -913,6 +1336,33 @@
    "summary": "近年来，上海在AI产业方面的政策支持不断加码，AI产业正在成为上海的一张新名片。开源平台作为连接大模型、算力、工具链与应用场景的分发层，成为上海加快建设AI产业链中的一个重点。为此，上海连续出台措施，助力开发者能够更方便地拿到模型、算力和场景，更高效率地把作品变成产品，致力于将上海打造成最懂开发者的城市..."
   },
   {
+   "id": "rss-9484cf825832d4a4",
+   "title": "[生活] 我先跑了, 3500 我就不保卫了",
+   "url": "https://www.v2ex.com/t/1258595#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:26:15Z",
+   "published_iso": "2026-11-20T08:26:15+00:00",
+   "summary": "我已清仓, 感觉良好 清仓完买了台犹豫了好几天的 VPS, 舒服"
+  },
+  {
+   "id": "rss-94a2fe10ab743631",
+   "title": "PHP 8.6 正式发布：更快、更安全、更强大",
+   "url": "https://www.oschina.net/news/503695/php-8-6",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 11:30:12 +0800",
+   "published_iso": "2026-11-20T03:30:12+00:00",
+   "summary": "PHP 8.6 已在 11 月 19 日正式发布。官方给的一句话总结是「更快、更安全、更强大」。 这次的头号新特性是部分函数应用（Partial Function Application）：允许提前提供函数的一部分参数，用占位符留下其余的位置，返回一个 Closure，等剩下的参数传来时才真正调用。 同一个语法还顺手解决了一个老问题——把可调用对象或..."
+  },
+  {
+   "id": "rss-95d38f8361de7ac4",
+   "title": "[Linux] 给 Linux +fcitx5+kimpanel 扩展设计了几套输入法候选框主题，一键安装",
+   "url": "https://www.v2ex.com/t/1258571#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:41:22Z",
+   "published_iso": "2026-11-20T07:41:22+00:00",
+   "summary": "已在 Debian 13 + GNOME Shell 48 + Wayland + fcitx5 + fcitx5-rime 下测试 执行 ./install list 列出主题列表，执行 ./install xxx 即可安装。一键安装，无需登出再登入。 github: https://github.com/hellodk34/gnome-kimpanel-themes 说个插曲：最近用了 wowtype，一开始很不错，但是更新到 wo"
+  },
+  {
    "id": "rss-9633d68df27881b6",
    "title": "[分享创造] 做了一个「无限重开人生副本」小程序，欢迎体验",
    "url": "https://www.v2ex.com/t/1258415#reply0",
@@ -958,6 +1408,24 @@
    "summary": "直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚"
   },
   {
+   "id": "rss-a121b321877779d5",
+   "title": "[Apple] iPhone 跑 Android 的原项目",
+   "url": "https://www.v2ex.com/t/1258618#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:31:14Z",
+   "published_iso": "2026-11-20T09:31:14+00:00",
+   "summary": "项目： https://github.com/Leviidev/Husk 许可： https://github.com/Leviidev/Husk/blob/main/docs/01-licensing.md"
+  },
+  {
+   "id": "rss-a34d90262fb83aa9",
+   "title": "[游戏] [开源公测] 一款为 AI Agent 而生的网页 slg 策略游戏",
+   "url": "https://www.v2ex.com/t/1258590#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:08:00Z",
+   "published_iso": "2026-11-20T08:08:00+00:00",
+   "summary": "2026-11-21 将开启新赛季！！！ 一款为 AI Agent 而生的网页三国策略游戏。 你可以亲自建城、练兵、攻城略地，也可以把一个令牌交给你的 AI，让它 7×24 小时替你运营。 打开网页，Google 或 GitHub 登录，不用下载。 游戏里点一下「复制给 AI 」，文档、地址、令牌一起进剪贴板，直接贴给 Claude 、ChatGPT 、本地模型或者你自己写的脚本，它就自己开始建城、练兵、打仗了。 游戏： https:/"
+  },
+  {
    "id": "rss-a4d06bd7ad795685",
    "title": "[问与答] 微软宣布将于 2027 年 6 月 关闭 To Do，以后用什么？",
    "url": "https://www.v2ex.com/t/1258387#reply2",
@@ -974,6 +1442,15 @@
    "published": "Wed, 18 Nov 2026 15:19:35 +0800",
    "published_iso": "2026-11-18T07:19:35+00:00",
    "summary": "过去几天美国经历了一系列技术故障，全国航班停飞、银行在线服务中断，甚至 NSA 的一个机密通信网络瘫痪。华尔街高管和 NSA 告诉美国国会议员，一系列技术故障的起因是试图修复 AI 发现的系统漏洞。AI 模型在系统中识别了大量漏洞，为尽快修复漏洞而一次性推送了大量补丁，超出了系统的设计承载能力。摩根大通周一将其银行服务中断归咎于软件相关 bug，NSA 周二将其部分网络短暂性能下降归咎于例行维护。"
+  },
+  {
+   "id": "rss-a6932a67a3514ea5",
+   "title": "Jync v2.4.3 AI 助手确认执行与启动诊断",
+   "url": "https://www.oschina.net/news/503710",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:33:08 +0800",
+   "published_iso": "2026-11-20T09:33:08+00:00",
+   "summary": "Jync v2.4.3 新增 AI 运维助手可以执行运行态操作，但每一次都由人确认：启动 / 停止同步任务、立即同步一次、启用 / 停用 / 立即运行 ETL 任务、启停 / 立即运行 / 取消专属迁移、重建 CDC 基线，助手只生成确认卡；点「确认执行」后由服务端按当前账号的角色与资源归属重新校验一次才生效。确认令牌绑定发起账号、5 分..."
   },
   {
    "id": "rss-a75960ecfcba61c9",
@@ -1003,6 +1480,24 @@
    "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶"
   },
   {
+   "id": "rss-abb3eb094539cd67",
+   "title": "[AI Agent 智能体] Command Code 和 OpenCode Go 两个 10 刀套餐怎么选择？",
+   "url": "https://www.v2ex.com/t/1258610#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:05:04Z",
+   "published_iso": "2026-11-20T09:05:04+00:00",
+   "summary": "Command Code 和 OpenCode Go 两个 10 刀套餐怎么选择？ 主要使用 DeepSeek flash 模型"
+  },
+  {
+   "id": "rss-ad78604d99bf33e7",
+   "title": "[Apple] 个人首次搞了个 IOS APP，如果想上架美区，一般比较好的方式或者注意的地方是哪些哇",
+   "url": "https://www.v2ex.com/t/1258596#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:26:46Z",
+   "published_iso": "2026-11-20T08:26:46+00:00",
+   "summary": "第一次开发 iOS App，本来自己玩，现在想着要不要上架下。搜到的首次上架的方案如下，发出来请教下，看看有没有要调整的地方哇 基本背景 产品形态 ：宠物分享（UGC 发帖/评论）+ 1v1 宠物状态 AI 咨询 + 评论区 @AI 提问。 技术部署 ：基本上都用的各家免费的... 就域名和 vps 花了钱，反正自己平时也用 目标地区 ：美/加/英/澳/新。 目前拟定的方案 账号与身份 ：国区 Apple Account，用身份证实名开"
+  },
+  {
    "id": "rss-af0bb0f9e9db44ea",
    "title": "[酷工作] remote 前端开发工程师（seo 方向）/高级全栈工程师（Web / Flutter / Go）/高级后端开发工程师",
    "url": "https://www.v2ex.com/t/1258363#reply0",
@@ -1021,6 +1516,15 @@
    "summary": "CyreneAdmin 是一款面向企业级应用的后台管理系统脚手架，同时支持 Spring Boot 与 Solon 双框架，内置权限控制、用户管理、菜单配置、操作日志等核心模块，助力开发者快速构建安全、可维护的管理后台。最新版本 v1.6.0 已正式发布，主要更新内容如下： Bug Fixes 通过依赖管理锁定 Spring Boot 与 Spring Framework 版本..."
   },
   {
+   "id": "rss-b1f873f636bacd46",
+   "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
+   "url": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Fri, 20 Nov 2026 04:00:17 +0000",
+   "published_iso": "2026-11-20T04:00:17+00:00",
+   "summary": "触屏不是她的全部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
    "id": "rss-b2261d82c368f540",
    "title": "六年 Rust 开发经历，他改变了自己的思考方式",
    "url": "https://www.oschina.net/news/503613/how-rust-changed-me",
@@ -1037,6 +1541,15 @@
    "published": "2026-11-19T23:55:32Z",
    "published_iso": "2026-11-19T23:55:32+00:00",
    "summary": "有没有工作舒服的老哥分享一下现在的状态。 比如：我六年经验，现在在做 java，每天上班都很闲，工作稳定，也看不到裁员风险。"
+  },
+  {
+   "id": "rss-b6cd766490aa0dda",
+   "title": "[宽带症候群] 求助下上海宽带",
+   "url": "https://www.v2ex.com/t/1258558#reply16",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:03:46Z",
+   "published_iso": "2026-11-20T07:03:46+00:00",
+   "summary": "不知道是搞单宽带还是套餐 电信 2000M 180 一个月，300G 流量的 联通 59 一个月，1000M，100G 流量 说电信有可能 2000 跑不到？求推荐"
   },
   {
    "id": "rss-b754ac87d88a888b",
@@ -1066,6 +1579,15 @@
    "summary": ""
   },
   {
+   "id": "rss-b8bb5fbe48ae200d",
+   "title": "[分享创造] 蹭热词做了个小站，没想到小爆了一下",
+   "url": "https://www.v2ex.com/t/1258578#reply8",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:47:29Z",
+   "published_iso": "2026-11-20T07:47:29+00:00",
+   "summary": "前几天做了个 Fortnite 宝箱追踪器： fortnitechesttracker.org 。本来只是想试一试，一个人能不能在活动还热的时候做出一个有人用的小工具，没想到上线几天后，Google Search Console 的单日搜索点击从几十涨到了 10k 多，Adsense 审核太慢，先挂了 adsterra，赚回了 gpt pro 的 token 费，今天排名突然掉了，估计跟广告也有关系，这种短期互动也就热这么几天。 复盘一"
+  },
+  {
    "id": "rss-b8be5ea5da82c8c0",
    "title": "[Apple] 有没有大风扇的 magsafe 无线充？",
    "url": "https://www.v2ex.com/t/1258371#reply0",
@@ -1073,6 +1595,24 @@
    "published": "2026-11-19T12:59:47Z",
    "published_iso": "2026-11-19T12:59:47+00:00",
    "summary": "感觉半导体 magsafe 无线充还是太吵了，如果有用 9CM 这种大风扇的就好了，声音会小很多"
+  },
+  {
+   "id": "rss-b941c26cdbad048f",
+   "title": "[投资] 有什么认可度比较高的股票分析 skill？覆盖 A 股，港股，美股。",
+   "url": "https://www.v2ex.com/t/1258619#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:34:04Z",
+   "published_iso": "2026-11-20T09:34:04+00:00",
+   "summary": "求推荐认可度比较高的股票分析 skill。 主要看中财报分析，基本面分析，估值分析，同行业对比选股，行业上下游定价等等这种比较成熟可操作的方式。 技术分析我本身就不是很相信，自己看看得了，交给 ai 更不靠谱。宏观和新闻各大 APP 已经很完善了，感觉价值不大。"
+  },
+  {
+   "id": "rss-b970f2310ad87aac",
+   "title": "Google「AI Overviews」让网站的搜索流量下降四成",
+   "url": "https://www.oschina.net/news/503698",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 11:57:08 +0800",
+   "published_iso": "2026-11-20T03:57:08+00:00",
+   "summary": "Google 搜索引擎「AI Overviews」服务正在抢走网站的流量。 根据一项随机实验的测试，AI Overview 导致从 Google 搜索结果指向外部网站的点击量下降了四成。 这是随机实验做出来的数字，不是相关性推测。研究者对一部分美国桌面用户隐藏了 AI Overviews，然后和仍能看到的那组做对比。 这个数字背后有一个更直观的画面：..."
   },
   {
    "id": "rss-b9b395060e3f2a97",
@@ -1100,6 +1640,24 @@
    "published": "2026-11-13T00:08:29Z",
    "published_iso": "2026-11-13T00:08:29+00:00",
    "summary": "这里记录每周值得分享的科技内容，周五发布。..."
+  },
+  {
+   "id": "rss-be1194ea13cddb13",
+   "title": "[OpenAI] 有没有需要 ChatGPT 成品号的，100 档，低价出一个",
+   "url": "https://www.v2ex.com/t/1258585#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:59:41Z",
+   "published_iso": "2026-11-20T07:59:41+00:00",
+   "summary": "有没有需要 ChatGPT 成品号的，100 档，低价出一个 600/月； 绿泡泡：cGhpY2xpbg=="
+  },
+  {
+   "id": "rss-be7a9a169a116dff",
+   "title": "[投资] 大 a 下周会不会大涨",
+   "url": "https://www.v2ex.com/t/1258569#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:39:50Z",
+   "published_iso": "2026-11-20T07:39:50+00:00",
+   "summary": "2024 年 9 月 24 日前几天有人发帖问会不会涨 https://v2ex.com/t/1073902 我调侃的说大家都看跌，就可以买，我的玩笑话自己没当回事 今年京东方 a 涨了，很多人就说京东方 a 涨了就是牛市结束的标记，我卖在了最高点，但是后面抄底又还回去了"
   },
   {
    "id": "rss-bf4ae025970679e1",
@@ -1163,6 +1721,15 @@
    "published": "Tue, 17 Nov 2026 15:06:13 +0800",
    "published_iso": "2026-11-17T07:06:13+00:00",
    "summary": "三个仓库同一批推送：Laravel 5.1、Laravel 9、Laravel 13 各管一段 PHP 版本区间，装完只有核心模块。 新增的是 Laravel 13 仓库，composer.json 要求 PHP ^8.3，本机在 8.5.12 上跑通了安装和演示站。三个仓库共用同一套 ModStart 6.0.0 底座。装配也换了思路：默认只装核心模块，没有会员、没有 CMS、没有博客。你不需..."
+  },
+  {
+   "id": "rss-c4df9eb3ff6e75ad",
+   "title": "大脑的言语感知中枢也能生成口语词汇",
+   "url": "https://www.solidot.org/story?sid=85941",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 15:05:32 +0800",
+   "published_iso": "2026-11-20T07:05:32+00:00",
+   "summary": "大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。利用高分辨率皮层脑电图，研究人员记录了 28 名参与者在执行说话和聆听任务时大脑皮层中单个神经元的活动。这些研究揭示了"
   },
   {
    "id": "rss-c69cd1936e02938b",
@@ -1237,6 +1804,15 @@
    "summary": "🔥 拾趣 (Magpie) v0.1.22 发布：新增应用 Anki，学单词背英语一键导入 Anki 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、Anki 、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，..."
   },
   {
+   "id": "rss-cb875835ce55d7dd",
+   "title": "[酷工作] 招一位 AI 产品全栈工程师，跟我们一起做有趣的产品（远程办公）",
+   "url": "https://www.v2ex.com/t/1258604#reply9",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:52:05Z",
+   "published_iso": "2026-11-20T08:52:05+00:00",
+   "summary": "我们做了一个 AI 记忆层工具 Hipo Hipo： https://hipohipo.ai/?utm_source=v2ex 我们想给它招一位全栈工程师，负责 HipoHipo.ai 的前后端应用开发，配合产品经理与设计师，把产品想法落地，和团队一起快速迭代产品、验证增长想法。 我们希望你： 有丰富的架构设计经验，在 2022 年之前就有扎实的前后端工程经验，在此基础上，善用各类 AI 快速交付产品，且能识别 AI 做出的错误决定。 "
+  },
+  {
    "id": "rss-cc82e87b9fa15aed",
    "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
    "url": "https://www.solidot.org/story?sid=85926",
@@ -1253,6 +1829,24 @@
    "published": "Tue, 17 Nov 2026 10:54:07 +0800",
    "published_iso": "2026-11-17T02:54:07+00:00",
    "summary": "一位开发者在让 AI 帮忙翻 Windows 二进制文件时，在 MissionControlAggregator.dll 里翻到了一份名单：codex.exe、claude.exe、copilot.exe、cursor.exe，再往下还有 python.exe、dotnet.exe、gcc.exe、code.exe。 一个系统 DLL 为什么要认识编程助手？ 他把这个疑问追下去了。结论是：这个组件确实在记录你用过哪些 AI..."
+  },
+  {
+   "id": "rss-cd1abe8fb386f687",
+   "title": "[奇思妙想] 关于未来新 app 的一些想法。",
+   "url": "https://www.v2ex.com/t/1258599#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:35:14Z",
+   "published_iso": "2026-11-20T08:35:14+00:00",
+   "summary": "AI 让陈旧晦涩代码，变得容易阅读。 每个人都可以自己整理需求，然后让 ai 出代码，接着自己验证功能实现。 微型需求变得，信手拈来。 自己的设备，性能其实也很好，比如手机，性能很好，但部署可能存在问题。 另外，家中的个人 PC，也可以利用起来，但网络可能存在问题，一般家里电脑都处于局域网，且大概率没有公网 IP。 我们需要推想我们的原始需求。 我们的日常，吃喝拉撒玩，健康，人际关系的维护。计算机作为效率工具，辅助我们，将那些日常，做得"
+  },
+  {
+   "id": "rss-cd6f1249296e793c",
+   "title": "qData 数据中台开源版 v1.6.8 发布：支持敏感等级关联数据资产，完善数据分类分级管理",
+   "url": "https://www.oschina.net/news/503708",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:04:13 +0800",
+   "published_iso": "2026-11-20T09:04:13+00:00",
+   "summary": "维护客户信息表时，手机号、客户编号等字段往往需要按管理要求设置不同敏感等级。 实际使用中，修改字段说明等其他属性时，原有等级能否保留；分级要求变化时，能否修改或清除绑定，直接影响资产维护效率。 qData 数据中台开源版 v1.6.8 围绕这些场景更新：资产字段编辑界面支持敏感等级绑定，消息通知、分类、项目角色和..."
   },
   {
    "id": "rss-ce76426bf76ac5d6",
@@ -1282,6 +1876,15 @@
    "summary": "[......] 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。"
   },
   {
+   "id": "rss-d1daf2bdfff31414",
+   "title": "Jync v2.4.1 · TDengine 轮询源与布尔 / 改列修复",
+   "url": "https://www.oschina.net/news/503686",
+   "feed_name": "OSCHINA",
+   "published": "Thu, 19 Nov 2026 23:50:25 +0800",
+   "published_iso": "2026-11-19T15:50:25+00:00",
+   "summary": "新增 TDengine 轮询源：新增 TDengine 3.x 预设（预设数 35 种），经官方驱动 3.10.0 的 WebSocket 接口（6041 端口）读取，需自备 taos-jdbcdriver-3.10.0-dist.jar（应用不内置）。元数据走 information_schema 与 DESCRIBE，超级表进入同步清单、子表不重复列举；支持 ts + 声明主键或声明主键 + TAG 的复合主键分块全..."
+  },
+  {
    "id": "rss-d29fa1d499dfa0bc",
    "title": "微软编程模型「MAI Code」上新，用 Claude Opus 5.5 百分之五的价格拿到 96% 的性能",
    "url": "https://www.oschina.net/news/503644/ms-mai-code-2-and-mai-code-2-flash",
@@ -1307,6 +1910,15 @@
    "published": "Wed, 18 Nov 2026 08:25:17 +0800",
    "published_iso": "2026-11-18T00:25:17+00:00",
    "summary": "给它一句话，它自己读文件、改文件、跑命令，循环到给出结论。 而它本身只有一个 9.3 MB 的静态二进制：拷到任何 x86-64 Linux 上就能跑， 不要 node、不要 python、不要 glibc、不要容器。 官网：https://uya-lang.github.io/uya-agent/ GitHub：https://github.com/uya-lang/uya-agent 0. 先别讲道理，先跑一下 curl..."
+  },
+  {
+   "id": "rss-d491dcff0ab4114d",
+   "title": "[分享创造] C 盘又满了？我写了个开源的 Windows 磁盘空间分析和迁移工具",
+   "url": "https://www.v2ex.com/t/1258589#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:07:22Z",
+   "published_iso": "2026-11-20T08:07:22+00:00",
+   "summary": "起因是自己 C 盘常年红，下的东西越来越多，用 360 和 SpaceSniffer 发现清不动了，就自己写了个分析磁盘和迁移的工具。 先上链接： https://github.com/AriesYB/disklens MIT 开源，Rust + Tauri 2 定位和 WizTree / SpaceSniffer 类似，但有几个不太一样的点： 一键迁移。右键目录迁到其他盘：预检 → 复制 → 校验 → junction 切换，程序无感"
   },
   {
    "id": "rss-d50fbf43e4147e5b",
@@ -1336,6 +1948,15 @@
    "summary": "PHP 安全团队于 11 月 18 日发布预告，计划在北京时间 11 月 19 日 22:00–22:30 发布安全修复版本。 此次更新属于 PHP 常规发布周期，将修复影响所有受支持版本的安全漏洞，其中最高严重等级为 CRITICAL。 需要注意的是，官方明确说明，相关 CRITICAL 级别漏洞需要非默认配置或不常见的运行环境才会触发，具体漏洞细节及修复版本号尚未公布。 宝塔已安排技术人员今晚值守，在 PHP 官方发布新版本后尽快开"
   },
   {
+   "id": "rss-d6c0fcf44ef028de",
+   "title": "哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”",
+   "url": "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:00:13 +0800",
+   "published_iso": "2026-11-20T09:00:13+00:00",
+   "summary": "哈佛大学两位博士候选人做了一份工作论文，把 AI 编程 Agent 的真实效果算了一遍。样本是 718 家公司、725938 名员工。 结论不太好看。 用上 AI 编程 Agent 之后，人均每月新增代码行数从 5017 涨到 6511，多了约 30%。提交数增长 20%，Pull Request 增长 23%。该有的增长都出现了。 但活干完了吗？没有。 论文用 Jira i..."
+  },
+  {
    "id": "rss-d8298f8aec939ac9",
    "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
    "url": "https://www.solidot.org/story?sid=85935",
@@ -1345,6 +1966,15 @@
    "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角"
   },
   {
+   "id": "rss-da646bb60847910d",
+   "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
+   "url": "https://www.solidot.org/story?sid=85940",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 14:49:01 +0800",
+   "published_iso": "2026-11-20T06:49:01+00:00",
+   "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（si"
+  },
+  {
    "id": "rss-da7a5ef97d22677b",
    "title": "[宽带症候群] 杭州移动 NAT1 家宽被半夜修改配置",
    "url": "https://www.v2ex.com/t/1258405#reply0",
@@ -1352,6 +1982,15 @@
    "published": "2026-11-19T20:09:51Z",
    "published_iso": "2026-11-19T20:09:51+00:00",
    "summary": "如题。到十一二点还好好的，凌晨两三点的时候反复出现加载不出，一看路由器后台是宽带被断开连接了。 重新连接上去，稳定以后，发现我的宽带 ip 被从杭州移动的家庭宽带 ip 段 39.182.12.xxx 和 39.182.2.xxx ，切换到湖州移动的机房 ip 段 39.175.211.xxx 和 39.175.194.xxx ，并且网络类型从原来家庭宽带 ip 段的 NAT1/2 变成了严格全锥形 NAT4，每次端口都不一样。。连接稳"
+  },
+  {
+   "id": "rss-dc0f440294e2919c",
+   "title": "[分享创造] 做了个 mac 风格的 alt tab 免费",
+   "url": "https://www.v2ex.com/t/1258576#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:44:21Z",
+   "published_iso": "2026-11-20T07:44:21+00:00",
+   "summary": "我是窗口开巨多的人，windows 的缩略图根本看不清，图标做迷你的一小个，想找到对应窗口得仔细看 switcheroo 不错，但已经常年不更新了，速度也慢 所以一直想找一个 mac 风格的切换软件，以前还在这里发过贴问 现在有 AI 了分分钟自己撸一个 于是有了 https://macalttab.pages.dev/ 免费，供效率软件同好品鉴"
   },
   {
    "id": "rss-dcdfcc6f8b514476",
@@ -1408,6 +2047,15 @@
    "summary": "按照监管和越来越严的法规，似乎应该越来越严格，个人用户不是收入大头。 这个疯狂的公司，竟然就上市了，真 X 啊。"
   },
   {
+   "id": "rss-e21c3deeb1b28f33",
+   "title": "[教育] 家里有孩子中高考阶段的，这个错题本软件挺不错",
+   "url": "https://www.v2ex.com/t/1258563#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:17:47Z",
+   "published_iso": "2026-11-20T07:17:47+00:00",
+   "summary": "我也是孩子要用，让我帮她配置 AI Key 才注意到这个软件，确实挺实用，而且几个同学共享题库，或者分别整理试卷一起汇总，效率非常高，另外这个软件自己可以当笔记用，我现在已经把印象的所有笔记全转过来了，上万条记录。 特点： 可以配置多个 AI 模型的 Key，为不同功能设置不同的 AI，比如理科题目用 Gemini Carbon，Deepseek Pro，文科用 Gemini Hydrogen 学科比较全，有上百个教练，我分析是针对每一"
+  },
+  {
    "id": "rss-e3b42007712ba634",
    "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
    "url": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -1415,6 +2063,24 @@
    "published": "Wed, 18 Nov 2026 03:40:19 +0000",
    "published_iso": "2026-11-18T03:40:19+00:00",
    "summary": "Rimac 已经拿到了大结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-e3d362866b1034c5",
+   "title": "蚂蚁 OceanBase 团队开源 PowerContext，跨对话的 Agent 记忆服务",
+   "url": "https://www.oschina.net/news/503704/oceanbase-powercontex",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 15:55:30 +0800",
+   "published_iso": "2026-11-20T07:55:30+00:00",
+   "summary": "蚂蚁 OceanBase 团队开源了名为「PowerContext」的项目，解决的问题很具体：上下文不该死在一次对话里。 它的定位是「给 AI agent 用的开源上下文服务」。把工作中那些耐久的东西——决策、约束、证据、进度——从对话里搬到外面，这样下一个会话、下一个 agent，或者下一个人接手时，能从当前状态继续，不用重读一遍聊天..."
+  },
+  {
+   "id": "rss-e3d65c3699d9978f",
+   "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+   "url": "https://www.solidot.org/story?sid=85943",
+   "feed_name": "Solidot",
+   "published": "Fri, 20 Nov 2026 16:25:03 +0800",
+   "published_iso": "2026-11-20T08:25:03+00:00",
+   "summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1起）、使用微型摄像"
   },
   {
    "id": "rss-e3db77e6bdd0dd3d",
@@ -1462,6 +2128,15 @@
    "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技"
   },
   {
+   "id": "rss-e8c2c1473612216e",
+   "title": "[酷工作] 怎么写好前端简历？",
+   "url": "https://www.v2ex.com/t/1258586#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T08:01:05Z",
+   "published_iso": "2026-11-20T08:01:05+00:00",
+   "summary": "主要工作就是 agent 方面的前端工作，aigc、数字人对话、a2ui 这些大方向。 但是细节方面不知道怎么写更好，有什么好的 skill 可以提炼吗？"
+  },
+  {
    "id": "rss-ea1d4345bd7c2c0e",
    "title": "[问与答] 孤独是人生的常态还是仅仅只是我一个人的感受",
    "url": "https://www.v2ex.com/t/1258377#reply1",
@@ -1469,6 +2144,15 @@
    "published": "2026-11-19T13:33:16Z",
    "published_iso": "2026-11-19T13:33:16+00:00",
    "summary": "上个月刚满五年喜提五天年假,正好赶上孩子秋假,GTA6 发售,从周一休到周五 休息了两天,突然发现不去上班,在家里竟然无所事事,没有出去玩的念头,也没有玩游戏的激情. 没有朋友,玩到唐尼被翠鸟帮喂猪,卡尔还能为他感到担忧,虽然这里包含了很多演绎的成分，但是突然意识到我没有一个交心的朋友,也没有一个可以倾诉的同伴. 同样的感觉我的人生已经被上班占据了所有的空间,不上班竟然不知道闲下来能干些什么事情。"
+  },
+  {
+   "id": "rss-eab1d9f4ed2222c2",
+   "title": "[OpenAI] gpt-6.2-sol 比 6.1-sol 省了三分之一的额度消耗",
+   "url": "https://www.v2ex.com/t/1258573#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T07:42:27Z",
+   "published_iso": "2026-11-20T07:42:27+00:00",
+   "summary": "用了 2 天 gpt-6.2-sol ，是比 6.1-sol 省一些额度的。5 小时和周额度都省了**33%**。"
   },
   {
    "id": "rss-eb58888ce50c1804",
@@ -1514,6 +2198,15 @@
    "published": "2026-11-19T13:29:01Z",
    "published_iso": "2026-11-19T13:29:01+00:00",
    "summary": "买第二台电脑的时候，我想的是它能帮自己做什么。真正摆到桌上，才发现还得考虑：键盘和鼠标怎么办？ 同样用途的设备再买一遍，多花一笔钱，桌上也更挤。如果还要在另一台开会，麦克风和耳机又得重新安排。于是我做了 SynDesk，希望已经用顺手的一套设备，也能照顾另一台电脑。 现在能做什么 同一局域网内，按实际屏幕布局跨电脑移动鼠标，键盘跟随输入。 共享剪贴板，接续文字、链接和代码片段，具体格式取决于系统和版本。 共享真实麦克风，接收端会议软件可"
+  },
+  {
+   "id": "rss-ee3ecf41bc8b386c",
+   "title": "Cpro：一款国产通用C系列拼音编程语言",
+   "url": "https://www.oschina.net/news/503694",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 11:28:47 +0800",
+   "published_iso": "2026-11-20T03:28:47+00:00",
+   "summary": "Cpro 是一门通用型 C 系列编程语言，在兼容 C 语言基础生态思想的前提下，对语法、编译模型与安全特性做了重新设计，可用于后端服务、桌面程序、嵌入式、工具开发等多种开发场景，并非仅面向底层开发。 该语言延续 C 系列贴近硬件、运行高效的设计理念，同时针对传统 C 语言容易出现的内存越界、类型不严谨等问题增加约束..."
   },
   {
    "id": "rss-eed8492d036362b2",
@@ -1579,6 +2272,15 @@
    "summary": "我女朋友上学需要缴纳学费 18w，小弟没有攒钱，想贷款一下，怎么找利率最低的方式？ 无法助学贷，上的是 HK，家庭条件也不符合要求。 我目前工资到手每个月是十几，月消费应该是 6-8，无房无车"
   },
   {
+   "id": "rss-f4166438048ca325",
+   "title": "[北京] 下个月就拿名额走了 这个在这个团队很多年了 走之前请同组人吃个饭是否合适呢",
+   "url": "https://www.v2ex.com/t/1258608#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T09:03:22Z",
+   "published_iso": "2026-11-20T09:03:22+00:00",
+   "summary": "最近基本不怎么干活了 终于熬到了名额 走之前请团队吃个饭道别一下不知道是否合适 5 个人左右吧 最近部门都挺累的"
+  },
+  {
    "id": "rss-f5554cf3a7334063",
    "title": "phimint v0.11.0 发布：不依赖 Node.js 和 Python，1 核 1G 跑起一个终端编码 agent",
    "url": "https://www.oschina.net/news/503617",
@@ -1586,6 +2288,15 @@
    "published": "Tue, 17 Nov 2026 14:55:39 +0800",
    "published_iso": "2026-11-17T06:55:39+00:00",
    "summary": "phimint v0.11.0 已发布（2026-11-16）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码。这一篇讲讲它的三件事：装上就跑、诊断秒回、来回很少。 装上就跑： 不依赖 Node.js，也不需要 Python 它是一个静态二进制。不用先装 Node.js，也不用配 Python 环..."
+  },
+  {
+   "id": "rss-f61cab869d46b034",
+   "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+   "url": "https://sspai.com/post/119327",
+   "feed_name": "少数派",
+   "published": "Fri, 20 Nov 2026 15:34:26 +0800",
+   "published_iso": "2026-11-20T07:34:26+00:00",
+   "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ... 查看全文"
   },
   {
    "id": "rss-f66e5c358929e030",
