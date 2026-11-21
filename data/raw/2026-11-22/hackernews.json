@@ -1,21 +1,57 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-22T00:00:19.156942+08:00",
- "count": 25,
+ "updated_at": "2026-11-22T06:00:11.813300+08:00",
+ "count": 40,
  "items": [
+  {
+   "id": "hn-50532417",
+   "title": "Tropical Rainforests Species may be surprisingly young",
+   "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50532417",
+   "score": 26,
+   "comments": 11,
+   "author": "PaulHoule",
+   "time_iso": "2026-11-17T15:08:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 26
+    }
+   ]
+  },
   {
    "id": "hn-50532613",
    "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
    "hn_url": "https://news.ycombinator.com/item?id=50532613",
-   "score": 352,
-   "comments": 115,
+   "score": 634,
+   "comments": 204,
    "author": "dvaplima",
    "time_iso": "2026-11-17T15:22:57+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 352
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 634
+    }
+   ]
+  },
+  {
+   "id": "hn-50533517",
+   "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+   "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+   "hn_url": "https://news.ycombinator.com/item?id=50533517",
+   "score": 9,
+   "comments": 8,
+   "author": "chippy",
+   "time_iso": "2026-11-17T16:12:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 9
     }
    ]
   },
@@ -32,6 +68,22 @@
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50546495",
+   "title": "Exponential Behavior in Magic: The Gathering",
+   "url": "https://levineuwirth.org/essays/exponential-magic/",
+   "hn_url": "https://news.ycombinator.com/item?id=50546495",
+   "score": 71,
+   "comments": 55,
+   "author": "neuwirth",
+   "time_iso": "2026-11-18T14:07:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 71
     }
    ]
   },
@@ -68,6 +120,38 @@
    ]
   },
   {
+   "id": "hn-50548136",
+   "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+   "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+   "hn_url": "https://news.ycombinator.com/item?id=50548136",
+   "score": 7,
+   "comments": 0,
+   "author": "maybevoid",
+   "time_iso": "2026-11-18T16:17:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50550015",
+   "title": "How I made a custom game engine for Satelital",
+   "url": "https://spectralorbit.com/blog/satelital_game_engine",
+   "hn_url": "https://news.ycombinator.com/item?id=50550015",
+   "score": 22,
+   "comments": 3,
+   "author": "todsacerdoti",
+   "time_iso": "2026-11-18T18:23:03+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
    "id": "hn-50574383",
    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
@@ -96,6 +180,22 @@
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 2779
+    }
+   ]
+  },
+  {
+   "id": "hn-50575644",
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "hn_url": "https://news.ycombinator.com/item?id=50575644",
+   "score": 417,
+   "comments": 238,
+   "author": "lapcat",
+   "time_iso": "2026-11-20T15:03:31+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 417
     }
    ]
   },
@@ -136,14 +236,18 @@
    "title": "I'm quite pleased by the tech architecture of my art website",
    "url": "https://klauria.tech/klauria-art/",
    "hn_url": "https://news.ycombinator.com/item?id=50577991",
-   "score": 15,
-   "comments": 2,
+   "score": 121,
+   "comments": 29,
    "author": "evakhoury",
    "time_iso": "2026-11-20T17:03:39+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 15
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 121
     }
    ]
   },
@@ -168,14 +272,18 @@
    "title": "We promoted developers into architects without informing them",
    "url": "https://manidoraisamy.com/developer-to-architect.html",
    "hn_url": "https://news.ycombinator.com/item?id=50579331",
-   "score": 516,
-   "comments": 288,
+   "score": 564,
+   "comments": 304,
    "author": "QueensGambit",
    "time_iso": "2026-11-20T18:17:51+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 516
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 564
     }
    ]
   },
@@ -184,14 +292,18 @@
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
    "hn_url": "https://news.ycombinator.com/item?id=50579568",
-   "score": 2274,
-   "comments": 1077,
+   "score": 2364,
+   "comments": 1146,
    "author": "jasondavies",
    "time_iso": "2026-11-20T18:33:14+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 2274
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 2364
     }
    ]
   },
@@ -200,14 +312,50 @@
    "title": "Inkling 2 Mini",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
    "hn_url": "https://news.ycombinator.com/item?id=50581260",
-   "score": 1174,
-   "comments": 225,
+   "score": 1331,
+   "comments": 273,
    "author": "jasondavies",
    "time_iso": "2026-11-20T20:12:19+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 1174
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 1331
+    }
+   ]
+  },
+  {
+   "id": "hn-50582069",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "hn_url": "https://news.ycombinator.com/item?id=50582069",
+   "score": 246,
+   "comments": 73,
+   "author": "rafaelc",
+   "time_iso": "2026-11-20T21:03:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 246
+    }
+   ]
+  },
+  {
+   "id": "hn-50583028",
+   "title": "Getting the mind to steer the body to steer you",
+   "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+   "hn_url": "https://news.ycombinator.com/item?id=50583028",
+   "score": 48,
+   "comments": 20,
+   "author": "jger15",
+   "time_iso": "2026-11-20T22:11:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 48
     }
    ]
   },
@@ -232,14 +380,18 @@
    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
    "url": "https://news.ycombinator.com/item?id=50583761",
    "hn_url": "https://news.ycombinator.com/item?id=50583761",
-   "score": 380,
-   "comments": 392,
+   "score": 553,
+   "comments": 620,
    "author": "LetThingsBeDiff",
    "time_iso": "2026-11-20T23:18:32+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 380
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 553
     }
    ]
   },
@@ -312,14 +464,18 @@
    "title": "RCE in Gnupg",
    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
    "hn_url": "https://news.ycombinator.com/item?id=50587208",
-   "score": 137,
-   "comments": 46,
+   "score": 208,
+   "comments": 85,
    "author": "gdgghhhhh",
    "time_iso": "2026-11-21T08:32:58+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 137
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 208
     }
    ]
   },
@@ -341,17 +497,21 @@
   },
   {
    "id": "hn-50587875",
-   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "title": "My monitor was cutting my download speed by 75%",
    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
    "hn_url": "https://news.ycombinator.com/item?id=50587875",
-   "score": 189,
-   "comments": 75,
+   "score": 399,
+   "comments": 205,
    "author": "soheilpro",
    "time_iso": "2026-11-21T10:36:32+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 189
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 399
     }
    ]
   },
@@ -373,33 +533,153 @@
   },
   {
    "id": "hn-50588982",
-   "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+   "title": "Detonating a pile of lead azide",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
    "hn_url": "https://news.ycombinator.com/item?id=50588982",
-   "score": 175,
-   "comments": 112,
+   "score": 451,
+   "comments": 299,
    "author": "beginning_end",
    "time_iso": "2026-11-21T13:23:14+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 175
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 451
     }
    ]
   },
   {
    "id": "hn-50589618",
-   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "title": "Lean verification of the Riemann Hypothesis",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
    "hn_url": "https://news.ycombinator.com/item?id=50589618",
-   "score": 127,
-   "comments": 88,
+   "score": 676,
+   "comments": 543,
    "author": "g-b-r",
    "time_iso": "2026-11-21T14:36:45+00:00",
    "history": [
     {
      "t": "2026-11-22T00:00:19.156942+08:00",
      "score": 127
+    },
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 676
+    }
+   ]
+  },
+  {
+   "id": "hn-50590279",
+   "title": "Show HN: Zero C# – C# without a runtime or GC",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50590279",
+   "score": 102,
+   "comments": 78,
+   "author": "reverseblade2",
+   "time_iso": "2026-11-21T15:39:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 102
+    }
+   ]
+  },
+  {
+   "id": "hn-50590441",
+   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+   "url": "https://math.mit.edu/~drew/grh/",
+   "hn_url": "https://news.ycombinator.com/item?id=50590441",
+   "score": 69,
+   "comments": 23,
+   "author": "Bluestein",
+   "time_iso": "2026-11-21T15:54:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50591260",
+   "title": "PostgreSQL Extensions in Go",
+   "url": "https://jespino.github.io/gopgext/",
+   "hn_url": "https://news.ycombinator.com/item?id=50591260",
+   "score": 96,
+   "comments": 11,
+   "author": "valyala",
+   "time_iso": "2026-11-21T17:08:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 96
+    }
+   ]
+  },
+  {
+   "id": "hn-50591853",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "hn_url": "https://news.ycombinator.com/item?id=50591853",
+   "score": 264,
+   "comments": 55,
+   "author": "k__",
+   "time_iso": "2026-11-21T18:02:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 264
+    }
+   ]
+  },
+  {
+   "id": "hn-50592097",
+   "title": "Upload2Shell · CVE-2026-125396",
+   "url": "https://pwn.ai/upload2shell",
+   "hn_url": "https://news.ycombinator.com/item?id=50592097",
+   "score": 49,
+   "comments": 12,
+   "author": "f311a",
+   "time_iso": "2026-11-21T18:29:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50593637",
+   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+   "hn_url": "https://news.ycombinator.com/item?id=50593637",
+   "score": 4,
+   "comments": 1,
+   "author": "marojejian",
+   "time_iso": "2026-11-21T21:06:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50593679",
+   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+   "url": "https://tasklet.ai/careers",
+   "hn_url": "https://news.ycombinator.com/item?id=50593679",
+   "score": 1,
+   "comments": 0,
+   "author": "mayop100",
+   "time_iso": "2026-11-21T21:11:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T06:00:11.813300+08:00",
+     "score": 1
     }
    ]
   }

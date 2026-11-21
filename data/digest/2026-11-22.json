@@ -1,7 +1,94 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T00:00:30.388167+08:00",
+ "generated_at": "2026-11-22T06:00:21.980690+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Lean verification of the Riemann Hypothesis",
+     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+     "meta": "+549 分 / 6.0 小时 · 现 ⭐ 676",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+     "meta": "+282 分 / 6.0 小时 · 现 ⭐ 634",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Detonating a pile of lead azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "meta": "+276 分 / 6.0 小时 · 现 ⭐ 451",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "My monitor was cutting my download speed by 75%",
+     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+     "meta": "+210 分 / 6.0 小时 · 现 ⭐ 399",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+     "url": "https://news.ycombinator.com/item?id=50583761",
+     "meta": "+173 分 / 6.0 小时 · 现 ⭐ 553",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Inkling 2 Mini",
+     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "meta": "+157 分 / 6.0 小时 · 现 ⭐ 1331",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I'm quite pleased by the tech architecture of my art website",
+     "url": "https://klauria.tech/klauria-art/",
+     "meta": "+106 分 / 6.0 小时 · 现 ⭐ 121",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hurried Announcement: Alessandro Masullo GRH",
+     "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+     "meta": "+90 分 / 6.0 小时 · 现 ⭐ 2364",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "RCE in Gnupg",
+     "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+     "meta": "+71 分 / 6.0 小时 · 现 ⭐ 208",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We promoted developers into architects without informing them",
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "meta": "+48 分 / 6.0 小时 · 现 ⭐ 564",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -135,8 +222,88 @@
    "errors": [],
    "items": [
     {
+     "title": "[分享创造] 四款自研 Edge 插件的最新版，全部在真实 Firefox 上跑通了",
+     "url": "https://www.v2ex.com/t/1258836#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "过去一周在给四款自研浏览器插件做 Firefox 适配，今晚最后一块拼上了。记录一下真实数据，不吹： 验证环境：真实 Firefox 160.0.1（非模拟），selenium 驱动，扩展包是真实构建产物（探针只加了 marker 脚本，产品文件逐字节一致）。 四条线当前最新版的 Firefox 实测结果： ConvoExport v1.0.3（ChatGPT / Claude 对话导出）：握手 ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
+     "url": "https://www.v2ex.com/t/1258834#reply2",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "白嫖谷歌学生 Pro 挺久，说人话是最大的特色，前两个月因为 ChatGPT 狂砍 plus 额度那时就停掉了，现在这时间点再看，停掉 ChatGPT 是对的，新模型拉了额度也烧得非常快。 以前的流程是：ChatGPT 做开发写脚本写逻辑，Antigravity 挂自动化用 3.8 Flash 定时跑流程执行。 停掉 ChatGPT 后：DeepSeek Flash 在 ChatGPT 的开发上迭",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] Carbon or Neon? Astra 6.2 or 6?",
+     "url": "https://www.v2ex.com/t/1258833#reply1",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "我是真被搞糊涂了…… Carbon 依然是最强对吗？ Neon 是否也是类似 Astra 6.2，属于性价比版？巧思阉割版？（实际真被割到了） Astra 6.2 虽然跑分高，但 6 依然才是最强对吗？（实际额度消耗不会说谎对吗？）",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Android] 搞机佬撑起 CVE 利用半边天",
+     "url": "https://www.v2ex.com/t/1258832#reply2",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "通往自由的道路就是违背常规吗",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了一个 Android 文件管理器",
+     "url": "https://www.v2ex.com/t/1258831#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "从后疫情时代的 2023 过来，浑浑噩噩过了三年多，转眼间 2026 要结束了。 突然看到当年的 ban 被解除了，想着发一发自己最近在做的项目吧。 最近几个月间一直遇到一个问题，平常只带手机在外面有时直接拿手机环境 vibe，有时连到家里电脑上 vibe，基本上用的 Termux 和 proot-distro。 Termux 有一个很严重的问题就是对中文输入法支持不佳。打 prompt 的时候需",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 网页划线高亮插件 Highlighter：Edge 上 200+ 安装，周活还在涨",
+     "url": "https://www.v2ex.com/t/1258829#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "做了个本地优先的网页划线高亮插件 Highlighter，Edge 上已上架（v0.4.1）。 做法：选中文字即可高亮，引文锚定——刷新、重访都不会丢；备注、搜索、导出都免费；支持导入 Weava 的 CSV。数据只存浏览器本地，不用账号。 进展（实数，无修饰）： 累计安装 206 次（10 月 139、11 月 67） 周活 49 → 68 → 70 → 77，四周在涨；日均安装约 4.2 次，",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 做了个 Android 小工具，把美区 SIM 设置和应用语言放到了一起",
+     "url": "https://www.v2ex.com/t/1258828#reply1",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "起因是想在中文系统下用英文版的 Claude 和 ChatGPT，平时用 TikTok 又要单独折腾 SIM 卡的地区设置。之前这两件事加起来要装 Shizuku、改卡工具，再加一个管应用语言的，就想着干脆放到一个 App 里。 做出来叫美境（Stateside），支持 Android 14 到 17，免 Root，也不用额外装 Shizuku。 https://github.com/Chiiz0",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[NAS] 刚才群辉推送了 Version: 7.4.1-90080 Update 2",
+     "url": "https://www.v2ex.com/t/1258826#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "介于当前网络环境推荐大家尽快更新哦",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
+     "url": "https://www.v2ex.com/t/1258824#reply8",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "1.上下文不连贯，容易丢失 2.回答极其简陋，毫无参考价值 3.语音识别纠正接近于无 总结：毫无使用价值",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[分享创造] Enter Guard：AI 聊天框里 Enter 换行、Ctrl/Cmd+Enter 发送，不再误触发送",
      "url": "https://www.v2ex.com/t/1258823#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "先说说痛点：用 DeepSeek 的时候，回车直接发送，打到一半就发出去了，还没法改；ChatGPT、Claude 这些虽然有的能改设置，但不是每个都有，每次换站点都要翻设置很烦。 于是做了这个 Chrome 扩展 Enter Guard，核心就一件事： Enter = 换行 Ctrl/Cmd+Enter = 发送 几个要点： 中文 / 日文 / 韩文输入法候选确认完全不受影响（IME 安全） 两",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] Enter Guard：AI 聊天框里 Enter 换行、Ctrl/Cmd+Enter 发送，不再误触发送",
+     "url": "https://www.v2ex.com/t/1258823#reply2",
      "meta": "V2EX · 2026-11-21",
      "summary": "先说说痛点：用 DeepSeek 的时候，回车直接发送，打到一半就发出去了，还没法改；ChatGPT、Claude 这些虽然有的能改设置，但不是每个都有，每次换站点都要翻设置很烦。 于是做了这个 Chrome 扩展 Enter Guard，核心就一件事： Enter = 换行 Ctrl/Cmd+Enter = 发送 几个要点： 中文 / 日文 / 韩文输入法候选确认完全不受影响（IME 安全） 两",
      "reason": null,
@@ -147,6 +314,14 @@
      "url": "https://www.v2ex.com/t/1258821#reply0",
      "meta": "V2EX · 2026-11-21",
      "summary": "TK 软路由管理系统软件 win 版本支持管理多台路由器不用进后台管理可以一键创建多 wifi 并调节 wifi 设置，还有一键把 wifi 分流走不同节点可以走链式代理，支持物理网卡 mac 地址随机真实可查几十万个地址每个生成都是真实路由器，还有检测路由器远程路由器，不用打开软路由网页进行管理永久授权， https://t.me/+GOu_qoy6LrMwNDYx tg 群聊 网站介绍 htt",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 模型「偏科」恰恰揭示了 skill 不可能被完全取代",
+     "url": "https://www.v2ex.com/t/1258820#reply2",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "第一个背景是在近期关于几个大厂模型的讨论之中，关于 GPT 和 Claude 的特性以及谁更好的争吵很激烈。很多开发者讨厌 GPT 的防御性编程（具体而言它会做各种测试和 guardrail），但反而一些做科研和维护工作的人更喜欢它，而 Claude 更多人喜欢它的用户意图识别与许愿式编程的能力。 第二个背景是最近看到一个说法，就是 skill 迟早会被模型的能力取代，因为 skill 描述的都是",
      "reason": null,
      "origin_source": "cn_rss"
     },
@@ -165,94 +340,6 @@
      "summary": "最近做了一个 MIT 开源的本地桌面工具 Mingle ，可以把你电脑上的 AI Agent（Claude Code、Codex、Kimi Code、OpenCode、Cursor 等 14 种 harness）以机器人身份请进你平时已经在用的聊天软件里。 为什么再造一个：核心是不想有服务器 现在支持接自家 coding agent 的工具已经不少，但我自己用下来最介意的一点是 云端中转 ——只要",
      "reason": null,
      "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 同时开着三个 AI Agent，它们轮流等我点「同意」，于是我做了个统一通知的手表 App",
-     "url": "https://www.v2ex.com/t/1258818#reply0",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "现在我写代码，经常是 Claude Code 在跑重构，Codex 在补测试，另一个 Agent 在查文档。几个终端、几个窗口同时开着。 问题是界面一多，人对它们的状态就没感觉了。谁跑完了、谁出错了、谁卡在权限确认上等我点「同意」，它们都不会喊我。我只能在窗口之间来回切，挨个去看。经常是切回某个窗口才发现，它早就停在那儿等我了。 那一刻我想明白了：Agent 越多，我自己反而成了瓶颈。 所以我做了",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持 U 结算",
-     "url": "https://www.v2ex.com/t/1258817#reply0",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "阿里云 7 折 腾讯云 7 折 华为云 7 折 阿里 CDN 3900U/P 腾讯 CDN 3900U/P 火山 CDN 3900U/P 谷歌云 GCP65 折 亚马逊云 AWS 新号 65 折/老号无需迁移 85 折 腾讯云国际 55 折 阿里云国际 65 折 华为云国际 65 折 AWS 全球节点 CDN 加速 1 折 Ai 模型低至 4 折 火山国际 7 折 TG 详聊：@Tiangua7",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 不会建站也能起步：一个模板 + 10 步向导，从密钥到 Google 收录都告诉你",
-     "url": "https://www.v2ex.com/t/1258816#reply0",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "先说明：自荐，产品是 make1day AI SaaS Template，卖的是生成出来的源码。 [我为什么做这个] 买过几个 SaaS boilerplate，问题都一样： 1）没用的模块还在仓库里，编译报错、白标残留； 2）更麻烦的是——下载完不知道下一步该干嘛。 密钥去哪拿？支付怎么测？上线前要检查什么？域名在哪买？搜索引擎怎么收录？ 每一步都要自己去搜，搜到的还是三年前的答案。 3)支付和",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[育儿] 给初中娃的 地理知识 quiz：猜 省份 省会 和位置小游戏",
-     "url": "https://www.v2ex.com/t/1258814#reply0",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "https://leekology.github.io/TerraPop/",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了一个在线刷 JLPT 日语真题的网站，求拍砖",
-     "url": "https://www.v2ex.com/t/1258813#reply1",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "自己准备日语考试的时候发现，历年真题大多是网盘里的 PDF：缺听力、答案对不上、手机上没法做。所以做了 https://okjlpt.com ： 2010–2026 年 N1–N5 的历年真题，在线作答，听力直接播放，交卷自动估分，每题有答案和解析 可以按题型分开练，比如只练 N2 的听力即时应答 N5–N1 的单词表和语法，单词标了在真题里考过几次 《大家的日语》《标准日本语》按课整理的单词和语",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 问下大家 gemini 如何订阅",
-     "url": "https://www.v2ex.com/t/1258812#reply1",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "当前通过购买苹果礼品卡订阅的 gpt，决定转 Gemini 了 一直没有找到可用的订阅入口",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 有朋友成功切换 99$的 google pro 套餐吗？",
-     "url": "https://www.v2ex.com/t/1258811#reply0",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "今天看到了黑五优惠活动的邀请，点击切换套餐后，弹出了首年 99 美元、次年起每年 199 美元的支付弹窗。 但点击支付后，页面提示： “You're not eligible for the introductory price, but you can still subscribe without it.” 使用的是招商银行的 Visa 信用卡，是否有朋友成功切换，我想确认一下，这种情况是网络",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "地球 28 光年外发现一个三星系统",
-     "url": "https://www.solidot.org/story?sid=85955",
-     "meta": "Solidot · 2026-11-21",
-     "summary": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。白矮星是类太阳恒星耗尽燃料后的高致密残骸，而红矮星则比太阳暗淡得多。天文学家是在红矮星周围寻找行星时意外发现这一三星结构的：这颗红矮星与另一颗白矮星近距离相互旋转，而另一颗更遥远的白矮星围着这两个天体旋转。地球 100 光年内从未发现了类似天体结构。红矮星与",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Android] 使用国产手机安装海外 APP 总提示风险，有什么解决方案？",
-     "url": "https://www.v2ex.com/t/1258810#reply7",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "一直喜欢用 Android 当主力机，但现在国内几乎所有机型都内置了安全检测，装海外 App 跟原来卸载某数字软件一个套路，稍不注意就点到别的选项，恶心的一批。 最近看上 OnePlus 15T，想刷个 LineageOS，不知道体验怎样？有 V 友已经在用了吗？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
-     "url": "https://www.solidot.org/story?sid=85954",
-     "meta": "Solidot · 2026-11-21",
-     "summary": "生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。发表在《Nature Communications》期刊上的一项研究调查了人类免疫系统，发现免疫系统衰老有两次突然加速。新加坡研究人员分析了 1828 名不同族裔、年龄在 19-97 岁之间健康个体的单细胞转录组。研究人员共对比了 380 万个免疫细胞，发现了基因活性发生显著变化的两次尖峰。两",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 自动保存项目快照，再也不用担心 ai 乱改代码了",
-     "url": "https://www.v2ex.com/t/1258809#reply2",
-     "meta": "V2EX · 2026-11-21",
-     "summary": "每轮对话结束后自动提交所有的改动到本地 git，提交信息由当前可用的 llm 生成，会自动排除掉敏感文件。 如果你的日常 agent 是 zcode、workbuddy，欢迎试用、反馈。 项目地址： https://github.com/netcaty/skill",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   },
@@ -264,7 +351,7 @@
     {
      "title": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "meta": "⭐ 7173 · Rust",
+     "meta": "⭐ 7353 · Rust",
      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,39 +359,47 @@
     {
      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "meta": "⭐ 5683 · C++",
+     "meta": "⭐ 5787 · C++",
      "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ItsNotRexed/Leonida",
+     "url": "https://github.com/ItsNotRexed/Leonida",
+     "meta": "⭐ 3798 · Python",
+     "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "meta": "⭐ 2573 · Python",
+     "meta": "⭐ 2592 · Python",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "Hut-hzf/ung220z-tool",
-     "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "meta": "⭐ 2192 · Python",
-     "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "meta": "⭐ 1984",
+     "meta": "⭐ 2269",
      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Hut-hzf/ung220z-tool",
+     "url": "https://github.com/Hut-hzf/ung220z-tool",
+     "meta": "⭐ 2212 · Python",
+     "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "meta": "⭐ 1626 · Python",
+     "meta": "⭐ 1721 · Python",
      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +407,7 @@
     {
      "title": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "meta": "⭐ 1435 · Python",
+     "meta": "⭐ 1547 · Python",
      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +415,7 @@
     {
      "title": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "meta": "⭐ 1296 · Python",
+     "meta": "⭐ 1334 · Python",
      "summary": "Allo is your friendly neighborhood typeface, free and open source",
      "reason": null,
      "origin_source": "github_search"
@@ -328,15 +423,23 @@
     {
      "title": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "meta": "⭐ 1009 · HTML",
+     "meta": "⭐ 1017 · HTML",
      "summary": "Steer ideas like a space pilot!",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "hatsunemiku-ai/google-one-tools",
+     "url": "https://github.com/hatsunemiku-ai/google-one-tools",
+     "meta": "⭐ 987 · Python",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "meta": "⭐ 931 · JavaScript",
+     "meta": "⭐ 953 · JavaScript",
      "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "reason": null,
      "origin_source": "github_search"
@@ -344,40 +447,24 @@
     {
      "title": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "meta": "⭐ 890 · Rust",
+     "meta": "⭐ 943 · Rust",
      "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "hatsunemiku-ai/google-one-tools",
-     "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "meta": "⭐ 813 · Python",
-     "summary": "",
+     "title": "R0Y00/Xbox2Windows",
+     "url": "https://github.com/R0Y00/Xbox2Windows",
+     "meta": "⭐ 831 · Python",
+     "summary": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "boringmarketer/boring-marketing-skills",
      "url": "https://github.com/boringmarketer/boring-marketing-skills",
-     "meta": "⭐ 765 · Python",
+     "meta": "⭐ 768 · Python",
      "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "MSNightmare/FastUnlock",
-     "url": "https://github.com/MSNightmare/FastUnlock",
-     "meta": "⭐ 635",
-     "summary": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "0xkaka/homeport",
-     "url": "https://github.com/0xkaka/homeport",
-     "meta": "⭐ 612 · HTML",
-     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -399,7 +486,7 @@
     {
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "meta": "⭐ 2274 · 💬 1077",
+     "meta": "⭐ 2364 · 💬 1146",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +494,39 @@
     {
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "meta": "⭐ 1174 · 💬 225",
+     "meta": "⭐ 1331 · 💬 273",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Lean verification of the Riemann Hypothesis",
+     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+     "meta": "⭐ 676 · 💬 543",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+     "meta": "⭐ 634 · 💬 204",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+     "url": "https://news.ycombinator.com/item?id=50583761",
+     "meta": "⭐ 553 · 💬 620",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We promoted developers into architects without informing them",
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "meta": "⭐ 564 · 💬 304",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -421,14 +540,6 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "We promoted developers into architects without informing them",
-     "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "meta": "⭐ 516 · 💬 288",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
      "meta": "⭐ 499 · 💬 212",
@@ -437,9 +548,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-     "url": "https://news.ycombinator.com/item?id=50583761",
-     "meta": "⭐ 380 · 💬 392",
+     "title": "Detonating a pile of lead azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "meta": "⭐ 451 · 💬 299",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -461,9 +572,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "meta": "⭐ 352 · 💬 115",
+     "title": "Why there are still no non-WebKit browsers on iOS",
+     "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+     "meta": "⭐ 417 · 💬 238",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "My monitor was cutting my download speed by 75%",
+     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+     "meta": "⭐ 399 · 💬 205",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -472,38 +591,6 @@
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "url": "https://ninlive.com/",
      "meta": "⭐ 312 · 💬 81",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "My Monitor Was Cutting My Download Speed by 75%",
-     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "meta": "⭐ 189 · 💬 75",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-     "url": "https://simple-bench.com/",
-     "meta": "⭐ 67 · 💬 57",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "meta": "⭐ 175 · 💬 112",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-     "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-     "meta": "⭐ 170 · 💬 60",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -560,6 +647,14 @@
      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
      "meta": "Product Hunt · 2026-11-10",
      "summary": "A companion memory for agents to improve as you work",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Nuko",
+     "url": "https://www.producthunt.com/products/nuko",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Motion design in your browser",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -624,14 +719,6 @@
      "url": "https://www.producthunt.com/products/groundwork-6",
      "meta": "Product Hunt · 2026-11-18",
      "summary": "Claude Code plans that re-runs never overwrite",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Shipyard",
-     "url": "https://www.producthunt.com/products/shipyard",
-     "meta": "Product Hunt · 2026-11-16",
-     "summary": "MCP for Claude, Cursor and Codex to Automate Integrations",
      "reason": null,
      "origin_source": "producthunt"
     }
