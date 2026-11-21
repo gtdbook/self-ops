@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T11:57:40.593025+08:00",
+ "updated_at": "2026-11-21T11:57:13.364023+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -360,6 +360,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "astra(14次→+1.22)、gpt(14次→+0.97)、sol(11次→+0.97)、nvidia(8次→+3.02)、openai(6次→+0.50)、apple(6次→+0.50)、reverse(6次→+0.50)、video(6次→+1.79)"
+  },
+  {
+   "ts": "2026-11-21T11:57:13.364023+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "astra(14次→+1.66)、gpt(14次→+1.43)、sol(11次→+1.43)、models(6次→+1.87)、openai(6次→+0.97)、apple(6次→+0.97)、video(6次→+2.20)、data(5次→+0.50)"
   }
  ]
 }
