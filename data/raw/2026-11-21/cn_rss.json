@@ -1,7 +1,7 @@
 {
  "source": "cn_rss",
- "updated_at": "2026-11-21T02:17:57.370355+08:00",
- "count": 153,
+ "updated_at": "2026-11-21T08:36:13.957762+08:00",
+ "count": 172,
  "items": [
   {
    "id": "rss-003aed05b474e175",
@@ -11,6 +11,15 @@
    "published": "Tue, 17 Nov 2026 16:11:29 +0800",
    "published_iso": "2026-11-17T08:11:29+00:00",
    "summary": "随着本体建模逐步引入 AI 辅助抽取，抽取任务的执行稳定性、候选数据的规范性，以及后续审核操作的完整性，都成为影响建模流程的重要环节。 本次 qOntology 开源版 v1.1.3 围绕 AI 辅助建模流程进行了多项完善，重点优化分窗抽取、异常窗口重试与任务续跑机制，同时调整四轮抽取提示词和候选数据校验规则。 此外，本次更..."
+  },
+  {
+   "id": "rss-01efb57c09a0b23b",
+   "title": "[问与答] 想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？",
+   "url": "https://www.v2ex.com/t/1258661#reply17",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T14:27:00Z",
+   "published_iso": "2026-11-20T14:27:00+00:00",
+   "summary": "我有一个思路：我父母年龄大了，肌肉流失比较快，为了鼓励他们做抗阻运动，我想到了一个办法。 直接跟他们讲道理其实不太愿意听，哪怕一天只是花个 10 分钟、20 分钟做抗阻运动，他们都不太愿意去。但他们又爱赚点小钱，平时会去捡纸壳子之类的，说白了就是想赚点零花钱。 我想到的办法就是：他们做锻炼，我就可以给钱，但不能让他们知道是我给的。相当于是做一个 App，他们锻炼打卡就能收钱提现。他们以为是别人给的钱，这样锻炼起来就会很有动力。 我觉得这"
   },
   {
    "id": "rss-04376c8b34e5f4bd",
@@ -103,6 +112,15 @@
    "summary": "Calif 安全团队近日发现了 Java 的内存损坏漏洞，出现在 Base64 解码器里。 这句话本身就足够反常。Java 最大的卖点之一就是内存安全——它替你管理内存、检查访问，把 C 和 C++ 里那类问题挡在门外。但 Java 自身有一大块是用 C、C++ 甚至汇编写的，内存损坏在那儿依然是日常。 漏洞编号 CVE-2026-114938，代号 Java4S..."
   },
   {
+   "id": "rss-137dadae36d84d8a",
+   "title": "[分享创造] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%",
+   "url": "https://www.v2ex.com/t/1258680#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T17:58:36Z",
+   "published_iso": "2026-11-20T17:58:36+00:00",
+   "summary": "项目地址： https://github.com/jing-ying-dev/whale-ying-memory 大家好，我今年 21 岁，是一本中医学大三学生，没有计算机或 AI 专业背景。2026 年 10 月 14 日开始研究 API，10 月 22 日转向 Agent 长期记忆，11 月 18–19 日跑出了现在这组结果。 项目叫 WhaleYing Memory，Apache-2.0 开源。Whale 一方面来自 DeepSe"
+  },
+  {
    "id": "rss-15ce2e6a92c74bda",
    "title": "[VPS] 我也做了个 dedirock+racknerd 价格监控",
    "url": "https://www.v2ex.com/t/1258624#reply0",
@@ -130,6 +148,15 @@
    "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
+   "id": "rss-17f9d1a6363afd90",
+   "title": "[NAS] [紧急提醒] 群晖 DSM 出现 9.8 分严重漏洞 无需登录即可远程读写 NAS 中的文件.",
+   "url": "https://www.v2ex.com/t/1258663#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T14:46:19Z",
+   "published_iso": "2026-11-20T14:46:19+00:00",
+   "summary": "群晖日前发布新安全公告披露评分达到 9.8 分的 CVE-2026-120382 安全漏洞，该漏洞允许攻击者在未经身份验证的情况下直接读写群晖 NAS 上存储的文件。漏洞涉及群晖 DSM 采用的开放授权 (OAuth) 认证组件，群晖建议用户暂时停用开放认证套件。 目前为止 7.1/7.2.1/7.2.2 系统还没有修复补丁。 https://www.landian.news/archives/128629.html"
+  },
+  {
    "id": "rss-181bcab677f7d73f",
    "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
    "url": "https://sspai.com/post/119311",
@@ -146,6 +173,15 @@
    "published": "Fri, 20 Nov 2026 18:50:51 +0800",
    "published_iso": "2026-11-20T10:50:51+00:00",
    "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设"
+  },
+  {
+   "id": "rss-187874347ba2c423",
+   "title": "[推广] 一键使用 Claude Code Opus 5.5，不用折腾账号和 API",
+   "url": "https://www.v2ex.com/t/1258640#reply23",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T11:43:56Z",
+   "published_iso": "2026-11-20T11:43:56+00:00",
+   "summary": "做了个小站 OnDemand Agent，一键用上 Claude Code Opus 5.5。 不用注册 Claude 账号，不用搞 API 中转，不用翻墙。在 GitHub 上一句话说清要改什么，先给你方案，你确认了才动手，写完直接提 PR。 按量付费，1 credit = 0.01 美元，没有月费，没有席位费。 👉 ondemandagent.dev 找几个用户帮我测试给反馈，免费送 500 Credits，感兴趣的留言，我发你。"
   },
   {
    "id": "rss-1a3c8c203d02684b",
@@ -328,6 +364,15 @@
    "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench: 系统管理 • 新增「超级审计员」角色，可只读查看全部组织和应用数据 :card_index_dividers: CMDB • 采集任..."
   },
   {
+   "id": "rss-396d9db9fb110876",
+   "title": "[推广] 送 10 个 ZooProxy 动态住宅 IP 1G CDK，先到先得",
+   "url": "https://www.v2ex.com/t/1258683#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T19:35:02Z",
+   "published_iso": "2026-11-20T19:35:02+00:00",
+   "summary": "我是做 ZooProxy 渠道的（不是官方）。直接送 10 个 1G 的官方 CDK，先到先得（官网单买 1G 要 $2.4）。 怎么用 在 zooproxy.com 注册账号，已经有账号的直接用原来的 登录后台兑换下面任意一个 CDK，流量直接进你自己的账号 领了的回帖说一声用的是第几个，方便后面的人跳过；顺便说下拿来跑什么，我看到都会回 CDK EAHV4P7UXVC6D5RA U6ENNHYA48L21QYQ FP7HYPRR8S"
+  },
+  {
    "id": "rss-3da383cb9fdb0e20",
    "title": "Goodlink 全新传输协议，叠加 BBR 拥塞控制算法与丢包补偿",
    "url": "https://www.oschina.net/news/503645",
@@ -389,6 +434,15 @@
    "published": "Fri, 20 Nov 2026 09:17:05 +0000",
    "published_iso": "2026-11-20T09:17:05+00:00",
    "summary": "在手机里打开了一个关于 AI 的「平行宇宙」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-4a65f01cd33793a5",
+   "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+   "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Sat, 21 Nov 2026 00:25:08 +0000",
+   "published_iso": "2026-11-21T00:25:08+00:00",
+   "summary": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
    "id": "rss-4ae2f7fc2d576d92",
@@ -607,6 +661,24 @@
    "summary": ""
   },
   {
+   "id": "rss-6bd68d7eecbb62a7",
+   "title": "[各地食品价格] 2026.11.9 旧金山新开的大统华",
+   "url": "https://www.v2ex.com/t/1258685#reply9",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T20:24:57Z",
+   "published_iso": "2026-11-20T20:24:57+00:00",
+   "summary": "这是来自加拿大的华人连锁超市。在湾区开的第二家，我去的时候，开张不到一周，都要排队进入。 大统华算是在三藩市仅有的很干净的华人超市。而且品类齐全，还有很多的货品在其它店铺看不到的。 我看到的价格，绝大多数都比当地唐人街贵，很多东西在加拿大的大统华也有，价格也贵。"
+  },
+  {
+   "id": "rss-6d9e453240e3d9ff",
+   "title": "[Claude] 在论坛上提供 Claude 账号验证代办服务是否被允许？",
+   "url": "https://www.v2ex.com/t/1258681#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T18:33:01Z",
+   "published_iso": "2026-11-20T18:33:01+00:00",
+   "summary": "我在做这方面的服务，想了解一下这里有没有人需要。欧洲、亚洲"
+  },
+  {
    "id": "rss-6f44d2b99f06cd3a",
    "title": "[分享创造] GTA 6 发售后做了个小站：上传一张照片，生成你在 GTA 6 里的 15 秒视频",
    "url": "https://www.v2ex.com/t/1258647#reply0",
@@ -704,6 +776,15 @@
    "published": "Wed, 18 Nov 2026 16:58:48 +0800",
    "published_iso": "2026-11-18T08:58:48+00:00",
    "summary": "微软给出的解释，最值得看的是这一句：他们的负载测试「偏向使用核心数更少的较弱硬件」。 这话出自 11 月 15 日发布的初步事故报告。报告说，11 月 12 日那场让 Exchange Online 全球宕机近一天的故障，根子埋在 7 月。当时那个改动针对微软 365 的网络网关服务器，通过了负载测试，上线后也没出问题。它一直在那儿等着..."
+  },
+  {
+   "id": "rss-81886997ad5599bd",
+   "title": "[问与答] 各位的 opencode 近期速度是多少",
+   "url": "https://www.v2ex.com/t/1258657#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T14:01:58Z",
+   "published_iso": "2026-11-20T14:01:58+00:00",
+   "summary": "一直只用 deepseek-4.1-1017，不是用 free 的。刚开通时候能到 160+，现在稳定只在 80+ tok/s，都是 100 以内，我都有点动摇是否取消换 workbuddy 了（实测今天 workbuddy 都能到 300+）"
   },
   {
    "id": "rss-845e16e886bcbb75",
@@ -841,6 +922,24 @@
    "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文"
   },
   {
+   "id": "rss-a0e0abaed33f19a4",
+   "title": "[Claude] 记录一次弹门户验证到解除",
+   "url": "https://www.v2ex.com/t/1258675#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T16:42:47Z",
+   "published_iso": "2026-11-20T16:42:47+00:00",
+   "summary": "从弹出 portal 验证，到 KYC 验证自动检测到停用账号，恢复，历时 8 天。 账号以及使用情况： 23 年 7 月 14 日通过 gmail 注册的 Claude 账号，早期对话删除了些，最早的对话目前在 2026 年 7 月 10 日。 2026 年 10 月 16 日通过 Google play 美区+国内 visa 卡支付 20 美元 pro 使用。 期间大部分时间使用 Claude desktop 进行 vibe cod"
+  },
+  {
+   "id": "rss-a45a8046579345b1",
+   "title": "[分享发现] 「挖坟」22 年发的关于 AI 的帖子 回头再看看？？",
+   "url": "https://www.v2ex.com/t/1258689#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-21T00:05:45Z",
+   "published_iso": "2026-11-21T00:05:45+00:00",
+   "summary": "先看看 https://h5.if.qidian.com/h5/share/post/base?circleId=21689689308191404&postId=721498992055287808&ct=qdshare_tiezi&_qdChId=10000392&_trace=qdshare_tiezi&spdt=14&spdid=18&ex1=721498992055287808&shareUserCode=0ha2nTX4&d"
+  },
+  {
    "id": "rss-a6932a67a3514ea5",
    "title": "Jync v2.4.3 AI 助手确认执行与启动诊断",
    "url": "https://www.oschina.net/news/503710",
@@ -884,6 +983,15 @@
    "published": "2026-11-20T09:42:58Z",
    "published_iso": "2026-11-20T09:42:58+00:00",
    "summary": "众所周知，国内宽带上传流量猛了就会限速拉闸。 那么，如果我用电信宽带，上传大量内容到电信自家的天翼云盘，还会有限速拉闸的风险吗？"
+  },
+  {
+   "id": "rss-b0168dae0a12e08e",
+   "title": "[Apple] 最近 iOS 左右划卡清理相册的 App 爆发了，好多 AI 粗制滥造产物啊",
+   "url": "https://www.v2ex.com/t/1258670#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T15:33:34Z",
+   "published_iso": "2026-11-20T15:33:34+00:00",
+   "summary": "最近至少看到了 20 款左右划卡清理相册的 App。有些甚至文案都雷同。装上去甚至都不能正常用。 看来在 AI 时代，设计和审美是稀缺资源。 还有些人拿着 AI 搞什么产品矩阵。一人几十个 App，美其名曰高效，实际就不说了哈哈……"
   },
   {
    "id": "rss-b0affba26de24ca6",
@@ -947,6 +1055,15 @@
    "published": "Fri, 20 Nov 2026 11:57:08 +0800",
    "published_iso": "2026-11-20T03:57:08+00:00",
    "summary": "Google 搜索引擎「AI Overviews」服务正在抢走网站的流量。 根据一项随机实验的测试，AI Overview 导致从 Google 搜索结果指向外部网站的点击量下降了四成。 这是随机实验做出来的数字，不是相关性推测。研究者对一部分美国桌面用户隐藏了 AI Overviews，然后和仍能看到的那组做对比。 这个数字背后有一个更直观的画面：..."
+  },
+  {
+   "id": "rss-bccbfd6024beeb0c",
+   "title": "[Apple] Beyond Compare 26 年 Coupon 来了",
+   "url": "https://www.v2ex.com/t/1258673#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T16:31:14Z",
+   "published_iso": "2026-11-20T16:31:14+00:00",
+   "summary": "MacOS 上唯一无法通过 AI 自研替代的工具(已经自研实现了 Typora PDF Expert Listary 等)，今年的 75 折来了，不过要等到 30 号 https://forum.scootersoftware.com/forum/from-scooter-software/news-announcements/99281-incoming-cyber-monday-sale 26CYBER Incoming: Cybe"
   },
   {
    "id": "rss-bd45c108af0327aa",
@@ -1111,6 +1228,15 @@
    "summary": "维护客户信息表时，手机号、客户编号等字段往往需要按管理要求设置不同敏感等级。 实际使用中，修改字段说明等其他属性时，原有等级能否保留；分级要求变化时，能否修改或清除绑定，直接影响资产维护效率。 qData 数据中台开源版 v1.6.8 围绕这些场景更新：资产字段编辑界面支持敏感等级绑定，消息通知、分类、项目角色和..."
   },
   {
+   "id": "rss-ce9e6a8883caada7",
+   "title": "[分享创造] 用 AI 做了个图片格式转换工具 HEICase，支持 iPhone 和 Mac，本地处理照片",
+   "url": "https://www.v2ex.com/t/1258684#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T20:11:40Z",
+   "published_iso": "2026-11-20T20:11:40+00:00",
+   "summary": "平时用 iPhone 拍的照片是 HEIC 格式，发到电脑上或者上传到一些网站时，偶尔会遇到不兼容的情况。如果照片比较多，一张张选择和转换也挺麻烦。 做这个工具时，我给 Mac 端加了一个自己经常用的功能：可以直接把整个文件夹拖进来，App 会识别里面的图片，再进行批量转换。整理一批照片时不用逐张添加。 目前主要支持： - HEIC、JPG、PNG 等图片格式转换 - Mac 端拖入文件夹，识别其中的图片并批量处理 - 转换时调整图片尺"
+  },
+  {
    "id": "rss-d00f5d734454c67b",
    "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
    "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
@@ -1174,6 +1300,15 @@
    "summary": "Claude Code 团队公开了一个数字：他们的代码大约 90% 由 Claude 编写和评审。 该团队工程师 Addy Osmani 在 claude.dev 上写了篇文章，讲这个规模下他们怎么让 agent 验证自己的工作。核心判断很直接——没有验证回路，你最多同时跑一两个 Claude，因为每个都得自己盯着；有了验证回路，可以同时跑几十上百个。 文章开头..."
   },
   {
+   "id": "rss-d61729aba1c808cc",
+   "title": "[分享发现] 黎曼猜想证明意味着…….",
+   "url": "https://www.v2ex.com/t/1258688#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T23:03:17Z",
+   "published_iso": "2026-11-20T23:03:17+00:00",
+   "summary": "搞笑版： 认真版：数学界之前表示难题的价值是证明他们要开发新的数学工具，拓展数学疆界。 如果真的证明成立，说明这次开发的数学工具就是 LLM 推理。"
+  },
+  {
    "id": "rss-d6c0fcf44ef028de",
    "title": "哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”",
    "url": "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted",
@@ -1181,6 +1316,15 @@
    "published": "Fri, 20 Nov 2026 17:00:13 +0800",
    "published_iso": "2026-11-20T09:00:13+00:00",
    "summary": "哈佛大学两位博士候选人做了一份工作论文，把 AI 编程 Agent 的真实效果算了一遍。样本是 718 家公司、725938 名员工。 结论不太好看。 用上 AI 编程 Agent 之后，人均每月新增代码行数从 5017 涨到 6511，多了约 30%。提交数增长 20%，Pull Request 增长 23%。该有的增长都出现了。 但活干完了吗？没有。 论文用 Jira i..."
+  },
+  {
+   "id": "rss-d6f8858d3738bca6",
+   "title": "[分享创造] Yet another port of the WeType 在 Linux /FreeBSD 上近乎原生运行微信输入法引擎的 Fcitx5 输入法",
+   "url": "https://www.v2ex.com/t/1258687#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T21:03:09Z",
+   "published_iso": "2026-11-20T21:03:09+00:00",
+   "summary": "https://github.com/viewv/minime 也用 AI 在 Linux/FreeBSD 上适配了微信输入法，但是思路是尽可能用原生的程序替换微信输入法的组件，只保留核心的引擎，用一个比较小的加载器加载微信输入法在 Windows 上的 X86-64 核心引擎，网络服务部分，整句预测模型等重新原生实现接入官方服务和模型，通过这样的操作实现比较低的延迟，并且也比较容易迁移，比如最近迁移测试到了 FreeBSD 上。 目前"
   },
   {
    "id": "rss-d8298f8aec939ac9",
@@ -1199,6 +1343,15 @@
    "published": "Fri, 20 Nov 2026 14:49:01 +0800",
    "published_iso": "2026-11-20T06:49:01+00:00",
    "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（si"
+  },
+  {
+   "id": "rss-db3c8197878854e5",
+   "title": "[职场话题] 许愿式编程会取代程序员吗？",
+   "url": "https://www.v2ex.com/t/1258629#reply25",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T10:39:11Z",
+   "published_iso": "2026-11-20T10:39:11+00:00",
+   "summary": "在这周 Tab 星期四 认识一个团队，他们在做一个用 app 许愿编程做 app 的 agent app，开发了几个月，已经拿到天使轮。 团队自己的开发也在用许愿式编程，跟我 chat 那位开发者认为绝大部分编码能力很快会被模型吃掉、且前沿模型（specifically, Fable 5.2）已经超越大多数程序员。 按这个预测观点的势头下去，不久之后不仅编码不需要，架构都不用人去学了。开发者还是早点转行为妙。 不知使用前沿模型的各位，日"
   },
   {
    "id": "rss-e3b42007712ba634",
@@ -1280,6 +1433,24 @@
    "published": "2026-11-20T14:48:30Z",
    "published_iso": "2026-11-20T14:48:30+00:00",
    "summary": "httpS/HTTPS 都哭晕在厕所，「：」成为最大赢家。 这个 bug 充分证明了，世界就是个草台班子。 完全像我以前手下实习生能干出来的事，只要完成功能，就上交，压根不考虑边界情况。一个问题要反复好几轮，说一个改一个，最后还是他劝转行了。"
+  },
+  {
+   "id": "rss-eb1c47f2d1700d32",
+   "title": "[Claude] 黎曼猜想被证明了？",
+   "url": "https://www.v2ex.com/t/1258665#reply30",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T14:53:55Z",
+   "published_iso": "2026-11-20T14:53:55+00:00",
+   "summary": "alpo.ge/remark.pdf"
+  },
+  {
+   "id": "rss-ed1bdff809ffc04a",
+   "title": "[分享创造] 复刻了一个三国志英杰传网页版的",
+   "url": "https://www.v2ex.com/t/1258674#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-20T16:36:38Z",
+   "published_iso": "2026-11-20T16:36:38+00:00",
+   "summary": "三国志英杰传 网页版复刻，从序章打到结局 1995 年 DOS 版那个英杰传，256 色、走格子、单挑、一堆策略书。 我用 AI 做了个网页版，浏览器直接开，不用装模拟器。 在线试玩 ： https://yj.vitta.dev.tc/ 源码 ： https://github.com/Attiv/yingjiezhuan-web 做到了什么 全部剧情：从「群雄起兵讨伐董卓」到结局，610 幕 70 场战斗、59 张战场地图、129 名武"
   },
   {
    "id": "rss-ee3ecf41bc8b386c",

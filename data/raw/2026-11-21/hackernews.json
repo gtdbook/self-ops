@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-21T02:17:48.816006+08:00",
- "count": 25,
+ "updated_at": "2026-11-21T08:36:06.994319+08:00",
+ "count": 43,
  "items": [
   {
    "id": "hn-50526023",
@@ -48,6 +48,22 @@
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50535504",
+   "title": "Replacing implicit optionals with a None type in TypeDB",
+   "url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+   "hn_url": "https://news.ycombinator.com/item?id=50535504",
+   "score": 6,
+   "comments": 0,
+   "author": "flyingsilverfin",
+   "time_iso": "2026-11-17T18:03:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 6
     }
    ]
   },
@@ -152,14 +168,18 @@
    "title": "Signal Is Serious About Protecting Your Privacy",
    "url": "https://signal.org/blog/protecting-your-privacy/",
    "hn_url": "https://news.ycombinator.com/item?id=50572348",
-   "score": 296,
-   "comments": 176,
+   "score": 494,
+   "comments": 297,
    "author": "dotcoma",
    "time_iso": "2026-11-20T09:42:16+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 296
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 494
     }
    ]
   },
@@ -168,14 +188,18 @@
    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
    "hn_url": "https://news.ycombinator.com/item?id=50572355",
-   "score": 471,
-   "comments": 244,
+   "score": 614,
+   "comments": 289,
    "author": "sammatilda",
    "time_iso": "2026-11-20T09:43:19+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 471
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 614
     }
    ]
   },
@@ -200,14 +224,18 @@
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "url": "https://architectlabs.com/blog/frostbite",
    "hn_url": "https://news.ycombinator.com/item?id=50572503",
-   "score": 490,
-   "comments": 273,
+   "score": 616,
+   "comments": 321,
    "author": "shioyama",
    "time_iso": "2026-11-20T10:01:41+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 490
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 616
     }
    ]
   },
@@ -245,17 +273,21 @@
   },
   {
    "id": "hn-50574968",
-   "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
    "url": "https://alpo.ge/remark.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50574968",
-   "score": 1586,
-   "comments": 1079,
+   "score": 2313,
+   "comments": 1564,
    "author": "iamronaldo",
    "time_iso": "2026-11-20T14:16:21+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 1586
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 2313
     }
    ]
   },
@@ -280,14 +312,18 @@
    "title": "Finite-time blow-up for the Navier–Stokes equations",
    "url": "https://github.com/tristanbuckmaster/navier-stokes/",
    "hn_url": "https://news.ycombinator.com/item?id=50576232",
-   "score": 116,
-   "comments": 31,
+   "score": 253,
+   "comments": 79,
    "author": "trotro",
    "time_iso": "2026-11-20T15:34:31+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 116
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 253
     }
    ]
   },
@@ -312,14 +348,34 @@
    "title": "Language Models Can Rewrite Their Own Weights",
    "url": "https://arxiv.org/abs/2611.21885",
    "hn_url": "https://news.ycombinator.com/item?id=50577265",
-   "score": 151,
-   "comments": 63,
+   "score": 326,
+   "comments": 106,
    "author": "lwhsiao",
    "time_iso": "2026-11-20T16:29:06+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 151
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 326
+    }
+   ]
+  },
+  {
+   "id": "hn-50577613",
+   "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+   "url": "https://news.ycombinator.com/item?id=50577613",
+   "hn_url": "https://news.ycombinator.com/item?id=50577613",
+   "score": 92,
+   "comments": 130,
+   "author": "proberts",
+   "time_iso": "2026-11-20T16:45:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 92
     }
    ]
   },
@@ -376,14 +432,18 @@
    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
    "hn_url": "https://news.ycombinator.com/item?id=50578358",
-   "score": 5,
-   "comments": 0,
+   "score": 321,
+   "comments": 127,
    "author": "archon1410",
    "time_iso": "2026-11-20T17:21:36+00:00",
    "history": [
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 321
     }
    ]
   },
@@ -400,6 +460,262 @@
     {
      "t": "2026-11-21T02:17:48.816006+08:00",
      "score": 20
+    }
+   ]
+  },
+  {
+   "id": "hn-50579297",
+   "title": "Vibecoding an inference chip",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+   "hn_url": "https://news.ycombinator.com/item?id=50579297",
+   "score": 105,
+   "comments": 37,
+   "author": "ankitvgupta",
+   "time_iso": "2026-11-20T18:15:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 105
+    }
+   ]
+  },
+  {
+   "id": "hn-50579331",
+   "title": "We promoted developers into architects without informing them",
+   "url": "https://manidoraisamy.com/developer-to-architect.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50579331",
+   "score": 271,
+   "comments": 169,
+   "author": "QueensGambit",
+   "time_iso": "2026-11-20T18:17:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 271
+    }
+   ]
+  },
+  {
+   "id": "hn-50579568",
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "hn_url": "https://news.ycombinator.com/item?id=50579568",
+   "score": 1446,
+   "comments": 668,
+   "author": "jasondavies",
+   "time_iso": "2026-11-20T18:33:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 1446
+    }
+   ]
+  },
+  {
+   "id": "hn-50580536",
+   "title": "Winedroid – run Android apps without Android (WASM demo)",
+   "url": "https://winedroid.soham.sh/demo/",
+   "hn_url": "https://news.ycombinator.com/item?id=50580536",
+   "score": 92,
+   "comments": 26,
+   "author": "sohzm",
+   "time_iso": "2026-11-20T19:30:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 92
+    }
+   ]
+  },
+  {
+   "id": "hn-50581084",
+   "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+   "url": "https://scottaaronson.blog/?p=10344",
+   "hn_url": "https://news.ycombinator.com/item?id=50581084",
+   "score": 198,
+   "comments": 163,
+   "author": "stratos123",
+   "time_iso": "2026-11-20T20:03:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 198
+    }
+   ]
+  },
+  {
+   "id": "hn-50581110",
+   "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+   "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+   "hn_url": "https://news.ycombinator.com/item?id=50581110",
+   "score": 86,
+   "comments": 12,
+   "author": "facundo_olano",
+   "time_iso": "2026-11-20T20:03:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 86
+    }
+   ]
+  },
+  {
+   "id": "hn-50581177",
+   "title": "And yet, it moves",
+   "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+   "hn_url": "https://news.ycombinator.com/item?id=50581177",
+   "score": 69,
+   "comments": 34,
+   "author": "notfried",
+   "time_iso": "2026-11-20T20:07:55+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50581260",
+   "title": "Inkling 2 Mini",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "hn_url": "https://news.ycombinator.com/item?id=50581260",
+   "score": 601,
+   "comments": 97,
+   "author": "jasondavies",
+   "time_iso": "2026-11-20T20:12:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 601
+    }
+   ]
+  },
+  {
+   "id": "hn-50581403",
+   "title": "Show HN: OpenComputer – an open source alternative to Devin",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "hn_url": "https://news.ycombinator.com/item?id=50581403",
+   "score": 52,
+   "comments": 15,
+   "author": "iacguy",
+   "time_iso": "2026-11-20T20:19:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 52
+    }
+   ]
+  },
+  {
+   "id": "hn-50581438",
+   "title": "Nvidia accounting under SEC investigation, sources say",
+   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50581438",
+   "score": 210,
+   "comments": 101,
+   "author": "ftchd",
+   "time_iso": "2026-11-20T20:22:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 210
+    }
+   ]
+  },
+  {
+   "id": "hn-50583117",
+   "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+   "hn_url": "https://news.ycombinator.com/item?id=50583117",
+   "score": 10,
+   "comments": 4,
+   "author": "undefinedmethod",
+   "time_iso": "2026-11-20T22:18:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 10
+    }
+   ]
+  },
+  {
+   "id": "hn-50583254",
+   "title": "Nasdaq erases all 2026 gains",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50583254",
+   "score": 95,
+   "comments": 37,
+   "author": "mv4",
+   "time_iso": "2026-11-20T22:29:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 95
+    }
+   ]
+  },
+  {
+   "id": "hn-50583274",
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "url": "https://ninlive.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50583274",
+   "score": 80,
+   "comments": 20,
+   "author": "CharlesW",
+   "time_iso": "2026-11-20T22:30:47+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 80
+    }
+   ]
+  },
+  {
+   "id": "hn-50583445",
+   "title": "AI may have solved the most important problem in mathematics",
+   "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+   "hn_url": "https://news.ycombinator.com/item?id=50583445",
+   "score": 11,
+   "comments": 6,
+   "author": "vinni2",
+   "time_iso": "2026-11-20T22:46:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50583768",
+   "title": "Sir Brian May adds new dimension to Hera asteroid",
+   "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+   "hn_url": "https://news.ycombinator.com/item?id=50583768",
+   "score": 25,
+   "comments": 3,
+   "author": "mooreds",
+   "time_iso": "2026-11-20T23:19:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 25
+    }
+   ]
+  },
+  {
+   "id": "hn-50583982",
+   "title": "Re: Riemann",
+   "url": "https://borretti.me/article/re-riemann",
+   "hn_url": "https://news.ycombinator.com/item?id=50583982",
+   "score": 34,
+   "comments": 5,
+   "author": "_dain_",
+   "time_iso": "2026-11-20T23:42:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:06.994319+08:00",
+     "score": 34
     }
    ]
   }

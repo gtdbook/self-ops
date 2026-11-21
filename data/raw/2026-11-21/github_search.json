@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-21T02:17:49.474544+08:00",
- "count": 20,
+ "updated_at": "2026-11-21T08:36:07.680894+08:00",
+ "count": 26,
  "items": [
   {
    "id": "gh-1457270665",
@@ -94,10 +94,25 @@
    ]
   },
   {
+   "id": "gh-1458303867",
+   "title": "nilbuild/stick-scene",
+   "url": "https://github.com/nilbuild/stick-scene",
+   "stars": 536,
+   "language": "JavaScript",
+   "description": "Skill to draw stick figure animated visuals",
+   "created_at": "2026-11-15T00:17:40Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 536
+    }
+   ]
+  },
+  {
    "id": "gh-1458720005",
    "title": "Hut-hzf/ung220z-tool",
    "url": "https://github.com/Hut-hzf/ung220z-tool",
-   "stars": 1981,
+   "stars": 1999,
    "language": "Python",
    "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
    "created_at": "2026-11-15T11:16:46Z",
@@ -105,6 +120,70 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 1981
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 1999
+    }
+   ]
+  },
+  {
+   "id": "gh-1459019243",
+   "title": "weightcashiercupola/Gemini-Config-Checker-",
+   "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+   "stars": 473,
+   "language": "Makefile",
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "created_at": "2026-11-15T16:47:11Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 473
+    }
+   ]
+  },
+  {
+   "id": "gh-1459019357",
+   "title": "WindGatorRise37/Gemini-Config-Checker-",
+   "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+   "stars": 472,
+   "language": "Makefile",
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "created_at": "2026-11-15T16:47:17Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 472
+    }
+   ]
+  },
+  {
+   "id": "gh-1459020334",
+   "title": "WyrmClimberManacle/Gemini-Config-Checker-",
+   "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+   "stars": 472,
+   "language": "Makefile",
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "created_at": "2026-11-15T16:48:18Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 472
+    }
+   ]
+  },
+  {
+   "id": "gh-1459020341",
+   "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+   "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+   "stars": 474,
+   "language": "Makefile",
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "created_at": "2026-11-15T16:48:18Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 474
     }
    ]
   },
@@ -112,7 +191,7 @@
    "id": "gh-1459063723",
    "title": "joshpuckett/allo",
    "url": "https://github.com/joshpuckett/allo",
-   "stars": 1235,
+   "stars": 1251,
    "language": "Python",
    "description": "Allo is your friendly neighborhood typeface, free and open source",
    "created_at": "2026-11-15T17:33:42Z",
@@ -120,6 +199,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 1235
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 1251
     }
    ]
   },
@@ -127,7 +210,7 @@
    "id": "gh-1459700211",
    "title": "siliconjungle/shapeshift-labs-ink-studio",
    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-   "stars": 834,
+   "stars": 869,
    "language": "JavaScript",
    "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
    "created_at": "2026-11-16T07:44:00Z",
@@ -135,6 +218,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 834
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 869
     }
    ]
   },
@@ -142,7 +229,7 @@
    "id": "gh-1459971684",
    "title": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
-   "stars": 6386,
+   "stars": 6641,
    "language": "Rust",
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "created_at": "2026-11-16T12:10:36Z",
@@ -150,6 +237,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 6386
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 6641
     }
    ]
   },
@@ -157,7 +248,7 @@
    "id": "gh-1460149071",
    "title": "chuanqisun/spaceship",
    "url": "https://github.com/chuanqisun/spaceship",
-   "stars": 980,
+   "stars": 992,
    "language": "HTML",
    "description": "Steer ideas like a space pilot!",
    "created_at": "2026-11-16T14:43:45Z",
@@ -165,6 +256,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 980
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 992
     }
    ]
   },
@@ -172,7 +267,7 @@
    "id": "gh-1460180740",
    "title": "boringmarketer/boring-marketing-skills",
    "url": "https://github.com/boringmarketer/boring-marketing-skills",
-   "stars": 735,
+   "stars": 744,
    "language": "Python",
    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
    "created_at": "2026-11-16T15:09:46Z",
@@ -180,6 +275,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 735
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 744
     }
    ]
   },
@@ -187,7 +286,7 @@
    "id": "gh-1460417668",
    "title": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 1313,
+   "stars": 1330,
    "language": "Python",
    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
    "created_at": "2026-11-16T18:40:04Z",
@@ -195,6 +294,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 1313
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 1330
     }
    ]
   },
@@ -202,7 +305,7 @@
    "id": "gh-1460469810",
    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-   "stars": 5157,
+   "stars": 5296,
    "language": "C++",
    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense,",
    "created_at": "2026-11-16T19:28:29Z",
@@ -210,6 +313,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 5157
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 5296
     }
    ]
   },
@@ -217,7 +324,7 @@
    "id": "gh-1460965754",
    "title": "0xkaka/homeport",
    "url": "https://github.com/0xkaka/homeport",
-   "stars": 567,
+   "stars": 584,
    "language": "HTML",
    "description": "",
    "created_at": "2026-11-17T05:39:46Z",
@@ -225,6 +332,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 567
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 584
     }
    ]
   },
@@ -232,7 +343,7 @@
    "id": "gh-1461244802",
    "title": "gylive/google-ultra",
    "url": "https://github.com/gylive/google-ultra",
-   "stars": 2522,
+   "stars": 2532,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-17T10:21:54Z",
@@ -240,6 +351,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 2522
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 2532
     }
    ]
   },
@@ -247,7 +362,7 @@
    "id": "gh-1461522454",
    "title": "Lemxy/WinRust",
    "url": "https://github.com/Lemxy/WinRust",
-   "stars": 678,
+   "stars": 745,
    "language": "Rust",
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "created_at": "2026-11-17T14:27:06Z",
@@ -255,6 +370,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 678
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 745
     }
    ]
   },
@@ -262,7 +381,7 @@
    "id": "gh-1463963309",
    "title": "iamajmeena/neonclipping",
    "url": "https://github.com/iamajmeena/neonclipping",
-   "stars": 1154,
+   "stars": 1243,
    "language": "Python",
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "created_at": "2026-11-19T10:00:43Z",
@@ -270,6 +389,25 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 1154
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 1243
+    }
+   ]
+  },
+  {
+   "id": "gh-1464004445",
+   "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+   "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+   "stars": 476,
+   "language": "Python",
+   "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+   "created_at": "2026-11-19T10:40:46Z",
+   "history": [
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 476
     }
    ]
   },
@@ -277,7 +415,7 @@
    "id": "gh-1464126198",
    "title": "MSNightmare/FastUnlock",
    "url": "https://github.com/MSNightmare/FastUnlock",
-   "stars": 539,
+   "stars": 577,
    "language": "",
    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
    "created_at": "2026-11-19T12:37:51Z",
@@ -285,6 +423,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 539
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 577
     }
    ]
   },
@@ -292,7 +434,7 @@
    "id": "gh-1464271688",
    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-   "stars": 1304,
+   "stars": 1773,
    "language": "",
    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
    "created_at": "2026-11-19T14:43:10Z",
@@ -300,6 +442,10 @@
     {
      "t": "2026-11-21T02:17:49.474544+08:00",
      "score": 1304
+    },
+    {
+     "t": "2026-11-21T08:36:07.680894+08:00",
+     "score": 1773
     }
    ]
   }

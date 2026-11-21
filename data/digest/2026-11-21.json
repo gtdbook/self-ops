@@ -1,12 +1,83 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T02:17:57.617786+08:00",
+ "generated_at": "2026-11-21T08:36:14.323460+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "url": "https://alpo.ge/remark.pdf",
+     "meta": "+727 分 / 6.3 小时 · 现 ⭐ 2313",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+     "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+     "meta": "+316 分 / 6.3 小时 · 现 ⭐ 321",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Signal Is Serious About Protecting Your Privacy",
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "meta": "+198 分 / 6.3 小时 · 现 ⭐ 494",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "url": "https://arxiv.org/abs/2611.21885",
+     "meta": "+175 分 / 6.3 小时 · 现 ⭐ 326",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+     "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+     "meta": "+143 分 / 6.3 小时 · 现 ⭐ 614",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Finite-time blow-up for the Navier–Stokes equations",
+     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+     "meta": "+137 分 / 6.3 小时 · 现 ⭐ 253",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "url": "https://architectlabs.com/blog/frostbite",
+     "meta": "+126 分 / 6.3 小时 · 现 ⭐ 616",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+     "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+     "meta": "Ars Technica · 2026-11-20",
+     "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Science has a home here at Ars—please help keep it that way",
      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
@@ -118,14 +189,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-     "meta": "OpenAI · 2026-11-03",
-     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -134,6 +197,78 @@
    "emoji": "🏮",
    "errors": [],
    "items": [
+    {
+     "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+     "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-21",
+     "summary": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 「挖坟」22 年发的关于 AI 的帖子 回头再看看？？",
+     "url": "https://www.v2ex.com/t/1258689#reply0",
+     "meta": "V2EX · 2026-11-21",
+     "summary": "先看看 https://h5.if.qidian.com/h5/share/post/base?circleId=21689689308191404&postId=721498992055287808&ct=qdshare_tiezi&_qdChId=10000392&_trace=qdshare_tiezi&spdt=14&spdid=18&ex1=721498992055287808&shar",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享发现] 黎曼猜想证明意味着…….",
+     "url": "https://www.v2ex.com/t/1258688#reply2",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "搞笑版： 认真版：数学界之前表示难题的价值是证明他们要开发新的数学工具，拓展数学疆界。 如果真的证明成立，说明这次开发的数学工具就是 LLM 推理。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] Yet another port of the WeType 在 Linux /FreeBSD 上近乎原生运行微信输入法引擎的 Fcitx5 输入法",
+     "url": "https://www.v2ex.com/t/1258687#reply2",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "https://github.com/viewv/minime 也用 AI 在 Linux/FreeBSD 上适配了微信输入法，但是思路是尽可能用原生的程序替换微信输入法的组件，只保留核心的引擎，用一个比较小的加载器加载微信输入法在 Windows 上的 X86-64 核心引擎，网络服务部分，整句预测模型等重新原生实现接入官方服务和模型，通过这样的操作实现比较低的延迟，并且也比较容易迁移，比如最近",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[各地食品价格] 2026.11.9 旧金山新开的大统华",
+     "url": "https://www.v2ex.com/t/1258685#reply9",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "这是来自加拿大的华人连锁超市。在湾区开的第二家，我去的时候，开张不到一周，都要排队进入。 大统华算是在三藩市仅有的很干净的华人超市。而且品类齐全，还有很多的货品在其它店铺看不到的。 我看到的价格，绝大多数都比当地唐人街贵，很多东西在加拿大的大统华也有，价格也贵。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 用 AI 做了个图片格式转换工具 HEICase，支持 iPhone 和 Mac，本地处理照片",
+     "url": "https://www.v2ex.com/t/1258684#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "平时用 iPhone 拍的照片是 HEIC 格式，发到电脑上或者上传到一些网站时，偶尔会遇到不兼容的情况。如果照片比较多，一张张选择和转换也挺麻烦。 做这个工具时，我给 Mac 端加了一个自己经常用的功能：可以直接把整个文件夹拖进来，App 会识别里面的图片，再进行批量转换。整理一批照片时不用逐张添加。 目前主要支持： - HEIC、JPG、PNG 等图片格式转换 - Mac 端拖入文件夹，识别其",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 送 10 个 ZooProxy 动态住宅 IP 1G CDK，先到先得",
+     "url": "https://www.v2ex.com/t/1258683#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "我是做 ZooProxy 渠道的（不是官方）。直接送 10 个 1G 的官方 CDK，先到先得（官网单买 1G 要 $2.4）。 怎么用 在 zooproxy.com 注册账号，已经有账号的直接用原来的 登录后台兑换下面任意一个 CDK，流量直接进你自己的账号 领了的回帖说一声用的是第几个，方便后面的人跳过；顺便说下拿来跑什么，我看到都会回 CDK EAHV4P7UXVC6D5RA U6ENNHY",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 在论坛上提供 Claude 账号验证代办服务是否被允许？",
+     "url": "https://www.v2ex.com/t/1258681#reply0",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "我在做这方面的服务，想了解一下这里有没有人需要。欧洲、亚洲",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%",
+     "url": "https://www.v2ex.com/t/1258680#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "项目地址： https://github.com/jing-ying-dev/whale-ying-memory 大家好，我今年 21 岁，是一本中医学大三学生，没有计算机或 AI 专业背景。2026 年 10 月 14 日开始研究 API，10 月 22 日转向 Agent 长期记忆，11 月 18–19 日跑出了现在这组结果。 项目叫 WhaleYing Memory，Apache-2.0 开",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
     {
      "title": "[分享创造] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%",
      "url": "https://www.v2ex.com/t/1258680#reply0",
@@ -167,90 +302,18 @@
      "origin_source": "cn_rss"
     },
     {
+     "title": "[Claude] 记录一次弹门户验证到解除",
+     "url": "https://www.v2ex.com/t/1258675#reply1",
+     "meta": "V2EX · 2026-11-20",
+     "summary": "从弹出 portal 验证，到 KYC 验证自动检测到停用账号，恢复，历时 8 天。 账号以及使用情况： 23 年 7 月 14 日通过 gmail 注册的 Claude 账号，早期对话删除了些，最早的对话目前在 2026 年 7 月 10 日。 2026 年 10 月 16 日通过 Google play 美区+国内 visa 卡支付 20 美元 pro 使用。 期间大部分时间使用 Claude",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[分享创造] 复刻了一个三国志英杰传网页版的",
      "url": "https://www.v2ex.com/t/1258674#reply1",
      "meta": "V2EX · 2026-11-20",
      "summary": "三国志英杰传 网页版复刻，从序章打到结局 1995 年 DOS 版那个英杰传，256 色、走格子、单挑、一堆策略书。 我用 AI 做了个网页版，浏览器直接开，不用装模拟器。 在线试玩 ： https://yj.vitta.dev.tc/ 源码 ： https://github.com/Attiv/yingjiezhuan-web 做到了什么 全部剧情：从「群雄起兵讨伐董卓」到结局，610 幕 70",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Apple] Beyond Compare 26 年 Coupon 来了",
-     "url": "https://www.v2ex.com/t/1258673#reply3",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "MacOS 上唯一无法通过 AI 自研替代的工具(已经自研实现了 Typora PDF Expert Listary 等)，今年的 75 折来了，不过要等到 30 号 https://forum.scootersoftware.com/forum/from-scooter-software/news-announcements/99281-incoming-cyber-monday-sale 26",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[OpenAI] Dots 下放 Plus 之后，100 刀的 Pro 还香吗？",
-     "url": "https://www.v2ex.com/t/1258672#reply1",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "先说结论：我觉得大部分人可以再等等，不用急着上 Pro 今天的消息是 OpenAI 开始给部分 Plus 用户测 Dots 之前想用 Dots，最便宜也得 Pro 100，一个月 100 刀 Plus 是 20 刀，差了 5 倍 如果 Plus 以后都能用上，很多人上 Pro 的理由就少了一大半 但有个坑：Pro 用 Dots 不算普通额度，Plus 会不会算，官方没说 要是算的话，Plus 那点",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] 瘫坐眩晕，广义黎曼猜想疑似已被成功证明",
-     "url": "https://www.v2ex.com/t/1258671#reply2",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "今天（11 月 20 日），Anthropic 旗下的数学家兼研究员 Levent Alpöge（他曾在今年 7 月借助 Claude Fable 5 找到了三维雅可比猜想的反例）在个人网站发布声明，称自己与 Claude 合作找到了黎曼猜想（RH）及其推广形式广义黎曼猜想（GRH）的证明。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Apple] 最近 iOS 左右划卡清理相册的 App 爆发了，好多 AI 粗制滥造产物啊",
-     "url": "https://www.v2ex.com/t/1258670#reply0",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "最近至少看到了 20 款左右划卡清理相册的 App。有些甚至文案都雷同。装上去甚至都不能正常用。 看来在 AI 时代，设计和审美是稀缺资源。 还有些人拿着 AI 搞什么产品矩阵。一人几十个 App，美其名曰高效，实际就不说了哈哈……",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[生活] 今天是全国心梗救治日，26 号是全国心力衰竭日",
-     "url": "https://www.v2ex.com/t/1258669#reply2",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "程序员群体基本都是高风险人群，随着年龄增加，风险一年比一年高，老登们要对自己好一些。 前面分享过的两篇科普，多多收藏保存，以防万一。 心脏病相关症状的分级应对与辅助工具使用指南 v1.1 版 疑似心梗与心脏骤停：普通人的现场应对操作手册 v1.3",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "Anthropic 的数论学家声称证明黎曼猜想",
-     "url": "https://www.solidot.org/story?sid=85949",
-     "meta": "Solidot · 2026-11-20",
-     "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] 求教，如何购买一台二手新能源车。",
-     "url": "https://www.v2ex.com/t/1258667#reply1",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "工作使用，市区跑。地点武汉。 请大家教我，谢谢",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] 分享自己写的小程序 - 麻将学习助手",
-     "url": "https://www.v2ex.com/t/1258666#reply0",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "V 友们，也是用上 Vibe coding 了 -- 微信小程序(搓麻小助手) 逢年过节亲戚老是叫我打麻将，每次都是给别人发红包。痛定思痛，用 Vibe coding 自己写了个微信小程序，提升巨大，已经狠狠赢了亲戚几回了，开心呐！有 V 友(的亲戚朋友)们想提升麻将技巧的吗? 赢钱了再回小程序里给我点个赞就行了。第一次 Vibe coding ，也期待 V 友们的建议",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] 黎曼猜想被证明了？",
-     "url": "https://www.v2ex.com/t/1258665#reply21",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "alpo.ge/remark.pdf",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] CVE-2026-128064 这个漏洞我也震惊了，通过判断 http(s) 第 5 五位是否小写 s 来启用 tls，存在 20 年了。",
-     "url": "https://www.v2ex.com/t/1258664#reply4",
-     "meta": "V2EX · 2026-11-20",
-     "summary": "httpS/HTTPS 都哭晕在厕所，「：」成为最大赢家。 这个 bug 充分证明了，世界就是个草台班子。 完全像我以前手下实习生能干出来的事，只要完成功能，就上交，压根不考虑边界情况。一个问题要反复好几轮，说一个改一个，最后还是他劝转行了。",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -264,7 +327,7 @@
     {
      "title": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "meta": "⭐ 6386 · Rust",
+     "meta": "⭐ 6641 · Rust",
      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +335,7 @@
     {
      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "meta": "⭐ 5157 · C++",
+     "meta": "⭐ 5296 · C++",
      "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +343,7 @@
     {
      "title": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "meta": "⭐ 2522 · Python",
+     "meta": "⭐ 2532 · Python",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -288,8 +351,16 @@
     {
      "title": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "meta": "⭐ 1981 · Python",
+     "meta": "⭐ 1999 · Python",
      "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+     "meta": "⭐ 1773",
+     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -320,23 +391,15 @@
     {
      "title": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "meta": "⭐ 1313 · Python",
+     "meta": "⭐ 1330 · Python",
      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "meta": "⭐ 1304",
-     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "meta": "⭐ 1235 · Python",
+     "meta": "⭐ 1251 · Python",
      "summary": "Allo is your friendly neighborhood typeface, free and open source",
      "reason": null,
      "origin_source": "github_search"
@@ -344,7 +407,7 @@
     {
      "title": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "meta": "⭐ 1154 · Python",
+     "meta": "⭐ 1243 · Python",
      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +415,7 @@
     {
      "title": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "meta": "⭐ 980 · HTML",
+     "meta": "⭐ 992 · HTML",
      "summary": "Steer ideas like a space pilot!",
      "reason": null,
      "origin_source": "github_search"
@@ -360,7 +423,7 @@
     {
      "title": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "meta": "⭐ 834 · JavaScript",
+     "meta": "⭐ 869 · JavaScript",
      "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "reason": null,
      "origin_source": "github_search"
@@ -389,9 +452,41 @@
    "errors": [],
    "items": [
     {
-     "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "meta": "⭐ 1586 · 💬 1079",
+     "meta": "⭐ 2313 · 💬 1564",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hurried Announcement: Alessandro Masullo GRH",
+     "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+     "meta": "⭐ 1446 · 💬 668",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "url": "https://architectlabs.com/blog/frostbite",
+     "meta": "⭐ 616 · 💬 321",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+     "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+     "meta": "⭐ 614 · 💬 289",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Inkling 2 Mini",
+     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "meta": "⭐ 601 · 💬 97",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -405,17 +500,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-     "url": "https://architectlabs.com/blog/frostbite",
-     "meta": "⭐ 490 · 💬 273",
+     "title": "Signal Is Serious About Protecting Your Privacy",
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "meta": "⭐ 494 · 💬 297",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-     "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "meta": "⭐ 471 · 💬 244",
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "url": "https://arxiv.org/abs/2611.21885",
+     "meta": "⭐ 326 · 💬 106",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,17 +540,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Signal Is Serious About Protecting Your Privacy",
-     "url": "https://signal.org/blog/protecting-your-privacy/",
-     "meta": "⭐ 296 · 💬 176",
+     "title": "Nvidia accounting under SEC investigation, sources say",
+     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+     "meta": "⭐ 210 · 💬 101",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "url": "https://arxiv.org/abs/2611.21885",
-     "meta": "⭐ 151 · 💬 63",
+     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+     "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+     "meta": "⭐ 321 · 💬 127",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "We promoted developers into architects without informing them",
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "meta": "⭐ 271 · 💬 169",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -464,46 +567,6 @@
      "title": "FFmpeg 9.1 'Gauss'",
      "url": "https://ffmpeg.org/download.html#release_9.1",
      "meta": "⭐ 263 · 💬 35",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Why there are still no non-WebKit browsers on iOS",
-     "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-     "meta": "⭐ 195 · 💬 98",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-     "url": "https://kobi.music/research/dettato",
-     "meta": "⭐ 159 · 💬 28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The Making of Oxygene",
-     "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-     "meta": "⭐ 153 · 💬 59",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "What people are building, discovered through new domains",
-     "url": "https://startups.novumsignals.com/",
-     "meta": "⭐ 128 · 💬 61",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Finite-time blow-up for the Navier–Stokes equations",
-     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-     "meta": "⭐ 116 · 💬 31",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -528,6 +591,14 @@
      "url": "https://www.producthunt.com/products/veryfi",
      "meta": "Product Hunt · 2026-11-19",
      "summary": "AI agents review and correct receipt and invoice data.",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "DMARC Pulse",
+     "url": "https://www.producthunt.com/products/dmarc-pulse",
+     "meta": "Product Hunt · 2026-11-19",
+     "summary": "Find out who's sending email as your domain",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -624,14 +695,6 @@
      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
      "meta": "Product Hunt · 2026-11-20",
      "summary": "A million virtual meters. A small pledge against hunger.",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "greatai Review",
-     "url": "https://www.producthunt.com/products/greatai-review",
-     "meta": "Product Hunt · 2026-11-20",
-     "summary": "Free AI + human code review for open source & nonprofits",
      "reason": null,
      "origin_source": "producthunt"
     }
