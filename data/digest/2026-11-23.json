@@ -1,7 +1,70 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T02:12:43.801449+08:00",
+ "generated_at": "2026-11-23T07:58:37.647894+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Perplexity and Intelligence",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "meta": "+364 分 / 5.8 小时 · 现 ⭐ 446",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+     "meta": "+189 分 / 5.8 小时 · 现 ⭐ 1171",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "url": "https://github.com/gulivan/worker755",
+     "meta": "+111 分 / 5.8 小时 · 现 ⭐ 261",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+     "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+     "meta": "+84 分 / 5.8 小时 · 现 ⭐ 120",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Open Social Web Alliance",
+     "url": "https://osw-alliance.net/en/",
+     "meta": "+74 分 / 5.8 小时 · 现 ⭐ 207",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A Better Vocabulary for Testing",
+     "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+     "meta": "+57 分 / 5.8 小时 · 现 ⭐ 105",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Inside PyPy: First Contact with RPython",
+     "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+     "meta": "+47 分 / 5.8 小时 · 现 ⭐ 58",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -135,6 +198,70 @@
    "errors": [],
    "items": [
     {
+     "title": "[Claude] 一个护照可以几个 KYC claude",
+     "url": "https://www.v2ex.com/t/1258986#reply0",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 躺起编程：我给 VS Code 做了个扩展，躺在沙发上也能用手机接着和 Claude Code 写代码，从查看测试结果到追问报错，不用远程桌面，也不用重新解释项目上下文",
+     "url": "https://www.v2ex.com/t/1258984#reply0",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "最想离开工位的时候，往往是刚让 Claude Code 跑完一轮修改、正在等测试结果的时候。人可以先去沙发上躺一会儿，可要是测试挂了，只想追问一句「哪条断言没过」，难道还得起身回电脑前？ 我给自己做的 VS Code 扩展 Claude Code Config Helper（LLS CCAI） 加了一个「远程办公」入口，就是为了这几句话。电脑留在书桌上，手机用浏览器打开同一个项目、同一段对话。从手",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+     "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "meta": "爱范儿 · 2026-11-22",
+     "summary": "更多的新品，也不能消除苹果的 AI 焦虑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[健身] HRV 72ms，RHR 58bpm。每天 9 点半 10 点睡，HRV 慢慢上来了",
+     "url": "https://www.v2ex.com/t/1258983#reply0",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "35M，180cm，84kg，无烟酒，每周可能两三杯咖啡。 已经早睡早起一个月，改成早晨上班前健身。 白天精神了很多，虽然还是习惯午睡一小会儿。 我想说啥。。。 好奇同龄人睡眠品质怎么样，有什么助眠和防打呼的小贴士？",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[随想] 我现在对 AI 有两个自相矛盾的想法，希望大家帮忙分析一下",
+     "url": "https://www.v2ex.com/t/1258979#reply8",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "想法 1： 以一个假想的公司代表全人类——假设这个公司有 100 人，其中 5 人是某个方面的天才，而 95 人是普通人，也许有一定才能但是并不难以替代。在 AI 出现之前，5 位天才因为精力有限，所以只能够做最重要的工作，以及指明大方向，而必须雇佣 95 名普通人来“打杂”。用大家都熟悉的编程举个例子——一个天才再努力，一天大概也就是 500 行的高质量代码——事实上可能很难达到，因为很多技术上",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 提醒：macOS 更新不会升级 Python 的 certifi",
+     "url": "https://www.v2ex.com/t/1258978#reply0",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "eMudhra 中间 CA 私钥泄露后，Apple 在系统更新里移除了相关根证书，brew 也更新了 ca-certificates。但 Python 的 certifi 是另一份独立的 CA 清单，装在用户 site-packages 里，只有 pip 升级才动它，系统更新和 brew 都够不着。 目前受影响的根证书是 AAA Certificate Services 和 emSign ECC ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 一朋友 提出的关于稳定访问 Claude 的设想",
+     "url": "https://www.v2ex.com/t/1258977#reply4",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "通过 VR 访问一下 claude，其实也是很好的选项，meta 的系统很干净，不存在泄露 sim 卡 或者国产芯片信息，只要网络稳定妥妥的。 PS:原话 还附了个图 难道他真是天才ヘ(￣ω￣ヘ)",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] [开源] 想让闲置的 Windows 电脑重新上桌，我做了 Pierdesk",
+     "url": "https://www.v2ex.com/t/1258976#reply1",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "大家好，我是 Pierdesk 的作者。 家里有几台 Windows 电脑，我想让它们都在桌上派上用场。比如台式机写代码，一台笔记本开文档、看日志，另一台跑测试。看到有用的东西，鼠标移过去就能操作。要把一整个项目文件夹交给跑测试的机器，按平时习惯的 Ctrl+C、Ctrl+V 就行。 于是我做了 Pierdesk。多台 Windows 电脑连到同一个局域网，运行 Pierdesk 并完成配对后，就",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[分享创造] [开源] 想让闲置的 Windows 电脑重新上桌，我做了 Pierdesk",
      "url": "https://www.v2ex.com/t/1258976#reply0",
      "meta": "V2EX · 2026-11-22",
@@ -145,6 +272,14 @@
     {
      "title": "[推广] 做了一个服装参考图库：1000+ 套写实穿搭，还能把照片转成线稿来临摹",
      "url": "https://www.v2ex.com/t/1258975#reply0",
+     "meta": "V2EX · 2026-11-22",
+     "summary": "这是什么 一个服装参考图库 + 照片转线稿的小工具，给画服装、练人体、做手工和涂色本的人用。 在线地址： https://drawingclothes.com 能用来做什么 找服装参考：1000 多套真人穿搭，可以按品类挑（春秋季、连衣裙、泳装……），也能按面料挑（denim、knit、pleated、satin……），专门用来观察衣服的结构、垂坠和褶皱 照片转线稿：随便上传一张照片，就能在线稿和",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 做了一个服装参考图库：1000+ 套写实穿搭，还能把照片转成线稿来临摹",
+     "url": "https://www.v2ex.com/t/1258975#reply1",
      "meta": "V2EX · 2026-11-22",
      "summary": "这是什么 一个服装参考图库 + 照片转线稿的小工具，给画服装、练人体、做手工和涂色本的人用。 在线地址： https://drawingclothes.com 能用来做什么 找服装参考：1000 多套真人穿搭，可以按品类挑（春秋季、连衣裙、泳装……），也能按面料挑（denim、knit、pleated、satin……），专门用来观察衣服的结构、垂坠和褶皱 照片转线稿：随便上传一张照片，就能在线稿和",
      "reason": null,
@@ -181,78 +316,6 @@
      "summary": "11 月 20 日，2026 世界计算大会举办期间，由华为主办的“数智共昇 鸿湘有为”智启未来主题论坛在长沙举办。论坛深度对接湖南省“AI+”发展战略，围绕计算前沿技术、产业生态演进与人工智能行业落地实践展开研讨，既有面向产业全局的趋势判断，也有来自一线场景的落地经验，为算力生态伙伴协同创新、产业数智升级提供交流...",
      "reason": null,
      "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 用 Deepseek 从 0 开始 3 小时，造了个轮子，iOS 代理工具",
-     "url": "https://www.v2ex.com/t/1258970#reply3",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "造了个轮子，iOS 版本的 VPN 客户端，类似 v2ray,clash 也上架成功了~ https://github.com/ji4ozhu-wq/wproxy 协议：VMess、VLESS、Trojan、Shadowsocks、SOCKS5 导入 ：粘贴共享链接、扫描二维码或添加订阅 路由： 全局模式或基于规则的分段路由，包含绕过国家/地区和局域网绕过 无账户、无分析、无广告或追踪;节点和设置",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 做了个免费的 GTA 6 风格 AI 滤镜：上传一张自拍，出加载页风格的人像",
-     "url": "https://www.v2ex.com/t/1258969#reply0",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "GTA 6 发售这几天，推特和小红书上全是那种“GTA 加载页风格”的自拍——大家基本都是拿着同一套提示词去 ChatGPT/Gemini 里一张张跑，每次还要自己描述构图和配色。 我就把这事做成了一个一键网站： https://gamefacefilter.com 上传一张自拍，6 种风格可选，出图就是 GTA 加载页那种平涂色块 + 硬光影的味道 每天免费生成一次，不用注册 觉得图不错可以用 ",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 我把 VS Code 搬到了终端里，10 MB 大小，用于 Code Review 和快速编辑",
-     "url": "https://www.v2ex.com/t/1258968#reply0",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "VL 将 VS Code 绝佳的 Code Review 体验搬到了终端里，同时编辑器使用 Vim 键位，方便进行快速编辑。 VL 提供三种模式， Workbench, 工作台模式，也就是 VS Code 的样子, 打开文件夹，支持代码编辑，Code Review，PR 查看。 Editor，编辑器模式，类似 VIM，打开单文件，快速查看，快速编辑。 Preview，代码高亮预览，类似 bat。使",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[程序员] 请问 cursor 套餐用完后，是充钱买 token 好，还是新开一个账户买套餐好",
-     "url": "https://www.v2ex.com/t/1258967#reply0",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "现在 cursor 200 刀套餐，家送得 grok bot 不够用，大家是继续充钱么？还是可以在开一个高级套餐。或者还有其他方式更省钱，新买账户，需要管风控么。人在国外 ip 使用，银行卡支付都没问题。 感谢！",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[职场话题] 银行工作真的会让人不想聊天吗？我还用继续追她吗？",
-     "url": "https://www.v2ex.com/t/1258966#reply11",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "我在北京工作，女生跟我同岁，在县城工商银行做客服经理（类似大堂经理）。 我们认识大概四年了，中间有一两年基本断联，今年上半年又重新联系上。国庆期间，我约她来北京玩了四天，当时相处得挺好，也牵手、拥抱了，感觉她对我也有一定好感。不过目前还没有正式确定恋爱关系。 但让我困惑的是，线下相处挺好，微信聊天却完全不一样。 平时基本都是我主动找她，她很少主动联系我。有时候我发好几条消息，她只回一句，甚至很久不",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 求问 MacOS Vibe Coding 怎么设置网络",
-     "url": "https://www.v2ex.com/t/1258965#reply3",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "如题，我说一下我的情况： 我有充 GPT Plus + Gemini 的 pro 日常常规任务，主要用 Workbuddy （因为公司买了企业版+有本地模型，可以创建共享文档，所以轻量任务都走 workbuddy）。 只有在复杂的任务才会动用到 GPT 和 gemini。 但是现在 MacOS 下，我好像没有很好的解决这些 AI 的使用方案，首先 GPT 和 Gemini 需要外网环境，但是 Wo",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] 大家帮我拿个主意，要把跨境电商封店的经验平移到 Claude 吗？",
-     "url": "https://www.v2ex.com/t/1258964#reply9",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "之前主要经营 Etsy 平台，了解的都知道这个平台也是 2022 年封禁中国区。这几年，自己也一直和海外的身份（包括个人的真实手机号、银行卡、有效证件）、IP、指纹浏览器、网络环境、Persona 身份认证等账号安全相关的因素打交道。前期也被平台封禁了不少账号，闲鱼上倒腾过出单店铺、质保 10 单店铺等。目前是已经有几个稳定的真实店铺的渠道（目前公司稳定在用），11 月 12 号新的风控政策出来之",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
-     "url": "https://www.solidot.org/story?sid=85959",
-     "meta": "Solidot · 2026-11-22",
-     "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthr",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] [一周年/抽奖] iAgent 上线一年破千用户：抽 20 份 $18.8 余额，充值最高加赠 10%",
-     "url": "https://www.v2ex.com/t/1258962#reply1",
-     "meta": "V2EX · 2026-11-22",
-     "summary": "各位 V 友好，我是 iAgent 的开发者。 不知不觉 iAgent 上线已经一周年了，今天站内也破了 1000 用户。趁着这个节点，给 V2EX 的大佬们准备了 20 份 $18.8 站内余额 抽奖和最高 10%余额赠送 活动，充值活动周一晚上截止。 iAgent 聚合了主流多模型，自带网页聊天和创意工坊（生图生视频工作台）。无论你是用 Codex、Claude Code，还是在自己的项目里直",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   },
@@ -264,7 +327,7 @@
     {
      "title": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "meta": "⭐ 12655 · Python",
+     "meta": "⭐ 14818 · Python",
      "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +335,7 @@
     {
      "title": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "meta": "⭐ 7870 · Rust",
+     "meta": "⭐ 7980 · Rust",
      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +343,7 @@
     {
      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "meta": "⭐ 2744",
+     "meta": "⭐ 2746",
      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +359,7 @@
     {
      "title": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "meta": "⭐ 2042 · Python",
+     "meta": "⭐ 2092 · Python",
      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +367,7 @@
     {
      "title": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "meta": "⭐ 1912 · Python",
+     "meta": "⭐ 1951 · Python",
      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "reason": null,
      "origin_source": "github_search"
@@ -312,8 +375,24 @@
     {
      "title": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 1526 · Rust",
+     "meta": "⭐ 1867 · Rust",
      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "meta": "⭐ 1299 · Rust",
+     "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "R0Y00/Xbox2Windows",
+     "url": "https://github.com/R0Y00/Xbox2Windows",
+     "meta": "⭐ 1298 · Python",
+     "summary": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -326,25 +405,9 @@
      "origin_source": "github_search"
     },
     {
-     "title": "R0Y00/Xbox2Windows",
-     "url": "https://github.com/R0Y00/Xbox2Windows",
-     "meta": "⭐ 1236 · Python",
-     "summary": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "omonkeyz/xbox-emulator",
-     "url": "https://github.com/omonkeyz/xbox-emulator",
-     "meta": "⭐ 1197 · Rust",
-     "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
      "title": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "meta": "⭐ 1152 · Rust",
+     "meta": "⭐ 1227 · Rust",
      "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +415,7 @@
     {
      "title": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "meta": "⭐ 1044 · HTML",
+     "meta": "⭐ 1046 · HTML",
      "summary": "Steer ideas like a space pilot!",
      "reason": null,
      "origin_source": "github_search"
@@ -360,7 +423,7 @@
     {
      "title": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "meta": "⭐ 1024 · JavaScript",
+     "meta": "⭐ 1028 · JavaScript",
      "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "reason": null,
      "origin_source": "github_search"
@@ -368,16 +431,16 @@
     {
      "title": "boringmarketer/boring-marketing-skills",
      "url": "https://github.com/boringmarketer/boring-marketing-skills",
-     "meta": "⭐ 791 · Python",
+     "meta": "⭐ 795 · Python",
      "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-     "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-     "meta": "⭐ 608 · Python",
-     "summary": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
+     "title": "MSNightmare/FastUnlock",
+     "url": "https://github.com/MSNightmare/FastUnlock",
+     "meta": "⭐ 679",
+     "summary": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -407,7 +470,7 @@
     {
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "meta": "⭐ 982 · 💬 584",
+     "meta": "⭐ 1171 · 💬 670",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -453,9 +516,33 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Perplexity and Intelligence",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "meta": "⭐ 446 · 💬 302",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
      "meta": "⭐ 370 · 💬 137",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "What Happened to Silicon Valley?",
+     "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+     "meta": "⭐ 343 · 💬 190",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+     "meta": "⭐ 300 · 💬 123",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -469,41 +556,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Open Social Web Alliance",
-     "url": "https://osw-alliance.net/en/",
-     "meta": "⭐ 133 · 💬 120",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "url": "https://github.com/gulivan/worker755",
-     "meta": "⭐ 150 · 💬 38",
+     "meta": "⭐ 261 · 💬 59",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-     "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 139 · 💬 100",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-     "url": "https://news.ycombinator.com/item?id=50555002",
-     "meta": "⭐ 45 · 💬 33",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Self-hosted library branch over public web OPDS",
-     "url": "https://joinmayberry.com/",
-     "meta": "⭐ 85 · 💬 27",
+     "title": "Open Social Web Alliance",
+     "url": "https://osw-alliance.net/en/",
+     "meta": "⭐ 207 · 💬 206",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
