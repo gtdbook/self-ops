@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-22T06:00:12.436029+08:00",
- "count": 23,
+ "updated_at": "2026-11-22T10:47:53.637602+08:00",
+ "count": 25,
  "items": [
   {
    "id": "gh-1458303867",
@@ -94,7 +94,7 @@
    "id": "gh-1459700211",
    "title": "siliconjungle/shapeshift-labs-ink-studio",
    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-   "stars": 953,
+   "stars": 965,
    "language": "JavaScript",
    "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
    "created_at": "2026-11-16T07:44:00Z",
@@ -106,6 +106,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 953
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 965
     }
    ]
   },
@@ -113,7 +117,7 @@
    "id": "gh-1459971684",
    "title": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
-   "stars": 7353,
+   "stars": 7478,
    "language": "Rust",
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "created_at": "2026-11-16T12:10:36Z",
@@ -125,6 +129,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 7353
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 7478
     }
    ]
   },
@@ -132,7 +140,7 @@
    "id": "gh-1460149071",
    "title": "chuanqisun/spaceship",
    "url": "https://github.com/chuanqisun/spaceship",
-   "stars": 1017,
+   "stars": 1025,
    "language": "HTML",
    "description": "Steer ideas like a space pilot!",
    "created_at": "2026-11-16T14:43:45Z",
@@ -144,6 +152,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 1017
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 1025
     }
    ]
   },
@@ -151,7 +163,7 @@
    "id": "gh-1460180740",
    "title": "boringmarketer/boring-marketing-skills",
    "url": "https://github.com/boringmarketer/boring-marketing-skills",
-   "stars": 768,
+   "stars": 777,
    "language": "Python",
    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
    "created_at": "2026-11-16T15:09:46Z",
@@ -163,6 +175,25 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 768
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 777
+    }
+   ]
+  },
+  {
+   "id": "gh-1460361401",
+   "title": "Illson/RustText",
+   "url": "https://github.com/Illson/RustText",
+   "stars": 466,
+   "language": "C#",
+   "description": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
+   "created_at": "2026-11-16T17:46:45Z",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 466
     }
    ]
   },
@@ -170,7 +201,7 @@
    "id": "gh-1460417668",
    "title": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 1547,
+   "stars": 1696,
    "language": "Python",
    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
    "created_at": "2026-11-16T18:40:04Z",
@@ -182,6 +213,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 1547
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 1696
     }
    ]
   },
@@ -189,7 +224,7 @@
    "id": "gh-1460469810",
    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-   "stars": 5787,
+   "stars": 5839,
    "language": "C++",
    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense,",
    "created_at": "2026-11-16T19:28:29Z",
@@ -201,6 +236,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 5787
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 5839
     }
    ]
   },
@@ -208,7 +247,7 @@
    "id": "gh-1460835528",
    "title": "replit/datacat",
    "url": "https://github.com/replit/datacat",
-   "stars": 488,
+   "stars": 495,
    "language": "TypeScript",
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "created_at": "2026-11-17T02:51:06Z",
@@ -216,6 +255,10 @@
     {
      "t": "2026-11-22T00:00:19.824223+08:00",
      "score": 488
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 495
     }
    ]
   },
@@ -223,7 +266,7 @@
    "id": "gh-1460965754",
    "title": "0xkaka/homeport",
    "url": "https://github.com/0xkaka/homeport",
-   "stars": 615,
+   "stars": 616,
    "language": "HTML",
    "description": "",
    "created_at": "2026-11-17T05:39:46Z",
@@ -235,6 +278,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 615
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 616
     }
    ]
   },
@@ -242,7 +289,7 @@
    "id": "gh-1461244802",
    "title": "gylive/google-ultra",
    "url": "https://github.com/gylive/google-ultra",
-   "stars": 2592,
+   "stars": 2602,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-17T10:21:54Z",
@@ -254,6 +301,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 2592
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 2602
     }
    ]
   },
@@ -261,7 +312,7 @@
    "id": "gh-1461522454",
    "title": "Lemxy/WinRust",
    "url": "https://github.com/Lemxy/WinRust",
-   "stars": 943,
+   "stars": 968,
    "language": "Rust",
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "created_at": "2026-11-17T14:27:06Z",
@@ -273,6 +324,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 943
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 968
     }
    ]
   },
@@ -280,7 +335,7 @@
    "id": "gh-1463963309",
    "title": "iamajmeena/neonclipping",
    "url": "https://github.com/iamajmeena/neonclipping",
-   "stars": 1721,
+   "stars": 1749,
    "language": "Python",
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "created_at": "2026-11-19T10:00:43Z",
@@ -292,6 +347,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 1721
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 1749
     }
    ]
   },
@@ -299,7 +358,7 @@
    "id": "gh-1464004445",
    "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-   "stars": 517,
+   "stars": 538,
    "language": "Python",
    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
    "created_at": "2026-11-19T10:40:46Z",
@@ -311,6 +370,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 517
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 538
     }
    ]
   },
@@ -318,7 +381,7 @@
    "id": "gh-1464126198",
    "title": "MSNightmare/FastUnlock",
    "url": "https://github.com/MSNightmare/FastUnlock",
-   "stars": 643,
+   "stars": 649,
    "language": "",
    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
    "created_at": "2026-11-19T12:37:51Z",
@@ -330,6 +393,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 643
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 649
     }
    ]
   },
@@ -337,7 +404,7 @@
    "id": "gh-1464271688",
    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-   "stars": 2269,
+   "stars": 2518,
    "language": "",
    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
    "created_at": "2026-11-19T14:43:10Z",
@@ -349,6 +416,25 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 2269
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 2518
+    }
+   ]
+  },
+  {
+   "id": "gh-1465559592",
+   "title": "CocoSgt/riemann-hypothesis-lean",
+   "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+   "stars": 445,
+   "language": "Lean",
+   "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+   "created_at": "2026-11-20T14:59:14Z",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 445
     }
    ]
   },
@@ -356,7 +442,7 @@
    "id": "gh-1465728637",
    "title": "R0Y00/Xbox2Windows",
    "url": "https://github.com/R0Y00/Xbox2Windows",
-   "stars": 831,
+   "stars": 960,
    "language": "Python",
    "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
    "created_at": "2026-11-20T17:43:52Z",
@@ -364,6 +450,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 831
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 960
     }
    ]
   },
@@ -371,7 +461,7 @@
    "id": "gh-1465855400",
    "title": "ItsNotRexed/Leonida",
    "url": "https://github.com/ItsNotRexed/Leonida",
-   "stars": 3798,
+   "stars": 6318,
    "language": "Python",
    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
    "created_at": "2026-11-20T20:07:13Z",
@@ -379,6 +469,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 3798
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 6318
     }
    ]
   },
@@ -386,7 +480,7 @@
    "id": "gh-1465951272",
    "title": "hatsunemiku-ai/google-one-tools",
    "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-   "stars": 987,
+   "stars": 1081,
    "language": "Python",
    "description": "",
    "created_at": "2026-11-20T22:12:47Z",
@@ -398,6 +492,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 987
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 1081
     }
    ]
   },
@@ -405,7 +503,7 @@
    "id": "gh-1466325515",
    "title": "omonkeyz/xbox-emulator",
    "url": "https://github.com/omonkeyz/xbox-emulator",
-   "stars": 674,
+   "stars": 832,
    "language": "Rust",
    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "created_at": "2026-11-21T08:08:39Z",
@@ -413,6 +511,10 @@
     {
      "t": "2026-11-22T06:00:12.436029+08:00",
      "score": 674
+    },
+    {
+     "t": "2026-11-22T10:47:53.637602+08:00",
+     "score": 832
     }
    ]
   }

@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-22T06:00:11.813300+08:00",
- "count": 40,
+ "updated_at": "2026-11-22T10:47:52.866384+08:00",
+ "count": 48,
  "items": [
   {
    "id": "hn-50532417",
    "title": "Tropical Rainforests Species may be surprisingly young",
    "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
    "hn_url": "https://news.ycombinator.com/item?id=50532417",
-   "score": 26,
-   "comments": 11,
+   "score": 45,
+   "comments": 18,
    "author": "PaulHoule",
    "time_iso": "2026-11-17T15:08:54+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 45
     }
    ]
   },
@@ -76,14 +80,18 @@
    "title": "Exponential Behavior in Magic: The Gathering",
    "url": "https://levineuwirth.org/essays/exponential-magic/",
    "hn_url": "https://news.ycombinator.com/item?id=50546495",
-   "score": 71,
-   "comments": 55,
+   "score": 97,
+   "comments": 64,
    "author": "neuwirth",
    "time_iso": "2026-11-18T14:07:09+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 71
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 97
     }
    ]
   },
@@ -152,6 +160,38 @@
    ]
   },
   {
+   "id": "hn-50553223",
+   "title": "Shaping the Loops, Closing the Loops",
+   "url": "https://revyl.com/blog/pattern-engineering/",
+   "hn_url": "https://news.ycombinator.com/item?id=50553223",
+   "score": 9,
+   "comments": 2,
+   "author": "based0x10",
+   "time_iso": "2026-11-18T22:29:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 9
+    }
+   ]
+  },
+  {
+   "id": "hn-50559295",
+   "title": "Unit-testing in the Ü programming language",
+   "url": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50559295",
+   "score": 4,
+   "comments": 0,
+   "author": "Panzerschrek",
+   "time_iso": "2026-11-19T12:34:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
    "id": "hn-50574383",
    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
@@ -188,14 +228,18 @@
    "title": "Why there are still no non-WebKit browsers on iOS",
    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
    "hn_url": "https://news.ycombinator.com/item?id=50575644",
-   "score": 417,
-   "comments": 238,
+   "score": 497,
+   "comments": 274,
    "author": "lapcat",
    "time_iso": "2026-11-20T15:03:31+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 417
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 497
     }
    ]
   },
@@ -312,8 +356,8 @@
    "title": "Inkling 2 Mini",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
    "hn_url": "https://news.ycombinator.com/item?id=50581260",
-   "score": 1331,
-   "comments": 273,
+   "score": 1391,
+   "comments": 281,
    "author": "jasondavies",
    "time_iso": "2026-11-20T20:12:19+00:00",
    "history": [
@@ -324,6 +368,10 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 1331
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 1391
     }
    ]
   },
@@ -332,14 +380,18 @@
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
    "hn_url": "https://news.ycombinator.com/item?id=50582069",
-   "score": 246,
-   "comments": 73,
+   "score": 685,
+   "comments": 163,
    "author": "rafaelc",
    "time_iso": "2026-11-20T21:03:12+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 246
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 685
     }
    ]
   },
@@ -348,14 +400,18 @@
    "title": "Getting the mind to steer the body to steer you",
    "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
    "hn_url": "https://news.ycombinator.com/item?id=50583028",
-   "score": 48,
-   "comments": 20,
+   "score": 168,
+   "comments": 59,
    "author": "jger15",
    "time_iso": "2026-11-20T22:11:05+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 48
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 168
     }
    ]
   },
@@ -464,8 +520,8 @@
    "title": "RCE in Gnupg",
    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
    "hn_url": "https://news.ycombinator.com/item?id=50587208",
-   "score": 208,
-   "comments": 85,
+   "score": 235,
+   "comments": 96,
    "author": "gdgghhhhh",
    "time_iso": "2026-11-21T08:32:58+00:00",
    "history": [
@@ -476,6 +532,10 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 208
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 235
     }
    ]
   },
@@ -500,8 +560,8 @@
    "title": "My monitor was cutting my download speed by 75%",
    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
    "hn_url": "https://news.ycombinator.com/item?id=50587875",
-   "score": 399,
-   "comments": 205,
+   "score": 505,
+   "comments": 240,
    "author": "soheilpro",
    "time_iso": "2026-11-21T10:36:32+00:00",
    "history": [
@@ -512,6 +572,10 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 399
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 505
     }
    ]
   },
@@ -536,8 +600,8 @@
    "title": "Detonating a pile of lead azide",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
    "hn_url": "https://news.ycombinator.com/item?id=50588982",
-   "score": 451,
-   "comments": 299,
+   "score": 536,
+   "comments": 357,
    "author": "beginning_end",
    "time_iso": "2026-11-21T13:23:14+00:00",
    "history": [
@@ -548,6 +612,10 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 451
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 536
     }
    ]
   },
@@ -556,8 +624,8 @@
    "title": "Lean verification of the Riemann Hypothesis",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
    "hn_url": "https://news.ycombinator.com/item?id=50589618",
-   "score": 676,
-   "comments": 543,
+   "score": 861,
+   "comments": 721,
    "author": "g-b-r",
    "time_iso": "2026-11-21T14:36:45+00:00",
    "history": [
@@ -568,6 +636,10 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 676
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 861
     }
    ]
   },
@@ -576,14 +648,18 @@
    "title": "Show HN: Zero C# – C# without a runtime or GC",
    "url": "https://onurgumus.github.io/zero-csharp/index.html",
    "hn_url": "https://news.ycombinator.com/item?id=50590279",
-   "score": 102,
-   "comments": 78,
+   "score": 133,
+   "comments": 100,
    "author": "reverseblade2",
    "time_iso": "2026-11-21T15:39:09+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 102
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 133
     }
    ]
   },
@@ -592,14 +668,18 @@
    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
    "url": "https://math.mit.edu/~drew/grh/",
    "hn_url": "https://news.ycombinator.com/item?id=50590441",
-   "score": 69,
-   "comments": 23,
+   "score": 103,
+   "comments": 37,
    "author": "Bluestein",
    "time_iso": "2026-11-21T15:54:34+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 69
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 103
     }
    ]
   },
@@ -608,14 +688,18 @@
    "title": "PostgreSQL Extensions in Go",
    "url": "https://jespino.github.io/gopgext/",
    "hn_url": "https://news.ycombinator.com/item?id=50591260",
-   "score": 96,
-   "comments": 11,
+   "score": 122,
+   "comments": 22,
    "author": "valyala",
    "time_iso": "2026-11-21T17:08:04+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 96
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 122
     }
    ]
   },
@@ -624,30 +708,54 @@
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
    "hn_url": "https://news.ycombinator.com/item?id=50591853",
-   "score": 264,
-   "comments": 55,
+   "score": 370,
+   "comments": 94,
    "author": "k__",
    "time_iso": "2026-11-21T18:02:19+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 264
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 370
     }
    ]
   },
   {
    "id": "hn-50592097",
-   "title": "Upload2Shell · CVE-2026-125396",
+   "title": "Upload2Shell (CVE-2026-125396)",
    "url": "https://pwn.ai/upload2shell",
    "hn_url": "https://news.ycombinator.com/item?id=50592097",
-   "score": 49,
-   "comments": 12,
+   "score": 81,
+   "comments": 34,
    "author": "f311a",
    "time_iso": "2026-11-21T18:29:29+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 49
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 81
+    }
+   ]
+  },
+  {
+   "id": "hn-50593481",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "url": "https://www.pandex.io",
+   "hn_url": "https://news.ycombinator.com/item?id=50593481",
+   "score": 39,
+   "comments": 7,
+   "author": "vasie",
+   "time_iso": "2026-11-21T20:47:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 39
     }
    ]
   },
@@ -656,14 +764,18 @@
    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
    "hn_url": "https://news.ycombinator.com/item?id=50593637",
-   "score": 4,
-   "comments": 1,
+   "score": 33,
+   "comments": 12,
    "author": "marojejian",
    "time_iso": "2026-11-21T21:06:14+00:00",
    "history": [
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 4
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 33
     }
    ]
   },
@@ -680,6 +792,90 @@
     {
      "t": "2026-11-22T06:00:11.813300+08:00",
      "score": 1
+    },
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "id": "hn-50593737",
+   "title": "Advice for the next 100 Rust GUIs",
+   "url": "https://linebender.org/blog/next-100-guis/",
+   "hn_url": "https://news.ycombinator.com/item?id=50593737",
+   "score": 103,
+   "comments": 18,
+   "author": "raphlinus",
+   "time_iso": "2026-11-21T21:17:53+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50594132",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "hn_url": "https://news.ycombinator.com/item?id=50594132",
+   "score": 71,
+   "comments": 8,
+   "author": "sebaandrada",
+   "time_iso": "2026-11-21T22:09:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 71
+    }
+   ]
+  },
+  {
+   "id": "hn-50594911",
+   "title": "Sandwich Simulator",
+   "url": "https://stulle.app/",
+   "hn_url": "https://news.ycombinator.com/item?id=50594911",
+   "score": 39,
+   "comments": 16,
+   "author": "subdomain",
+   "time_iso": "2026-11-22T00:07:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50595168",
+   "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "hn_url": "https://news.ycombinator.com/item?id=50595168",
+   "score": 18,
+   "comments": 3,
+   "author": "ebrahimh",
+   "time_iso": "2026-11-22T00:57:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50595554",
+   "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "hn_url": "https://news.ycombinator.com/item?id=50595554",
+   "score": 9,
+   "comments": 3,
+   "author": "sdko",
+   "time_iso": "2026-11-22T02:14:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-22T10:47:52.866384+08:00",
+     "score": 9
     }
    ]
   }
