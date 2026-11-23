@@ -4,9 +4,10 @@
    "first_week": "2026-W45",
    "weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 79,
+   "hits": 91,
    "samples": [
     {
      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
@@ -21,14 +22,15 @@
      "url": "https://github.com/anthropics/claude-code/issues/107757"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "gpt": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "hits": 49,
+   "hits": 69,
    "samples": [
     {
      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
@@ -43,7 +45,7 @@
      "url": "https://openai.com/index/greptile-code-review-codex-astra"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W47"
   },
   "gemini": {
    "first_week": "2026-W45",
@@ -130,9 +132,10 @@
    "first_week": "2026-W45",
    "weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 59,
+   "hits": 90,
    "samples": [
     {
      "title": "OpenAI's agents talked to each other through the CPU Cache",
@@ -147,7 +150,7 @@
      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "our": {
    "first_week": "2026-W45",
@@ -175,9 +178,10 @@
   "astra": {
    "first_week": "2026-W45",
    "weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "hits": 39,
+   "hits": 56,
    "samples": [
     {
      "title": "Astra can read and write weights to improve Qwen",
@@ -186,9 +190,13 @@
     {
      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
      "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+    },
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
     }
    ],
-   "last_week": "2026-W45"
+   "last_week": "2026-W47"
   },
   "weights": {
    "first_week": "2026-W45",
@@ -212,9 +220,10 @@
    "first_week": "2026-W45",
    "weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 39,
+   "hits": 56,
    "samples": [
     {
      "title": "Breaking the open web won't stop the bad bots",
@@ -229,7 +238,7 @@
      "url": "https://ketchup3d.github.io/app/"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "research": {
    "first_week": "2026-W45",
@@ -257,9 +266,10 @@
    "first_week": "2026-W45",
    "weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 45,
+   "hits": 61,
    "samples": [
     {
      "title": "Claude Code sends your email address to websites",
@@ -274,7 +284,7 @@
      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "ask": {
    "first_week": "2026-W45",
@@ -333,9 +343,10 @@
   "nvidia": {
    "first_week": "2026-W46",
    "weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 19,
+   "hits": 34,
    "samples": [
     {
      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
@@ -344,16 +355,21 @@
     {
      "title": "Nvidia is preparing to oust Jensen Huang",
      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    },
+    {
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "google": {
    "first_week": "2026-W46",
    "weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "hits": 19,
+   "hits": 37,
    "samples": [
     {
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
@@ -362,9 +378,13 @@
     {
      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+     "title": "Google's AI answers reducing search traffic by 40%",
+     "url": "https://revscope.co/blog/search-seo-geo-2026/"
     }
    ],
-   "last_week": "2026-W46"
+   "last_week": "2026-W47"
   },
   "huang": {
    "first_week": "2026-W46",
@@ -437,8 +457,80 @@
     }
    ],
    "last_week": "2026-W46"
+  },
+  "sol": {
+   "first_week": "2026-W47",
+   "weeks": [
+    "2026-W47"
+   ],
+   "hits": 16,
+   "samples": [
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+     "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
+     "url": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol"
+    }
+   ],
+   "last_week": "2026-W47"
+  },
+  "microsoft": {
+   "first_week": "2026-W47",
+   "weeks": [
+    "2026-W47"
+   ],
+   "hits": 13,
+   "samples": [
+    {
+     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+    },
+    {
+     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+     "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+    }
+   ],
+   "last_week": "2026-W47"
+  },
+  "models": {
+   "first_week": "2026-W47",
+   "weeks": [
+    "2026-W47"
+   ],
+   "hits": 12,
+   "samples": [
+    {
+     "title": "Seven new models at scalable price-performance",
+     "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "url": "https://thedataexchange.media/pete-warden-moonshine/"
+    }
+   ],
+   "last_week": "2026-W47"
+  },
+  "codex": {
+   "first_week": "2026-W47",
+   "weeks": [
+    "2026-W47"
+   ],
+   "hits": 11,
+   "samples": [
+    {
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola"
+    }
+   ],
+   "last_week": "2026-W47"
   }
  },
- "updated_at": "2026-11-16T11:06:23.394070+08:00",
- "week": "2026-W46"
+ "updated_at": "2026-11-23T11:59:40.477377+08:00",
+ "week": "2026-W47"
 }

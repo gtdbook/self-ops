@@ -1,0 +1,364 @@
+{
+ "week": "2026-W47",
+ "days": [
+  "2026-11-16",
+  "2026-11-17",
+  "2026-11-18",
+  "2026-11-19",
+  "2026-11-20",
+  "2026-11-21",
+  "2026-11-22"
+ ],
+ "generated_at": "2026-11-23T11:59:40.429077+08:00",
+ "themes": [
+  {
+   "token": "openai",
+   "weight": 31,
+   "days": 7,
+   "samples": [
+    {
+     "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
+     "url": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work"
+    }
+   ]
+  },
+  {
+   "token": "gpt",
+   "weight": 20,
+   "days": 4,
+   "samples": [
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+     "title": "[推广] GPT-6.2 Astra 上线,欢迎友友来这里为自己账号订阅❤",
+     "url": "https://www.v2ex.com/t/1257875#reply4"
+    }
+   ]
+  },
+  {
+   "token": "google",
+   "weight": 18,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Google's AI answers reducing search traffic by 40%",
+     "url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    }
+   ]
+  },
+  {
+   "token": "open",
+   "weight": 17,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Claude solves two open problems in the physics of black holes",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "url": "https://thedataexchange.media/pete-warden-moonshine/"
+    }
+   ]
+  },
+  {
+   "token": "astra",
+   "weight": 17,
+   "days": 4,
+   "samples": [
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+     "title": "[推广] GPT-6.2 Astra 上线,欢迎友友来这里为自己账号订阅❤",
+     "url": "https://www.v2ex.com/t/1257875#reply4"
+    }
+   ]
+  },
+  {
+   "token": "claude",
+   "weight": 16,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+     "title": "Claude solves two open problems in the physics of black holes",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    }
+   ]
+  },
+  {
+   "token": "sol",
+   "weight": 16,
+   "days": 5,
+   "samples": [
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+     "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
+     "url": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol"
+    }
+   ]
+  },
+  {
+   "token": "nvidia",
+   "weight": 15,
+   "days": 5,
+   "samples": [
+    {
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
+    },
+    {
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+     "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+    }
+   ]
+  },
+  {
+   "token": "microsoft",
+   "weight": 13,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+    },
+    {
+     "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+     "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+    }
+   ]
+  },
+  {
+   "token": "code",
+   "weight": 12,
+   "days": 6,
+   "samples": [
+    {
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+     "title": "Unauthenticated remote code execution in Nginx",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+    }
+   ]
+  },
+  {
+   "token": "models",
+   "weight": 12,
+   "days": 5,
+   "samples": [
+    {
+     "title": "Seven new models at scalable price-performance",
+     "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "url": "https://thedataexchange.media/pete-warden-moonshine/"
+    }
+   ]
+  },
+  {
+   "token": "codex",
+   "weight": 11,
+   "days": 7,
+   "samples": [
+    {
+     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+     "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola"
+    }
+   ]
+  }
+ ],
+ "top_items": [
+  {
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "meta": "本周出现 2 天 · +201 分 / 6.9 小时 · 现 ⭐ 204",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 85.0
+  },
+  {
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "url": "https://arxiv.org/abs/2611.21885",
+   "meta": "本周出现 2 天 · +238 分 / 13.7 小时 · 现 ⭐ 389",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 85.0
+  },
+  {
+   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "url": "https://alpo.ge/remark.pdf",
+   "meta": "本周出现 2 天 · +966 分 / 13.7 小时 · 现 ⭐ 2552",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.6
+  },
+  {
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+   "meta": "本周出现 2 天 · +407 分 / 13.7 小时 · 现 ⭐ 412",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.6
+  },
+  {
+   "title": "Inkling 2 Mini",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "meta": "本周出现 2 天 · +307 分 / 7.4 小时 · 现 ⭐ 908",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.6
+  },
+  {
+   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+   "meta": "本周出现 1 天 · +200 分 / 10.8 小时 · 现 ⭐ 416",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "meta": "本周出现 1 天 · +459 分 / 15.5 小时 · 现 ⭐ 558",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Unauthenticated remote code execution in Nginx",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "meta": "本周出现 1 天 · +706 分 / 13.9 小时 · 现 ⭐ 1370",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "meta": "本周出现 1 天 · +376 分 / 14.8 小时 · 现 ⭐ 495",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  },
+  {
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "meta": "本周出现 1 天 · +93 分 / 14.8 小时 · 现 ⭐ 240",
+   "summary": "",
+   "reason": null,
+   "origin_source": "hackernews",
+   "_score": 80.0
+  }
+ ],
+ "stats": {
+  "blog_rss": {
+   "mean": 2480.6,
+   "prev_mean": 2442.9,
+   "delta": 37.7,
+   "error_days": 0
+  },
+  "cn_rss": {
+   "mean": 255.1,
+   "prev_mean": 262.7,
+   "delta": -7.6,
+   "error_days": 0
+  },
+  "github_search": {
+   "mean": 27.3,
+   "prev_mean": 26.6,
+   "delta": 0.7,
+   "error_days": 0
+  },
+  "hackernews": {
+   "mean": 53.6,
+   "prev_mean": 55.0,
+   "delta": -1.4,
+   "error_days": 0
+  },
+  "producthunt": {
+   "mean": 105.1,
+   "prev_mean": 103.9,
+   "delta": 1.3,
+   "error_days": 0
+  }
+ },
+ "evolution_lines": [
+  "work：跨 6 周重现，沉淀入「未归类」圃",
+  "built：跨 6 周重现，沉淀入「未归类」圃",
+  "openai、code、claude、model、gemini、google、open、gpt：追加 2026-W47 周观察记录",
+  "prefs.tokens：nvidia(10次→+1.85)、gemini(10次→+2.26)、decisions(7次→+0.97)、code(6次→+3.53)、video(6次→+0.97)、old(6次→+0.50)、grok(6次→+1.85)、bot(6次→+1.85)",
+  "prefs.tokens：nvidia(12次→+2.26)、gemini(10次→+2.65)、decisions(7次→+1.43)、years(6次→+0.50)、agents(6次→+0.50)、microsoft(6次→+0.50)、video(6次→+1.43)、old(6次→+0.97)",
+  "prefs.tokens：astra(11次→+0.76)、gpt(11次→+0.50)、nvidia(10次→+2.65)、gemini(8次→+3.02)、sol(8次→+0.50)、microsoft(8次→+0.97)、models(6次→+1.51)、years(6次→+0.97)",
+  "prefs.tokens：astra(14次→+1.22)、gpt(14次→+0.97)、sol(11次→+0.97)、nvidia(8次→+3.02)、openai(6次→+0.50)、apple(6次→+0.50)、reverse(6次→+0.50)、video(6次→+1.79)",
+  "prefs.tokens：astra(14次→+1.66)、gpt(14次→+1.43)、sol(11次→+1.43)、models(6次→+1.87)、openai(6次→+0.97)、apple(6次→+0.97)、video(6次→+2.20)、data(5次→+0.50)",
+  "prefs.tokens：astra(14次→+2.08)、gpt(14次→+1.85)、sol(11次→+1.85)、hypothesis(6次→+0.50)、riemann(6次→+0.50)、open(6次→+1.07)、mini(6次→+0.50)、inkling(6次→+0.50)",
+  "prefs.tokens：gpt(14次→+2.26)、astra(14次→+2.47)、sol(11次→+2.26)、open(8次→+1.51)、riemann(6次→+0.97)、hypothesis(6次→+0.97)、mini(6次→+0.97)、inkling(6次→+0.97)"
+ ],
+ "garden": {
+  "total_themes": 26,
+  "evergreen": 4,
+  "new_this_week": 4,
+  "top": [
+   "🌸 code（追踪 3 周 · 累计 91 次）",
+   "🌸 openai（追踪 3 周 · 累计 90 次）",
+   "gpt（追踪 2 周 · 累计 69 次）",
+   "gemini（追踪 2 周 · 累计 66 次）",
+   "🌸 claude（追踪 3 周 · 累计 61 次）",
+   "our（追踪 2 周 · 累计 58 次）",
+   "astra（追踪 2 周 · 累计 56 次）",
+   "🌸 open（追踪 3 周 · 累计 56 次）",
+   "model（追踪 1 周 · 累计 40 次）",
+   "research（追踪 1 周 · 累计 40 次）",
+   "google（追踪 2 周 · 累计 37 次）",
+   "nvidia（追踪 2 周 · 累计 34 次）",
+   "carbon（追踪 1 周 · 累计 30 次）",
+   "scale（追踪 1 周 · 累计 26 次）",
+   "weights（追踪 1 周 · 累计 26 次）",
+   "ask（追踪 1 周 · 累计 17 次）",
+   "huang（追踪 1 周 · 累计 17 次）",
+   "sol（追踪 1 周 · 累计 16 次）",
+   "jensen（追踪 1 周 · 累计 14 次）",
+   "stop（追踪 1 周 · 累计 14 次）",
+   "work（追踪 1 周 · 累计 14 次）",
+   "brain（追踪 1 周 · 累计 13 次）",
+   "microsoft（追踪 1 周 · 累计 13 次）",
+   "api（追踪 1 周 · 累计 12 次）",
+   "models（追踪 1 周 · 累计 12 次）",
+   "codex（追踪 1 周 · 累计 11 次）"
+  ]
+ }
+}
