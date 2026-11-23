@@ -3,15 +3,15 @@ type: theme
 token: built
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 6
+last_week: 2026-W48
+weeks: 7
 hits: 27
 status: 常青
 ---
 
 # built
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -37,14 +37,17 @@ status: 常青
 
 - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) — 飙升榜 · 2026-11-13
 - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) — 飙升榜 · 2026-11-09
+### 2026-W48
+
+- [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) — 飙升榜 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
 - [[model]]（共同出现 5 条）
 - [[open]]（共同出现 3 条）
 - [[source]]（共同出现 3 条）
-- [[scale]]（共同出现 2 条）
 - [[years]]（共同出现 2 条）
-- [[only]]（共同出现 2 条）
-- [[video]]（共同出现 2 条）
+- [[language]]（共同出现 2 条）
 - [[programming]]（共同出现 2 条）
+- [[video]]（共同出现 2 条）
+- [[rust]]（共同出现 2 条）

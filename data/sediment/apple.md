@@ -3,15 +3,15 @@ type: theme
 token: apple
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 6
-hits: 43
+last_week: 2026-W48
+weeks: 7
+hits: 41
 status: 常青
 ---
 
 # apple
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -39,13 +39,17 @@ status: 常青
 ### 2026-W47
 
 - [[Apple TV] AppleTV 登录港区 ID 一段时间后 AppStore 自动消失](https://www.v2ex.com/t/1257285#reply2) — 中文技术圈 · 2026-11-16
+### 2026-W48
+
+- [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
+- [[mac]]（共同出现 6 条）
+- [[agent]]（共同出现 4 条）
+- [[own]]（共同出现 4 条）
 - [[found]]（共同出现 3 条）
-- [[mac]]（共同出现 2 条）
-- [[openai]]（共同出现 2 条）
-- [[should]]（共同出现 2 条）
-- [[human]]（共同出现 2 条）
+- [[app]]（共同出现 3 条）
 - [[level]]（共同出现 2 条）
 - [[pro]]（共同出现 2 条）
+- [[human]]（共同出现 2 条）

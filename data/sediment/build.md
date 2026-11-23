@@ -3,15 +3,15 @@ type: theme
 token: build
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 34
+last_week: 2026-W48
+weeks: 8
+hits: 35
 status: 常青
 ---
 
 # build
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -43,14 +43,18 @@ status: 常青
 
 - [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola) — 博客与技术媒体 · 2026-11-16
 - [Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security) — 博客与技术媒体 · 2026-11-16
+### 2026-W48
+
+- [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola) — 博客与技术媒体 · 2026-11-23
+- [Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
 - [[api]]（共同出现 15 条）
 - [[decisions]]（共同出现 15 条）
-- [[openai]]（共同出现 6 条）
+- [[openai]]（共同出现 13 条）
 - [[google]]（共同出现 4 条）
-- [[should]]（共同出现 4 条）
-- [[software]]（共同出现 4 条）
 - [[model]]（共同出现 3 条）
+- [[own]]（共同出现 3 条）
 - [[android]]（共同出现 2 条）
+- [[data]]（共同出现 2 条）

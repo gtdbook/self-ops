@@ -3,15 +3,15 @@ type: theme
 token: agent
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 45
+last_week: 2026-W48
+weeks: 8
+hits: 40
 status: 常青
 ---
 
 # agent
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -48,7 +48,12 @@ status: 常青
 
 - [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/) — 博客与技术媒体 · 2026-11-16
 - [[AI Agent 智能体] 有没有 Ai 能够辅助我，提醒我有哪些工作要做？](https://www.v2ex.com/t/1257273#reply1) — 中文技术圈 · 2026-11-16
+### 2026-W48
+
+- [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-（暂无——不为孤立页强行连线）
+- [[apple]]（共同出现 4 条）
+- [[mac]]（共同出现 4 条）
+- [[own]]（共同出现 4 条）

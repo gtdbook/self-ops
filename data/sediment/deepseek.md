@@ -3,15 +3,15 @@ type: theme
 token: deepseek
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 36
+last_week: 2026-W48
+weeks: 8
+hits: 32
 status: 常青
 ---
 
 # deepseek
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -43,9 +43,12 @@ status: 常青
 ### 2026-W47
 
 - [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) — GitHub 新星榜 · 2026-11-16
+### 2026-W48
+
+- [[问与答] deepseek 和哪家终端 CLI 工具搭配效果最好](https://www.v2ex.com/t/1258974#reply1) — 中文技术圈 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[flash]]（共同出现 10 条）
 - [[out]]（共同出现 3 条）
+- [[inference]]（共同出现 3 条）
 - [[claude]]（共同出现 2 条）

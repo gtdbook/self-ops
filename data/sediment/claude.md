@@ -3,15 +3,15 @@ type: theme
 token: claude
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 83
+last_week: 2026-W48
+weeks: 8
+hits: 88
 status: 常青
 ---
 
 # claude
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -48,14 +48,19 @@ status: 常青
 
 - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) — 飙升榜 · 2026-11-16
 - [Claude Meetings](https://www.producthunt.com/products/claude) — Product Hunt 新品 · 2026-11-16
+### 2026-W48
+
+- [[Claude] 一个护照可以几个 KYC claude](https://www.v2ex.com/t/1258986#reply0) — 中文技术圈 · 2026-11-23
+- [[程序员] 躺起编程：我给 VS Code 做了个扩展，躺在沙发上也能用手机接着和 Claude Code 写代码，从查看测试结果到追问报错，不用远程桌面，也不用重新解释项目上下文](https://www.v2ex.com/t/1258984#reply0) — 中文技术圈 · 2026-11-23
+- [[Claude] 一朋友 提出的关于稳定访问 Claude 的设想](https://www.v2ex.com/t/1258977#reply4) — 中文技术圈 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[code]]（共同出现 22 条）
-- [[open]]（共同出现 5 条）
+- [[code]]（共同出现 24 条）
+- [[open]]（共同出现 7 条）
 - [[gpt]]（共同出现 4 条）
 - [[ask]]（共同出现 3 条）
 - [[codex]]（共同出现 3 条）
-- [[google]]（共同出现 2 条）
-- [[pro]]（共同出现 2 条）
 - [[deepseek]]（共同出现 2 条）
+- [[pro]]（共同出现 2 条）
+- [[google]]（共同出现 2 条）

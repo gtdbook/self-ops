@@ -3,15 +3,15 @@ type: theme
 token: open
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 58
+last_week: 2026-W48
+weeks: 8
+hits: 63
 status: 常青
 ---
 
 # open
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -49,14 +49,18 @@ status: 常青
 - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto) — 飙升榜 · 2026-11-16
 - [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) — 博客与技术媒体 · 2026-11-16
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) — Hacker News 热榜 · 2026-11-16
+### 2026-W48
+
+- [Open Social Web Alliance](https://osw-alliance.net/en/) — 飙升榜 · 2026-11-23
+- [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
 - [[source]]（共同出现 21 条）
-- [[claude]]（共同出现 5 条）
-- [[muse]]（共同出现 4 条）
-- [[free]]（共同出现 3 条）
+- [[join]]（共同出现 17 条）
+- [[claude]]（共同出现 7 条）
 - [[built]]（共同出现 3 条）
-- [[scale]]（共同出现 3 条）
-- [[software]]（共同出现 3 条）
 - [[takes]]（共同出现 3 条）
+- [[model]]（共同出现 3 条）
+- [[rust]]（共同出现 3 条）
+- [[free]]（共同出现 3 条）

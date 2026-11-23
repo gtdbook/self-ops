@@ -3,15 +3,15 @@ type: theme
 token: turns
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 6
-hits: 29
+last_week: 2026-W48
+weeks: 7
+hits: 21
 status: 常青
 ---
 
 # turns
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -35,10 +35,12 @@ status: 常青
 ### 2026-W46
 
 - [Evernote turns AI-driven discovery into paid subscriptions](https://openai.com/ads/customers/evernote) — 博客与技术媒体 · 2026-11-12
+### 2026-W48
+
+- [Evernote turns AI-driven discovery into paid subscriptions](https://openai.com/ads/customers/evernote) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
 - [[creative]]（共同出现 18 条）
 - [[openai]]（共同出现 18 条）
 - [[bug]]（共同出现 4 条）
-- [[meta]]（共同出现 4 条）

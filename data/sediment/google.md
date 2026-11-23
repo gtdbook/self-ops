@@ -3,15 +3,15 @@ type: theme
 token: google
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 59
+last_week: 2026-W48
+weeks: 8
+hits: 62
 status: 常青
 ---
 
 # google
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -43,14 +43,19 @@ status: 常青
 ### 2026-W47
 
 - [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/) — 博客与技术媒体 · 2026-11-16
+### 2026-W48
+
+- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/) — 博客与技术媒体 · 2026-11-23
+- [gylive/google-ultra](https://github.com/gylive/google-ultra) — GitHub 新星榜 · 2026-11-23
+- [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) — GitHub 新星榜 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
+- [[bringing]]（共同出现 13 条）
+- [[creative]]（共同出现 13 条）
 - [[pro]]（共同出现 10 条）
-- [[bringing]]（共同出现 6 条）
-- [[creative]]（共同出现 6 条）
 - [[gemini]]（共同出现 6 条）
-- [[run]]（共同出现 5 条）
 - [[android]]（共同出现 4 条）
-- [[build]]（共同出现 4 条）
 - [[data]]（共同出现 4 条）
+- [[build]]（共同出现 4 条）
+- [[carbon]]（共同出现 2 条）

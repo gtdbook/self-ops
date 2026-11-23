@@ -3,15 +3,15 @@ type: theme
 token: our
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 5
-hits: 42
+last_week: 2026-W48
+weeks: 6
+hits: 49
 status: 常青
 ---
 
 # our
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -34,14 +34,17 @@ status: 常青
 ### 2026-W47
 
 - [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — 博客与技术媒体 · 2026-11-16
+### 2026-W48
+
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[model]]（共同出现 26 条）
+- [[model]]（共同出现 33 条）
 - [[carbon]]（共同出现 15 条）
 - [[frontier]]（共同出现 15 条）
 - [[gemini]]（共同出现 15 条）
 - [[next]]（共同出现 15 条）
 - [[brain]]（共同出现 14 条）
 - [[human]]（共同出现 14 条）
-- [[across]]（共同出现 7 条）
+- [[across]]（共同出现 14 条）

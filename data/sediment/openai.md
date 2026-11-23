@@ -3,15 +3,15 @@ type: theme
 token: openai
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
-hits: 91
+last_week: 2026-W48
+weeks: 8
+hits: 105
 status: 常青
 ---
 
 # openai
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -49,14 +49,19 @@ status: 常青
 - [Singapore Airlines elevates travel & work with OpenAI technology](https://openai.com/index/singapore-airlines-travel-work) — 博客与技术媒体 · 2026-11-16
 - [Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security) — 博客与技术媒体 · 2026-11-16
 - [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer) — 博客与技术媒体 · 2026-11-16
+### 2026-W48
+
+- [Singapore Airlines elevates travel & work with OpenAI technology](https://openai.com/index/singapore-airlines-travel-work) — 博客与技术媒体 · 2026-11-23
+- [Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security) — 博客与技术媒体 · 2026-11-23
+- [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer) — 博客与技术媒体 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[work]]（共同出现 18 条）
+- [[work]]（共同出现 25 条）
 - [[creative]]（共同出现 18 条）
 - [[turns]]（共同出现 18 条）
+- [[airlines]]（共同出现 13 条）
+- [[build]]（共同出现 13 条）
 - [[beyond]]（共同出现 12 条）
 - [[code]]（共同出现 12 条）
-- [[math]]（共同出现 7 条）
-- [[build]]（共同出现 6 条）
-- [[gpt]]（共同出现 4 条）
+- [[gpt]]（共同出现 9 条）

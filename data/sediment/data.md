@@ -3,15 +3,15 @@ type: theme
 token: data
 bed: 未归类
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 6
-hits: 22
+last_week: 2026-W48
+weeks: 7
+hits: 23
 status: 常青
 ---
 
 # data
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -39,11 +39,14 @@ status: 常青
 ### 2026-W46
 
 - [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) — 博客与技术媒体 · 2026-11-09
+### 2026-W48
+
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) — Hacker News 热榜 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
-- [[meta]]（共同出现 5 条）
 - [[out]]（共同出现 4 条）
 - [[google]]（共同出现 4 条）
 - [[api]]（共同出现 2 条）
+- [[windows]]（共同出现 2 条）
 - [[build]]（共同出现 2 条）

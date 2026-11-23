@@ -6,7 +6,7 @@ first_week: 2026-W41
 last_week: 2026-W47
 weeks: 3
 hits: 26
-status: 常青
+status: 休眠
 ---
 
 # storytold
@@ -31,4 +31,4 @@ status: 常青
 
 ## 相关页（真实共同出现 ≥2 条）
 
-（暂无——不为孤立页强行连线）
+- [[anything]]（共同出现 6 条）

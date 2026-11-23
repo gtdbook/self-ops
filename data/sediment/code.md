@@ -3,15 +3,15 @@ type: theme
 token: code
 bed: AI 与智能体
 first_week: 2026-W41
-last_week: 2026-W47
-weeks: 7
+last_week: 2026-W48
+weeks: 8
 hits: 87
 status: 常青
 ---
 
 # code
 
-> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W47
+> 沉淀判据：跨 ≥2 周反复出现。观察记录**只进不改**、矛盾并存不终审；每条带出处。最近沉淀 2026-W48
 
 ## 观察记录
 
@@ -48,14 +48,17 @@ status: 常青
 
 - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) — 飙升榜 · 2026-11-16
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) — Hacker News 热榜 · 2026-11-16
+### 2026-W48
+
+- [[程序员] 躺起编程：我给 VS Code 做了个扩展，躺在沙发上也能用手机接着和 Claude Code 写代码，从查看测试结果到追问报错，不用远程桌面，也不用重新解释项目上下文](https://www.v2ex.com/t/1258984#reply0) — 中文技术圈 · 2026-11-23
 
 ## 相关页（真实共同出现 ≥2 条）
 
 - [[beyond]]（共同出现 27 条）
-- [[claude]]（共同出现 22 条）
-- [[review]]（共同出现 16 条）
+- [[claude]]（共同出现 24 条）
 - [[astra]]（共同出现 15 条）
 - [[bug]]（共同出现 15 条）
 - [[gpt]]（共同出现 15 条）
 - [[takes]]（共同出现 15 条）
 - [[openai]]（共同出现 12 条）
+- [[work]]（共同出现 12 条）
