@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-23T08:06:57.820999+08:00",
- "count": 44,
+ "updated_at": "2026-11-23T15:05:41.561690+08:00",
+ "count": 56,
  "items": [
   {
    "id": "hn-50546124",
@@ -28,8 +28,8 @@
    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
    "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
    "hn_url": "https://news.ycombinator.com/item?id=50547698",
-   "score": 59,
-   "comments": 1,
+   "score": 192,
+   "comments": 45,
    "author": "graemep",
    "time_iso": "2026-11-18T15:43:29+00:00",
    "history": [
@@ -40,6 +40,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 59
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 192
     }
    ]
   },
@@ -92,6 +96,22 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50560563",
+   "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+   "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+   "hn_url": "https://news.ycombinator.com/item?id=50560563",
+   "score": 42,
+   "comments": 21,
+   "author": "speckx",
+   "time_iso": "2026-11-19T14:27:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 42
     }
    ]
   },
@@ -152,6 +172,22 @@
    ]
   },
   {
+   "id": "hn-50569505",
+   "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+   "url": "https://arxiv.org/abs/2506.13771",
+   "hn_url": "https://news.ycombinator.com/item?id=50569505",
+   "score": 31,
+   "comments": 5,
+   "author": "kakadu",
+   "time_iso": "2026-11-20T02:40:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 31
+    }
+   ]
+  },
+  {
    "id": "hn-50574768",
    "title": "The Gateless Gate 3D",
    "url": "https://frankforce.com/the-gateless-gate-3d/",
@@ -168,6 +204,22 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 7
+    }
+   ]
+  },
+  {
+   "id": "hn-50577353",
+   "title": "Verifying formal models of Raft implementations",
+   "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+   "hn_url": "https://news.ycombinator.com/item?id=50577353",
+   "score": 26,
+   "comments": 0,
+   "author": "alpaylan",
+   "time_iso": "2026-11-20T16:33:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 26
     }
    ]
   },
@@ -412,12 +464,28 @@
    ]
   },
   {
+   "id": "hn-50598441",
+   "title": "Masullo on the Riemann Hypothesis",
+   "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+   "hn_url": "https://news.ycombinator.com/item?id=50598441",
+   "score": 177,
+   "comments": 92,
+   "author": "xiaoyu2006",
+   "time_iso": "2026-11-22T10:59:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 177
+    }
+   ]
+  },
+  {
    "id": "hn-50599762",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "url": "https://github.com/gulivan/worker755",
    "hn_url": "https://news.ycombinator.com/item?id=50599762",
-   "score": 262,
-   "comments": 59,
+   "score": 308,
+   "comments": 74,
    "author": "ivantgam",
    "time_iso": "2026-11-22T13:56:58+00:00",
    "history": [
@@ -432,6 +500,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 262
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 308
     }
    ]
   },
@@ -520,8 +592,8 @@
    "title": "Perplexity and Intelligence",
    "url": "https://openai.com/index/perplexity-and-intelligence/",
    "hn_url": "https://news.ycombinator.com/item?id=50601525",
-   "score": 451,
-   "comments": 305,
+   "score": 554,
+   "comments": 377,
    "author": "acossta",
    "time_iso": "2026-11-22T17:06:27+00:00",
    "history": [
@@ -536,6 +608,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 451
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 554
     }
    ]
   },
@@ -560,8 +636,8 @@
    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "hn_url": "https://news.ycombinator.com/item?id=50602843",
-   "score": 305,
-   "comments": 126,
+   "score": 446,
+   "comments": 226,
    "author": "gaws",
    "time_iso": "2026-11-22T19:10:34+00:00",
    "history": [
@@ -572,6 +648,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 305
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 446
     }
    ]
   },
@@ -580,8 +660,8 @@
    "title": "What Happened to Silicon Valley?",
    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
    "hn_url": "https://news.ycombinator.com/item?id=50602947",
-   "score": 352,
-   "comments": 197,
+   "score": 588,
+   "comments": 308,
    "author": "greenyouse",
    "time_iso": "2026-11-22T19:20:15+00:00",
    "history": [
@@ -592,6 +672,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 352
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 588
     }
    ]
   },
@@ -600,8 +684,8 @@
    "title": "Assume People Are Not Interested in Your Blog Post",
    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
    "hn_url": "https://news.ycombinator.com/item?id=50603143",
-   "score": 33,
-   "comments": 13,
+   "score": 152,
+   "comments": 79,
    "author": "dshacker",
    "time_iso": "2026-11-22T19:41:30+00:00",
    "history": [
@@ -612,6 +696,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 152
     }
    ]
   },
@@ -636,8 +724,8 @@
    "title": "Nyx, the Oldest Internet Service Provider",
    "url": "https://nyx.net/",
    "hn_url": "https://news.ycombinator.com/item?id=50603465",
-   "score": 75,
-   "comments": 8,
+   "score": 125,
+   "comments": 18,
    "author": "o_-_o",
    "time_iso": "2026-11-22T20:15:59+00:00",
    "history": [
@@ -648,6 +736,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 75
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 125
     }
    ]
   },
@@ -656,8 +748,8 @@
    "title": "A miniature San Francisco with live buses, planes and boats",
    "url": "https://smallsf.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50603589",
-   "score": 100,
-   "comments": 41,
+   "score": 235,
+   "comments": 88,
    "author": "dutilh",
    "time_iso": "2026-11-22T20:33:23+00:00",
    "history": [
@@ -668,6 +760,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 100
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 235
     }
    ]
   },
@@ -676,8 +772,8 @@
    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "hn_url": "https://news.ycombinator.com/item?id=50603845",
-   "score": 142,
-   "comments": 49,
+   "score": 415,
+   "comments": 170,
    "author": "Retell15",
    "time_iso": "2026-11-22T21:01:16+00:00",
    "history": [
@@ -688,6 +784,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 142
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 415
     }
    ]
   },
@@ -716,8 +816,8 @@
    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
    "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
    "hn_url": "https://news.ycombinator.com/item?id=50604123",
-   "score": 24,
-   "comments": 7,
+   "score": 98,
+   "comments": 33,
    "author": "joonehur",
    "time_iso": "2026-11-22T21:33:12+00:00",
    "history": [
@@ -728,6 +828,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 24
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 98
     }
    ]
   },
@@ -756,8 +860,8 @@
    "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
    "hn_url": "https://news.ycombinator.com/item?id=50604472",
-   "score": 38,
-   "comments": 6,
+   "score": 106,
+   "comments": 19,
    "author": "hectormauer",
    "time_iso": "2026-11-22T22:10:58+00:00",
    "history": [
@@ -768,6 +872,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 38
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 106
     }
    ]
   },
@@ -796,8 +904,8 @@
    "title": "GL.iNet Security Notice 2026-11-20",
    "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
    "hn_url": "https://news.ycombinator.com/item?id=50604988",
-   "score": 33,
-   "comments": 11,
+   "score": 163,
+   "comments": 76,
    "author": "gregsadetsky",
    "time_iso": "2026-11-22T23:06:37+00:00",
    "history": [
@@ -808,6 +916,10 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 33
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 163
     }
    ]
   },
@@ -816,8 +928,8 @@
    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
    "hn_url": "https://news.ycombinator.com/item?id=50605045",
-   "score": 81,
-   "comments": 32,
+   "score": 212,
+   "comments": 158,
    "author": "Qision",
    "time_iso": "2026-11-22T23:12:10+00:00",
    "history": [
@@ -828,6 +940,138 @@
     {
      "t": "2026-11-23T08:06:57.820999+08:00",
      "score": 81
+    },
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 212
+    }
+   ]
+  },
+  {
+   "id": "hn-50606072",
+   "title": "What we learned operating auth for 1k APIs",
+   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "hn_url": "https://news.ycombinator.com/item?id=50606072",
+   "score": 36,
+   "comments": 4,
+   "author": "fagnerbrack",
+   "time_iso": "2026-11-23T01:01:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 36
+    }
+   ]
+  },
+  {
+   "id": "hn-50606192",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv",
+   "hn_url": "https://news.ycombinator.com/item?id=50606192",
+   "score": 389,
+   "comments": 55,
+   "author": "SockThief",
+   "time_iso": "2026-11-23T01:13:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 389
+    }
+   ]
+  },
+  {
+   "id": "hn-50606499",
+   "title": "Treemap of the Riemann Hypothesis Lean Proof",
+   "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+   "hn_url": "https://news.ycombinator.com/item?id=50606499",
+   "score": 43,
+   "comments": 9,
+   "author": "pengowray",
+   "time_iso": "2026-11-23T01:50:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50607261",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "hn_url": "https://news.ycombinator.com/item?id=50607261",
+   "score": 157,
+   "comments": 69,
+   "author": "mmastrac",
+   "time_iso": "2026-11-23T03:49:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 157
+    }
+   ]
+  },
+  {
+   "id": "hn-50607498",
+   "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+   "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+   "hn_url": "https://news.ycombinator.com/item?id=50607498",
+   "score": 91,
+   "comments": 20,
+   "author": "gscott",
+   "time_iso": "2026-11-23T04:31:32+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 91
+    }
+   ]
+  },
+  {
+   "id": "hn-50607627",
+   "title": "A Partial Evaluator for C",
+   "url": "https://phoenix.labri.fr/software/tempo/",
+   "hn_url": "https://news.ycombinator.com/item?id=50607627",
+   "score": 26,
+   "comments": 1,
+   "author": "measurablefunc",
+   "time_iso": "2026-11-23T04:51:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 26
+    }
+   ]
+  },
+  {
+   "id": "hn-50607668",
+   "title": "Yes, 17M lines of Lean is a lot",
+   "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+   "hn_url": "https://news.ycombinator.com/item?id=50607668",
+   "score": 13,
+   "comments": 8,
+   "author": "seizethecheese",
+   "time_iso": "2026-11-23T05:00:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50608390",
+   "title": "CollectWise (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+   "hn_url": "https://news.ycombinator.com/item?id=50608390",
+   "score": 1,
+   "comments": 0,
+   "author": "OBrien_1107",
+   "time_iso": "2026-11-23T07:01:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-23T15:05:41.561690+08:00",
+     "score": 1
     }
    ]
   }
