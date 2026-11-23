@@ -12,6 +12,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write # 失败即时告警需要开/评论 issue
   pages: write
   id-token: write
 
@@ -44,7 +45,16 @@ jobs:
             echo "本轮无数据变更，跳过提交"
           else
             git commit -m "data: 自动抓取与处理 $(date -u '+%Y-%m-%d %H:%M') UTC"
-            git push || { echo "push 被拒（GitHub 偶发 5xx），30s 后重试一次"; sleep 30; git push; }
+            # pipeline / heartbeat / evolve / weekly / sediment 都会推 main，
+            # 撞车时 rebase 远端新提交再重试；裸重试只会再撞同一次失败
+            for i in 1 2 3; do
+              if git push; then exit 0; fi
+              echo "[retry $i] push 被拒（并发提交竞争），rebase 后重试"
+              git pull --rebase --autostash origin main
+              sleep $((i * 8))
+            done
+            echo "push 重试 3 次仍失败"
+            exit 1
           fi
 
       - name: 失败即时告警
@@ -62,7 +72,7 @@ jobs:
     timeout-minutes: 10
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url || steps.deploy3.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -81,5 +91,20 @@ jobs:
         with:
           path: _site
 
-      - id: deploy
+      - name: 等待 artifact 索引生效
+        run: sleep 15 # 规避 artifact API 一致性延迟导致的 "No artifacts named github-pages"
+
+      # deploy-pages 偶发 "Fetching artifact metadata failed"（GitHub API 瞬时抖动），
+      # 最多重试两次；任一次成功即结束
+      - id: deploy1
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - id: deploy3
+        if: steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4

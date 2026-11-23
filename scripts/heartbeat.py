@@ -17,6 +17,7 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(__file__))
 from common import (  # noqa: E402
+    push_with_rebase_retry,
     DATA_DIR,
     REPO_ROOT,
     append_panel_comment,
@@ -182,7 +183,7 @@ def commit_status(payload):
         return
     run("commit", "-m", "heartbeat: 自检状态落盘（站点运行面板数据源）")
     run("pull", "--rebase", "origin", "main")
-    run("push")
+    push_with_rebase_retry()
 
 
 def main():

@@ -144,6 +144,42 @@ def gh_api(path, *, token, method="GET", payload=None):
         raise RuntimeError(f"GitHub API {method} {url} -> HTTP {e.code}: {e.read()[:300]!r}")
 
 
+# ---------------------------------------------------------------- git 推送加固
+
+
+def push_with_rebase_retry(max_attempts=4, base_wait=8):
+    """推送 origin main；竞争被拒（fetch first / non-fast-forward）时 rebase 后重试。
+
+    self-ops 里 pipeline / heartbeat / evolve / weekly / sediment 多个 job 都会向
+    main 提交，定时重叠时 push 会撞车；不带 rebase 的裸重试只会再撞同一次失败。
+    其它错误原样抛出。
+    """
+    import subprocess
+
+    def _git(*args, check=True):
+        proc = subprocess.run(
+            ["git", *args], cwd=REPO_ROOT, capture_output=True, text=True
+        )
+        if check and proc.returncode != 0:
+            raise RuntimeError(
+                f"git {' '.join(args)} 失败: {(proc.stderr or proc.stdout or '').strip()[:300]}"
+            )
+        return proc
+
+    last_err = ""
+    for attempt in range(1, max_attempts + 1):
+        proc = _git("push", check=False)
+        if proc.returncode == 0:
+            return True
+        last_err = (proc.stderr or proc.stdout or "").strip()[:300]
+        if "fetch first" in last_err or "non-fast-forward" in last_err:
+            _git("pull", "--rebase", "--autostash", "origin", "main")
+            time.sleep(base_wait * attempt)
+            continue
+        raise RuntimeError(f"git push 失败: {last_err}")
+    raise RuntimeError(f"git push 重试 {max_attempts} 次仍被拒: {last_err}")
+
+
 # ---------------------------------------------------------------- issue 告警
 
 

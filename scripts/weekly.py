@@ -19,6 +19,7 @@ from datetime import datetime, timedelta
 
 sys.path.insert(0, os.path.dirname(__file__))
 from common import (  # noqa: E402
+    push_with_rebase_retry,
     DATA_DIR,
     DIGEST_DIR,
     RAW_DIR,
@@ -62,7 +63,7 @@ def git_commit(message):
         return False
     run("commit", "-m", message)
     run("pull", "--rebase", "origin", "main")
-    run("push")
+    push_with_rebase_retry()
     return True
 
 
