@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-23T07:58:30.829871+08:00",
- "count": 23,
+ "updated_at": "2026-11-23T08:06:58.466374+08:00",
+ "count": 29,
  "items": [
   {
    "id": "gh-1459700211",
@@ -117,7 +117,7 @@
    "id": "gh-1460835528",
    "title": "replit/datacat",
    "url": "https://github.com/replit/datacat",
-   "stars": 556,
+   "stars": 557,
    "language": "TypeScript",
    "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
    "created_at": "2026-11-17T02:51:06Z",
@@ -129,6 +129,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 556
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 557
     }
    ]
   },
@@ -147,6 +151,10 @@
     },
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
+     "score": 623
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
      "score": 623
     }
    ]
@@ -170,7 +178,7 @@
    "id": "gh-1461522454",
    "title": "Lemxy/WinRust",
    "url": "https://github.com/Lemxy/WinRust",
-   "stars": 1227,
+   "stars": 1229,
    "language": "Rust",
    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
    "created_at": "2026-11-17T14:27:06Z",
@@ -182,6 +190,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 1227
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 1229
     }
    ]
   },
@@ -197,6 +209,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 506
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 506
     }
    ]
   },
@@ -204,7 +220,7 @@
    "id": "gh-1463963309",
    "title": "iamajmeena/neonclipping",
    "url": "https://github.com/iamajmeena/neonclipping",
-   "stars": 2092,
+   "stars": 2094,
    "language": "Python",
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "created_at": "2026-11-19T10:00:43Z",
@@ -216,6 +232,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 2092
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 2094
     }
    ]
   },
@@ -235,6 +255,25 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 611
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 611
+    }
+   ]
+  },
+  {
+   "id": "gh-1464030607",
+   "title": "duwqijlk/google-trial-tool",
+   "url": "https://github.com/duwqijlk/google-trial-tool",
+   "stars": 432,
+   "language": "JavaScript",
+   "description": "",
+   "created_at": "2026-11-19T11:06:16Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 432
     }
    ]
   },
@@ -253,6 +292,10 @@
     },
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
+     "score": 679
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
      "score": 679
     }
    ]
@@ -273,6 +316,25 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 2746
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 2746
+    }
+   ]
+  },
+  {
+   "id": "gh-1465531278",
+   "title": "danielwh2/sprite-stacking",
+   "url": "https://github.com/danielwh2/sprite-stacking",
+   "stars": 452,
+   "language": "HTML",
+   "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+   "created_at": "2026-11-20T14:32:43Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 452
     }
    ]
   },
@@ -280,7 +342,7 @@
    "id": "gh-1465547415",
    "title": "leanprover-community/riemann-hypothesis",
    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-   "stars": 615,
+   "stars": 617,
    "language": "Lean",
    "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
    "created_at": "2026-11-20T14:47:49Z",
@@ -292,6 +354,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 615
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 617
     }
    ]
   },
@@ -307,6 +373,25 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 512
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 512
+    }
+   ]
+  },
+  {
+   "id": "gh-1465596539",
+   "title": "realdody/americas-recomp",
+   "url": "https://github.com/realdody/americas-recomp",
+   "stars": 506,
+   "language": "",
+   "description": "",
+   "created_at": "2026-11-20T15:33:20Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 506
     }
    ]
   },
@@ -314,7 +399,7 @@
    "id": "gh-1465728637",
    "title": "R0Y00/Xbox2Windows",
    "url": "https://github.com/R0Y00/Xbox2Windows",
-   "stars": 1298,
+   "stars": 1299,
    "language": "Python",
    "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
    "created_at": "2026-11-20T17:43:52Z",
@@ -326,6 +411,25 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 1298
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 1299
+    }
+   ]
+  },
+  {
+   "id": "gh-1465854668",
+   "title": "ItsNotRexed/Hookshot",
+   "url": "https://github.com/ItsNotRexed/Hookshot",
+   "stars": 412,
+   "language": "C++",
+   "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+   "created_at": "2026-11-20T20:06:20Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 412
     }
    ]
   },
@@ -333,7 +437,7 @@
    "id": "gh-1465855400",
    "title": "ItsNotRexed/Leonida",
    "url": "https://github.com/ItsNotRexed/Leonida",
-   "stars": 14818,
+   "stars": 14855,
    "language": "Python",
    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
    "created_at": "2026-11-20T20:07:13Z",
@@ -345,6 +449,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 14818
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 14855
     }
    ]
   },
@@ -364,10 +472,25 @@
    ]
   },
   {
+   "id": "gh-1466075841",
+   "title": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "stars": 453,
+   "language": "Python",
+   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "created_at": "2026-11-21T01:43:00Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 453
+    }
+   ]
+  },
+  {
    "id": "gh-1466325515",
    "title": "omonkeyz/xbox-emulator",
    "url": "https://github.com/omonkeyz/xbox-emulator",
-   "stars": 1299,
+   "stars": 1301,
    "language": "Rust",
    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "created_at": "2026-11-21T08:08:39Z",
@@ -379,6 +502,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 1299
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 1301
     }
    ]
   },
@@ -386,7 +513,7 @@
    "id": "gh-1466635339",
    "title": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 1867,
+   "stars": 1869,
    "language": "Rust",
    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
    "created_at": "2026-11-21T14:40:27Z",
@@ -398,6 +525,10 @@
     {
      "t": "2026-11-23T07:58:30.829871+08:00",
      "score": 1867
+    },
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 1869
     }
    ]
   },
@@ -413,6 +544,21 @@
     {
      "t": "2026-11-23T02:12:35.323114+08:00",
      "score": 503
+    }
+   ]
+  },
+  {
+   "id": "gh-1467519193",
+   "title": "os6/nospeaker",
+   "url": "https://github.com/os6/nospeaker",
+   "stars": 411,
+   "language": "Swift",
+   "description": "make your macbook's trackpad talk using its haptic motor",
+   "created_at": "2026-11-22T12:05:54Z",
+   "history": [
+    {
+     "t": "2026-11-23T08:06:58.466374+08:00",
+     "score": 411
     }
    ]
   }
