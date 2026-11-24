@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-24T12:35:43.759726+08:00",
- "count": 42,
+ "updated_at": "2026-11-24T23:29:52.616621+08:00",
+ "count": 59,
  "items": [
   {
    "id": "hn-50574412",
@@ -120,6 +120,22 @@
    ]
   },
   {
+   "id": "hn-50592307",
+   "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+   "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+   "hn_url": "https://news.ycombinator.com/item?id=50592307",
+   "score": 80,
+   "comments": 8,
+   "author": "grep_it",
+   "time_iso": "2026-11-21T18:49:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 80
+    }
+   ]
+  },
+  {
    "id": "hn-50594935",
    "title": "Derivative Flipping",
    "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
@@ -132,6 +148,54 @@
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 4
+    }
+   ]
+  },
+  {
+   "id": "hn-50598094",
+   "title": "An anti-slavery sugar bowl (2024)",
+   "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+   "hn_url": "https://news.ycombinator.com/item?id=50598094",
+   "score": 64,
+   "comments": 36,
+   "author": "leonry",
+   "time_iso": "2026-11-22T10:12:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 64
+    }
+   ]
+  },
+  {
+   "id": "hn-50598679",
+   "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
+   "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50598679",
+   "score": 43,
+   "comments": 6,
+   "author": "bookofjoe",
+   "time_iso": "2026-11-22T11:35:03+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50599458",
+   "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+   "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+   "hn_url": "https://news.ycombinator.com/item?id=50599458",
+   "score": 74,
+   "comments": 24,
+   "author": "martincmartin",
+   "time_iso": "2026-11-22T13:21:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 74
     }
    ]
   },
@@ -152,18 +216,54 @@
    ]
   },
   {
+   "id": "hn-50604355",
+   "title": "Tomato Fraud? When San Marzano Is \"San Marzano\" – Cinco Tomatos",
+   "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50604355",
+   "score": 4,
+   "comments": 1,
+   "author": "ncr100",
+   "time_iso": "2026-11-22T21:59:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 4
+    }
+   ]
+  },
+  {
    "id": "hn-50604710",
    "title": "Modernizing iperf/iperf3 and introducing fireperf",
    "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
    "hn_url": "https://news.ycombinator.com/item?id=50604710",
-   "score": 14,
-   "comments": 0,
+   "score": 141,
+   "comments": 11,
    "author": "edward",
    "time_iso": "2026-11-22T22:37:51+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 14
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 141
+    }
+   ]
+  },
+  {
+   "id": "hn-50605361",
+   "title": "The new set of problems for engineers to solve",
+   "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+   "hn_url": "https://news.ycombinator.com/item?id=50605361",
+   "score": 50,
+   "comments": 34,
+   "author": "ot",
+   "time_iso": "2026-11-22T23:42:53+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 50
     }
    ]
   },
@@ -200,6 +300,22 @@
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 558
+    }
+   ]
+  },
+  {
+   "id": "hn-50608343",
+   "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+   "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+   "hn_url": "https://news.ycombinator.com/item?id=50608343",
+   "score": 9,
+   "comments": 0,
+   "author": "shraddhaag",
+   "time_iso": "2026-11-23T06:54:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 9
     }
    ]
   },
@@ -312,8 +428,8 @@
    "title": "Nvidia Reinstates Jensen Huang as CEO",
    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "hn_url": "https://news.ycombinator.com/item?id=50611576",
-   "score": 2300,
-   "comments": 3304,
+   "score": 2707,
+   "comments": 3559,
    "author": "jaz",
    "time_iso": "2026-11-23T14:00:18+00:00",
    "history": [
@@ -324,6 +440,10 @@
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 2300
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 2707
     }
    ]
   },
@@ -348,8 +468,8 @@
    "title": "Ladybird is now in alpha",
    "url": "https://ladybird.org/posts/alpha/",
    "hn_url": "https://news.ycombinator.com/item?id=50614249",
-   "score": 1583,
-   "comments": 373,
+   "score": 2236,
+   "comments": 539,
    "author": "janvdberg",
    "time_iso": "2026-11-23T16:13:12+00:00",
    "history": [
@@ -360,6 +480,10 @@
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 1583
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 2236
     }
    ]
   },
@@ -472,14 +596,18 @@
    "title": "GPUI is getting its own repository",
    "url": "https://github.com/zed-industries/gpui",
    "hn_url": "https://news.ycombinator.com/item?id=50619103",
-   "score": 185,
-   "comments": 63,
+   "score": 341,
+   "comments": 117,
    "author": "EvilGoose",
    "time_iso": "2026-11-23T20:52:54+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 185
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 341
     }
    ]
   },
@@ -536,14 +664,18 @@
    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
    "hn_url": "https://news.ycombinator.com/item?id=50620349",
-   "score": 303,
-   "comments": 143,
+   "score": 591,
+   "comments": 305,
    "author": "shaunpud",
    "time_iso": "2026-11-23T22:32:29+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 303
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 591
     }
    ]
   },
@@ -580,6 +712,22 @@
    ]
   },
   {
+   "id": "hn-50622638",
+   "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+   "url": "https://github.com/ItsNotRexed/Leonida/issues",
+   "hn_url": "https://news.ycombinator.com/item?id=50622638",
+   "score": 187,
+   "comments": 224,
+   "author": "smuhakg",
+   "time_iso": "2026-11-24T02:08:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 187
+    }
+   ]
+  },
+  {
    "id": "hn-50622769",
    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
    "url": "https://wgna.com/car-bill-extra-fees/",
@@ -600,14 +748,18 @@
    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
    "hn_url": "https://news.ycombinator.com/item?id=50622774",
-   "score": 88,
-   "comments": 31,
+   "score": 582,
+   "comments": 275,
    "author": "DeepLogin",
    "time_iso": "2026-11-24T02:27:02+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 88
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 582
     }
    ]
   },
@@ -616,14 +768,18 @@
    "title": "Declare is a UI language for you and your AI",
    "url": "https://davidtemkin.github.io/declarelang/",
    "hn_url": "https://news.ycombinator.com/item?id=50622854",
-   "score": 5,
-   "comments": 0,
+   "score": 83,
+   "comments": 59,
    "author": "ilamont",
    "time_iso": "2026-11-24T02:36:56+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 83
     }
    ]
   },
@@ -696,14 +852,162 @@
    "title": "Drone Maps of Salvage Yards",
    "url": "https://salvageyarddrone.wordpress.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50623515",
-   "score": 12,
-   "comments": 0,
+   "score": 142,
+   "comments": 52,
    "author": "uptrails",
    "time_iso": "2026-11-24T04:00:28+00:00",
    "history": [
     {
      "t": "2026-11-24T12:35:43.759726+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 142
+    }
+   ]
+  },
+  {
+   "id": "hn-50624061",
+   "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+   "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+   "hn_url": "https://news.ycombinator.com/item?id=50624061",
+   "score": 170,
+   "comments": 90,
+   "author": "zdw",
+   "time_iso": "2026-11-24T05:15:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50624497",
+   "title": "2035 came early",
+   "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "hn_url": "https://news.ycombinator.com/item?id=50624497",
+   "score": 554,
+   "comments": 216,
+   "author": "setheron",
+   "time_iso": "2026-11-24T06:30:33+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 554
+    }
+   ]
+  },
+  {
+   "id": "hn-50625384",
+   "title": "Quad9 pulled their DNS service from France",
+   "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+   "hn_url": "https://news.ycombinator.com/item?id=50625384",
+   "score": 115,
+   "comments": 39,
+   "author": "farrokhi",
+   "time_iso": "2026-11-24T08:33:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 115
+    }
+   ]
+  },
+  {
+   "id": "hn-50625953",
+   "title": "Just a Few Bugs",
+   "url": "https://www.justafewbugs.xyz/",
+   "hn_url": "https://news.ycombinator.com/item?id=50625953",
+   "score": 70,
+   "comments": 24,
+   "author": "jjjegly",
+   "time_iso": "2026-11-24T09:47:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 70
+    }
+   ]
+  },
+  {
+   "id": "hn-50626413",
+   "title": "Worshipping at the altar of Brendan Gregg",
+   "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+   "hn_url": "https://news.ycombinator.com/item?id=50626413",
+   "score": 121,
+   "comments": 16,
+   "author": "kqr",
+   "time_iso": "2026-11-24T10:50:14+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 121
+    }
+   ]
+  },
+  {
+   "id": "hn-50626861",
+   "title": "Who in Washington owns and trades Nvidia stock",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "hn_url": "https://news.ycombinator.com/item?id=50626861",
+   "score": 209,
+   "comments": 95,
+   "author": "hubraumhugo",
+   "time_iso": "2026-11-24T11:51:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 209
+    }
+   ]
+  },
+  {
+   "id": "hn-50627340",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "hn_url": "https://news.ycombinator.com/item?id=50627340",
+   "score": 416,
+   "comments": 178,
+   "author": "surprisetalk",
+   "time_iso": "2026-11-24T12:40:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 416
+    }
+   ]
+  },
+  {
+   "id": "hn-50627783",
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "hn_url": "https://news.ycombinator.com/item?id=50627783",
+   "score": 47,
+   "comments": 18,
+   "author": "andrem",
+   "time_iso": "2026-11-24T13:19:31+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 47
+    }
+   ]
+  },
+  {
+   "id": "hn-50628932",
+   "title": "Anthropic is below its IPO price",
+   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+   "hn_url": "https://news.ycombinator.com/item?id=50628932",
+   "score": 38,
+   "comments": 21,
+   "author": "novaRom",
+   "time_iso": "2026-11-24T14:41:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:52.616621+08:00",
+     "score": 38
     }
    ]
   }

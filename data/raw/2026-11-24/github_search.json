@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-24T12:35:44.442151+08:00",
- "count": 26,
+ "updated_at": "2026-11-24T23:29:53.418392+08:00",
+ "count": 28,
  "items": [
   {
    "id": "gh-1460835528",
@@ -52,7 +52,7 @@
    "id": "gh-1463683138",
    "title": "INK-Q/agy-fast",
    "url": "https://github.com/INK-Q/agy-fast",
-   "stars": 812,
+   "stars": 1017,
    "language": "TypeScript",
    "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
    "created_at": "2026-11-19T04:58:46Z",
@@ -64,6 +64,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 812
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 1017
     }
    ]
   },
@@ -71,7 +75,7 @@
    "id": "gh-1463963309",
    "title": "iamajmeena/neonclipping",
    "url": "https://github.com/iamajmeena/neonclipping",
-   "stars": 2323,
+   "stars": 2407,
    "language": "Python",
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "created_at": "2026-11-19T10:00:43Z",
@@ -83,6 +87,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 2323
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 2407
     }
    ]
   },
@@ -90,7 +98,7 @@
    "id": "gh-1464004445",
    "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-   "stars": 712,
+   "stars": 722,
    "language": "Python",
    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
    "created_at": "2026-11-19T10:40:46Z",
@@ -102,6 +110,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 712
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 722
     }
    ]
   },
@@ -109,7 +121,7 @@
    "id": "gh-1464126198",
    "title": "MSNightmare/FastUnlock",
    "url": "https://github.com/MSNightmare/FastUnlock",
-   "stars": 704,
+   "stars": 712,
    "language": "",
    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
    "created_at": "2026-11-19T12:37:51Z",
@@ -121,6 +133,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 704
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 712
     }
    ]
   },
@@ -143,7 +159,7 @@
    "id": "gh-1464795219",
    "title": "ThreatDefence/agentic-attack-detections",
    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-   "stars": 575,
+   "stars": 608,
    "language": "Python",
    "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Surica",
    "created_at": "2026-11-20T00:06:24Z",
@@ -155,6 +171,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 575
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 608
     }
    ]
   },
@@ -162,7 +182,7 @@
    "id": "gh-1465281397",
    "title": "AFK-surf/xnulinux",
    "url": "https://github.com/AFK-surf/xnulinux",
-   "stars": 2368,
+   "stars": 3044,
    "language": "Objective-C++",
    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
    "created_at": "2026-11-20T10:18:31Z",
@@ -174,6 +194,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 2368
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 3044
     }
    ]
   },
@@ -181,7 +205,7 @@
    "id": "gh-1465531278",
    "title": "danielwh2/sprite-stacking",
    "url": "https://github.com/danielwh2/sprite-stacking",
-   "stars": 683,
+   "stars": 749,
    "language": "HTML",
    "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
    "created_at": "2026-11-20T14:32:43Z",
@@ -193,6 +217,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 683
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 749
     }
    ]
   },
@@ -200,9 +228,9 @@
    "id": "gh-1465547415",
    "title": "leanprover-community/riemann-hypothesis",
    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-   "stars": 896,
+   "stars": 978,
    "language": "Lean",
-   "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+   "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
    "created_at": "2026-11-20T14:47:49Z",
    "history": [
     {
@@ -212,6 +240,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 896
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 978
     }
    ]
   },
@@ -249,7 +281,7 @@
    "id": "gh-1465728637",
    "title": "R0Y00/Xbox2Windows",
    "url": "https://github.com/R0Y00/Xbox2Windows",
-   "stars": 1616,
+   "stars": 1830,
    "language": "Python",
    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
    "created_at": "2026-11-20T17:43:52Z",
@@ -261,6 +293,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 1616
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 1830
     }
    ]
   },
@@ -268,7 +304,7 @@
    "id": "gh-1465852099",
    "title": "ivall/xcl",
    "url": "https://github.com/ivall/xcl",
-   "stars": 4014,
+   "stars": 6977,
    "language": "Rust",
    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
    "created_at": "2026-11-20T20:03:21Z",
@@ -280,6 +316,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 4014
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 6977
     }
    ]
   },
@@ -287,7 +327,7 @@
    "id": "gh-1465854668",
    "title": "ItsNotRexed/Hookshot",
    "url": "https://github.com/ItsNotRexed/Hookshot",
-   "stars": 637,
+   "stars": 681,
    "language": "C++",
    "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
    "created_at": "2026-11-20T20:06:20Z",
@@ -299,6 +339,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 637
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 681
     }
    ]
   },
@@ -321,7 +365,7 @@
    "id": "gh-1466075841",
    "title": "sybil-solutions/skill-distill",
    "url": "https://github.com/sybil-solutions/skill-distill",
-   "stars": 529,
+   "stars": 629,
    "language": "Python",
    "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
    "created_at": "2026-11-21T01:43:00Z",
@@ -329,6 +373,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 529
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 629
     }
    ]
   },
@@ -336,7 +384,7 @@
    "id": "gh-1466325515",
    "title": "omonkeyz/xbox-emulator",
    "url": "https://github.com/omonkeyz/xbox-emulator",
-   "stars": 1705,
+   "stars": 1768,
    "language": "Rust",
    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "created_at": "2026-11-21T08:08:39Z",
@@ -348,6 +396,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 1705
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 1768
     }
    ]
   },
@@ -355,7 +407,7 @@
    "id": "gh-1466635339",
    "title": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 3240,
+   "stars": 3502,
    "language": "Rust",
    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
    "created_at": "2026-11-21T14:40:27Z",
@@ -367,6 +419,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 3240
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 3502
     }
    ]
   },
@@ -374,7 +430,7 @@
    "id": "gh-1466772859",
    "title": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
    "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "stars": 599,
+   "stars": 662,
    "language": "HTML",
    "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
    "created_at": "2026-11-21T17:08:48Z",
@@ -382,6 +438,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 599
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 662
     }
    ]
   },
@@ -389,7 +449,7 @@
    "id": "gh-1467035512",
    "title": "4lwayz/portwatch-vi",
    "url": "https://github.com/4lwayz/portwatch-vi",
-   "stars": 992,
+   "stars": 2092,
    "language": "JavaScript",
    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "created_at": "2026-11-21T23:16:41Z",
@@ -397,6 +457,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 992
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 2092
     }
    ]
   },
@@ -404,7 +468,7 @@
    "id": "gh-1467519193",
    "title": "os6/nospeaker",
    "url": "https://github.com/os6/nospeaker",
-   "stars": 1509,
+   "stars": 1669,
    "language": "Swift",
    "description": "make your macbook's trackpad talk using its haptic motor",
    "created_at": "2026-11-22T12:05:54Z",
@@ -416,6 +480,10 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 1509
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 1669
     }
    ]
   },
@@ -435,10 +503,25 @@
    ]
   },
   {
+   "id": "gh-1467880545",
+   "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+   "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+   "stars": 651,
+   "language": "Rust",
+   "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+   "created_at": "2026-11-22T18:50:17Z",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 651
+    }
+   ]
+  },
+  {
    "id": "gh-1469344551",
    "title": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
-   "stars": 4433,
+   "stars": 9472,
    "language": "Rust",
    "description": "An attempt at running GTA VI on PC",
    "created_at": "2026-11-23T21:47:25Z",
@@ -446,6 +529,25 @@
     {
      "t": "2026-11-24T12:35:44.442151+08:00",
      "score": 4433
+    },
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 9472
+    }
+   ]
+  },
+  {
+   "id": "gh-1469441675",
+   "title": "ubiquitarianism/leonida",
+   "url": "https://github.com/ubiquitarianism/leonida",
+   "stars": 1371,
+   "language": "Python",
+   "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+   "created_at": "2026-11-23T23:54:39Z",
+   "history": [
+    {
+     "t": "2026-11-24T23:29:53.418392+08:00",
+     "score": 1371
     }
    ]
   }
