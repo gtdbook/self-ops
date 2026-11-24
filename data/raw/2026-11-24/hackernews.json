@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-24T03:48:52.310909+08:00",
- "count": 25,
+ "updated_at": "2026-11-24T12:35:43.759726+08:00",
+ "count": 42,
  "items": [
   {
    "id": "hn-50574412",
@@ -32,6 +32,22 @@
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-50582698",
+   "title": "How photos were transmitted by wire in the 1930s (2024)",
+   "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+   "hn_url": "https://news.ycombinator.com/item?id=50582698",
+   "score": 24,
+   "comments": 2,
+   "author": "sammatilda",
+   "time_iso": "2026-11-20T21:47:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 24
     }
    ]
   },
@@ -72,14 +88,18 @@
    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
    "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
    "hn_url": "https://news.ycombinator.com/item?id=50587439",
-   "score": 200,
-   "comments": 66,
+   "score": 319,
+   "comments": 104,
    "author": "geden",
    "time_iso": "2026-11-21T09:14:02+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 200
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 319
     }
    ]
   },
@@ -132,18 +152,38 @@
    ]
   },
   {
+   "id": "hn-50604710",
+   "title": "Modernizing iperf/iperf3 and introducing fireperf",
+   "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50604710",
+   "score": 14,
+   "comments": 0,
+   "author": "edward",
+   "time_iso": "2026-11-22T22:37:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
    "id": "hn-50606192",
    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
    "url": "https://spelunkr.tv",
    "hn_url": "https://news.ycombinator.com/item?id=50606192",
-   "score": 856,
-   "comments": 151,
+   "score": 963,
+   "comments": 167,
    "author": "SockThief",
    "time_iso": "2026-11-23T01:13:51+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 856
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 963
     }
    ]
   },
@@ -200,14 +240,18 @@
    "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
    "url": "https://github.com/os6/nospeaker",
    "hn_url": "https://news.ycombinator.com/item?id=50610318",
-   "score": 216,
-   "comments": 121,
+   "score": 302,
+   "comments": 168,
    "author": "yakkomajuri",
    "time_iso": "2026-11-23T11:31:54+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 216
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 302
     }
    ]
   },
@@ -248,14 +292,18 @@
    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
    "hn_url": "https://news.ycombinator.com/item?id=50611402",
-   "score": 42,
-   "comments": 5,
+   "score": 140,
+   "comments": 29,
    "author": "toebee",
    "time_iso": "2026-11-23T13:42:38+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 42
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 140
     }
    ]
   },
@@ -264,14 +312,18 @@
    "title": "Nvidia Reinstates Jensen Huang as CEO",
    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "hn_url": "https://news.ycombinator.com/item?id=50611576",
-   "score": 1329,
-   "comments": 2474,
+   "score": 2300,
+   "comments": 3304,
    "author": "jaz",
    "time_iso": "2026-11-23T14:00:18+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 1329
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 2300
     }
    ]
   },
@@ -296,14 +348,18 @@
    "title": "Ladybird is now in alpha",
    "url": "https://ladybird.org/posts/alpha/",
    "hn_url": "https://news.ycombinator.com/item?id=50614249",
-   "score": 821,
-   "comments": 226,
+   "score": 1583,
+   "comments": 373,
    "author": "janvdberg",
    "time_iso": "2026-11-23T16:13:12+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 821
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 1583
     }
    ]
   },
@@ -325,17 +381,21 @@
   },
   {
    "id": "hn-50615308",
-   "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+   "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
    "url": "https://twitter.com/ylecun/status/2124550037912920090",
    "hn_url": "https://news.ycombinator.com/item?id=50615308",
-   "score": 206,
-   "comments": 104,
+   "score": 1366,
+   "comments": 756,
    "author": "MrBuddyCasino",
    "time_iso": "2026-11-23T17:07:26+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 206
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 1366
     }
    ]
   },
@@ -389,17 +449,261 @@
   },
   {
    "id": "hn-50617499",
-   "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
    "url": "https://arm.jonpalmisc.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50617499",
-   "score": 157,
-   "comments": 25,
+   "score": 938,
+   "comments": 216,
    "author": "tech234a",
    "time_iso": "2026-11-23T19:17:55+00:00",
    "history": [
     {
      "t": "2026-11-24T03:48:52.310909+08:00",
      "score": 157
+    },
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 938
+    }
+   ]
+  },
+  {
+   "id": "hn-50619103",
+   "title": "GPUI is getting its own repository",
+   "url": "https://github.com/zed-industries/gpui",
+   "hn_url": "https://news.ycombinator.com/item?id=50619103",
+   "score": 185,
+   "comments": 63,
+   "author": "EvilGoose",
+   "time_iso": "2026-11-23T20:52:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 185
+    }
+   ]
+  },
+  {
+   "id": "hn-50619207",
+   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "url": "https://www.bored.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50619207",
+   "score": 162,
+   "comments": 35,
+   "author": "susam",
+   "time_iso": "2026-11-23T21:01:16+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 162
+    }
+   ]
+  },
+  {
+   "id": "hn-50620102",
+   "title": "VP ≠ VNP over Every Field",
+   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "hn_url": "https://news.ycombinator.com/item?id=50620102",
+   "score": 295,
+   "comments": 254,
+   "author": "mikeryan52",
+   "time_iso": "2026-11-23T22:09:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 295
+    }
+   ]
+  },
+  {
+   "id": "hn-50620328",
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "url": "https://arxiv.org/abs/2602.20031",
+   "hn_url": "https://news.ycombinator.com/item?id=50620328",
+   "score": 43,
+   "comments": 3,
+   "author": "joecobb",
+   "time_iso": "2026-11-23T22:29:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 43
+    }
+   ]
+  },
+  {
+   "id": "hn-50620349",
+   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+   "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+   "hn_url": "https://news.ycombinator.com/item?id=50620349",
+   "score": 303,
+   "comments": 143,
+   "author": "shaunpud",
+   "time_iso": "2026-11-23T22:32:29+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 303
+    }
+   ]
+  },
+  {
+   "id": "hn-50620721",
+   "title": "Freeing the iPod Nano 5G",
+   "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+   "hn_url": "https://news.ycombinator.com/item?id=50620721",
+   "score": 67,
+   "comments": 8,
+   "author": "rpm_conservatio",
+   "time_iso": "2026-11-23T23:03:13+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-50620831",
+   "title": "The search for a top dark matter candidate",
+   "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "hn_url": "https://news.ycombinator.com/item?id=50620831",
+   "score": 30,
+   "comments": 7,
+   "author": "apophatic",
+   "time_iso": "2026-11-23T23:12:40+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
+   "id": "hn-50622769",
+   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+   "url": "https://wgna.com/car-bill-extra-fees/",
+   "hn_url": "https://news.ycombinator.com/item?id=50622769",
+   "score": 67,
+   "comments": 14,
+   "author": "binarymax",
+   "time_iso": "2026-11-24T02:26:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 67
+    }
+   ]
+  },
+  {
+   "id": "hn-50622774",
+   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+   "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+   "hn_url": "https://news.ycombinator.com/item?id=50622774",
+   "score": 88,
+   "comments": 31,
+   "author": "DeepLogin",
+   "time_iso": "2026-11-24T02:27:02+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 88
+    }
+   ]
+  },
+  {
+   "id": "hn-50622854",
+   "title": "Declare is a UI language for you and your AI",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "hn_url": "https://news.ycombinator.com/item?id=50622854",
+   "score": 5,
+   "comments": 0,
+   "author": "ilamont",
+   "time_iso": "2026-11-24T02:36:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50622934",
+   "title": "Making a dumb TV just smart enough",
+   "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+   "hn_url": "https://news.ycombinator.com/item?id=50622934",
+   "score": 14,
+   "comments": 2,
+   "author": "andai",
+   "time_iso": "2026-11-24T02:46:54+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 14
+    }
+   ]
+  },
+  {
+   "id": "hn-50623020",
+   "title": "Hacking radiators for fun and no profit",
+   "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+   "hn_url": "https://news.ycombinator.com/item?id=50623020",
+   "score": 6,
+   "comments": 1,
+   "author": "andai",
+   "time_iso": "2026-11-24T02:56:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50623166",
+   "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+   "url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+   "hn_url": "https://news.ycombinator.com/item?id=50623166",
+   "score": 5,
+   "comments": 0,
+   "author": "lumpa",
+   "time_iso": "2026-11-24T03:15:38+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50623175",
+   "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+   "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+   "hn_url": "https://news.ycombinator.com/item?id=50623175",
+   "score": 5,
+   "comments": 0,
+   "author": "jlaufr",
+   "time_iso": "2026-11-24T03:16:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50623515",
+   "title": "Drone Maps of Salvage Yards",
+   "url": "https://salvageyarddrone.wordpress.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50623515",
+   "score": 12,
+   "comments": 0,
+   "author": "uptrails",
+   "time_iso": "2026-11-24T04:00:28+00:00",
+   "history": [
+    {
+     "t": "2026-11-24T12:35:43.759726+08:00",
+     "score": 12
     }
    ]
   }
