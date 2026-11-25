@@ -1,0 +1,1384 @@
+{
+ "source": "cn_rss",
+ "updated_at": "2026-11-25T08:19:34.625487+08:00",
+ "count": 153,
+ "items": [
+  {
+   "id": "rss-005b3e8f746669d5",
+   "title": "[macOS] EnCopy：把复制内容挂在晾衣绳上的 Mac 剪贴板历史，开源免费",
+   "url": "https://www.v2ex.com/t/1259581#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T16:36:33Z",
+   "published_iso": "2026-11-24T16:36:33+00:00",
+   "summary": "Mac 自带的剪贴板只记得最后一次复制的内容，我每天都要按 ⌥C 翻剪贴板历史。之前看到开源项目 Tendedero 把截图晾在屏幕顶上的一根绳子上，很喜欢这个样子。原作者用 MIT 协议把它开源了出来，本身是个完成度很好的小工具。 不过把它当成日常主力剪贴板历史来用时，有几处地方会卡住。它的绳子只挂一屏宽，挂满之后最老的内容会直接进废纸篓；访达里复制的文件挂不上去；操作上只能用鼠标，点一下只复制、不贴入，还得自己再按一次 ⌘V；另外它"
+  },
+  {
+   "id": "rss-0201d9d2d33284f2",
+   "title": "性能优化 | zorm v1.8.7 发布",
+   "url": "https://www.oschina.net/news/503717",
+   "feed_name": "OSCHINA",
+   "published": "Sat, 21 Nov 2026 23:37:48 +0800",
+   "published_iso": "2026-11-21T15:37:48+00:00",
+   "summary": "Go 轻量 ORM, 零依赖，零侵入分布式事务，支持达梦 (dm), 金仓 (kingbase), 神通 (shentong), 南通 (gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse... 源码：https://gitee.com/chunanyong/zorm 官网：https://zorm.cn 基于原生 sql 语句，学习成本更低，性能更优 "
+  },
+  {
+   "id": "rss-03ac8b70032a590f",
+   "title": "XXL-AI v1.7.0 发布｜AI 应用开发平台",
+   "url": "https://www.oschina.net/news/503728",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 00:53:53 +0800",
+   "published_iso": "2026-11-22T16:53:53+00:00",
+   "summary": "Release Notes： 【本地版（Desk 桌面端）】 1、【架构】Harness模块独立：针对会话Loop，包含模型请求、工具调用、MCP调用、SKILL加载等等，统一闭环在chat模块下独立的 harness 模块中，提升可维护性和可扩展性； 2、【模型】会话模型标准化：针对会话模型进行标准化，会话Loop差异化行为统一通过“会话属性”扩展设置..."
+  },
+  {
+   "id": "rss-06cbab5c0d0708d0",
+   "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+   "url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 14:30:00 +0000",
+   "published_iso": "2026-11-23T14:30:00+00:00",
+   "summary": "黄仁勋回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-07bc246f2b484d6d",
+   "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+   "url": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 00:25:24 +0000",
+   "published_iso": "2026-11-23T00:25:24+00:00",
+   "summary": "· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-08517fc160ded9f6",
+   "title": "GIMP 优化自动测试功能，会像真人一样与界面 UI 交互",
+   "url": "https://www.oschina.net/news/503702/gimp-ui-tests",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 15:09:14 +0800",
+   "published_iso": "2026-11-20T07:09:14+00:00",
+   "summary": "GIMP 终于有了一套自动化的界面测试。起因很朴素：GIMP 有大量互相交织的菜单、对话框和工具。改动了界面的一部分，另一部分可能就悄悄坏了——有时候要等到用户报告才发现。 新引入的测试做的事和人一样：点击菜单和按钮，然后检查结果。每次合并贡献者的改动时自动跑。 为什么之前的测试不够 GIMP 本来就有单元测试。但..."
+  },
+  {
+   "id": "rss-0bc8507402ea95b8",
+   "title": "[宽带症候群] 从 openwrt 到用 AI 搓出 VPP 软路由：我的折腾之路与开源项目",
+   "url": "https://www.v2ex.com/t/1259585#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T17:07:00Z",
+   "published_iso": "2026-11-24T17:07:00+00:00",
+   "summary": "作为一个爱折腾的数码爱好者，Linux、黑苹果这些系统我没少瞎捣鼓。后来为了下点“特殊”资源接触到代理软件，再往后发现能直接塞进路由器（尤其是 OpenWrt）里一劳永逸，我的路由折腾之路就此开启。 最开始图省事刷了某“大神”的 LEDE，结果用着用着发现里面有不少不明连接——好家伙，路由器的命脉哪能全靠固件作者的节操来扛？果断切回官方 OpenWrt，虽然干净了，但它的包管理简直是个灾难，动不动就报依赖冲突，折腾得人心累。 再后来 A"
+  },
+  {
+   "id": "rss-0ddbe7d62e246e09",
+   "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+   "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 10:30:04 +0000",
+   "published_iso": "2026-11-24T10:30:04+00:00",
+   "summary": "一亿台鸿蒙设备之后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-11647b6468171089",
+   "title": "Firefox 161 释出",
+   "url": "https://www.solidot.org/story?sid=85979",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 22:22:21 +0800",
+   "published_iso": "2026-11-24T14:22:21+00:00",
+   "summary": "Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站"
+  },
+  {
+   "id": "rss-12832a97d0b740cb",
+   "title": "[生活] 30 岁前的最后一年，究竟什么样才能做到 30 而立呢",
+   "url": "https://www.v2ex.com/t/1259559#reply10",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:44:31Z",
+   "published_iso": "2026-11-24T13:44:31+00:00",
+   "summary": "经朋友提醒，晚上看了一下日历才知道，今天居然是自己 29 岁生日。虽然我一直不是一个对生日很有执念的人，但是这次生日总有种排解不了的郁闷感。 24 的时候结了婚，25 岁有了孩子，前两年又经历出轨、离婚、自杀，但时间一分不少的叠加在了身上，还是不知不觉到了 30 岁前的最后一年。 刚刚看到论坛另一个帖子，也在聊人到 30 的一些感触，但下意识里，会觉得他像是上一辈的人一样，对这个话题充满敬畏，然后才意识到自己跟他不过是同龄人罢了。 前年"
+  },
+  {
+   "id": "rss-133e10d20156bd00",
+   "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
+   "url": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 09:53:48 +0000",
+   "published_iso": "2026-11-23T09:53:48+00:00",
+   "summary": "日本开始狂用 AI 了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-147caf27c34df295",
+   "title": "[分享创造] 朴捷——协同办公的新方式",
+   "url": "https://www.v2ex.com/t/1259583#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T16:53:43Z",
+   "published_iso": "2026-11-24T16:53:43+00:00",
+   "summary": "这几天，朴捷 2.0 算是上线了，也终于可以和大家分享了。 朴捷是什么 朴捷的核心依然项目协同管理软件，但在传统项目协同管理的基础上配上个人 agent。 解决什么问题？ 团队内部个人孤立 agent 上下文的问题 ，通过云端共享的方式让本地 agent 连接上云，任何一个员工接到 agent 很轻松了开始自己的办公。协作更轻松。 agent 操作无法审计的问题，朴捷对项目/任务等操作全部留痕，配合自动审计规则，针对异常活动及时告警。 "
+  },
+  {
+   "id": "rss-16311500c6570132",
+   "title": "[VPS] 黑五有什么 VPS 值得买吗",
+   "url": "https://www.v2ex.com/t/1259547#reply6",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:33:02Z",
+   "published_iso": "2026-11-24T12:33:02+00:00",
+   "summary": "有点想买个 VPS 作为云中枢，目标配置 4C 8G + 100GB SSD，底线 2C 4G 60GB。 预算年付 $100 以下。 线路差不多就好了，但是也不能太拉了。"
+  },
+  {
+   "id": "rss-17beb668d41cd2b6",
+   "title": "微软 CEO 纳德拉承认，VS Code 的护城河被人从终端绕过去了",
+   "url": "https://www.oschina.net/news/503739/nadella-admits-vs-code-faded-in-six-months",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 11:50:52 +0800",
+   "published_iso": "2026-11-23T03:50:52+00:00",
+   "summary": "微软花了十多年把 VS Code 做成开发者的默认工作台。然后 Nadella 自己承认，它称霸十年后仅大概六个月就“销声匿迹”了。 他在《The Pragmatic Engineer》的播客里对 Gergely Orosz 说了这段话： Code went from input to output… In six months or so… IDEs kind of faded away. 代码，原本是开发者主动输入的东西，..."
+  },
+  {
+   "id": "rss-1a2fe23fd071a8e4",
+   "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+   "url": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 08:55:14 +0000",
+   "published_iso": "2026-11-23T08:55:14+00:00",
+   "summary": "具身智能的「大结果」终于有了实感 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-1cad2eed4eeca62d",
+   "title": "英伟达重新任命黄仁勋为 CEO",
+   "url": "https://www.solidot.org/story?sid=85969",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 22:30:59 +0800",
+   "published_iso": "2026-11-23T14:30:59+00:00",
+   "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。"
+  },
+  {
+   "id": "rss-1dfed0ce8ee49256",
+   "title": ":fire: xbatis 1.10.13 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+   "url": "https://www.oschina.net/news/503783",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 17:38:35 +0800",
+   "published_iso": "2026-11-24T09:38:35+00:00",
+   "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0 ..."
+  },
+  {
+   "id": "rss-1e8b59295217100e",
+   "title": "BepiColombo 探测器进入水星轨道",
+   "url": "https://www.solidot.org/story?sid=85965",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 17:42:47 +0800",
+   "published_iso": "2026-11-23T09:42:47+00:00",
+   "summary": "欧洲 ESA 和日本 JAXA 合作的水星探索项目 BepiColombo 以意大利数学家 Giuseppe Colombo 的名字命名，探测器于 2018 年 10 月发射，原计划在六次飞掠水星之后于 2025 年 12 月进入水星轨道。但第四次飞掠水星前推进器出现故障，地面任务规划人员不得不修订时间表。ESA 于 11 月 22 日宣布已将 BepiColombo 计划的两台探测器送入环绕水星的轨道，并确认成功入轨。两台探测器分别为"
+  },
+  {
+   "id": "rss-206124cbfea6a27c",
+   "title": "Ruby 公开披露多个会触发远程代码执行的漏洞",
+   "url": "https://www.oschina.net/news/503699/ruby-lang-multiple-vulnerabilities-in-regexp-and-string",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 12:03:01 +0800",
+   "published_iso": "2026-11-20T04:03:01+00:00",
+   "summary": "Ruby 团队公开表示其正则引擎和字符串大小写转换存在 7 个漏洞。官方安全公告说得很直接：已经知道有 PoC 能证明其中一些可以触发远程代码执行。修复版本是 Ruby 4.0.10、3.4.13 和 3.3.14。 七个漏洞按性质分成两类： 字符串大小写转换里有三个——一个一字节堆溢出、一个整数溢出导致堆溢出，还有一个能引发 RCE。共同..."
+  },
+  {
+   "id": "rss-221707add8442ffd",
+   "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
+   "url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 13:36:06 +0000",
+   "published_iso": "2026-11-24T13:36:06+00:00",
+   "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-237dbf9339df107c",
+   "title": "微语 5.3.0 发布 - 支持远程协助",
+   "url": "https://www.oschina.net/news/503747",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 16:27:26 +0800",
+   "published_iso": "2026-11-23T08:27:26+00:00",
+   "summary": "基于AI全新打造的一款开源企业级多租户团队协作工具，集成多种功能于一体：企业即时通讯IM、在线客服、知识库、客户之声、工单系统、AI对话、工作流、呼叫中心、视频客服、开放平台。提供智能文字客服（在线客服）、智能语音客服（热线客服）、智能外呼、智能营销、智能质检等完整解决方案。 语言 / Language: 中文 | En..."
+  },
+  {
+   "id": "rss-24725981529e977d",
+   "title": "怪手机们要回来了吗？",
+   "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+   "feed_name": "少数派",
+   "published": "Mon, 23 Nov 2026 18:00:30 +0800",
+   "published_iso": "2026-11-23T10:00:30+00:00",
+   "summary": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。"
+  },
+  {
+   "id": "rss-25435447c4b48dbb",
+   "title": ":fire: xbatis 1.10.11 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+   "url": "https://www.oschina.net/news/503711",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 18:02:48 +0800",
+   "published_iso": "2026-11-20T10:02:48+00:00",
+   "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0 ..."
+  },
+  {
+   "id": "rss-256cd77876192c15",
+   "title": "[分享创造] [开源] 谛听 diting：抗 FOMO 的 RSS 阅读器，自定义分级 + 日报 + 知识库(LLM Wiki)",
+   "url": "https://www.v2ex.com/t/1259553#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:16:33Z",
+   "published_iso": "2026-11-24T13:16:33+00:00",
+   "summary": "作为 RSS 重度用户，我常年疲于筛选新信息，随之而来的就是 FOMO：不敢不看，又看不完。上百条更新里，真正值得看的可能只有十几条。多年前我就期待有一个足够聪明的 RSS 阅读器，能帮我降噪。 后来有了 AI 摘要，但筛选成本并没有消失，只是换了个形式。 所以我做了「谛听 diting」，思路是把判断放在内容进入视野之前： 先决定读不读，再谈怎么读。 最近一个多月我已经把 RSS 阅读的主力换成了它，现在开源出来，欢迎体验、交流。 项"
+  },
+  {
+   "id": "rss-260bda7ae5f1183d",
+   "title": "wlnmp更新日志261124",
+   "url": "https://www.oschina.net/news/503763",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 10:06:09 +0800",
+   "published_iso": "2026-11-24T02:06:09+00:00",
+   "summary": "wlnmp 一键安装包 261124 更新内容如下： （更新）php8.2.36、php8.3.37、php8.4.28、php8.5.13 关于 wlnmp 从 2019 年初开始维护 wlnmp 一键安装包这个项目，起初只是为了在日常运维过程中，可以快速的部署 lnmp 服务。wlnmp 已支持国产龙蜥 AnolisOS、OpenCloudOS、欧拉 OpenEuler 系统等。 wlnmp 一键安装包基于上游开..."
+  },
+  {
+   "id": "rss-28237c26cbffc8d3",
+   "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+   "url": "https://sspai.com/post/119023",
+   "feed_name": "少数派",
+   "published": "Mon, 23 Nov 2026 15:12:24 +0800",
+   "published_iso": "2026-11-23T07:12:24+00:00",
+   "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ... 查看全文"
+  },
+  {
+   "id": "rss-2a06518bd8d4b6e5",
+   "title": "GLP-1 减肥药或能对环境产生显著影响",
+   "url": "https://www.solidot.org/story?sid=85967",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 20:48:26 +0800",
+   "published_iso": "2026-11-23T12:48:26+00:00",
+   "summary": "GLP-1 减肥药如 Ozempic 和 Wegovy 会抑制服用者的食欲，如果这种药物能普及，那么抑制食欲减少粮食会带来巨大的环境影响。研究人员估计，如果肥胖成年人广泛服用 GLP-1，预计到 2050 年热量摄入的减少每年可预防多达 660 万例死亡，同时释放多达 3200 万公顷的农业用地。如果热量摄入减少的同时转向健康饮食结构，那么到 2050 年每年可避免多达 700 万例死亡，同时释放约 4600 万公顷的农业用地。全球各地"
+  },
+  {
+   "id": "rss-2b97cfe95cbdaf7b",
+   "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+   "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Sun, 22 Nov 2026 01:35:14 +0000",
+   "published_iso": "2026-11-22T01:35:14+00:00",
+   "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-2d9735311b4fb5b0",
+   "title": "[分享创造] macOS 工时记录工具",
+   "url": "https://www.v2ex.com/t/1259578#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T16:15:11Z",
+   "published_iso": "2026-11-24T16:15:11+00:00",
+   "summary": "我们是灵活工作时间，有时摸鱼太多自己补时间又怕补多了亏。 开发了一个记录工时的 macOS 工具，可以自己调节一天需要完成的工时长度，利用 macOS 的 touchbar 来显示剩余待完成工时。touchbar 上面还可以切换 工作，个人（也就是摸鱼），待机（也就是离开电脑）三种状态。 有感兴趣的我再开源。"
+  },
+  {
+   "id": "rss-2fed52495d4c056f",
+   "title": "[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持美刀支付",
+   "url": "https://www.v2ex.com/t/1259571#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:25:00Z",
+   "published_iso": "2026-11-24T15:25:00+00:00",
+   "summary": "阿里云 7 折 腾讯云 7 折 华为云 7 折 阿里 CDN 3900U/P 腾讯 CDN 3900U/P 火山 CDN 3900U/P 谷歌云 GCP65 折 亚马逊云 AWS 新号 65 折/老号无需迁移 85 折 腾讯云国际 55 折 阿里云国际 65 折 华为云国际 65 折 AWS 全球节点 CDN 加速 1 折 Ai 模型低至 4 折 火山国际 7 折 TG 详聊：@Tiangua7"
+  },
+  {
+   "id": "rss-3188bf0a30840e77",
+   "title": ":fire: xbatis 1.10.12 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+   "url": "https://www.oschina.net/news/503748",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 16:39:01 +0800",
+   "published_iso": "2026-11-23T08:39:01+00:00",
+   "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0 ..."
+  },
+  {
+   "id": "rss-319d7bbc1d27ee32",
+   "title": "Ladybird 发布 alpha 版本，从零开发的开源浏览器引擎",
+   "url": "https://www.oschina.net/news/503767/ladybird-alpha",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 11:27:59 +0800",
+   "published_iso": "2026-11-24T03:27:59+00:00",
+   "summary": "Ladybird 开始进入 alpha 测试阶段。 项目创始人 Andreas Kling 在 11 月 23 日的公告只有一千多字，但第一句就把这件事的分量说清楚了： Ladybird is a browser with a new engine. The engine is our own, built from the ground up, and not a fork. The browser around it is mode"
+  },
+  {
+   "id": "rss-3277f9d9480d52c5",
+   "title": "[程序员] 朋友自研的推理引擎 EMBER，针对 Windows 平台单 5090 跑 DS4.1F 解码最快能达 107tps",
+   "url": "https://www.v2ex.com/t/1259545#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:26:42Z",
+   "published_iso": "2026-11-24T12:26:42+00:00",
+   "summary": "群友 花费了半年，自研火种（EMBER）推理引擎 🔥 Windows 系统上，单卡 5090 跑 Deepseek v4.1 flash 1017 单对话最快解码速度能上 107t/s ，读取速度 PP 3087t/s ，最大支持 1M 上下文，首字延迟控制在 0.5 秒以内 这应该是目前已知的，单张消费级显卡上跑 Deepseek 模型 最快的 推理引擎。目前仅支持 Deepseek v4.1 flash 1017 使用量化「UD-I"
+  },
+  {
+   "id": "rss-32c5eefb5c7c5aec",
+   "title": "qModel 算法模型平台开源版 v1.4.4 发布：参数默认值、入参修复与计算结果可视化扩展",
+   "url": "https://www.oschina.net/news/503761",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 09:32:12 +0800",
+   "published_iso": "2026-11-24T01:32:12+00:00",
+   "summary": "在模型测试、在线调试和创建计算任务之间来回切换时，同一个参数常常要按说明重填多次；计算结果想用图表展示，又受限于支持的数据结构。 qModel 开源版 v1.4.4 围绕这些日常使用问题更新： 参数在定义时设置默认值，并在模型测试、在线调试、创建计算任务三个入口自动带出； 结果可视化新增对象数组、键值数组两种数据结..."
+  },
+  {
+   "id": "rss-34e692a8f905c5bc",
+   "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+   "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+   "feed_name": "阮一峰周刊",
+   "published": "2026-11-20T00:07:30Z",
+   "published_iso": "2026-11-20T00:07:30+00:00",
+   "summary": "这里记录每周值得分享的科技内容，周五发布。..."
+  },
+  {
+   "id": "rss-39196c9fae2ec3ee",
+   "title": "【AI 智能运维平台】本周更新：内置常用智能体模版，简单配置快速启用",
+   "url": "https://www.oschina.net/news/503707",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:02:40 +0800",
+   "published_iso": "2026-11-20T09:02:40+00:00",
+   "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench: 系统管理 • 新增「超级审计员」角色，可只读查看全部组织和应用数据 :card_index_dividers: CMDB • 采集任..."
+  },
+  {
+   "id": "rss-3961d34a554f426c",
+   "title": "智慧党支部 v1.3 发布：16 个支部台账模块，Docker 一条命令起服务",
+   "url": "https://www.oschina.net/news/503721",
+   "feed_name": "OSCHINA",
+   "published": "Sun, 22 Nov 2026 15:54:54 +0800",
+   "published_iso": "2026-11-22T07:54:54+00:00",
+   "summary": "v1.3 发布说明 开源项目「智慧党支部」发布 v1.3。这是一个面向基层党支部的日常办公管理系统，Flask + SQLite 单容器部署，MIT 协议，数据全部保存在本地，不依赖云服务。本次版本把支部日常的\"人、钱、会、事\"收进一个数据库：16 个业务模块、五档权限、五类自动预警，以及一键生成工作报告。 本版包含的 16 个模块 工..."
+  },
+  {
+   "id": "rss-3964f78f2e2922d9",
+   "title": "[分享发现] 开源整理了 304 个 Gemini 4 Argon 做的 3D 场景、互动游戏和网页 Demo（含 JSON 数据集与在线瀑布流）",
+   "url": "https://www.v2ex.com/t/1259563#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:13:44Z",
+   "published_iso": "2026-11-24T14:13:44+00:00",
+   "summary": "最近收集了一堆社区里用 Gemini 4 Argon 做出来的 3D 场景、小游戏和交互 Demo，光靠浏览器收藏夹实在翻不过来，顺手整理成了一个开源仓库： GitHub 仓库： https://github.com/mailes/awesome-gemini-4-argon 在线视频瀑布流直看（免登录）： https://workskill.tools/ai-videos/gemini-4-argon 仓库里按分类做好了 Markdo"
+  },
+  {
+   "id": "rss-3ad19db6a28a9fc2",
+   "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
+   "url": "https://www.solidot.org/story?sid=85968",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 21:58:15 +0800",
+   "published_iso": "2026-11-23T13:58:15+00:00",
+   "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采"
+  },
+  {
+   "id": "rss-41a72093c99ecfe6",
+   "title": "[分享创造] 让 V2EX 更好用的 油猴脚本 - [V2EX Kit]",
+   "url": "https://www.v2ex.com/t/1259573#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:50:09Z",
+   "published_iso": "2026-11-24T15:50:09+00:00",
+   "summary": "使用 AI 重构了一下。 安装地址： https://greasyfork.org/zh-CN/scripts/397787-v2ex-kit 支持如下功能"
+  },
+  {
+   "id": "rss-42e4bbe5cef69f7a",
+   "title": "盖楼有礼 | 寻找 “一亿零一个” 鸿蒙之⭐",
+   "url": "https://my.oschina.net/u/4806939/blog/19789402",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 10:42:47 +0800",
+   "published_iso": "2026-11-24T02:42:47+00:00",
+   "summary": "随着鸿蒙设备累计突破 1 亿台，从日常相伴的手机、平板，到高效生产力 PC 、智能终端，每一台设备，都是一束独立星光 ⭐ 。 它们散落在城市街巷、乡野旅途，跨越山海，奔赴全球各地，陪伴每一位使用者的工作、创作、探索生活。1 亿束星光，属于每一个选择鸿蒙的你 鸿蒙始终坚持技术深耕，随着 HarmonyOS 7（API 26）带来..."
+  },
+  {
+   "id": "rss-45e25d9424d8f0c0",
+   "title": "[宽带症候群] OpenFIR v1.0.0 正式版 TCP/UDP 自适应可靠文件传输协议",
+   "url": "https://www.v2ex.com/t/1259540#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:13:54Z",
+   "published_iso": "2026-11-24T12:13:54+00:00",
+   "summary": "https://github.com/openfir 彻底重构了之前的架构，实测超级稳定"
+  },
+  {
+   "id": "rss-45fb6ddc7305c0be",
+   "title": "新浏览器 Ladybird 释出首个 alpha 版本",
+   "url": "https://www.solidot.org/story?sid=85972",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 14:39:16 +0800",
+   "published_iso": "2026-11-24T06:39:16+00:00",
+   "summary": "SerenityOS 项目创始人 Andreas Kling 从 2025 年起带领一个团队开发一款全新的浏览器 Ladybird。Andreas Kling 在诺基亚和苹果工作时从事 WebKit 引擎相关工作。Ladybird 的引擎完全从零开始编写，不使用 Blink、WebKit、Gecko 或其它浏览器引擎的任何代码，常用功能如图像/音频/视频格式、加密、图形等将使用第三方库实现，但浏览器引擎不会使用其它浏览器引擎代码。现在 "
+  },
+  {
+   "id": "rss-483194af0ed6ffe1",
+   "title": "qData 主数据平台开源版 v1.0.1 发布：聚焦使用反馈，功能细节与产品体验持续优化",
+   "url": "https://www.oschina.net/news/503735",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 11:15:01 +0800",
+   "published_iso": "2026-11-23T03:15:01+00:00",
+   "summary": "一笔冻结申请显示“已通过”，回到主数据列表一看，对应记录却还没冻结。 类似“页面提示与最终状态不一致”的使用反馈，是 qData 主数据平台开源版 v1.0.1 本次集中处理的问题之一。 本次更新以问题修复为主，覆盖全局提示、删除校验、重复检测、审批执行、数据分发和授权管理；同时支持来源数据批量删除和问题数据批量..."
+  },
+  {
+   "id": "rss-48993372ffb27491",
+   "title": "Jync v2.4.5 · 注释同步与游标优先级",
+   "url": "https://www.oschina.net/news/503745",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 15:22:26 +0800",
+   "published_iso": "2026-11-23T07:22:26+00:00",
+   "summary": "Jync v2.4.5 · 注释同步与游标优先级 本版概要 v2.4.5 聚焦数据库元数据完整性与同步可控性：SQL Server 源端可读取表 / 字段注释，Oracle、PostgreSQL、DB2、HANA、SQL Server 目标可写入注释；新增项目级游标列优先级与标签式批量设置；同时修复游标重载、无主键表与前端交互的边界问题。建议所有 2.4.x 用户升级。 ..."
+  },
+  {
+   "id": "rss-493caa24ea3d0dcd",
+   "title": "[Google Gemini] Jio 开始清退了吗",
+   "url": "https://www.v2ex.com/t/1259592#reply4",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T22:46:45Z",
+   "published_iso": "2026-11-24T22:46:45+00:00",
+   "summary": "Your Google AI Pro plan has ended Your Google AI Pro (5 TB) plan provided by Jio has ended, so you have lost access to Gemini in Pro, other next-gen Google AI features* and 5 TB of shareable storage. If you change your m"
+  },
+  {
+   "id": "rss-4b4168697a5582af",
+   "title": "[程序员] rex(ghostty 作者新产品)重度体验",
+   "url": "https://www.v2ex.com/t/1259539#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:01:07Z",
+   "published_iso": "2026-11-24T12:01:07+00:00",
+   "summary": "ghostty 作者的新产品, 上个月看到其他 V 友发了下载方式( /t/1251516 )后开始用, 现在已经成为我的默认 vibe 环境. 用三点来描述 rex: 一个 terminal 软件, 替代了 iterm2/ghostty 内置 tailscale, 作为 server 暴露成服务. 作为 client 连接远程 rex 注: 在 client 端, 需要 tailscale VPN, 不过 LAN 里也支持 ssh 连"
+  },
+  {
+   "id": "rss-4e9e565761df5f31",
+   "title": "TCP/IP 为什么没申请专利？Vint Cerf 说因为不知道 25 年后盟友是谁",
+   "url": "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 10:56:01 +0800",
+   "published_iso": "2026-11-23T02:56:01+00:00",
+   "summary": "TCP/IP 为什么没有申请专利？Vint Cerf 在 João Tomé 的新播客《Future Stories》里给了答案。 他 1970 年代和 Bob Kahn 一起写下了那套让全世界的网络能互相通信的规则。给的理由是这样的： Who will our allies be 25 years from now? And we didn't know. So we thought the only way we can be as"
+  },
+  {
+   "id": "rss-50210e0679258e45",
+   "title": "[Google] 用过 GCP 的注意检查一下 Hybrid Subnets，11 月 10 日起已改为计费，我一周就扣了将近 500！",
+   "url": "https://www.v2ex.com/t/1259546#reply5",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:28:49Z",
+   "published_iso": "2026-11-24T12:28:49+00:00",
+   "summary": "提醒一下各位有 Google Cloud 闲置项目的 V 友，趁着 12 月初月结出账前赶紧看一眼。 事情经过 我有一个个人测试用的项目，好几个月没登录也没动过任何配置，平时账单一直是 0。结果 11 月 18 日突然收到银行卡扣款通知，被直接划走了 10,000 日元（是到了自动扣款的上限）。 翻了一圈邮件发现是开的混合子网功能没关，之前 Hybrid Subnets 一直处于免费试用期，所以几个月来一直没扣过费。Google 其实在"
+  },
+  {
+   "id": "rss-50d8790de4303c81",
+   "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+   "url": "https://sspai.com/post/119460",
+   "feed_name": "少数派",
+   "published": "Tue, 24 Nov 2026 08:37:31 +0800",
+   "published_iso": "2026-11-24T00:37:31+00:00",
+   "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文"
+  },
+  {
+   "id": "rss-51dac516cf7088ea",
+   "title": "🔥MakuBoot 5.3 发布，AI 低代码开发平台，快速开发利器",
+   "url": "https://www.oschina.net/news/503738",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 11:48:47 +0800",
+   "published_iso": "2026-11-23T03:48:47+00:00",
+   "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以..."
+  },
+  {
+   "id": "rss-5395e74a8ec60c6f",
+   "title": "[问与答] 寻找一款 word 直接打印成图片的程序。",
+   "url": "https://www.v2ex.com/t/1259574#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:51:19Z",
+   "published_iso": "2026-11-24T15:51:19+00:00",
+   "summary": "寻找一款 word 直接打印成图片的程序。以前用 zan 打印机，现在看起来打印的图片不是很清晰。"
+  },
+  {
+   "id": "rss-5452a9b1cedd141f",
+   "title": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善",
+   "url": "https://www.oschina.net/news/503782",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 17:36:52 +0800",
+   "published_iso": "2026-11-24T09:36:52+00:00",
+   "summary": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善 MateClaw 是一个开源 AI 助手项目，将对话、记忆、知识库、技能和自动化组织在同一个工作台中，并支持员工、团队协作和多渠道接入。 近期，项目先后发布了 3.0.0（2026 年 10 月 26 日）和 3.1.0（2026 年 11 月 19 日）。这两个版本的更新有一条清晰..."
+  },
+  {
+   "id": "rss-5544c4ee0d80c2c2",
+   "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+   "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 00:02:01 +0000",
+   "published_iso": "2026-11-24T00:02:01+00:00",
+   "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒 · 韩国国家资格考试恢复统一收手机，考生还穿上了围裙 · 知乎参投基金间接入股 DeepSeek #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-5570b3f6dd0a20af",
+   "title": "具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办",
+   "url": "https://www.oschina.net/news/503716",
+   "feed_name": "OSCHINA",
+   "published": "Sat, 21 Nov 2026 15:03:13 +0800",
+   "published_iso": "2026-11-21T07:03:13+00:00",
+   "summary": "为贯彻落实国务院关于推动人形机器人产业发展的决策部署，汇聚全球开发者协同创新，由北京经济技术开发区管理委员会指导的2026人形机器人开发者大会拟于2026年11月25日在北京亦庄北人亦创国际会展中心会议厅（南）举办。 大会以“具身智创·生态共融”为主题，采用“1个主论坛+3场开发者活动”架构，3场开发者活动分别为..."
+  },
+  {
+   "id": "rss-55c21b5a76ea7bf2",
+   "title": "东北积雪天数预计将会显著减少",
+   "url": "https://www.solidot.org/story?sid=85982",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 23:57:38 +0800",
+   "published_iso": "2026-11-24T15:57:38+00:00",
+   "summary": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性"
+  },
+  {
+   "id": "rss-57b28ac8a2efd525",
+   "title": "AI 越来越便宜，AI 越来越烧钱",
+   "url": "https://www.oschina.net/news/503743/token-spending-at-that-jevons-moment",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 15:18:43 +0800",
+   "published_iso": "2026-11-23T07:18:43+00:00",
+   "summary": "160年前，英国经济学家杰文斯观察到一个反直觉的现象：蒸汽机烧煤的效率越高，英国的煤炭消耗量反而越大。 原因并不复杂。效率提高以后，用煤变得更划算，于是更多工厂装上蒸汽机，更多机器延长运转时间。原本指望省下来的煤，最终变成了更大规模的消费。 今天，AI正在重演这一幕。 斯坦福大学《2025年AI指数报告》显示，..."
+  },
+  {
+   "id": "rss-58d080c6b6456c60",
+   "title": "[程序员] 我开源了自己的博客主题 Hugo Icy",
+   "url": "https://www.v2ex.com/t/1259552#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:10:29Z",
+   "published_iso": "2026-11-24T13:10:29+00:00",
+   "summary": "Hugo 静态博客 源码 https://github.com/DejavuMoe/hugo-theme-icy 演示 https://blog.dejavu.moe 文档 https://icy.zsh.moe/"
+  },
+  {
+   "id": "rss-5aa20e1ee229d5e0",
+   "title": "从深圳到上海，少数派的共创故事还在继续",
+   "url": "https://sspai.com/post/119318",
+   "feed_name": "少数派",
+   "published": "Sun, 22 Nov 2026 09:05:44 +0800",
+   "published_iso": "2026-11-22T01:05:44+00:00",
+   "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文"
+  },
+  {
+   "id": "rss-5ae760da7f332ed3",
+   "title": "[推广] V2CC：北美家宽独享实体 Mac mini，预装 Claude Code，首单减 ¥200",
+   "url": "https://www.v2ex.com/t/1259589#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T20:23:19Z",
+   "published_iso": "2026-11-24T20:23:19+00:00",
+   "summary": "各位好，我们是一个小团队，今天正式上线 V2CC（ https://v2cc.app）。 做的事很简单：把一台放在北美家庭宽带里的实体 Mac mini 整机租给你一个人用。原生 macOS，管理员权限，预装 Claude Code 和开发环境，远程连上就能干活。 适合谁 • 出海做产品、需要一台北美本地网络下的 Mac 做开发和测试的人 • 重度用 Claude Code，想让长任务和 Agent 在一台常开机器上跑的人 和常见方案的"
+  },
+  {
+   "id": "rss-5eb60d7e9c5930f1",
+   "title": "谷歌世界模型 Genie 4 更新，支持“实时”更改世界",
+   "url": "https://www.oschina.net/news/503750/google-deepmind-genie-4",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 16:59:18 +0800",
+   "published_iso": "2026-11-23T08:59:18+00:00",
+   "summary": "在生成的世界里走着走着，打一行字，天气就变了；再打一行，一个角色出现在你面前；想换个走向，直接说。 Genie 4 最核心的升级就是这个：你可以在一段生成世界的中途，用文字改写它。 之前的 Project Genie 是「生成一个世界然后进去逛」。用户反馈很一致——想要对世界里发生什么有更深的控制，以及更简单的构建和分享..."
+  },
+  {
+   "id": "rss-5ecb6e3f719f5a5a",
+   "title": "智谱官宣 GLM-5.4：采用 Loop Transformer 架构、开启“泛 Coding”能力",
+   "url": "https://www.oschina.net/news/503756",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 18:30:11 +0800",
+   "published_iso": "2026-11-23T10:30:11+00:00",
+   "summary": "智谱官方刚刚发布了 GLM-5.4 的技术公告，把架构、数据、能力提升，以及限制都摆出来了。 先说最硬的一个数字：GLM-5.4 是在 750B 的基座上，对其中 28 层做两轮循环。官方的说法是\"智能水平达到 2-3T 级模型\"。 官方把改造路径讲得很清楚：权重共享虽然提高参数效率，但在同等预训练计算量下，效果仍然不如不共享的模型..."
+  },
+  {
+   "id": "rss-5f4da310177db1c6",
+   "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+   "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 09:09:14 +0000",
+   "published_iso": "2026-11-24T09:09:14+00:00",
+   "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-632e8bb2000681c0",
+   "title": "[问与答] 佬们，黑五有推荐的玩意儿吗",
+   "url": "https://www.v2ex.com/t/1259564#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:22:12Z",
+   "published_iso": "2026-11-24T14:22:12+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-673e6fdd257899fd",
+   "title": "aTerm v2.5.7：开源 Termius 替代方案，支持 SSH、SFTP 和端口转发",
+   "url": "https://www.oschina.net/news/503764",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 10:17:14 +0800",
+   "published_iso": "2026-11-24T02:17:14+00:00",
+   "summary": "aTerm 是一款面向服务器管理的开源终端应用，支持 macOS、Windows 和 Linux。你可以在同一个工作区管理 SSH 主机和密钥、运行本地与远程终端、编辑服务器上的文件，并通过 SSH 隧道访问内网服务。 SSH 主机与密钥 主机管理：按目录整理开发、预发布和生产环境的连接，支持搜索、拖拽排序和批量移动。 OpenSSH 互通：导入..."
+  },
+  {
+   "id": "rss-689b9d594042b6a2",
+   "title": "神舟二十四号计划 25 日 8 时发射",
+   "url": "https://www.solidot.org/story?sid=85977",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 18:24:21 +0800",
+   "published_iso": "2026-11-24T10:24:21+00:00",
+   "summary": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。航天员武毅来自于中"
+  },
+  {
+   "id": "rss-69880f94193b05eb",
+   "title": "[分享创造] love2.us：做了个免费的在线贺卡英文小站，还能给自己写张卡",
+   "url": "https://www.v2ex.com/t/1259570#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:24:31Z",
+   "published_iso": "2026-11-24T15:24:31+00:00",
+   "summary": "做了个小东西， love2.us ，一个免费的在线贺卡的英文网站。选个模板，写几句话，传几张照片，就生成一个专属链接发给对方，对方点开先看到一个信封，点开才是卡。不用注册，也不收费。 有 9 个模板，生日、爱情、纪念日三种场合，各有可爱、优雅、简约、浪漫几种风格，照片可以调滤镜、排版、加说明。 另外还有个给自己的角落，叫 Dear Me，一直想着，留一个空间给自己，给偶尔需要治愈的自己，可以写下来，几句随意的话，或者鼓励自己的话存在自己"
+  },
+  {
+   "id": "rss-6b65f6e50270675f",
+   "title": "[问与答] 都说前端完了，但是招个人也太难了",
+   "url": "https://www.v2ex.com/t/1259596#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-25T00:14:54Z",
+   "published_iso": "2026-11-25T00:14:54+00:00",
+   "summary": "按理说现在这环境人好招了，但是一周能看的也没几个简历，是因为年底了吗？ 最近更少了 西安，3 年以上，vue 技术栈，有思路想法，有责任心，自研项目，公司还在上升期，非 996， 13k-23k 邮箱: loinoc@qq.com"
+  },
+  {
+   "id": "rss-6cac5353f80842dc",
+   "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+   "url": "https://www.solidot.org/story?sid=85976",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 17:04:43 +0800",
+   "published_iso": "2026-11-24T09:04:43+00:00",
+   "summary": "索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sen"
+  },
+  {
+   "id": "rss-6d0777a82f61a3b5",
+   "title": "派评 | 近期值得关注的 App",
+   "url": "https://sspai.com/post/119438",
+   "feed_name": "少数派",
+   "published": "Mon, 23 Nov 2026 18:08:29 +0800",
+   "published_iso": "2026-11-23T10:08:29+00:00",
+   "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文"
+  },
+  {
+   "id": "rss-70bd3045d1065f4a",
+   "title": "日本人口年龄中位数首次超过 50 岁",
+   "url": "https://www.solidot.org/story?sid=85964",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 16:41:39 +0800",
+   "published_iso": "2026-11-23T08:41:39+00:00",
+   "summary": "日本 2025 年的国势调查显示，日本人口年龄中位数首次超过 50 岁，半个世纪里上升了约 20 岁。日本每 5 年进行一次国势调查。2025 年的调查结果（截至 10 月 1 日，包括外国人在内的总人口）显示，日本人口年龄中位数为 50.5 岁。2020 年这一数字为 48.5 岁。1940 年和 1950 年，日本人口年龄中位数均为 22 岁左右，1975 年为 30.6 岁。根据联合国的《2024 年世界人口展望》，美国和英国的人"
+  },
+  {
+   "id": "rss-71e863879dc3ccc9",
+   "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+   "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 05:55:23 +0000",
+   "published_iso": "2026-11-24T05:55:23+00:00",
+   "summary": "两年之期已到 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-760e46fe1d1f81dc",
+   "title": "phimint v0.13.0 发布：Windows 自更新、卸载、路径显示逐条修好；MIT OR Apache-2.0 双协议",
+   "url": "https://www.oschina.net/news/503758",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 21:53:30 +0800",
+   "published_iso": "2026-11-23T13:53:30+00:00",
+   "summary": "phimint v0.13.0 已发布（2026-11-23）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码。 这一轮要讲的不是新功能，是一批具体的麻烦事被一个一个修好了。跨平台工具真正难的地方往往不在\"能不能跑\"，而在\"装上之后会不会跟你捣乱\"。0.12 到 0.13 这两轮..."
+  },
+  {
+   "id": "rss-7694033264dc53c9",
+   "title": "微软发布 7 款“世界级”新模型，全在打同一个算盘",
+   "url": "https://www.oschina.net/news/503701",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 14:52:54 +0800",
+   "published_iso": "2026-11-20T06:52:54+00:00",
+   "summary": "微软一口气发布了七个宣称是“世界级”的 AI 模型，这个数量本身说明策略变了：不是追求一个最强模型，而是用一整个矩阵覆盖不同价位和场景。官方给的理由很务实——token 开销在飙升，但大家要的是那种能 24 小时不间断跑 agent 做实际工程的价位。 七个都是什么 MAI Cyber 2 Flash，主打 7×24 的前沿网络安全防御。在..."
+  },
+  {
+   "id": "rss-77ba340d3f9a5549",
+   "title": "黄仁勋重回英伟达",
+   "url": "https://www.oschina.net/news/503766/nvidia-board-reinstates-jensen-huang-as-president-ceo",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 10:49:53 +0800",
+   "published_iso": "2026-11-24T02:49:53+00:00",
+   "summary": "黄仁勋离开英伟达不到两周，又回来了。 英伟达董事会在 11 月 23 日通过一致投票，恢复他总裁、CEO 和董事会成员的职务，即刻生效。 根据官方新闻稿，董事会给出的理由之一——他们收到了美国政府高层的信息，并据此确认黄仁勋复职\"不构成国家安全风险\"。总统本人在接受 CNBC 采访时把话说得更直接： \"I convinced them...."
+  },
+  {
+   "id": "rss-78341fc13ee517e3",
+   "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+   "url": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 06:07:33 +0000",
+   "published_iso": "2026-11-23T06:07:33+00:00",
+   "summary": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-7871ec626d708d17",
+   "title": "PostgreSQL 19 正式发布",
+   "url": "https://www.oschina.net/news/503754/postgresql-19-released",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 18:15:05 +0800",
+   "published_iso": "2026-11-23T10:15:05+00:00",
+   "summary": "PostgreSQL 19 发布后，社区最关注的不是新功能，而是问了一句：这是史上 bug 最少的 .0 版本，那我还要不要等 .1？ 有人给出很实在的答案：关键生产系统还是等等，因为正式版装机的基数远大于 beta/RC 阶段，很多问题只会在真实负载下才暴露。也有人说个人库、有备份、能容忍小磕碰，那就先上。还有人给了一条自己的经验..."
+  },
+  {
+   "id": "rss-78b011057043a537",
+   "title": "[分享创造] 别再让 AI 用 emoji 当图标啦",
+   "url": "https://www.v2ex.com/t/1259595#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-25T00:03:51Z",
+   "published_iso": "2026-11-25T00:03:51+00:00",
+   "summary": "用 CodeAgent 写前端的人大概都经历过这个场面：你让它给导航栏加几个图标，它非常自信地给你返回一排 🏠 📊 ⚙️ 👤。你让它“换成正经图标”，它开始瞎编 SVG path，渲染出来是一坨看不出是什么的曲线。 这事不能全怪模型。它手里根本没有图标数据，能做的只有两件事：找最接近的 emoji，或者凭印象编一个 path。 icons 把 react-icons 全量 31 个集合、50,934 个图标编译进了单个可执行文件(18M"
+  },
+  {
+   "id": "rss-7999b8dfcfd95758",
+   "title": "[Claude] 用虚拟卡+Apple Pay 成功支付 Claude Pro",
+   "url": "https://www.v2ex.com/t/1259582#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T16:43:58Z",
+   "published_iso": "2026-11-24T16:43:58+00:00",
+   "summary": "卡是 safepal fiat24，之前某宝买号正常蹬了一个月（虚拟机，deepseek 帮忙写了个全局网关，会丢弃所有没走代理的流量）。快到期想续费发现涨价太厉害于是决定自己充值，让 gpt 做了个规则类似的无线热点给苹果手机连（和虚拟机同一个美国节点，丢弃所有直连流量）。苹果手机连上后拔卡、调语言时区，买了个 11 年注册的苹果老号，applepay 绑卡+绑美区 paypal，safari 网页版充值成功。全程和虚拟机用的同一个 "
+  },
+  {
+   "id": "rss-7df283722130214d",
+   "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+   "url": "https://sspai.com/post/119418",
+   "feed_name": "少数派",
+   "published": "Mon, 23 Nov 2026 07:34:27 +0800",
+   "published_iso": "2026-11-22T23:34:27+00:00",
+   "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文"
+  },
+  {
+   "id": "rss-7e003773a8f70bf7",
+   "title": "[推广] [推广] 说说我的工具转得最差的一类图，以及为什么",
+   "url": "https://www.v2ex.com/t/1259567#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:40:52Z",
+   "published_iso": "2026-11-24T14:40:52+00:00",
+   "summary": "做图片转可编辑 PPT 这几个月，被问最多的不是“能转吗”，而是“什么图转得不好”。 我这边最差的是三类： 一是拍照的纸质文档。有透视、有阴影、有折痕，文字边缘被压扁，模型读出来的字号和行距全是估的，转出来能看但经不起排版。 二是手写体。笔画粘连，识别成字之后经常多一个字或少一个偏旁，改起来比自己重打还慢。 三是高密度截图，比如一张图里塞了五十个小标签。文字能读出来，但层级关系丢了，转完是一堆散落的文本框，得自己重新连线。 反过来，矢量"
+  },
+  {
+   "id": "rss-8279a248091b8597",
+   "title": "mod_wsgi 创始人用 Rust 重写了一个 Python 服务器",
+   "url": "https://www.oschina.net/news/503742/rust-muru",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 14:49:04 +0800",
+   "published_iso": "2026-11-23T06:49:04+00:00",
+   "summary": "Graham Dumpleton 二十年前写了 mod_wsgi。这二十年里他一直在想同一件事：Python web 应用在生产环境里最理想的跑法是什么。 Muru 是他的答案。一个用 Rust 写的服务器，边缘层和控制器是 Rust，Python 应用跑在它管理的 worker 进程里——旨在为在开发和生产环境中运行 ASGI 和 WSGI Python 应用程序提供最佳工具。 Si..."
+  },
+  {
+   "id": "rss-843827ff3102b360",
+   "title": "[问与答] 有没有佬给孩子指条明路",
+   "url": "https://www.v2ex.com/t/1259591#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T22:29:53Z",
+   "published_iso": "2026-11-24T22:29:53+00:00",
+   "summary": "大家好，虽说 23 年就注册了，但是也一直在潜水，第一条发帖就是索取求助，实在有些惭愧 🙏🏻，如果有说的不对的地方请多包涵。 [我的背景] 学历 ：民办二本，计算机科学与技术专业，27 届。 技术栈 ：大三紧急突击了前端基础和框架，以及 Agent 相关内容（低代码、langchainrag 啥的）。 现状 ：目前秋招颗粒无收，开发岗连实习都投不出结果，简历石沉大海。目前已经对写代码不感兴趣了。 [困境与迷茫] 开发走不通后，我也在探索"
+  },
+  {
+   "id": "rss-845fd7b8d5f515fd",
+   "title": "[分享创造] V2EX 98：给 V2EX 做了一套 Windows 98 / OICQ 怀旧主题",
+   "url": "https://www.v2ex.com/t/1259562#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:05:56Z",
+   "published_iso": "2026-11-24T14:05:56+00:00",
+   "summary": "最近在折腾 V2EX 的样式，突然想试试：如果把它做成 1998 年个人主页 / OICQ 时期的样子，会是什么感觉？ 于是有了 V2EX 98 。青绿桌面、灰色 Windows 98 窗口、蓝色渐变标题栏、菜单栏、3D 按钮、宋体正文，还有那种蓝色下划线和紫色已访问链接。 整个页面是一个居中的 Win98 应用窗口，宽屏下还会出现「我的电脑 / 网上邻居 / 回收站」 每个内容盒子的第一格是深蓝标题栏，首页、主题、回复、节点、会员页都"
+  },
+  {
+   "id": "rss-8559842506876156",
+   "title": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，词典功能上新，多项细节优化",
+   "url": "https://www.oschina.net/news/503729",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 08:17:07 +0800",
+   "published_iso": "2026-11-23T00:17:07+00:00",
+   "summary": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，多项细节优化 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、Anki 、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口..."
+  },
+  {
+   "id": "rss-8587026076a03775",
+   "title": "开源AI终端 uniTerm 1.12.4 发布，34协议合一，网络工具箱、笔记面板上线",
+   "url": "https://www.oschina.net/news/503723",
+   "feed_name": "OSCHINA",
+   "published": "Sun, 22 Nov 2026 19:39:48 +0800",
+   "published_iso": "2026-11-22T11:39:48+00:00",
+   "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v3 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库、Kubernetes 管理、AI Agent整合进一个不到 20M 的软件包中，覆盖 30 余种网络协议，支持 Windows、macOS、Linux、Android、Docker Web 五大平台。 从 SSH 命令行管理到 RDP 远..."
+  },
+  {
+   "id": "rss-859ffb4b374f9249",
+   "title": "[摄影] 各位佬，sony 照相机 26 年 5 月出厂，有点小质量问题，但没有发票，是不是就没得法官方保修了？",
+   "url": "https://www.v2ex.com/t/1259568#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:10:35Z",
+   "published_iso": "2026-11-24T15:10:35+00:00",
+   "summary": "不懂就问，不知道大法的保修政策，还是没发票按照出厂日期保修？"
+  },
+  {
+   "id": "rss-89ca77af1e66bc88",
+   "title": "[分享创造] temasek 14 世纪淡马锡像素航海游戏，wang dayuan 多了一个隐藏的第二章",
+   "url": "https://www.v2ex.com/t/1259587#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T17:37:23Z",
+   "published_iso": "2026-11-24T17:37:23+00:00",
+   "summary": "temasek 是我做的一个 14 世纪淡马锡题材的像素航海游戏，在浏览器里就能玩 我给游戏里的 wang dayuan 做了一个隐藏的第二章，要先完成他的淡马锡游记才会解锁 交完第一卷游记，淡马锡港的 master lin 会递给他一份泉州来的委托，去画澎湖以外的海图 接下来可以出发去第二张地图，台湾海峡，西边是澎湖，有盐田和 1281 年设立的元朝巡检司，中间是黑水沟的漩涡，东边是琉球，也就是 14 世纪的台湾，淡马锡那张地图则恢复"
+  },
+  {
+   "id": "rss-8af5dedabc4b1a90",
+   "title": "33.99 万起买 400V 与 8 秒零百前驱车，纯电雷克萨斯 ES 贵过头了",
+   "url": "https://www.ifanr.com/1691012?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 08:17:31 +0000",
+   "published_iso": "2026-11-23T08:17:31+00:00",
+   "summary": "400V 撑不起 40 万元。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-90b05ec3f2e7e1fe",
+   "title": "OpenAI 首席科学家提议为 AI 开发设置“行业上限”",
+   "url": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 11:18:00 +0800",
+   "published_iso": "2026-11-23T03:18:00+00:00",
+   "summary": "OpenAI 首席科学家 Jakub Pachocki 写了篇论文式的文章，主张把 perplexity（困惑度，等价于交叉熵损失）确立为跨公司比较模型的行业指标，并以此为基础建立共享的安全标准。 这件事值得注意的地方不在技术定义，而在他想用这个指标做什么：给前沿模型的开发设置一道可以被外部核验的限速线。 为什么是 perplexity 文章开..."
+  },
+  {
+   "id": "rss-91b0147bdc6a9405",
+   "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
+   "url": "https://www.solidot.org/story?sid=85966",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 18:10:43 +0800",
+   "published_iso": "2026-11-23T10:10:43+00:00",
+   "summary": "天文学家利用韦伯望远镜首次直接观察到仙女座的一颗巨大恒星吞噬伴星并爆炸的过程。当恒星演化至生命晚期，体积会急剧膨胀，可能吞噬附近轨道上的任何天体，在一个双星系统中，这被称为“共有包层阶段”。第一颗恒星外层会将自己的核心与第二颗恒星共同包裹，第二颗恒星不断损失轨道能量和角动量，释放的能量可加热并抛射包层。系统要么留下紧密双星，要么两颗恒星彻底并合。哥伦比亚大学天文学家分析了 AT 2025abao 事件的多阶段观测数据。该事件表现为仙女座"
+  },
+  {
+   "id": "rss-94327bf40eb625b1",
+   "title": "[问与答] 小米手机谷歌相册无法播放本地视频",
+   "url": "https://www.v2ex.com/t/1259569#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:21:30Z",
+   "published_iso": "2026-11-24T15:21:30+00:00",
+   "summary": "本地视频，播放按钮点击没反应，编辑视频时可以播放 重启手机后功能恢复，但后续不确定多久再打开谷歌相册又不能播放了 卸载重装谷歌相册也没用 之前的小米 15 正常播放，换到小米 17 就出现这个问题 很奇怪的问题"
+  },
+  {
+   "id": "rss-96a74bf24e6bb5e5",
+   "title": "SJF4J - 面向JSON的Java编程",
+   "url": "https://www.oschina.net/news/503741",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 13:20:59 +0800",
+   "published_iso": "2026-11-23T05:20:59+00:00",
+   "summary": "SJF4J - 面向 JSON 的 Java 编程 Java 对象也能直接使用 JSONPath、JSON Schema 和 JSON Patch？ 开源项目 SJF4J（Simple JSON Facade for Java）1.5.2 正式发布。 SJF4J 将 JSON 的结构化处理能力直接引入 Java 对象模型，让普通 POJO、Map、List 等对象都能使用统一的 JSON API，无需序列化，也无需转换为中间 JSON "
+  },
+  {
+   "id": "rss-97463163cb1ebc52",
+   "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+   "url": "https://www.solidot.org/story?sid=85970",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 22:50:17 +0800",
+   "published_iso": "2026-11-23T14:50:17+00:00",
+   "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及"
+  },
+  {
+   "id": "rss-9821369ef03c281d",
+   "title": "空气污染是痴呆症的一个诱因",
+   "url": "https://www.solidot.org/story?sid=85980",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 22:40:37 +0800",
+   "published_iso": "2026-11-24T14:40:37+00:00",
+   "summary": "根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害。研究结果表明空气污染是痴呆症的一个诱因。研究人员分析了英国生物样本库（UK Biobank）约 50 万名成年人的数据；该研究数据集对参与者的健康状况进行了长达 14 年的追踪。结果发现，相比生活在污染程度最低的三分之一地区的人群，居住在污染程度最高的三分之一地区的人群，患阿尔茨海默病"
+  },
+  {
+   "id": "rss-998d432e5ba28c12",
+   "title": "[程序员] GLM-5.4 发布后 GLM-5.3-Flash 限时 2 倍用量 大伙怎么看",
+   "url": "https://www.v2ex.com/t/1259575#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:53:10Z",
+   "published_iso": "2026-11-24T15:53:10+00:00",
+   "summary": "“11 月 24 日至 12 月 24 日，GLM-5.3-Flash 的套餐额度消耗减半。 用 GLM-5.4 做规划和审查，用 GLM-5.3-Flash 写代码、补测试。” 大伙有按官方推荐这样配过吗？体验怎么样？之前 GLM5.3 降智让我对 5.3 有点抵触"
+  },
+  {
+   "id": "rss-9bcf335bb6c929cd",
+   "title": "v2.4.4：增强 AI 智能体、修复数据同步问题、优化前端资源等",
+   "url": "https://www.oschina.net/news/503719",
+   "feed_name": "OSCHINA",
+   "published": "Sun, 22 Nov 2026 12:14:29 +0800",
+   "published_iso": "2026-11-22T04:14:29+00:00",
+   "summary": "本版概要 v2.4.4 以数据正确性与日常运维体验为主：修复跨库时间主键导致的同步删除误判、CDC 位点 / 租约与 ClickHouse 时区绑定等数据问题；新增变更 / 审计 / 系统日志的按日期清理与三档保留期；看板资源环与底部双卡重做，AI 智能体补充日志保留期查询与更清晰的诊断边界。建议所有 2.4.x 用户升级。 新增 变更日志..."
+  },
+  {
+   "id": "rss-9df75e43671ca4b8",
+   "title": "COP31 气候谈判未达成任何共识",
+   "url": "https://www.solidot.org/story?sid=85963",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 16:01:23 +0800",
+   "published_iso": "2026-11-23T08:01:23+00:00",
+   "summary": "经过两周密集谈判和两天加时磋商，第三十一届联合国气候变化大会（COP31）周日在土耳其安塔利亚落下帷幕。由于各方围绕化石燃料问题分歧严重，谈判陷入僵局，最终未能就气候协议达成共识。围绕化石燃料问题，各方谈判持续陷入僵局，因而无法就最终文本达成一致。欧盟谈判代表表示，如果最终协议不提及摆脱化石燃料他们就无法接受该协议，欧盟代表团随后退场。巴拿马以及马绍尔群岛等岛国也都表达了反对意见。巴拿马代表认为，最终文本削弱了此前达成的决定，也未能体现"
+  },
+  {
+   "id": "rss-9f45ff791bd92d16",
+   "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+   "url": "https://sspai.com/post/119035",
+   "feed_name": "少数派",
+   "published": "Tue, 24 Nov 2026 15:38:42 +0800",
+   "published_iso": "2026-11-24T07:38:42+00:00",
+   "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ... 查看全文"
+  },
+  {
+   "id": "rss-a0e6496a8fb503ae",
+   "title": "[Google Gemini] 看到大家在说 Gemini PRO 开了发现没啥用啊",
+   "url": "https://www.v2ex.com/t/1259558#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:39:21Z",
+   "published_iso": "2026-11-24T13:39:21+00:00",
+   "summary": "说下怎么开，正常点进去，按年付，是正常的价格 大概 199. 但是你可以到活动列表页面，有个 4 块钱开一个月的。先点击开下。再回到老的页面，选择年付，就是半价了 https://one.google.com/benefits/5e334aa370ccc9b50335199e0af2c3a4?from=1&hl=zh_CN&g1_landing_page=75&utm_source=gemini&utm_medium=web&utm_c"
+  },
+  {
+   "id": "rss-a5c20e43010c66ee",
+   "title": "改一个字节，日志分析报告就露馅",
+   "url": "https://www.oschina.net/news/503713",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 22:59:54 +0800",
+   "published_iso": "2026-11-20T14:59:54+00:00",
+   "summary": "凌晨两点，群里丢来一份日志。 有人已经跑过分析工具，结论看起来很专业： 根因：数据库连接失败。 你问他：哪几行？ 他给你一段摘要。 你再问：这段摘要和原始日志对得上吗？ 他说：这是模型判断的，应该没问题。 “应该没问题”这五个字，在故障复盘里最贵。 我最近在做一个小工具，叫 log-ai-compressor。它不是让日志..."
+  },
+  {
+   "id": "rss-a6932a67a3514ea5",
+   "title": "Jync v2.4.3 AI 助手确认执行与启动诊断",
+   "url": "https://www.oschina.net/news/503710",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:33:08 +0800",
+   "published_iso": "2026-11-20T09:33:08+00:00",
+   "summary": "Jync v2.4.3 新增 AI 运维助手可以执行运行态操作，但每一次都由人确认：启动 / 停止同步任务、立即同步一次、启用 / 停用 / 立即运行 ETL 任务、启停 / 立即运行 / 取消专属迁移、重建 CDC 基线，助手只生成确认卡；点「确认执行」后由服务端按当前账号的角色与资源归属重新校验一次才生效。确认令牌绑定发起账号、5 分..."
+  },
+  {
+   "id": "rss-a69857a7769151eb",
+   "title": "一条命令就能让 Mac 用本地模型跑编程 Agent",
+   "url": "https://www.oschina.net/news/503746",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 15:58:34 +0800",
+   "published_iso": "2026-11-23T07:58:34+00:00",
+   "summary": "一条命令就能在 Mac 上跑起 agentic coding，模型全在本地。 uv pip install localcode cd your-project localcode 这是 mjwsolo 做的 localcode。它的定位写在仓库描述里：Agentic coding. Local models. On your Mac. 它会做什么 读到权限范围这一句就大概明白它的取舍了：在项目里读文件、改文件、跑测试、执行..."
+  },
+  {
+   "id": "rss-ad22783227ed1b75",
+   "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+   "url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 05:40:49 +0000",
+   "published_iso": "2026-11-24T05:40:49+00:00",
+   "summary": "「果味」影像，迎来新的变量 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-ae9cefaaa94baf58",
+   "title": "RNOISE Prompt Forge V5.2 发布：零 LLM 确定性 AI 音乐 Prompt 编译器与 MCP 2.0 协议引擎",
+   "url": "https://www.oschina.net/news/503778",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 16:37:40 +0800",
+   "published_iso": "2026-11-24T08:37:40+00:00",
+   "summary": "随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者在跨平台编排 AI 音乐提示词时普遍面临三类工程痛点：一是不同音频引擎的标签语法、结构控制符与时间轴格式差异巨大，手动改写效率低；二是依赖通用大语言模型动态生成 Prompt 时，存在推理延..."
+  },
+  {
+   "id": "rss-af6b30a7a7e65955",
+   "title": "MrDoc v1.1.2 发布，全平台多终端的私有部署AI知识库系统",
+   "url": "https://www.oschina.net/news/503733",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 10:55:16 +0800",
+   "published_iso": "2026-11-23T02:55:16+00:00",
+   "summary": "觅思文档（MrDoc）是一款面向团队与企业的私有化知识管理解决方案，致力于帮助组织构建结构化、可沉淀、可复用的知识体系。 通过「文集 + 文档」的组织方式，结合 Markdown、富文本、Office 文档、表格、图表等多种内容形态，以及完善的权限控制与协作能力，MrDoc 帮助团队将分散的信息沉淀为统一管理的知识资产。 同时，..."
+  },
+  {
+   "id": "rss-b01aefc971251677",
+   "title": "[健康] 仰卧睡的朋友试试枕头垫高膝关节可以让胸腔更高减轻打鼾打呼！",
+   "url": "https://www.v2ex.com/t/1259590#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T21:03:42Z",
+   "published_iso": "2026-11-24T21:03:42+00:00",
+   "summary": "亲测有用。偶然间发现的。 猜测是什么骨骼关节筋膜什么联动。有了解的朋友给解释解释。"
+  },
+  {
+   "id": "rss-b2b21a949db0c3a9",
+   "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
+   "url": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 04:00:32 +0000",
+   "published_iso": "2026-11-23T04:00:32+00:00",
+   "summary": "未来可期 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-b3f6d6a05f79bddd",
+   "title": "积木报表表达式函数玩出花：环比、加权评级、脚本循环、自定义函数",
+   "url": "https://www.oschina.net/news/503714",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 23:01:25 +0800",
+   "published_iso": "2026-11-20T15:01:25+00:00",
+   "summary": "提到报表里的表达式，很多人的第一反应是 =SUM(D4)，合计一下就完了。其实 JimuReport 积木报表的单元格表达式能做的远不止这些：算环比、按权重打分评级、合计为 0 时自动隐藏、防除零、截短长名称、写循环、调自己写的 Java 函数…… 很多原本要改 SQL 或者写代码的需求，在一个单元格里就能解决。 这些玩法过去有不少..."
+  },
+  {
+   "id": "rss-b577c106595c387b",
+   "title": "[程序员] 多个 AGENT 项目怎么跟踪管理",
+   "url": "https://www.v2ex.com/t/1259555#reply12",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:27:06Z",
+   "published_iso": "2026-11-24T13:27:06+00:00",
+   "summary": "比如同时在处理 10 个 AGENT 项目（或者是简单的处理一些分析任务），10 个对话是不同的方向，输出了不同的项目资料、研究内容等等。这个时候怎么管理呢…… 有时候可能都忘了自己这些任务在哪里处理过了… 是需要一个 obisidian 表单之类的来维护这些项目/对话的状态和结果吗？还是需要怎么维护呢，有什么建议吗。"
+  },
+  {
+   "id": "rss-b5b986c2af7709c7",
+   "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+   "url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 14:50:12 +0000",
+   "published_iso": "2026-11-23T14:50:12+00:00",
+   "summary": "皮衣战神回宫 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-b970f2310ad87aac",
+   "title": "Google「AI Overviews」让网站的搜索流量下降四成",
+   "url": "https://www.oschina.net/news/503698",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 11:57:08 +0800",
+   "published_iso": "2026-11-20T03:57:08+00:00",
+   "summary": "Google 搜索引擎「AI Overviews」服务正在抢走网站的流量。 根据一项随机实验的测试，AI Overview 导致从 Google 搜索结果指向外部网站的点击量下降了四成。 这是随机实验做出来的数字，不是相关性推测。研究者对一部分美国桌面用户隐藏了 AI Overviews，然后和仍能看到的那组做对比。 这个数字背后有一个更直观的画面：..."
+  },
+  {
+   "id": "rss-ba5ca18909f9f7cb",
+   "title": "[分享创造] 我尝试把遗嘱做成了一款日常使用的软件，想听听大家的建议",
+   "url": "https://www.v2ex.com/t/1259565#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:37:54Z",
+   "published_iso": "2026-11-24T14:37:54+00:00",
+   "summary": "今天总感觉遇到了不少好兆头，趁这个机会，把自己做了很久的一个个人项目拿出来，想听听大家的意见与反馈，叨扰大家了。 项目名为「星愿遗嘱」，简单来讲，这是一个帮助用户长期记录、保存和传递个人意愿的项目。 项目的创作理念，其实来自一些大家经常开玩笑讲起的话：“如果我哪天死了，请一定帮我删除浏览记录”、“如果我哪天死了，记得帮我告诉某个朋友一些事情”。 我自己也曾经经历过相当严重的心理困境，一度走到了轻生的边缘。当时让我选择继续生活的理由其实很"
+  },
+  {
+   "id": "rss-bd45c108af0327aa",
+   "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+   "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+   "feed_name": "阮一峰周刊",
+   "published": "2026-11-13T00:08:29Z",
+   "published_iso": "2026-11-13T00:08:29+00:00",
+   "summary": "这里记录每周值得分享的科技内容，周五发布。..."
+  },
+  {
+   "id": "rss-beff3156472f17b0",
+   "title": "[OpenAI] GPT 用着太烧心了",
+   "url": "https://www.v2ex.com/t/1259593#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T23:31:31Z",
+   "published_iso": "2026-11-24T23:31:31+00:00",
+   "summary": "200 刀的账号实测下来 gpt6.2sol 实际用的是 5.6 luna"
+  },
+  {
+   "id": "rss-bfd299ac6701220f",
+   "title": "[问与答] 有一台 2 核 8G 的小服务器，求一个 Personal Agent 的选型和部署最佳实践",
+   "url": "https://www.v2ex.com/t/1259561#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:50:58Z",
+   "published_iso": "2026-11-24T13:50:58+00:00",
+   "summary": ""
+  },
+  {
+   "id": "rss-c09fc2f9b68f5ef6",
+   "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+   "url": "https://sspai.com/post/119492",
+   "feed_name": "少数派",
+   "published": "Tue, 24 Nov 2026 17:14:11 +0800",
+   "published_iso": "2026-11-24T09:14:11+00:00",
+   "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文"
+  },
+  {
+   "id": "rss-c14c3815153b14ee",
+   "title": "Google 申请专利为用户量身定制 AI 电视频道",
+   "url": "https://www.solidot.org/story?sid=85973",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 15:22:48 +0800",
+   "published_iso": "2026-11-24T07:22:48+00:00",
+   "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user"
+  },
+  {
+   "id": "rss-c1ada1b11a52db6a",
+   "title": "[AI Agent 智能体] 天塌了，一天之内损失了 2 个 gemini pro",
+   "url": "https://www.v2ex.com/t/1259551#reply10",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:01:05Z",
+   "published_iso": "2026-11-24T13:01:05+00:00",
+   "summary": "我的大号买的 jio18 个月 gemini pro，今天收到邮件\"您的 Google AI Pro 方案已到期\"，我的小号之前是买的号，已经养了 2 个月，后来冲的 jio18 个月，今天登录发现账号都被封了，但是其他买的小号还正常。 恼火的很啊，一天之内 2 个 gemini pro 没了，让本就不富裕的家庭更加雪上加霜"
+  },
+  {
+   "id": "rss-c2b586f876f2ca5c",
+   "title": "[程序员] 兄弟们，从技术到管理大家怎么克服当众讲话的",
+   "url": "https://www.v2ex.com/t/1259560#reply2",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:45:13Z",
+   "published_iso": "2026-11-24T13:45:13+00:00",
+   "summary": "现在到了管理，经理不得不当众讲话和汇报工作，但还是控制不住的紧张和断片词 越接近开始越紧张，很难调整。前一晚还好好的，到了点就开始紧张 但还是不得不上去讲，为了能顺利的讲完需要讲的内容，只是提前写好稿，和提词了 使 AI 搞了个 AI 提词器，用设备端语音识别对照讲稿，逐字高亮你讲到的位置：你讲，它跟；你停，它等 不知有没有也适用的 https://oralo.fun/"
+  },
+  {
+   "id": "rss-c482aaee81d4fb31",
+   "title": "增加 search 接口 | gpress v1.2.6 发布",
+   "url": "https://www.oschina.net/news/503718",
+   "feed_name": "OSCHINA",
+   "published": "Sun, 22 Nov 2026 00:22:49 +0800",
+   "published_iso": "2026-11-21T16:22:49+00:00",
+   "summary": "gpress 是 Web3 内容平台，Hertz + Go template + FTS5 全文检索，支持以太坊和百度超级链，兼容 Hugo、WordPress 生态，使用 Wasm 扩展插件，只需 200M 内存. 作为静态站点： gpress 生成的静态文件和 Hugo 一致，也可以简单认为 gpress 是 Hugo 的后台管理，兼容 Hugo 主题生态，已迁移多款 Hugo 主题:even、doks、boo..."
+  },
+  {
+   "id": "rss-ca8b5939e3524468",
+   "title": "[分享创造] [开源自荐] Krss：一个类 Folo 的自部署 RSS 阅读器",
+   "url": "https://www.v2ex.com/t/1259542#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:22:33Z",
+   "published_iso": "2026-11-24T12:22:33+00:00",
+   "summary": "老哥们我不太善言辞，直接说特色功能看图吧... 插件系统：zip 装插件，能加菜单、工具栏和独立视图，也能给自动化当动作。 自动化规则：范围 + 关键词 / 正则 / AI 相关性 → 动作（星标、标已读、静音、webhook、Bark）。能预览命中、回溯历史、撤销、看命中日志，能用一句话生成规则。 双向 MCP：外部 MCP 服务可以直接当订阅源接进来（测试）；Krss 自己也是个 MCP server（/mcp，token 鉴权）。"
+  },
+  {
+   "id": "rss-cadae521f86c8773",
+   "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
+   "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 11:04:40 +0000",
+   "published_iso": "2026-11-24T11:04:40+00:00",
+   "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-caf32dece70b2595",
+   "title": ":fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录",
+   "url": "https://www.oschina.net/news/503775",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 15:18:04 +0800",
+   "published_iso": "2026-11-24T07:18:04+00:00",
+   "summary": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、GUID/雪花 ID、组织编码、父单号截取共 9 类规则明细 提供单个生成、同参批量..."
+  },
+  {
+   "id": "rss-cb6a5afdaf844a06",
+   "title": "[NAS] 使用 Hyper-V 运行黑群晖 DSM7.4 并使用虚拟 VHDX 硬盘存储数据",
+   "url": "https://www.v2ex.com/t/1259588#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T19:11:26Z",
+   "published_iso": "2026-11-24T19:11:26+00:00",
+   "summary": "各家引导器其实在很早以前就支持 Hyper-V 了，但由于 storvsc 不支持 DSM 所需的 syno_block_info ，所以群晖一直认不到硬盘。之前有人通过直通 LSI 控制器的旁门左道来实现使用 Hyper-V 跑 DSM，但这通用性太差了，像我这种拿笔记本跑黑裙的完全没办法这么搞。 刚才突发奇想，让 Codex 自己去改内核 storvsc 驱动加入 vmbus 的 syno_block_info 回报支持 然后群晖就"
+  },
+  {
+   "id": "rss-cb846daf89563ab5",
+   "title": "开源 Windows 任务管理器 Argus v0.6.0 发布，新增桌面与任务栏监控、多轨道历史与 NPU 支持",
+   "url": "https://www.oschina.net/news/503759",
+   "feed_name": "OSCHINA",
+   "published": "Tue, 24 Nov 2026 05:04:26 +0800",
+   "published_iso": "2026-11-23T21:04:26+00:00",
+   "summary": "开源 Windows 任务管理器 Argus 现已发布 v0.6.0。Argus 使用 Rust 直接调用 Windows NT 原生接口（不依赖 WMI），界面基于 GPUI Kit 与 DirectX 11 原生渲染，脱离 WebView2 与浏览器内核开销，支持 Windows 10 22H2 及 Windows 11（x64），以 AGPL-3.0 协议开源。 v0.6.0 换用全新点阵性能图图标并重构主窗口界面，新增..."
+  },
+  {
+   "id": "rss-cd6f1249296e793c",
+   "title": "qData 数据中台开源版 v1.6.8 发布：支持敏感等级关联数据资产，完善数据分类分级管理",
+   "url": "https://www.oschina.net/news/503708",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:04:13 +0800",
+   "published_iso": "2026-11-20T09:04:13+00:00",
+   "summary": "维护客户信息表时，手机号、客户编号等字段往往需要按管理要求设置不同敏感等级。 实际使用中，修改字段说明等其他属性时，原有等级能否保留；分级要求变化时，能否修改或清除绑定，直接影响资产维护效率。 qData 数据中台开源版 v1.6.8 围绕这些场景更新：资产字段编辑界面支持敏感等级绑定，消息通知、分类、项目角色和..."
+  },
+  {
+   "id": "rss-d0ce6ca06f7e89fd",
+   "title": "基因工程烟草能用于高效合成抗癌药",
+   "url": "https://www.solidot.org/story?sid=85981",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 22:53:56 +0800",
+   "published_iso": "2026-11-24T14:53:56+00:00",
+   "summary": "紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。然而这种救命药最初提取自太平洋红豆杉的树皮，天然含量极低。科学家正在尝试把红豆杉合成紫杉醇的基因全部搬到生长迅速的其他植物或微生物中，像酿酒或种庄稼一样，低成本、可持续地批量生产紫杉醇。一项研究在本氏烟草（Nicotiana benthamiana）中首次完整重构并验证了紫杉醇的从头生物合成途径，使工程烟草中的紫杉醇产量飙升"
+  },
+  {
+   "id": "rss-d151e7a5eddb2e9c",
+   "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+   "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Sun, 22 Nov 2026 22:19:08 +0000",
+   "published_iso": "2026-11-22T22:19:08+00:00",
+   "summary": "更多的新品，也不能消除苹果的 AI 焦虑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-d43af5e91b1d882d",
+   "title": "CachyOS 支持 Easy Anti-Cheat v2",
+   "url": "https://www.solidot.org/story?sid=85971",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 23:37:55 +0800",
+   "published_iso": "2026-11-23T15:37:55+00:00",
+   "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-lo"
+  },
+  {
+   "id": "rss-d51d63f2c9474cef",
+   "title": "写在动荡之后：漫步巴黎的寻常一日",
+   "url": "https://sspai.com/post/119412",
+   "feed_name": "少数派",
+   "published": "Tue, 24 Nov 2026 11:03:10 +0800",
+   "published_iso": "2026-11-24T03:03:10+00:00",
+   "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」 查看全文"
+  },
+  {
+   "id": "rss-d6c0fcf44ef028de",
+   "title": "哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”",
+   "url": "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 17:00:13 +0800",
+   "published_iso": "2026-11-20T09:00:13+00:00",
+   "summary": "哈佛大学两位博士候选人做了一份工作论文，把 AI 编程 Agent 的真实效果算了一遍。样本是 718 家公司、725938 名员工。 结论不太好看。 用上 AI 编程 Agent 之后，人均每月新增代码行数从 5017 涨到 6511，多了约 30%。提交数增长 20%，Pull Request 增长 23%。该有的增长都出现了。 但活干完了吗？没有。 论文用 Jira i..."
+  },
+  {
+   "id": "rss-d8c823afc65a92ff",
+   "title": "[问与答] 做这个可靠么，兄弟们，字节 Xpert 任务，项目广场",
+   "url": "https://www.v2ex.com/t/1259550#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:59:49Z",
+   "published_iso": "2026-11-24T12:59:49+00:00",
+   "summary": "https://corexpertdata.com/x/lb-09Olf5t"
+  },
+  {
+   "id": "rss-dc730f5e5ea5b7e1",
+   "title": "GTA 6 如何在游戏中刻画电动汽车？",
+   "url": "https://www.solidot.org/story?sid=85961",
+   "feed_name": "Solidot",
+   "published": "Mon, 23 Nov 2026 15:09:41 +0800",
+   "published_iso": "2026-11-23T07:09:41+00:00",
+   "summary": "GTA 系列以镜像复制现实世界著称。2013 年上市的 GTA 5 中电动汽车还是恶搞的对象，开车速度太快还会过热。但上周上市的 GTA 6 中电动汽车已经成为司空见惯的东西了，被恶搞的反而是尝试将皮卡停在充电位试图加油的人了。GTA 6 是以现实中的美国佛罗里达州（在游戏中虚构为 Leonida）以及迈阿密（Vice City）为蓝图刻画的。和现实中一样，城里的电动汽车比岛礁区 Keys 更常见。燃油车需要加油站，电动汽车需要充电桩，"
+  },
+  {
+   "id": "rss-dc9db1000ed71dd8",
+   "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
+   "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Wed, 25 Nov 2026 00:08:21 +0000",
+   "published_iso": "2026-11-25T00:08:21+00:00",
+   "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-de65e2fb475b04c2",
+   "title": "[Codex] 有没有人和我一样想吐槽 codex 干活总是问一句答一句，明明可以继续却不继续往下，每次都要再发继续、需要我做什么。已经在全局加了规则限制。。。",
+   "url": "https://www.v2ex.com/t/1259584#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T17:05:16Z",
+   "published_iso": "2026-11-24T17:05:16+00:00",
+   "summary": "我的 agents.md 的部分内容， 持续推进与回合结束 执行类任务以用户在本会话中交办且仍未完成的整体目标为准。 用户后续的追问、纠正和补充用于更新对该目标及要求的理解。 只有用户明确缩小、暂停或替换任务时，才相应调整原任务的执行范围。 发出最终回复前，回看该任务从交办至今的全部未完成交付和验证。 处理完用户最新一条消息后，仍有可自行查证、已获授权或可验证的步骤时， 须在同一回合继续执行。需要用户决定或授权时，只暂停依赖该答复的步骤"
+  },
+  {
+   "id": "rss-dee799fbca120fe4",
+   "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+   "url": "https://sspai.com/post/118705",
+   "feed_name": "少数派",
+   "published": "Mon, 23 Nov 2026 14:00:53 +0800",
+   "published_iso": "2026-11-23T06:00:53+00:00",
+   "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。 查看全文"
+  },
+  {
+   "id": "rss-dfc13a89ebbddc6b",
+   "title": "[情感问题] 讲一讲我的感情吧，给大家分享下，想骂就骂吧。",
+   "url": "https://www.v2ex.com/t/1259566#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T14:38:56Z",
+   "published_iso": "2026-11-24T14:38:56+00:00",
+   "summary": "先叠甲， 站内可能有人认识我， 如果发现了，请不要揭穿我，我只是想分享下我的感情而已，想怎么骂我都可以。这个是特意申请的小号。 第一段 8 年的 感情 她叫小 Y，我们大二的时候在一起的，非常奇妙的感情线，我先表白的，然后相处了一个月后，她闺蜜把认识我之前的录像给我看了，里面是闺蜜问：“你喜欢的人是谁啊”， 她说：“1 班的 xxx”(那个人就是我)，当时我看到这个视频，非常的开心，这种就是奇妙的缘分，我们就这样度过了大学时光，期间都是"
+  },
+  {
+   "id": "rss-e0c0d6c7c51a64cb",
+   "title": "[分享创造] 把搜索前排的五个七宗罪人格测验挨个开了一遍，做了个逐项对比",
+   "url": "https://www.v2ex.com/t/1259557#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:36:06Z",
+   "published_iso": "2026-11-24T13:36:06+00:00",
+   "summary": "上周在 分享创造 发过一次这个站（35 题同时给七个维度打分、平分不硬选赢家那个），这次不发站，发做站之前顺手做的一件事：把搜索结果里能开出来的五个\"七宗罪\"人格测验挨个开了一遍，看它们实际要你付出什么。 先说结论：它们比标题看起来更不一样，也比想象中更一致。 IDR Labs — 35 条陈述，滑块二选一（不同意 / 同意）。结果给七个罪的文字画像。 Psychology.com — 35 条陈述，每条 0–4 分。七个维度的条形图，"
+  },
+  {
+   "id": "rss-e1426fcc130a6d08",
+   "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+   "url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Tue, 24 Nov 2026 02:10:19 +0000",
+   "published_iso": "2026-11-24T02:10:19+00:00",
+   "summary": "这玩笑并不好笑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-e153fc8eded33f7b",
+   "title": "[分享创造] 利用 AI 开源了一个 macOS 小工具：LocalPeek 。把本机的 Redis、MySQL 和 Web 开发服务收进一个窗口，只读浏览、实时看日志。macOS 免费开源。",
+   "url": "https://www.v2ex.com/t/1259576#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T15:56:12Z",
+   "published_iso": "2026-11-24T15:56:12+00:00",
+   "summary": "本地开发时，服务、数据库、端口和日志散落在不同工具里。LocalPeek 自动发现本机正在运行的 Redis、MySQL 和 Web 服务，用一个窗口展示数据、进程与实时日志。数据库访问只读，关闭或启动进程需要你确认；没有账号、云同步或遥测，数据不离开本机。 官网： https://sunbridger.github.io/localpeek/ GitHub： https://github.com/Sunbridger/localpee"
+  },
+  {
+   "id": "rss-e1eba6a74e1ec688",
+   "title": "[推广] [问与答] 扫描件、斜着拍的照片，到底能不能转成可编辑 PPT",
+   "url": "https://www.v2ex.com/t/1259543#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:24:19Z",
+   "published_iso": "2026-11-24T12:24:19+00:00",
+   "summary": "最近被问到一个很具体的问题：手机斜着拍的图纸、扫描件，能不能直接转成可编辑的 PPT。 结论是能转，但要先做一步：把透视拉正。手机拍的文档一般有倾斜和梯形变形，直接丢进去，转出来的文本框会整体歪，后面的对齐全是错的。 我自己的做法是拍之前尽量正对、光线均匀、别有阴影；已经拍歪的，先用系统自带的标记工具裁一下边、拉正，再上传。扫描件反而省事，只要不是太糊。 另一个容易被忽略的点是分辨率。字太小、压缩太狠的图，文字能认出来但边界是虚的，转成"
+  },
+  {
+   "id": "rss-e3d362866b1034c5",
+   "title": "蚂蚁 OceanBase 团队开源 PowerContext，跨对话的 Agent 记忆服务",
+   "url": "https://www.oschina.net/news/503704/oceanbase-powercontex",
+   "feed_name": "OSCHINA",
+   "published": "Fri, 20 Nov 2026 15:55:30 +0800",
+   "published_iso": "2026-11-20T07:55:30+00:00",
+   "summary": "蚂蚁 OceanBase 团队开源了名为「PowerContext」的项目，解决的问题很具体：上下文不该死在一次对话里。 它的定位是「给 AI agent 用的开源上下文服务」。把工作中那些耐久的东西——决策、约束、证据、进度——从对话里搬到外面，这样下一个会话、下一个 agent，或者下一个人接手时，能从当前状态继续，不用重读一遍聊天..."
+  },
+  {
+   "id": "rss-e7a8957e64122baf",
+   "title": "特斯拉新版 FSD 的炫酷画面，由车机上的 1B 模型实时生成",
+   "url": "https://www.oschina.net/news/503757",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 18:56:06 +0800",
+   "published_iso": "2026-11-23T10:56:06+00:00",
+   "summary": "马斯克在 X 上解释了特斯拉新版 FSD 那个看起来非常酷炫的显示效果是怎么做出来的：不是 3D 渲染，是一个 1B 的扩散模型在车机上实时生成视频。 他写得很直白： \"We've had a ~pixel-perfect world model since last year, which is critical for synthetic data generation.\" 去年就有一个近乎像素级的世界模型，那是用..."
+  },
+  {
+   "id": "rss-eb1528775f602051",
+   "title": "[分享创造] [开源] Antigravity 上下文与 Token 统计面板 Pulse v0.10.0（全新毛玻璃 UI / 一键汉化 / 免 TUN 切代理）",
+   "url": "https://www.v2ex.com/t/1259556#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T13:34:37Z",
+   "published_iso": "2026-11-24T13:34:37+00:00",
+   "summary": "最近重度用 Antigravity 写代码，之前一直在用社区的上下文查看器，但自己用久了有几个地方实在难受： 一是每次官方客户端一升级，app.asar 被覆盖就得重新装一遍； 二是挂机久了或者休眠唤醒后经常出现“本地鉴权失败”或者面板数据全归零； 三是想同屏看 5h + 周额度、算算每个模型到底花了多少 Token。 重新设计了一套顶栏胶囊和毛玻璃面板 Antigravity Viewer Pulse，今天刚更到 v0.10.0，分享"
+  },
+  {
+   "id": "rss-ecded07da75ca084",
+   "title": "从算力底座到行业落地，华为智启未来主题论坛亮相 2026 世界计算大会",
+   "url": "https://www.oschina.net/news/503727",
+   "feed_name": "OSCHINA",
+   "published": "Mon, 23 Nov 2026 00:18:42 +0800",
+   "published_iso": "2026-11-22T16:18:42+00:00",
+   "summary": "11 月 20 日，2026 世界计算大会举办期间，由华为主办的“数智共昇 鸿湘有为”智启未来主题论坛在长沙举办。论坛深度对接湖南省“AI+”发展战略，围绕计算前沿技术、产业生态演进与人工智能行业落地实践展开研讨，既有面向产业全局的趋势判断，也有来自一线场景的落地经验，为算力生态伙伴协同创新、产业数智升级提供交流..."
+  },
+  {
+   "id": "rss-ef3b20ad1d3ebb4c",
+   "title": "Windows Server 移除对 32 位应用的支持",
+   "url": "https://www.solidot.org/story?sid=85978",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 22:04:48 +0800",
+   "published_iso": "2026-11-24T14:04:48+00:00",
+   "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在"
+  },
+  {
+   "id": "rss-efa2fb7488d88346",
+   "title": "[推广] 维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
+   "url": "https://www.v2ex.com/t/1259544#reply3",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T12:25:49Z",
+   "published_iso": "2026-11-24T12:25:49+00:00",
+   "summary": "各位 V 友好，我是维索 API 的站长，来自荐一下自己做的多模型 API 聚合服务。 先说明： 这是一个商业中转服务，不是官方免费接口。欢迎大家实测、提问题，也欢迎指出不足。建议先测试自己的使用场景，确认模型、延迟和计费符合预期后再充值，不建议一上来大额充值。 这个站主要解决的是：开发、调试或者跑 Agent 时，需要在不同模型之间切换，但不想分别注册、充值和维护多套接口配置。 目前提供什么 多模型接入：GPT、Claude、Gemi"
+  },
+  {
+   "id": "rss-f00304a66b219ec4",
+   "title": "解剖 Tor 协议",
+   "url": "https://www.solidot.org/story?sid=85974",
+   "feed_name": "Solidot",
+   "published": "Tue, 24 Nov 2026 16:02:16 +0800",
+   "published_iso": "2026-11-24T08:02:16+00:00",
+   "summary": "Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。 全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅"
+  },
+  {
+   "id": "rss-f10b6bddf5834e86",
+   "title": "[分享创造] 搓了个午休用于降低白点来降低外接显示器亮度东西",
+   "url": "https://www.v2ex.com/t/1259579#reply0",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T16:26:53Z",
+   "published_iso": "2026-11-24T16:26:53+00:00",
+   "summary": "平时习惯把 MacBook 合盖接外接屏办公，中午想趴着睡一会儿的时候挺尴尬的 直接锁屏随便来个通知就全亮，屏幕那块大白板又太刺眼了 手动去按显示器物理按键关闭又要长按 睡醒还得再开回来 实在麻烦 核心功能很简单： 点一下菜单栏里的「开始午休」 外接显示器的白点就会直接降到原来的 25% 睡醒点「结束午休」（或者直接退出软件） 色彩曲线就会恢复成午休前的样子 （我是配合 Amphetamine 强制不睡眠和息屏的） https://gi"
+  },
+  {
+   "id": "rss-f23fcd07900a8022",
+   "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+   "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+   "feed_name": "阮一峰周刊",
+   "published": "2026-11-05T23:43:55Z",
+   "published_iso": "2026-11-05T23:43:55+00:00",
+   "summary": "这里记录每周值得分享的科技内容，周五发布。..."
+  },
+  {
+   "id": "rss-f577efa98c86f93a",
+   "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+   "url": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "feed_name": "爱范儿",
+   "published": "Mon, 23 Nov 2026 00:57:34 +0000",
+   "published_iso": "2026-11-23T00:57:34+00:00",
+   "summary": "面向 AI，面向世界，面向未来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "id": "rss-f92440e9b1da87b8",
+   "title": "[生活] 坐标家门口周边各种违停、占道、无证作坊扎堆，好心提醒无果，纠结该不该彻底举报？",
+   "url": "https://www.v2ex.com/t/1259586#reply1",
+   "feed_name": "V2EX",
+   "published": "2026-11-24T17:21:21Z",
+   "published_iso": "2026-11-24T17:21:21+00:00",
+   "summary": "最近被家楼下的一堆破事搞得心力交瘁，想来听听大家的意见和经历。 我住的地方紧挨着本地一所老牌重点小学。本人已经从小到大住在这里习惯了，爸妈也住到新房去。原本以为住在学校边上生活会比较安宁，结果这几年周边的环境和秩序越来越恶劣，可以说充斥着各种违规违法操作： 1、通道堵死，出入极难：楼下原本是消防通道和主要出入口，每天早晚高峰被违停的四轮车、三轮车和流动摊贩卖垃圾食品给学生，堵得水泄不通。近期路政来画禁停黄线，违停车主连挪车电话都不理，直"
+  }
+ ]
+}
