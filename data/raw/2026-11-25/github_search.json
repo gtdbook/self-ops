@@ -1,13 +1,13 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-25T08:19:24.380018+08:00",
- "count": 20,
+ "updated_at": "2026-11-25T17:31:33.598275+08:00",
+ "count": 26,
  "items": [
   {
    "id": "gh-1463683138",
    "title": "INK-Q/agy-fast",
    "url": "https://github.com/INK-Q/agy-fast",
-   "stars": 1173,
+   "stars": 1383,
    "language": "TypeScript",
    "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
    "created_at": "2026-11-19T04:58:46Z",
@@ -15,6 +15,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1173
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1383
     }
    ]
   },
@@ -22,7 +26,7 @@
    "id": "gh-1463963309",
    "title": "iamajmeena/neonclipping",
    "url": "https://github.com/iamajmeena/neonclipping",
-   "stars": 2482,
+   "stars": 2546,
    "language": "Python",
    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
    "created_at": "2026-11-19T10:00:43Z",
@@ -30,6 +34,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 2482
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 2546
     }
    ]
   },
@@ -67,14 +75,18 @@
    "id": "gh-1465281397",
    "title": "AFK-surf/xnulinux",
    "url": "https://github.com/AFK-surf/xnulinux",
-   "stars": 3348,
-   "language": "Objective-C++",
+   "stars": 3662,
+   "language": "C",
    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
    "created_at": "2026-11-20T10:18:31Z",
    "history": [
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 3348
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 3662
     }
    ]
   },
@@ -97,7 +109,7 @@
    "id": "gh-1465547415",
    "title": "leanprover-community/riemann-hypothesis",
    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-   "stars": 1049,
+   "stars": 1126,
    "language": "Lean",
    "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
    "created_at": "2026-11-20T14:47:49Z",
@@ -105,6 +117,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1049
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1126
     }
    ]
   },
@@ -112,7 +128,7 @@
    "id": "gh-1465728637",
    "title": "R0Y00/Xbox2Windows",
    "url": "https://github.com/R0Y00/Xbox2Windows",
-   "stars": 1901,
+   "stars": 1933,
    "language": "Python",
    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
    "created_at": "2026-11-20T17:43:52Z",
@@ -120,6 +136,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1901
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1933
     }
    ]
   },
@@ -127,7 +147,7 @@
    "id": "gh-1465852099",
    "title": "xcl-dev/xcl",
    "url": "https://github.com/xcl-dev/xcl",
-   "stars": 7822,
+   "stars": 8052,
    "language": "Rust",
    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
    "created_at": "2026-11-20T20:03:21Z",
@@ -135,6 +155,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 7822
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 8052
     }
    ]
   },
@@ -172,7 +196,7 @@
    "id": "gh-1466325515",
    "title": "omonkeyz/xbox-emulator",
    "url": "https://github.com/omonkeyz/xbox-emulator",
-   "stars": 1822,
+   "stars": 1832,
    "language": "Rust",
    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "created_at": "2026-11-21T08:08:39Z",
@@ -180,6 +204,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1822
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1832
     }
    ]
   },
@@ -187,7 +215,7 @@
    "id": "gh-1466635339",
    "title": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 3599,
+   "stars": 3764,
    "language": "Rust",
    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
    "created_at": "2026-11-21T14:40:27Z",
@@ -195,6 +223,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 3599
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 3764
     }
    ]
   },
@@ -202,7 +234,7 @@
    "id": "gh-1467035512",
    "title": "4lwayz/portwatch-vi",
    "url": "https://github.com/4lwayz/portwatch-vi",
-   "stars": 2837,
+   "stars": 3191,
    "language": "JavaScript",
    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "created_at": "2026-11-21T23:16:41Z",
@@ -210,6 +242,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 2837
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 3191
     }
    ]
   },
@@ -232,7 +268,7 @@
    "id": "gh-1467519193",
    "title": "os6/nospeaker",
    "url": "https://github.com/os6/nospeaker",
-   "stars": 1752,
+   "stars": 1809,
    "language": "Swift",
    "description": "make your macbook's trackpad talk using its haptic motor",
    "created_at": "2026-11-22T12:05:54Z",
@@ -240,6 +276,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1752
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1809
     }
    ]
   },
@@ -247,7 +287,7 @@
    "id": "gh-1467880545",
    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "stars": 870,
+   "stars": 1006,
    "language": "Rust",
    "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
    "created_at": "2026-11-22T18:50:17Z",
@@ -255,6 +295,85 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 870
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1006
+    }
+   ]
+  },
+  {
+   "id": "gh-1469329665",
+   "title": "Indigo-0167/universal-game-mod-manager",
+   "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+   "stars": 1178,
+   "language": "Rust",
+   "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+   "created_at": "2026-11-23T21:30:10Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1178
+    }
+   ]
+  },
+  {
+   "id": "gh-1469330932",
+   "title": "solv4626/steam-achievement-manager-windows",
+   "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+   "stars": 1063,
+   "language": "Rust",
+   "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+   "created_at": "2026-11-23T21:31:33Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1063
+    }
+   ]
+  },
+  {
+   "id": "gh-1469332110",
+   "title": "kai415-debug/ffmpeg-video-audio-converter",
+   "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+   "stars": 1024,
+   "language": "C++",
+   "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+   "created_at": "2026-11-23T21:32:56Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1024
+    }
+   ]
+  },
+  {
+   "id": "gh-1469337059",
+   "title": "zero5122/offline-file-converter-windows",
+   "url": "https://github.com/zero5122/offline-file-converter-windows",
+   "stars": 1059,
+   "language": "Python",
+   "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+   "created_at": "2026-11-23T21:38:47Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1059
+    }
+   ]
+  },
+  {
+   "id": "gh-1469338376",
+   "title": "Umbra9179/clipboard-history-manager-windows",
+   "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+   "stars": 1153,
+   "language": "C#",
+   "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+   "created_at": "2026-11-23T21:40:15Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1153
     }
    ]
   },
@@ -262,7 +381,7 @@
    "id": "gh-1469344551",
    "title": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
-   "stars": 11299,
+   "stars": 11853,
    "language": "Rust",
    "description": "An attempt at running GTA VI on PC",
    "created_at": "2026-11-23T21:47:25Z",
@@ -270,6 +389,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 11299
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 11853
     }
    ]
   },
@@ -277,7 +400,7 @@
    "id": "gh-1469441675",
    "title": "ubiquitarianism/leonida",
    "url": "https://github.com/ubiquitarianism/leonida",
-   "stars": 1872,
+   "stars": 2062,
    "language": "Python",
    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
    "created_at": "2026-11-23T23:54:39Z",
@@ -285,6 +408,10 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1872
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 2062
     }
    ]
   },
@@ -292,7 +419,7 @@
    "id": "gh-1470579726",
    "title": "fxceless/victory-fork",
    "url": "https://github.com/fxceless/victory-fork",
-   "stars": 1794,
+   "stars": 2504,
    "language": "Rust",
    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
    "created_at": "2026-11-24T18:02:37Z",
@@ -300,6 +427,25 @@
     {
      "t": "2026-11-25T08:19:24.380018+08:00",
      "score": 1794
+    },
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 2504
+    }
+   ]
+  },
+  {
+   "id": "gh-1471056687",
+   "title": "Zettrox/ztrx",
+   "url": "https://github.com/Zettrox/ztrx",
+   "stars": 1170,
+   "language": "Rust",
+   "description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+   "created_at": "2026-11-25T01:12:08Z",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:33.598275+08:00",
+     "score": 1170
     }
    ]
   }

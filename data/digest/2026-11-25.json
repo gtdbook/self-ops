@@ -1,7 +1,62 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T08:19:34.947129+08:00",
+ "generated_at": "2026-11-25T17:31:44.566084+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Ternary Bonsai 2.5 27B",
+     "url": "https://prismml.com/news/bonsai-2-5-27b",
+     "meta": "+151 分 / 9.2 小时 · 现 ⭐ 441",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Spray Bottle",
+     "url": "https://mechanical-pencil.com/products/spray-bottle",
+     "meta": "+145 分 / 9.2 小时 · 现 ⭐ 476",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "meta": "+127 分 / 9.2 小时 · 现 ⭐ 259",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "An Italian folding bicycle design that fits into a suitcase",
+     "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+     "meta": "+70 分 / 9.2 小时 · 现 ⭐ 177",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Active intrusion campaign against Check Point security management servers",
+     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+     "meta": "+29 分 / 9.2 小时 · 现 ⭐ 282",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+     "url": "https://news.ycombinator.com/item?id=50634426",
+     "meta": "+27 分 / 9.2 小时 · 现 ⭐ 86",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -135,122 +190,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[问与答] 都说前端完了，但是招个人也太难了",
-     "url": "https://www.v2ex.com/t/1259596#reply0",
+     "title": "[宽带症候群] 湖北联通 梯子用不了了",
+     "url": "https://www.v2ex.com/t/1259774#reply0",
      "meta": "V2EX · 2026-11-25",
-     "summary": "按理说现在这环境人好招了，但是一周能看的也没几个简历，是因为年底了吗？ 最近更少了 西安，3 年以上，vue 技术栈，有思路想法，有责任心，自研项目，公司还在上升期，非 996， 13k-23k 邮箱: loinoc@qq.com",
+     "summary": "换成 wifi 立马 ok，用流量，全部节点都失效超时。 之前都是 ok 的，这几天开始的，这咋回事，有办法解决吗",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-     "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=",
+     "title": "[推广] 回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
+     "url": "https://www.v2ex.com/t/1259773#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "各位 V 友好，我们是林易 API（ linyiapi.ai ）团队，做 AI 大模型 API 中转。这次发帖推广：回帖送 $8，加群再送 $10，一共 $18。欢迎来试、来挑刺。 活动时间：帖子还在，活动就一直有效。 🎁 福利 福利 额度 怎么领 回帖送 $8 在本帖回帖注册邮箱前缀即可领取，或者用户名（注册后右上角个人资料里编辑） 加群送 $10 站点右上角 [客服] 按钮点开，扫码进群发「注",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 为什么我买不了 100 刀的 ai pro",
+     "url": "https://www.v2ex.com/t/1259772#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "只看到了 20 刀的 pro 全新注册的美区新账号 好急",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "2240 亿参数的 Hy4 flash 模型，现在能跑在 64GB 的 Mac mini 上",
+     "url": "https://www.oschina.net/news/503813",
+     "meta": "OSCHINA · 2026-11-25",
+     "summary": "腾讯混元在 11 月 25 日开源了 Hy4 flash 的 GGUF 量化权重和配套推理代码，工具是他们自己的压缩加速工具箱 AngelSlim。最小的版本权重约为原始的三成，官方实测在 48GB 显存设备上生成速度最高到每秒 89 个 token。 先把数字摊开。 原始权重 410.27 GiB。这个体积普通人的电脑装不下，所以官方给了几个量化版本：通用的...",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 目前还有哪些好用的中转站",
+     "url": "https://www.v2ex.com/t/1259770#reply13",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 平时写代码时，你会用语音给编程工具提需求吗？",
+     "url": "https://www.v2ex.com/t/1259769#reply5",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "我做了个编程工具，可以通过 App 或微信小程序连到自己的工作区。最近在考虑加个语音转文字功能：不用逐字念代码，只要说清楚想做什么，比如“给这个页面加个搜索框，能按名字查就行”，看一眼转出来的文字，就能发到工作区。 想问问大家：平时开发时，哪些需求你会觉得说出来比打字方便？如果还是更喜欢打字，也想听听原因。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
+     "url": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
      "meta": "爱范儿 · 2026-11-25",
-     "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "summary": "打印机开始卷手艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 别再让 AI 用 emoji 当图标啦",
-     "url": "https://www.v2ex.com/t/1259595#reply0",
+     "title": "[问与答] Mac 怎么打 Windows 的包",
+     "url": "https://www.v2ex.com/t/1259768#reply7",
      "meta": "V2EX · 2026-11-25",
-     "summary": "用 CodeAgent 写前端的人大概都经历过这个场面：你让它给导航栏加几个图标，它非常自信地给你返回一排 🏠 📊 ⚙️ 👤。你让它“换成正经图标”，它开始瞎编 SVG path，渲染出来是一坨看不出是什么的曲线。 这事不能全怪模型。它手里根本没有图标数据，能做的只有两件事：找最接近的 emoji，或者凭印象编一个 path。 icons 把 react-icons 全量 31 个集合、50,93",
+     "summary": "想用 gpt 写个跨平台的软件，gpt 给的技术栈是 Rust+tauri，手头只有个 mbp，可以打成 dmg。gpt 给了个工作流推到 github Actions 去打包成 setup.exe。我把这个 exe 压缩发给我姐，她的 360 检测说是木马?！在没有 windows 电脑的情况下，Mac 怎么打 Windows 的包呢?有 V 友知道吗",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[OpenAI] GPT 用着太烧心了",
-     "url": "https://www.v2ex.com/t/1259593#reply2",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "200 刀的账号实测下来 gpt6.2sol 实际用的是 5.6 luna",
+     "title": "[推广] [中转站源头] ai.mlsqq.xyz｜ GPT 低至 0.045｜充值 1 元=1 刀｜注册进群送 1 刀｜接下游",
+     "url": "https://www.v2ex.com/t/1259766#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "网址：ai.mlsqq.xyz 目前是： GPT 0.045x 华强北渠道 CC-高缓 0.09x 正价 CC-kiro 0.52x 100CCmax 1.15x 有任何疑问可以站内问，感谢大家支持",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google Gemini] Jio 开始清退了吗",
-     "url": "https://www.v2ex.com/t/1259592#reply4",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "Your Google AI Pro plan has ended Your Google AI Pro (5 TB) plan provided by Jio has ended, so you have lost access to Gemini in Pro, other next-gen Google AI features* and 5 TB of shareable storage. ",
+     "title": "[推广] 宝塔新用户首次安装，可免费领取一年期商用 SSL 证书",
+     "url": "https://www.v2ex.com/t/1259765#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "宝塔近期推出了一项面向新用户的福利活动。 新注册用户首次安装并登录宝塔 Linux 面板正式版 13.2.0，可免费领取一张一年期指定 DV 单域名商用 SSL 证书。 本次活动共提供 4000 张证书，每个账号限领一张，领完即止。 领取截止时间为 2026 年 11 月 30 日 23:59，领取后可在 2026 年 12 月 30 日 23:59 前完成域名验证及证书签发。 领取入口位于面板的",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 有没有佬给孩子指条明路",
-     "url": "https://www.v2ex.com/t/1259591#reply2",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "大家好，虽说 23 年就注册了，但是也一直在潜水，第一条发帖就是索取求助，实在有些惭愧 🙏🏻，如果有说的不对的地方请多包涵。 [我的背景] 学历 ：民办二本，计算机科学与技术专业，27 届。 技术栈 ：大三紧急突击了前端基础和框架，以及 Agent 相关内容（低代码、langchainrag 啥的）。 现状 ：目前秋招颗粒无收，开发岗连实习都投不出结果，简历石沉大海。目前已经对写代码不感兴趣了。 ",
+     "title": "[推广] 黑五限时｜Proxy001 住宅代理最高 5 折起，流量再赠最高 500GB",
+     "url": "https://www.v2ex.com/t/1259764#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "Proxy001 黑五特惠｜住宅赠流最高 500GB，无限套餐立减 25% 做跨境电商、多账号运营、数据采集的朋友，黑五可以趁这波囤代理。Proxy001 活动已上线，核心信息如下： 动态住宅（按流量计费）： 100M+ 真实住宅 IP，覆盖 200+ 国家地区，支持城市级定向。大额套餐额外赠流量： 100GB 赠 20GB 1000GB 赠 100GB 2000GB 赠 200GB 5000GB",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[健康] 仰卧睡的朋友试试枕头垫高膝关节可以让胸腔更高减轻打鼾打呼！",
-     "url": "https://www.v2ex.com/t/1259590#reply0",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "亲测有用。偶然间发现的。 猜测是什么骨骼关节筋膜什么联动。有了解的朋友给解释解释。",
+     "title": "[Claude] 有没有什么安全一点的办法，利用 google play 来订阅 claude 呢？",
+     "url": "https://www.v2ex.com/t/1259763#reply8",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "如题，新创建了好几个 apple id，都出现了付费时的问题。想改用 google play 尝试一下。 现在问题来了，我只有苹果手机，除此以外都需要额外购买，那么什么情况下是成本最低的呢？有没有老哥分享一下经验，提前谢谢各位老哥了。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] V2CC：北美家宽独享实体 Mac mini，预装 Claude Code，首单减 ¥200",
-     "url": "https://www.v2ex.com/t/1259589#reply0",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "各位好，我们是一个小团队，今天正式上线 V2CC（ https://v2cc.app）。 做的事很简单：把一台放在北美家庭宽带里的实体 Mac mini 整机租给你一个人用。原生 macOS，管理员权限，预装 Claude Code 和开发环境，远程连上就能干活。 适合谁 • 出海做产品、需要一台北美本地网络下的 Mac 做开发和测试的人 • 重度用 Claude Code，想让长任务和 Agen",
+     "title": "[Mac mini] 现在 mac mini m4 行情咋样",
+     "url": "https://www.v2ex.com/t/1259762#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "我看拼多多百亿补贴 mac mini m4 16 + 1T 的 4799 这个价格怎么样,能入手不?",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[NAS] 使用 Hyper-V 运行黑群晖 DSM7.4 并使用虚拟 VHDX 硬盘存储数据",
-     "url": "https://www.v2ex.com/t/1259588#reply0",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "各家引导器其实在很早以前就支持 Hyper-V 了，但由于 storvsc 不支持 DSM 所需的 syno_block_info ，所以群晖一直认不到硬盘。之前有人通过直通 LSI 控制器的旁门左道来实现使用 Hyper-V 跑 DSM，但这通用性太差了，像我这种拿笔记本跑黑裙的完全没办法这么搞。 刚才突发奇想，让 Codex 自己去改内核 storvsc 驱动加入 vmbus 的 syno_b",
+     "title": "[生活] 小红书还是太抽象了",
+     "url": "https://www.v2ex.com/t/1259761#reply8",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "加的一个雪山摄影群，早上有人在群里分享了一个小红书帖子，一个看起来很震撼的日照金山和月落同框的照片。 群里马上有人指出，这个是 P 的或者是 AI 的，因为山形不对（指出者常年拍雪山，对这几座雪山非常熟悉，看一眼图片就能说出山名那种），分享者说就是实拍的，因为评论区有人说了，他亲眼看到就是这样的。 此时，另外一个人指出，发帖者就在群里，直接问不就行了。 在发帖者说话前，分享者一口咬定就是实拍。 直",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] temasek 14 世纪淡马锡像素航海游戏，wang dayuan 多了一个隐藏的第二章",
-     "url": "https://www.v2ex.com/t/1259587#reply0",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "temasek 是我做的一个 14 世纪淡马锡题材的像素航海游戏，在浏览器里就能玩 我给游戏里的 wang dayuan 做了一个隐藏的第二章，要先完成他的淡马锡游记才会解锁 交完第一卷游记，淡马锡港的 master lin 会递给他一份泉州来的委托，去画澎湖以外的海图 接下来可以出发去第二张地图，台湾海峡，西边是澎湖，有盐田和 1281 年设立的元朝巡检司，中间是黑水沟的漩涡，东边是琉球，也就是",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[生活] 坐标家门口周边各种违停、占道、无证作坊扎堆，好心提醒无果，纠结该不该彻底举报？",
-     "url": "https://www.v2ex.com/t/1259586#reply1",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "最近被家楼下的一堆破事搞得心力交瘁，想来听听大家的意见和经历。 我住的地方紧挨着本地一所老牌重点小学。本人已经从小到大住在这里习惯了，爸妈也住到新房去。原本以为住在学校边上生活会比较安宁，结果这几年周边的环境和秩序越来越恶劣，可以说充斥着各种违规违法操作： 1、通道堵死，出入极难：楼下原本是消防通道和主要出入口，每天早晚高峰被违停的四轮车、三轮车和流动摊贩卖垃圾食品给学生，堵得水泄不通。近期路政来",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[宽带症候群] 从 openwrt 到用 AI 搓出 VPP 软路由：我的折腾之路与开源项目",
-     "url": "https://www.v2ex.com/t/1259585#reply2",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "作为一个爱折腾的数码爱好者，Linux、黑苹果这些系统我没少瞎捣鼓。后来为了下点“特殊”资源接触到代理软件，再往后发现能直接塞进路由器（尤其是 OpenWrt）里一劳永逸，我的路由折腾之路就此开启。 最开始图省事刷了某“大神”的 LEDE，结果用着用着发现里面有不少不明连接——好家伙，路由器的命脉哪能全靠固件作者的节操来扛？果断切回官方 OpenWrt，虽然干净了，但它的包管理简直是个灾难，动不动",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Codex] 有没有人和我一样想吐槽 codex 干活总是问一句答一句，明明可以继续却不继续往下，每次都要再发继续、需要我做什么。已经在全局加了规则限制。。。",
-     "url": "https://www.v2ex.com/t/1259584#reply3",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "我的 agents.md 的部分内容， 持续推进与回合结束 执行类任务以用户在本会话中交办且仍未完成的整体目标为准。 用户后续的追问、纠正和补充用于更新对该目标及要求的理解。 只有用户明确缩小、暂停或替换任务时，才相应调整原任务的执行范围。 发出最终回复前，回看该任务从交办至今的全部未完成交付和验证。 处理完用户最新一条消息后，仍有可自行查证、已获授权或可验证的步骤时， 须在同一回合继续执行。需要",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 朴捷——协同办公的新方式",
-     "url": "https://www.v2ex.com/t/1259583#reply0",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "这几天，朴捷 2.0 算是上线了，也终于可以和大家分享了。 朴捷是什么 朴捷的核心依然项目协同管理软件，但在传统项目协同管理的基础上配上个人 agent。 解决什么问题？ 团队内部个人孤立 agent 上下文的问题 ，通过云端共享的方式让本地 agent 连接上云，任何一个员工接到 agent 很轻松了开始自己的办公。协作更轻松。 agent 操作无法审计的问题，朴捷对项目/任务等操作全部留痕，配",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Claude] 用虚拟卡+Apple Pay 成功支付 Claude Pro",
-     "url": "https://www.v2ex.com/t/1259582#reply3",
-     "meta": "V2EX · 2026-11-24",
-     "summary": "卡是 safepal fiat24，之前某宝买号正常蹬了一个月（虚拟机，deepseek 帮忙写了个全局网关，会丢弃所有没走代理的流量）。快到期想续费发现涨价太厉害于是决定自己充值，让 gpt 做了个规则类似的无线热点给苹果手机连（和虚拟机同一个美国节点，丢弃所有直连流量）。苹果手机连上后拔卡、调语言时区，买了个 11 年注册的苹果老号，applepay 绑卡+绑美区 paypal，safari ",
+     "title": "[程序员] 请教关于 claude code 智能体问题",
+     "url": "https://www.v2ex.com/t/1259759#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "最近在给业务系统开发多智能协同处理任务，突然想到，有没有人尝试把 claude code 智能体打包进业务系统，这样就可以不用专门开发多智能体系统了。当然了 claude code 定位是个人编程助手和业务有冲突是有可能的。",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -264,7 +319,7 @@
     {
      "title": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "meta": "⭐ 11299 · Rust",
+     "meta": "⭐ 11853 · Rust",
      "summary": "An attempt at running GTA VI on PC",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +327,7 @@
     {
      "title": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "meta": "⭐ 7822 · Rust",
+     "meta": "⭐ 8052 · Rust",
      "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +335,7 @@
     {
      "title": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 3599 · Rust",
+     "meta": "⭐ 3764 · Rust",
      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +343,7 @@
     {
      "title": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "meta": "⭐ 3348 · Objective-C++",
+     "meta": "⭐ 3662 · C",
      "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +351,7 @@
     {
      "title": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "meta": "⭐ 2837 · JavaScript",
+     "meta": "⭐ 3191 · JavaScript",
      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "reason": null,
      "origin_source": "github_search"
@@ -304,47 +359,47 @@
     {
      "title": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "meta": "⭐ 2482 · Python",
+     "meta": "⭐ 2546 · Python",
      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "R0Y00/Xbox2Windows",
-     "url": "https://github.com/R0Y00/Xbox2Windows",
-     "meta": "⭐ 1901 · Python",
-     "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "ubiquitarianism/leonida",
-     "url": "https://github.com/ubiquitarianism/leonida",
-     "meta": "⭐ 1872 · Python",
-     "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "omonkeyz/xbox-emulator",
-     "url": "https://github.com/omonkeyz/xbox-emulator",
-     "meta": "⭐ 1822 · Rust",
-     "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "meta": "⭐ 1794 · Rust",
+     "meta": "⭐ 2504 · Rust",
      "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ubiquitarianism/leonida",
+     "url": "https://github.com/ubiquitarianism/leonida",
+     "meta": "⭐ 2062 · Python",
+     "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "R0Y00/Xbox2Windows",
+     "url": "https://github.com/R0Y00/Xbox2Windows",
+     "meta": "⭐ 1933 · Python",
+     "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "meta": "⭐ 1832 · Rust",
+     "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "meta": "⭐ 1752 · Swift",
+     "meta": "⭐ 1809 · Swift",
      "summary": "make your macbook's trackpad talk using its haptic motor",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +407,7 @@
     {
      "title": "INK-Q/agy-fast",
      "url": "https://github.com/INK-Q/agy-fast",
-     "meta": "⭐ 1173 · TypeScript",
+     "meta": "⭐ 1383 · TypeScript",
      "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
      "reason": null,
      "origin_source": "github_search"
@@ -360,24 +415,24 @@
     {
      "title": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "meta": "⭐ 1049 · Lean",
+     "meta": "⭐ 1126 · Lean",
      "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "meta": "⭐ 870 · Rust",
-     "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+     "title": "Indigo-0167/universal-game-mod-manager",
+     "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+     "meta": "⭐ 1178 · Rust",
+     "summary": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-     "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-     "meta": "⭐ 723 · Python",
-     "summary": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
+     "title": "Zettrox/ztrx",
+     "url": "https://github.com/Zettrox/ztrx",
+     "meta": "⭐ 1170 · Rust",
+     "summary": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -397,6 +452,46 @@
      "origin_source": "hackernews"
     },
     {
+     "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+     "meta": "⭐ 608 · 💬 313",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The Spray Bottle",
+     "url": "https://mechanical-pencil.com/products/spray-bottle",
+     "meta": "⭐ 476 · 💬 109",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "meta": "⭐ 259 · 💬 80",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Ternary Bonsai 2.5 27B",
+     "url": "https://prismml.com/news/bonsai-2-5-27b",
+     "meta": "⭐ 441 · 💬 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+     "url": "https://buttons.joshwcomeau.com/",
+     "meta": "⭐ 353 · 💬 43",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "Quad9 pulled their DNS service from France",
      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
      "meta": "⭐ 340 · 💬 172",
@@ -405,25 +500,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "The Spray Bottle",
-     "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "meta": "⭐ 331 · 💬 93",
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "meta": "⭐ 219 · 💬 81",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "meta": "⭐ 132 · 💬 28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Ternary Bonsai 2.5 27B",
-     "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "meta": "⭐ 290 · 💬 97",
+     "title": "Active intrusion campaign against Check Point security management servers",
+     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+     "meta": "⭐ 282 · 💬 140",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -445,9 +532,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Active intrusion campaign against Check Point security management servers",
-     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "meta": "⭐ 253 · 💬 118",
+     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+     "url": "https://gpu-demo-gallery.pages.dev/",
+     "meta": "⭐ 111 · 💬 24",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "meta": "⭐ 243 · 💬 43",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -467,46 +562,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
-    },
-    {
-     "title": "A training engine for your local model, using your idle compute",
-     "url": "https://github.com/sous-labs/songe",
-     "meta": "⭐ 166 · 💬 50",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-     "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-     "meta": "⭐ 127 · 💬 84",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-     "url": "https://grafana.com/grafana/download",
-     "meta": "⭐ 119 · 💬 20",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Heart attack and stroke risk detectable decades in advance",
-     "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-     "meta": "⭐ 110 · 💬 41",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "An Italian folding bicycle design that fits into a suitcase",
-     "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-     "meta": "⭐ 107 · 💬 73",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
     }
    ]
   },
@@ -515,6 +570,14 @@
    "emoji": "🎯",
    "errors": [],
    "items": [
+    {
+     "title": "MyClaw 3.0",
+     "url": "https://www.producthunt.com/products/myclaw-3-0",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "Build an always-on AI team with shared memory",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
     {
      "title": "Plango",
      "url": "https://www.producthunt.com/products/plango",
@@ -540,6 +603,22 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Canva MCP",
+     "url": "https://www.producthunt.com/products/canva",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "Turn any AI agent into a creative powerhouse",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tendeck",
+     "url": "https://www.producthunt.com/products/tendeck",
+     "meta": "Product Hunt · 2026-11-15",
+     "summary": "Run all your Claude Code and Codex agents on one Mac board",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Even G2 Enterprise SDK",
      "url": "https://www.producthunt.com/products/even-g2",
      "meta": "Product Hunt · 2026-11-23",
@@ -552,6 +631,22 @@
      "url": "https://www.producthunt.com/products/willow-voice",
      "meta": "Product Hunt · 2026-11-24",
      "summary": "No switching apps while you dictate",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Notely",
+     "url": "https://www.producthunt.com/products/notely-8",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Notion-grade power & BYOK AI, stored locally in SQLite",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Qube",
+     "url": "https://www.producthunt.com/products/qube-6",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "An AI agent for anyone with the model of your choice",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -580,58 +675,18 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "MAGI-2",
+     "url": "https://www.producthunt.com/products/magi-1",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Sand AI's 480B model for cinematic video generation",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Inkling 2 Mini",
      "url": "https://www.producthunt.com/products/tinker-2",
      "meta": "Product Hunt · 2026-11-23",
      "summary": "26B looped model for coding on your laptop",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Mystonie",
-     "url": "https://www.producthunt.com/products/mystonie",
-     "meta": "Product Hunt · 2026-11-24",
-     "summary": "Log movies, shows, books & games — turn finishes into art",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "distribution.dev",
-     "url": "https://www.producthunt.com/products/distribution-dev",
-     "meta": "Product Hunt · 2026-11-17",
-     "summary": "Advertise to developers on many sites with one campaign",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Kodak SlideTag",
-     "url": "https://www.producthunt.com/products/kodak-slidetag",
-     "meta": "Product Hunt · 2026-11-24",
-     "summary": "A 1935 film-slide E-Ink frame that tracks like an AirTag",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Granular.Build",
-     "url": "https://www.producthunt.com/products/granular-build",
-     "meta": "Product Hunt · 2026-11-18",
-     "summary": "Put your AI agents to work in a visual workspace",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Claude Ship",
-     "url": "https://www.producthunt.com/products/claude-code",
-     "meta": "Product Hunt · 2026-11-23",
-     "summary": "Ship code as fast as you can write it",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Webless Agents",
-     "url": "https://www.producthunt.com/products/webless",
-     "meta": "Product Hunt · 2026-11-07",
-     "summary": "Agents you want to put in front of customers",
      "reason": null,
      "origin_source": "producthunt"
     }

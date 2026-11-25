@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-25T08:19:23.576000+08:00",
- "count": 25,
+ "updated_at": "2026-11-25T17:31:32.654211+08:00",
+ "count": 44,
  "items": [
   {
    "id": "hn-50591024",
@@ -24,14 +24,18 @@
    "title": "The Spray Bottle",
    "url": "https://mechanical-pencil.com/products/spray-bottle",
    "hn_url": "https://news.ycombinator.com/item?id=50598555",
-   "score": 331,
-   "comments": 93,
+   "score": 476,
+   "comments": 109,
    "author": "vinhnx",
    "time_iso": "2026-11-22T11:16:30+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 331
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 476
     }
    ]
   },
@@ -88,14 +92,50 @@
    "title": "An Italian folding bicycle design that fits into a suitcase",
    "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
    "hn_url": "https://news.ycombinator.com/item?id=50610820",
-   "score": 107,
-   "comments": 73,
+   "score": 177,
+   "comments": 119,
    "author": "surprisetalk",
    "time_iso": "2026-11-23T12:40:08+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 107
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 177
+    }
+   ]
+  },
+  {
+   "id": "hn-50613769",
+   "title": "When in Doubt, Flail About",
+   "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+   "hn_url": "https://news.ycombinator.com/item?id=50613769",
+   "score": 30,
+   "comments": 5,
+   "author": "zdw",
+   "time_iso": "2026-11-23T15:45:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 30
+    }
+   ]
+  },
+  {
+   "id": "hn-50623866",
+   "title": "The algebra of dependent types (2025)",
+   "url": "https://dotat.at/@/2025-05-28-types.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50623866",
+   "score": 26,
+   "comments": 2,
+   "author": "todsacerdoti",
+   "time_iso": "2026-11-24T04:49:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 26
     }
    ]
   },
@@ -148,6 +188,22 @@
    ]
   },
   {
+   "id": "hn-50627079",
+   "title": "The Shapes of Rivers",
+   "url": "https://dominicroye.github.io/shapes-of-rivers/",
+   "hn_url": "https://news.ycombinator.com/item?id=50627079",
+   "score": 60,
+   "comments": 8,
+   "author": "joexov",
+   "time_iso": "2026-11-24T12:14:25+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 60
+    }
+   ]
+  },
+  {
    "id": "hn-50627340",
    "title": "LLM agents work for their parent companies, not for you",
    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
@@ -160,6 +216,22 @@
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 880
+    }
+   ]
+  },
+  {
+   "id": "hn-50627726",
+   "title": "Getting old Java phones online again",
+   "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50627726",
+   "score": 12,
+   "comments": 2,
+   "author": "waximabbax",
+   "time_iso": "2026-11-24T13:14:37+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 12
     }
    ]
   },
@@ -232,14 +304,18 @@
    "title": "Active intrusion campaign against Check Point security management servers",
    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
    "hn_url": "https://news.ycombinator.com/item?id=50630594",
-   "score": 253,
-   "comments": 118,
+   "score": 282,
+   "comments": 140,
    "author": "louiereederson",
    "time_iso": "2026-11-24T16:32:17+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 253
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 282
     }
    ]
   },
@@ -296,14 +372,18 @@
    "title": "Ternary Bonsai 2.5 27B",
    "url": "https://prismml.com/news/bonsai-2-5-27b",
    "hn_url": "https://news.ycombinator.com/item?id=50633922",
-   "score": 290,
-   "comments": 97,
+   "score": 441,
+   "comments": 138,
    "author": "b0m",
    "time_iso": "2026-11-24T20:08:03+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 290
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 441
     }
    ]
   },
@@ -312,14 +392,18 @@
    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
    "url": "https://news.ycombinator.com/item?id=50634426",
    "hn_url": "https://news.ycombinator.com/item?id=50634426",
-   "score": 59,
-   "comments": 39,
+   "score": 86,
+   "comments": 69,
    "author": "harshithl1777",
    "time_iso": "2026-11-24T20:44:15+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 59
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 86
     }
    ]
   },
@@ -328,14 +412,18 @@
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
    "hn_url": "https://news.ycombinator.com/item?id=50634658",
-   "score": 132,
-   "comments": 28,
+   "score": 259,
+   "comments": 80,
    "author": "acossta",
    "time_iso": "2026-11-24T21:02:22+00:00",
    "history": [
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 132
+    },
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 259
     }
    ]
   },
@@ -400,6 +488,246 @@
     {
      "t": "2026-11-25T08:19:23.576000+08:00",
      "score": 15
+    }
+   ]
+  },
+  {
+   "id": "hn-50637056",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "hn_url": "https://news.ycombinator.com/item?id=50637056",
+   "score": 243,
+   "comments": 43,
+   "author": "smusamashah",
+   "time_iso": "2026-11-25T00:54:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 243
+    }
+   ]
+  },
+  {
+   "id": "hn-50637220",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50637220",
+   "score": 608,
+   "comments": 313,
+   "author": "E-Reverance",
+   "time_iso": "2026-11-25T01:19:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 608
+    }
+   ]
+  },
+  {
+   "id": "hn-50637686",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "hn_url": "https://news.ycombinator.com/item?id=50637686",
+   "score": 219,
+   "comments": 81,
+   "author": "gmays",
+   "time_iso": "2026-11-25T02:34:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 219
+    }
+   ]
+  },
+  {
+   "id": "hn-50637871",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "hn_url": "https://news.ycombinator.com/item?id=50637871",
+   "score": 50,
+   "comments": 19,
+   "author": "ijidak",
+   "time_iso": "2026-11-25T03:01:36+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 50
+    }
+   ]
+  },
+  {
+   "id": "hn-50637874",
+   "title": "I've been drinking wine in my kitchen",
+   "url": "https://scottaaronson.blog/?p=10362",
+   "hn_url": "https://news.ycombinator.com/item?id=50637874",
+   "score": 189,
+   "comments": 159,
+   "author": "nill0",
+   "time_iso": "2026-11-25T03:02:10+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 189
+    }
+   ]
+  },
+  {
+   "id": "hn-50637888",
+   "title": "Lua for data representation (2025)",
+   "url": "https://citrons.xyz/journal/2025-07-23",
+   "hn_url": "https://news.ycombinator.com/item?id=50637888",
+   "score": 56,
+   "comments": 20,
+   "author": "vinhnx",
+   "time_iso": "2026-11-25T03:04:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 56
+    }
+   ]
+  },
+  {
+   "id": "hn-50637890",
+   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "hn_url": "https://news.ycombinator.com/item?id=50637890",
+   "score": 171,
+   "comments": 65,
+   "author": "vinhnx",
+   "time_iso": "2026-11-25T03:04:37+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 171
+    }
+   ]
+  },
+  {
+   "id": "hn-50637891",
+   "title": "Macrohistory in Six Facts",
+   "url": "https://basilhalperin.com/essays/macrohistory.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50637891",
+   "score": 69,
+   "comments": 32,
+   "author": "tptacek",
+   "time_iso": "2026-11-25T03:04:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 69
+    }
+   ]
+  },
+  {
+   "id": "hn-50638032",
+   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+   "url": "https://buttons.joshwcomeau.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50638032",
+   "score": 353,
+   "comments": 43,
+   "author": "gaurang_tandon",
+   "time_iso": "2026-11-25T03:23:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 353
+    }
+   ]
+  },
+  {
+   "id": "hn-50638070",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "hn_url": "https://news.ycombinator.com/item?id=50638070",
+   "score": 65,
+   "comments": 11,
+   "author": "octember",
+   "time_iso": "2026-11-25T03:28:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 65
+    }
+   ]
+  },
+  {
+   "id": "hn-50638075",
+   "title": "A faster algorithm for extracting hexadecimal digits of π",
+   "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+   "hn_url": "https://news.ycombinator.com/item?id=50638075",
+   "score": 39,
+   "comments": 0,
+   "author": "vinhnx",
+   "time_iso": "2026-11-25T03:28:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50638220",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "hn_url": "https://news.ycombinator.com/item?id=50638220",
+   "score": 103,
+   "comments": 43,
+   "author": "Curiositry",
+   "time_iso": "2026-11-25T03:47:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 103
+    }
+   ]
+  },
+  {
+   "id": "hn-50638478",
+   "title": "Taking over US Treasury subdomains for $3 each",
+   "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "hn_url": "https://news.ycombinator.com/item?id=50638478",
+   "score": 77,
+   "comments": 17,
+   "author": "negura",
+   "time_iso": "2026-11-25T04:27:55+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 77
+    }
+   ]
+  },
+  {
+   "id": "hn-50638503",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "hn_url": "https://news.ycombinator.com/item?id=50638503",
+   "score": 111,
+   "comments": 24,
+   "author": "arkits",
+   "time_iso": "2026-11-25T04:31:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 111
+    }
+   ]
+  },
+  {
+   "id": "hn-50639929",
+   "title": "Why Automated Proof-Solving Is the Same Old Dead End",
+   "url": "https://arxiv.org/abs/2611.31286",
+   "hn_url": "https://news.ycombinator.com/item?id=50639929",
+   "score": 5,
+   "comments": 2,
+   "author": "pseudohadamard",
+   "time_iso": "2026-11-25T08:23:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-25T17:31:32.654211+08:00",
+     "score": 5
     }
    ]
   }
