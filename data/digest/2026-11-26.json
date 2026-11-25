@@ -1,0 +1,641 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T03:44:29.628921+08:00",
+ "sources": {
+  "blog_rss": {
+   "title": "博客与技术媒体",
+   "emoji": "📰",
+   "errors": [],
+   "items": [
+    {
+     "title": "Where scientists draw the line on AI agents",
+     "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+     "meta": "Hugging Face · 2026-11-25",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+     "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+     "meta": "Ars Technica · 2026-11-25",
+     "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+     "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+     "meta": "TechCrunch AI · 2026-11-25",
+     "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Introducing ChatGPT for Sales",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "meta": "OpenAI · 2026-11-17",
+     "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "meta": "OpenAI · 2026-11-12",
+     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "meta": "Google AI Blog · 2026-11-10",
+     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+     "url": "https://openai.com/index/singapore-airlines-travel-work",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+     "url": "https://openai.com/index/cogent-security",
+     "meta": "OpenAI · 2026-11-10",
+     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "url": "https://openai.com/index/control-room",
+     "meta": "OpenAI · 2026-11-09",
+     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "meta": "Hugging Face · 2026-11-06",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "meta": "OpenAI · 2026-11-03",
+     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "LifeVal",
+     "url": "https://openai.com/index/lifeval",
+     "meta": "OpenAI · 2026-11-02",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Making it easier for websites to express AI training preferences",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "meta": "OpenAI · 2026-10-30",
+     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Evernote turns AI-driven discovery into paid subscriptions",
+     "url": "https://openai.com/ads/customers/evernote",
+     "meta": "OpenAI · 2026-10-28",
+     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
+    {
+     "title": "Gemini 4 Carbon: Our next frontier model",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "meta": "Google DeepMind · 2026-10-28",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    }
+   ]
+  },
+  "cn_rss": {
+   "title": "中文技术圈",
+   "emoji": "🏮",
+   "errors": [],
+   "items": [
+    {
+     "title": "[问与答] 佬们，我现在有一个这样的需求，怎么实现会比较好",
+     "url": "https://www.v2ex.com/t/1259855#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "就是，有时候电脑需要执行一些需要长时间运行的任务，我希望在结束的时候，ai 能够通过 webhook 给我发一条消息。我希望做成一个比较通用的，而不是针对单一任务的工具，所以感觉是用 ai 比较合适。 实现就是可能定期截屏，比如一分钟一次，然后 ai 分析任务是否已经完成。选哪个模型比较划算呢？我本地部署模型是否能够胜任这样的工作？ 为避免造轮子，这个需求是否有人已经实现了？ 谢谢各位。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[职场话题] 找了 4 个月工作，沟通了 800 多个岗位，终于求职结束",
+     "url": "https://www.v2ex.com/t/1259852#reply2",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "从 6 月底裁员，到 10 月底入职，历时 4 个月的艰难求职之路终于结束了，本来打算入职之前就记录一下这段时间的体验，但是一直没有动笔写完。后面入职之后又因为忙起来了时间不是很充足，一直拖了差不多一个月才写完。字多纯手敲，不通顺的地方兄弟们见谅。 整体结论或者感想 找工作真的太难了，前面的有差不多两个月的时间发出去四五百个消息都约不到面试。最终入职了一家所谓的「互联网大厂」，虽然不知道能不能平稳",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] antigravity 的 swarm 是个好东西啊",
+     "url": "https://www.v2ex.com/t/1259851#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "给我的感觉像是发现了新大陆，以前用 gpt/claude 最多是用 /plan 、/goal 指令来处理任务，现在用了 /swarm 后体验提升了好一大截，知道有哪些“小蜜蜂”角色，在做什么，进度到哪里了，结论是什么。 并发运行，也给 gemini4 提速不少，gemini4 模型速度相比较 gpt 都还是太慢了， 用的是 neon high。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] gemini 黑五 99 美金一年亲测有效",
+     "url": "https://www.v2ex.com/t/1259850#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "之前选区为了配合线路，选了日本，所以金额是日元。找了其他教程都感觉不太对，最后跟着这个教程走完成功订阅到，日元 14500 大约 91 美金，币种不同，换算完跟教程差不多就是对的，教程如下： https://x.com/alin_zone/status/2125546113268899938",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[OpenAI] 我的 GPT 莫名奇妙额度重置了，有发重置卡吗？",
+     "url": "https://www.v2ex.com/t/1259849#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "昨晚还是 58%，今天上午突然变成了 100%，我看重置卡发的储值，而且是给 ChatGPT Business 的?",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 我也开源个自己的博客主题",
+     "url": "https://www.v2ex.com/t/1259848#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "静态博客，AI 友好，约束都用 agents.md 和 design.md 定好了。 做这个磨了我好几个晚上，感兴趣的佬们可以拿去许愿式修改 项目链接： https://github.com/moonoops/astro-phosphor DEMO： https://moonoops.github.io/astro-phosphor/ 个人站： 个人站里面一些涉及后端服务的功能就没放 github",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 小时候看 VCD、玩 4399，会暴露年龄吗？我做了个小测验 come on",
+     "url": "https://www.v2ex.com/t/1259847#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "小时候在家看电影，你是翻电视节目表等开播，还是把 VCD 塞进影碟机？ 我做了个猜年龄的小网页。中文版有 8 道题，都是小时候的日常，比如出门用什么听歌、放学怎么约朋友。不用注册，也不用填生日。答完会给一个年龄猜测，还能保存一张复古掌机风格的结果图。 玩中文版 · 英文版 想看看 V 友能把它难倒几次。测完欢迎回帖说一句「猜大了 5 岁」或者「刚好猜中」，不用报真实年龄。如果有哪道题的选项完全对不",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+     "url": "https://www.solidot.org/story?sid=85993",
+     "meta": "Solidot · 2026-11-25",
+     "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Mo",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[深圳] 短时间在深圳两周，到哪儿能租或买个电动车？",
+     "url": "https://www.v2ex.com/t/1259846#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "如题，短时间在深圳两周，到哪儿能租或买个电动车？有意请联系，微信号：burpsuite",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+     "url": "https://www.solidot.org/story?sid=85992",
+     "meta": "Solidot · 2026-11-25",
+     "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] # 墨牍（Modu）：极小极简本地 RSS 阅读器",
+     "url": "https://www.v2ex.com/t/1259845#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "市面上的 RSS 阅读器越做越重了。 很多产品动辄几百 MB 的安装包，打开后塞满了 AI 总结、社交动态、复杂的过滤规则和五花八门的侧边栏。我只是想安静地看几篇订阅的文章，却总觉得自己在操作一套企业级后台系统。 于是我做了 墨牍（Modu） （ modu.yunz93.dev ）。 它的设计目标非常单纯： 极小体积 ，以及 极度简洁 。 为什么做墨牍？ 6MB 极小体积，轻装上阵 ：去掉了所有不",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[分享创造] 开源了一个能打电话、边聊边干的 Personal Agent，手机上能独立跑，求拍砖",
+     "url": "https://www.v2ex.com/t/1259844#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "大家好，这是我们团队自己做的个人助手 Nova。最近发了 v1.0，目前已更新到 v1.0.2，代码以 GPL-3.0 开源。发上来想听听大家觉得哪里好用、哪里还别扭，有问题直接喷。 GitHub 仓库 官网（更多演示和文档） 先放一条 2 分钟的实录。 https://www.bilibili.com/video/BV1wEyrz7Edb YouTube 备用链接 为什么做这个 我们平时用助手，",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Google Gemini] 黑 5 的 PRO 反重力无法使用 neon，有相同情况的吗？",
+     "url": "https://www.v2ex.com/t/1259843#reply1",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "订阅 plus,google 地址更换为美国 google one 显示黑五折扣，但显示不支持订阅。 更改账单地址为美国，订阅了黑五 pro 反重力、CLI 均不支持 neon，web 支持 neon 补充下，支付改为了美国，但是最终支付还是显示港币。 有类似情况的吗？求解决方案~",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] 不用注册就能直接试 MAGI-2，还挺省事",
+     "url": "https://www.v2ex.com/t/1259842#reply0",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "最近想试一下 MAGI-2，主要还是对它的音视频同步生成比较感兴趣——以前用视频模型大多只能出“默片”，音效和配音还得后期另找工具补，这次可以直接把画面、对白、环境音和镜头节奏一起带出来。 看到 magi-2.run 这边正好开放了免注册的在线试用： https://magi-2.run 打开就能直接进到生成界面，不用先走一套繁琐的注册流程，对于只想先看看模型底子、测测提示词响应的人来说挺友好的。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 一模一样的设备网络，cluade 都能用，为什么 muse 把我识别出来了",
+     "url": "https://www.v2ex.com/t/1259841#reply5",
+     "meta": "V2EX · 2026-11-25",
+     "summary": "我为了用 claude 单独买了一台 windows 机器（老款 ThinkPad X1） 重装了英文系统：语言 English（US）+ 美西时区 wireguard 软路由 + 美西家庭 ip：往返延迟不一致/dns 泄露/webRTC 泄露 都没有 全新的 google 账号 who.1ms.dog 和 cleanip.io 都显示是美国用户 在这个机器上我用 Claude Pro 已经 1",
+     "reason": null,
+     "origin_source": "cn_rss"
+    }
+   ]
+  },
+  "github_search": {
+   "title": "GitHub 新星榜",
+   "emoji": "🚀",
+   "errors": [],
+   "items": [
+    {
+     "title": "Marvisak/VIctory",
+     "url": "https://github.com/Marvisak/VIctory",
+     "meta": "⭐ 12445 · Rust",
+     "summary": "An attempt at running GTA VI on PC",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "xcl-dev/xcl",
+     "url": "https://github.com/xcl-dev/xcl",
+     "meta": "⭐ 8255 · Rust",
+     "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "EL4CTEO/fast-anything",
+     "url": "https://github.com/EL4CTEO/fast-anything",
+     "meta": "⭐ 3907 · Rust",
+     "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "AFK-surf/xnulinux",
+     "url": "https://github.com/AFK-surf/xnulinux",
+     "meta": "⭐ 3870 · C",
+     "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "4lwayz/portwatch-vi",
+     "url": "https://github.com/4lwayz/portwatch-vi",
+     "meta": "⭐ 3778 · JavaScript",
+     "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "fxceless/victory-fork",
+     "url": "https://github.com/fxceless/victory-fork",
+     "meta": "⭐ 2947 · Rust",
+     "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "iamajmeena/neonclipping",
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "meta": "⭐ 2614 · Python",
+     "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "ubiquitarianism/leonida",
+     "url": "https://github.com/ubiquitarianism/leonida",
+     "meta": "⭐ 2279 · Python",
+     "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "R0Y00/Xbox2Windows",
+     "url": "https://github.com/R0Y00/Xbox2Windows",
+     "meta": "⭐ 1948 · Python",
+     "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "os6/nospeaker",
+     "url": "https://github.com/os6/nospeaker",
+     "meta": "⭐ 1868 · Swift",
+     "summary": "make your macbook's trackpad talk using its haptic motor",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "meta": "⭐ 1844 · Rust",
+     "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Belobug/VIctory-Belobug-AMD",
+     "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+     "meta": "⭐ 1589 · Rust",
+     "summary": "",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "INK-Q/agy-fast",
+     "url": "https://github.com/INK-Q/agy-fast",
+     "meta": "⭐ 1495 · TypeScript",
+     "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "leanprover-community/riemann-hypothesis",
+     "url": "https://github.com/leanprover-community/riemann-hypothesis",
+     "meta": "⭐ 1191 · Lean",
+     "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "Indigo-0167/universal-game-mod-manager",
+     "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+     "meta": "⭐ 1301 · Rust",
+     "summary": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+     "reason": null,
+     "origin_source": "github_search"
+    }
+   ]
+  },
+  "hackernews": {
+   "title": "Hacker News 热榜",
+   "emoji": "💬",
+   "errors": [],
+   "items": [
+    {
+     "title": "The matrix multiplication exponent is nine fourths [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+     "meta": "⭐ 942 · 💬 529",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+     "url": "https://buttons.joshwcomeau.com/",
+     "meta": "⭐ 763 · 💬 121",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "meta": "⭐ 408 · 💬 178",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "1Password Security Incident",
+     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+     "meta": "⭐ 506 · 💬 226",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+     "url": "https://gpu-demo-gallery.pages.dev/",
+     "meta": "⭐ 301 · 💬 67",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "meta": "⭐ 364 · 💬 279",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "meta": "⭐ 337 · 💬 85",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Rumors swirling that labs might have cracked Factoring in P",
+     "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+     "meta": "⭐ 330 · 💬 227",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "url": "https://github.com/xoxorwr/pw-loudness-eq",
+     "meta": "⭐ 269 · 💬 162",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Investigating degraded experiences across GitHub products",
+     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+     "meta": "⭐ 161 · 💬 85",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Smart people who give a shit use tools",
+     "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+     "meta": "⭐ 157 · 💬 144",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+     "meta": "⭐ 136 · 💬 60",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I checked Clojure's core with Lean and found unreported bugs",
+     "url": "https://s.conao3.com/blog/2026/e4f733",
+     "meta": "⭐ 111 · 💬 40",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+     "url": "https://arxiv.org/abs/2611.31286",
+     "meta": "⭐ 53 · 💬 73",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "meta": "⭐ 76 · 💬 25",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
+  "producthunt": {
+   "title": "Product Hunt 新品",
+   "emoji": "🎯",
+   "errors": [],
+   "items": [
+    {
+     "title": "MyClaw 3.0",
+     "url": "https://www.producthunt.com/products/myclaw-3-0",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "Build an always-on AI team with shared memory",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "frwrd.to",
+     "url": "https://www.producthunt.com/products/frwrd-to",
+     "meta": "Product Hunt · 2026-11-23",
+     "summary": "Your link in bio, sorted by your AI in one message",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Canva MCP",
+     "url": "https://www.producthunt.com/products/canva",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "Turn any AI agent into a creative powerhouse",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Tendeck",
+     "url": "https://www.producthunt.com/products/tendeck",
+     "meta": "Product Hunt · 2026-11-15",
+     "summary": "Run all your Claude Code and Codex agents on one Mac board",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Hiring Right Now",
+     "url": "https://www.producthunt.com/products/hiring-right-now",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Which startups would hire you?",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Even G2 Enterprise SDK",
+     "url": "https://www.producthunt.com/products/even-g2",
+     "meta": "Product Hunt · 2026-11-23",
+     "summary": "Build custom business apps for Even G2 smart glasses",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Notely",
+     "url": "https://www.producthunt.com/products/notely-8",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Notion-grade power & BYOK AI, stored locally in SQLite",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Qube",
+     "url": "https://www.producthunt.com/products/qube-6",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "An AI agent for anyone with the model of your choice",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Ohhai",
+     "url": "https://www.producthunt.com/products/ohhai",
+     "meta": "Product Hunt · 2026-11-18",
+     "summary": "Type messy, send clean: an AI keyboard for iPhone",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "tday.com",
+     "url": "https://www.producthunt.com/products/tday",
+     "meta": "Product Hunt · 2026-11-23",
+     "summary": "AI-recorded Screen Studio style editable demos",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "MAGI-2",
+     "url": "https://www.producthunt.com/products/magi-1",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Sand AI's 480B model for cinematic video generation",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "distribution.dev",
+     "url": "https://www.producthunt.com/products/distribution-dev",
+     "meta": "Product Hunt · 2026-11-17",
+     "summary": "Advertise to developers on many sites with one campaign",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Granular.Build",
+     "url": "https://www.producthunt.com/products/granular-build",
+     "meta": "Product Hunt · 2026-11-18",
+     "summary": "Put your AI agents to work in a visual workspace",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "OpenEight",
+     "url": "https://www.producthunt.com/products/openeight",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "The deterministic control layer for AI agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Omi X 2.0",
+     "url": "https://www.producthunt.com/products/omi-x",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "Omi can build anything. Your $1B idea, live in production",
+     "reason": null,
+     "origin_source": "producthunt"
+    }
+   ]
+  }
+ }
+}
