@@ -1,7 +1,94 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T03:44:29.628921+08:00",
+ "generated_at": "2026-11-26T10:37:50.561139+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "meta": "+872 分 / 6.9 小时 · 现 ⭐ 948",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "1Password Security Incident",
+     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+     "meta": "+682 分 / 6.9 小时 · 现 ⭐ 1188",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The polynomial Hirsch conjecture is false [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+     "meta": "+114 分 / 6.9 小时 · 现 ⭐ 126",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "meta": "+108 分 / 6.9 小时 · 现 ⭐ 445",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+     "meta": "+94 分 / 6.9 小时 · 现 ⭐ 230",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "meta": "+86 分 / 6.9 小时 · 现 ⭐ 450",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "I checked Clojure's core with Lean and found unreported bugs",
+     "url": "https://s.conao3.com/blog/2026/e4f733",
+     "meta": "+77 分 / 6.9 小时 · 现 ⭐ 188",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Britain's ghost stations",
+     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+     "meta": "+72 分 / 6.9 小时 · 现 ⭐ 100",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "url": "https://github.com/xoxorwr/pw-loudness-eq",
+     "meta": "+52 分 / 6.9 小时 · 现 ⭐ 321",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Predicting LoRA size for any dataset",
+     "url": "https://engram.com/blog/lora-size",
+     "meta": "+39 分 / 6.9 小时 · 现 ⭐ 113",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -135,122 +222,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[问与答] 佬们，我现在有一个这样的需求，怎么实现会比较好",
-     "url": "https://www.v2ex.com/t/1259855#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "就是，有时候电脑需要执行一些需要长时间运行的任务，我希望在结束的时候，ai 能够通过 webhook 给我发一条消息。我希望做成一个比较通用的，而不是针对单一任务的工具，所以感觉是用 ai 比较合适。 实现就是可能定期截屏，比如一分钟一次，然后 ai 分析任务是否已经完成。选哪个模型比较划算呢？我本地部署模型是否能够胜任这样的工作？ 为避免造轮子，这个需求是否有人已经实现了？ 谢谢各位。",
+     "title": "[问与答] 卑微的 plus 用户何去何从",
+     "url": "https://www.v2ex.com/t/1259923#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "如题，现在 gpt plus140 的定价完全没有性价比了，看到站里有 80 的 team 有点心动，这种有坑吗，各位佬们接下来准备怎么选",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[职场话题] 找了 4 个月工作，沟通了 800 多个岗位，终于求职结束",
-     "url": "https://www.v2ex.com/t/1259852#reply2",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "从 6 月底裁员，到 10 月底入职，历时 4 个月的艰难求职之路终于结束了，本来打算入职之前就记录一下这段时间的体验，但是一直没有动笔写完。后面入职之后又因为忙起来了时间不是很充足，一直拖了差不多一个月才写完。字多纯手敲，不通顺的地方兄弟们见谅。 整体结论或者感想 找工作真的太难了，前面的有差不多两个月的时间发出去四五百个消息都约不到面试。最终入职了一家所谓的「互联网大厂」，虽然不知道能不能平稳",
+     "title": "[推广] 做了一个日本动漫恋爱人格测试为核心的垂直工具站，探索自己的恋爱人格，很有意思，玩起来吧",
+     "url": "https://www.v2ex.com/t/1259922#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "做了一个日本动漫恋爱人格测试为核心的垂直工具站，探索自己的恋爱人格，主要满足用户探索自己的恋爱人格、了解情感表达方式以及与朋友分享测试结果的需求。快来体验吧： https://dere-test.net",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] antigravity 的 swarm 是个好东西啊",
-     "url": "https://www.v2ex.com/t/1259851#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "给我的感觉像是发现了新大陆，以前用 gpt/claude 最多是用 /plan 、/goal 指令来处理任务，现在用了 /swarm 后体验提升了好一大截，知道有哪些“小蜜蜂”角色，在做什么，进度到哪里了，结论是什么。 并发运行，也给 gemini4 提速不少，gemini4 模型速度相比较 gpt 都还是太慢了， 用的是 neon high。",
+     "title": "[grok] Grok Bot 连接很不稳定，半通不通很磨人，大家是这样吗？",
+     "url": "https://www.v2ex.com/t/1259921#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "已排除网络问题，以前版本用基本正常，现在发送大一点图片文件底部都有发送进度条来回转，让 bot 控制电脑提示不在线，设置成全局网络也不行，x 上有不少人反馈类似情况，大家用起来如何？有什么建议？",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] gemini 黑五 99 美金一年亲测有效",
-     "url": "https://www.v2ex.com/t/1259850#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "之前选区为了配合线路，选了日本，所以金额是日元。找了其他教程都感觉不太对，最后跟着这个教程走完成功订阅到，日元 14500 大约 91 美金，币种不同，换算完跟教程差不多就是对的，教程如下： https://x.com/alin_zone/status/2125546113268899938",
+     "title": "[分享发现] 分享一个 Tampermonkey 替代品 Tweeks",
+     "url": "https://www.v2ex.com/t/1259920#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "最近用 AI 生成 Tampermonkey userscript 感觉流程不太方便 搜到了一个叫 Tweeks 的 AI-native 替代品 可以直接在插件界面输入需求生成脚本（在这个产品里好像就叫 tweeks） 于是果断把 Tampermonkey 换掉了",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[OpenAI] 我的 GPT 莫名奇妙额度重置了，有发重置卡吗？",
-     "url": "https://www.v2ex.com/t/1259849#reply1",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "昨晚还是 58%，今天上午突然变成了 100%，我看重置卡发的储值，而且是给 ChatGPT Business 的?",
+     "title": "[分享创造] 写了一个非常流畅的邮箱客户端 支持安卓、iOS",
+     "url": "https://www.v2ex.com/t/1259919#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "Bind Mail 必得邮箱 Bind Mail 是一款非常流畅的邮箱客户端，支持安卓、iPhone 和 iPad 等 核心亮点 多账号统一收件箱：一站式查看与管理多个邮箱账户，日常切换更顺畅。 极速响应与检索：流畅的交互与快捷查找体验，让日常收发与翻找更省心。 注重隐私与安全：重视连接安全与数据掌控感，带来更安心的通信体验。 清晰整理与聚焦：状态直观、层次分明，帮助你更快处理重点邮件。 清爽浅色",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[程序员] 我也开源个自己的博客主题",
-     "url": "https://www.v2ex.com/t/1259848#reply1",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "静态博客，AI 友好，约束都用 agents.md 和 design.md 定好了。 做这个磨了我好几个晚上，感兴趣的佬们可以拿去许愿式修改 项目链接： https://github.com/moonoops/astro-phosphor DEMO： https://moonoops.github.io/astro-phosphor/ 个人站： 个人站里面一些涉及后端服务的功能就没放 github",
+     "title": "[OpenAI] codex 这么占空间吗",
+     "url": "https://www.v2ex.com/t/1259918#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "mac m2. Application Support/com.openai.codex Application Support/Codex 两个目录块 200G 了 有朋友清理过吗",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 小时候看 VCD、玩 4399，会暴露年龄吗？我做了个小测验 come on",
-     "url": "https://www.v2ex.com/t/1259847#reply1",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "小时候在家看电影，你是翻电视节目表等开播，还是把 VCD 塞进影碟机？ 我做了个猜年龄的小网页。中文版有 8 道题，都是小时候的日常，比如出门用什么听歌、放学怎么约朋友。不用注册，也不用填生日。答完会给一个年龄猜测，还能保存一张复古掌机风格的结果图。 玩中文版 · 英文版 想看看 V 友能把它难倒几次。测完欢迎回帖说一句「猜大了 5 岁」或者「刚好猜中」，不用报真实年龄。如果有哪道题的选项完全对不",
+     "title": "[推广] 做了个 ai 代充聚合网站，商家可以 free 提交你的商店",
+     "url": "https://www.v2ex.com/t/1259917#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "最近做了个网站叫「订阅家」，把不同商家的 AI 会员报价放在同一页，方便按套餐比较。 我想解决的是，同一个套餐只看价格很容易比错。有的是给自己的账号充值，有的是合租或者卡密，库存、到账时间和售后也各不相同。所以套餐页把这些信息放在报价旁边，另外标了最近更新时间。有历史记录的套餐也能看价格走势。 可以直接看几个套餐： ChatGPT Plus： https://dingyuejia.com/prod",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
-     "url": "https://www.solidot.org/story?sid=85993",
-     "meta": "Solidot · 2026-11-25",
-     "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Mo",
+     "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+     "url": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+     "meta": "爱范儿 · 2026-11-26",
+     "summary": "技术实力的外溢。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[深圳] 短时间在深圳两周，到哪儿能租或买个电动车？",
-     "url": "https://www.v2ex.com/t/1259846#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "如题，短时间在深圳两周，到哪儿能租或买个电动车？有意请联系，微信号：burpsuite",
+     "title": "[数学] 黎曼猜想被 Claude 攻克了？",
+     "url": "https://www.v2ex.com/t/1259916#reply3",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "最近刷到黎曼猜想被 Claude 证明了，已经通过 lean 检测；论文长达 25w 页； 据说 P=NP 也要被 OpenAI 攻克，两者相等；",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-     "url": "https://www.solidot.org/story?sid=85992",
-     "meta": "Solidot · 2026-11-25",
-     "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引",
+     "title": "[分享发现] 网易云音乐的操作越来越恶心 不开会员广告轰炸骚扰",
+     "url": "https://www.v2ex.com/t/1259915#reply1",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "会员上个月到期，现在每天打开 APP，开屏广告 100%触发，进入主界面一直弹窗叫我续费 恶心的时候，连续弹窗次数可达 5 次以上，连点击播放按钮的机会都没有，必须关闭续费窗口！！！",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] # 墨牍（Modu）：极小极简本地 RSS 阅读器",
-     "url": "https://www.v2ex.com/t/1259845#reply1",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "市面上的 RSS 阅读器越做越重了。 很多产品动辄几百 MB 的安装包，打开后塞满了 AI 总结、社交动态、复杂的过滤规则和五花八门的侧边栏。我只是想安静地看几篇订阅的文章，却总觉得自己在操作一套企业级后台系统。 于是我做了 墨牍（Modu） （ modu.yunz93.dev ）。 它的设计目标非常单纯： 极小体积 ，以及 极度简洁 。 为什么做墨牍？ 6MB 极小体积，轻装上阵 ：去掉了所有不",
+     "title": "[分享创造] 压缩图片、视频、音频的 App，很快、很多、很省",
+     "url": "https://www.v2ex.com/t/1259913#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "压缩很快 功能很多 很省空间和流量 现在真的有点好用 https://apps.apple.com/cn/app/%E6%89%B9%E9%87%8F%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9-shrinkfile/id6755109910?platform=mac",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[分享创造] 开源了一个能打电话、边聊边干的 Personal Agent，手机上能独立跑，求拍砖",
-     "url": "https://www.v2ex.com/t/1259844#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "大家好，这是我们团队自己做的个人助手 Nova。最近发了 v1.0，目前已更新到 v1.0.2，代码以 GPL-3.0 开源。发上来想听听大家觉得哪里好用、哪里还别扭，有问题直接喷。 GitHub 仓库 官网（更多演示和文档） 先放一条 2 分钟的实录。 https://www.bilibili.com/video/BV1wEyrz7Edb YouTube 备用链接 为什么做这个 我们平时用助手，",
+     "title": "[Google Gemini] 今年新年时候的 100 刀年付的 Google 老会员,怎么开黑五优惠啊?",
+     "url": "https://www.v2ex.com/t/1259908#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "害怕错过这波优惠, 但是手机上只有升级 ultra 没有续费 100$的选项啊.",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google Gemini] 黑 5 的 PRO 反重力无法使用 neon，有相同情况的吗？",
-     "url": "https://www.v2ex.com/t/1259843#reply1",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "订阅 plus,google 地址更换为美国 google one 显示黑五折扣，但显示不支持订阅。 更改账单地址为美国，订阅了黑五 pro 反重力、CLI 均不支持 neon，web 支持 neon 补充下，支付改为了美国，但是最终支付还是显示港币。 有类似情况的吗？求解决方案~",
+     "title": "[推广] Infini 虚拟卡又能开了，实测美区 Apple Store 可用",
+     "url": "https://www.v2ex.com/t/1259907#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "之前一直用美区 PayPal 付 Apple Store，丫给我封了正愁付款方式呢，发现这个渠道还可以，现在还有 ai 返现 30%和 100 刀消费 10 刀奖励。 需要准备： 护照照片 外区地址证明 我用的是之前的 N26 账单，正好废物利用。 操作很简单： 在美区商店下载 Infini 用邮箱注册，填写验证码 身份认证选择中国护照 地址证明选择非美国地址，上传 N26 账单 完成人脸识别 审",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[推广] 不用注册就能直接试 MAGI-2，还挺省事",
-     "url": "https://www.v2ex.com/t/1259842#reply0",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "最近想试一下 MAGI-2，主要还是对它的音视频同步生成比较感兴趣——以前用视频模型大多只能出“默片”，音效和配音还得后期另找工具补，这次可以直接把画面、对白、环境音和镜头节奏一起带出来。 看到 magi-2.run 这边正好开放了免注册的在线试用： https://magi-2.run 打开就能直接进到生成界面，不用先走一套繁琐的注册流程，对于只想先看看模型底子、测测提示词响应的人来说挺友好的。",
+     "title": "[广州] 广州有没有治疗 睡眠少的医院",
+     "url": "https://www.v2ex.com/t/1259906#reply14",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "现在睡眠很少，一天也就睡个六七个小时。晚上有时候很难入睡 再就是早上只要醒来就没什么困意",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 一模一样的设备网络，cluade 都能用，为什么 muse 把我识别出来了",
-     "url": "https://www.v2ex.com/t/1259841#reply5",
-     "meta": "V2EX · 2026-11-25",
-     "summary": "我为了用 claude 单独买了一台 windows 机器（老款 ThinkPad X1） 重装了英文系统：语言 English（US）+ 美西时区 wireguard 软路由 + 美西家庭 ip：往返延迟不一致/dns 泄露/webRTC 泄露 都没有 全新的 google 账号 who.1ms.dog 和 cleanip.io 都显示是美国用户 在这个机器上我用 Claude Pro 已经 1",
+     "title": "[分享创造] SR-IOV 核显直通：MMIO 全是 FF，问题在 guest 里那份 i915",
+     "url": "https://www.v2ex.com/t/1259905#reply1",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "NAS 虚拟机直通了 Intel 核显的一个 SR-IOV 虚拟功能，之前好好的，换内核之后播放和转码全走 CPU。 vainfo 报 failed to initialize display ，i915 的内核日志是： Device is non-operational; MMIO access returns 0xFFFFFFFF 按这个现象，第一反应会是查 PCIe 模式、BAR 映射、su",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -264,7 +351,7 @@
     {
      "title": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "meta": "⭐ 12445 · Rust",
+     "meta": "⭐ 12652 · Rust",
      "summary": "An attempt at running GTA VI on PC",
      "reason": null,
      "origin_source": "github_search"
@@ -272,15 +359,23 @@
     {
      "title": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "meta": "⭐ 8255 · Rust",
+     "meta": "⭐ 8334 · Rust",
      "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "4lwayz/portwatch-vi",
+     "url": "https://github.com/4lwayz/portwatch-vi",
+     "meta": "⭐ 4263 · JavaScript",
+     "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 3907 · Rust",
+     "meta": "⭐ 3999 · Rust",
      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,23 +383,15 @@
     {
      "title": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "meta": "⭐ 3870 · C",
+     "meta": "⭐ 3971 · C",
      "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "4lwayz/portwatch-vi",
-     "url": "https://github.com/4lwayz/portwatch-vi",
-     "meta": "⭐ 3778 · JavaScript",
-     "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "meta": "⭐ 2947 · Rust",
+     "meta": "⭐ 3095 · Rust",
      "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +407,7 @@
     {
      "title": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "meta": "⭐ 2279 · Python",
+     "meta": "⭐ 2349 · Python",
      "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +415,7 @@
     {
      "title": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "meta": "⭐ 1948 · Python",
+     "meta": "⭐ 1958 · Python",
      "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "reason": null,
      "origin_source": "github_search"
@@ -336,7 +423,7 @@
     {
      "title": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "meta": "⭐ 1868 · Swift",
+     "meta": "⭐ 1896 · Swift",
      "summary": "make your macbook's trackpad talk using its haptic motor",
      "reason": null,
      "origin_source": "github_search"
@@ -344,7 +431,7 @@
     {
      "title": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "meta": "⭐ 1844 · Rust",
+     "meta": "⭐ 1849 · Rust",
      "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +439,7 @@
     {
      "title": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "meta": "⭐ 1589 · Rust",
+     "meta": "⭐ 1659 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -368,7 +455,7 @@
     {
      "title": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "meta": "⭐ 1191 · Lean",
+     "meta": "⭐ 1269 · Lean",
      "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
      "reason": null,
      "origin_source": "github_search"
@@ -376,7 +463,7 @@
     {
      "title": "Indigo-0167/universal-game-mod-manager",
      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-     "meta": "⭐ 1301 · Rust",
+     "meta": "⭐ 1298 · Rust",
      "summary": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
      "reason": null,
      "origin_source": "github_search"
@@ -388,6 +475,22 @@
    "emoji": "💬",
    "errors": [],
    "items": [
+    {
+     "title": "1Password Security Incident",
+     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+     "meta": "⭐ 1188 · 💬 505",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "meta": "⭐ 948 · 💬 794",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
     {
      "title": "The matrix multiplication exponent is nine fourths [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
@@ -413,9 +516,25 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "1Password Security Incident",
-     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "meta": "⭐ 506 · 💬 226",
+     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "meta": "⭐ 258 · 💬 76",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "meta": "⭐ 450 · 💬 336",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "meta": "⭐ 445 · 💬 109",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -429,17 +548,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-     "meta": "⭐ 364 · 💬 279",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "meta": "⭐ 337 · 💬 85",
+     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "url": "https://github.com/xoxorwr/pw-loudness-eq",
+     "meta": "⭐ 321 · 💬 178",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -453,25 +564,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-     "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "meta": "⭐ 269 · 💬 162",
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "url": "https://github.com/lsernau/grh-lean",
+     "meta": "⭐ 296 · 💬 136",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Investigating degraded experiences across GitHub products",
-     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-     "meta": "⭐ 161 · 💬 85",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Smart people who give a shit use tools",
-     "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-     "meta": "⭐ 157 · 💬 144",
+     "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+     "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+     "meta": "⭐ 81 · 💬 9",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -479,31 +582,15 @@
     {
      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-     "meta": "⭐ 136 · 💬 60",
+     "meta": "⭐ 230 · 💬 95",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "I checked Clojure's core with Lean and found unreported bugs",
-     "url": "https://s.conao3.com/blog/2026/e4f733",
-     "meta": "⭐ 111 · 💬 40",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
-     "url": "https://arxiv.org/abs/2611.31286",
-     "meta": "⭐ 53 · 💬 73",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
-     "url": "https://scottaaronson.blog/?p=10379",
-     "meta": "⭐ 76 · 💬 25",
+     "title": "Jev is probably Qwen3.5-35B-A3B",
+     "url": "https://modaic.dev/blog/latency-doesnt-lie",
+     "meta": "⭐ 229 · 💬 67",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -564,6 +651,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Willow iOS 2.0",
+     "url": "https://www.producthunt.com/products/willow-voice",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "No switching apps while you dictate",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Notely",
      "url": "https://www.producthunt.com/products/notely-8",
      "meta": "Product Hunt · 2026-11-25",
@@ -575,7 +670,7 @@
      "title": "Qube",
      "url": "https://www.producthunt.com/products/qube-6",
      "meta": "Product Hunt · 2026-11-24",
-     "summary": "An AI agent for anyone with the model of your choice",
+     "summary": "An AI agent for anyone",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -604,6 +699,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Mystonie",
+     "url": "https://www.producthunt.com/products/mystonie",
+     "meta": "Product Hunt · 2026-11-24",
+     "summary": "Log movies, shows, books & games — turn finishes into art",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "distribution.dev",
      "url": "https://www.producthunt.com/products/distribution-dev",
      "meta": "Product Hunt · 2026-11-17",
@@ -616,22 +719,6 @@
      "url": "https://www.producthunt.com/products/granular-build",
      "meta": "Product Hunt · 2026-11-18",
      "summary": "Put your AI agents to work in a visual workspace",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "OpenEight",
-     "url": "https://www.producthunt.com/products/openeight",
-     "meta": "Product Hunt · 2026-11-25",
-     "summary": "The deterministic control layer for AI agents",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Omi X 2.0",
-     "url": "https://www.producthunt.com/products/omi-x",
-     "meta": "Product Hunt · 2026-11-25",
-     "summary": "Omi can build anything. Your $1B idea, live in production",
      "reason": null,
      "origin_source": "producthunt"
     }
