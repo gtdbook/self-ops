@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-26T10:37:38.438288+08:00",
- "count": 40,
+ "updated_at": "2026-11-26T19:52:26.573913+08:00",
+ "count": 56,
  "items": [
   {
    "id": "hn-50589784",
@@ -20,18 +20,38 @@
    ]
   },
   {
+   "id": "hn-50598636",
+   "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+   "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50598636",
+   "score": 101,
+   "comments": 32,
+   "author": "Michelangelo11",
+   "time_iso": "2026-11-22T11:29:44+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 101
+    }
+   ]
+  },
+  {
    "id": "hn-50601280",
    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
    "hn_url": "https://news.ycombinator.com/item?id=50601280",
-   "score": 258,
-   "comments": 76,
+   "score": 395,
+   "comments": 113,
    "author": "bjin",
    "time_iso": "2026-11-22T16:44:48+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 258
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 395
     }
    ]
   },
@@ -84,6 +104,38 @@
    ]
   },
   {
+   "id": "hn-50620120",
+   "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+   "url": "https://eng.snap.com/mcp-gateway",
+   "hn_url": "https://news.ycombinator.com/item?id=50620120",
+   "score": 8,
+   "comments": 1,
+   "author": "Kaedon",
+   "time_iso": "2026-11-23T22:10:43+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 8
+    }
+   ]
+  },
+  {
+   "id": "hn-50621638",
+   "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+   "url": "https://arxiv.org/abs/2605.15257",
+   "hn_url": "https://news.ycombinator.com/item?id=50621638",
+   "score": 13,
+   "comments": 0,
+   "author": "sonabinu",
+   "time_iso": "2026-11-24T00:19:50+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 13
+    }
+   ]
+  },
+  {
    "id": "hn-50623020",
    "title": "Hacking radiators",
    "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
@@ -96,6 +148,22 @@
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50623232",
+   "title": "Show HN: Synth Patch Hero",
+   "url": "https://swarkentin.github.io/synth-patch-hero/",
+   "hn_url": "https://news.ycombinator.com/item?id=50623232",
+   "score": 62,
+   "comments": 11,
+   "author": "kaidon",
+   "time_iso": "2026-11-24T03:24:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 62
     }
    ]
   },
@@ -136,6 +204,22 @@
    ]
   },
   {
+   "id": "hn-50626466",
+   "title": "What VP ≠ VNP Means (In 3 Minutes)",
+   "url": "https://www.friedgil.com/vpvnp",
+   "hn_url": "https://news.ycombinator.com/item?id=50626466",
+   "score": 147,
+   "comments": 44,
+   "author": "vinhnx",
+   "time_iso": "2026-11-24T10:56:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 147
+    }
+   ]
+  },
+  {
    "id": "hn-50631791",
    "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
    "url": "https://joonoo.art/create-comic",
@@ -148,6 +232,22 @@
     {
      "t": "2026-11-26T03:44:17.661829+08:00",
      "score": 13
+    }
+   ]
+  },
+  {
+   "id": "hn-50634381",
+   "title": "The history of civilization is the history of wheat",
+   "url": "https://asteriskmag.com/issues/16/marginal-grains",
+   "hn_url": "https://news.ycombinator.com/item?id=50634381",
+   "score": 51,
+   "comments": 22,
+   "author": "NaOH",
+   "time_iso": "2026-11-24T20:40:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 51
     }
    ]
   },
@@ -184,6 +284,22 @@
     {
      "t": "2026-11-26T03:44:17.661829+08:00",
      "score": 942
+    }
+   ]
+  },
+  {
+   "id": "hn-50637448",
+   "title": "How did pinwheel calculators work?",
+   "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+   "hn_url": "https://news.ycombinator.com/item?id=50637448",
+   "score": 76,
+   "comments": 7,
+   "author": "surprisetalk",
+   "time_iso": "2026-11-25T02:00:08+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 76
     }
    ]
   },
@@ -432,8 +548,8 @@
    "title": "1Password Security Incident",
    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
    "hn_url": "https://news.ycombinator.com/item?id=50644817",
-   "score": 1188,
-   "comments": 505,
+   "score": 1469,
+   "comments": 637,
    "author": "lxhrstn",
    "time_iso": "2026-11-25T17:18:26+00:00",
    "history": [
@@ -444,6 +560,10 @@
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 1188
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 1469
     }
    ]
   },
@@ -524,8 +644,8 @@
    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
    "url": "https://scottaaronson.blog/?p=10379",
    "hn_url": "https://news.ycombinator.com/item?id=50646108",
-   "score": 948,
-   "comments": 794,
+   "score": 1621,
+   "comments": 1428,
    "author": "Kotlopou",
    "time_iso": "2026-11-25T19:11:27+00:00",
    "history": [
@@ -536,6 +656,10 @@
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 948
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 1621
     }
    ]
   },
@@ -544,14 +668,18 @@
    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
    "hn_url": "https://news.ycombinator.com/item?id=50647161",
-   "score": 90,
-   "comments": 28,
+   "score": 157,
+   "comments": 63,
    "author": "dm",
    "time_iso": "2026-11-25T20:35:50+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 90
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 157
     }
    ]
   },
@@ -560,14 +688,18 @@
    "title": "Slow Ubuntu security response times",
    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
    "hn_url": "https://news.ycombinator.com/item?id=50647181",
-   "score": 156,
-   "comments": 67,
+   "score": 321,
+   "comments": 154,
    "author": "gslin",
    "time_iso": "2026-11-25T20:38:00+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 156
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 321
     }
    ]
   },
@@ -576,14 +708,18 @@
    "title": "The New York Times warns photographers not to update Photoshop over AI features",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
    "hn_url": "https://news.ycombinator.com/item?id=50647673",
-   "score": 215,
-   "comments": 176,
+   "score": 421,
+   "comments": 351,
    "author": "rmason",
    "time_iso": "2026-11-25T21:18:02+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 215
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 421
     }
    ]
   },
@@ -608,14 +744,18 @@
    "title": "Much shorter version of GRH Lean verification from Anthropic",
    "url": "https://github.com/lsernau/grh-lean",
    "hn_url": "https://news.ycombinator.com/item?id=50648050",
-   "score": 296,
-   "comments": 136,
+   "score": 469,
+   "comments": 255,
    "author": "nb-t",
    "time_iso": "2026-11-25T21:48:10+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 296
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 469
     }
    ]
   },
@@ -640,14 +780,18 @@
    "title": "Bare Metal Qwen",
    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
    "hn_url": "https://news.ycombinator.com/item?id=50648365",
-   "score": 68,
-   "comments": 10,
+   "score": 167,
+   "comments": 39,
    "author": "miohtama",
    "time_iso": "2026-11-25T22:15:34+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 68
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 167
     }
    ]
   },
@@ -668,18 +812,166 @@
    ]
   },
   {
+   "id": "hn-50649834",
+   "title": "Collection of preserved UI style guides",
+   "url": "https://aresluna.org/ui-style-guides/",
+   "hn_url": "https://news.ycombinator.com/item?id=50649834",
+   "score": 231,
+   "comments": 24,
+   "author": "sohkamyung",
+   "time_iso": "2026-11-26T00:40:00+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 231
+    }
+   ]
+  },
+  {
    "id": "hn-50649864",
    "title": "Tell HN: Lots of Ask HNs again",
    "url": "https://news.ycombinator.com/item?id=50649864",
    "hn_url": "https://news.ycombinator.com/item?id=50649864",
-   "score": 89,
-   "comments": 38,
+   "score": 286,
+   "comments": 110,
    "author": "dang",
    "time_iso": "2026-11-26T00:43:34+00:00",
    "history": [
     {
      "t": "2026-11-26T10:37:38.438288+08:00",
      "score": 89
+    },
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 286
+    }
+   ]
+  },
+  {
+   "id": "hn-50650892",
+   "title": "Minipg: PostgreSQL as a Single Executable",
+   "url": "https://progrium.github.io/minipg/",
+   "hn_url": "https://news.ycombinator.com/item?id=50650892",
+   "score": 154,
+   "comments": 24,
+   "author": "rguiscard",
+   "time_iso": "2026-11-26T03:00:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 154
+    }
+   ]
+  },
+  {
+   "id": "hn-50651117",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "hn_url": "https://news.ycombinator.com/item?id=50651117",
+   "score": 296,
+   "comments": 160,
+   "author": "Herrera",
+   "time_iso": "2026-11-26T03:36:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 296
+    }
+   ]
+  },
+  {
+   "id": "hn-50651158",
+   "title": "Qualcomm's Oryon 3 Reaches the Top",
+   "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+   "hn_url": "https://news.ycombinator.com/item?id=50651158",
+   "score": 53,
+   "comments": 22,
+   "author": "wmf",
+   "time_iso": "2026-11-26T03:43:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 53
+    }
+   ]
+  },
+  {
+   "id": "hn-50651627",
+   "title": "Unconditional Integer Factorization in Subexponential Time",
+   "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+   "hn_url": "https://news.ycombinator.com/item?id=50651627",
+   "score": 59,
+   "comments": 5,
+   "author": "_alternator_",
+   "time_iso": "2026-11-26T04:59:56+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50651719",
+   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+   "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+   "hn_url": "https://news.ycombinator.com/item?id=50651719",
+   "score": 117,
+   "comments": 17,
+   "author": "joonehur",
+   "time_iso": "2026-11-26T05:12:59+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 117
+    }
+   ]
+  },
+  {
+   "id": "hn-50652184",
+   "title": "Moat: Your OpenRouter Replacement",
+   "url": "https://commandcode.ai/moat",
+   "hn_url": "https://news.ycombinator.com/item?id=50652184",
+   "score": 97,
+   "comments": 67,
+   "author": "amanverasia",
+   "time_iso": "2026-11-26T06:32:48+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 97
+    }
+   ]
+  },
+  {
+   "id": "hn-50653477",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "hn_url": "https://news.ycombinator.com/item?id=50653477",
+   "score": 46,
+   "comments": 31,
+   "author": "ritzaco",
+   "time_iso": "2026-11-26T09:44:23+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 46
+    }
+   ]
+  },
+  {
+   "id": "hn-50653667",
+   "title": "Intel One Mono font",
+   "url": "https://github.com/intel/intel-one-mono",
+   "hn_url": "https://news.ycombinator.com/item?id=50653667",
+   "score": 80,
+   "comments": 43,
+   "author": "saikatsg",
+   "time_iso": "2026-11-26T10:11:01+00:00",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:26.573913+08:00",
+     "score": 80
     }
    ]
   }

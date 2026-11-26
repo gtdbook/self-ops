@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-26T10:37:39.115781+08:00",
- "count": 22,
+ "updated_at": "2026-11-26T19:52:27.232932+08:00",
+ "count": 23,
  "items": [
   {
    "id": "gh-1463683138",
@@ -37,7 +37,7 @@
    "id": "gh-1465281397",
    "title": "AFK-surf/xnulinux",
    "url": "https://github.com/AFK-surf/xnulinux",
-   "stars": 3971,
+   "stars": 4103,
    "language": "C",
    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
    "created_at": "2026-11-20T10:18:31Z",
@@ -49,6 +49,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 3971
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 4103
     }
    ]
   },
@@ -56,7 +60,7 @@
    "id": "gh-1465547415",
    "title": "leanprover-community/riemann-hypothesis",
    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-   "stars": 1269,
+   "stars": 1356,
    "language": "Lean",
    "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
    "created_at": "2026-11-20T14:47:49Z",
@@ -68,6 +72,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1269
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1356
     }
    ]
   },
@@ -75,7 +83,7 @@
    "id": "gh-1465728637",
    "title": "R0Y00/Xbox2Windows",
    "url": "https://github.com/R0Y00/Xbox2Windows",
-   "stars": 1958,
+   "stars": 1961,
    "language": "Python",
    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
    "created_at": "2026-11-20T17:43:52Z",
@@ -87,6 +95,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1958
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1961
     }
    ]
   },
@@ -94,7 +106,7 @@
    "id": "gh-1465852099",
    "title": "xcl-dev/xcl",
    "url": "https://github.com/xcl-dev/xcl",
-   "stars": 8334,
+   "stars": 8426,
    "language": "Rust",
    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
    "created_at": "2026-11-20T20:03:21Z",
@@ -106,6 +118,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 8334
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 8426
     }
    ]
   },
@@ -113,7 +129,7 @@
    "id": "gh-1466325515",
    "title": "omonkeyz/xbox-emulator",
    "url": "https://github.com/omonkeyz/xbox-emulator",
-   "stars": 1849,
+   "stars": 1848,
    "language": "Rust",
    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "created_at": "2026-11-21T08:08:39Z",
@@ -125,6 +141,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1849
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1848
     }
    ]
   },
@@ -132,7 +152,7 @@
    "id": "gh-1466635339",
    "title": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 3999,
+   "stars": 4114,
    "language": "Rust",
    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
    "created_at": "2026-11-21T14:40:27Z",
@@ -144,6 +164,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 3999
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 4114
     }
    ]
   },
@@ -151,7 +175,7 @@
    "id": "gh-1466700014",
    "title": "qianyiai/kurocat",
    "url": "https://github.com/qianyiai/kurocat",
-   "stars": 1022,
+   "stars": 1247,
    "language": "TypeScript",
    "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
    "created_at": "2026-11-21T15:49:31Z",
@@ -159,6 +183,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1022
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1247
     }
    ]
   },
@@ -166,7 +194,7 @@
    "id": "gh-1467035512",
    "title": "4lwayz/portwatch-vi",
    "url": "https://github.com/4lwayz/portwatch-vi",
-   "stars": 4263,
+   "stars": 4878,
    "language": "JavaScript",
    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "created_at": "2026-11-21T23:16:41Z",
@@ -178,6 +206,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 4263
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 4878
     }
    ]
   },
@@ -185,7 +217,7 @@
    "id": "gh-1467247580",
    "title": "deterministic-machines/deslop-please",
    "url": "https://github.com/deterministic-machines/deslop-please",
-   "stars": 1066,
+   "stars": 1109,
    "language": "Rust",
    "description": "Bring (back) sanity to your code",
    "created_at": "2026-11-22T05:36:03Z",
@@ -193,6 +225,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1066
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1109
     }
    ]
   },
@@ -200,7 +236,7 @@
    "id": "gh-1467461515",
    "title": "crhywun/g1-acq",
    "url": "https://github.com/crhywun/g1-acq",
-   "stars": 1265,
+   "stars": 1487,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-11-22T10:53:17Z",
@@ -212,6 +248,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1265
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1487
     }
    ]
   },
@@ -219,7 +259,7 @@
    "id": "gh-1467519193",
    "title": "os6/nospeaker",
    "url": "https://github.com/os6/nospeaker",
-   "stars": 1896,
+   "stars": 1920,
    "language": "Swift",
    "description": "make your macbook's trackpad talk using its haptic motor",
    "created_at": "2026-11-22T12:05:54Z",
@@ -231,6 +271,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1896
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1920
     }
    ]
   },
@@ -238,7 +282,7 @@
    "id": "gh-1467880545",
    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "stars": 1243,
+   "stars": 1353,
    "language": "Rust",
    "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
    "created_at": "2026-11-22T18:50:17Z",
@@ -250,6 +294,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1243
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1353
     }
    ]
   },
@@ -257,7 +305,7 @@
    "id": "gh-1469329665",
    "title": "Indigo-0167/universal-game-mod-manager",
    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-   "stars": 1298,
+   "stars": 1300,
    "language": "Rust",
    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
    "created_at": "2026-11-23T21:30:10Z",
@@ -269,6 +317,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1298
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1300
     }
    ]
   },
@@ -295,7 +347,7 @@
    "id": "gh-1469337059",
    "title": "zero5122/offline-file-converter-windows",
    "url": "https://github.com/zero5122/offline-file-converter-windows",
-   "stars": 1060,
+   "stars": 1064,
    "language": "Python",
    "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
    "created_at": "2026-11-23T21:38:47Z",
@@ -303,6 +355,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1060
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1064
     }
    ]
   },
@@ -322,6 +378,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1262
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1262
     }
    ]
   },
@@ -329,7 +389,7 @@
    "id": "gh-1469344551",
    "title": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
-   "stars": 12652,
+   "stars": 12924,
    "language": "Rust",
    "description": "An attempt at running GTA VI on PC",
    "created_at": "2026-11-23T21:47:25Z",
@@ -341,6 +401,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 12652
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 12924
     }
    ]
   },
@@ -348,7 +412,7 @@
    "id": "gh-1469441675",
    "title": "ubiquitarianism/leonida",
    "url": "https://github.com/ubiquitarianism/leonida",
-   "stars": 2349,
+   "stars": 2422,
    "language": "Python",
    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
    "created_at": "2026-11-23T23:54:39Z",
@@ -360,6 +424,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 2349
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 2422
     }
    ]
   },
@@ -367,7 +435,7 @@
    "id": "gh-1470579726",
    "title": "fxceless/victory-fork",
    "url": "https://github.com/fxceless/victory-fork",
-   "stars": 3095,
+   "stars": 3190,
    "language": "Rust",
    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
    "created_at": "2026-11-24T18:02:37Z",
@@ -379,6 +447,10 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 3095
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 3190
     }
    ]
   },
@@ -386,7 +458,7 @@
    "id": "gh-1471562910",
    "title": "Belobug/VIctory-Belobug-AMD",
    "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-   "stars": 1659,
+   "stars": 1718,
    "language": "Rust",
    "description": "",
    "created_at": "2026-11-25T09:41:37Z",
@@ -398,6 +470,25 @@
     {
      "t": "2026-11-26T10:37:39.115781+08:00",
      "score": 1659
+    },
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1718
+    }
+   ]
+  },
+  {
+   "id": "gh-1472396996",
+   "title": "avatarmanz/VIctory-7900XTX",
+   "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+   "stars": 1496,
+   "language": "Rust",
+   "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emulating: renderer patches + ahead-of-time shaders, RX 7900 XTX first. No game files.",
+   "created_at": "2026-11-25T22:18:14Z",
+   "history": [
+    {
+     "t": "2026-11-26T19:52:27.232932+08:00",
+     "score": 1496
     }
    ]
   }
