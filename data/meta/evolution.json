@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T13:25:44.872037+08:00",
+ "updated_at": "2026-11-26T12:59:07.364147+08:00",
  "entries": [
   {
    "ts": "2026-11-05T08:24:45.610888+08:00",
@@ -474,6 +474,12 @@
    "kind": "token_promote",
    "target": "prefs.tokens",
    "detail": "models(8次→+2.50)、inkling(8次→+1.85)、generalized(7次→+0.97)、riemann(6次→+1.38)、hypothesis(6次→+1.85)、open(6次→+1.87)、mini(6次→+1.38)、sol(6次→+3.02)"
+  },
+  {
+   "ts": "2026-11-26T12:59:07.364147+08:00",
+   "kind": "token_promote",
+   "target": "prefs.tokens",
+   "detail": "models(8次→+2.87)、inkling(8次→+2.26)、generalized(7次→+1.43)、security(6次→+0.50)、lean(6次→+0.50)、hypothesis(6次→+2.26)、riemann(6次→+1.81)、open(6次→+2.27)"
   }
  ]
 }
