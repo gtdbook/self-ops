@@ -1,21 +1,25 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-27T03:44:53.171478+08:00",
- "count": 25,
+ "updated_at": "2026-11-27T04:54:29.405520+08:00",
+ "count": 31,
  "items": [
   {
    "id": "hn-50619466",
    "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
    "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
    "hn_url": "https://news.ycombinator.com/item?id=50619466",
-   "score": 73,
-   "comments": 46,
+   "score": 79,
+   "comments": 48,
    "author": "PaulHoule",
    "time_iso": "2026-11-23T21:18:49+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 73
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 79
     }
    ]
   },
@@ -24,7 +28,7 @@
    "title": "Curiosity Is No Solo Act",
    "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
    "hn_url": "https://news.ycombinator.com/item?id=50636931",
-   "score": 90,
+   "score": 103,
    "comments": 22,
    "author": "Petiver",
    "time_iso": "2026-11-25T00:37:07+00:00",
@@ -32,6 +36,10 @@
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 90
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 103
     }
    ]
   },
@@ -40,14 +48,18 @@
    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
    "url": "https://scottaaronson.blog/?p=10379",
    "hn_url": "https://news.ycombinator.com/item?id=50646108",
-   "score": 1911,
-   "comments": 1749,
+   "score": 1932,
+   "comments": 1769,
    "author": "Kotlopou",
    "time_iso": "2026-11-25T19:11:27+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 1911
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 1932
     }
    ]
   },
@@ -56,14 +68,18 @@
    "title": "The New York Times warns photographers not to update Photoshop over AI features",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
    "hn_url": "https://news.ycombinator.com/item?id=50647673",
-   "score": 608,
-   "comments": 488,
+   "score": 631,
+   "comments": 500,
    "author": "rmason",
    "time_iso": "2026-11-25T21:18:02+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 608
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 631
     }
    ]
   },
@@ -72,14 +88,18 @@
    "title": "Much shorter version of GRH Lean verification from Anthropic",
    "url": "https://github.com/lsernau/grh-lean",
    "hn_url": "https://news.ycombinator.com/item?id=50648050",
-   "score": 525,
-   "comments": 336,
+   "score": 536,
+   "comments": 338,
    "author": "nb-t",
    "time_iso": "2026-11-25T21:48:10+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 525
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 536
     }
    ]
   },
@@ -120,14 +140,34 @@
    "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
    "url": "https://olumino.app",
    "hn_url": "https://news.ycombinator.com/item?id=50651099",
-   "score": 12,
-   "comments": 8,
+   "score": 21,
+   "comments": 10,
    "author": "Wiyseful",
    "time_iso": "2026-11-26T03:33:06+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50651430",
+   "title": "NormalScript: A perfectly normal scripting language",
+   "url": "https://psychoscript.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50651430",
+   "score": 36,
+   "comments": 8,
+   "author": "hn-aarvin",
+   "time_iso": "2026-11-26T04:32:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 36
     }
    ]
   },
@@ -136,14 +176,18 @@
    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
    "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
    "hn_url": "https://news.ycombinator.com/item?id=50651719",
-   "score": 240,
-   "comments": 51,
+   "score": 252,
+   "comments": 55,
    "author": "joonehur",
    "time_iso": "2026-11-26T05:12:59+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 240
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 252
     }
    ]
   },
@@ -152,14 +196,34 @@
    "title": "Moat: OpenRouter replacement",
    "url": "https://commandcode.ai/moat",
    "hn_url": "https://news.ycombinator.com/item?id=50652184",
-   "score": 204,
-   "comments": 121,
+   "score": 214,
+   "comments": 124,
    "author": "amanverasia",
    "time_iso": "2026-11-26T06:32:48+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 204
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 214
+    }
+   ]
+  },
+  {
+   "id": "hn-50652527",
+   "title": "OpenAI may be in cost control mode",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "hn_url": "https://news.ycombinator.com/item?id=50652527",
+   "score": 89,
+   "comments": 64,
+   "author": "seizethecheese",
+   "time_iso": "2026-11-26T07:33:12+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 89
     }
    ]
   },
@@ -168,14 +232,18 @@
    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
    "hn_url": "https://news.ycombinator.com/item?id=50653477",
-   "score": 108,
-   "comments": 123,
+   "score": 138,
+   "comments": 152,
    "author": "ritzaco",
    "time_iso": "2026-11-26T09:44:23+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 108
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 138
     }
    ]
   },
@@ -184,14 +252,18 @@
    "title": "Intel One Mono font (2023)",
    "url": "https://github.com/intel/intel-one-mono",
    "hn_url": "https://news.ycombinator.com/item?id=50653667",
-   "score": 388,
-   "comments": 220,
+   "score": 401,
+   "comments": 226,
    "author": "saikatsg",
    "time_iso": "2026-11-26T10:11:01+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 388
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 401
     }
    ]
   },
@@ -200,14 +272,18 @@
    "title": "Nextcloud Office Desktop app",
    "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
    "hn_url": "https://news.ycombinator.com/item?id=50654289",
-   "score": 358,
-   "comments": 168,
+   "score": 367,
+   "comments": 182,
    "author": "e12e",
    "time_iso": "2026-11-26T11:50:49+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 358
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 367
     }
    ]
   },
@@ -223,6 +299,10 @@
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
+     "score": 1
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 1
     }
    ]
@@ -248,14 +328,18 @@
    "title": "Tell HN: Happy Thanksgiving",
    "url": "https://news.ycombinator.com/item?id=50655664",
    "hn_url": "https://news.ycombinator.com/item?id=50655664",
-   "score": 478,
-   "comments": 121,
+   "score": 506,
+   "comments": 128,
    "author": "ericmay",
    "time_iso": "2026-11-26T14:26:54+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 478
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 506
     }
    ]
   },
@@ -264,14 +348,18 @@
    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
    "url": "https://michidk.github.io/sidebyside/",
    "hn_url": "https://news.ycombinator.com/item?id=50656036",
-   "score": 76,
-   "comments": 20,
+   "score": 83,
+   "comments": 22,
    "author": "michidk",
    "time_iso": "2026-11-26T15:00:06+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 76
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 83
     }
    ]
   },
@@ -312,14 +400,18 @@
    "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
    "url": "https://github.com/rxliuli/sim-drop",
    "hn_url": "https://news.ycombinator.com/item?id=50657070",
-   "score": 13,
-   "comments": 2,
+   "score": 23,
+   "comments": 5,
    "author": "rxliuli",
    "time_iso": "2026-11-26T16:51:38+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 13
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 23
     }
    ]
   },
@@ -328,14 +420,18 @@
    "title": "AMD Specific Patches for Llama.cpp",
    "url": "https://devnull.land/amd-specific-llama-cpp",
    "hn_url": "https://news.ycombinator.com/item?id=50657265",
-   "score": 128,
-   "comments": 39,
+   "score": 184,
+   "comments": 48,
    "author": "julianlam",
    "time_iso": "2026-11-26T17:11:29+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 128
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 184
     }
    ]
   },
@@ -360,14 +456,18 @@
    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
    "url": "https://github.com/antonpictures/youtube-punisher",
    "hn_url": "https://news.ycombinator.com/item?id=50657530",
-   "score": 60,
-   "comments": 83,
+   "score": 113,
+   "comments": 166,
    "author": "iantongeorge",
    "time_iso": "2026-11-26T17:36:47+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 60
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 113
     }
    ]
   },
@@ -376,14 +476,18 @@
    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "hn_url": "https://news.ycombinator.com/item?id=50657645",
-   "score": 72,
-   "comments": 28,
+   "score": 118,
+   "comments": 52,
    "author": "Bender",
    "time_iso": "2026-11-26T17:47:45+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 72
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 118
     }
    ]
   },
@@ -392,14 +496,82 @@
    "title": "George Whitesides, 1939-2026",
    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
    "hn_url": "https://news.ycombinator.com/item?id=50657936",
-   "score": 12,
-   "comments": 2,
+   "score": 21,
+   "comments": 3,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-26T18:13:07+00:00",
    "history": [
     {
      "t": "2026-11-27T03:44:53.171478+08:00",
      "score": 12
+    },
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 21
+    }
+   ]
+  },
+  {
+   "id": "hn-50658191",
+   "title": "Show HN: Fuck_data_brokers.py",
+   "url": "https://github.com/gary23w/f-ck_data_brokers",
+   "hn_url": "https://news.ycombinator.com/item?id=50658191",
+   "score": 39,
+   "comments": 4,
+   "author": "gary23w",
+   "time_iso": "2026-11-26T18:37:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50658632",
+   "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+   "url": "https://github.com/eisenzopf/rvoip",
+   "hn_url": "https://news.ycombinator.com/item?id=50658632",
+   "score": 11,
+   "comments": 3,
+   "author": "zerosegfaults",
+   "time_iso": "2026-11-26T19:18:09+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50658997",
+   "title": "The USA as a Civilizations-esque map",
+   "url": "https://karpathy.ai/usaciv/",
+   "hn_url": "https://news.ycombinator.com/item?id=50658997",
+   "score": 39,
+   "comments": 25,
+   "author": "ComputerGuru",
+   "time_iso": "2026-11-26T19:53:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50659532",
+   "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+   "url": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+   "hn_url": "https://news.ycombinator.com/item?id=50659532",
+   "score": 5,
+   "comments": 0,
+   "author": "andsoitis",
+   "time_iso": "2026-11-26T20:39:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T04:54:29.405520+08:00",
+     "score": 5
     }
    ]
   }

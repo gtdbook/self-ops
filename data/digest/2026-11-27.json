@@ -1,7 +1,70 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T03:45:02.790908+08:00",
+ "generated_at": "2026-11-27T04:54:40.645273+08:00",
  "sources": {
+  "rising": {
+   "title": "飙升榜",
+   "emoji": "📈",
+   "errors": [],
+   "items": [
+    {
+     "title": "AMD Specific Patches for Llama.cpp",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "meta": "+56 分 / 1.2 小时 · 现 ⭐ 184",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "meta": "+53 分 / 1.2 小时 · 现 ⭐ 113",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "meta": "+46 分 / 1.2 小时 · 现 ⭐ 118",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+     "meta": "+30 分 / 1.2 小时 · 现 ⭐ 138",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Tell HN: Happy Thanksgiving",
+     "url": "https://news.ycombinator.com/item?id=50655664",
+     "meta": "+28 分 / 1.2 小时 · 现 ⭐ 506",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The New York Times warns photographers not to update Photoshop over AI features",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+     "meta": "+23 分 / 1.2 小时 · 现 ⭐ 631",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "meta": "+21 分 / 1.2 小时 · 现 ⭐ 1932",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    }
+   ]
+  },
   "blog_rss": {
    "title": "博客与技术媒体",
    "emoji": "📰",
@@ -135,6 +198,14 @@
    "errors": [],
    "items": [
     {
+     "title": "[求职] [求职] 新手全栈 | Base 福建 | 两年独立开发 | Umich",
+     "url": "https://www.v2ex.com/t/1260177#reply0",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "关于我 24 岁，美国公民，因家中病人的照护原因 长期 Base 福建。 希望找个 有技术大哥 的团队，主要是想学技术，闭门造车对我来说是一件坏事。 希望是在福建省内，寻求全职或远程开发工作，对工资要求不高，够点外卖就行。 本人英语口语和书写都不错，接待过不少的外贸客户，接待客户算是一项隐藏技能。 本人 Dota 天梯最高 13000，如果你也打 Dota，能帮我介绍工作，我可以带你打 Dota。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
      "title": "[Firefox] SMS Code Filler (Firefox Addon) in Mac 1.2",
      "url": "https://www.v2ex.com/t/1260175#reply0",
      "meta": "V2EX · 2026-11-26",
@@ -163,6 +234,14 @@
      "url": "https://www.v2ex.com/t/1260172#reply3",
      "meta": "V2EX · 2026-11-26",
      "summary": "我们想做一个企业内部的培训学习考试平台",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[程序员] 你们用 FRP 时最怕遇到什么问题？我在做一个平台，想听真话",
+     "url": "https://www.v2ex.com/t/1260171#reply8",
+     "meta": "V2EX · 2026-11-26",
+     "summary": "先交代身份：我在做 SpaceFrp，这篇有自荐成分，也确实想听大家的实际使用体验。 最近一直在改节点状态、隧道管理、Windows 客户端和流量规则。做的过程中发现，隧道能连上只是第一步；掉线后能不能及时发现、流量怎么算、免费额度有什么限制、客户端是否容易上手，都会影响长期使用。 想请教大家：你们主要用 FRP 做开发调试、远程桌面、NAS，还是长期运行服务？选服务时最在意什么？又有哪些问题会让",
      "reason": null,
      "origin_source": "cn_rss"
     },
@@ -237,22 +316,6 @@
      "summary": "试玩地址： https://fde.daretob2b.com/ （手机/电脑打开即玩，免登录） 想做《FDE 的 100 种死法》这个点子很久了，一直没动手主要是没设计过游戏，机制怎么落地脑子里一直比较空。 今天在群里看到朋友分享 mopan.ai 的招聘帖，点进去发现是个挺好玩的游戏引擎 / MEME 开发机，找朋友要了个邀请码，花了大概 3 小时就把基础版原型搓出来了。后来因为引擎还在快速迭",
      "reason": null,
      "origin_source": "cn_rss"
-    },
-    {
-     "title": "英国人性生活频率大幅下降",
-     "url": "https://www.solidot.org/story?sid=86005",
-     "meta": "Solidot · 2026-11-26",
-     "summary": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过一年曾看过色情；无子女女性明确表示不打算生育的比例过去十年间翻了一番；等等。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Surge] 出两个已经用不到的过期 surge for mac 授权",
-     "url": "https://www.v2ex.com/t/1260160#reply2",
-     "meta": "V2EX · 2026-11-26",
-     "summary": "授权 1. 更新时间到 2025/11/13 40 授权 2. 更新到 2026/7/4 65 两个都有群 理论上是商量着续费，现在看大概率两个都不会续 绿泡泡 bGVuZ3l1NzM4Mg==",
-     "reason": null,
-     "origin_source": "cn_rss"
     }
    ]
   },
@@ -264,7 +327,7 @@
     {
      "title": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "meta": "⭐ 13205 · Rust",
+     "meta": "⭐ 13247 · Rust",
      "summary": "An attempt at running GTA VI on PC",
      "reason": null,
      "origin_source": "github_search"
@@ -272,7 +335,7 @@
     {
      "title": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "meta": "⭐ 8568 · Rust",
+     "meta": "⭐ 8578 · Rust",
      "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "reason": null,
      "origin_source": "github_search"
@@ -280,7 +343,7 @@
     {
      "title": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "meta": "⭐ 5458 · JavaScript",
+     "meta": "⭐ 5550 · JavaScript",
      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "reason": null,
      "origin_source": "github_search"
@@ -288,7 +351,7 @@
     {
      "title": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "meta": "⭐ 4210 · C",
+     "meta": "⭐ 4216 · C",
      "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "reason": null,
      "origin_source": "github_search"
@@ -296,7 +359,7 @@
     {
      "title": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 4201 · Rust",
+     "meta": "⭐ 4205 · Rust",
      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "reason": null,
      "origin_source": "github_search"
@@ -304,7 +367,7 @@
     {
      "title": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "meta": "⭐ 3256 · Rust",
+     "meta": "⭐ 3264 · Rust",
      "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "reason": null,
      "origin_source": "github_search"
@@ -312,7 +375,7 @@
     {
      "title": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "meta": "⭐ 2503 · Python",
+     "meta": "⭐ 2511 · Python",
      "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "reason": null,
      "origin_source": "github_search"
@@ -320,7 +383,7 @@
     {
      "title": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "meta": "⭐ 2174 · Rust",
+     "meta": "⭐ 2402 · Rust",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -328,7 +391,7 @@
     {
      "title": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "meta": "⭐ 1963 · Python",
+     "meta": "⭐ 1964 · Python",
      "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "reason": null,
      "origin_source": "github_search"
@@ -352,7 +415,7 @@
     {
      "title": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "meta": "⭐ 1811 · Rust",
+     "meta": "⭐ 1819 · Rust",
      "summary": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX",
      "reason": null,
      "origin_source": "github_search"
@@ -360,7 +423,7 @@
     {
      "title": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "meta": "⭐ 1617 · JavaScript",
+     "meta": "⭐ 1620 · JavaScript",
      "summary": "",
      "reason": null,
      "origin_source": "github_search"
@@ -368,7 +431,7 @@
     {
      "title": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "meta": "⭐ 1431 · Lean",
+     "meta": "⭐ 1440 · Lean",
      "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
      "reason": null,
      "origin_source": "github_search"
@@ -376,7 +439,7 @@
     {
      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "meta": "⭐ 1446 · Rust",
+     "meta": "⭐ 1457 · Rust",
      "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
      "reason": null,
      "origin_source": "github_search"
@@ -391,7 +454,7 @@
     {
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "meta": "⭐ 1911 · 💬 1749",
+     "meta": "⭐ 1932 · 💬 1769",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -399,7 +462,7 @@
     {
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "meta": "⭐ 608 · 💬 488",
+     "meta": "⭐ 631 · 💬 500",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -407,7 +470,7 @@
     {
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "meta": "⭐ 525 · 💬 336",
+     "meta": "⭐ 536 · 💬 338",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -415,7 +478,7 @@
     {
      "title": "Tell HN: Happy Thanksgiving",
      "url": "https://news.ycombinator.com/item?id=50655664",
-     "meta": "⭐ 478 · 💬 121",
+     "meta": "⭐ 506 · 💬 128",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -423,7 +486,15 @@
     {
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "meta": "⭐ 388 · 💬 220",
+     "meta": "⭐ 401 · 💬 226",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Nextcloud Office Desktop app",
+     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+     "meta": "⭐ 367 · 💬 182",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -437,9 +508,9 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "Nextcloud Office Desktop app",
-     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-     "meta": "⭐ 358 · 💬 168",
+     "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+     "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+     "meta": "⭐ 252 · 💬 55",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -448,14 +519,6 @@
      "title": "Minipg: PostgreSQL as a Single Executable",
      "url": "https://progrium.github.io/minipg/",
      "meta": "⭐ 268 · 💬 42",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-     "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "meta": "⭐ 240 · 💬 51",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -471,15 +534,7 @@
     {
      "title": "Moat: OpenRouter replacement",
      "url": "https://commandcode.ai/moat",
-     "meta": "⭐ 204 · 💬 121",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-     "meta": "⭐ 108 · 💬 123",
+     "meta": "⭐ 214 · 💬 124",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -487,15 +542,23 @@
     {
      "title": "AMD Specific Patches for Llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "meta": "⭐ 128 · 💬 39",
+     "meta": "⭐ 184 · 💬 48",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "NP_R ≠ PAR_R",
-     "url": "https://github.com/samueleverett01/bss-permanent-separations",
-     "meta": "⭐ 110 · 💬 117",
+     "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+     "url": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+     "meta": "⭐ 5 · 💬 0",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+     "meta": "⭐ 138 · 💬 152",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -503,7 +566,7 @@
     {
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "meta": "⭐ 60 · 💬 83",
+     "meta": "⭐ 113 · 💬 166",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
