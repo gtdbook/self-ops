@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-27T11:28:43.008056+08:00",
- "count": 43,
+ "updated_at": "2026-11-27T21:27:58.336068+08:00",
+ "count": 54,
  "items": [
   {
    "id": "hn-50619466",
@@ -228,14 +228,18 @@
    "title": "An algebraic quantization of gravity from the null cone",
    "url": "https://arxiv.org/abs/2611.34924",
    "hn_url": "https://news.ycombinator.com/item?id=50651863",
-   "score": 223,
-   "comments": 81,
+   "score": 251,
+   "comments": 99,
    "author": "hecmmm",
    "time_iso": "2026-11-26T05:37:51+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 223
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 251
     }
    ]
   },
@@ -284,8 +288,8 @@
    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
    "hn_url": "https://news.ycombinator.com/item?id=50653477",
-   "score": 265,
-   "comments": 222,
+   "score": 359,
+   "comments": 308,
    "author": "ritzaco",
    "time_iso": "2026-11-26T09:44:23+00:00",
    "history": [
@@ -300,6 +304,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 265
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 359
     }
    ]
   },
@@ -308,8 +316,8 @@
    "title": "Intel One Mono font (2023)",
    "url": "https://github.com/intel/intel-one-mono",
    "hn_url": "https://news.ycombinator.com/item?id=50653667",
-   "score": 480,
-   "comments": 243,
+   "score": 539,
+   "comments": 260,
    "author": "saikatsg",
    "time_iso": "2026-11-26T10:11:01+00:00",
    "history": [
@@ -324,6 +332,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 480
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 539
     }
    ]
   },
@@ -412,14 +424,18 @@
    "title": "Show HN: I wrote an entire Vim manual over 4 years",
    "url": "http://themouseless.dev/vim/",
    "hn_url": "https://news.ycombinator.com/item?id=50655868",
-   "score": 78,
-   "comments": 23,
+   "score": 227,
+   "comments": 69,
    "author": "thanato0s",
    "time_iso": "2026-11-26T14:44:22+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 78
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 227
     }
    ]
   },
@@ -500,8 +516,8 @@
    "title": "AMD-specific fork of llama.cpp",
    "url": "https://devnull.land/amd-specific-llama-cpp",
    "hn_url": "https://news.ycombinator.com/item?id=50657265",
-   "score": 300,
-   "comments": 73,
+   "score": 390,
+   "comments": 96,
    "author": "julianlam",
    "time_iso": "2026-11-26T17:11:29+00:00",
    "history": [
@@ -516,6 +532,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 300
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 390
     }
    ]
   },
@@ -540,8 +560,8 @@
    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
    "url": "https://github.com/antonpictures/youtube-punisher",
    "hn_url": "https://news.ycombinator.com/item?id=50657530",
-   "score": 290,
-   "comments": 374,
+   "score": 445,
+   "comments": 527,
    "author": "iantongeorge",
    "time_iso": "2026-11-26T17:36:47+00:00",
    "history": [
@@ -556,6 +576,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 290
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 445
     }
    ]
   },
@@ -564,8 +588,8 @@
    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "hn_url": "https://news.ycombinator.com/item?id=50657645",
-   "score": 226,
-   "comments": 99,
+   "score": 290,
+   "comments": 141,
    "author": "Bender",
    "time_iso": "2026-11-26T17:47:45+00:00",
    "history": [
@@ -580,6 +604,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 226
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 290
     }
    ]
   },
@@ -644,14 +672,18 @@
    "title": "An introduction to uncertainty in machine learning",
    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
    "hn_url": "https://news.ycombinator.com/item?id=50658498",
-   "score": 20,
-   "comments": 0,
+   "score": 103,
+   "comments": 8,
    "author": "chrhenning",
    "time_iso": "2026-11-26T19:04:50+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 20
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 103
     }
    ]
   },
@@ -660,8 +692,8 @@
    "title": "Rvoip: VoIP stack in Rust",
    "url": "https://github.com/eisenzopf/rvoip",
    "hn_url": "https://news.ycombinator.com/item?id=50658632",
-   "score": 99,
-   "comments": 19,
+   "score": 143,
+   "comments": 34,
    "author": "zerosegfaults",
    "time_iso": "2026-11-26T19:18:09+00:00",
    "history": [
@@ -672,6 +704,10 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 99
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 143
     }
    ]
   },
@@ -712,14 +748,18 @@
    "title": "Company Culture = Slack Emoji ÷ √Headcount",
    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
    "hn_url": "https://news.ycombinator.com/item?id=50659640",
-   "score": 149,
-   "comments": 56,
+   "score": 432,
+   "comments": 211,
    "author": "liamg",
    "time_iso": "2026-11-26T20:49:49+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 149
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 432
     }
    ]
   },
@@ -728,14 +768,18 @@
    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
    "hn_url": "https://news.ycombinator.com/item?id=50659841",
-   "score": 274,
-   "comments": 52,
+   "score": 421,
+   "comments": 109,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-26T21:08:05+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 274
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 421
     }
    ]
   },
@@ -744,14 +788,18 @@
    "title": "AI made self-hosting fun again",
    "url": "https://janlukas.blog/posts/ai-self-hosting",
    "hn_url": "https://news.ycombinator.com/item?id=50660180",
-   "score": 389,
-   "comments": 211,
+   "score": 833,
+   "comments": 408,
    "author": "jlelse",
    "time_iso": "2026-11-26T21:47:45+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 389
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 833
     }
    ]
   },
@@ -760,14 +808,18 @@
    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
    "url": "https://kendell.dev/blog/arkwrapper/",
    "hn_url": "https://news.ycombinator.com/item?id=50660273",
-   "score": 55,
-   "comments": 10,
+   "score": 111,
+   "comments": 19,
    "author": "leafingensemble",
    "time_iso": "2026-11-26T21:59:19+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 55
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 111
     }
    ]
   },
@@ -792,14 +844,34 @@
    "title": "Hard Drive pricing has gotten bad",
    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
    "hn_url": "https://news.ycombinator.com/item?id=50661646",
-   "score": 85,
-   "comments": 28,
+   "score": 419,
+   "comments": 353,
    "author": "zdw",
    "time_iso": "2026-11-27T01:13:49+00:00",
    "history": [
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 85
+    },
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 419
+    }
+   ]
+  },
+  {
+   "id": "hn-50661705",
+   "title": "The Cutthroat Business of Shipwrecks",
+   "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+   "hn_url": "https://news.ycombinator.com/item?id=50661705",
+   "score": 38,
+   "comments": 11,
+   "author": "herbertl",
+   "time_iso": "2026-11-27T01:21:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 38
     }
    ]
   },
@@ -816,6 +888,166 @@
     {
      "t": "2026-11-27T11:28:43.008056+08:00",
      "score": 6
+    }
+   ]
+  },
+  {
+   "id": "hn-50663089",
+   "title": "The need for a formally verifiable mainstream programming language",
+   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "hn_url": "https://news.ycombinator.com/item?id=50663089",
+   "score": 199,
+   "comments": 184,
+   "author": "todsacerdoti",
+   "time_iso": "2026-11-27T05:22:06+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 199
+    }
+   ]
+  },
+  {
+   "id": "hn-50663261",
+   "title": "Buy Nothing Day – Friday November 27th 2026",
+   "url": "https://www.buynothingday.co.uk/",
+   "hn_url": "https://news.ycombinator.com/item?id=50663261",
+   "score": 170,
+   "comments": 41,
+   "author": "f_allwein",
+   "time_iso": "2026-11-27T05:52:42+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 170
+    }
+   ]
+  },
+  {
+   "id": "hn-50663595",
+   "title": "The group chat where your AI talks behind your back",
+   "url": "https://construct22.com/",
+   "hn_url": "https://news.ycombinator.com/item?id=50663595",
+   "score": 406,
+   "comments": 179,
+   "author": "utiiiD",
+   "time_iso": "2026-11-27T06:44:34+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 406
+    }
+   ]
+  },
+  {
+   "id": "hn-50664104",
+   "title": "Indie web browser Ladybird enters alpha testing",
+   "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+   "hn_url": "https://news.ycombinator.com/item?id=50664104",
+   "score": 49,
+   "comments": 10,
+   "author": "01-_-",
+   "time_iso": "2026-11-27T07:58:37+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 49
+    }
+   ]
+  },
+  {
+   "id": "hn-50664191",
+   "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+   "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+   "hn_url": "https://news.ycombinator.com/item?id=50664191",
+   "score": 122,
+   "comments": 82,
+   "author": "anilgulecha",
+   "time_iso": "2026-11-27T08:11:46+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 122
+    }
+   ]
+  },
+  {
+   "id": "hn-50665732",
+   "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "hn_url": "https://news.ycombinator.com/item?id=50665732",
+   "score": 11,
+   "comments": 15,
+   "author": "6LLvveMx2koXfwn",
+   "time_iso": "2026-11-27T11:41:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 11
+    }
+   ]
+  },
+  {
+   "id": "hn-50665920",
+   "title": "Kimi for Science More scientific ideas, made possible",
+   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "hn_url": "https://news.ycombinator.com/item?id=50665920",
+   "score": 18,
+   "comments": 4,
+   "author": "theanonymousone",
+   "time_iso": "2026-11-27T12:03:11+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50665968",
+   "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+   "url": "https://eprint.iacr.org/2026/3020.pdf",
+   "hn_url": "https://news.ycombinator.com/item?id=50665968",
+   "score": 68,
+   "comments": 28,
+   "author": "yuvadam",
+   "time_iso": "2026-11-27T12:08:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 68
+    }
+   ]
+  },
+  {
+   "id": "hn-50666279",
+   "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+   "hn_url": "https://news.ycombinator.com/item?id=50666279",
+   "score": 12,
+   "comments": 0,
+   "author": "frutiger",
+   "time_iso": "2026-11-27T12:43:40+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 12
+    }
+   ]
+  },
+  {
+   "id": "hn-50666436",
+   "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+   "hn_url": "https://news.ycombinator.com/item?id=50666436",
+   "score": 19,
+   "comments": 4,
+   "author": "bko",
+   "time_iso": "2026-11-27T13:01:02+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T21:27:58.336068+08:00",
+     "score": 19
     }
    ]
   }

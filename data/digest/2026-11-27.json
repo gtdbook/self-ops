@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T11:28:52.779935+08:00",
+ "generated_at": "2026-11-27T21:28:08.343625+08:00",
  "sources": {
   "rising": {
    "title": "飙升榜",
@@ -8,9 +8,33 @@
    "errors": [],
    "items": [
     {
+     "title": "AI made self-hosting fun again",
+     "url": "https://janlukas.blog/posts/ai-self-hosting",
+     "meta": "+444 分 / 10.0 小时 · 现 ⭐ 833",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "meta": "+230 分 / 7.7 小时 · 现 ⭐ 290",
+     "meta": "+385 分 / 17.7 小时 · 现 ⭐ 445",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hard Drive pricing has gotten bad",
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "meta": "+334 分 / 10.0 小时 · 现 ⭐ 419",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Company Culture = Slack Emoji ÷ √Headcount",
+     "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "meta": "+283 分 / 10.0 小时 · 现 ⭐ 432",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -18,7 +42,7 @@
     {
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "meta": "+172 分 / 7.7 小时 · 现 ⭐ 300",
+     "meta": "+262 分 / 17.7 小时 · 现 ⭐ 390",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -26,7 +50,15 @@
     {
      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-     "meta": "+157 分 / 7.7 小时 · 现 ⭐ 265",
+     "meta": "+251 分 / 17.7 小时 · 现 ⭐ 359",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "meta": "+218 分 / 17.7 小时 · 现 ⭐ 290",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -40,49 +72,17 @@
      "origin_source": "hackernews"
     },
     {
-     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "meta": "+154 分 / 7.7 小时 · 现 ⭐ 226",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "meta": "+92 分 / 7.7 小时 · 现 ⭐ 480",
+     "meta": "+151 分 / 17.7 小时 · 现 ⭐ 539",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-     "url": "https://scottaaronson.blog/?p=10379",
-     "meta": "+90 分 / 7.7 小时 · 现 ⭐ 2001",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Rvoip: VoIP stack in Rust",
-     "url": "https://github.com/eisenzopf/rvoip",
-     "meta": "+88 分 / 6.6 小时 · 现 ⭐ 99",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-     "url": "https://olumino.app",
-     "meta": "+76 分 / 7.7 小时 · 现 ⭐ 88",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "George Whitesides, 1939-2026",
-     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-     "meta": "+58 分 / 7.7 小时 · 现 ⭐ 70",
+     "title": "Show HN: I wrote an entire Vim manual over 4 years",
+     "url": "http://themouseless.dev/vim/",
+     "meta": "+149 分 / 10.0 小时 · 现 ⭐ 227",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -94,6 +94,14 @@
    "emoji": "📰",
    "errors": [],
    "items": [
+    {
+     "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+     "url": "https://huggingface.co/blog/video-trainium3",
+     "meta": "Hugging Face · 2026-11-27",
+     "summary": "",
+     "reason": null,
+     "origin_source": "blog_rss"
+    },
     {
      "title": "Where scientists draw the line on AI agents",
      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -205,14 +213,6 @@
      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
      "reason": null,
      "origin_source": "blog_rss"
-    },
-    {
-     "title": "Gemini 4 Carbon: Our next frontier model",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-     "meta": "Google DeepMind · 2026-10-28",
-     "summary": "",
-     "reason": null,
-     "origin_source": "blog_rss"
     }
    ]
   },
@@ -222,122 +222,122 @@
    "errors": [],
    "items": [
     {
-     "title": "[问与答] C 盘总是爆满 有没有能够有效清理 C 盘空间的小工具呀",
-     "url": "https://www.v2ex.com/t/1260259#reply0",
+     "title": "[杭州] 求杭州户外徒步野线推荐",
+     "url": "https://www.v2ex.com/t/1260444#reply0",
+     "meta": "V2EX · 2026-11-27",
+     "summary": "西湖群山徒步路线，网上能搜到的知名路线，人都特别多，想找个人少的路线。 上周去了午潮山，人很少，一个人在山上看了日落，希望能找到更多类似午潮山的路线，求本地人推荐一波，最好是农村石头路，没有景区台阶石板路。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[grok] Grok Premium 黑色星期五买一个月送一个月",
+     "url": "https://www.v2ex.com/t/1260443#reply0",
      "meta": "V2EX · 2026-11-27",
      "summary": "",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[生活] 中登的“心动失眠”时刻",
-     "url": "https://www.v2ex.com/t/1260257#reply0",
+     "title": "[推广] 轻量级、高性能、无侵入的 开源 Antigravity 中文 汉化工具来了！",
+     "url": "https://www.v2ex.com/t/1260442#reply1",
      "meta": "V2EX · 2026-11-27",
-     "summary": "1 年前从老东家工作了十年拿补偿走了，后面又工作了，其实还是一直留恋老东家。 中间有几次能回去的机会，但是，因为新的招聘岗位要求，导致没回得去，后面也逐渐不想这个事了。 因为之前曾经工作城市的原因，目前更换了一个城市在工作。 转折和这个“心动”来至于前几天，一个曾经单位的哥们，说他今年岗位上去了，即将变成区域负责人了。 他需要一个熟悉的人能帮他一起站台，给我电话问我的情况，要不要回去，我是突然觉得",
+     "summary": "就是一个 轻量级、高性能、无侵入式的 Google Antigravity 2.0 桌面端（Windows / macOS） 简体中文汉化启动器。 精简，没有花里胡哨的东西，并且非常克制的只做了界面翻译，MCP 和插件也制作了描述翻译。可以来试一试 开源地址： https://github.com/keinx/AntigravityZH",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[网络安全] 经历 1Password 被黑一事在思考,2FA 和密码是否应该分开存放?",
-     "url": "https://www.v2ex.com/t/1260256#reply0",
+     "title": "[iPhone] iPhone 通过 chomecast 投屏到安卓电视，最划算的 app 是什么？",
+     "url": "https://www.v2ex.com/t/1260441#reply0",
      "meta": "V2EX · 2026-11-27",
-     "summary": "比如账号密码存 1P,2FA 单独存 Apple Passwords 或者其他 Auth 验证器? 这样或许能避免 1p 万一被黑到底层全部信息裸奔,但是也会丢失很多便利性?",
+     "summary": "iOS 内置只有 AirPlay，需要安装 app 才能增加 chromecast，但是看了几个 app 都要内购。 问问大家使用经验，免费的或者买断制 app 都行，谢谢",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google] GOOGLE 的 AI PRO，哪些卡可以啊",
-     "url": "https://www.v2ex.com/t/1260255#reply2",
+     "title": "[信息安全] 开源 Agent Audit：给 AI Coding Agent 装一层本地安全护栏（Shell AST 拦截 + 低误报敏感内容检测）",
+     "url": "https://www.v2ex.com/t/1260440#reply0",
      "meta": "V2EX · 2026-11-27",
-     "summary": "我的是招行的普通 VISA 卡，输入号码后就下面红字直接提示 [，此卡未被接受。请检查您输入的卡号是否正确，或尝试使用其他卡。 ] 就是即时的校验，还没到保存，意思是我的卡不行吗还是什么原因？有懂的吗？",
+     "summary": "现在日常工作流越来越重度依赖 Claude Code、OpenCode、Pi 和各种 MCP / Skill，用久了发现有几类风险离自己很近，不是危言耸听： Obsidian 笔记里的敏感密钥被带出去 ：很多人习惯在 Obsidian 里记服务器地址、API Key、SSH/数据库配置。让 Agent 帮你搜笔记、整理资料时，一个 grep / read 就可能把整篇含真实凭据的笔记喂进模型上下文",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[问与答] 有个朋友几乎每天在群里吐槽目前的工作，但是又不换，什么心理情况？",
-     "url": "https://www.v2ex.com/t/1260254#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 做了个纸艺生日视频的 WorkBuddy skill",
-     "url": "https://www.v2ex.com/t/1260253#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "想给孩子做个不一样的五岁生日祝福，就折腾了一个纸艺风格的视频。这次让小朋友和超级飞侠一起出场，成品 10 秒，放下面了。 点击看完整视频 前面试了好几版，有的变成普通卡通，有的配音太像播报。这版比较接近我想要的感觉了。 把这套流程整理成了「纸艺生日动画创作助手」，刚通过 WorkBuddy 审核。上传照片，告诉它年龄和想要的角色，先看纸艺形象，再做视频。 助手售价 5 元，购买后不限调用次数；制作",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[Codex] codex 回答问题非常慢 怎么优化解决",
-     "url": "https://www.v2ex.com/t/1260251#reply1",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "每个问题都要等待几分钟 十几分钟，甚至更久。有啥好的解决方案嘛？",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] vibecoding 个支持 agent 任务状态同步的桌宠",
-     "url": "https://www.v2ex.com/t/1260250#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "搞了个桌宠软件，做一些有用和陪伴的事情，每天带你提肛 https://github.com/jiayiwin/RillBuddy",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[问与答] 求助：如何通过 Agent 控制一台 20 部手机农场主机做海外社媒运营？",
-     "url": "https://www.v2ex.com/t/1260249#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "背景介绍：本人 28 了，一事无成，因为跨境不好干，没有积累出啥行业经验，难找到跨境的活儿，在朋友推荐下给一个外国人在广交会期间干摄影，结果弄到现在啥都干，全程陪着他快有一个半月了，现在他让我运营一个手机农场，20 个 facebook 账户，这都 2026 年了，难道 20 个号还要手动去互动？虽然用 Agent 不符合平台规则，这一点我清楚，但我想能不能轻松点，也就是给这人自己的自媒体账号灌灌",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[推广] 几个同事共用一个 AI 生图账号，来回踢掉登录，有没有更好的办法？",
-     "url": "https://www.v2ex.com/t/1260248#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "做了个生图站 banana.tokenduo.cc ，接的是 Nano Banana（Pro / 2 / 2.1）和 GPT Image。上线后有公司用户提需求：几个人共用一个号，改个密码别人就登不上，人走了号收不回来，图全混在一起，而且一个号同时只能跑 4 张。 所以加了团队版，这周上线了： 所有者买积分，全队共用。成员是独立账号，只能生图，不能登录主站，也不能调 API。 拉人用邀请链接，可以",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] [开源分享] Fonu 2.0，一个轻量级的 NAS 反向代理、DDNS、证书及 FRP 管理工具",
-     "url": "https://www.v2ex.com/t/1260247#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "大家好，分享一下自己开发的开源项目 Fonu，目前已经发布 v2.0 正式版，同时也已经上架飞牛应用中心。 Fonu — 让 NAS 访问更简单 平时折腾 NAS 和各种自托管服务，经常需要配置 DDNS、反向代理、HTTPS 证书以及内网穿透。 虽然已经有不少优秀的开源工具，但还是想做一个符合自己使用习惯的管理工具，将这些常用功能集中在一个应用中，尽量减少日常配置和维护的成本。 于是有了 Fon",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享创造] 刷推看到有人靠小游戏挣到钱了，馋哭了，跟风零经验用 AI 搓个冰箱收纳小游戏，一起来摸鱼吧！",
-     "url": "https://www.v2ex.com/t/1260246#reply4",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "大家好，今天想来分享一下我做的第一个微信小游戏 —— 《冰箱收纳日和》 ，一款空间排布类的冰箱收纳游戏。 PS：为什么选择这个名字，因为我一开始选择的名字在 ICP 备案时发现已经提前被注册了，囧，所以临时替换了一个，大家理解它是 「风和日丽的好太天气，一起来收纳冰箱吧」 目前只有微信小游戏版本，先把核心玩法的实机 GIF 放最前面，大家看看卖相： （GIF 听不到声音，游戏里用 ElevenLa",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "[分享发现] 老旧手机秒变原生 esim 手机",
-     "url": "https://www.v2ex.com/t/1260245#reply0",
-     "meta": "V2EX · 2026-11-27",
-     "summary": "AI 造物的时代，一切皆有可能。 让 ChatGPT 把我的 MIUI14 小米手机，通过 openEUICC + estkme 改造成了原生支持 esim 手机。 试了几个免费发放 esim 的 APP，不用扫码，都能 APP 直接安装成功，访问互联网又多了条应急路径。",
-     "reason": null,
-     "origin_source": "cn_rss"
-    },
-    {
-     "title": "华为 Mate X8 评测：终局之战",
-     "url": "https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign",
+     "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+     "url": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
      "meta": "爱范儿 · 2026-11-27",
-     "summary": "七年之期已到…… #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "summary": "十年前为中国造大空间，十年后用中国场景定义全球车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
      "reason": null,
      "origin_source": "cn_rss"
     },
     {
-     "title": "[Google] 注册 google 账号的正确姿势是啥？",
-     "url": "https://www.v2ex.com/t/1260244#reply2",
+     "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+     "url": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+     "meta": "爱范儿 · 2026-11-27",
+     "summary": "15 万级家用车车主，也在认真用高阶智驾了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[游戏] 球迷看过来 - 赢嗨了魔改足球经理",
+     "url": "https://www.v2ex.com/t/1260438#reply1",
      "meta": "V2EX · 2026-11-27",
-     "summary": "最近我用台湾区老 google 账号充了个$99，感觉不太够用，想再注册一个 但是每次一注册就需要手机扫码验证，手机验证完以后就自动注册成了中国区 感觉无解啊",
+     "summary": "曼联英超第 19 了。 现实救不了，只能靠魔改了，不靠索嗨 卡嗨 滕嗨——打开「赢嗨了魔改足球经理」，换人重算一场，周末未赛的也可以先锁预测。 搜微信小游戏：赢嗨了魔改足球经理",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[推广] [推广] 学生发来课件截图，我花了半小时才改好",
+     "url": "https://www.v2ex.com/t/1260437#reply0",
+     "meta": "V2EX · 2026-11-27",
+     "summary": "上周有个大二的学生发消息给我，说小组作业要做课堂展示，老师给的课件是直接截图发在群里的，一共十一张，有的是从 PPT 画面截的，有的是拿手机拍屏幕拍的，边上还带着桌角和反光。她想把这些图弄成一版自己能改的 PPT，主要是把老师写的旧年份、旧数据换掉，再补上自己小组的内容。 我的做法是先按页拆开，把拍糊的斜边和反光裁掉，再让工具把每页认成文本框和形状。十一页弄完大概二十来分钟，比我预想的快，因为课件",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+     "url": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+     "meta": "爱范儿 · 2026-11-27",
+     "summary": "穿西装的方盒子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+     "url": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+     "meta": "爱范儿 · 2026-11-27",
+     "summary": "一个配置打天下。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[iPhone] 紫毫又更了，双拼加了自然码，语音可以直接在键盘里说",
+     "url": "https://www.v2ex.com/t/1260435#reply1",
+     "meta": "V2EX · 2026-11-27",
+     "summary": "之前在站里发过紫毫 ( https://www.v2ex.com/t/1249450 ) 。一开始做它，是因为电脑上用惯了鼠须管和雾凇拼音，想把自己的词库和短语带到 iPhone 上。正式版现在到了 2.6.0，这次想聊几个打字时真能碰到的改动。 先说语音。有时候就想回一句「我今天下午三点到」，按住空格说完，松手就上屏。说到「百分之五十」也可以直接写成 50%。2.6.0 里，在线语音和 iOS ",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+     "url": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+     "meta": "爱范儿 · 2026-11-27",
+     "summary": "辅助驾驶上大分。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[Claude] 已获准访问 Claude CVP",
+     "url": "https://www.v2ex.com/t/1260434#reply0",
+     "meta": "V2EX · 2026-11-27",
+     "summary": "我们找到了完成 Claude CVP 验证的方法，如果有感兴趣的朋友，可以联系我：@andeliexin (telegram) 用于软件逆向工程与分析。 Mythos 5.1 和 5.2 为闭源模型，可在 Max 和 Ultra 订阅计划中使用。",
+     "reason": null,
+     "origin_source": "cn_rss"
+    },
+    {
+     "title": "[问与答] 小红书助手用户数快一千了，反馈群却没几个人，冷启动该怎么做？",
+     "url": "https://www.v2ex.com/t/1260433#reply2",
+     "meta": "V2EX · 2026-11-27",
+     "summary": "做了一个小红书养号助手，Chrome 扩展。功能就三块：发现页养号（模拟真实浏览节奏，互动概率可调）、评论区截流（筛意向词、AI 回评论找线索）、数据看板（每天浏览点赞收藏评论一目了然），另外还有私信自动回复和通知自动化。 数字上看还行：Chrome 商店过去 30 天装了 778 次，总用户快一千了，每天二三十个新装。但有个地方很奇怪——安装量 83% 来自罗马尼亚，语言却 83% 是中文（中国",
      "reason": null,
      "origin_source": "cn_rss"
     }
@@ -351,7 +351,7 @@
     {
      "title": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "meta": "⭐ 13430 · Rust",
+     "meta": "⭐ 13628 · Rust",
      "summary": "An attempt at running GTA VI on PC",
      "reason": null,
      "origin_source": "github_search"
@@ -367,7 +367,7 @@
     {
      "title": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "meta": "⭐ 5946 · JavaScript",
+     "meta": "⭐ 6283 · JavaScript",
      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "reason": null,
      "origin_source": "github_search"
@@ -375,7 +375,7 @@
     {
      "title": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "meta": "⭐ 4264 · Rust",
+     "meta": "⭐ 4392 · Rust",
      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "reason": null,
      "origin_source": "github_search"
@@ -389,26 +389,34 @@
      "origin_source": "github_search"
     },
     {
-     "title": "fxceless/victory-fork",
-     "url": "https://github.com/fxceless/victory-fork",
-     "meta": "⭐ 3286 · Rust",
-     "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+     "title": "Belobug/VIctory-Belobug-AMD",
+     "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+     "meta": "⭐ 3925 · Rust",
+     "summary": "",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "Belobug/VIctory-Belobug-AMD",
-     "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "meta": "⭐ 3206 · Rust",
-     "summary": "",
+     "title": "fxceless/victory-fork",
+     "url": "https://github.com/fxceless/victory-fork",
+     "meta": "⭐ 3325 · Rust",
+     "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "reason": null,
      "origin_source": "github_search"
     },
     {
      "title": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "meta": "⭐ 2541 · Python",
+     "meta": "⭐ 2588 · Python",
      "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
+     "title": "os6/nospeaker",
+     "url": "https://github.com/os6/nospeaker",
+     "meta": "⭐ 1976 · Swift",
+     "summary": "make your macbook's trackpad talk using its haptic motor",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -421,18 +429,18 @@
      "origin_source": "github_search"
     },
     {
-     "title": "os6/nospeaker",
-     "url": "https://github.com/os6/nospeaker",
-     "meta": "⭐ 1961 · Swift",
-     "summary": "make your macbook's trackpad talk using its haptic motor",
+     "title": "avatarmanz/VIctory-7900XTX",
+     "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+     "meta": "⭐ 1909 · Rust",
+     "summary": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX",
      "reason": null,
      "origin_source": "github_search"
     },
     {
-     "title": "avatarmanz/VIctory-7900XTX",
-     "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "meta": "⭐ 1854 · Rust",
-     "summary": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX",
+     "title": "alesha-pro/llm.asm",
+     "url": "https://github.com/alesha-pro/llm.asm",
+     "meta": "⭐ 1861 · Assembly",
+     "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "reason": null,
      "origin_source": "github_search"
     },
@@ -445,26 +453,18 @@
      "origin_source": "github_search"
     },
     {
+     "title": "nexu-io/opengame",
+     "url": "https://github.com/nexu-io/opengame",
+     "meta": "⭐ 1829 · TypeScript",
+     "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+     "reason": null,
+     "origin_source": "github_search"
+    },
+    {
      "title": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "meta": "⭐ 1666 · JavaScript",
+     "meta": "⭐ 1737 · JavaScript",
      "summary": "",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "alesha-pro/llm.asm",
-     "url": "https://github.com/alesha-pro/llm.asm",
-     "meta": "⭐ 1619 · Assembly",
-     "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-     "reason": null,
-     "origin_source": "github_search"
-    },
-    {
-     "title": "leanprover-community/riemann-hypothesis",
-     "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "meta": "⭐ 1440 · Lean",
-     "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
      "reason": null,
      "origin_source": "github_search"
     }
@@ -479,6 +479,14 @@
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
      "meta": "⭐ 2001 · 💬 1822",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AI made self-hosting fun again",
+     "url": "https://janlukas.blog/posts/ai-self-hosting",
+     "meta": "⭐ 833 · 💬 408",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -510,15 +518,63 @@
     {
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "meta": "⭐ 480 · 💬 243",
+     "meta": "⭐ 539 · 💬 260",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
     },
     {
-     "title": "AI made self-hosting fun again",
-     "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "meta": "⭐ 389 · 💬 211",
+     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "meta": "⭐ 445 · 💬 527",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Company Culture = Slack Emoji ÷ √Headcount",
+     "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "meta": "⭐ 432 · 💬 211",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "meta": "⭐ 421 · 💬 109",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Hard Drive pricing has gotten bad",
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "meta": "⭐ 419 · 💬 353",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "The group chat where your AI talks behind your back",
+     "url": "https://construct22.com/",
+     "meta": "⭐ 406 · 💬 179",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "AMD-specific fork of llama.cpp",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "meta": "⭐ 390 · 💬 96",
+     "summary": "",
+     "reason": null,
+     "origin_source": "hackernews"
+    },
+    {
+     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+     "meta": "⭐ 359 · 💬 308",
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
@@ -538,62 +594,6 @@
      "summary": "",
      "reason": null,
      "origin_source": "hackernews"
-    },
-    {
-     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-     "url": "https://github.com/antonpictures/youtube-punisher",
-     "meta": "⭐ 290 · 💬 374",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "AMD-specific fork of llama.cpp",
-     "url": "https://devnull.land/amd-specific-llama-cpp",
-     "meta": "⭐ 300 · 💬 73",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-     "meta": "⭐ 265 · 💬 222",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-     "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "meta": "⭐ 252 · 💬 55",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "meta": "⭐ 274 · 💬 52",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Minipg: PostgreSQL as a Single Executable",
-     "url": "https://progrium.github.io/minipg/",
-     "meta": "⭐ 268 · 💬 42",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
-    },
-    {
-     "title": "Moat: OpenRouter replacement",
-     "url": "https://commandcode.ai/moat",
-     "meta": "⭐ 257 · 💬 147",
-     "summary": "",
-     "reason": null,
-     "origin_source": "hackernews"
     }
    ]
   },
@@ -607,6 +607,14 @@
      "url": "https://www.producthunt.com/products/chunkify",
      "meta": "Product Hunt · 2026-11-23",
      "summary": "Video Streaming API for Developers & AI Agents",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
+     "title": "Pushary Calls",
+     "url": "https://www.producthunt.com/products/pushary",
+     "meta": "Product Hunt · 2026-11-22",
+     "summary": "Miss your AI agent’s ping? Pushary calls you.",
      "reason": null,
      "origin_source": "producthunt"
     },
@@ -667,6 +675,14 @@
      "origin_source": "producthunt"
     },
     {
+     "title": "Espresso 27",
+     "url": "https://www.producthunt.com/products/espresso-27",
+     "meta": "Product Hunt · 2026-11-25",
+     "summary": "The web editor for people who love the Mac",
+     "reason": null,
+     "origin_source": "producthunt"
+    },
+    {
      "title": "Clary",
      "url": "https://www.producthunt.com/products/clary-2",
      "meta": "Product Hunt · 2026-11-25",
@@ -703,22 +719,6 @@
      "url": "https://www.producthunt.com/products/magi-1",
      "meta": "Product Hunt · 2026-11-25",
      "summary": "Sand AI's 480B model for cinematic video generation",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "Nookdeck",
-     "url": "https://www.producthunt.com/products/nookdeck",
-     "meta": "Product Hunt · 2026-11-25",
-     "summary": "Turn your old phone into a Stream Deck for your computer",
-     "reason": null,
-     "origin_source": "producthunt"
-    },
-    {
-     "title": "OpenChat",
-     "url": "https://www.producthunt.com/products/openchat-5",
-     "meta": "Product Hunt · 2026-11-25",
-     "summary": "Open-source live chat in your own Cloudflare account",
      "reason": null,
      "origin_source": "producthunt"
     }
