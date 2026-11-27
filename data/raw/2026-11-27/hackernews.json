@@ -1,7 +1,7 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-27T04:54:29.405520+08:00",
- "count": 31,
+ "updated_at": "2026-11-27T11:28:43.008056+08:00",
+ "count": 43,
  "items": [
   {
    "id": "hn-50619466",
@@ -28,8 +28,8 @@
    "title": "Curiosity Is No Solo Act",
    "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
    "hn_url": "https://news.ycombinator.com/item?id=50636931",
-   "score": 103,
-   "comments": 22,
+   "score": 136,
+   "comments": 34,
    "author": "Petiver",
    "time_iso": "2026-11-25T00:37:07+00:00",
    "history": [
@@ -40,6 +40,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 103
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 136
     }
    ]
   },
@@ -48,8 +52,8 @@
    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
    "url": "https://scottaaronson.blog/?p=10379",
    "hn_url": "https://news.ycombinator.com/item?id=50646108",
-   "score": 1932,
-   "comments": 1769,
+   "score": 2001,
+   "comments": 1822,
    "author": "Kotlopou",
    "time_iso": "2026-11-25T19:11:27+00:00",
    "history": [
@@ -60,6 +64,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 1932
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 2001
     }
    ]
   },
@@ -104,6 +112,22 @@
    ]
   },
   {
+   "id": "hn-50649040",
+   "title": "The USAID Files",
+   "url": "https://reclaimthenet.org/usaid-files",
+   "hn_url": "https://news.ycombinator.com/item?id=50649040",
+   "score": 165,
+   "comments": 209,
+   "author": "MassPikeMike",
+   "time_iso": "2026-11-25T23:15:52+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 165
+    }
+   ]
+  },
+  {
    "id": "hn-50649834",
    "title": "Collection of preserved UI style guides",
    "url": "https://aresluna.org/ui-style-guides/",
@@ -140,8 +164,8 @@
    "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
    "url": "https://olumino.app",
    "hn_url": "https://news.ycombinator.com/item?id=50651099",
-   "score": 21,
-   "comments": 10,
+   "score": 88,
+   "comments": 40,
    "author": "Wiyseful",
    "time_iso": "2026-11-26T03:33:06+00:00",
    "history": [
@@ -152,6 +176,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 88
     }
    ]
   },
@@ -160,14 +188,18 @@
    "title": "NormalScript: A perfectly normal scripting language",
    "url": "https://psychoscript.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50651430",
-   "score": 36,
-   "comments": 8,
+   "score": 86,
+   "comments": 18,
    "author": "hn-aarvin",
    "time_iso": "2026-11-26T04:32:26+00:00",
    "history": [
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 36
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 86
     }
    ]
   },
@@ -192,12 +224,28 @@
    ]
   },
   {
+   "id": "hn-50651863",
+   "title": "An algebraic quantization of gravity from the null cone",
+   "url": "https://arxiv.org/abs/2611.34924",
+   "hn_url": "https://news.ycombinator.com/item?id=50651863",
+   "score": 223,
+   "comments": 81,
+   "author": "hecmmm",
+   "time_iso": "2026-11-26T05:37:51+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 223
+    }
+   ]
+  },
+  {
    "id": "hn-50652184",
    "title": "Moat: OpenRouter replacement",
    "url": "https://commandcode.ai/moat",
    "hn_url": "https://news.ycombinator.com/item?id=50652184",
-   "score": 214,
-   "comments": 124,
+   "score": 257,
+   "comments": 147,
    "author": "amanverasia",
    "time_iso": "2026-11-26T06:32:48+00:00",
    "history": [
@@ -208,6 +256,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 214
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 257
     }
    ]
   },
@@ -232,8 +284,8 @@
    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
    "hn_url": "https://news.ycombinator.com/item?id=50653477",
-   "score": 138,
-   "comments": 152,
+   "score": 265,
+   "comments": 222,
    "author": "ritzaco",
    "time_iso": "2026-11-26T09:44:23+00:00",
    "history": [
@@ -244,6 +296,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 138
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 265
     }
    ]
   },
@@ -252,8 +308,8 @@
    "title": "Intel One Mono font (2023)",
    "url": "https://github.com/intel/intel-one-mono",
    "hn_url": "https://news.ycombinator.com/item?id=50653667",
-   "score": 401,
-   "comments": 226,
+   "score": 480,
+   "comments": 243,
    "author": "saikatsg",
    "time_iso": "2026-11-26T10:11:01+00:00",
    "history": [
@@ -264,6 +320,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 401
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 480
     }
    ]
   },
@@ -328,8 +388,8 @@
    "title": "Tell HN: Happy Thanksgiving",
    "url": "https://news.ycombinator.com/item?id=50655664",
    "hn_url": "https://news.ycombinator.com/item?id=50655664",
-   "score": 506,
-   "comments": 128,
+   "score": 633,
+   "comments": 138,
    "author": "ericmay",
    "time_iso": "2026-11-26T14:26:54+00:00",
    "history": [
@@ -340,6 +400,26 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 506
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 633
+    }
+   ]
+  },
+  {
+   "id": "hn-50655868",
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "url": "http://themouseless.dev/vim/",
+   "hn_url": "https://news.ycombinator.com/item?id=50655868",
+   "score": 78,
+   "comments": 23,
+   "author": "thanato0s",
+   "time_iso": "2026-11-26T14:44:22+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 78
     }
    ]
   },
@@ -417,11 +497,11 @@
   },
   {
    "id": "hn-50657265",
-   "title": "AMD Specific Patches for Llama.cpp",
+   "title": "AMD-specific fork of llama.cpp",
    "url": "https://devnull.land/amd-specific-llama-cpp",
    "hn_url": "https://news.ycombinator.com/item?id=50657265",
-   "score": 184,
-   "comments": 48,
+   "score": 300,
+   "comments": 73,
    "author": "julianlam",
    "time_iso": "2026-11-26T17:11:29+00:00",
    "history": [
@@ -432,6 +512,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 184
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 300
     }
    ]
   },
@@ -456,8 +540,8 @@
    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
    "url": "https://github.com/antonpictures/youtube-punisher",
    "hn_url": "https://news.ycombinator.com/item?id=50657530",
-   "score": 113,
-   "comments": 166,
+   "score": 290,
+   "comments": 374,
    "author": "iantongeorge",
    "time_iso": "2026-11-26T17:36:47+00:00",
    "history": [
@@ -468,16 +552,20 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 113
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 290
     }
    ]
   },
   {
    "id": "hn-50657645",
-   "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "hn_url": "https://news.ycombinator.com/item?id=50657645",
-   "score": 118,
-   "comments": 52,
+   "score": 226,
+   "comments": 99,
    "author": "Bender",
    "time_iso": "2026-11-26T17:47:45+00:00",
    "history": [
@@ -488,6 +576,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 118
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 226
     }
    ]
   },
@@ -496,8 +588,8 @@
    "title": "George Whitesides, 1939-2026",
    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
    "hn_url": "https://news.ycombinator.com/item?id=50657936",
-   "score": 21,
-   "comments": 3,
+   "score": 70,
+   "comments": 7,
    "author": "dverlaeckt80",
    "time_iso": "2026-11-26T18:13:07+00:00",
    "history": [
@@ -508,6 +600,10 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 21
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 70
     }
    ]
   },
@@ -528,18 +624,54 @@
    ]
   },
   {
+   "id": "hn-50658193",
+   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "url": "https://bui.preetham.top/charts/",
+   "hn_url": "https://news.ycombinator.com/item?id=50658193",
+   "score": 74,
+   "comments": 10,
+   "author": "ppmpreetham",
+   "time_iso": "2026-11-26T18:37:24+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 74
+    }
+   ]
+  },
+  {
+   "id": "hn-50658498",
+   "title": "An introduction to uncertainty in machine learning",
+   "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+   "hn_url": "https://news.ycombinator.com/item?id=50658498",
+   "score": 20,
+   "comments": 0,
+   "author": "chrhenning",
+   "time_iso": "2026-11-26T19:04:50+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
    "id": "hn-50658632",
-   "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+   "title": "Rvoip: VoIP stack in Rust",
    "url": "https://github.com/eisenzopf/rvoip",
    "hn_url": "https://news.ycombinator.com/item?id=50658632",
-   "score": 11,
-   "comments": 3,
+   "score": 99,
+   "comments": 19,
    "author": "zerosegfaults",
    "time_iso": "2026-11-26T19:18:09+00:00",
    "history": [
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 11
+    },
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 99
     }
    ]
   },
@@ -572,6 +704,118 @@
     {
      "t": "2026-11-27T04:54:29.405520+08:00",
      "score": 5
+    }
+   ]
+  },
+  {
+   "id": "hn-50659640",
+   "title": "Company Culture = Slack Emoji ÷ √Headcount",
+   "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+   "hn_url": "https://news.ycombinator.com/item?id=50659640",
+   "score": 149,
+   "comments": 56,
+   "author": "liamg",
+   "time_iso": "2026-11-26T20:49:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 149
+    }
+   ]
+  },
+  {
+   "id": "hn-50659841",
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+   "hn_url": "https://news.ycombinator.com/item?id=50659841",
+   "score": 274,
+   "comments": 52,
+   "author": "dverlaeckt80",
+   "time_iso": "2026-11-26T21:08:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 274
+    }
+   ]
+  },
+  {
+   "id": "hn-50660180",
+   "title": "AI made self-hosting fun again",
+   "url": "https://janlukas.blog/posts/ai-self-hosting",
+   "hn_url": "https://news.ycombinator.com/item?id=50660180",
+   "score": 389,
+   "comments": 211,
+   "author": "jlelse",
+   "time_iso": "2026-11-26T21:47:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 389
+    }
+   ]
+  },
+  {
+   "id": "hn-50660273",
+   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+   "url": "https://kendell.dev/blog/arkwrapper/",
+   "hn_url": "https://news.ycombinator.com/item?id=50660273",
+   "score": 55,
+   "comments": 10,
+   "author": "leafingensemble",
+   "time_iso": "2026-11-26T21:59:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 55
+    }
+   ]
+  },
+  {
+   "id": "hn-50661218",
+   "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+   "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+   "hn_url": "https://news.ycombinator.com/item?id=50661218",
+   "score": 38,
+   "comments": 16,
+   "author": "geox",
+   "time_iso": "2026-11-27T00:03:18+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 38
+    }
+   ]
+  },
+  {
+   "id": "hn-50661646",
+   "title": "Hard Drive pricing has gotten bad",
+   "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+   "hn_url": "https://news.ycombinator.com/item?id=50661646",
+   "score": 85,
+   "comments": 28,
+   "author": "zdw",
+   "time_iso": "2026-11-27T01:13:49+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 85
+    }
+   ]
+  },
+  {
+   "id": "hn-50662322",
+   "title": "Google will show solo Android developers' phone numbers and addresses",
+   "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+   "hn_url": "https://news.ycombinator.com/item?id=50662322",
+   "score": 6,
+   "comments": 1,
+   "author": "nreece",
+   "time_iso": "2026-11-27T03:11:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-27T11:28:43.008056+08:00",
+     "score": 6
     }
    ]
   }
