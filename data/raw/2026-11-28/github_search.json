@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-28T12:29:34.281522+08:00",
- "count": 24,
+ "updated_at": "2026-11-28T21:52:21.714689+08:00",
+ "count": 30,
  "items": [
   {
    "id": "gh-1466325515",
@@ -83,7 +83,7 @@
    "id": "gh-1467247580",
    "title": "deterministic-machines/deslop-please",
    "url": "https://github.com/deterministic-machines/deslop-please",
-   "stars": 1352,
+   "stars": 1404,
    "language": "Rust",
    "description": "Bring (back) sanity to your code",
    "created_at": "2026-11-22T05:36:03Z",
@@ -99,6 +99,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1352
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1404
     }
    ]
   },
@@ -106,7 +110,7 @@
    "id": "gh-1467461515",
    "title": "crhywun/g1-acq",
    "url": "https://github.com/crhywun/g1-acq",
-   "stars": 1810,
+   "stars": 1844,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-11-22T10:53:17Z",
@@ -122,6 +126,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1810
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1844
     }
    ]
   },
@@ -129,7 +137,7 @@
    "id": "gh-1467519193",
    "title": "os6/nospeaker",
    "url": "https://github.com/os6/nospeaker",
-   "stars": 1994,
+   "stars": 2005,
    "language": "Swift",
    "description": "make your macbook's trackpad talk using its haptic motor",
    "created_at": "2026-11-22T12:05:54Z",
@@ -145,6 +153,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1994
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 2005
     }
    ]
   },
@@ -152,7 +164,7 @@
    "id": "gh-1467880545",
    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "stars": 1668,
+   "stars": 1740,
    "language": "Rust",
    "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
    "created_at": "2026-11-22T18:50:17Z",
@@ -168,6 +180,25 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1668
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1740
+    }
+   ]
+  },
+  {
+   "id": "gh-1468649172",
+   "title": "DeadInternetStudios/100x-engineer-skill",
+   "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+   "stars": 1450,
+   "language": "JavaScript",
+   "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+   "created_at": "2026-11-23T11:06:07Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1450
     }
    ]
   },
@@ -187,10 +218,25 @@
    ]
   },
   {
+   "id": "gh-1469328448",
+   "title": "peak85-sketch/stardew-valley-mod-manager",
+   "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+   "stars": 1413,
+   "language": "C#",
+   "description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+   "created_at": "2026-11-23T21:28:46Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1413
+    }
+   ]
+  },
+  {
    "id": "gh-1469329665",
    "title": "Indigo-0167/universal-game-mod-manager",
    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-   "stars": 1371,
+   "stars": 1372,
    "language": "Rust",
    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
    "created_at": "2026-11-23T21:30:10Z",
@@ -206,6 +252,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1371
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1372
     }
    ]
   },
@@ -263,6 +313,21 @@
    ]
   },
   {
+   "id": "gh-1469335791",
+   "title": "umbradev315/ffmpeg-video-audio-converter",
+   "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+   "stars": 1328,
+   "language": "Kotlin",
+   "description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+   "created_at": "2026-11-23T21:37:25Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1328
+    }
+   ]
+  },
+  {
    "id": "gh-1469338376",
    "title": "Umbra9179/clipboard-history-manager-windows",
    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
@@ -289,7 +354,7 @@
    "id": "gh-1469344551",
    "title": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
-   "stars": 13857,
+   "stars": 14006,
    "language": "Rust",
    "description": "An attempt at running GTA VI on PC",
    "created_at": "2026-11-23T21:47:25Z",
@@ -305,6 +370,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 13857
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 14006
     }
    ]
   },
@@ -312,7 +381,7 @@
    "id": "gh-1469441675",
    "title": "ProjectLeonida/mandy",
    "url": "https://github.com/ProjectLeonida/mandy",
-   "stars": 2969,
+   "stars": 3131,
    "language": "Python",
    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
    "created_at": "2026-11-23T23:54:39Z",
@@ -328,6 +397,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 2969
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 3131
     }
    ]
   },
@@ -335,7 +408,7 @@
    "id": "gh-1469938415",
    "title": "ZigZagBoi1/ScarlettPort",
    "url": "https://github.com/ZigZagBoi1/ScarlettPort",
-   "stars": 1356,
+   "stars": 1478,
    "language": "Rust",
    "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
    "created_at": "2026-11-24T09:36:26Z",
@@ -351,6 +424,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1356
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1478
     }
    ]
   },
@@ -358,7 +435,7 @@
    "id": "gh-1470579726",
    "title": "fxceless/victory-fork",
    "url": "https://github.com/fxceless/victory-fork",
-   "stars": 3364,
+   "stars": 3377,
    "language": "Rust",
    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
    "created_at": "2026-11-24T18:02:37Z",
@@ -374,6 +451,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 3364
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 3377
     }
    ]
   },
@@ -381,7 +462,7 @@
    "id": "gh-1471422729",
    "title": "alesha-pro/llm.asm",
    "url": "https://github.com/alesha-pro/llm.asm",
-   "stars": 2296,
+   "stars": 2548,
    "language": "Assembly",
    "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
    "created_at": "2026-11-25T07:28:51Z",
@@ -397,6 +478,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 2296
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 2548
     }
    ]
   },
@@ -404,7 +489,7 @@
    "id": "gh-1471624301",
    "title": "nexu-io/opengame",
    "url": "https://github.com/nexu-io/opengame",
-   "stars": 2393,
+   "stars": 2731,
    "language": "TypeScript",
    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikT",
    "created_at": "2026-11-25T10:35:45Z",
@@ -420,6 +505,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 2393
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 2731
     }
    ]
   },
@@ -427,7 +516,7 @@
    "id": "gh-1472124387",
    "title": "Reukix/Reloc",
    "url": "https://github.com/Reukix/Reloc",
-   "stars": 1785,
+   "stars": 2233,
    "language": "Swift",
    "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
    "created_at": "2026-11-25T17:29:48Z",
@@ -443,6 +532,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1785
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 2233
     }
    ]
   },
@@ -465,7 +558,7 @@
    "id": "gh-1472451283",
    "title": "trustno1-coder/VIctory-NVIDIA",
    "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-   "stars": 3888,
+   "stars": 5449,
    "language": "Rust",
    "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Buil",
    "created_at": "2026-11-25T23:35:29Z",
@@ -481,6 +574,10 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 3888
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 5449
     }
    ]
   },
@@ -488,7 +585,7 @@
    "id": "gh-1473688485",
    "title": "Pixel679-cmyk/windows-titlebar-blur-customizer",
    "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
-   "stars": 1505,
+   "stars": 1509,
    "language": "C++",
    "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
    "created_at": "2026-11-26T21:26:56Z",
@@ -504,6 +601,55 @@
     {
      "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1505
+    },
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1509
+    }
+   ]
+  },
+  {
+   "id": "gh-1474584825",
+   "title": "flint63-code/gitdesk-windows",
+   "url": "https://github.com/flint63-code/gitdesk-windows",
+   "stars": 1322,
+   "language": "C#",
+   "description": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
+   "created_at": "2026-11-27T15:14:35Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1322
+    }
+   ]
+  },
+  {
+   "id": "gh-1474593596",
+   "title": "riveran0226/windows-explorer-blur-mica",
+   "url": "https://github.com/riveran0226/windows-explorer-blur-mica",
+   "stars": 1319,
+   "language": "C++",
+   "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+   "created_at": "2026-11-27T15:22:34Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1319
+    }
+   ]
+  },
+  {
+   "id": "gh-1474599413",
+   "title": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+   "url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
+   "stars": 1317,
+   "language": "C++",
+   "description": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
+   "created_at": "2026-11-27T15:27:54Z",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:21.714689+08:00",
+     "score": 1317
     }
    ]
   }

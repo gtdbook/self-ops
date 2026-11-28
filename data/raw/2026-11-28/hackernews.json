@@ -1,8 +1,24 @@
 {
  "source": "hackernews",
- "updated_at": "2026-11-28T12:29:33.547884+08:00",
- "count": 49,
+ "updated_at": "2026-11-28T21:52:20.895890+08:00",
+ "count": 63,
  "items": [
+  {
+   "id": "hn-50628391",
+   "title": "Swapping Jolt's sorted collections to a B+tree",
+   "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50628391",
+   "score": 12,
+   "comments": 3,
+   "author": "nefreat",
+   "time_iso": "2026-11-24T14:06:58+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 12
+    }
+   ]
+  },
   {
    "id": "hn-50631823",
    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
@@ -16,6 +32,22 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 61
+    }
+   ]
+  },
+  {
+   "id": "hn-50632052",
+   "title": "Loom seamlessly combines weaving, knitting and braiding",
+   "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+   "hn_url": "https://news.ycombinator.com/item?id=50632052",
+   "score": 186,
+   "comments": 24,
+   "author": "PaulHoule",
+   "time_iso": "2026-11-24T18:10:45+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 186
     }
    ]
   },
@@ -56,12 +88,28 @@
    ]
   },
   {
+   "id": "hn-50642758",
+   "title": "The Quantum Omelette Problem",
+   "url": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
+   "hn_url": "https://news.ycombinator.com/item?id=50642758",
+   "score": 20,
+   "comments": 1,
+   "author": "wawayanda",
+   "time_iso": "2026-11-25T14:35:55+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 20
+    }
+   ]
+  },
+  {
    "id": "hn-50643158",
    "title": "GPT 6.2 Astra Solves a Historical Mystery",
    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
    "hn_url": "https://news.ycombinator.com/item?id=50643158",
-   "score": 372,
-   "comments": 234,
+   "score": 473,
+   "comments": 303,
    "author": "dr_red_dog",
    "time_iso": "2026-11-25T15:16:53+00:00",
    "history": [
@@ -72,6 +120,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 372
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 473
     }
    ]
   },
@@ -88,6 +140,22 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 59
+    }
+   ]
+  },
+  {
+   "id": "hn-50644341",
+   "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+   "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+   "hn_url": "https://news.ycombinator.com/item?id=50644341",
+   "score": 42,
+   "comments": 8,
+   "author": "ibobev",
+   "time_iso": "2026-11-25T16:41:41+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 42
     }
    ]
   },
@@ -112,14 +180,34 @@
    "title": "Sydney Fire Ant Infestation",
    "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
    "hn_url": "https://news.ycombinator.com/item?id=50650253",
-   "score": 5,
-   "comments": 5,
+   "score": 76,
+   "comments": 48,
    "author": "altilunium",
    "time_iso": "2026-11-26T01:33:02+00:00",
    "history": [
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 5
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 76
+    }
+   ]
+  },
+  {
+   "id": "hn-50653643",
+   "title": "jjack: A CLI and TypeScript library to help jj users manage PR stacks on GitHub",
+   "url": "https://github.com/david-crespo/jjack",
+   "hn_url": "https://news.ycombinator.com/item?id=50653643",
+   "score": 3,
+   "comments": 1,
+   "author": "g0xA52A2A",
+   "time_iso": "2026-11-26T10:07:07+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 3
     }
    ]
   },
@@ -136,6 +224,22 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 18
+    }
+   ]
+  },
+  {
+   "id": "hn-50655389",
+   "title": "Signals",
+   "url": "https://www.quarter--mile.com/Signals",
+   "hn_url": "https://news.ycombinator.com/item?id=50655389",
+   "score": 28,
+   "comments": 18,
+   "author": "surprisetalk",
+   "time_iso": "2026-11-26T14:00:05+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 28
     }
    ]
   },
@@ -160,14 +264,18 @@
    "title": "The Balatro Timeline",
    "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
    "hn_url": "https://news.ycombinator.com/item?id=50657346",
-   "score": 157,
-   "comments": 35,
+   "score": 443,
+   "comments": 130,
    "author": "sheepscreek",
    "time_iso": "2026-11-26T17:20:27+00:00",
    "history": [
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 157
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 443
     }
    ]
   },
@@ -268,8 +376,8 @@
    "title": "Citroën Hydraulic System",
    "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
    "hn_url": "https://news.ycombinator.com/item?id=50662313",
-   "score": 148,
-   "comments": 50,
+   "score": 222,
+   "comments": 73,
    "author": "o4c",
    "time_iso": "2026-11-27T03:10:19+00:00",
    "history": [
@@ -280,6 +388,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 148
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 222
     }
    ]
   },
@@ -440,6 +552,22 @@
    ]
   },
   {
+   "id": "hn-50666724",
+   "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+   "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+   "hn_url": "https://news.ycombinator.com/item?id=50666724",
+   "score": 106,
+   "comments": 28,
+   "author": "robtherobber",
+   "time_iso": "2026-11-27T13:30:20+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 106
+    }
+   ]
+  },
+  {
    "id": "hn-50667062",
    "title": "Making a 3D fantasy map like a 16th-Century atlas",
    "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
@@ -500,8 +628,8 @@
    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
    "url": "https://bouncemarket.minhanhday.com/",
    "hn_url": "https://news.ycombinator.com/item?id=50667726",
-   "score": 341,
-   "comments": 115,
+   "score": 394,
+   "comments": 132,
    "author": "mday404",
    "time_iso": "2026-11-27T15:01:50+00:00",
    "history": [
@@ -516,6 +644,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 341
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 394
     }
    ]
   },
@@ -564,8 +696,8 @@
    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
    "hn_url": "https://news.ycombinator.com/item?id=50668145",
-   "score": 469,
-   "comments": 238,
+   "score": 557,
+   "comments": 306,
    "author": "scanr",
    "time_iso": "2026-11-27T15:40:31+00:00",
    "history": [
@@ -580,6 +712,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 469
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 557
     }
    ]
   },
@@ -628,8 +764,8 @@
    "title": "Convex skills send the user's app idea to a remote server without telling them",
    "url": "https://github.com/convex/convex-backend-skill/issues/64",
    "hn_url": "https://news.ycombinator.com/item?id=50669765",
-   "score": 255,
-   "comments": 80,
+   "score": 334,
+   "comments": 110,
    "author": "MickyTheMouse",
    "time_iso": "2026-11-27T18:02:45+00:00",
    "history": [
@@ -644,6 +780,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 255
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 334
     }
    ]
   },
@@ -796,8 +936,8 @@
    "title": "9/UX: a Macintosh-inspired desktop for 9front",
    "url": "https://progrium.github.io/9ux/",
    "hn_url": "https://news.ycombinator.com/item?id=50672008",
-   "score": 92,
-   "comments": 22,
+   "score": 147,
+   "comments": 38,
    "author": "rbanffy",
    "time_iso": "2026-11-27T21:48:14+00:00",
    "history": [
@@ -808,6 +948,10 @@
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 92
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 147
     }
    ]
   },
@@ -832,14 +976,18 @@
    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
    "url": "https://tabernet.es/",
    "hn_url": "https://news.ycombinator.com/item?id=50672521",
-   "score": 53,
-   "comments": 24,
+   "score": 169,
+   "comments": 58,
    "author": "mmcclure",
    "time_iso": "2026-11-27T23:00:30+00:00",
    "history": [
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 53
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 169
     }
    ]
   },
@@ -848,14 +996,18 @@
    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
    "hn_url": "https://news.ycombinator.com/item?id=50672565",
-   "score": 209,
-   "comments": 72,
+   "score": 480,
+   "comments": 173,
    "author": "ComputedCamp995",
    "time_iso": "2026-11-27T23:06:29+00:00",
    "history": [
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 209
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 480
     }
    ]
   },
@@ -880,14 +1032,130 @@
    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
    "url": "https://unkernel.dev",
    "hn_url": "https://news.ycombinator.com/item?id=50674218",
-   "score": 26,
-   "comments": 3,
+   "score": 437,
+   "comments": 117,
    "author": "nreece",
    "time_iso": "2026-11-28T03:19:20+00:00",
    "history": [
     {
      "t": "2026-11-28T12:29:33.547884+08:00",
      "score": 26
+    },
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 437
+    }
+   ]
+  },
+  {
+   "id": "hn-50674452",
+   "title": "Knuth: Moratorium on Error Reports",
+   "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50674452",
+   "score": 222,
+   "comments": 112,
+   "author": "ultraficial",
+   "time_iso": "2026-11-28T03:49:21+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 222
+    }
+   ]
+  },
+  {
+   "id": "hn-50676199",
+   "title": "Diablo II",
+   "url": "https://www.filfre.net/2026/11/diablo-ii/",
+   "hn_url": "https://news.ycombinator.com/item?id=50676199",
+   "score": 39,
+   "comments": 10,
+   "author": "doppp",
+   "time_iso": "2026-11-28T09:54:19+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 39
+    }
+   ]
+  },
+  {
+   "id": "hn-50676390",
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50676390",
+   "score": 85,
+   "comments": 28,
+   "author": "abedelez",
+   "time_iso": "2026-11-28T10:37:40+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 85
+    }
+   ]
+  },
+  {
+   "id": "hn-50676672",
+   "title": "Farewell",
+   "url": "https://github.com/p-e-w/heretic/issues/601",
+   "hn_url": "https://news.ycombinator.com/item?id=50676672",
+   "score": 323,
+   "comments": 119,
+   "author": "nolist_policy",
+   "time_iso": "2026-11-28T11:42:26+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 323
+    }
+   ]
+  },
+  {
+   "id": "hn-50676723",
+   "title": "Audible removes download option for purchased audiobooks",
+   "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+   "hn_url": "https://news.ycombinator.com/item?id=50676723",
+   "score": 22,
+   "comments": 7,
+   "author": "DeepLogin",
+   "time_iso": "2026-11-28T11:51:27+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 22
+    }
+   ]
+  },
+  {
+   "id": "hn-50676752",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "hn_url": "https://news.ycombinator.com/item?id=50676752",
+   "score": 36,
+   "comments": 17,
+   "author": "homarp",
+   "time_iso": "2026-11-28T11:57:04+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 36
+    }
+   ]
+  },
+  {
+   "id": "hn-50677091",
+   "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+   "url": "https://scriptor-pro.github.io/luciole-mono/",
+   "hn_url": "https://news.ycombinator.com/item?id=50677091",
+   "score": 29,
+   "comments": 13,
+   "author": "BaudouinVH",
+   "time_iso": "2026-11-28T12:50:15+00:00",
+   "history": [
+    {
+     "t": "2026-11-28T21:52:20.895890+08:00",
+     "score": 29
     }
    ]
   }
