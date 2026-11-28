@@ -1,7 +1,7 @@
 {
  "source": "github_search",
- "updated_at": "2026-11-28T06:28:24.123562+08:00",
- "count": 20,
+ "updated_at": "2026-11-28T12:29:34.281522+08:00",
+ "count": 24,
  "items": [
   {
    "id": "gh-1466325515",
@@ -83,7 +83,7 @@
    "id": "gh-1467247580",
    "title": "deterministic-machines/deslop-please",
    "url": "https://github.com/deterministic-machines/deslop-please",
-   "stars": 1326,
+   "stars": 1352,
    "language": "Rust",
    "description": "Bring (back) sanity to your code",
    "created_at": "2026-11-22T05:36:03Z",
@@ -95,6 +95,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1326
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1352
     }
    ]
   },
@@ -102,7 +106,7 @@
    "id": "gh-1467461515",
    "title": "crhywun/g1-acq",
    "url": "https://github.com/crhywun/g1-acq",
-   "stars": 1784,
+   "stars": 1810,
    "language": "JavaScript",
    "description": "",
    "created_at": "2026-11-22T10:53:17Z",
@@ -114,6 +118,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1784
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1810
     }
    ]
   },
@@ -121,7 +129,7 @@
    "id": "gh-1467519193",
    "title": "os6/nospeaker",
    "url": "https://github.com/os6/nospeaker",
-   "stars": 1990,
+   "stars": 1994,
    "language": "Swift",
    "description": "make your macbook's trackpad talk using its haptic motor",
    "created_at": "2026-11-22T12:05:54Z",
@@ -133,6 +141,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1990
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1994
     }
    ]
   },
@@ -140,7 +152,7 @@
    "id": "gh-1467880545",
    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "stars": 1646,
+   "stars": 1668,
    "language": "Rust",
    "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
    "created_at": "2026-11-22T18:50:17Z",
@@ -152,6 +164,25 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1646
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1668
+    }
+   ]
+  },
+  {
+   "id": "gh-1469320737",
+   "title": "Basil0879/steam-game-idler",
+   "url": "https://github.com/Basil0879/steam-game-idler",
+   "stars": 1150,
+   "language": "TypeScript",
+   "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+   "created_at": "2026-11-23T21:19:48Z",
+   "history": [
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1150
     }
    ]
   },
@@ -159,7 +190,7 @@
    "id": "gh-1469329665",
    "title": "Indigo-0167/universal-game-mod-manager",
    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-   "stars": 1370,
+   "stars": 1371,
    "language": "Rust",
    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
    "created_at": "2026-11-23T21:30:10Z",
@@ -171,6 +202,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1370
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1371
     }
    ]
   },
@@ -178,7 +213,7 @@
    "id": "gh-1469330932",
    "title": "solv4626/steam-achievement-manager-windows",
    "url": "https://github.com/solv4626/steam-achievement-manager-windows",
-   "stars": 1207,
+   "stars": 1236,
    "language": "Rust",
    "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
    "created_at": "2026-11-23T21:31:33Z",
@@ -190,6 +225,40 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1207
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1236
+    }
+   ]
+  },
+  {
+   "id": "gh-1469332110",
+   "title": "kai415-debug/ffmpeg-video-audio-converter",
+   "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+   "stars": 1136,
+   "language": "C++",
+   "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+   "created_at": "2026-11-23T21:32:56Z",
+   "history": [
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1136
+    }
+   ]
+  },
+  {
+   "id": "gh-1469333130",
+   "title": "Nebula4207/av1-video-encoder-gui",
+   "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+   "stars": 1107,
+   "language": "C#",
+   "description": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+   "created_at": "2026-11-23T21:34:14Z",
+   "history": [
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1107
     }
    ]
   },
@@ -197,7 +266,7 @@
    "id": "gh-1469338376",
    "title": "Umbra9179/clipboard-history-manager-windows",
    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
-   "stars": 1270,
+   "stars": 1272,
    "language": "C#",
    "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
    "created_at": "2026-11-23T21:40:15Z",
@@ -209,6 +278,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1270
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1272
     }
    ]
   },
@@ -216,7 +289,7 @@
    "id": "gh-1469344551",
    "title": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
-   "stars": 13785,
+   "stars": 13857,
    "language": "Rust",
    "description": "An attempt at running GTA VI on PC",
    "created_at": "2026-11-23T21:47:25Z",
@@ -228,6 +301,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 13785
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 13857
     }
    ]
   },
@@ -235,7 +312,7 @@
    "id": "gh-1469441675",
    "title": "ProjectLeonida/mandy",
    "url": "https://github.com/ProjectLeonida/mandy",
-   "stars": 2645,
+   "stars": 2969,
    "language": "Python",
    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
    "created_at": "2026-11-23T23:54:39Z",
@@ -247,6 +324,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 2645
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 2969
     }
    ]
   },
@@ -254,7 +335,7 @@
    "id": "gh-1469938415",
    "title": "ZigZagBoi1/ScarlettPort",
    "url": "https://github.com/ZigZagBoi1/ScarlettPort",
-   "stars": 1264,
+   "stars": 1356,
    "language": "Rust",
    "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
    "created_at": "2026-11-24T09:36:26Z",
@@ -266,6 +347,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1264
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1356
     }
    ]
   },
@@ -273,7 +358,7 @@
    "id": "gh-1470579726",
    "title": "fxceless/victory-fork",
    "url": "https://github.com/fxceless/victory-fork",
-   "stars": 3357,
+   "stars": 3364,
    "language": "Rust",
    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
    "created_at": "2026-11-24T18:02:37Z",
@@ -285,6 +370,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 3357
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 3364
     }
    ]
   },
@@ -292,7 +381,7 @@
    "id": "gh-1471422729",
    "title": "alesha-pro/llm.asm",
    "url": "https://github.com/alesha-pro/llm.asm",
-   "stars": 2147,
+   "stars": 2296,
    "language": "Assembly",
    "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
    "created_at": "2026-11-25T07:28:51Z",
@@ -304,6 +393,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 2147
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 2296
     }
    ]
   },
@@ -311,7 +404,7 @@
    "id": "gh-1471624301",
    "title": "nexu-io/opengame",
    "url": "https://github.com/nexu-io/opengame",
-   "stars": 2190,
+   "stars": 2393,
    "language": "TypeScript",
    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikT",
    "created_at": "2026-11-25T10:35:45Z",
@@ -323,6 +416,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 2190
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 2393
     }
    ]
   },
@@ -330,7 +427,7 @@
    "id": "gh-1472124387",
    "title": "Reukix/Reloc",
    "url": "https://github.com/Reukix/Reloc",
-   "stars": 1538,
+   "stars": 1785,
    "language": "Swift",
    "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
    "created_at": "2026-11-25T17:29:48Z",
@@ -342,6 +439,25 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 1538
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1785
+    }
+   ]
+  },
+  {
+   "id": "gh-1472319077",
+   "title": "lsernau/grh-lean",
+   "url": "https://github.com/lsernau/grh-lean",
+   "stars": 1065,
+   "language": "Lean",
+   "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+   "created_at": "2026-11-25T20:42:55Z",
+   "history": [
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 1065
     }
    ]
   },
@@ -349,7 +465,7 @@
    "id": "gh-1472451283",
    "title": "trustno1-coder/VIctory-NVIDIA",
    "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-   "stars": 2823,
+   "stars": 3888,
    "language": "Rust",
    "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Buil",
    "created_at": "2026-11-25T23:35:29Z",
@@ -361,6 +477,10 @@
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
      "score": 2823
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
+     "score": 3888
     }
    ]
   },
@@ -379,6 +499,10 @@
     },
     {
      "t": "2026-11-28T06:28:24.123562+08:00",
+     "score": 1505
+    },
+    {
+     "t": "2026-11-28T12:29:34.281522+08:00",
      "score": 1505
     }
    ]
